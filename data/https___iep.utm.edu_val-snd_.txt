@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+
+
+Validity and Soundness | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validity and Soundness
+A deductive argument is said to be valid if and only if it takes a form that makes it impossible for the premises to be true and the conclusion nevertheless to be false. Otherwise, a deductive argument is said to be invalid.
+A deductive argument is sound if and only if it is both valid, and all of its premises are actually true. Otherwise, a deductive argument is unsound.
+According to the definition of a deductive argument (see the Deduction and Induction), the author of a deductive argument always intends that the premises provide the sort of justification for the conclusion whereby if the premises are true, the conclusion is guaranteed to be true as well. Loosely speaking, if the author’s process of reasoning is a good one, if the premises actually do provide this sort of justification for the conclusion, then the argument is valid.
+In effect, an argument is valid if the truth of the premises logically guarantees the truth of the conclusion. The following argument is valid, because it is impossible for the premises to be true and the conclusion nevertheless to be false:
+Elizabeth owns either a Honda or a Saturn.
+Elizabeth does not own a Honda.
+Therefore, Elizabeth owns a Saturn.
+It is important to stress that the premises of an argument do not have actually to be true in order for the argument to be valid. An argument is valid if the premises and conclusion are related to each other in the right way so that if the premises were true, then the conclusion would have to be true as well. We can recognize in the above case that even if one of the premises is actually false, that if they had been true the conclusion would have been true as well. Consider, then an argument such as the following:
+All toasters are items made of gold.
+All items made of gold are time-travel devices.
+Therefore, all toasters are time-travel devices.
+Obviously, the premises in this argument are not true. It may be hard to imagine these premises being true, but it is not hard to see that if they were true, their truth would logically guarantee the conclusion’s truth.
+It is easy to see that the previous example is not an example of a completely good argument. A valid argument may still have a false conclusion. When we construct our arguments, we must aim to construct one that is not only valid, but sound. A sound argument is one that is not only valid, but begins with premises that are actually true. The example given about toasters is valid, but not sound. However, the following argument is both valid and sound:
+In some states, no felons are eligible voters, that is, eligible to vote.
+In those states, some professional athletes are felons.
+Therefore, in some states, some professional athletes are not eligible voters.
+Here, not only do the premises provide the right sort of support for the conclusion, but the premises are actually true. Therefore, so is the conclusion. Although it is not part of the definition of a sound argument, because sound arguments both start out with true premises and have a form that guarantees that the conclusion must be true if the premises are, sound arguments always end with true conclusions.
+It should be noted that both invalid, as well as valid but unsound, arguments can nevertheless have true conclusions. One cannot reject the conclusion of an argument simply by discovering a given argument for that conclusion to be flawed.
+Whether or not the premises of an argument are true depends on their specific content. However, according to the dominant understanding among logicians, the validity or invalidity of an argument is determined entirely by its logical form. The logical form of an argument is that which remains of it when one abstracts away from the specific content of the premises and the conclusion, that is, words naming things, their properties and relations, leaving only those elements that are common to discourse and reasoning about any subject matter, that is, words such as “all,” “and,” “not,” “some,” and so forth. One can represent the logical form of an argument by replacing the specific content words with letters used as place-holders or variables.
+For example, consider these two arguments:
+All tigers are mammals.
+No mammals are creatures with scales.
+Therefore, no tigers are creatures with scales.
+All spider monkeys are elephants.
+No elephants are animals.
+Therefore, no spider monkeys are animals.
+These arguments share the same form:
+All A are B;
+No B are C;
+Therefore, No A are C.
+All arguments with this form are valid. Because they have this form, the examples above are valid. However, the first example is sound while the second is unsound, because its premises are false. Now consider:
+All basketballs are round.
+The Earth is round.
+Therefore, the Earth is a basketball.
+All popes reside at the Vatican.
+John Paul II resides at the Vatican.
+Therefore, John Paul II is a pope.
+These arguments also have the same form:
+All A’s are F;
+X is F;
+Therefore, X is an A.
+Arguments with this form are invalid. This is easy to see with the first example. The second example may seem like a good argument because the premises and the conclusion are all true, but note that the conclusion’s truth isn’t guaranteed by the premises’ truth. It could have been possible for the premises to be true and the conclusion false. This argument is invalid, and all invalid arguments are unsound.
+While it is accepted by most contemporary logicians that logical validity and invalidity is determined entirely by form, there is some dissent. Consider, for example, the following arguments:
+My table is circular. Therefore, it is not square shaped.
+Juan is a bachelor. Therefore, he is not married.
+These arguments, at least on the surface, have the form:
+x is F;
+Therefore, x is not G.
+
+Arguments of this form are not valid as a rule. However, it seems clear in these particular cases that it is, in some strong sense, impossible for the premises to be true while the conclusion is false. However, many logicians would respond to these complications in various ways. Some might insist–although this is controverisal–that these arguments actually contain implicit premises such as “Nothing is both circular and square shaped” or “All bachelors are unmarried,” which, while themselves necessary truths, nevertheless play a role in the form of these arguments. It might also be suggested, especially with the first argument, that while (even without the additional premise) there is a necessary connection between the premise and the conclusion, the sort of necessity involved is something other than “logical” necessity, and hence that this argument (in the simple form) should not be regarded as logically valid. Lastly, especially with regard to the second example, it might be suggested that because “bachelor” is defined as “adult unmarried male”, that the true logical form of the argument is the following universally valid form:
+x is F and not G and H;
+Therefore, x is not G.
+The logical form of a statement is not always as easy to discern as one might expect. For example, statements that seem to have the same surface grammar can nevertheless differ in logical form. Take for example the two statements:
+(1) Tony is a ferocious tiger.
+(2) Clinton is a lame duck.
+Despite their apparent similarity, only (1) has the form “x is a A that is F.” From it one can validly infer that Tony is a tiger. One cannot validly infer from (2) that Clinton is a duck. Indeed, one and the same sentence can be used in different ways in different contexts. Consider the statement:
+(3) The King and Queen are visiting dignitaries.
+It is not clear what the logical form of this statement is. Either there are dignitaries that the King and Queen are visiting, in which case the sentence (3) has the same logical form as “The King and Queen are playing violins,” or the King and Queen are themselves the dignitaries who are visiting from somewhere else, in which case the sentence has the same logical form as “The King and Queen are sniveling cowards.” Depending on which logical form the statement has, inferences may be valid or invalid. Consider:
+The King and Queen are visiting dignitaries. Visiting dignitaries is always boring. Therefore, the King and Queen are doing something boring.
+Only if the statement is given the first reading can this argument be considered to be valid.
+Because of the difficulty in identifying the logical form of an argument, and the potential deviation of logical form from grammatical form in ordinary language, contemporary logicians typically make use of artificial logical languages in which logical form and grammatical form coincide. In these artificial languages, certain symbols, similar to those used in mathematics, are used to represent those elements of form analogous to ordinary English words such as “all”, “not”, “or”, “and”, and so forth. The use of an artificially constructed language makes it easier to specify a set of rules that determine whether or not a given argument is valid or invalid. Hence, the study of which deductive argument forms are valid and which are invalid is often called “formal logic” or “symbolic logic.”
+In short, a deductive argument must be evaluated in two ways. First, one must ask if the premises provide support for the conclusion by examing the form of the argument. If they do, then the argument is valid. Then, one must ask whether the premises are true or false in actuality. Only if an argument passes both these tests is it sound. However, if an argument does not pass these tests, its conclusion may still be true, despite that no support for its truth is given by the argument.
+Note: there are other, related, uses of these words that are found within more advanced mathematical logic. In that context, a formula (on its own) written in a logical language is said to be valid if it comes out as true (or “satisfied”) under all admissible or standard assignments of meaning to that formula within the intended semantics for the logical language. Moreover, an axiomatic logical calculus (in its entirety) is said to be sound if and only if all theorems derivable from the axioms of the logical calculus are semantically valid in the sense just described.
+For a more sophisticated look at the nature of logical validity, see the articles on “Logical Consequence” in this encyclopedia. The articles on “Argument” and “Deductive and Inductive Arguments” in this encyclopedia may also be helpful.
+Author Information
+The author of this article is anonymous. The IEP is actively seeking an author who will write a replacement article.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

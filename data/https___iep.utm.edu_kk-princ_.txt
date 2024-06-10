@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+
+
+KK Principle (Knowing that One Knows)  | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The KK (Knowing that One Knows) Principle
+In its simplest form, the KK principle says that, for any proposition p, if one knows that p, then one knows that one knows it. More complex formulations say that if one knows that p, then one is in a position to know that one knows it, and this is fleshed out in a variety of ways. One reason why philosophers are interested in the KK principle is its relevance to the question of whether epistemic logic is a branch of modal logic. An important issue in modal logic is whether necessary truths are necessarily necessary; the corresponding issue in modal epistemic logic is whether the KK principle holds. Another reason for interest in the principle is its relevance to the debate between internalists and externalists about knowledge. It is natural for internalists to endorse something like the KK principle, and for externalists to reject it. A third reason for interest in the KK principle is its connection to the paradox of the Surprise Examination. The reasoning which generates this paradox seems to assume that certain kinds of knowledge can be repeatedly iterated, and hence that something like the KK principle holds. A final reason for studying the principle is its relevance to recent debates about the luminosity of mental states (where a mental state is luminous iff, roughly, one cannot be in that state without being in a position to know that one is in it). If the KK principle holds, then knowledge is a luminous mental state; but there are powerful arguments against the luminosity of other mental states which seem to show that this cannot be the case.
+Table of Contents
+
+ Hintikka on the KK principle
+ Internalism, Externalism and the KK principle
+ The Surprise Examination and the KK principle 
+ Williamson’s Anti-Luminosity Argument
+ Replies to Williamson
+ References and Further Reading 
+
+ 1. Hintikka on the KK principle
+In his 1951, G.H. von Wright suggested that epistemic logic— the logic of the term “knows”— is a branch of modal logic— that is to say, the logic of possibility and necessity. Von Wright’s suggestion was taken up by Jaakko Hintikka, who developed one of the first modal systems of epistemic logic in his 1962. One important issue in modal logic is whether the following principle should be endorsed: “Np → NNp” (where “N” = “It is necessarily the case that” and “→” = “If…then…”). The corresponding issue in modal epistemic logic is whether the following principle should be endorsed: “Kp → KKp” (where “K” = “One knows that”). In chapter 5 of his 1962, Hintikka argues that it should.
+Hintikka’s arguments for this “KK principle” are hard to follow; but the gist of them (as clarified in his 1970) seems to be this:
+Suppose we say that evidence for a proposition, P, is conclusive iff it is so strong that, once one discovers it, further inquiry cannot give one reason to stop believing P. The concept of knowledge used by many philosophers seems to be a strong one on which one knows P only if one’s evidence for P is conclusive in this sense. It is plausible that the KK principle holds for this strong concept of knowledge. For it is plausible that one’s evidence for P is conclusive in the above sense only if it rules out the possibility that one does not know P, and thus only if it allows one to know that one knows P.
+To see this, suppose one has evidence, E, for a proposition P, and that E does not rule out the possibility that one does not know P. If E does not rule out this possibility, then, after one has discovered E, further inquiry can, in principle, reveal to one that one does not know P. But if further inquiry were to reveal this, then it would surely give one reason to stop believing P (since one should not believe things that one does not know). So it is plausible that, if E does not rule out the possibility that one does not know P, then it is not conclusive in the sense just defined, and hence plausible that, if knowledge requires evidence that is conclusive in this sense, the KK principle holds. (cf. Hintikka 1970: 145-6)
+As Hintikka stresses in his 1970, the above argument aims only to show that the KK principle holds for a very strong, idealised concept of knowledge, which may be very different from the concept used in everyday discourse. Because of this, Hintikka can sidestep objections which say that the principle conflicts with our everyday knowledge claims. One such objection says that, when the claim is made that someone knows that p, it cannot usually be claimed that they know that they know that p, that they know that they know that they know that p, and so on (cf. Rynin 1967: 29). The fact that one is not prepared to claim these things may show that the KK principle fails for our ordinary concept of knowledge, but it does not show that the principle fails for the strong concept that Hintikka has in mind. Similarly, the objection that the KK principle prevents knowledge from being ascribed to animals and young children (who lack the concept of knowledge and so cannot know that they know) is not problematic for Hintikka. For he can say that, when knowledge is ascribed to such subjects, the everyday concept of knowledge is being used rather than his strong concept.
+If the KK principle only holds for a concept of knowledge that is very different from our everyday concept, then why should one be interested in it? According to Hintikka, its interest derives from the fact that (in spite of the differences between our everyday concept and the strong concept) there are “many philosophers, traditional as well as contemporary” who use the strong concept of knowledge for which the principle holds (1970: 148). Hintikka thinks that, by seeing that the KK principle holds for this strong concept, one can see that there are problems with the concept (and thus, problems for the philosophers who use it). He argues for this by appealing to some ideas about the purpose of philosophical and scientific inquiry that are suggested by the work of Karl Popper.
+According to these Popperian ideas, philosophers and scientists should always aim to encourage inquiry and discussion; they should never try to bring it to an end. Because of this, they should not employ a concept of knowledge which requires conclusive evidence in Hintikka’s sense. For evidence for P which is conclusive in this sense renders further inquiry into P pointless, and so acts as a “discussion stopper.” And what philosophers and scientists should be aiming for is evidence that encourages further inquiry and discussion, rather than evidence that stops it. (Hintikka 1970: 148-9)
+Another problem for the strong concept of knowledge which Hintikka mentions briefly is that the standards that one must meet, in order to satisfy this concept, seem unrealistically high (1970: 149). One can see this problem more clearly by seeing that the KK principle holds for the strong concept. For, as shall be seen in section 3, there is reason to think that each iteration of one’s knowledge requires an improvement in one’s epistemic position. Because of this, the KK principle can seem to imply, implausibly, that one must be in a maximally strong epistemic position in order to know.
+ 2. Internalism, Externalism and the KK principle
+The debate over the KK principle is related to the debate between internalists and externalists about knowledge. The connection between the two debates can be illustrated by focusing on some examples of internalist and externalist theories.
+A good example of an internalist theory of knowledge is the classical “justified true belief” or JTB theory that was the target of Edmund Gettier’s 1963 article. According to the JTB theory, knowledge is true belief that is based on adequate evidence or reasons, where the adequacy of our evidence or reasons is something that one can determine by introspection and reflection.
+A good example of an externalist theory of knowledge is the reliabilist theory defended by Goldman (1979) and others on which knowledge is, roughly, true belief that is produced by a reliable process. The reliability of the processes that produce our beliefs is not something that one can determine by introspection and reflection; it is a matter for empirical investigation.
+In general, internalist theories of knowledge say that the property which distinguishes knowledge from mere true belief (which property, following Plantinga 1993a, can be called warrant) is internal to our cognitive perspective. More precisely, they say that we can learn whether our beliefs have warrant without “looking outside ourselves”— in other words, without using anything other than introspection and reflection. Externalist theories say that warrant may be external to our cognitive perspective, and that empirical investigation may be needed to ascertain which of our beliefs have it. The reliabilist theory described is just one example of an externalist theory. Others include the causal theory of knowledge defended by Goldman (1967) and the counterfactual theories defended by Dretske (1971) and Nozick (1981).
+It is natural for internalists to endorse something like the KK principle. For knowing that one knows that p is primarily a matter of knowing that one’s belief that p is warranted, and it is natural for internalists to say that one is always in a position to know whether one’s beliefs are warranted. Of course, to know that one knows that p, one must also know that one’s belief that p is true. But it seems clear that anyone who knows that p is in a position to know that their belief that p is true; so it is natural for internalists to endorse the KK principle.
+It is also natural for externalists to reject this principle. For, if warrant may be external to our cognitive perspective, then there is no special reason to expect those who know that p to be in a position to know that their belief that p is warranted. This can be seen this more clearly by focusing on the reliabilist theory of knowledge. If one’s belief that p is produced by a reliable process that one knows nothing about, then one may have no way of knowing that this belief constitutes knowledge, and thus no way of knowing that one knows that p.
+In light of the above points, it is natural to think that arguments for internalist theories of knowledge support the KK principle, and that arguments for externalist theories threaten it. Arguments for externalist theories are given by Goldman (1967, 1976), Armstrong (1973), Dretske (1971, 1981), Nozick (1981) and Plantinga (1993a and 1993b), and arguments for internalist theories by Chisholm (1966, 1988), Lehrer (1974, 1986) and BonJour (1985). Externalist theories are often motivated by a desire to understand knowledge in terms of scientific concepts, like causation and counterfactual dependence (cf. Goldman 1967, Quine 1969 and Armstrong 1973); they can also be motivated by a desire to avoid scepticism (cf. Nozick 1981). Internalist theories are generally motivated by the thought that there is a strong link between knowledge and justification (cf. Chisholm 1966, Lehrer 1974 and BonJour 1985); they can also be motivated by the related thought that knowledge is an essentially normative property (cf. BonJour 1985, Chisholm 1988 and Kim 1988). Whether these motivations for the two kinds of theory are good ones remains to be seen; but it is useful to see that they have a bearing not just on these theories, but also on the issue of whether the KK principle holds.
+However, it is important to realise that, while it is natural for internalists to endorse and externalists to reject the KK principle, it is not necessary for them to do so. Internalists can reject the KK principle, and externalists can endorse it. To see that internalists can reject the KK principle, note that it is possible to adopt a position on which one is not always in a position to know about the internal, mental properties that are normally accessible to introspection and reflection. Timothy Williamson holds a position of this kind; his arguments for it are described in section 4. To see that externalists can endorse the KK principle, note that one can say that the property that externalists identify with warrant— such as being caused in the right way, or being produced by a reliable process— is one that has to be known about in order to have knowledge. Alvin Goldman comes close to adopting a position of this kind in his 1967, when he argues that, in cases of inferential knowledge, a subject must “correctly reconstruct” important elements of the causal chain leading from the fact that p to their belief that p in order to have knowledge.
+Overall, it seems clear that, while the internalism/externalism debate is relevant to the KK principle, there are other issues that bear on its status. Some of these issues are described in the next two sections.
+ 3. The Surprise Examination and the KK principle
+There are a number of thinkers who hold that the KK principle, or something very like it, plays a crucial role in the Surprise Examination paradox (see Harrison 1969, McLelland and Chihara 1975 and Williamson 1992: 226-32 and 2000:135-146 for examples). Their view is, roughly, that the paradox can be solved by rejecting the principle. In what follows, a brief outline will be given of the paradox and the way in which the principle seems to be related to it. (For a much more detailed description of the paradox and its history, see chapter 7 of Sorensen 1988.)
+Suppose that a teacher announces to her pupils that she intends to give them a surprise examination at some point in the following term. The pupils can argue, as follows, that she will not be able to do this:
+If you want the exam to be a surprise, then you cannot give it on the last day of term; for if you do, then we will know, on the second-to-last day, that it will be on the last day, and the exam won’t be a surprise. You also cannot give the exam on the second-to-last day of term. For if you do, then we will know, on the third-to-last day, that it will be on either the last day or the second-to-last day, and will know, by the reasoning just described, that it will not be on the last day; so again the exam won’t be a surprise. Parallel reasoning shows that you cannot give the exam on the third-to-last day, or the fourth-to-last day, or on any of the other days of term. Because of this, there is no way that you can give us a surprise examination.
+It is natural to think there must be something wrong with the pupils’ reasoning; but it is hard to see where the reasoning goes wrong. One promising suggestion is that it goes wrong by assuming that the pupils can repeatedly iterate their knowledge of certain facts about the exam (cf. Williamson 2000: 140-1). To see that this suggestion is promising, the pupils’ reasoning needs to be divided into parts.
+Let part 1 of the pupils’ reasoning be the part that rules out the last day, let part 2 be the part that rules out the second-to-last day, and so on. Since part 2 of the pupils’ reasoning rests on the assumption that part 1 works, it is natural to say that part 2 works only if they know that part 1 works. And since part 3 rests on the assumption that part 2 works, it is natural to say that part 3 works only if they know that part 2 works, and thus, only if they are in a position to know that they know that part 1 works. Similar reasoning seems to show that part 4 works only if they are in a position to know that they know that they know that part 1 works, and so on. So the pupils’ reasoning seems to assume that they are in a position to repeatedly iterate their knowledge of the fact that part 1 works, and it is not at all clear that this assumption is correct.
+To see that the assumption is implausible, imagine that the teacher asks the pupils whether they know that part 1 of their reasoning works, and then asks them whether they know that they know this, and so on. It is plausible that, at some stage of this interrogation, the pupils should stop saying “Yes” to the teacher’s questions. For it is plausible that the epistemic standard that the pupils have to meet in order to appropriately say “Yes” goes up with each new question. If someone is asked whether it is the case that p, and when they say “Yes,” they are asked whether they know that it is the case that p, they are generally being asked to check their original assertion against higher standards (cf. DeRose 2002: 184-5).
+Because of this, it is plausible that the pupils cannot go on iterating their knowledge of part 1’s success forever. And if that is so, then there is a limit to the number of possible examination days that their reasoning can rule out. If there is such a limit, it can be used to explain why the pupils’ reasoning fails to show that the teacher cannot give them a surprise examination. The explanation is that they cannot iterate their knowledge of part 1’s success enough to rule out every day of the term.
+In defense of this explanation, note that the pupils’ reasoning does seem to rule out later days of the term as possible days for the exam. It is very plausible that part 1 of the reasoning rules out the last day of term as a possible date for the exam, and quite plausible that part 2 rules out the second-to-last day. But parts 3 and 4 seem more questionable, and by the time part 10 is gotten to, it is clear that something has gone wrong. The above explanation can account for this gradual loss of power in the pupils’ reasoning, by appealing to the gradual increase in the number of iterations of knowledge required to make the reasoning work (cf. Williamson 2000: 142).
+If the failure of the pupils’ reasoning is best explained in terms of limits on their ability to iterate their knowledge, then one seems obliged to say that their knowledge does not satisfy the KK principle. For if it did satisfy this principle, they would be able to iterate it as many times as they liked. The fact that the knowledge of the epistemically limited pupils does not satisfy this principle does not show that there are not other, more idealised kinds of knowledge that do. But it does suggest that the principle fails to hold for our everyday concept of knowledge, and hence that the best strategy for defending it is to follow Hintikka in arguing that it holds only for a strengthened version of this concept.
+ 4. Williamson’s Anti-Luminosity Argument
+The objection to the KK principle described in the last section is closely related to an objection given by Timothy Williamson. Williamson’s objection uses the concept of luminosity; for him, a condition, C, is luminous iff the following claim holds:
+(L) For every case α, if in α C obtains, then in α one is in a position to know that C obtains (2000: 95).
+If the KK principle holds, then the condition of knowing that p is luminous in Williamson’s sense. In chapter 4 of his 2000, Williamson argues that any condition that can be gradually gained or lost is not luminous, and that, since knowing that p is a condition that can be gradually gained or lost, the KK principle fails.
+Williamson argues against the luminosity of conditions that can be gradually gained or lost by focusing on the condition of feeling cold, which seems to stand a very good chance of being luminous. His argument is focused on a case in which:
+(i) One feels freezing cold at dawn, very slowly warms up and feels hot by noon.
+(ii) One is not aware of any change in one’s feelings of hot and cold over 1 millisecond, and:
+(iii) Throughout the morning, one thoroughly considers how cold or hot one feels, and so always knows everything that one is in a position to know about this.
+Using t0, t1… tn for times at 1 millisecond intervals between dawn and noon, and αi for the case that holds at ti (where 0 ≤ i ≤ n), Williamson argues that the following principle holds for all values of i:
+(1i) If in αi one knows that one feels cold, then in αi+1 one feels cold.
+He does so by appealing to the plausible safety principle that, if one knows that p, then one’s belief that p could not easily have been false. When this principle is formulated in terms of possible cases, it says: one knows that p in case α only if one’s belief that p is true in every possible case that is sufficiently similar to α. Since αi+1 is extremely similar to αi for every value of i, it is natural to infer from this principle that (1i) holds for all such values.
+After arguing that (1i) holds for all such values, Williamson points out that, if feeling cold is luminous, then this principle holds for all values of i:
+(2i) If in αi one feels cold, then in αi one knows that one feels cold. (2000: 97)
+He then attacks the luminosity of feeling cold by giving a reductio argument against the assumption that (1i) and (2i) hold for all values of i. One way of giving this argument (used in Neta and Rohrbaugh 2004) is to note that, by hypothetical syllogism, (2i) and (1i) together entail:
+(3i) If in αi one feels cold, then in α i+1 one feels cold.
+If (1i) and (2i) hold for all values of i, then (3i) also holds for all such values. And if it does, then this principle, which is clearly true:
+(40) In α0 one feels cold.
+(since α0 is at dawn and at dawn one is freezing) implies this principle, which is clearly false:
+(4n) In αn one feels cold.
+(since αn is at noon and at noon one is hot). No true principle can imply a false principle. So (3i) cannot hold for all values of i, which means that (1i) and (2i) cannot hold for all such values. It has been argued that (1i) holds for all such values; so it seems that (2i) must fail to hold for some of them. But if feeling cold were luminous then (2i) would hold for all values of i. So it seems that feeling cold cannot be luminous.
+If the above argument shows that the condition of feeling cold is not luminous, then parallel arguments will show the same thing for every condition that can be gradually gained or lost. Since the condition of knowing that p seems to be a condition of this kind, the above argument threatens to show that it is not luminous, and hence that the KK principle fails. But there are ways in which advocates of the KK principle, or of luminosity more generally, can respond to the argument. The next section describes two responses of this kind.
+ 5. Replies to Williamson
+One way of responding to Williamson’s argument is to claim, with Weatherson (2004) and Conee (2005), that sensations like feeling cold and being in pain are self-presenting mental states—that is to say, states that are identical with the belief that they exist. If a state is self-presenting, then the belief that it exists satisfies Williamson’s safety constraint; so if feeling cold is self-presenting, then Williamson’s defense of (1i) fails. However it seems clear that the state of knowing that p is not a self-presenting mental state; for one can believe that one knows that p without actually knowing it. So while this line of response may show that states like feeling cold and being in pain can be luminous, it seems unlikely to save the KK principle (as Weatherson and Conee both grant).
+Another way of responding to Williamson’s argument is to claim, with Brueckner and Fiocco (2002) and Neta and Rohrbaugh (2004), that the safety principle to which Williamson appeals is false. This line of response seems more likely to save the KK principle; one way of developing it is to focus on the following example (taken from Neta and Rohrbaugh):
+“I am drinking a glass of water which I have just poured from the bottle. Standing next to me is a happy person who has just won the lottery. Had this person lost the lottery, she would have maliciously polluted my water with a tasteless, odorless, colorless toxin. But since she won the lottery, she does no such thing. Nonetheless, she almost lost the lottery. Now, I drink the pure, unadulterated water, and judge, truly and knowingly, that I am drinking pure, unadulterated water. But the toxin would not have flavored the water, and so had the toxin gone in, I would still have believed falsely that I was drinking pure, unadulterated water. The actual case and the envisaged possible case are extremely similar in all past and present phenomenological and physical respects, as well as nomologically indistinguishable. (Furthermore, we can stipulate that, in each case, I am killed by a sniper a few minutes after drinking the water, and so the cases do not differ in future respects.)” [Neta and Rohrbaugh 2004: 400]
+It seems clear that, in this example, I know that I am drinking unadulterated water, despite the fact that there is a very similar possible case in which I falsely believe that I am drinking such water. So the example conflicts with the safety principle’s claim that beliefs constitute knowledge only if they are true in all sufficiently similar cases.
+Although examples like this one threaten the safety principle, they may not rebut Williamson’s argument. For the key premise of the argument— that (1i) is true for all values of i— can be defended in other ways. To see this, consider the following claim, which is the contrapositive of (1i):
+(1i‘) If in αi+1 one does not feel cold, then in αi one does not know that one feels cold.
+It is plausible independently of the safety principle that (1i‘), and thus (1i), holds for all values of i. For if one does not feel cold in αi+1 and one is not aware of any change in ones feelings of hot and cold between αi and αi+1, then how could one possibly know that in αi one feels cold?
+Even if it turns out that (1i) cannot be adequately defended, it may still turn out that the KK principle is rebutted by reasoning like Williamson’s. For it is possible to give an argument against the KK principle which closely resembles the anti-luminosity argument described above, but which does not appeal to (1i). This argument focuses on cases of inexact knowledge— that is to say, of the sort of knowledge that one gains by looking at a distant tree and estimating its height, or by looking at a crowd and estimating the number of people that it contains. In chapter 5 of his 2000, Williamson argues that such knowledge satisfies margin for error principles like the following:
+(M1) If I know that the tree is not n inches tall, then it is not n+1 inches tall.
+(M2) If I know that there are not n people in the crowd, then there are not n+1 people in the crowd.
+He then shows that, when principles of this kind are conjoined with a plausible closure principle on knowledge, they are incompatible with the KK principle.
+Although Williamson’s arguments against the KK principle are powerful, they can be resisted at a price. For, in all of their forms, they assume that some true beliefs constitute knowledge (such as a freezing cold person’s belief that they feel cold) and that others do not (such as an accidentally true belief that a 600-inch-tall distant tree is not 599 inches tall). The first of these assumptions can be denied by endorsing a skeptical theory on which no true belief constitutes knowledge and the second can be denied by endorsing a “universalist” theory on which every true belief constitutes knowledge. Although both theories have implausible consequences, recent work (such as Goldman 2002: 164 on weak senses of knowledge and Hawthorne 2004: 113-141 on skepticism) has revealed that both have attractive features. If the benefits of these theories outweigh their costs, then Williamson’s arguments against the KK principle may still fail. In any case, it seems fair to conclude that the KK principle, and the arguments for and against it, remain important subjects of philosophical debate.
+ 6. References and Further Reading
+
+Armstrong, D.M. 1973. Belief, Truth and Knowledge. Cambridge: Cambridge University Press.
+BonJour, L. 1985. The Structure of Empirical Knowledge. Cambridge, Mass.: Harvard University Press.
+Brueckner, A. and Fiocco, M.O. 2002. “Williamson’s Anti-Luminosity Argument,” Philosophical Studies 110: 285-293.
+Castaneda, H.N. 1970. “On Knowing (Or Believing) That One Knows (Or Believes),” Synthese 21: 187-203.
+Chisholm, R. 1966. Theory of Knowledge. Englewood Cliffs: Prentice-Hall.
+Chisholm, R. 1988. “The Indispensability of Internal Justification,” Synthese 74: 285-96.
+Conee, E. 2005. “The Comforts of Home,” Philosophy and Phenomenological Research 70: 444-451.
+Craig, E.J. 1990. Knowledge and the State of Nature. Oxford: Clarenden Press.
+Danto, A.C. 1967. “On Knowing That We Know,” in A. Stroll ed., Epistemology, New York: Harper and Rowe, pp.32-53.
+DeRose, K. 2002. “Assertion, Knowledge and Context,” Philosophical Review 111: 167-203.
+Dretske, F. 1971. “Conclusive Reasons,” Australasian Journal of Philosophy, 49: 1-22.
+Dretske 1981. Knowledge and the Flow of Information. Oxford: Blackwell.
+Gettier, E. 1963. “Is Justified True Belief Knowledge?” Analysis 23: 121-3.
+Ginet, C. 1970. “What Must Be Added to Knowing to Obtain Knowing that One Knows?” Synthese 21: 163-86.
+Goldman 1967. “A Causal Theory of Knowing,” Journal of Philosophy 64: 357-72.
+Goldman 1976. “Discrimination and Perceptual Knowledge,” Journal of Philosophy 73: 771-91.
+Goldman 1979. “What is Justified Belief?” In Justification and Knowledge: New Studies in Epistemology, ed. George Pappas (Dordrecth, D. Reidel, 1979).
+Goldman 2002. Pathways to Knowledge. New York: Oxford.
+Harrison, C, 1969. “The Unanticipated Examination in View of Kripke’s Semantics for Modal Logic,” In J.W. Davies, D.J. Hockney and W.K Wilson eds, Philosophical Logic (Dordrecht: Reidel).
+Hawthorne, J. 2004. Knowledge and Lotteries. New York: Oxford University Press.
+Hintikka, J. 1962. Knowledge and Belief. Ithaca, N.Y.: Cornell University Press.
+Hintikka, J. 1970. “Knowing that One Knows” reviewed. Synthese 21: 141-62.
+Kim, J. 1988. “What is Naturalized Epistemology?” in J.E. Tomberlin ed., Philosophical Perspectives 2: Epistemology (Atascadero/CA: Ridgeview Publishing Co.), pp.381-405.
+Lehrer 1970. “Believing that One Knows,” Synthese 21: 133-40.
+Lehrer 1974. Knowledge. Oxford: Clarendon Press.
+Lehrer 1985. “The Coherence Theory of Knowledge,” Philosophical Topics 14: 5-25.
+Lemmon, E.J. 1967. “If I Know, Do I Know that I Know?” in A. Stroll ed., Epistemology, New York: Harper and Rowe, pp.54-83.
+McLelland, J. and Chihara, C. 1975. “The Surprise Examination Paradox,” Journal of Philosophical Logic 4: 71-89.
+Neta, R. and Rohrbaugh, G. 2004. “Luminosity and the Safety of Knowledge,” Pacific Philosophical Quarterly 85: 396-406.
+Nozick, R. 1981. Philosophical Explanations. Oxford: Oxford University Press.
+Plantinga, A. 1993a. Warrant: The Current Debate. New York: Oxford University Press.
+Plantinga, A. 1993b. Warrant and Proper Function. New York: Oxford University Press.
+Quine, W.V.O. 1969. “Epistemology Naturalized,” in his Ontological Relativity and Other Essays. New York: Columbia University Press.
+Rynin, D. 1967. “Knowledge, Sensation and Certainty,” in A. Stroll ed., Epistemology, New York: Harper and Rowe, pp.8-32.
+Sorensen, R.A. 1988. Blindspots. New York: Oxford University Press.
+Unger, P. 1975. Ignorance: A Case for Scepticism. Oxford: Oxford University Press.
+Von Wright, G. 1951. An Essay in Modal Logic. Amsterdam: North-Holland Publishing Co.
+Weatherson, B. 2004. “Luminous Margins,” Australasian Journal of Philosophy 82: 373-83.
+Williamson, T. 1992. “Inexact Knowledge,” Mind, 101: 217-42.
+Williamson, T. 2000. Knowledge and its Limits. New York: Oxford University Press.
+
+Author Information
+David Hemp
+Email: david_hemp@hotmail.com
+Ireland
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

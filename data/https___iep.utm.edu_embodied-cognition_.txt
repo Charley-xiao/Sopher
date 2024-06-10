@@ -1,0 +1,316 @@
+
+
+
+
+
+
+
+
+
+Embodied Cognition | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Embodied Cognition
+Embodied Cognition is a growing research program in cognitive science that emphasizes the formative role the environment plays in the development of cognitive processes. The general theory contends that cognitive processes develop when a tightly coupled system emerges from real-time, goal-directed interactions between organisms and their environment; the nature of these interactions influences the formation and further specifies the nature of the developing cognitive capacities. Since embodied accounts of cognition have been formulated in a variety of different ways in each of the sub-fields comprising cognitive science (that is, developmental psychology, artificial life/robotics, linguistics, and philosophy of mind), a rich interdisciplinary research program continues to emerge. Yet, all of these different conceptions do maintain that one necessary condition for cognition is embodiment, where the basic notion of embodiment is broadly understood as the unique way an organism’s sensorimotor capacities enable it to successfully interact with its environmental niche. In addition, all of the different formulations of the general embodied cognition thesis share a common goal of developing cognitive explanations that capture the manner in which mind, body, and world mutually interact and influence one another to promote an organism’s adaptive success.
+Table of Contents
+
+ Motivation for the Movement 
+ General Characteristics of Embodied Cognition 
+
+ Primacy of Goal-Directed Actions Occurring In Real-Time 
+
+ Developmental Psychology 
+ Robotics/Artificial Life 
+
+
+ Form of Embodiment Constrains Kinds of Cognitive Processes 
+ Cognition is Constructive 
+
+
+ Embodied Cognition vs. Classicism/Cognitivism 
+ Philosophical Implications of the Embodied Cognition Research Program 
+
+ The Compatibilist Approach 
+ The Purist Approach 
+
+
+ References and Further Reading 
+
+ 1. Motivation for the Movement
+Although ideas applied in the embodied cognition research program can be traced back to the seminal works of Heidegger, Piaget, Vygotsky, Merleau-Ponty, and Dewey, the current thesis can be seen as a direct response and, in some cases, a proposed alternative to the cognitivist/classicist view of the mind, which conceptualizes cognitive functions in terms of a computer metaphor. The cognitivist/classicist research program can be defined as a rule-based, information-processing model of cognition that 1) characterizes problem-solving in terms of inputs and outputs, 2) assumes the existence of symbolic, encoded representations which enable the system to devise a solution by means of computation, and 3) maintains that cognition can be understood by focusing primarily on an organism’s internal cognitive processes (that is, specifically those involving computation and representation). Although this research program is still prevalent, a number of problems have been raised about its viability, including the symbol-grounding problem (Searle 1980, Harnad 1990), the frame problem, the common-sense problem (Horgan and Tienson 1989), and the rule-described/expertise problem (Dreyfus 1992).
+Embodied cognition theorists view cognitivist/classicist accounts as problematic for many reasons, but they are especially concerned that these accounts result in an isolationist assumption that attempts to understand cognition by focusing almost exclusively on an organism’s internal cognitive processes. Specifically, the concern is that if an isolationist assumption rests at the heart of the cognitivist/classicist research program, then the resulting explanations are inaccurate because they either underplay or completely overlook environmental factors that are essential to the formation of an accurate explanation of cognitive development. Consequently, this isolationist assumption is perceived to result in decreased explanatory power since it de-emphasizes two crucial factors that are needed to understand cognitive development: 1) the exact way organisms are embodied, and 2) the manner in which this embodied form simultaneously constrains and prescribes certain interactions within the environment. In its place, embodied cognition theorists favor a relational analysis that views the organism, the action it performs, and the environment in which it performs it as inextricably linked. Yet, before one can fully appreciate why embodied cognition theorists favor a relational over an isolationist analysis, it is necessary to discuss the theoretical assumptions that comprise the general embodied cognition framework.
+ 2. General Characteristics of Embodied Cognition
+Since the present embodied cognition research program is in its early stages, the general approach does not yet have hard and fast tenets that are agreed upon by all embodied cognition theorists. Consequently, this program is rather fluid, in that even the central researchers are striving to understand further exactly what is meant by embodied cognition. Yet, this should not prevent the characterization of the common assumptions found in most embodied cognition theories. The goal of this section is to highlight some of the most common theoretical assumptions shared by embodied accounts of cognition. The viewing of these assumptions together will provide a clearer picture of what embodied cognition roughly entails as a research program.
+Once again, the central claim of embodied cognition is that an organism’s sensorimotor capacities, body and environment not only play an important role in cognition, but the manner in which these elements interact enables particular cognitive capacities to develop and determines the precise nature of those capacities. Developmental psychologist Esther Thelen (2001) further clarifies the central claim of this research program in the following passage:
+To say that cognition is embodied means that it arises from bodily interactions with the world. From this point of view, cognition depends on the kinds of experiences that come from having a body with particular perceptual and motor capacities that are inseparably linked and that together form the matrix within which memory, emotion, language, and all other aspects of life are meshed. The contemporary notion of embodied cognition stands in contrast to the prevailing cognitivist stance which sees the mind as a device to manipulate symbols and is thus concerned with the formal rules and processes by which the symbols appropriately represent the world (xx).
+Although embodied cognition accounts vary significantly across disciplines in terms of the specific ways in which they attempt to apply the general theory, a few common theoretical assumptions can be found in just about any embodied view one examines. These further theoretical assumptions help to flesh out the central thesis, and include 1) the primacy of goal-directed actions occurring in real-time; 2) the belief that the form of embodiment determines the type of cognition; and 3) the view that cognition is constructive. Each theoretical assumption will be explained by considering the work of a theorist whose research exemplifies the particular theoretical assumption under investigation. The first theoretical assumption, the primacy of goal-directed actions occurring in real time, is explained by considering research in robotics/artificial life and developmental psychology.
+ a. Primacy of Goal-Directed Actions Occurring In Real-Time
+Embodied cognition theorists contend that thought results from an organism’s ability to act in its environment. More precisely, what this means is that as an organism learns to control its own movements and perform certain actions, it develops an understanding of its own basic perceptual and motor-based abilities, which serve as an essential first step toward acquiring more complex cognitive processes, such as language. Thus, goal-directed actions are described as primary for embodied theorists because these theorists argue that thought and language would not occur without the initial performance of these actions. In essence these low-level actions and movements are viewed as necessary for higher cognitive capacities to develop. In order to consider evidence in support of this initial theoretical assumption, one need only turn to the research of developmental psychologists Esther Thelen and Linda Smith (Thelen and Smith 1994, Thelen 1995). By briefly summarizing one of their numerous experiments on infant development, we can consider why many embodied cognition theorists characterize Thelen and Smith’s research as some of the most influential and convincing developmental evidence in support of this assumption that “thought grows from action and that activity is the engine of change” (Thelen 1995: 69). This discussion will highlight why the primacy of actions unfolding in real time is one of the defining theoretical assumptions of embodied accounts of cognition.
+ i. Developmental Psychology
+In order to understand how infants learn to reach, Thelen and Smith (1994) examined four different infants from the time the babies were 3 weeks old until they were 1 year old. What Thelen and Smith conclude is that each of the four infants faced unique problems in learning to reach based on their individual energy level, body mass and the different ways in which they initially tried to reach (that is, their pre-reaching behaviors). Given these different pre-reaching movements, each of the infants had to learn a different set of strategies for controlling their arms so that the ultimate solution was specifically tailored to address the unique problem the particular infant was encountering. Thus, each infant was eventually able to overcome these developmental obstacles and learn to reach the toys, but the specific ways in which they learned this behavior varied depending upon the specific problem they were encountering. To understand how these different reaching problems translated into unique reaching solutions, let’s consider two of the infants whose reaching approaches varied considerably: Gabriel and Hannah.
+Thelen and Smith describe Gabriel as an extremely active infant who was initially unable to successfully reach the toy because he would excitedly flap his arms, in seemingly random movements that were not focused enough to enable him to obtain the toy. Consequently, he had to learn to control these energetic movements so that this energy would become more focused. By learning to control these excited movements, he would then be able to produce a more controlled reaching-action that would propel his hand to the desired location. Gabriel eventually learned to reach toys after multiple unsuccessful attempts; however, these unsuccessful reaching attempts were instrumental in helping him realize how to adjust his muscle patterns so that a successful reaching pattern finally emerged that enabled him to focus his energy in the direction of the toy.
+In contrast to Gabriel’s need to control wildly energetic movements, Hannah encountered quite the opposite problem. Unlike Gabriel, Hannah is described as “a quiet, contemplative infant who was visually alert and socially responsive, but motorically less active” (Thelen and Smith 1994: 259). Consequently, she did not encounter control problems, but suffered from the inability to generate enough force to overcome gravitational forces and propel her arm forward. Like Gabriel, Hannah learned to exert the proper amount of force needed to successfully reach an object through trial and error. However, her initial reaches were closer to an adult pattern than Gabriel’s because her slow movements enabled her to have more control over where her hand would encounter the toy. Thelen and Smith (1994) conclude that:
+Hannah’s problem was different from Gabriel’s, but it was also the same. She, like Gabriel, had to adjust the energy of forces moving her arm—in her case to make her arm sufficiently stiff or forceful to lift it off her lap. What Gabriel and Hannah had in common, therefore, was the ability to modulate the forces they delivered to the arms to change their ongoing, but non-functional patterns to movements that brought their hands close enough to the toys for them to make contact. Their solutions were discovered in relation to their own situations, carved out of their individual landscapes, and not pre-figured by a synergy known ahead by the brain or the genes (260).
+The importance of Thelen and Smith’s research becomes clear when we contrast their conclusions with the manner in which change is explained in other leading developmental theories. Thelen notes that in other theories change is explained by appealing to “some deus ex machina—’the genes,’ ‘maturation of the brain,’ ‘a shift into a new stage,’ or ‘an increase in information-processing capacity’” (Thelen 1995: 91). Such moves are problematic, Thelen argues since they merely push the level of explanation back a step so that in order to fully understand how change occurs this new theoretical mechanism must also be explained. Moreover, Thelen notes that the unique problems encountered and solved by individual infants make it extremely unlikely that the solutions were innate, since no internal mechanism could know in advance the specific “energy parameters of the system” (Thelen 1995: 90).
+In contrast to these ungrounded attempts at explanation, Thelen and Smith claim to provide a theoretically-grounded, emergent conception of change by explaining change in terms of a dynamical systems framework, in which the challenge is “to understand how the system can generate its own change, through its own activity, and within its own continuing dynamics, be it the spring-like attractors of the limbs or the neural dynamics of the brain” (Thelen 1995: 91).
+One advantage of a dynamic systems analysis is that it can account for how different infants must learn unique pre-reaching strategies based on their specific energy level, body mass and the different ways in which they initially tried to reach (that is, their pre-reaching behaviors). Yet, despite these different techniques, Thelen and Smith’s account still identifies the common factors that all of the infants had to learn to control: the various forces surrounding arm control, such as gravitational resistance. By developing a dynamical systems analysis of reaching behavior, Thelen and Smith provide a theoretical mechanism that tries to explain the exact way in which these different forces interact. The resulting analysis tracks how activity brings about changes in the system, so that new types of behavior emerge from behaviors the system already knows. This means of generating new patterns from those that already exist results in ‘environmental scaffolding’, since a new behavior is generated from the current resources of the system. Moreover, this dynamic systems analysis enables the researcher to track how the different movements/actions change and evolve over time. Consequently, behaviors, such as reaching, are explained in terms of interactive forces, which are mathematically understood since they are grounded in the physics of action.
+One possible objection to a dynamic systems analysis of development is that this research program is limited because it will only be able to account for low-level, goal-directed action (that is, walking, reaching, etc.). Although this in itself would be a step forward, the ultimate goal is to also explain the diachronic emergence of higher-level cognitive abilities. Thus, in order to even have a chance at explaining cognitive complexity, a dynamical systems approach must bridge the gap between explaining how individuals acquire new lower-order activity patterns and explaining how they acquire higher order activity patterns, such as learning to categorize. In answer to this concern, Thelen argues that the infant’s ability to gain control over its body in order to perform various activities enables the infant to simultaneously learn certain categories. More specifically, the infant learns “that a certain category of force dynamics is appropriate for a certain class of tasks” (Thelen 1995: 95). For instance, infants learn that objects in front of them can be fun to play with. Therefore, these infants work to remember the ways in which they must change their muscle patterns in order to manipulate forces, which enables them to reach the object. Consequently, after a certain number of experiences with particular perceptual events (e.g., the toy in front of them), infants begin to recognize that action oriented solutions to these events are also generalizable (e.g., class of reaching toy behaviors). It is in this way that infants begin to associate particular patterns of force with particular events in the world. Thelen further explains that:
+These early movements often look to be entirely without form or meaning. But if what neuroscientists tell us about the plasticity of the brain and how it changes is correct, infants are also continually learning something about the perceptual-motor systems and their relations to the world in their repeated spontaneous activity. That is, what infants sense and what they feel in their ordinary looking and moving are teaching their brains about their bodies and about their worlds. They are in fact exploring what range of forces delivered to their muscles get their arms in particular places and then learning from their exploration, remembering how certain categories of forces get their hands forward toward some-thing interesting (90).
+Consequently, infants must learn how to perform certain activity patterns, such as reaching, and then remember when it is appropriate to generate those patterns again to achieve a desired goal. In order to effectively perform these behaviors at the appropriate times, the infant must learn to categorize particular situations and correctly apply the action solution that corresponds with that situation. For example, if a baby learns how to control its arm muscles so that it can reach a toy it desires, then it will not take long for the infant to realize that the same type of reaching behavior can also be used to grasp food. It is in this sense that the behaviors become generalized as the infant learns to use its body to explore its environment. Moreover, one might argue that the generalized categories formulated to perform these reaching behaviors could be viewed as one instance of intentional categorization emerging from action of a dynamical system.
+Next, an examination of research conducted in the growing field of robotics/artificial life will further clarify why the primacy of action occurring in real time is a defining theoretical assumption that guides research in all areas of embodied cognition.
+ ii. Robotics/Artificial Life
+Until recently, almost all of the robots built in the field of artificial intelligence were constructed according to the stored-description model. Building systems, according to the stored-description technique, requires programmers to guess at the conditions the robot will encounter, and then to spell out all of the relevant information that is needed for the system to generate an appropriate response in its environment. Determining what information to include in the system is difficult, since the programmer must anticipate everything the robot will need to know to perform its task as well as providing the robot a response to any unexpected environmental features that might throw it off task. This process of explicitly stating all of the necessary information is further complicated by the fact that the system does not start with any prior knowledge, or even a simplistic understanding of the kinds of things existing in the world. So, even if all of the relevant information is correctly represented in the system, there are still no guarantees the robot will correctly perform its task, since it must then determine what makes a piece of information relevant in one situation and not in another. Given these challenges, robots utilizing the stored description model are very brittle and tend to malfunction in environments when they encounter unexpected events, or multiple soft constraints.
+In the early 1980’s, MIT roboticist Rodney Brooks became dissatisfied with the stored-description approach as well as with the general direction of artificial intelligence research. Although systems were being built that could play chess and calculate taxes, behaviors commonly associated with higher cognitive functions, Brooks argued that little progress was being made on developing systems that could quickly perform simple environmental tasks. After all, if one of the goals of robotics is to simulate how human cognitive processes work, then constructing robots only according to the stored description approach becomes problematic if these robots cannot adapt and change with their environment; abilities attributed to even simpler organisms, like insects. Therefore, Brooks decided to try to build a robot that could thrive in an environment without utilizing a central planning facility; the result was Herbert.
+Herbert was designed to wander around the MIT lab disposing of empty soda cans. Although Herbert’s task might seem relatively simple, to accomplish it successfully he had to perform a number sub-tasks; including identifying empty soda cans from full ones, avoiding the stationary tables and chairs in his path, and maneuvering around the seldom-stationary people who also inhabit the lab. In order to efficiently accomplish his task of can removal, Herbert relied on what Brook’s called a “subsumption architecture,” which consisted of a number of connected layers, each responsible for performing a specific task; actions emerged from the suppression or activation of various sub-systems. As Herbert moved through his environment, he continuously encountered stimuli, which dictated which layer was activated at any given time. For instance, once Herbert’s object-detection layer successfully detected a wall obstructing its path, it activated the object-avoidance layer, which shut down the layer responsible for forward motion. The various connected layers plus the environmental stimuli ultimately determine the suppression or activation of a particular layer. Brooks argued that the subsumption architecture enables Herbert to “use the world as its own best representation” since Herbert does not need to refer to a detailed map of his surroundings before determining how to react. Instead, in systems such as Herbert, an effective interface is continually recreated between the system and the world without relying on a central planning facility to dictate commands, or encoding classicist representations.
+Brook’s subsumption architecture provided an alternative to the stored-description architecture by demonstrating that a robot could quickly react in its environment without the aid of a formal plan. From a design perspective, this development was an important accomplishment since a smart tradeoff was achieved; a fast reaction time was gained by developing sub-systems/layers that generated behaviors that reacted to types of phenomena (that is, avoiding walls in general) instead of tokens (that is, avoiding wall #3). Since Herbert’s task could be successfully executed without needing to re-identify one wall from the next, Herbert’s wall avoidance layer reacts to every wall in the same manner—by avoiding it. Consequently, knowledge of tokens was traded for knowledge of types in a manner that promoted speed.
+In summary, Brooks’ research in artificial life, as well as the research of many other roboticists (see also Mataric 1992, Agre and Chapman 1997, Tilden 1999, Mataric, Clancey 1997), helps to clarify the first theoretical assumption of embodied cognition: the primacy of goal-directed action occurring in real time. One reason that Brooks’ research is an excellent example of this theoretical assumption is his emphasis on developing robots that employ quick, cost-effective solutions to “everyday” problems encountered in an environment. Although much more progress needs to occur in Artificial Life before architectures are developed that are capable of explaining behaviors associated with higher cognitive processes, these early architectures are still able to do something the classicist/cognitivist systems have not: provide a preliminary attempt at modeling some of the simple, low-level behaviors that are necessary for survival.
+In addition, the earlier examination of Thelen and Smith’s research provides us with another example of why embodied cognition accounts maintain that action occurring in real time is the essential to understanding cognitive development. Specifically, a dynamic systems analysis is capable of tracking the way in which behaviors evolve and unfold over time; this real-time analysis is completely missing from current classicist/cognitivist accounts of developmental change.
+ b. Form of Embodiment Constrains Kinds of Cognitive Processes
+The next theoretical assumption to which most embodied cognition theorists ascribe is the belief that the embodiment of an organism simultaneously limits and prescribes the types of cognitive processes that are available to it. In other words, the particular way in which an organism is embodied (e.g., whether it has feet, fins, eyes, a tail, etc.) will influence how it performs goal-directed actions in the world, and the particular sensorimotor experiences connected with these actions will serve as the basis for category and concept formation.
+To illustrate this point, consider how two very different organisms, a child and a puppy, will try to play with a ball. If the child wishes to get the ball, she will most likely use her hands, but she could also use her feet. Yet, she will not normally use her mouth to get the ball, even if the size of the ball does not preclude this option. This is because, aside from being culturally frowned upon, the other options enable greater control, are easier to perform, and are culturally sanctioned. However, a puppy has fewer options, and will most likely grab the ball with its mouth, since its particular form of embodiment will not enable it to grasp the ball with its paws. Although there are further differences related to how the child and puppy can perceive and interact with the ball, including the fact that the child’s visual system will include color cues, while the dog’s visual system will only enable it to see the ball in black and white, the important point is that, in each case, the way the organism is embodied constrains the options available to it.
+A further point is that each of these different types of interactions (that is, grabbing with one’s hands, clutching with one’s mouth, pouncing with one’s paws, etc.) has its own set of corresponding sensorimotor experiences, which directly influence how the organism interacts with the object. This is because the continuous feedback from these sensorimotor experiences serves as the basis for how the organism understands a specific interaction. Moreover, since activities always take place in a specific environmental context, such as when a child plays soccer with a friend on a spring day, the sensorimotor driven understanding of the situation that is gained from performing the activity in these circumstances can further inform how the organism might carry out future attempts at performing the same activity.
+In general, environmental factors are very important because they can influence not only what options are available to a particular organism, but also why an organism might choose one option over another when performing a particular goal-directed activity. For instance, weather conditions, the size of the ball, the rules of the game, and whether or not an individual has any broken limbs will most likely factor into their decision to throw the ball, or kick it. Yet, all of this person’s past experiences with an object in these varied activity-based contexts will in some way contribute to their current understanding of the activity. The individual’s understanding of these past experiences is directly informed by the kinds of sensorimotor experiences their form of embodiment allows.
+The various sensorimotor experiences that occur while performing an action in a particular environmental context further specify the type of categories/concepts the organism is capable of forming. For instance, it is common for a small child to have a basic understanding of concepts related to macroscopic objects, such as grass, that are likely to exist in her immediate environment, while having little to no real understanding of concepts related to microscopic objects, such as bacteria, that might be found in the same environment. It is not surprising that the child gains an understanding of the macroscopic first, because these objects are the ones that she can see, taste, feel, hear, and smell unaided. In other words, she has sensorimotor experiences that are directly linked to the macroscopic objects in her environment, and these experiences serve as the foundation for concept formation. Not surprisingly, direct experience of microscopic entities will most likely occur later in the child’s life, when she is introduced to tools, such as a microscope, that will enable the detection of these entities. The child can also acquire indirect knowledge of microscopic entities if the explanation is cast in terms of those things that she already does understand, namely entities found on the macroscopic level.
+In conclusion, the way in which we are embodied determines the type of action patterns we can perform and these action patterns shape our cognitive functions (that is, the way in which we can conceptualize and categorize). This is because most embodied cognition theorists argue that category and concept formation is made possible and constrained by the particular sensorimotor experiences of the organism. It is in this sense that the form of embodiment partly determines the kind of cognitive processes available to the organism. Psychologists, such as Barsalou (1983, 1997), Glenberg (1997,1999), and Thelen and Smith (1994), are but a few of the cognitive scientists who adopt this theoretical assumption even though the specific content of their individual views varies. For instance, Glenberg (1997) illustrates how cognition results from embodiment due to’mesh,’ which refers to the particular way in which affordances, knowledge, and goals combine. Yet, Barsalou (1997) develops a theory of simulation, and as demonstrated earlier, Thelen and Smith (1994) explain the emergence of this theoretical assumption according to a dynamical systems framework. Thus, all of these individuals agree with the theoretical assumption that the form of embodiment partly determines the cognitive processes available to the organism, but they still debate precisely how this occurs.
+ c. Cognition is Constructive
+If the way we conceptualize and categorize is based on the way we are embodied, then according to embodied cognition theorists these concepts and categories are actively constructed and not merely apprehended wholesale from an observer-independent environment. The point here is that the way in which we are embodied not only constrains the way we can interact in the world, but our particular form of embodiment also partly determines the way the world appears to us. In effect, it does not follow from the existence of an observer-independent world that this world is seen in the same manner by all organisms. Instead, the claim is that certain environmental features are re-constructed depending upon a number of relevant factors, including the task at hand (that is, the goal-oriented action being performed), the functioning sensorimotor modalities, the vantage point of the organism, the form of embodiment, etc. The basic idea is that the organism actively constructs a sensorimotor representation that is based on those environmental features that are directly relevant to the goal-directed action it is currently performing. Consequently, environmental space X could be viewed differently by the same organism depending on the type of task the organism is performing in that space, primarily because the goal-directed activity determines which environmental features are relevant to the successful performance of the activity. For instance, individuals attend to different features when they are preparing to mow a stretch of grass with a lawn mover, than when they are playing soccer on it later the same day. This is because the environmental features one must observe to successfully mow the lawn are different from those that impact playing soccer well.
+In direct contrast to viewing cognition as actively constructed from select environmental features, the cognitivist/classicist assumption is that the world has a set of pre-given features that are passively retrieved from the environment through representations that mirror the world; the way the organism is built and its particular goal-directed actions are not viewed as integral to the cognitivist/classicist analysis. Yet, embodied cognition theorists question the evolutionary viability of viewing cognition as passive retrieval; they maintain it is too time-consuming and unnecessary for organisms to formulate representations that completely mirror environmental features that are unrelated to the goal-directed activity the organism is currently performing. In response, the classicist/cognitivist might argue that a more serious problem results if you do claim that the embodiment of an organism determines how it will view the world; the very existence of an observer-independent world is called into question if an organism’s understanding of the world is constructed.
+The embodied cognition theorist might respond that the classicist/cognitivist has misinterpreted what it means to claim that cognition is a constructive process. By constructive, Embodied theorists do not mean to imply that there is no objective, external reality and that everything is subjective. Instead, the point is that a type of mutual specification occurs between the organism and its environment, so that the way the world looks and the way in which the organism can interact in the world is primarily determined by the way the organism is embodied. So, an observer-independent world can be granted, but embodied cognition theorists claim that an organism will understand this world in terms of the unique sensorimotor relations it experiences. These fundamental sensorimotor experiences achieved through acting in the world are actively constructed to facilitate concept formation. For instance, we view our bodies as having distinct fronts and backs. Due to the characteristics we associate with each of these bodily spatial relations, linguist George Lakoff and philosopher Mark Johnson (1999) argue that we also characterize objects in the world according to these assignments (that is, go to the front of the house, that is the back of her shirt, etc.). This process is considered to be constructive because we project these characteristics onto the world because they reflect the foundational understanding we have of our own bodies.
+Consequently, if we were embodied differently then we would not see the world in this particular way, but in terms of our new set of defining bodily characteristics. However, by taking into account the bodies that we do have, our actual projected spatial assignments can be traced back to sensorimotor experience, which enables the formation of spatial schemas that are projected onto a scene to facilitate reasoning without the use of deductive logic. These schemas are constructive because they do not mirror what exists in the world. Instead, these schemas structure elements within the world in such a way that the individuals can understand their environment quickly. Given this, it should not be surprising that one way for an organism to interpret its environment is in terms of something it already knows well: its own bodily interactions.
+A number of arguments in support of the constructive nature of cognition are also offered In The Embodied Mind, in which cognitive scientist Francisco Varela, philosopher Evan Thompson and psychologist Eleanor Rosch argue at length that color “provides a paradigm of a cognitive domain that is neither pre-given nor represented but rather experiential and enacted” (1991:171). Specifically, Varela, Thompson, and Rosch maintain that our ability to see colors results from the active interplay of various sensorimotor modalities. The interconnected way in which these different sensorimotor modalities mutually affect one another is clearly demonstrated in the case of the colorblind painter; a neurological case study from which Varela et al are not merely arguing that color is constructive as a result of the visual system, but they are making the stronger claim that “color perception partakes of both other visual and sensory modalities” (164).
+In this case study, a painter (hereafter Mr. I) who completely lost his ability to see colors after a car accident finds that this loss directly affected the way he experienced other sensorimotor experiences, such as taste and sound. As a result of his accident, he was only able to see the world in varying degrees of black, white and gray. Moreover, Mr. I was not able to imagine colors, dream in colors, or remember what colors looked like. Since he was no longer viewing the world as colored in any of these ways, Mr. I reported that the nature of his experience of the world was also affected dramatically. Reportedly, everything around him “had a distasteful, ‘dirty’ look, the whites glaring, yet discolored and off white, the black cavernous-everything wrong, unnatural, stained, and impure.” Due to this abrupt change in the way he was viewing his environment, he stated that he was no longer able to have sex or enjoy food. Moreover, Mr. I was not able to enjoy music to the degree he had before the accident since he was no longer able to visually transform musical notes into color sequences.
+After living with this condition for some time, Mr. I remarked that while he was initially upset about his inability to perceive color, he now no longer misses it. In fact, he reported that his actions, tastes and behaviors have naturally adjusted over time to reflect that of a night person. He stated that “I love the night time….I often wonder about people who work at night. They never see the sunlight. They prefer it….It’s a different world: there’s a lot of space—you’re not hemmed in by streets, people….It’s a whole new world. Gradually I am becoming a night person. At one time I felt kindly toward color, very happy about it….Now I don’t even know it exists—it’s not even a phantom” (164). Varela et al. concluded that:
+This description provides rare insight into how our perceived world, which we usually take for granted, is constituted through complex and delicate patterns of sensorimotor activity. Our colored world is brought forth by complex processes of structural coupling. When these processes are altered, some forms of behavior are no longer possible. One’s behavior changes as one learns to cope with new conditions and situations. And, as one’s actions change, so too does one’s sense of the world. If these changes are dramatic enough—as in Mr. I’s loss of color—then a different perceived world will be enacted (164).
+This case is meant to illustrate that if one’s ability to see color is completely removed, then other sensorimotor experiences are also affected. Varela et al. argue that since vision is not the only modality affected by Mr. I’s accident, his condition provides some insight into the way in which “perception and action, sensorium and motorium, are linked together as successively emergent and mutually selecting patterns” (163).
+Although color is but one example of the way in which cognition is constructive, the above case study might prompt one to ask what is the proper or correct way to view the world? According to Embodied theorists, the answer is that there is no single proper or correct way of viewing the world, since being able to correctly see the world translates into using whatever sensorimotor modalities one has to act successfully in one’s environment. Moreover, since an organism’s sensorimotor apparatus determines the way it will experience the world, many embodied theorists argue that instead of assuming that every organism shares the exact same view of the world (that is, we all view an objective reality in the same way), it makes more sense to acknowledge that an organism’s particular view of the world is the direct result of its functioning sensorimotor experiences. The point is that an organism’s knowledge of the world is primarily through its experiences within the world and these experiences are constrained by the types of functioning sensorimotor modalities it has. When one of these modalities is impaired, then its experience of the world will similarly be affected on multiple levels, since these modalities influence one another. The case of the colorblind painter illustrates the cross-modal natures of sensori-motor experience by showing that the impairment of one modality (color) affected the way the world was experienced in other modalities (taste, sound, etc.) to the point that certain previously performed actions suddenly no longer make sense. Therefore, the type of structural coupling that enables color perception to occur is a paradigm example of constructive cognition.
+The theoretical assumption that at least some forms of cognition are constructive is supported by a growing number of theorists from a variety of disciplines. Varela et al. argue that the coupling that occurs between organism and environment results in constructive cognition. Lakoff and Johnson (1999) argue that cognition is constructive since it involves projecting schemas (e.g., bodily) and combining these schemas to create a metaphorical understanding of the world. Glenberg (1997, 1999), Damasio (1994), and Fauconnier and Turner (2002) are but a few of the cognitive scientists who maintain that cognition is in some way constructive. Thus, this theoretical assumption is becoming more widely supported in the embodied cognition literature.
+ 3. Embodied Cognition vs. Classicism/Cognitivism
+Based on the analysis of the above theoretical assumptions of embodied cognition, it is now possible to directly contrast the central themes of the embodied cognition research program with those commonly expressed in the classicist/cognitivist research program:
+
+
+
+Classicist/Cognitivist View
+Embodied Cognition View
+
+
+1. Computer metaphor of mind; rule-based, logic driven.
+1. Coupling metaphor of mind; form of embodiment + environment + action constrain cognitive processes.
+
+
+2. Isolationist analysis – cognition can be understood by focusing primarily on an organism’s internal processes.
+2. Relational analysis-interplay among mind, body, and environment must be studied to understand cognition.
+
+
+3. Primacy of computation.
+3. Primacy of goal-directed action unfolding in real time.
+
+
+4. Cognition as passive retrieval.
+4. Cognition as active construction based upon an organism’s embodied, goal-directed actions
+
+
+5. Symbolic, encoded representations
+5. Sensorimotor representations
+
+
+
+Although most embodied cognition accounts do adhere to the theoretical assumptions outlined in this entry, it is important to recognize that this rapidly changing research program encompasses a diverse group of theorists, who are continuing to refine and revise the preliminary theoretical assumptions associated with the embodied cognition view. Consequently, some accounts may reject one of the outlined assumptions, yet still identify as an embodied account of cognition.
+ 4. Philosophical Implications of the Embodied Cognition Research Program
+The ultimate claim of embodied theorists is that new insights into previously unanswered questions concerning cognitive development will be attained if cognitive scientists re-orient their approach and conduct research in a manner that acknowledges the crucial links existing among an organism’s brain, body, and world. Yet, this immediately begs the question: what does it mean for researchers to re-orient their approach? Once again, there is no consensus among the embodied cognition theorists as to what this re-orientation entails; however; there are currently two distinct views concerning how cognitive scientists should apply the general embodied cognition thesis, each with different methodological implications.
+ a. The Compatibilist Approach
+The Compatibalist Approach to Embodied Cognition involves using a variety of methods to explain cognitive processes. In some cases, the phenomena will call for a classicist/cognitivist analysis and in other cases the methods associated with the embodied cognition framework will make more sense. Researchers who endorse this compatibalist view, such as philosopher Andy Clark (1997), argue that it would be a mistake to completely dispense with the theoretical tools associated with classicist/cognitivist models, especially since it is unclear if embodied cognition accounts will be able to adequately explain higher level processes (e.g., meta-cognitive states such as the ability to think about one’s own thoughts) without invoking on some level a computational or representational analysis. In short, embodied cognition theorists who endorse a compatibalist view to research are hedging their bets, and leaving open the possibility of utilizing tools from multiple theoretical frameworks. A potential problem with compatibalist conceptions is that it is not clear how mechanisms/tools derived from opposing theoretical frameworks can be successfully linked together, since these frameworks employ at best different, and at times mutually exclusive, assumptions about the world (that is, cognition is constructive vs. cognition is passive). Given this, one might question how mechanisms derived from a cognitivist framework can hook-up and mutually inform mechanisms derived from embodied frameworks so that a theoretically viable explanation emerges despite the fundamental theoretical differences. Perhaps it is this very concern that has led some embodied cognition theorists to endorse a more stringent form of embodied cognition: the purist approach to embodied cognition.
+b. The Purist Approach
+The Purist Approach to Embodied Cognition is often characterized as the radical version of the embodied cognition thesis because researchers who adopt it argue that the classicist/cognitivist thesis is incorrect. Consequently, they claim that any tools or theoretical mechanisms developed from classicist/cognitivist assumptions are also flawed. Instead, these classicist/cognitivist tools cannot be augmented, but must be completely replaced with a diverse set of tools/mechanisms that are consistent with the central embodied cognition thesis. One problem with the purist view of embodied cognition is that there is no guarantee that the necessary tools/mechanisms will be developed to enable embodied theorists to explain these higher cognitive processes, especially those specific to human cognition. Even though a number of promising theoretical tools currently exist (that is, dynamic systems theory, schemas, conceptual blending, mesh, etc.), those researchers who are adopting the purist approach are clearly gambling that more sophisticated theoretical tools/mechanisms will be developed in the near future to adequately explain the emergence of higher cognitive processes. Although it is too early to say definitively what the outcome will be, it is clear that the general embodiment thesis can no longer be ignored by researchers in cognitive science, including philosophers of mind, since the very thesis calls into question widely-held assumptions about cognition.
+5. References and Further Reading
+
+Brooks, R. (1991). “Intelligence without representation.” Artificial Intelligence, 47, 139-159.
+Clancey, W. (1997). Situated Cognition: On Human Knowledge and Computer Representations. Cambridge, MA: Cambridge University Press.
+Clark, A. (1997). Being There: Putting Brain Body and World Together Again. Cambridge, MA: MIT Press. (Recommended.)
+Clark, A. (1999). “Embodied, situated, and distributed cognition.” In W. Betchel and G. Graham (eds), A Companion to Cognitive Science, Malden, MA: Blackwell Publishing.
+Clark, A. and Chalmers, D. (1998). The extended mind. Analysis, 58, 7-19.
+Cisek, P. (1999). “Beyond the Computer Metaphor: Behavior as Interaction.” In Nunez, R. and Freeman, W., Reclaiming Cognition: the primacy of action intention and emotion, Bowling Green, OH: Imprint Academic.
+Dreyfus, H. (1972/92). What Computers Can’t Do: A Critique of Artificial Reason. New York: Harper and Row. (Third edition: What Computers Still Can’t Do. 1992. Cambridge, MA: MIT)
+Fauconnier, G. and Turner, M. (2002). The Way We Think: Conceptual Blending and the Mind’s Hidden Complexities. New York, NY: Basic Books.
+Glenberg, A. (1997). “What memory is for: Creating meaning in the service of action.” Behavioral and Brain Sciences, 20, 1-55.
+Glenberg, A. (1999). “Why Mental Models Must Be Embodied.” In Mental Models in Discourse Processing and Reasoning, Rickheit, G. and Habel, C. (eds). New York: Elsevier.
+Harnad, S. (1990). “The symbol grounding problem.” Physica D, 42,335-346.
+Horgan, T and Tienson, J. (1989). “Representations Without Rules.” Philosophical Topics, 17 (Spring), 147-174.
+Hutchins, E. (1995). Cognition in the Wild. Cambridge, MA: MIT Press. (Recommended.)
+Lakoff, G., and Johnson, M. (1999). Philosophy In the Flesh: The Embodied Mind And Its Challenge To Western Thought. New York, NY: Basic Books. (Recommended.)
+Mataric, M. J. (1992). “Integration of representation into goal-driven behavior based robots.” IEEE Transactions on Robotics and Automation, 8 (3): 304-312.
+Searle, J. (1980). “Minds, brains, and programs.” Behavioral and Brain Sciences, 1, 417-424.
+Thelen, E.,and Smith, L. (1994). A Dynamic Systems Approach to the Development of Cognition and Action. Cambridge, MA: MIT Press.
+Thelen, E. (1995). “Time-scale dynamics in the development of an embodied cognition.” In Mind In Motion, ed. R. Port and T. van Gelder. Cambridge, MA: MIT Press.
+Thelen, E., Schoner, G., Scheier, C., and Smith, L.B.(2001). “The Dynamics of Embodiment: A Field Theory of Infant Perservative Reaching.” Behavioral and Brain Sciences 24: 1-86.
+Varela, F., Thompson, E., Rosch, E. (1991). The Embodied Mind. Cambridge, MA: MIT Press.
+
+Author Information
+Monica Cowart
+Email: Monica.Cowart@merrimack.edu
+Merrimack College
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

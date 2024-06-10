@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+Lindenbaum, Adolf | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adolf Lindenbaum
+
+photo by permission of the Archives of the University of Warsaw
+Adolf Lindenbaum was a Polish mathematician and logician who worked in topology, set theory, metalogic, general metamathematics and the foundations of mathematics. He represented an attitude typical of the Polish Mathematical School, consisting of using all admissible methods, independently of whether they were finitary. For example, the axiom of choice was freely applied, but on the other hand, proofs omitting this axiom were welcomed. In set theory, Lindenbaum and Tarski posed an important conjecture that the generalized continuum hypothesis entails the axiom of choice. Among the most important metalogical and metamathematical results obtained by Lindenbaum are the following: every system of propositional calculus has an at most denumerably infinite normal matrix; the construction of the so–called Lindenbaum algebra; and the maximalization theorem.
+Lindenbaum studied mathematics under Wacław Sierpiński, Stefan Mazurkiewicz and Kazimierz Kuratowski in Warsaw. As part of the Lvov–Warsaw School, formed by a powerful Polish group of analytic philosophers, Lindenbaum belonged to the Polish mathematical school and the Warsaw school of logic. He began his career as a topologist, and his doctoral dissertation, written under Sierpiński, was devoted to properties of point–sets. Then in the mid–1920s he switched to logic and joined the Warsaw School of Logic that was established by Jan Łukasiewicz and Stanisław Leśniewski after World War I. Lindenbaum was a close friend and collaborator of Alfred Tarski.
+Table of Contents
+
+Curriculum Vitae
+A General Outline of Lindenbaum’s Scientific Career and His Views
+Lindenbaum and Set Theory
+Lindenbaum and Logical Calculi
+Lindenbaum and General Metamathematics
+Final Remarks
+References and Further Readings
+
+1. Curriculum Vitae
+Adolf Lindenbaum was born in an assimilated (polonized) rich Jewish family in Warsaw on June 12, 1904 (see Mostowski–Marczewski 1971, Surma 1982, Zygmunt–Purdy 2014 for biographical data on Lindenbaum). He took his secondary education at M. Kreczmar’s Gymnasium in Warsaw (1915–1922) and he next entered Warsaw University to study mathematics (1922–1926) under such teachers as Kazimierz Kuratowski, Stefan Mazurkiewicz and Wacław Sierpiński in mathematics as well as Stanisław Leśniewski and Jan Łukasiewicz in logic. Lindenbaum also attended courses by Alfred Tarski on cardinal numbers and elementary mathematics, Tadeusz Kotarbiński’s course in logic and some classes in humanities, including history of philosophy (Władysław Tatarkiewicz; a general course, a special class on Kant), aesthetics (also Tatarkiewicz on French art), psychology (Władysław Witwicki), linguistics (Karol Appel), literature (Józef Ujejski on Adama Mickiewicz, the most important Polish national poet), and the history and culture of Palestine (Moses Schorr).
+Sierpiński supervised Lindenbaum’s PhD dissertation entitled O własnościach mnogości punktowych (On Properties of Point–Sets). The thesis was defended in 1928 and Lindenbaum received the title of Doctor of Philosophy. In 1934 he presented his Habilitation thesis, based on several published papers, to the Faculty of Mathematics and Natural Sciences at Warsaw University and obtained the degree of Docent (a person who could lecture). This resulted in his appointment as adjunct professor at the Philosophical Seminar at the same faculty. Tthe Philosophical Seminar was an independent unit at the Faculty of Mathematics and Science directed for years by Łukasiewicz; in fact, it was the Logical Seminar. Lindenbaum lectured on various mathematical and logical topics from 1935 to 1939. His courses, for example, concerned the following topics: “On New Investigations into the Foundations of Mathematics and the Mathematical Foundations of other Disciplines”, “On Superposition of Functions” and “Selected Topics from Metrology and from the Theory of Functions”. He stood little chance of being promoted to an academic position higher than docent because of the anti–Semitic policy in Polish universities after 1935,  and his involvement in the communist movement, as well as the shortage of university positions at the time. He was also a tutor at the Scientific Circle of Jewish Students at Warsaw University, established after the exclusion (in the 1890s) of the Jews from general students’ associations existing in Poland.
+Lindenbaum was a typical, good–looking bon vivant. He married a Jewish beauty, Janina Hosiasson, also a logician, who successfully worked on induction and confirmation. As Janina Hosiasson informed Alfred Tarski in one of her letters in the early 1941 (this letter is in Tarski’s Archive in U.C. Berkeley’s Bancroft Library), she and Adolf got separated at the beginning of World War II. Lindenbaum was a declared leftist. He belonged to the Polish Communist Party (KPP) until its dissolution by Stalin in 1938; He also was an activist in the intelligentsia circles. In 1936 Lindenbaum signed a petition demanding that Carl von Ossietzky, a journalist imprisoned by the Nazis, be awarded the Nobel Peace Prize, and he protested against the massacre of workers in Lvov in 1936. Mrs. Janina Kotarbiński, the wife of Tadeusz Kotarbiński, a close friend of the Lindenbaums reported the following story:
+It happened that I and Antoni Pański [also a philosopher – J. W] visited the Lindenbaums in their apartment. I noticed on Dolek’s [the diminutive of Adolf – J. W.] desk the Short Philosophical Dictionary [the dictionary written by Pavel Yudin and Mark Rozental and published in Russian in the Soviet Union at the beginning of the 1930s. The authors represented the Stalinist version of Marxism. The Short Philosophical Dictionary became a symbol of the orthodox Marxist ideology – J. W.]. The book was opened at the entry ‘Dialectical Contradiction’. I was surprised, and on our way back I asked Pański why Dolek, such a clever person, read such stupidities about the concept of contradiction. Pański answered that Dolek believed in every word of this book.
+She added, however, that Lindenbaum had considerable interests in philosophy without any kind of dogmatism. He was ready for an open discussion on any philosophical issue. Lindenbaum was strongly interested in literature and art, and was famous as a passionate climber.
+After the outbreak of World War II, Lindenbaum immediately realized that for his own security he should escape before the German army would take Warsaw. His Jewish origin was probably not the only reason behind this decision. More importantly, it was obvious that the Germans possessed the lists of Polish communists and other critics of Hitler’s regime. Lindenbaum was particularly afraid of the consequences of the support he had given to Ossietzky, as such actions were strongly, even furiously, criticized in Germany. Although Lindenbaum could emigrate to the West or get a position in Moscow as a scientist, he decided to remain in Poland, because he has hope in the socialist future of the country. The Lindenbaums left Warsaw on September 6, 1939 and went to Vilna (presently Vilnius); this city, formerly in Poland, became the capital of Lithuania after September 17, 1939. Lithuania was an independent country in 1918–1939 with Kaunas as its capital; in 1939–1941 Lithuania was formally independent, but entirely dependent on the Soviet Union. It was occupied by Germany after its attack on the Soviet Union on June 22, 1941. Janina remained there, but Adolf moved to Bialystok, a city occupied by the Soviet Army after its invasion into Poland on September 17; he probably expected this part of Poland to become the ovule of the future Polish communist state. Lindenbaum was appointed as a docent in the Bialystok Pedagogical Institute established by the Soviet authorities, and he taught mathematics there. The German–Soviet War started on June 22, 1941, and the Germans soon came to Bialystok. The reasons why Lindenbaum did not leave the city are unknown. In September 1941, he was arrested by the Gestapo, transported to Vilnius, and killed in Ponary (the place of many massacres, particularly of the Jews in 1941–1944) near the Lithuanian capital. Janina Hossiasson–Lindenbaum was murdered in Vilnius in 1942. The exact dates of the deaths of the Lindenbaums remain unknown.
+2. A General Outline of Lindenbaum’s Scientific Career and His Views
+Lindenbaum began his scientific carrier as a topologist, but he soon converted to logic and the foundations of mathematics. He and Tarski (three years older) became friends in the early 1920s and the latter influenced Lindenbaum in the direction of mathematical logic and the foundations of mathematics. Both shared not only scientific interests, but also a negative attitude to any version of religion, various leftist political ideas and a love of  mountains and literature, but they were also very sensitive to their fate as secular Jews and their pretending to be assimilated and accepted by Polish society. Neither of them, however, was successful in the last respect. At the beginning of his scientific career, he was very active in the Student Mathematical Scientific Circle as well as in the Student Philosophical Circle, and he successfully promoted logic among his colleagues in both groups. In particular, he delivered several lectures on logical problems at the meetings of both circles. He was a mentor in logic to students in Warsaw. For instance, he wrote a section on logic in the Mathematical-Physical Study: Information Book for Newcomers published in 1926 in which he reported how logic was taught in Warsaw. It is a very interesting document which shows how powerful logic was in Warsaw in the mid–1920s. The revelation that the Principia Mathematica was recommended as a textbook for advanced students seems really shocking. Lindenbaum’s brilliant personality, charming style of life and powerful mathematical skills fascinated the Warsaw scientific community. Not surprisingly, he was commonly considered one of the most gifted Polish mathematicians of his generation. Tarski 1949, p. XII described Lindenbaum as “a man of unusual intelligence”. Mostowski once called Lindenbaum the most lucid mind in the foundations of mathematics. Legendary stories told by Lindenbaum’s friends and colleagues document many cases of theorems discovered by him but proved by someone else, as he had no time to complete his ideas. Yet the list of his scientific contributions is quite long; it comprises more than 40 papers, abstracts and reviews (see Surma 1982 for Lindenbaum’s bibliography), mostly published in German and French. Some of Lindenbaum’s papers were co–authored, in particular, by Tarski and Andrzej Mostowski. Lindenbaum and Tarski worked on the book Theorie der eindeutigen Abbildungen. It was announced as volume 8 of the series “Mathematical Monograph” to be published in 1938. This information is given on the back cover of S. Sachs, The Theory of Integral, Monografie Matematyczne, Warszawa–Lwów 1937 (co–published by G. E. Stechert, New York). Sachs’ book appeared as volume 7 of this series. This suggests that the book by Lindenbaum and Tarski was near to being completed. Lindenbaum was also well–perceived on the international scale. Leading logicians and mathematicians, including Wilhelm Ackermann, Friedrich Bachmann, Abraham Fraenkel, Andrei Kolmogoroff and Arnold Schmidt, reviewed his writings.  Lindenbaum actively participated in the Polish Mathematical Congresses and in the International Congress of Scientific Philosophy held in Paris in 1935.
+Lindenbaum belonged to three scientific schools, namely the Polish Mathematical School with Sierpiński, Mazurkiewicz and Kuratowski as its leaders in Warsaw the Warsaw School of Logic (Łukasiewicz, Leśniewski, Tarski—the last joined the top of the School in the 1920s; see Woleński 1995 for a general presentation of logic in Poland in the interwar period) and the Lvov–Warsaw School (Kazimierz Twardowski and his disciples from Lvov, in particular, Łukasiewicz, Leśniewski and Kotarbiński). The second affiliation is perhaps the most important. The Warsaw School of Logic was a “child” of mathematicians and philosophers. Łukasiewicz and Leśniewski, the main figures in this group were, as I have already noted, philosophers by training. Nevertheless, they became professors at the Faculty of Mathematics and Natural Science at Warsaw University and were active in the mathematical environment. Zygmunt Janiszewski, another founding father of the Polish Mathematical School, who died prematurely before Lindenbaum entered the university, developed the so–called Janiszewski program, a very ambitious plan of the development of mathematics in Poland that attributed crucial significance to logic and the foundations on mathematics. The Fundamenta Mathematicae, a journal established by Janiszewski and serving from its inception as an official scientific journal of the Polish Mathematical School, published many papers by logicians. It is noteworthy that Mazurkiewicz, Sierpiński, Leśniewski and Łukasiewicz—two professional mathematicians and two logicians originating from philosophy—formed the Editorial Board of the Fundamenta. It was important for the subsequent stormy development of logic in Warsaw that the mathematical milieu accepted philosophers as professional teachers of students of mathematics.
+This double heritage, philosophical as well as mathematical, determined the scientific ideology of Warsaw logicians. Perhaps one point should be mentioned here as particularly important in this context. Firstly, the Polish Mathematical School did not assume any specific philosophical standpoint concerning the nature of mathematics. Methodologically speaking, all fruitful mathematical methods, particularly coming from set theory, could be used in logical investigations, provided that they did not lead to contradictions. The last statement should be understood in the following way. Clearly, proofs of consistency are important and required, however even before Gödel’s second incompleteness theorem (roughly speaking, that the consistency of arithmetic cannot be proved in arithmetic itself) was announced, Polish mathematicians maintained that if it is empirically known that a theory of given concepts is contradiction–free, it can be faithfully used in mathematical investigations including logical research. As a consequence, the Polish Mathematics School did not subscribe to logicism, formalism or intuitionism as the main foundational currents in the philosophy of mathematics, even though they were widely regarded as such in 1900–1930. On the other hand, Polish logicians worked on many problems suggested by Russell, Hilbert and Brouwer, the main exponents of the mentioned schools. Moreover, sometimes a tension held between private, so to speak, philosophical views of some Polish logicians and their research practices. For instance, Tarski, influenced by Leśniewski’s and Kotarbiński’s nominalism, expressed explicit sympathy with this view, but on the other hand, he did not hesitate to use higher set theory and inaccessible cardinals in the foundations of mathematics.
+There is practically nothing known about Lindenbaum’s philosophical views concerning mathematics. Clearly, his inclinations to dialectical materialism had no influence on his philosophy of mathematics and foundational views. In fact, he shared the general attitude of the Polish Mathematical School mentioned above. Lindenbaum published some papers directly related to general foundational problems (for example, Lindenbaum 1930, Lindenbaum 1931) in which he recommended the use of mathematics in logical investigations without any hesitation with respect to employing infinitary methods; he pointed out that such methods were present even in elementary arithmetic. For instance, he published reviews of works by Polish radical nominalists, such as Leon Chwistek and Władysław Hetper, but he entirely abstained from philosophical comments. Two papers—Lindenbaum 1936 and Lindenbaum–Tarski 1934–1935—should be particularly mentioned. The former paper,  is Lindenbaum’s contribution to the already mentioned Paris Congress in 1935,; concerns the formal simplicity of concepts. Although Lindenbaum points out that this question arises in many fields, he does not offer any general definition of simplicity. Lindenbaum distinguishes seven relevant problems concerning simplicity (a) of systems of concepts (terms); (b) of propositions and their systems; (c) of inference rules; (d) of proofs; (e) of definitions and constructions; (f) of deductive theories; (g) of formal languages; but he addresses his further considerations to (a). The idea is that measuring the number of letters occurring in a given concept can tell us about the simplicity of the term (Lindenbaum follows Leśniewski in this respect). Two points are interesting. First, Lindenbaum assumes the simple theory of types.  This suggests that he preferred a more elementary construction if it is possible and adequate for a given problem. This attitude was also very popular among Warsaw mathematicians and logicians. Second, Lindenbaum observes, obviously under Tarski’s influence, that simplicity has not only a syntactic dimension (in Carnap’s sense), but it should also be considered semantically.
+The paper Lindenbaum–Tarski 1934–1935 basically concerns some metamathematical problems about the limitations of means of expressions (expressive power, to use present terminology) in deductive theories. The authors claim that all relations between objects (individuals, classes, relations, and so forth) expressible by purely logical means remain invariant under an arbitrary one–one mapping of the “world” (that is, the collection of all individuals) onto itself. Moreover, this invariance is logically provable. This idea was more fully developed by Tarski in his paper on logical concepts (see Tarski 1986). In a sense, the understanding of logical concepts as invariant under all one–one mappings has affinities with the Erlangen Program (Tarski stressed this point) in the foundations of geometry formulated by Felix Klein. Lindenbaum and Tarski proved a general theorem justifying the intuitive explanation of understanding logical relations as invariant under one–one mappings. The consequences of this approach to logical concepts for philosophy of logic are far–reaching. In particular, the Lindenbaum–Tarski definition of logical concepts motivates the theorem that logic does not distinguish any extralogical concept (roughly speaking, what can be proved in logic about an extralogical item, for instance, an individual, can be proved about any other individual). Consequently, logical theorems are true in all possible worlds (models). Thus, the definition in question naturally leads to seeing logic as invariant with respect to any specific content.
+Lindenbaum’s works that are related to logic and the foundations of mathematics concern set theory and logical calculi, including their metalogical properties. This article deals with general set theory in section 3, while sections 4 and 5 are devoted to logical matters (Section 3 skips special topics, including those belonging to other mathematical fields; the borderline between general and special set theory is somehow arbitrary; also some Lindenbaum’s results will be mentioned without entering into formal details.).
+Lindenbaum’s results in set theory were achieved in an individual collaboration with other authors, particularly Tarski and Mostowski. In the 1920s and 1930s Łukasiewicz conducted a seminar in mathematical logic. Its participants were the group of young logicians including, in addition to Lindenbaum and Tarski, Stanisław Jaśkowski, Andrzej Mostowski, Jerzy Słupecki, Bolesław Sobociński and Mordechaj Wajsberg. This seminar soon became a factory of new results in mathematical logic. Its participants collaboratively worked on problems. Lindenbaum’s results about logical calculi, as Łukasiewicz explicitly says, were achieved at this seminar. Lindenbaum frequently stated theorems, usually without proofs. His most important results were mentioned by others; some of them are to be found in Łukasiewicz–Tarski 1930 (I will refer to it as Ł–T1930).
+3. Lindenbaum and Set Theory
+In 1926, Lindenbaum and Tarski published the joint paper “Communication sur les recherches de la théorie de ensembles” (Lindenbaum–Tarski 1926; the abbreviation L–T1926 is used in further references). This paper is very compact. In 30 pages the authors announced many results in set theory and its applications, that were achieved by them within the “last few years”. More particularly, theorems and definitions concerned cardinal and ordinal numbers, the relations between them and the theory of one–one mappings. The results were stated without proofs. The authors noted that proofs and further developments would appear in the subsequent writings. (Perhaps the already mentioned monograph Theorie der eindeutigen Abbildungen was intended as a continuation of L–T1926; several related results are contained in Tarski 1949; Lindenbaum is mentioned in the Preface to this book as a person particularly effective in conducting research on cardinal numbers.) The spirit of the Polish Mathematical School is evident in this paper. The purely mathematical text is interrupted by historical and methodological comments; Polish mathematicians considered (and they still do) such remarks as a very important feature of mathematical prose. Due to the role of the axiom of choice (AC) in set theory and its controversial nature, results obtained without use of this axiom are grouped in a section different from the sections containingthe theorems based on AC. The paper lists 102 theorems or lemmas about cardinal numbers, 5 theorems or lemmas about properties of one–one mappings, on order types, 16 theorems or lemmas about order types, 4 theorems on the arithmetic of ordinal numbers and 19 theorems or lemmas on point–sets. In many cases, the investigations by Lindenbaum and Tarski continue the earlier works and achievements by Cantor, Dedekind, Bernstein, Fraenkel (Fraenkel), Hartogs, Korselt, König, Lebesgue, von Neumann, Russell and Whitehead, Schröder, Zermelo, Banach, Kuratowski, Leśniewski and Sierpiński. In a sense, L–T1926 can serve as a very important historical report on the state of the art in set theory and its foundational problems in the mid–1920s.
+Perhaps the most important result (theorem 94) announced in L–T1926 concerns the generalized continuum hypothesis (GCH) and AC. Lindenbaum posed the problem of how AC (one of the main focuses of Polish Mathematical School) is related to Cantor’s hypothesis on alephs (the name of GCH used in L–T1926). Theorem 94 states that GCH entails AC. This result was proved by Sierpiński in 1947 (see Sierpiński 1965, pp. 43–44, Moore 1982, pp. 215–217 for a brief survey). The search for equivalents of AC became one of the Polish mathematical specialties de la maison. Lindenbaum (L–T1926, theorem 82(L)) claimed that AC is equivalent to the assertion that for arbitrary cardinal numbers m and n, m ≤* n or n ≤* m (the symbol ≤* expresses the relation between cardinal numbers m and n such that either m = 0 or every set of power n is the sum of m mutually disjoint non–empty sets). This theorem was finally proved by Sierpiński in 1949 (see Sierpiński 1965, p. 435–436).  L–T1926 also presents the material on the Cantor–Bernstein theorem (CBT; Lindenbaum and Tarski used the label “the Schröder–Bernstein theorem”), which says that for any cardinal numbers m, n, if m ≤ n and n ≤ m, then m = n (see Hinkis 2013 for a very detailed historical exposition). In particular, Lindenbaum proposed some equivalents of CBT also in the terms of order–types of one–one mappings. One of the equivalents of CBT is the following proposition: for any order–types α, β, γ, δ, if α = β + γ and γ = α + δ, then α = γ (via one–one mappings: if an well-ordered set X is similar to a segment of an ordered set B, and B is similar to a residue of A, then both sets A and B are similar). Another interesting result related to the Bernstein Division Theorem (BDT) says that for any natural number k and any cardinal numbers m, n, if km = kn, then m = n. L–T1926 claims that Lindenbaum proved BDT in its full generality and made that without AC. Yet there is a slight historical controversy concerning the scope of Bernstein’s original proof (see Hinkis, p. 139). [A ⇔ B]? Leaving this question aside, there is no doubt that L–T1926 played an important role in the development of the foundations of set theory.
+Finally, consider thepaper by Lindenbaum and Mostowski (Lindenbaum–Mostowski 1938) on the independence of AC from other axioms of Zermelo–Fraenkel set theory (ZF). Abraham Fraenkel claimed that he proved the independence of AC (in its standard version postulating the existence of a choice set for any family of non–empty and disjoint sets) and its two equivalents (every set can be ordered; if for every family of finite and mutually disjoint sets, a choice set exists, then there exists a choice set for every countable family of sets with mutually disjoint set as elements) from ZF. Lindenbaum and Mostowski remark that Fraenkel’s investigations, though of great value, cannot be regarded as fully successful “because a dangerous confusion of metamathematical and mathematical notions is inherent in it”. More specifically, Fraenkel’s notions of model and function are obscure. Lindenbaum and Mostowski propose to understand the concept of function in a semantic manner, that is, as determined by the formula “a set satisfies a propositional function”.  Moreover, they point out an error in Fraenkel’s proof consisting in his treatment of permutations. Lindenbaum and Mostowski propose a modification of Fraenkel’s construction in order to correct his proof. It is done by the improving axiomatization with respect to axioms of separation, replacement and infinity. This step allows for proving that also other equivalents of AC are not derivable in ZF. The authors observe that ZF remains (relatively) consistent if we add the axiom “there exists an infinite set having not–sets as elements”. Moreover, the results cannot be obtained in the system in which sets are admitted as the only elements. These results were later completed by Mostowski. The models of the improved ZF with Urelements (items not being sets) are called the Fraenkel–Mostowski models. Perhaps a particularly interesting feature of Lindenbaum–Mostowski 1938 consists in the conscious use of semantic methods in the metamathematics of set theory.
+4. Lindenbaum and Logical Calculi
+This section reviews Lindenbaum’s results in metalogic of propositional calculus.  They were announced at Łukasiewicz’s seminar in mathematical logic in 1926–1930. Łukasiewicz initiated a research program devoted to propositional (sentential) logic, classical as well as many–valued (the results are collected in Ł–T1930). The two main directions of investigations were executed by Łukasiewicz’s group. First, constructions of sentential logic as axiomatic systems were undertaken. Łukasiewicz and his students looked for independent and possibly economic axioms (economic in the sense of having the minimal number of axioms consisting of the shortest number of symbols). Second, Warsaw logicians—mostly Tarski—invented and systematized the basic metalogical tools for investigations of propositional calculus. Lindenbaum, contrary to the majority of the members of  Łukasiewicz seminar, had no interest in proposing new axiomatizations of logic. His activities belonged entirely to metalogic. More specifically, Lindenbaum contributed to the matrix method, that is, to investigating sentential logic via logical matrices. They are generalizations of the well–known truth–tables.
+Abstractly speaking, (note that the level of abstraction is higher in Ł–T1930), a logical matrix is an ordered quadruple M = [U, U’, f, g] such that U and U’ are two arbitrary sets (in order to exclude trivial cases, both sets are assumed to be non–empty), U has at least two elements, U’ ⊂ U, f is a binary function, and g is a unary function. Both functions are defined for U and take values from U. The intended interpretation is as follows: U – the set of logical values, U’ ­– the set of designated logical values. In the case of two–valued logic (1 – truth, 0 – falsehood), U’ = {1, 0} and U’ = {0}. Assume that L is a language of sentential logic. If A ∈ L, then f(A), g(A) ∈ U. Intuitively speaking, f and g are valuation functions defined for formulas of L taking values from U; if language is not taken into account, M is an algebra of (logical or other) values.  Write v(A) for “v is a logical value of A in M”. The matrix M is normal provided that if v(A) ∈ U’ and v(B) ∈ U, then v(A, B) ∈ U. Roughly speaking, values of compound formulas always belong to U, independently of whether their constituents are valued by designated values or other (undesignated) values.  If A ∈ L and for every w, w(A) = 1, then A is a tautology in M (A is verified by M). We can consider g as the function corresponding to negation and f as the counterpart of implication. Thus, v(¬A) = 1, if v(A) = 0, v(¬A) = 0, if v(A) = 1; v(A ⇒ B) = 1, if v(A) = 0 or v(B) = 1, otherwise v(A ⇒ B) = 1. These equalities show that truth–tables for implication and negation are special cases of logical matrices in the abstract sense.
+Lindenbaum established several important theorems connecting propositional calculi with logical matrices (they are listed in a different order than the theorems appear in Ł–T 1930; this paper contains no proofs). Let the symbol LOGℵ0 refer to a many–valued logic with a denumerably infinite set of logical values. Łukasiewicz defined matrices for such a system. Lindenbaum (theorem 16 in Ł–T 1930) established that LOGℵ0 can be characterized by a matrix in which U’ = {1}, functions f and g satisfy the conditions f(x, y) = min(1, 1 – x + y),  g(x) = 1 – x and U is an arbitrary infinite set of numbers which satisfies the condition 0 < x < 1 for any element of U and is closed under the operations f and g. Lindenbaum also proved (theorem 19 in Ł–T 1930) the following logico–arithmetical result (the converse of a result obtained earlier by Łukasiewicz): for 2 ≤ m ≤ ℵ0 and 2 ≤ n ≤ ℵ0, we have the equivalence LOGm ⊆ LOGn if and only if n – 1 is a divisor of m – 1. The next theorem established by Lindenbaum for n = 3 (Tarski generalized this result for any prime number) says if n is a prime number that there are only two systems L (the entire language) and LOG2 which contain LOG3 as a proper part. Lindenbaum also proved (Ł–T1930, theorem 23) that every logic LOGn is axiomatizable for any 1 ≤ n < ℵ0.
+Although the above results are general, they were mainly directed as reporting facts on many–valued logic. Lindenbaum also obtained the results on arbitrary sentential calculi and their matrices. The definition of M (plus the definition of a sentential calculus as closed by the consequence operation) implies that the set of tautologies in a matrix, that is, LOG(M), provided that M is normal, is a system. Lindenbaum announced (theorem 3 in Ł–T 1930) that every sentential calculus has at most a denumerably infinite normal matrix. This theorem was proved by Jerzy Łoś (see Łoś 1949; this work contains the first systematic treatment of logical matrices). This last work originated from systematic investigations on matrix semantics for propositional calculi (see Wójcicki 1989 for an extensive report on this field of logical research; several important results are also described in Pogorzelski 1994). The following historical speculation can illustrate the importance of theorem 3. When Heyting formalized intuitionistic sentential logic (ISC) in 1930, the question of finding a normal matrix for this logic became important. Gödel showed (in 1932) that no finite matrix (he used the term “realization”) verifies all theorems of ISC. By Lindenbaum’s result (Gödel did not refer to it), there exists a denumerably infinite normal matrix ISC. Jaśkowski constructed it in 1936. He certainly must have known Ł–T 1930, but he did not refer to it. This story makes a nice example of how influences could interplay in looking for an adequate matrix for intuitionistic propositional logic; but we have no accessible evidence that Lindenbaum’s theorem actually inspired Jaśkowski.
+5. Lindenbaum and General Metamathematics
+Several Lindenbaum’s contributions to general metamathematics are mostly mentioned in Tarski 1956 (referred to as T1956 below)). The two most important results achieved by Lindenbaum are his construction of the so–called Lindenbaum algebra (LIA) and the maximalization theorem LMT (frequently called the Lindenbaum Lemma). Lindenbaum observed that formulas can be the elements of logical matrices (see Surma 1967, Surma 1973, Surma 1982 for the reconstruction of Lindenbaum’s path to LIA). Then, he as well as other logicians (Łoś, for instance) generalized this idea for arbitrary languages. LIA is presented in this article for classical sentential calculus. Let L be a formal language with ¬, ∧, ∨, ⇒, ⇔ as connectives. Formulas as such, that is, variables and their well–formed strings do not constitute an algebra. The symbol [A] refers to the Lindenbaum class of formulas with respect to A. We further stipulate that B ∈ [A] if and only if ├ A ⇔ B (this step gives a congruence in L) and then define –[A] as [¬A], [A] ∩ [B]  as [A ∧ B], [A] ∪ [B]  as [A ∨ B], [A] ⊆ [B] as [A ⇒ B], and [A ⇔  B] as [A] = [B]. If we denote the set of classes of formulas produced by the defined congruence by the symbol L[≈],  the structure < L[≈], –, ∩, ∪, ⊆ , = > is a Boolean algebra of formulas, that is, LIA for sentential logic. An interesting feature of this construction is that building blocks for LIA come from language. This justifies the use of the same symbols for propositional connectives in the object language (the language of propositional calculus) and the metalanguage, (the language of LIA). Lindenbaum’s construction of algebras has important applications in algebraic proofs of metalogical theorems (see Surma 1967, Rasiowa–Sikorski 1970, Surma 1973, Rasiowa 1974, Surma 1982, Zygmunt–Pardy 2014), including the completeness theorem for classical logic as well as many non–classical systems.
+There is a controversy concerning the origin of LIA. According to Surma 1967, p. 128 Lindenbaum presented his idea at the 1st Polish Mathematical Congress in 1927. This fact, however, is only known from the Polish oral tradition. Significant information can be found in Rasiowa,–Sikorski 1970, 245–246, footnote 1. The first published mention was made by McKinsey with reference to Tarski’s oral communication in 1941. However, Tarski complained that the discovery of LIA should be credited to him (it is reported in the mentioned footnote in Rasiowa–Sikorski 1974).  Since Tarski’s historical claim concerning LIA is known, some authors used label “the Lindenbaum–Tarski algebra”.
+MT is perhaps the most important result achieved by Lindenbaum. Its formulation is very simple: every consistent formal system has its maximal and consistent extension. The theorem was probably inspired by the concept of Post–completeness, well known in the Łukasiewicz’s group. This theorem is mentioned several times in T1956; its proof is to be found on pp. 98–100. An important feature of LMT consists in the fact that it is not intuitionistically  provable (although we know that maximal extensions exist, there is no general method of their construction) and it requires infinitistic methods (it is but weaker than AC; see below). T1956 points out many applications of LMT, for instance, that classical logic is the only consistent extension of intuitionistic logic (Tarski). The great career of LMT began after Henkin had used it in his proof of the completeness of first–order logic. This proof combines together LIA and the construction of maximal consistent sets of formulas. Henkin’s method became adapted for proving the completeness property of many logical systems. LMT is effectively equivalent to the Stone ultrafilter theorem. One can prove (see Surma  1968) that AC implies the Gödel–Malcev completeness theorem, and the latter entails LMT. The standard version of LMT works for countable languages (see Łoś 1955 for LMT for uncountable languages) and a compact consequence operation (omitting the property of compactness is not particularly significant). On the other hand, if LMT is strengthened by additional assumption concerning individual constants or by admitting uncountable languages, it becomes provably equivalent to AC (see also Gazzari 2014). These results help in placing LMT on the scale of infinitary methods in metamathematics.
+The program of reverse mathematics (see Simpson 2009) gives a more general perspective in this respect. The symbol RCA0 refers to Peano arithmetic minus the full induction scheme (it is restricted to ∑ zero–one formulas) plus the recursive comprehension scheme; it is a relatively weak subsystem of second–order arithmetic. LMT is equivalent over RCA0 to the following propositions: weak König lemma, Gödel–Malcev completeness theorem, Gödel compactness theorem, completeness theorem for propositional logic for countable languages and the compactness theorem for propositional logic for countable languages. Since the weak König lemma is a rather mathematical (not metalogical) result, its equivalence with LMT exactly characterizes the mathematical content of the second. If LMT is associated with the consequence operation admitting the rule of substitution, we obtain the so–called relative Lindenbaum extensions (see Pogorzelski 1994, p. 318; this theorem was proved by Asser in 1959). Roughly speaking, if we take a consistent set X and a formula A such that A ∉ X, we have two consistent extensions of X, namely X ∪ {A} and X ∪ {¬A}. Clearly, by the standard LMT, there exist at least two different maximally consistent extensions. The problem how many such relative Lindenbaum sets are associated with a given consistent set X has no unique solution.
+Here is a list of some other of Lindenbaum’s metamathematical results (see Tarski 1956, 32, 33, 36, 71, 297, 307, 338 for the technical details):
+
+the number of all deductive systems is equal to 2ℵo;
+the number of all axiomatizable systems is equal to ℵ0;
+the condition which must be satisfied in order for the sum of a deductive system to be a deductive system;
+structural type of a theory;
+theorems of degrees of completeness;
+atomic (atomistic, according to an older terminology) Boolean algebra.
+independence of primitive concepts in mathematical systems.
+
+The last three results in the above list were achieved jointly by Lindenbaum and Tarski (see Tarski–Lindenbaum 1927), and other results inspired Tarski in his metamathematical investigations. Moreover, Tarski credited to Lindenbaum the pointing out the role of set–theoretical methods in metamathematical investigations (T1956, p. 75).
+6. Final Remarks
+Helena Rasiowa (in Rasiowa 1974, p. v) says that the introduction of the Lindenbaum–Tarski algebra became “one of the turning points in algebraic study of logic”. This tradition was continued,  systematized and conceptually unified by Tarski himself as well as by his American students, particularly J. C. C.McKinsey,  Bjarni Jónsson, Don Pigozzi as well as Polish logicians, notably Jerzy Łoś, Helena Rasiowa and Roman Sikorski.  Rasiowa–Sikorski 1970 can be considered as the opus magnum in this direction. A similar role should be attributed to LMT (not properly called the Lindenbaum Lemma, because its actual importance exceeds the fact of being an auxiliary device for proving other results) as a mark of mathematical content of tools used in metamathematics. Thus, Adolf Lindenbaum appears as one of the main masters in developing of mathematics for metamathematics. His results on logical matrices opened a new stage in metalogical investigations concerning propositional calculus.
+7. References and Further Readings
+
+Gazzari, R. 2014, “Direct Proofs of Lindenbaum Conditionals”, Logica Universalis 8, Issue 3–4, 321–343.
+Hinkis, A. 2013, Proofs of the Cantor-Bernstein Theorem. A Mathematical Excursion, Basel: Birkhäuser.
+Lindenbaum, A. 1930, “Remarques sur une question de la methode mathematique”, Fundamenta Mathematicae 15, 313–321.
+Lindenbaum, A. 1931, “Bemerkungen zu den vorhergehendem “Bemerkungen” des Herrn J. v. Neumann”, Fundamenta Mathematicae 17, 335–336.
+Lindenbaum, A. 1936, “Sur la simplicité formelle des notions”, in Actes du Congrès International de Philosophie Scientifique, VII Logique (Acutalités Scientifique et Industrieles 394), 29–38.
+Lindenbaum, A.–Mostowski, A. 1938, “Über die Unabhängigkeit des Auswahlaxioms und einiger seiner Folgerungen”, Comptes Renduz des Séances de la Société des Sciences et des Letters de Varsovie, Classe III, 31, 27–32; Eng. tr.  in A. Mostowski, Foundational Studies. Selected Works, Vol. II, Warszawa–Amsterdam: PWN–Polish Scientific Publishers – North–Holland Publishing Company, 70–74.
+Lindenbaum, A.–Tarski, A. 1926, „Communication sur la recherches de la théorie des ensembles”, Comptes Renduz des Séances de la Société des Sciences et des Letters de Varsovie, Classe III, 19, 299–330; repr. in A. Tarski, Collected Papers, vol. 1, 1921–1934, Basel: Birkhäuser 1986, 171–204.
+Lindenbaum, A.–Tarski, A. 1934–1935, “Über die Beschränktheit des Ausdrucksmittel deduktiver Theorien, Ergebnisse eines mathematischen Kolloqiums 7, 15–22; Eng. tr. in Tarski 1986, 384–392.
+Łoś, J. 1949, O matrycach logicznych (On Logical Matrices), Wrocław: Wrocławskie Towarzystwo Naukowe.
+Łoś, J. 1955, „The Algebraic Treatment of the Methodology of Elementary Deductive Systems”, Studia Logica 2, 151–212.
+Łukasiewicz, J.–Tarski, A. 1930, “Untersuchungen über den Aussgenkalkül”, Comptes Renduz des Séances de la Société des Sciences et des Letters de Varsovie, Classe III, 23, 30–50; Eng. tr. in Tarski 1956, 38–59.
+Marczewski, E.–Mostowski, A. 1971 “Lindenbaum Adolf (1904–1941)”, Polski Słownik Biograficzny 17, 364b–365b;
+Moore, G. H. 1982, Zermelo’s Axiom of Choice. Its Origins, Development, and Influence, Springer Verlag: New York – Heidelberg – Berlin.
+Pogorzelski, W. 1994, Notions and Theories of Elementary Formal Logic, Białystok: Warsaw University – Białystok Branch.
+Rasiowa, H. 1974, An Algebraic Approach to Non-Classical Logics, Amsterdam – Warszawa: PWN–Polish–Scientific Publishers – North–Holland Publishing Company.
+Rasiowa, H.–Sikorski, R. 1970, The Mathematics of Metamathematics, Warszawa: PWN– Polish Scientific Publishers.
+Sierpiński, W. 1965, Cardinal and Ordinal Numbers, Warszawa: PWN – Polish Scientific Publishers.
+Simpson, S. G. 2009, Subsystems of Second Order Arithmetic, Cambridge: Cambridge University Press.
+Surma, S. J. 1967, “History of Logical Applications of the Method of Lindenbaum’s Algebra”, Analele Univeritatii Bucurereşti – Acta Logica 10, 127–138.
+Surma, S. J. 1968, “Some Metamathematical Equivalents of the Axiom of Choice”, Prace z Logiki 3¸71–80.
+Surma, S. J. 1973, “The Concept of Lindenbaum Algebra and Its Genesis, in Studies in the History of Mathematical Logic, ed. by S. J. Surma, Ossolineum, Wrocław, 239–253.
+Surma, S. J. 1982, “On the Origins and Subsequent Applications of the Concept of Lindenbaum Algebra”, in Logic, Methodology and Philosophy of Science VI. Proceedings of the Sixth International Congress of Logic, Methodology and Philosophy of Science, Hannover 1979, ed. by L. J. Cohen, J. Łoś, H. Pfeiffer and K.–P. Podewski, Warszawa – Amsterdam: PWN Polish Scientific Publishers – North–Holland Publishing Company, 719–734.
+Tarski, A.–Lindenbaum, A. 1927, “Sur l’indépendance des notions primitives dans les systèmes mathématiques”, Annales de la Société Polonaise de Mathématique 7, 111–113.
+Tarski, A. 1949, Cardinal Algebras, New York: Oxford University Press.
+Tarski, A. 1956, Logic, Semantics, Metamathematics. Papers from 1923 to 1939, Oxford: Clarendon Press.
+Tarski, A. 1986, “What are Logical Notions?”, History and Philosophy of Logic 7, 143–154.
+Woleński, J. 1995, “Mathematical Logic in Poland 1900–1939: People, Institutions Circles, Institutions, Ideas”, Modern Logic V(4), 363–405; repr. in J. Woleński, Essays in the History of Logic and Logical Philosophy, Kraków: Jagiellonian University Press 1999, 59–84.
+Wójcicki, R. 1989, Theory of Logical Calculi. Basic Theory of Consequence Operations, Dordrecht: Kluwer Academic Publishers.
+Zygmunt, J.–Purdy, R. 2014, “Adolf Lindenbaum: Notes on His Life with Bibliography and Selected References”, Logica Universalis 8, Issue 3–4, 285–320.
+
+ 
+Author Information
+Jan Woleński
+Email: wolenski@if.uj.edu.pl
+University of Technology, Management and Information
+Poland
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+Epistemology of Perception, The | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Epistemology of Perception
+Perception is a central issue in epistemology, the theory of knowledge.  At root, all our empirical knowledge is grounded in how we see, hear, touch, smell and taste the world around us.  In section 1, a distinction is drawn between perception that involves concepts and perception that doesn’t, and the various epistemic relations that there are between these two types of perception are discussed–our perceptual beliefs and our perceptual knowledge.  Section 2 considers the role of causation in perception and focuses on the question of whether perceptual experience justifies our beliefs or merely causes them.  Sections 3 and 4 further investigate the epistemic role of perception and introduce two distinct conceptions of the architecture of our belief system: foundationalism and coherentism.  It is shown how perceptual experience and perceptual beliefs are integrated into these systems.  Finally, section 5 turns to the externalist view that  thinkers need not be aware of what justifies their perceptual beliefs.
+Table of Contents
+
+Perception and Belief 
+
+Seeing That, Seeing As and Simple Seeing 
+Perceptual Beliefs 
+
+
+Perception, Justification and Causation 
+
+Armstrong’s Causal Account of Perceptual Knowledge 
+
+
+Perception and Foundationalism 
+
+Traditional Foundationalism 
+Sellars and the Myth of the Given 
+Concepts and Experience 
+Modest Foundationalism 
+
+
+Perception and Coherentism 
+
+The Basic Idea Behind Coherentism 
+Bonjour and the Spontaneous Nature of Perceptual Beliefs 
+
+
+Externalism 
+References and Further Reading 
+
+ 1. Perception and Belief
+ a. Seeing That, Seeing As and Simple Seeing
+Perception is the process by which we acquire information about the world around us using our five senses.  Consider the nature of this information.  Looking out of your window, you see that it is raining.  Your perception represents the world as being like that.  To perceive the world in this way, therefore, it is required that you possess concepts, that is, ways of representing and thinking about the world.  In this case, you require the concept RAIN.  Thus, seeing that your coffee cup is yellow and that the pencil is green involves the possession of the concepts COFFEE CUP, YELLOW, PENCIL and GREEN.  Such perception is termed “perceiving that,” and is factive; that is, it is presupposed that you perceive the world correctly.  To perceive that it is raining, it must be true that it is raining.  You can also, though, perceive the world to be a certain way and yet be mistaken.  This we can call, “perceiving as,” or   in the usual case, “seeing as”.  A stick partly submerged in water may not be bent but, nevertheless, you see it as bent.  Your perception represents the stick as being a certain way, although it turns out that you are wrong.  Much of your perception, then, is representational: you take the world to be a certain way, sometimes correctly, when you see that the world is thus and so, and sometimes incorrectly, when the world is not how you perceive it to be.
+It also seems that there is a form of perception that does not require the possession of concepts (although this claim has been questioned).  It is plausible to claim that cognitively unsophisticated creatures, those that are not seen as engaging in conceptually structured thought, can perceive the world, and that at times we can perceptually engage with the world in a non-conceptual way.   You can tell that the wasp senses or perceives your presence because of its irascible behavior.  When you are walking along the High Street daydreaming, you see bus stops, waste bins, and your fellow pedestrians.  You must see them because you do not bump into them, but you do not see that the bus stop is blue or that a certain pedestrian is wearing Wrangler jeans. You can, of course, come to see the street in this way if you focus on the scene in front of you, but the claim here is that there is a coherent form of perception that does not involve such conceptual structuring.  Let us call such baseline perceptual engagement with the world, “simple seeing”.  This perception involves the acquisition of perceptual information about the world, information that enables us to visually discriminate objects and to successfully engage with them, but also information that does not amount to one having a conceptually structured representation of the world.  (Dretske, 1969, refers to simple seeing as “non-epistemic” seeing, and refers to ‘seeing that’ as “epistemic” seeing).
+You can, then, simply see the bus stop, or you can see that the bus stop is blue, or you can, mistakenly, see the bus stop as made of sapphire.  These are all forms of perceptual experience, ways you have of causally engaging with the world using your sensory apparatus and ways that have a distinctive conscious or “phenomenological” dimension.  Seeing in its various forms strikes your consciousness in a certain way, a way that you are now experiencing as you look at your computer screen.  This article investigates the causal and epistemic roles of this perceptual experience.
+A little more terminology: the term “sensation” can be used to refer to the conscious aspect of perception, but note that one can have such sensations even when one would not be said to be perceiving the world.  When hallucinating, for example, one is having the sensations usually characteristic of perceptual experience, even though in such cases one’s experience would not be described as perceptual.
+Consider how these various kinds of perceptual experience are related to our perceptual beliefs.  Perceptual beliefs are those concerning the perceptible features of our environment, and they are beliefs that are grounded in our perceptual experience of the world.  The content of such beliefs can be acquired in other ways: You could be told that the bus stop is blue, or you could remember that it is blue.  Right now, though, waiting for the bus, you acquire this belief by looking straight at it, and, thus, you have a perceptual belief concerning this particular fact.  Just how your perceptual beliefs are grounded in your perceptual experience is a contentious issue.  There is certainly a causal relation between the two, but some philosophers also claim that it is perceptual experience that provides justification for our perceptual beliefs.  This foundationalist claim is denied by the coherentist   (see sections 3 and 4 below).
+ b. Perceptual Beliefs
+First, one does not necessarily come to acquire perceptual beliefs in virtue of simply seeing the world.  Simple seeing is something that cognitively unsophisticated creatures can do, creatures such as wasps that do not have more sophisticated beliefs, propositional beliefs.  It is plausible, though, that if one sees a certain object as a bus stop, then one would also come to believe that there is a bus stop being seen.  In many cases, this is, of course, true, but it is not in all.  A famous example is the Muller-Lyer illusion:
+
+The two horizontal lines above look as though they are of different lengths, the upper line being longer than the lower.  If we have seen the illusion before, then we do not believe our eyes.  Instead, we believe that the lines are the same length (which they are).  Here is another case:  a habitual user of hallucinogenics may doubt the veracity of all his perceptions; he may not believe anything he sees.  His perception, however, amounts to more than simply seeing; he sees the moon as being made of cheese and his cup of tea as grinning up at him.  Yet, because of the doubt fostered by his frequent hallucinations, he does not move from seeing the world as being a certain way to believing that it is.  In most cases, though, if one sees the world as being a certain way, then one also believes that it is that way.    Last, let us return to the notion of “perceiving that.”  Such perception has a closer relationship with the acquisition of perceptual belief.  If one is described as perceiving that the world is a certain way, it is implied that one also believes that the world is so.  Here, there isn’t room for perception to come apart from belief.
+Thus, we have seen that we can be perceptually engaged with the world in various ways.  Such engagement can amount to the mere acquisition of perceptual information, the experience of seeing the world as being a certain way, or the possession of the cognitive states of perceiving and believing that it is so.  If all goes well, such perceptual beliefs may constitute perceptual knowledge of the world.  According to the traditional account, this is when those beliefs are true and when they are justified.  Perceptual knowledge consists in knowledge of the perceptible features of the world around us, and it is that which is grounded in our perceptual experience.  Again, the nature of this grounding is controversial.  Perceptual experience is certainly causally related to perceptual knowledge; foundationalists, however, make the further claim that such experience provides the justification that is constitutive of such knowledge (see section 3).  Others, though, including Armstrong (section 2a) and the coherentists (section 4), do not believe perceptual experience plays this justificatory role with respect to perceptual knowledge.  The next section considers this key issue of justification.
+But consider the issue of skepticism.  The skeptical arguments of Descartes (1641) have had an enormous influence on both the history and practice of epistemology.  He suggests certain scenarios that threaten to undermine all of our empirical knowledge of the world.  It could be that right now you are dreaming.  If you were, everything might appear to you just as it currently does; dreams are sometimes very real.  It is also possible that a powerful demon might be deliberately deceiving you; there may not be an external world at all, and all your perceptual experience and perceptual beliefs may be simply planted in your mind by this evil entity.  Given such scenarios, it is not clear how our perceptual beliefs can be justified and thus, how we can have perceptual knowledge.  Any reasons you have for thinking that such beliefs correctly represent the world are undermined by the fact that you could have such beliefs even if the external world did not exist.  Since the seventeenth century, epistemology has been trying to find a solution to this Cartesian scepticism.  This article simply assumes that we can have justification for our perceptual beliefs and that perceptual knowledge is possible.  Given this assumption, the focus is on how we should conceive of such justification.
+ 2. Perception, Justification and Causation
+Perceptual experience provides both causal and justificatory grounding for our perceptual beliefs and for our knowledge of the passing show.  In this section, we shall start to look at the causal and justificatory relations between perception, belief and knowledge.  As was discussed above, our perceptual experience can be conceptually structured: we can see the world as being a certain way, or we can see that it is thus and so.  Thus, such experience could be seen as providing justification for our perceptual knowledge in that you could be justified in taking things to have the properties you see them as having.  The fact that perceptual experience is conceptual, however, is not sufficient to ensure that your perceptual beliefs are justified.  Dave, a friend of yours, sees every tackle made against a player of West Ham United Football Club as a foul.  He is not, however, justified in taking this to be true.  Often these clashes are simply not fouls; Dave is wrong, and even when he is correct, when he really   sees that a foul has been committed, it would seem that his prejudiced observation of the game entails that in these cases he only gets it right through luck, and thus, he is not justified in his belief.  The fact, then, that our experience is conceptual does not entail that we have justified perceptual beliefs or knowledge.  Section 3 considers what else needs to be said, and investigates an account of how perceptual experience is seen to provide epistemic justification.  First, though, consider an account of perceptual knowledge that does not make use of the notion of justification.
+ a. Armstrong’s Causal Account of Perceptual Knowledge
+Armstrong (1961 / 1973) claims that perceptual knowledge simply requires that one’s perceptual beliefs stand in lawlike relations to the world.
+What makes…a belief a case of knowledge?  My suggestion is that there must be a lawlike connection between the   state of affairs Bap [that a believes p] and the state of affairs that makes ‘p’ true such that, given Bap, it must be   the case that p. (Armstrong, 1973, p. 75)
+Crudely, since causal relations are lawlike, if our perceptual and cognitive apparatus is such that it is buzzing flies   that cause us to have perceptual beliefs about buzzing flies, then it will be the case that we will have perceptual   knowledge of this annoying aspect of our environment when the bees cause the belief.  Armstrong calls his account   a “thermometer model” of knowledge.    We can come to have knowledge of the world just as a thermometer can come to represent its own temperature.  In both systems, there is simply a lawlike relation between a property of the world and a property of a representative   device (the level of mercury in a thermometer or the state of certain internal cognitive mechanisms of a thinker).
+Highlighting the role of perceptual experience, Armstrong claims that:
+“perception is nothing but the acquiring of knowledge of, or, on occasions, the acquiring of an inclination to believe in, particular facts about the physical world, by means of our senses,” (Armstrong, 1961, p. 105)
+He does, however, claim that there is a “contingent connection between perception and certain sorts of sensation,” and that this, “may help to explain the special ‘feel’ of perception,” (Armstrong, 1961, p. 112).  Conscious sensation, then, is not essential to perception.  I could be correctly said to see the road ahead as I drive late at night on the motorway, even though I have “switched off,” and appear to be driving on “autopilot.”  I can see the road because I am still causally acquiring beliefs about the world in front of me by way of my senses.  Similarly, cases of blindsight are also bonafide cases of perception.  Blindsight patients claim to have a complete lack of visual experience on, for example, their left side, yet they can make reliable reports about shapes and objects that are presented to this side of their perceptual field (they themselves, however, claim that they are merely guessing).  They do, then, seem to be acquiring correct beliefs about their environment via a causal engagement between the world and their senses, and thus, they perceive the world even though in such cases the contingent connections with sensation are lost.  Thus, on Armstrong’s account, perceptual experience is not necessary for perceptual knowledge.  When one does have conscious perceptual experiences, these do not play a justificatory role; they are simply causally related to perceptual belief and knowledge.  Many, however, find such an account too sparse, in that one’s experience does not play any justificatory or epistemic role in the acquisition of perceptual beliefs or knowledge.  It is claimed that a more satisfying theory of perception should include an account of why perceptual experience justifies our perceptual beliefs and that we should not be content with simply an account of why we are caused to acquire them.  The following theory of perception attempts to include just such an account of justification.
+ 3. Perception and Foundationalism
+Foundationalists claim that the superstructure of our belief system inherits its justification from a certain subset of perceptual beliefs upon which the rest sits.   These beliefs are termed “basic beliefs.”  Our belief system, then, is seen as having the architecture of a building.  Later, in section 4, we shall see that coherentists take our belief system to be more akin to an ecosystem, with our beliefs mutually supporting each other, rather than relying for their justification on certain crucial foundation stones.  There are various versions of this foundationalist approach, two of which are discussed in the next two sections.
+ a. Traditional Foundationalism
+Traditionally the foundations of knowledge have been seen as infallible (they cannot be wrong), incorrigible (they cannot be refuted), and indubitable (they cannot be doubted).  For empiricists, these foundations consist in your beliefs about your own experience.  Your beliefs are basic and non-basic.  Your basic beliefs comprise such beliefs as that you are now seeing a red shape in your visual field, let us say, and that you are aware of a pungent smell.  In order to justify your non-basic belief that Thierry Henry is the best striker in Europe, you must be able to infer it from other beliefs, say that he has scored the most goals.  The traditional foundationalist claim, however, is that this sort of inferential justification is not required for your basic beliefs.  There may not   actually be a red object in the world because you may be hallucinating, but, nevertheless, you cannot be wrong about the fact that you now believe that you am seeing something red.  Justification for such beliefs is provided by experiential states that are not themselves beliefs, that is, by your immediate apprehension of the content of your sensory, perceptual experience, or what is sometimes termed, “the Given”.  It is, then, your experience of seeing red that justifies your belief that you are seeing red.  Such experience is non-conceptual. It is, though, the raw material which you then go on to have conceptual thoughts about.  This conception of the relation between knowledge and experience has had a distinguished history.  It was advocated by the British empiricists–Locke, Berkeley and Hume–and by the important modern adherents C. I. Lewis (1946) and R. Chisholm (1989).  However, this conception of how your perceptual beliefs are justified has been widely attacked, and the next two sections address the most influential arguments against traditional foundationalism.
+ b. Sellars and the Myth of the Given
+Sellars (1956) provides an extended critique of the notion of the Given. There are two parts to Sellars’ argument: first, he claims that knowledge is part of the “logical space of reasons;” and second, he provides an alternative account of “looks talk,” or an alternative reading of such claims as “that looks red to me,” claims that traditionally have been seen as infallible and as foundations for our perceptual knowledge.  According to Sellars, no cognitive states are non-inferentially justified.  For him:
+“The essential part is that in characterising an episode or a state as that of knowing, we are placing it in the logical space of reasons, of justifying and being able to justify what one says.” (Sellars, 1956, p. 76)
+Whether we are talking about perceptual or non-perceptual knowledge, we must be able to offer reasons for why we take such claims to be true.  To even claim appropriately that I have knowledge that I now seem to be seeing a red shape, I must be able to articulate such reasons as, “since my eyes are working fine, and the light is good, I am right in thinking that I am having a certain sensory experience.”  As Rorty (1979, chapter 4) argues, justification is essentially a linguistic or “conversational” notion; it must consist in the reasoned recognition of why a particular belief is likely to be true or why one is rightly said to be having a certain experience.  If such an account of justification is correct, then the notion of non-inferentially justified basic beliefs is untenable and non-conceptual perceptual experience cannot provide the justification for our perceptual beliefs.
+Surely, though, “this looks red to me,” cannot be something that I can be wrong about. Such a foundationalist claim seems to be undeniable.  Sellars, however, suggests that such wording does not indicate infallibility. One does not say, “This looks red to me,” to (infallibly) report the nature of one’s experience; rather, one uses such a locution in order to flag that one is unsure whether one has correctly perceived the world.
+… when I say “X looks green to me”…the fact that I make this report rather than the simple report “X is green,”   indicates that certain considerations have operated to raise, so to speak in a higher court, the question ‘to endorse   or not to endorse.’  I may have reason to think that X may not after all be green. (Sellars, 1956, p. 41)
+Thus, Sellars provides a two-pronged attack on traditional foundationalism.  The way we describe our perceptual experience does indeed suggest that we have infallible access to certain private experiences, private experiences that we cannot be mistaken about.  However, we should recognize the possibility that we may be being fooled by grammar here.  Sellars gives an alternative interpretation of such statements as, “this looks red to me,” an interpretation that does not commit one to having such a privileged epistemological access to one’s perceptual experience.  Further, a conceptual analysis of “knowledge” reveals that knowledge is essentially a rational state and, therefore, that one cannot claim to know what one has no reason for accepting as true.  Such reasons must be conceived in terms of linguistic constructions that one can articulate, and thus, the bare presence of the Given cannot ground the knowledge we have of our own experience or, consequently, of the world.  This, then, is a rejection of the traditional foundationalist picture, or what Sellars calls, “the Myth of the Given.”
+One of the forms taken by the Myth of the Given is the idea that there is, indeed must be, a structure of particular matter of such fact that (a) each fact can not only be noninferentially known to be the case, but presupposes no other knowledge either of particular matters of fact, or of general truths; and (b) such that the noninferential knowledge of facts belonging to this structure constitutes the ultimate court of appeal for all factual claims, particular and general, about the world. (Sellars, 1956, pp. 68-9)
+ c. Concepts and Experience
+According to traditional foundationalism, the content of perceptual experience, the Given, is not conceptual in nature.  It has been argued, however, that experience should not be seen in this traditional way.  The phenomenon of “seeing as,” suggests to some that experience should be interpreted as essentially conceptual in nature.
+What is this a picture of?
+
+You perhaps see a duck.  I can, however, alter the character of your visual experience by changing the beliefs that you have about this picture.  Think RABBIT looking upward.  The picture now looks different to you even though you are seeing the same configuration of black marks on a    white background.  This picture is usually referred to as “the duck-rabbit.”  Originally, you saw the drawing as a duck; now you see it as a rabbit (or, as Wittgenstein would say, you notice different “aspects” of the picture).  You have, then, distinct perceptual experiences dependent on the particular concepts “through which” you see that picture.  Some take this to prove that perceptual experience is not pre- or non-conceptual but that it is essentially a conceptual engagement with the world.  Such experience does not only consist in our having certain retinal images: “There is more to seeing than meets the eyeball,” (Hanson, 1988, p. 294).  It is, rather, the result of a necessary conceptual ordering of our perceptual engagement with the world.  This is a theory of experience that is at odds with that of the traditional foundationalist.
+The theory has Kantian roots.  For Kant, one cannot experience the world without having a conceptual structure to provide the representational properties of such experience.  In Kant’s terms, the intuitions received by the sensibility cannot be isolated from the conceptualization carried out by the understanding.  As he states, “Intuitions without concepts are blind, concepts without intuitions are empty” (Kant, 1781, A51 / B75).  Intuitions, or what we might call bare perceptual experience–that which does not have a conceptual structure–cannot be seen as experience of a world, and therefore, such a conception of our perceptual engagement with the world cannot be seen as experiential at all; it is “blind”.  The second clause of Kant’s aphorism claims that concepts that are not based on information received through the senses can have no empirical content.  The Kantian claim, then, is that thinking about the world and experiencing it are interdependent.  This is an attack on the distinction drawn in section 1a between simple seeing and conceptually structured forms of perception such as seeing that and seeing as.  Kant claims the notion of simple seeing is incoherent since such a non-conceptual engagement with the world isn’t experiential.
+Not everyone accepts that the phenomenon of seeing as entails this picture of experience.  Dretske (1969) argues that simple or non-epistemic seeing is independent of epistemic seeing; that is, it is independent of seeing that is conceptually structured.  Non-epistemic seeing amounts to the ability to visually differentiate aspects of one’s environment such as the bus stop and the waste bin, and one can do this without seeing these items as anything in particular (although, of course, one usually does).  Further, “seeing as” presupposes simple seeing.  One has to have some bare experience to provide the raw materials for our conceptually structured experience or thought.  We may be able to see the picture above as a duck or as a rabbit, but we can only do this if we have a non-conceptual experience of a certain configuration of black marks on a white background.  One’s experience of the basic black and   white lines in the figure is independent of any concepts one may have that may then allow one to see these lines in a certain more sophisticated way, that is, as a duck or as a rabbit.  In reply, however, it could be claimed that even such a basic experience as this relies on the contingent fact that one has the concepts of, for example, BLACK and   WHITE.  Perhaps if one did not have these concepts, then one could not even see this basic figure.
+We have, then, looked at two problems faced by the traditional foundationalist, both of which center on the alleged non-conceptual nature of perceptual experience.  Two responses have been made by those who feel the force of these objections: some modify foundationalism in order to take account of some of the considerations above, and others reject it altogether.  The first of these responses is the topic of the next section.
+ d. Modest Foundationalism
+Some foundationalists agree that the Given is in some ways problematic, yet they still attempt to maintain a “modest” or “moderate” foundationalism.  Audi (2003) and Plantinga (2000) promote this view.  First, our perceptual beliefs concerning both the world and our own experience are not seen as infallible.  You can believe that you see red or that you seem to see red, yet either belief could turn out to be unjustified.  Second, non-conceptual perceptual experience does not play a justificatory role.  Perceptual beliefs are simply self-justified; that is, it is reasonable to accept that they are true unless we have evidence to suggest that they may be untrustworthy.  Such a view of perception remains foundationalist in nature because we still have basic beliefs, beliefs that are non-inferentially justified.  Thus, the justification possessed by perceptual beliefs is defeasible.  You may, for example, have good evidence that your cup of tea has been spiked with an hallucinogen, and, therefore, the justification for your perceptual belief that a pig has just flown past the window is defeated.  More controversially, your belief that you seem to see red could be defeated by psychological evidence concerning your confused or inattentive state of mind.  However, in the absence of any beliefs concerning such contravening evidence, your perceptual beliefs have prima facie justification.
+Modest foundationalism avoids a dilemma that faces traditional foundationalism.  It is certainly plausible that beliefs about your own perceptual experience are infallible and that you can’t be wrong when you claim that the cup looks red.  It is not clear, however, how such beliefs can ground your perceptual knowledge since they are about your own mental states and not the world.  The fact that the cup looks red to you does of course relate to the cup, but primarily it is a fact about how that cup strikes your experience.  Recoiling from such a picture, you could claim that your foundational beliefs concern the color of the cup and not merely your experience of the cup.  However, it is not plausible that your beliefs about the color of the cup are infallible, and therefore, such beliefs cannot play a foundational role according to the traditional account.  The modest foundationalist can avoid this dilemma.  For a perceptual belief to be justified, it does not have to be infallible.  You can, therefore, have beliefs about the properties of objects in the world playing the requisite foundational role rather than those that are simply about your own experiences.
+ 4. Perception and Coherentism
+Modest foundationalists attempt to keep some of the features of the traditional foundationalist picture while conceding that their foundations aren’t infallible.  There is, however, a distinct response to the problems associated with traditional foundationalism, and that is to reject its key feature, namely its reliance on foundational, non-inferential, basic beliefs.  Coherentism presents an alternative.  Coherentists such as Bonjour (1985) and Lehrer (1990) claim that beliefs can only be justified by other beliefs and that this is also true of our perceptual beliefs.  Section 3.a described how  Sellars argued for such a position in that, for him, perceptual beliefs must be supported by beliefs about the reliability of our experience.  The next two sections explain the coherentist account of justifying perceptual claims.
+ a. The Basic Idea Behind Coherentism
+For a coherentist, a particular belief is justified if one’s set of beliefs is more coherent with this belief as a member, and, conversely, a belief is unjustified if the coherence of one’s set of beliefs is increased by dropping that particular belief.  The basic idea behind coherentism is that the better a belief system “hangs together,” the more coherent it is.  How, though, should we conceive of “hanging together” or “coherence”?  First, one requires consistency.  Our beliefs should not clash; they must not be logically inconsistent: we should not believe p and believe that not p.  However, more than mere logical consistency is required.  One could imagine a set of beliefs that consisted of the belief that 2+2=4, the belief that Cher is a great actress, and the belief that yellow clashes with pink.  Although these beliefs are logically consistent, they do not form a particularly coherent belief set since they do not have any bearing on each other at all. For coherence, therefore, some kind of positive connection between one’s beliefs is also required.  Such a positive connection is that of inference.  A maximally coherent belief set is one that is logically consistent and one within which the content of any particular belief can be inferred from the content of certain other beliefs that one holds. Conversely, the coherence of a set of beliefs is reduced if there are subgroups of beliefs that are inferentially isolated from the whole.
+ b. Bonjour and the Spontaneous Nature of Perceptual Beliefs
+For a coherentist, perceptual beliefs are justified, as all beliefs are, if our acceptance of them leads to an increase in the overall coherence of our belief system.  An account, though, is also required of how perceptual beliefs can be seen as correctly representing the external world, a world that is independent of our thinking.  This is particularly pressing for the coherentist because the justification for our perceptual beliefs is provided by one’s other beliefs and not by one’s perceptual experience of one’s environment.
+To account for the representational ability of perceptual beliefs, Bonjour focuses upon a class of beliefs that he calls “cognitively spontaneous.”  These are beliefs we simply acquire without inference.  Right now, on turning my head to the left, I spontaneously acquire the belief that the orange stapler is in front of the blue pen, and that my glass of water is half full.  These perceptual beliefs are likely to be true when certain conditions obtain–that the light is good and that I am not too far away from what I am looking at (these Bonjour calls the “C-conditions”).  My belief, then, that my glass is half full is only justified if I also have beliefs about the obtaining of C-conditions.  However, for Bonjour’s account to be persuasive, he needs to provide some justification for this claim that beliefs acquired in the C-conditions are likely to be true representations of the world.   This he does.  First, we do not arrive at them via inference; they are spontaneous.  Second, the beliefs that we acquire in this way exhibit a very high measure of coherence and consistency with each other and with the rest of our belief system.  The question arises, then, as to why this should be so, since it is not obvious why such spontaneous beliefs should continue to cohere so well.  If, for example, these beliefs were randomly produced by our perceptual mechanisms, then our set of beliefs would very soon be disrupted.  Bonjour’s claim is that there is a good a priori explanation for the ongoing coherence and consistency of our set of beliefs, that is, that it is the result of our beliefs being caused by a coherent and consistent world.  Thus, our perceptual beliefs correctly represent a world that is independent of our thinking.  Non-conceptual perceptual experience does not play a justificatory role with respect to perception.  This experience may cause us to acquire certain beliefs about our environment, but the justification for these perceptual beliefs is provided by the inferential relations that hold between these beliefs and the rest of our belief system.
+There are important objections.  Plantinga (1993) notes that in the Cartesian skeptical scenarios we also have a coherent set of beliefs, but in these cases they are caused not by a coherent and consistent world but by an evil demon or by a mad scientist who manipulates a brain that lies in a vat of nutrient fluid (see Descartes 1641 and Putnam 1981).  Bonjour’s claim, however, is that it is a priori more probable that our beliefs are not caused by these creatures.  Plantinga finds such reasoning “monumentally dubious.”
+Even if such a hypothesis [that concerning the claim that our coherent belief system corresponds to a coherent world] and these skeptical explanations do have an a priori probability…it’s surely anyone’s guess what that probability might be.  Assuming there is such a thing as a priori probability, what would be the a priori probability of our having been created by a good God who…would not deceive us?  What would be the a priori probability of our having been created by an evil demon who delights in deception?  And which, if either, would have the greater a priori probability?…how could we possibly tell? (Plantinga, 1993, p. 109)
+ 5. Externalism
+The varieties of foundationalism and coherentism examined so far share a certain approach to questions concerning epistemic justification.  They ask whether the evidence available to you is sufficient to justify the beliefs that you hold.  Questions of justification are approached from the first person perspective.  Foundationalists claim that you have justified perceptual beliefs because of the fact that these beliefs are grounded in your perceptual experience, experience that is, of course, accessible to you; it is something of which you are aware, something that you can reflect upon.  Coherentists find justification in the inferential relations that hold between your perceptual and non-perceptual beliefs, relations that are, again, something to which you have cognitive access.  Epistemic practices can, however, also be assessed from the third person perspective.  It can be asked whether a person’s methods do, in fact, lead him or her to have true beliefs about the world, whether or not such reliability is something of which they are aware.  Externalists claim that it is this perspective with which epistemology should be concerned.  A key notion for externalists is that of reliability.  A belief is justified if it is acquired using a method that is reliable, with reliability being cashed out in terms of the probability that one’s thinking latches onto the truth.
+The justificatory status of a belief is a function of the reliability of the processes that cause it, where (as a first approximation) reliability consists in the tendency of a process to produce beliefs that are true rather than false. (Goldman, 1979, p. 10)
+One need not be able to tell by reflection alone whether or not one’s thinking is reliable in the required sense; a thinker does not have to be aware of what it is that justifies his or her beliefs.
+According to a reliabilist, then, a perceptual belief is justified if it is the product of reliable perceptual processes.  One strategy that reliabilists have adopted is to ground their account of reliability in terms of the causal connections that thinkers have to the world.  Roughly, for one to have a justified perceptual belief that p, the fact that p should cause my belief that p.  I am justified in believing that Frasier is on television because its presence on the screen causes my belief.  Such accounts are developed by Goldman (1979 / 1986) and Dretske (1981).  It is important to note the difference between this kind of account and that of Armstrong (section 2a).  Armstrong eschews all talk of justification and provides a wholly causal account of perceptual knowledge.  Many externalists, however, give an account of justification in causal terms.
+It was assumed throughout this article, except during the discussion of scepticism, that we do have perceptual knowledge of the world, and the article explored the multifarious epistemic and causal relations that there are between the various modes of perception and perceptual knowledge.  Justification is the key issue, and there are four basic stances.  One stance is to agree with Armstrong and deny that perceptual experience plays any justificatory role.  Foundationalists see perceptual experience as the justificatory basis for perceptual knowledge, and it is such experience that ultimately provides justification for all our knowledge of the world.  Problems with the traditional form of this position urged us to explore a more modest form of foundationalism.  Others reject foundationalism altogether.  Coherentists claim that the justification for our perceptual beliefs is a function of how well those beliefs “hang together” with the rest of our belief system.  They too reject the justificatory role of perceptual experience.  Some externalists claim that justification is a matter of reliability and that so long as our perceptual beliefs are produced by mechanisms that reliably give us true beliefs, then those beliefs are justified.  Therefore, perception is of prime epistemological importance, and it remains the focus of lively philosophical debate.
+ 6. References and Further Reading
+
+Armstrong, D. M. ‘The Thermometer Theory of Knowledge’ in S. Bernecker & F. Dretske, eds. Knowledge: Readings in Contemporary Epistemology, Oxford University Press, Oxford, pp. 72-85, 2000.  Originally published in Armstrong, 1973, pp. 162-75, 178-83.
+Armstrong, D. M. Belief, Truth and Knowledge, Cambridge University Press, Cambridge, 1973.
+Armstrong, D. M. Perception and the Physical World, Routledge and Kegan Paul, London, 1961.
+
+Included in the above is Armstrong’s causal account of perception.
+
+
+Audi, R. “Contemporary Modest Foundationalism,” in Pojman, L. ed. The Theory of Knowledge: Classical and Contemporary Readings, Wadsworth, Belmont, CA. 3rd edition, 2003.
+
+A useful paper in which it is argued that modest foundationalism has advantages over traditional foundationalism.
+
+
+Bonjour, L. The Structure of Empirical Knowledge, Harvard University Press, Cambridge, Mass. 1985.
+
+A well-developed coherentist theory of justification which includes an account of the role of perception within such a theory.  (One should note, however, that Bonjour has recently abandoned coherentism in favour of a version of foundationalism.)
+
+
+Chisholm, R. M. Theory of Knowledge, 3rd edition, Englewood Cliffs, New Jersey, 1989.
+
+A wide ranging study of various epistemological issues including his version of traditional foundationalism.
+
+
+Descartes, R. “First Meditation,” in Meditations on First Philosophy, 1641.  Reprinted in The Philosophical Writings of Descartes, eds. J. Cottingham, R. Stoothoff & D. Murdoch, Cambridge University Press, Cambridge, 1983.
+
+One of the most influential passages of epistemological writing in the history of Western philosophy in which various skeptical possibilities are raised that suggest that our perceptual beliefs may not be justified.
+
+
+Dretske, F. Seeing and Knowing, Routledge and Kegan Paul, London, 1969.
+
+Dretske defends the claim that seeing can be seen as non-conceptual (or non-epistemic).
+
+
+Dretske, F. Knowledge and the Flow of Information, MIT Press, Cambridge, Mass. 1981.
+
+Here he presents his sophisticated version of reliabilism.
+
+
+Goldman, A. I. “What is Justified Belief?,” in G. Pappas, ed. Justification and Knowledge: New Studies in Epistemology, Reidel, pp. 1-23, 1979.
+Goldman, A.I. Epistemology and Cognition, Harvard University Press, Cambridge, Mass. 1986.
+
+In the above, Goldman forwards his reliabilist account of justification.
+
+
+Grice, H. P. “The Causal Theory of Perception,” in Proceedings of the Aristotelian Society, Supplementary Volume 35, pp. 121-52, 1961.
+
+A precursor to the various contemporary causal theories of perception, presented in the context of a sense datum theory of perception.
+
+
+Hanson, N. R. “From Patterns of Discovery,” in Perception, R. Schwartz, ed. pp. 292- 305, 1988.
+
+Hansen argues that the nature of our perceptual experience depends on the concepts we possess.
+
+
+Kant, I. The Critique of Pure Reason, trans. N. Kemp Smith, 1929 edition, The Macmillan Press, Ltd. Basingstoke, Hampshire, 1781.
+
+One of the greatest and most influential works of modern philosophy.  Of relevance to this article are Kant’s thoughts concerning the relation between our conceptual framework and the nature of our perceptual experience.
+
+
+Lehrer, K. Theory of Knowledge, Westview Press, Boulder, Colorado, 1990.
+
+Lehrer provides a critique of foundationalism and his own developed version of coherentism.
+
+
+Lewis, C. I. An Analysis of Knowledge and Evaluation, La Salle, Illinois, 1946.
+
+Amongst various other important epistemological issues, one can find Lewis’s account of traditional foundationalism.
+
+
+McDowell, J. Mind and World, Harvard University Press, Cambridge, Mass. 1994.
+
+In this transcription of his Locke lectures, McDowell argues that perceptual experience is essentially conceptual in nature.
+
+
+Plantinga, A. Warrant: The Current Debate, Oxford University Press, Oxford, 1993.
+
+An excellent epistemology textbook which includes an in-depth critique of Bonjour’s coherentism.
+
+
+Plantinga, A. Warranted Christian Belief, Oxford University Press, Oxford, 2000.
+
+In the context of a sophisticated discussion of the philosophy of religion, Plantinga develops a version of modest foundationalism which he calls “reformed epistemology”.
+
+
+Putnam, H. Reason, Truth and History, Cambridge University Press, Cambridge, 1981.
+
+In chapter 1, Putnam presents his contemporary brain in a vat version of the Cartesian skeptical scenario.
+
+
+Rorty, R. Philosophy and the Mirror of Nature, Princetown University Press, Princetown, 1979.
+
+A historically informed and extended attack on traditional foundationalism.
+
+
+Schwartz, R. Perception, Blackwell, Oxford, 1988.
+
+A good collection of articles focused on the epistemology of perception.
+
+
+Sellars, W. Empiricism and the Philosophy of Mind. Originally published in H. Feigl and M. Scrivens, eds. Minnesota Studies in the Philosophy of Science, vol. 1, University of Minnesota Press, Minneapolis, pp. 253-329, 1956.  Page numbers here refer to 1997 reprint, Harvard University Press, Cambridge, Mass.
+
+This includes Sellars’ influential attack on the Given.
+
+
+
+Author Information
+Daniel O’Brien
+Email:  D.Obrien@bham.ac.uk 
+The University of Birmingham
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

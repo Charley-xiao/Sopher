@@ -1,0 +1,439 @@
+
+
+
+
+
+
+
+
+
+Knowledge Norms | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Knowledge Norms
+Epistemology has seen a surge of interest in the idea that knowledge provides a normative constraint or rule governing certain actions or mental states. Such interest is generated in part by noticing that fundamentally epistemic notions, such as belief, evidence, and justification, figure prominently not only in theorizing about knowledge, but also in our everyday evaluations of each others’ actions, reasoning, and doxastic commitments. The three most prominent proposals to emerge from the epistemology literature have been that knowledge is the norm of assertion, the norm of action, and the norm of belief, though we shall consider other proposals as well.
+‘Norm’ here is often, but not always, understood as a rule which is intimately related to the action/mental state type in question, such that this relationship is a constitutive one: the action or mental state is constituted (in part) by its relationship to the rule. Typically such views argue for a norm of permission such that knowledge is required, as a necessary condition, for permissibly acting or being in the relevant mental state: in schematic form, one must: X only if one knows a relevantly specified proposition. Some philosophers also endorse a sufficiency condition as well, so that knowledge is necessary and sufficient for (epistemic) permission to X, such that one must: X if and only if one knows a relevantly specific proposition. Such views put knowledge to work in elucidating normative concepts, practical rationality, and conceptual priorities in epistemology, mind, and decision theory. This article outlines the growing literature on these topics.
+Table of Contents
+
+Knowledge Norm of Assertion
+
+Problem Sentences: Moore’s Paradox
+Conversational Patterns
+Rivals and Objections
+Sufficiency 
+
+
+Knowledge Norm of Action
+
+Knowledge and Practical Reasoning
+Knowledge and Reasons
+Sufficiency and Pragmatic Encroachment
+
+
+Knowledge Norm of Belief
+
+The Belief-Assertion Parallel
+Knowledge Disagreement Norm
+
+
+References and Further Reading
+
+1. Knowledge Norm of Assertion
+Assertion is the speech act we use to make claims about the way things are: in English, asserting is the default speech act for uttering a sentence in the indicative or declarative mood, such as when one tells someone, “John is in his office” (for an overview of assertion, including ways of characterizing it that do not make essential appeal to epistemic norms, see MacFarlane 2011).  The recent literature on the norms of assertion has concentrated on whether there is a rule governing the speech act of assertion which specifies a necessary condition for making the speech act permissible on that occasion; section 1.D below briefly discusses the idea of a sufficient condition for permissible assertion. The view has its roots in the work of philosophers who argued that when one asserts, claims, or declares that p (which are to be distinguished from simply uttering “p”) one somehow thereby represents oneself as knowing that p, even though p itself may not refer to the speaker’s knowledge at all (see Moore 1962: 277; Moore 1993: 211; Black 1952; and Unger 1975: 251ff.). The idea that when one asserts that p one represents oneself as knowing that p—call this position ‘RK’—enabled an explanation of certain problem sentences and conversational patterns.
+a. Problem Sentences: Moore’s Paradox
+G.E. Moore noted the paradoxical nature of asserted conjunctions where one affirms a proposition but also denies that one believes it or that one knows it. Conjunctions such as (1) and (2), he said, sound “absurd” (Moore 1942: 542-43; 1962: 277):
+(1)   Dogs bark, but I don’t believe that they do.
+(2)   Dogs bark, but I don’t know that they do.
+The order of the conjuncts does not matter to their absurdity, as (3) and (4) make clear (Moore 1993: 207):
+(3)   I don’t believe that dogs bark, but they do.
+(4)   I don’t know that [whether] dogs bark, but they do.
+What captured Moore’s interest about such asserted sentences is that they could be true and yet it seems incoherent to state that truth: “It is a paradox that it should be perfectly absurd to utter assertively words of which the meaning is something which may quite well be true—is not a contradiction” (Moore 1993:  209). Moore’s own diagnosis of their absurdity appeals to something like RK, namely that “by asserting p positively, you imply, though you don’t assert, that you know that p” (1962: 277). So in asserting one of (1) – (4), one asserts, in one conjunct, a proposition and thereby also represents oneself as knowing it; but one also denies, in the other conjunct, that one knows it (or believes it, entailed by knowing it), thus generating a contradiction between what one claims (that one doesn’t know) and what one represents as being the case (that one does know).
+b. Conversational Patterns
+Peter Unger (1975) pointed to certain conversational patterns which seem to support RK, because RK well-explains them. One of these concerns the common use of the question “How do you know?” in response to someone’s assertion: such a question may be used to elicit clarification about why one is flat-out asserting, but importantly, it also may be used to challenge someone’s assertion. What is more, it is rare that this question is condemned as out of line in response to an assertion. Such questions are appropriate even though an asserter has said nothing at all about knowing what she’s asserted, and an asserter cannot acceptably answer such questions by claiming that she never claimed that she knew it. And an asserter who concedes with “I don’t know,” or modifies her original assertion by moving to “I believe p” or “I think p” or “Probably p” will normally be taken to be retreating from her original outright assertion that p: she has instead replaced her claim with a weaker one. RK explains all these points (Unger 1975: 263-64; cf. also Slote 1979).
+Timothy Williamson (1996; 2000, Ch. 11), provides a fuller defense of the view, and pointed to further conversational patterns explained by RK. Williamson’s account replaces RK with the Knowledge Norm of Assertion, sometimes called the ‘Knowledge Account of Assertion’, which says that
+(KNA) One must: assert that p only if one knows that p
+KNA can be thought of “as giving the condition on which a speaker has the authority to make an assertion. Thus asserting p without knowing p is doing something without having the authority to do it, like giving someone a command without having the authority to do so” (2000: 257). Williamson thinks of KNA as constitutive of the speech act of assertion, conceived of by analogy with the rules of a game: just as the rules of chess are essential to it in that they constitute what the game is and what it is to play chess, so Williamson thinks of the speech act of assertion as constituted by its relation to KNA. In this sense, mastering the speech act of assertion involves implicitly grasping this norm and the practice which it governs (2000: 241); indeed, the speech act plausibly functions to express one’s knowledge (Turri 2011).  If this is correct, KNA would explain RK, a descriptive fact about what speakers who assert represent about themselves: for it is in virtue of engaging in a practice whose norm we all implicitly grasp that one would represent oneself as conforming to that norm. (For helpful discussion of Williamson’s approach to constitutivity, see Turri 2014a; for an account on which the KNA is derived from a more fundamental norm of intellectual flourishing, see Brogaard 2014.)
+Williamson notes that in addition to the “How do you know?” question which can be used to implicitly challenge one’s authority to assert, the stronger challenge question “Do you know that?” explicitly challenges one’s authority, and the dismissal “You don’t know that!” rejects one’s authority. KNA explains this range of aggressiveness (Williamson 2000: 253; 2009: 344). Turri (2010) further points out that there is an asymmetry between the acceptability of certain kinds of prompts to assertion:
+(5) Do you know whether p?
+(6) Is p?
+are typically interchangeable as prompts to an assertion, and the flat-out assertion “p” serves to answer each equally well; but certain stronger questions, such as “Are you certain that p?” typically cannot be used, as can (5) and (6), as an initial prompt for assertion, whereas weaker prompts such as “Do you think that p?” or “Do you have any idea whether p?” seem to request something weaker than a flat-out assertion (perhaps a hedged assertion or a prediction), are thereby not interchangeable with (5) and (6). Related to this data is that a standard response when one feels not well-positioned to assert, in reply to a prompt like (6), is to answer “I don’t know.” The appropriateness of the “I don’t know” response is telling given that the query was about p, not about whether one knows that p. Thus KNA seems confirmed by these data.
+In addition to prompts and challenges, and our responses to them, there is data from lottery assertions (Williamson 2000: 246-252, Hawthorne 2004: 21-23). Many people find it somehow inappropriate for people to flat-out assert of a particular lottery ticket (before the draw has been announced) that it will lose, even though given a large enough lottery its losing is overwhelmingly probable. Many also find it plausible that one does not know that such a ticket will lose. KNA proponents aim to explain the first point in terms of the second: the reason it is inappropriate for one to make such lottery assertions, absent special knowledge about the lottery being rigged, is that one does not know that the ticket will lose.
+Benton (2011) and Blaauw (2012) also point to peculiar facts about the parenthetical positioning of “I know” in assertive sentences, which seem well-explained by KNA. Notice that “I believe” (or “I think,” or “probably”) can occur in assertive constructions to hedge one’s assertion, and syntactically they can occur in prefaced or utterance-initial position (7), parenthetical position (8), or utterance-final parenthetical position (9), with each sounding as good as the other:
+            (7) I believe that John is in his office.
+            (8) John is, I believe, in his office.
+            (9) John is in his office, I believe.
+Yet with “I know,” (10) sounds perfectly in order, but (11) and (12), while coherent, can seem oddly redundant:
+            (10) I know that John is in his office.
+            (11) ?  John is, I know, in his office.
+            (12) ?  John is in his office, I know.
+KNA is able to explain why: if flat-out assertions express one’s knowledge, or represent one as knowing, it will be expressively redundant to add to it that one knows (where (10) is not redundant because it seems to be the amplified claim that: one knows that John’s in his office). However this explanatory argument from KNA of such data has been critiqued as incomplete or inadequate (see McKinnon & Turri 2013, McGlynn 2014).
+Finally, knowledge seems to be connected to assertion in parallel with its connection to showing someone how to do something: in the same way that knowing that p seems to be required for permissibly asserting that p, knowing how to X seems to be required for permissibly showing someone how to X.  In this sense, knowing is the pedagogical norm of showing, for structurally parallel considerations to the linguistic data discussed above (Moorean conjunctions, challenges, prompts, etc.) is available for pedagogical contexts (Buckwalter & Turri 2014).
+In short, KNA claims to offer the best explanation of these data from Moorean conjunctions, challenges, prompts, responses to prompts, lottery assertions, parenthetical positioning, and pedagogical norms.
+c. Rivals and Objections
+Though KNA has been widely defended, its opponents offer substantial criticism and suggest rival accounts requiring other epistemic or alethic conditions: most rival norms of assertion appeal to justified or reasonable or well-supported belief, or that it be reasonable or credible for one to believe, or that one’s assertion be true.
+Williamson (2000: 244-249) considered a Truth Norm to be the most significant rival to KNA. Because knowledge is factive, the KNA requires its assertions to be true; but according to the Truth Norm, one must assert that p only if p is true (a further norm requiring evidence for p would be derivable from the requirement of truth), and thus is less demanding than the KNA. Weiner (2005) argues for a Truth Norm by noting that cases of prediction and retrodiction seem to be counterexamples to KNA, that is, they are assertions which seem intuitively acceptable even though the propositions affirmed are not known. Weiner further argues that the Truth Norm can rely on Gricean pragmatic resources to explain the data from lotteries and Moorean conjunctions, for the Truth Norm on its own does not predict the inappropriateness of such assertions. While Weiner (2005) and Whiting (2013) argue for truth as necessary and sufficient for the epistemic propriety of assertion, Littlejohn (2012) and Turri (2013b) argue (compatibly with the KNA) that truth is necessary for epistemically proper assertion; Littlejohn’s defense of factivity focuses on the requirement that assertions about what a subject ought to do would have to satisfy the truth requirement to be properly asserted, whereas Turri’s draws on experimental investigation of people’s judgments of false assertions. For criticisms of Weiner’s Truth Norm, see Pelling (2011) and Benton (2012). A related norm is that proposed by Maitra and Weatherson (2010): they argue that a certain class of statements, namely those concerned with what is “the thing for one to do,” form an important exception to the KNA. Their rival norm, the Action Rule, says “Assert that p only if acting as if p is true is the thing for you to do” (2010: 114). They argue that their Action Rule collapses into the Truth Norm for propositions concerning what one should do (“if an agent should do X, then that agent is in a position to say that they should do X,” 2010: 100), though it does not do so for other propositions.
+Douven (2006) argues for a Rational Credibility Norm, and Lackey (2007) argues for a Reasonable-to-Believe Norm; for related norms, see also McKinnon’s (2013) Supportive Reasons Norm. These views roughly hold  that to be epistemically acceptable, an assertion that p need not be known, but must be credible or reasonable for the speaker to believe, even if it is not actually believed by the speaker. Douven’s approach argues that his norm is as adequate as the KNA in explaining most of the linguistic data canvassed above, but that his Rational Credibility norm is a priori simpler than, and so preferable to, the KNA (cf. Douven 2009 which updates some of his arguments). Lackey’s influential discussion argues for this view by suggesting that cases of selfless assertion are intuitively acceptable. Selfless assertions involve cases in which an asserter possesses knowledge-worthy evidence, appreciates the strength of that evidence, yet for non-epistemic reasons fails to believe that p (and asserts that p anyway). Thus on Lackey’s particular account, the speaker need not even believe what is asserted (for criticism of Lackey’s view, see Turri 2014b). Because these norms sanction lottery assertions and Moorean assertions, Douven and Lackey both attempt to explain away the impropriety attending to such assertions.
+Kvanvig (2009, 2011a) argues for a Justified Belief Norm; somewhat related is Neta’s (2009) Justified-Belief-that-One-Knows Norm. These norms require, for permissible assertion, a justified belief of some kind, either that the asserter justifiably believe what is asserted, perhaps even knowledge-level justification; or that the asserter hold the higher order justified belief that she knows what she’s asserted (the latter of which will, on many views, itself require that she justifiably believe the asserted proposition). These norms do not actually require an assertion to be true, and thus their proponents have to explain the apparent defect in a false assertion, even if one is largely absolved from blame given that that one was justified in believing what was asserted (for discussion see Williamson 2009: 345). Similarly, Coffman (2014) argues for a Would-Be Knowledge Norm, which is stronger than a justified belief norm in that it requires not only knowledge-level justification, but also that the belief not be Gettiered. This norm also, however, does not require truth, for one might have a false belief which (given one’s knowledge-level justification) would be knowledge if only it were true.
+Another rival approach is a context-sensitive norm of assertion which accepts that an epistemic norm governs assertion, but claims that its content can vary according to context. There are different ways of formulating such an account. On Gerken’s (2012) view, the epistemic norm of a central type of assertion is an internalist norm of “Discursive Justification,” according to which an asserter must be able to articulate reasons for her belief in the proposition asserted. This approach is context-sensitive in that what counts as adequate reason-giving will vary according to context (for other norms of assertion that impose primarily ‘down stream’ requirements on the speaker, see also Rescorla 2009 and MacFarlane 2009: 90ff.).
+Goldberg (2009, 2011) initially applied the KNA to issues in the epistemology of testimony. More recently, Goldberg (2015) formulates and defends a context-sensitive norm on which knowledge is often required for permissible assertion—perhaps knowledge is even the default value—but in other contexts justification or reasonable belief might be enough, and in still other contexts, perhaps something even stronger than knowledge is required (certainty, perhaps). Goldberg draws on Grice’s (1989) maxim of quality, according to which assertions are governed by the first supermaxim and its two submaxims:
+Quality: Try to make your contribution one that is true.
+
+
+Do not say that which you believe to be false.
+Do not say that for which you lack adequate evidence. (1989, 27)
+
+
+Grice’s quality maxim, invoking as it does the notion of ‘adequate’ evidence, would seem to be just such a context-sensitive norm (though see Benton 2014a, for reasons to doubt this). Goldberg’s hypothesis is that there is Mutually-Manifest Epistemic Norm of Assertion (MMENA), which is comprised of a norm (ENA), and the context-sensitive mechanism (RMBS) which fixes the epistemic condition required by ENA:
+ENA   S must: assert p, only if S satisfies epistemic condition E with respect to p, i.e., only if S has the relevant warranting authority regarding p.
+RMBS  When it comes to a particular assertion that p, the relevant warranting authority regarding p depends in part on what it would be reasonable for all parties to believe is mutually believed among them (regarding such things as the participants’ interests and informational needs, and the prospects for high-quality information in the domain in question) (Goldberg, 2015, Chap. 12)
+McKinnon’s (2013) Supportive Reasons Norm is designed to be similarly context-sensitive, and on a natural reading, Lackey’s Reasonable-to-Believe Norm can be understood this way as well; Stone (2007: 100-101) also prefers, but does not develop, a kind of context-sensitive norm opposed to the KNA. Such rival norms have the intuitive benefit of explaining a great range of conversational contexts in which we seem to assert acceptably; however with this flexibility comes the burden of having to provide plausible explanations of the data, considered in sections I.A and I.B above, which invoke knowledge.
+Note however that opting for a context-sensitive norm need not mean that one eschews the KNA. DeRose (2002; 2009 Chap. 3) accepts a version of KNA, but regards “know(s)” as semantically context-sensitive. Thus the standard for the truth of “knowledge” ascriptions at a context sets the standard for permissible assertion: for a given speaker S in a conversational context C, the truth conditions for “S knows that p” at C are the assertibility conditions for S to assert that p in C. On this view, knowledge remains the norm of assertion. Relatedly, Schaffer (2008) argues for a contextualist version of KNA which he claims supports contrastivism about knowledge.
+Many of the rival norms to KNA are motivated in part by the idea that KNA is just too strong an epistemic requirement on assertion: many KNA opponents find it implausible to think that one has done anything wrong by asserting what one doesn’t know, so long as one’s assertion, or one’s decision to assert p, is supported in the relevant way by adequate evidence or reasons for p (see McGlynn 2014 for a thorough discussion). Some of these objections to KNA come from appeals to intuitions about cases, in particular, cases in which one asserts with strong grounds or evidence, but one is in a Gettier situation, or what one asserts is unluckily false. In general, such cases appeal to what are judged to be blameless assertion (for concerns about relying on such judgments of blame, see Turri & Blouw 2014). Some proponents of KNA respond that in such cases one asserts reasonably if one reasonably took oneself to know, even though on KNA, one still asserts impermissibly: its being reasonable is what excuses one for having violated the norm, and the plausibility of calling it an ‘excuse’ suggests that a norm was violated (Williamson 2000: 256; DeRose 2009: 93-95, Sutton 2007: 80, Hawthorne & Stanley 2008: 573, 586); but this excuse maneuver has been heavily criticized for multiplying senses of propriety or for being too general (Lackey 2007, Gerken 2011, Kvanvig 2011a). See also Littlejohn 2012 and 2014 for extensive discussion of the notion of excuse, as related to these norms. 
+Other opponents of the KNA are particularly motivated to preserve the acceptability of our assertive practices within special contexts which are nevertheless familiar and ones in which it seems that we do assert, such as the philosophy seminar room (see Goldberg, 2015). Still others rely on intuitions about cases and a desire to give a normative role to the hearer of an assertion (see Pelling’s 2013b “knowledge provision” account). Some express skepticism at the very idea of there being a constitutive epistemic norm of assertion in Williamson’s sense, preferring instead the idea that more general norms of cooperation and rationality (perhaps those given by Grice) will suffice to explain any normativity in our practice of saying and asserting (e.g. Cappelen 2011; see Benton, 2014a, and Montgomery 2014 for discussion). Maitra (2011) in particular presents a challenge to Williamson’s way of formulating the notion of constitutive rules on analogy with the rules of a game. Yet the general idea that a constitutive epistemic norm can individuate speech acts has been deployed for other speech acts on the assertive spectrum: Turri (2013) thereby individuates the stronger speech act of guaranteeing, and Benton & Turri (2014) individuate the speech act of prediction.
+The final rival to the KNA considered here is a Certainty Norm (Stanley 2008), on which to assert that p one must be (subjectively) certain that p. This norm is motivated in part by the idea that the Moorean conjunction schemas
+(13)  p but I’m not certain that p
+(14)  p but it is not certain that p
+strike many to be just as problematic as the knowledge and belief conjunctions (1)-(4) considered above; a Certainty Norm could explain them, and if certainty is required for knowledge, it could also explain (1)-(4). However, the Certainty Norm inherits the ‘too strong’ objection with which many charge KNA, and as noted above, certainty does not figure in both prompts and challenges to assertions (Turri 2010). Also, it is unclear how the Certainty Norm will handle the truth desideratum insofar as conversational participants generally seem to care about truth, and not just a speaker’s confidence, in assertion.
+d. Sufficiency
+Even if KNA can seem to impose an overly demanding condition on the propriety of assertion, on first pass it might seem that knowledge at least provides a sufficient condition on epistemically permissible assertion. After all, this idea goes, even if some epistemic/alethic standard weaker than knowledge is necessary for permissible assertion, nevertheless surely having knowledge is sufficient.  Most of the rivals to KNA ought to agree that when one knows, one thereby arguably meets the less stringent standards of: truth, it being reasonable/credible to believe, being justified in believing, and (if the contextually set standards for certainty do not easily come apart from those of knowledge) being certain enough to assert. Thus some of KNA’s defenders (cf. Hawthorne 2004: 23 n. 58, and 87; DeRose 2009: 93), and many of its opponents, could be tempted to endorse a sufficiency direction of the knowledge norm, such as the following: 
+(KNA-S)  One is properly epistemically positioned to assert that p if one knows that p.
+(As shall be seen below in section 2.c, similar sufficiency principles, tying knowledge to action, undergird pragmatic encroachment views of knowledge.)
+But Lackey (2011, 2013) has argued that in fact, KNA-S is false (compare Pelling 2013a for another argument). She appeals to cases of what she calls isolated second-hand knowledge to show that in some settings, particularly those involving experts, asserting even though one knows is epistemically deficient. Consider a case in which an oncologist has referred her patient for lab tests, which arrive back on her day off. She must meet with the patient to provide the diagnosis, if any, and is only able to confer briefly with the oncologist from the lab about what the diagnosis is (that he has pancreatic cancer). The doctor can learn from her colleague’s testimony that her patient has pancreatic cancer, but this knowledge is isolated (she knows no other facts about the test results or the diagnosis), and entirely second-hand (via testimony with the lab oncologist). Given her epistemic situation, Lackey argues, it is intuitively (epistemically) impermissible for the doctor to assert to her patient that he has pancreatic cancer, even though she knows this. More generally, for experts asserting as experts, it seems that asserting with merely isolated second-hand knowledge is (epistemically) improper, because experts ought to engage their expertise first-hand, or ought to have more than isolated knowledge gained entirely through expert testimony. Thus Lackey argues that KNA-S is false. (See Carter & Gordon 2011 for an appeal to the idea that understanding is needed. For a challenge to Lackey’s cases, see Benton 2014b; for her reply, see Lackey 2014.)
+2. Knowledge Norm of Action
+Knowledge seems intimately connected to our reasons for, and our evaluations of, action. Recently many philosophers have endorsed normative connections between knowledge and action, and have deployed principles according to which knowledge is either necessary, sufficient, or both necessary and sufficient for appropriate action. Some of these discussions are focused on action as the result of practical reasoning, or on the connection between knowledge and reasons, or on knowledge as a sufficient epistemic position for acting on a proposition. We will consider these in turn.
+a. Knowledge and Practical Reasoning
+Some philosophers have noticed intuitive connections between knowledge, assertion, and practical reasoning (see Fantl & McGrath 2002; Hawthorne 2004, esp. 21-32, and Ch. 4; Stanley 2005; and Hawthorne & Stanley 2008).  Many thus argue that knowledge plays an important normative role in practical reasoning: when one faces a decision over whether to act that depends on the truth of some proposition, then acting without knowing that proposition can seem epistemically suspect and deserving of criticism. We often invoke knowledge when justifying someone’s decision to act, and we often cite their lack of knowledge when censuring others for acting on inadequate grounds; knowledge figures in our appraisals of blame, negligence, and in conditional orders wherein one is commanded to X just in case one knows a specified condition to obtain.
+These facts support the idea that one ought only to use known propositions as premises in one’s practical deliberations. For example, if you opt against purchasing very affordable health insurance, on the grounds that you are plenty healthy, you may be criticized by your loved ones precisely because you do not know that you will not soon fall gravely ill. To take another example: suppose that you spent a dollar on a lottery ticket in a 10,000 ticket lottery with a $5,000 prize, and you are deliberating about whether to sell your ticket. Suppose you reason as follows:
+The ticket is a loser.
+So if I keep the ticket, I will get nothing.
+But if I sell the ticket, I will get a penny.
+So I should sell the ticket. (Hawthorne 2004: 29, 85)
+Such reasoning should strike us as unacceptable and a plausible reason for why is that the first premise isn’t known. Similarly, suppose that someone offered to sell you their ticket in the same lottery for a cent: if you decline on the basis that you know their ticket will lose, that may also strike us as the wrong basis for declining, for it seems (to many) that you don’t know the ticket will lose. Indeed, if you do know the first premise, standard decision theory validates the reasoning; this suggests that only one’s beliefs which amount to knowledge should figure in to shaping one’s decision table (cf. Weatherson 2012).
+These kinds of considerations suggest the following necessary direction norm, Action-Knowledge Principle (AKP), which gives a necessary condition on appropriately treating a proposition as a reason for acting:
+(AKP)  Treat the proposition that p as a reason for acting only if you know that p (Hawthorne & Stanley 2008: 578)
+AKP plausibly lies behind our epistemic evaluations of actions, and also provides a nice diagnosis of some comparative intuitions about low stakes vs. high stakes cases (e.g. Stanley 2005, 9-10).
+A parallel debate concerns the idea that there is a common epistemic norm—say, knowledge, or perhaps epistemic ‘warrant,’ or justification—which provides a necessary condition on both appropriate assertion in particular and appropriate action/practical reasoning more generally: see Brown 2011 and 2012, Montminy 2013, Gerken 2013. As we will see in the next section, a structurally similar question concerns whether a common epistemic norm governs practical reason as well as theoretical reason (that is, on what one can appropriately take as a reason for believing).
+Some important criticisms of AKP are the following. First, as with the KNA above, it doesn’t license acting on p when one holds a justified belief that p; indeed, one might be Gettiered with respect to p (see Brown 2008, Neta 2009). Acting on p in such cases seems to many to be entirely appropriate, and thus these are counterexamples to AKP. As with the KNA, the reply (Hawthorne & Stanley 2008: 573-74, 586) is that such subjects are blameless for making an excusable mistake, and the need for an excuse is explained by AKP.
+Second, it has been objected that AKP doesn’t license acting on subjective probabilities of a proposition, and thus that it can seem in conflict with Bayesian decision theory. Sometimes one is only in a position to treat propositions that are probable for one as reasons for acting; Cresto (2010) argues that when probabilistic talk is interpreted in subjectivist terms, AKP can be violated even though it seems as though one has done nothing wrong. On standard Bayesian decision theory, one plugs one’s probabilities, along with one’s values for possible outcomes, into one’s decision table to discern the act which maximizes expected utility.  If you assign 0.7 probability to (have 0.7 credence in) the proposition that it will rain, and on that basis choose to carry an umbrella on your walk, have you violated AKP? Perhaps not, for if you know that you assign 0.7 probability to it raining, and use this knowledge as your reason for acting, then you do not violate AKP: the proposition that you treat as your reason for so acting is that rain is 0.7 probable (Hawthorne & Stanley 2008: 580-583). Arguably, one’s credences are not always luminous to one, and thus there is still a role for knowledge (and thus AKP) to play. Weatherson (2012) argues that the role for knowledge in decision theory is that it sets the standard for what gets on to one’s decision table; moreover, it might be that one’s credences can constitute knowledge (Moss 2013), and if so there is room for AKP to govern actions based on them. But still, it might be implausible to suppose that every such case of appropriately acting on a probability involves your knowing what your credence is: though your credence in it may be 0.7 on this occasion, this may not be transparent to you. It may be sufficient for you to act on the more coarse-grained probability that it’s more likely than not that it will rain, even if you do not form the belief that it is more likely than not that will rain. On this way of looking at things, the objection remains. For important constructive work adjudicating these issues and proposing some ways in which a knowledge norm for practical reasoning and Bayesian decision theory are compatible, see Weisberg (2013).
+b. Knowledge and Reasons
+We standardly cite reasons as propositions which ought to make a difference to someone’s decision to act one way or another. Such normative reasons are reasons there are for a particular agent to believe, feel, or act a certain way. (Such reasons are distinguishable from both explanatory reasons—reasons why an agent believed or felt or acted—and from motivating reasons—reasons for which an agent acted in a particular way.)  Normative reasons can be either possessed by an agent or not possessed by an agent: if Iris is at the bar and there is petrol in the glass in front of her, then there is a reason for her not to drink the liquid in her glass, but it will not be a reason Iris possesses unless she is aware that there is petrol in the glass.
+A natural way to approach the connection between knowledge and action is by noting that possessing a reason for some action arguably depends on knowing a proposition, and that lacking knowledge can rob one of possessing the relevant reason (see Hyman 1999, Unger 1975, Ch. 5, Alvarez 2010, and Littlejohn 2014). If Iris knows that there is petrol in the glass, then that is a reason she possesses to refrain from drinking it; but if she does not know it, then she does not possess that reason to refrain, even though there is a reason for her to refrain. There being petrol in the glass can only be a reason Iris possesses if she knows it.
+This view connects naturally with the above discussion of the normative relation between knowledge and action: where one treats a proposition as one’s reason for action, and then acts for that reason, one only acts properly when one knows that proposition. This is because, on the view being considered, one cannot possess p as a reason to ϕ unless one knows that p. Of course, one’s motivating reason for ϕ-ing might be a falsehood: one might falsely believe that q and thereby take q as one’s reason for ϕ-ing, and one’s belief that q explains why one ϕ’d. On the view being considered then, one cannot in that circumstance have had q as a reason, for one cannot (because q is false) know that q. That is, the reasons one takes to be one’s reasons can come apart from the reasons one in fact possesses. If this is correct, it has consequences for how to understand the normative concept of justification. In particular, knowledge figures importantly in understanding what reasons justify one in believing or in acting, such that the mark of justification is not an internalist or subjectivist notion of rationality but instead an externalist or objectivist notion explicable in terms of facts or knowledge of facts. See Littlejohn (2014) for more.
+Some philosophers question the claim, crucial to the above line of reasoning, that one can possess p as a reason, or properly treat p as a reason for acting, only if p is true (and known). Comesaña and McGrath (2014) call this “factualism about reasons-had,” and against it they argue that one can have false reasons (see also Schroeder 2008, Fantl & McGrath 2009: 100-104, and Dancy 2014, among others).  The case for the possibility of having false reasons is built primarily upon two ideas. First, it seems to them that ascribing a reason to someone for their action can be done even if that reason is (or entails) a false proposition. That is, they claim that one could acceptably say of someone that “The reason she turned down the job was that she had another job offer,” even if she did not have another job offer and the speaker knows this. Second, when someone acts on a mistaken belief, there is pressure to claim that she acted for the same reason as she would’ve had her belief in fact been true. On this way of looking at things, there must be the same psychological state that rationalizes Iris’s taking and drinking from the glass with petrol in it as would (counterfactually) rationalize Iris’s taking and drinking from a glass with gin and tonic in it; in other words, such views take what it is that rationalizes to be what it is that provides ones with reasons, both motivating and normative: one has the same normative reasons in both the good and bad cases. Such views are at odds with the standard semantics about schemas such as “S’s reason for X-ing was/is that p” or “The reason S had for X-ing was that p”, which entail that p and so are factive; see Comesaña and McGrath (2014) for ways of handling these semantic issues.
+As noted in the last section, there is a parallel question about whether the epistemic norm governing practical reason is the same as that governing theoretical reason. Hawthorne & Stanley’s AKP is a knowledge norm on practical reason, but they also note the analogous principle regarding reasons for belief:
+(TKP) Treat the proposition that p as a reason for believing q only if one knows that p. (2008, 577)
+Littlejohn (2014) notes a compelling argument that AKP is true just in case TKP, and that more generally, whatever epistemic status norms practical reason must also norm theoretical reason. The argument for it goes thus. Suppose (for reductio) that in fact, the norm for theoretical reason were less epistemically demanding than that for practical reason: for concreteness, suppose that one could treat p as a reason for believing that q only if one were justified in believing that p, but that knowledge still governed practical reason along the lines suggested by AKP.  In that case, if you justifiably believe that this liquid is gin, and you knew that you ought (if you can) to make another round of drinks for your guests, you could take your justified belief that it is gin as your reason for believing that: you can make them another round of drinks. But AKP says that you may treat that latter proposition (that you can make them another round of drinks) as a reason only if you know it; and let’s suppose you don’t know it, because in fact it’s not gin but petrol. In this situation, though it’s proper for you to treat your justified belief as a reason to form another belief, AKP says that you cannot properly treat this new belief as a reason for acting, namely making another round of drinks. If the epistemic norms diverged in this way, they would “demand that you were akratic,” and this seems absurd (Littlejohn 2014: 135-136). Things go similarly if the divergence goes the other way, namely if the norm of theoretical reason were more demanding than the norm of action: together these would permit situations in which one can act on a proposition (say, because one justifiably believes it), but not use it as a premise from which to deduce, and form beliefs in, other propositions. Thus there is a case for the unity thesis that a single epistemic status governs both practical and theoretical reasoning, even if it is not knowledge; for arguments that it is something weaker than knowledge, like justification or warrant, see Gerken (2011).
+c. Sufficiency and Pragmatic Encroachment
+Though Fantl & McGrath question the necessary direction principles AKP, they and others do endorse and defend sufficiency direction principles on which knowledge of a proposition is sufficient to rationalize acting on that proposition. Hawthorne & Stanley (2008, 578) defend a biconditional principle which adds to AKP a sufficiency direction, given a choice one faces which depends on a particular proposition. Where a choice between options X1… Xn is “p-dependent” just in case the most preferable of X1… Xn conditional on the proposition that p is not the same as the most preferable of X1… Xn conditional on the proposition that not-p, the Reason-Knowledge Principle (RKP) says:
+(RKP) Where one’s choice is p-dependent, it is appropriate to treat the proposition that p as a reason for acting just in case one knows that p.
+RKP gives necessary and sufficient conditions for appropriately treating a proposition as a reason for acting. Similarly Fantl & McGrath (2002, 2009, 2012) defend at length a variety of sufficiency conditions tying knowledge to action:
+(Action) If you know that p, then if the question of whether p is relevant to the question of what to do, it is proper for you to act on p.
+(Preference) If you know that p, then you are rational to prefer as if p.
+(Inquiry) If you know that p, then you are proper not to inquire further into whether p.
+(KJ)         If you know that p, then p is warranted enough to justify you in ϕ-ing, for any ϕ.
+On the face of them, these principles can seem exactly right: for example, it might seem obvious that if one knows a proposition, then one is in good enough position to act upon it. But these principles admit of modus tollens as well: if it is not proper for one to act on p, or rational to prefer as if p, or proper to close off inquiry regarding p, or where p is not warranted to enough for one to act, for any action one considers undertaking, then one does not know that p. These principles bear out the intuitive judgments of many about such cases: to the extent that one’s epistemic position in some p seems inadequate when facing a decision that depends on that p, to that same extent we tend to be inclined to deny that one knows that p. That is, in cases where the practical stakes for one make it irrational for one to act on a proposition, such principles entail that one does not know that proposition (even though in other contexts where one faces no such decision, where one has the same evidence or is in the same “epistemic” position, one might know that proposition). Thus such views endorse “pragmatic encroachment” in epistemology (also known as “subject-sensitive invariantism” in Hawthorne 2004: Ch. 4, Brown 2008, and DeRose 2009), for practical considerations can seem to encroach on whether one knows. See Neta 2009 and Kvanvig 2011b for some criticisms, and Fantl & McGrath 2012 for arguments that pragmatic encroachment isn’t only about knowledge.
+3. Knowledge Norm of Belief
+a. The Belief-Assertion Parallel
+Some philosophers (going back to at least Frege, Peirce, and Ramsey) find plausible the idea that belief or judgment amount to a kind of “inner assertion” where (full) belief is the inner analogue to outward (flat-out) assertion. For those inclined to this view who also accept the Knowledge Norm of Assertion, there is a motivation to accept a parallel Knowledge Norm of Belief. Williamson gestures at this idea thus:
+It is plausible, nevertheless, that occurrently believing p stands to asserting p as the inner stands to the outer. If so, the knowledge rule for assertion corresponds to the norm that one should believe p only if one knows p. Given that norm, it is not reasonable to believe p when one knows that one does not know p. (2000, 255-56)
+Adler (2002: 276ff.) calls this idea the “Belief-Assertion Parallel,” and offers a range of considerations suggesting that belief and assertion are on a par in this way.
+Note however, that this Parallel is likewise intuitive should one prefer some kind of evidential or justification norm, rather than a knowledge norm, on both assertion and on belief. If, epistemically speaking, one shouldn’t assert to others that p without some sufficient evidence or justification for p, then one shouldn’t (epistemically speaking) believe that p without some similar sufficient evidence or justification for p; and in reverse, if (epistemically speaking) one shouldn’t believe that p without some sufficient evidence or justification for p, then one shouldn’t (epistemically speaking) assert to others that p without some similar sufficient evidence or justification for p. Thus to the extent that one finds the epistemic standard for assertion to be similar, if not identical, to the epistemic standard for belief, to that extent the Belief-Assertion Parallel will seem intuitive. Only if one takes the standard for one to be higher than the standard for the other will one be motivated to reject the Belief-Assertion Parallel. (For in-depth discussion, see Goldberg 2015, Chs. 6 and 7.)
+Though Williamson does not formulate it explicitly, taking a cue from his KNA schema would provide us with a similar formulation for a Knowledge Norm of Belief, which gives a necessary condition for the propriety of belief:
+(KNB) One must: believe p only if one knows p.
+(Compare Sutton 2005, 2007; for clarification of how best to understand a norm like KNB, see Jackson 2012.) In addition to the inner/outer parallel noted above, Williamson also provides a different consideration in favor of KNB, one that invokes teleological considerations concerning the “aim” of belief:
+If believing p is, roughly, treating p as if one knew p, then knowing is in that sense central to believing. Knowledge sets the standard of appropriateness for belief. That does not imply that all cases of knowing are paradigmatic cases of believing, for one might know p while in a sense treating p as if one did not know p—that is, while treating p in ways untypical of those in which subjects treat what they know. Nevertheless, as a crude generalization, the further one is from knowing p, the less appropriate it is to believe p. Knowing is in that sense the best kind of believing. Mere believing is a kind of botched knowing. In short, belief aims at knowledge (not just truth). (Williamson 2000, 47)
+Notice that the KNB provides an elegant and unified account of Moore’s Paradox at the level of belief, a desideratum of many approaches to theorizing about Moore’s Paradox (e.g. Sorenson 1988): these authors note that while the sentences (1)-(4), uttered assertively, are absurd, it also seems absurd to believe (the propositions of) any of their conjuncts together. Huemer (2007) argues explicitly for the idea that theorizing about Moorean conjunctions in this way should lead us to accept both KNA and KNB.
+Sosa (2010/2011, Chap. 3: 41-53) provides an interesting argument for another version of the Belief-Assertion Parallel, which arrives at norms similar to KNA and KNB, but he does so by explicit appeal to teleological considerations about the aim of belief. Sosa argues for what he calls the Affirmative Conception of Belief (2011: 41; cf. Sosa 2014):
+Consider a concept of affirming that p, defined as: concerning the proposition that p, either (a) asserting it publicly, or (b) assenting to it privately.
+With this Affirmative Conception in hand, he then applies considerations from the propriety of means-end action in general to the action of assertion as a special case, using the terminology of his virtue-theoretic epistemology (cf. Sosa 2007):
+If one asserts that p as means thereby to assert that p with truth, this essentially involves the relevant means-end belief. I mean the belief that asserting that p is a means to thereby assert that p with truth. And this belief is equivalent to the belief that p. Accordingly, if that means-end belief needs to amount to knowledge in order for the means-end action to be apt, then in order for a sincere assertion that p to be apt, the agent must know that p. In this way, knowledge is a norm of assertion. If an assertion (in one’s own person) that p is not to fall short epistemically it must be sincere, and a sincere assertion that p will be apt only if the subject knows that p. This is, moreover, not just a norm in the sense that the subject does better in his assertion that p provided he knows that p. Rather, if his assertion is not apt, it then fails to meet minimum standards of performance normativity. Any performance (with an aim) that is inapt is thereby flawed. … Knowledge is said to be necessary for proper assertion … If knowledge is the norm of assertion, it is plausibly also the norm of affirmation, whether the affirming be private or public. (2011: 48)
+Sosa goes on to develop an intriguing argument for the “equivalence” of the knowledge norm of assertion and the value-of-knowledge thesis (2011: 49-52). For a related view tying the norms of belief and assertion to a virtue-theoretic account, see Wright (2014).
+Instructive here is Bach’s combination of views (Bach & Harnisch 1979, Bach 2008). Bach holds a Belief Norm of Assertion, on which the only norm fundamental to assertion is that assertions must be sincere (one must outright believe what one flat-out asserts), but he also holds a Knowledge Norm of Belief much like KNB (2008: 77). Because Bach accepts the KNB, he gets a derived version of the KNA: for one must believe only what one knows, but given his Belief Norm of Assertion, one must assert only what one believes; thus one must assert only what one knows, if one is believing as one ought. This combination of views is one which accepts KNB, accepts (the derivative) KNA, but which denies the Belief-Assertion Parallel at the level of what norms are constitutive of assertion and of belief.
+An objection to the KNB, similar in spirit to objections to KNA considered above, is that many find it implausible to hold that one is doing epistemically poorly, or doing anything epistemically impermissible, by believing many propositions which we nevertheless do not know, and which we furthermore properly take ourselves not to know. For some important criticisms of KNB, stemming from arguments that there is nothing epistemically problematic or improper about lottery propositions, see McGlynn (2013, 2014). Relatedly, while most find it incoherent or irrational to believe the Moorean conjunction form (1) considered above, many find it unproblematic to believe some conjunctions of the form (2), namely believing a proposition and also believing that one does not know that proposition. Those who object to KNB on these grounds tend to deny a parallel between the epistemic standard for belief and the epistemic standard for knowledge. Couched in evidential terminology, many epistemologists intuitively think of belief in terms of an evidence-threshold model, according to which the evidential threshold which one must meet in order permissibly belief some proposition is lower than the evidential threshold for knowledge: more evidence is required to know than to (permissibly) believe.
+b. Knowledge Disagreement Norm
+In a spirit related to considerations stemming from endorsement of the KNB, Hawthorne & Srinivasan (2013) argue for a Knowledge Norm of Disagreement. In the growing literature on the epistemology of disagreement, debate ensues over what one should do in the face of disagreement about some proposition, particularly when those disagreeing with one are regarded as one’s intellectual or evidential peers. Typically such cases of peer disagreement are formulated such that you have formed a belief or a judgment on (or assigned a credence to) some proposition p, and have done so on the basis of some evidence: perhaps it is a judgment about which of two horses won a very close race, and the evidence is visual; or perhaps it is a judgment about what you and your friend each owe from calculating your share of a restaurant bill which you are splitting, in which case the evidence is intellectual and inferential. Many philosophers writing on such cases of disagreement are “conciliationists” of one sort or another, that is, they endorse the idea that in some such disagreements, one does something improper or irrational if one does not either suspend judgment on p, or reduce one’s credence in p. Opposed to conciliationists are “dogmatists” who advocate the idea that in face of such disagreements, it is sometimes appropriate or rational for one to hold steadfast or “stick to one’s guns” by retaining one’s belief or one’s credence.  (See essays in Feldman & Warfield 2010, and Christensen & Lackey 2013 for more.)
+Hawthorne & Srinivasan (2013: 11-12), drawing on a knowledge-centric epistemology which takes knowledge to be the central goal of our epistemic activity, articulate a position which is in some ways a middle ground between these two views. They argue for the following Knowledge Disagreement Norm:
+(KDN)  In a case of disagreement about whether p, where S believes that p and H believes that not-p:
+(i) S ought to trust H and believe that not-p iff were S to trust H, this would result in S’s knowing not-p
+(ii) S ought to dismiss H and continue to believe that p iff were S to stick to her guns this would result in S’s knowing p, and
+(iii) in all other cases, S ought to suspend judgment about whether p.
+KDN’s ‘ought’ clauses are motivated by a ranking of actions according to their counterfactual outcomes: according to KDN’s clause (i), one should be ‘conciliatory’ in the face of disagreement just in case trusting one’s disagreeing interlocutor would result in one gaining knowledge, whereas according to clause (ii), one should be ‘dogmatic’ in the face of disagreement just in case would lead to retaining one’s knowledge. Finally, in cases where neither party knows whether the proposition under dispute is true, each should suspend judgment.
+Notice that KDN, formulated in the terminology of knowledge and outright belief, is neutral on the matter of how to respond when the ‘disagreement’ concerns divergences in credences toward a proposition: its clause (iii) is capable of accommodating many different approaches here. Further, KDN is fully general in that it does not hold only for cases of peer disagreement: its clauses (i) and (ii) are designed to capture the appropriateness of occasions in which someone defers to an expert or someone in a better evidential position, and thereby can come to know by trusting them. If it is plausible to suppose that becoming apprised of peer disagreement can defeat one’s knowledge, then such cases may be subsumed to clause (iii) (2013: 13-14, 21ff). Finally, KDN has the merit that, if followed, knowledge will tend to be maximized for all parties to a disagreement: if we disagree, but by trusting you, I can come to know what you believe, I ought to do so.
+It may be objected that KDN is not easily followed, precisely because knowledge is a non-luminous condition, that is, one is not always in a position to know when one knows; and this is particularly pressing in the case of disagreement, for it is clear that (at least) one of the disagreeing parties doesn’t know, and it can be utterly unclear to most such disputants which one (if any) knows. This objection, and similar objections that are occasionally pressed against the norms of assertion and practical reasoning covered in earlier sections, seems to assume that norms must be perfectly operationalizable, that is, they must be such that one is always in a position to know whether one is complying with them (Williamson 2008). On this idea, a norm N, which requires that one X in circumstances C, will be perfectly operationalizable just in case S can know she is in C, and is thus in a position to reason that, given that she is in C, and could X by A-ing, and that N says she ought to X in C, that S ought to A. But it is a substantive question whether norms are or must be perfectly operationalizable; and given that many such conditions of epistemological interest are arguably non-luminous (see Williamson 2000: Ch. 4), one might reconsider the worth of that assumption. For more discussion of this issue and how it relates to the hypological categories of praise and blame, see Hawthorne & Srinivasan (2013: 15-21).
+4. References and Further Reading
+
+Adler, Jonathan. 2002. Belief’s Own Ethics. Cambridge: MIT Press.
+Alvarez, Maria. 2010.  Kinds of Reasons. Oxford University Press.
+Bach, Kent, and R. Michael Harnish. 1979. Linguistic Communication and Speech Acts. Cambridge: MIT Press.
+Bach, Kent. 2008. “Applying Pragmatics to Epistemology.” Philosophical Issues 18: 68-88.
+Benton, Matthew A. 2011. “Two More for the Knowledge Account of Assertion.” Analysis 71: 684-687.
+­­­­­Benton, Matthew A. 2012. “Assertion, Knowledge, and Predictions.” Analysis 72: 102-105.
+Benton, Matthew A. 2014a. “Gricean Quality.” Noûs.
+Benton, Matthew A. 2014b. “Expert Opinion and Second-Hand Knowledge.” Philosophy and Phenomenological Research.
+Benton, Matthew A. and John Turri. 2014. “Iffy Predictions and Proper Expectations.” Synthese 191: 1857-1866.
+Blaauw, Martijn. 2012. “Reinforcing the Knowledge Account of Assertion.” Analysis 72: 105-108.
+Black, Max. 1952. “Saying and Disbelieving.” Analysis 13: 25–33.
+Brogaard, Berit. 2014. “Intellectual Flourishing as the Fundamental Epistemic Norm.” In Clayton Littlejohn and John Turri (eds.), Epistemic Norms: New Essays on Action, Assertion, and Belief. Oxford: Oxford University Press.
+Brown, Jessica. 2008. “Subject-Sensitive Invariantism and the Knowledge Norm for Practical Reasoning.” Noûs 42: 167-189.
+Brown, Jessica. 2010. “Knowledge and Assertion.” Philosophy and Phenomenological Research 81: 549-566.
+Brown, Jessica. 2011. “Fallibilism and the Knowledge Norm for Assertion and Practical Reasoning.” In Jessica Brown and Herman Cappelen (eds.), Assertion: New Philosophical Essays. Oxford: Oxford University Press.
+Brown, Jessica. 2012. “Assertion and Practical Reasoning: Common or Divergent Epistemic Standards?” Philosophy and Phenomenological Research 84: 123-157.
+Buckwalter, Wesley and John Turri. 2014. “Telling, Showing, and Knowing: A Unified Theory of Pedagogical Norms.” Analysis 74: 16-20.
+Cappelen, Herman. 2011. “Against Assertion.” In Jessica Brown and Herman Cappelen (eds.), Assertion: New Philosophical Essays. Oxford: Oxford University Press.
+Carter, J. Adam and Emma Gordon. 2011. “Norms of Assertion: The Quantity and Quality of Epistemic Support.” Philosophia 39: 615-635.
+Christensen, David and Jennifer Lackey (eds.). 2013. The Epistemology of Disagreement: New Essays. Oxford: Oxford University Press.
+Coffman, E.J. 2014. “Lenient Accounts of Warranted Assertability.” In Clayton Littlejohn and John Turri (eds.), Epistemic Norms: New Essays on Action, Assertion, and Belief. Oxford: Oxford University Press.
+Comesaña, Juan and Matthew McGrath. 2014. “Having False Reasons.” In Clayton Littlejohn and John Turri (eds.), Epistemic Norms: Assertion, Action, and Belief. Oxford: Oxford University Press.
+Cresto, Eleonora. 2010. “On Reasons and Epistemic Rationality.” Journal of Philosophy 107: 326-330.
+Dancy, Jonathan. 2014. “On Knowing One’s Reason.” In Clayton Littlejohn and John Turri (eds.), Epistemic Norms: Assertion, Action, and Belief. Oxford: Oxford University Press.
+DeRose, Keith. 2002. “Assertion, Knowledge, and Context.” Philosophical Review 111: 167-203.
+DeRose, Keith. 2009. The Case for Contextualism. Oxford: Oxford University Press.
+Douven, Igor. 2006. “Assertion, Knowledge, and Rational Credibility.” Philosophical Review 115: 449-485.
+Douven, Igor. 2009. “Assertion, Moore, and Bayes.” Philosophical Studies 144: 361-375.
+Fantl, Jeremy and Matthew McGrath. 2002. “Evidence, Pragmatics, and Justification.” Philosophical Review 111: 67-94.
+Fantl, Jeremy and Matthew McGrath. 2009. Knowledge in an Uncertain World. Oxford: Oxford University Press.
+Fantl, Jeremy and Matthew McGrath. 2012. “Pragmatic Encroachment: It’s Not Just about Knowledge.” Episteme 9: 27-42.
+Feldman, Richard and Ted Warfield (eds.). 2010. Disagreement. Oxford: Oxford University Press.
+Gerken, Mikkel. 2011. “Warrant and Action.” Synthese 178: 529-547.
+Gerken, Mikkel. 2012. “Discursive Justification and Skepticism.” Synthese 189: 373-394.
+Gerken, Mikkel. 2013. “Same, Same but Different: The Epistemic Norms of Assertion, Action, and Practical Reasoning.” Philosophical Studies 168: 725-744.
+Goldberg, Sanford C. 2009. “The Knowledge Account of Assertion and the Nature of Testimonial Knowledge.” In Patrick Greenough and Duncan Pritchard (eds.). Williamson on Knowledge. Oxford: Oxford University Press.
+Goldberg, Sanford C. 2011. “Putting the Norm of Assertion to Work: The Case of Testimony.” In Jessica Brown and Herman Cappelen (eds.), Assertion: New Philosophical Essays. Oxford: Oxford University Press.
+Goldberg, Sanford C. 2015. Assertion: The Philosophical Significance of a Speech Act. Oxford: Oxford University Press.
+Grice, Paul. 1989. Studies in the Way of Words. Cambridge: Harvard University Press.
+Hawthorne, John. 2004. Knowledge and Lotteries. Oxford: Oxford University Press.
+­­Hawthorne, John and Jason Stanley. 2008. “Knowledge and Action.” Journal of Philosophy 105: 571-590.
+Hawthorne, John and Amia Srinivasan. 2013. “Disagreement Without Transparency: Some Bleak Thoughts.” In David Christensen and Jennifer Lackey (eds.), The Epistemology of Disagreement: New Essays. Oxford: Oxford University Press.
+Huemer, Michael. 2007. “Moore’s Paradox and the Norm of Belief.” In Susana Nuccetelli and Gary Seay (eds.), Themes from G.E. Moore: New Essays in Epistemology and Ethics. Oxford: Clarendon Press.
+Hyman, John. 1999. “How Knowledge Works.” Philosophical Quarterly 49: 433-451.
+Jackson, Alexander. 2012. “Two Ways to Put Knowledge First.” Australasian Journal of Philosophy 90: 353-369.
+Kvanvig, Jonathan L. 2009. “Assertions, Knowledge, and Lotteries.” In Patrick Greenough and Duncan Pritchard (eds.), Williamson on Knowledge. Oxford: Oxford University Press.
+Kvanvig, Jonathan L. 2011a. “Norms of Assertion.” In Jessica Brown and Herman Cappelen (eds.), Assertion: New Philosophical Essays. Oxford: Oxford University Press.
+Kvanvig, Jonathan L. 2011b. “Against Pragmatic Encroachment.” Logos & Episteme 2: 77-85.
+Lackey, Jennifer. 2007. “Norms of Assertion.” Noûs 41: 594-626.
+Lackey, Jennifer. 2011. “Assertion and Isolated Second-Hand Knowledge.” In Jessica Brown and Herman Cappelen (eds.), Assertion: New Philosophical Essays. Oxford: Oxford University Press.
+Lackey, Jennifer. 2013. “Deficient Testimonial Knowledge.” In Tim Henning and David P. Schweikard (eds.), Knowledge, Virtue, and Action: Putting Epistemic Virtues to Work. New York: Routledge.
+Lackey, Jennifer. 2014. “Assertion and Expertise.” Philosophy and Phenomenological Research.
+Littlejohn, Clayton. 2012.  Justification and the Truth-Connection.  Cambridge University Press.
+Littlejohn, Clayton. 2013. “The Russellian Retreat.” Proceedings of the Aristotelian Society 113: 293-320.
+Littlejohn, Clayton. 2014. “The Unity of Reason.” In Clayton Littlejohn and John Turri (eds.), Epistemic Norms: Assertion, Action, and Belief. Oxford: Oxford University Press.
+MacFarlane, John. 2011. “What is Assertion?” In In Jessica Brown and Herman Cappelen (eds.), Assertion: New Philosophical Essays. Oxford: Oxford University Press.
+Maitra, Ishani. 2011. “Assertion, Norms, and Games.” In Jessica Brown and Herman Cappelen (eds.), Assertion: New Philosophical Essays. Oxford: Oxford University Press.
+Maitra, Ishani and Brian Weatherson. 2010. “Assertion, Knowledge, and Action.” Philosophical Studies 149: 99-118.
+McGlynn, Aidan. 2013. “Believing Things Unknown.” Noûs 47: 385-407.
+McGlynn, Aidan. 2014. Knowledge First?  Basingstoke: Palgrave-Macmillan.
+McKinnon, Rachel. 2013. “The Supportive Reasons Norm of Assertion.” American Philosophical Quarterly 50: 121-135.
+McKinnon, Rachel and John Turri. 2013. “Irksome Assertions.” Philosophical Studies 166: 123-128.
+Montgomery, Brian. 2014. “In Defense of Assertion.” Philosophical Studies. [published online Early View]
+Montminy, Martin. 2013. “Why Assertion and Practical Reasoning Must Be Governed by the Same Epistemic Norm.” Pacific Philosophical Quarterly 94: 57-68.
+Moore, G.E. 1942. “A Reply to My Critics.” In Paul Arthur Schilpp (ed.), The Philosophy of G.E. Moore, The Library of Living Philosophers. La Salle: Open Court Press. 3rd edn.: 1968.
+Moore, G.E. 1962. Commonplace Book: 1919–1953. London: George Allen & Unwin.
+Moore, G.E. 1993. “Moore’s Paradox.” In Thomas Baldwin (ed.), G.E. Moore: Selected Writings, 207–212. London: Routledge.
+Moss, Sarah. 2013. “Epistemology Formalized.” Philosophical Review 122: 1-43.
+Neta, Ram. 2009. “Treating Something as a Reason For Action.” Noûs 43: 684-699.
+Pelling, Charlie. 2011. “A Self-Referential Paradox for the Truth Account of Assertion.” Analysis 71: 688.
+Pelling, Charlie. 2013a. “Paradox and the Knowledge Account of Assertion.” Erkenntnis 78: 977-978.
+Pelling, Charlie. 2013b. “Assertion and the Provision of Knowledge.” Philosophical Quarterly 63: 293-312.
+Rescorla, Michael. 2009. “Assertion and its Constitutive Norms.” Philosophy & Phenomenological Research 79: 98-130.
+Schaffer, Jonathan. 2008. “Knowledge in the Image of Assertion.” Philosophical Issues 18: 1-19.
+Schroeder, Mark. 2008. “Having Reasons.” Philosophical Studies 139: 57-71.
+Slote, Michael. 1979. “Assertion and Belief.” In Jonathan Dancy (ed.), Papers on Language and Logic. Keele University Library, pp. 177-90. Repr. in Slote, Selected Essays. New York: Oxford University Press, 2010.
+Sorensen, Roy. 1988. Blindspots. New York: Oxford University Press.
+Sosa, Ernest. 2007. A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1. Oxford: Clarendon Press.
+­­­Sosa, Ernest. 2010. “Value Matters in Epistemology.” Journal of Philosophy 107: 167-190.
+Sosa, Ernest. 2011. Knowing Full Well. Princeton: Princeton University Press.
+Sosa, Ernest. 2014. “Epistemic Agency and Judgment.” In Clayton Littlejohn and John Turri (eds.), Epistemic Norms: Assertion, Action, and Belief. Oxford: Oxford University Press.
+Stanley, Jason. 2005. Knowledge and Practical Interests. Oxford: Oxford University Press.
+Stanley, Jason. 2008. “Knowledge and Certainty.” Philosophical Issues 18: 35-57.
+Stone, Jim. 2007. “Contextualism and Warranted Assertion.” Pacific Philosophical Quarterly 88: 92-113.
+Sutton, Jonathan. 2005. “Stick to What You Know.” Noûs 39: 359-396.
+Sutton, Jonathan. 2007. Without Justification. Cambridge: MIT Press.
+Turri, John. 2010. “Prompting Challenges.” Analysis 70: 456-462.
+Turri, John. 2011. “The Express Knowledge Account of Assertion.” Australasian Journal of Philosophy 89: 37-45.
+Turri, John. 2013a. “Knowledge Guaranteed.” Noûs 47: 602-612.
+Turri, John. 2013b. “The Test of Truth: An Experimental Investigation of the Norm of Assertion.” Cognition 129: 279-291.
+Turri, John. 2014a. “Knowledge and Suberogatory Assertion.” Philosophical Studies 167: 557-567.
+Turri, John. 2014b. “You Gotta Believe.” In Clayton Littlejohn and John Turri (eds.), Epistemic Norms: Assertion, Action, and Belief. Oxford: Oxford University Press.
+Turri, John and Peter Blouw. 2014. “Excuse Validation: A Study in Rule-Breaking.” Philosophical Studies.
+Unger, Peter. 1975. Ignorance: The Case for Skepticism. Oxford: Clarendon Press. Reissued 2002.
+Weatherson, Brian. 2012. “Knowledge, Bets, and Interests.” In Jessica Brown and Mikkel Gerken (eds.), Knowledge Ascriptions. Oxford: Oxford University Press.
+Weiner, Matthew. 2005. “Must We Know What We Say?” Philosophical Review 114: 227-251.
+Weisberg, Jonathan. 2013. “Knowledge in Action.” Philosophers’ Imprint 13: 1-23.
+Whiting, Daniel. 2013. “Stick to the Facts: On the Norms of Assertion.” Erkenntnis 78: 847-867.
+Williamson, Timothy. 1996. “Knowing and Asserting.” Philosophical Review 105: 489-523.
+Williamson, Timothy. 2000. Knowledge and its Limits. Oxford: Oxford University Press.
+Williamson, Timothy. 2008. “Why Epistemology Cannot be Operationalized.” In Quentin Smith (ed.), Epistemology: New Philosophical Essays. Oxford: Oxford University Press.
+Williamson, Timothy. 2009. “Replies to Critics.” In Patrick Greenough and Duncan Pritchard (eds.). Williamson on Knowledge. Oxford: Oxford University Press.
+Wright, Sarah. 2014. “The Dual-Aspect Norms of Belief and Assertion: A Virtue Approach to Epistemic Norms.” In Clayton Littlejohn and John Turri (eds.), Epistemic Norms: Assertion, Action, and Belief. Oxford: Oxford University Press.
+
+ 
+Author Information
+Matthew A. Benton
+Email: matthew.benton@philosophy.ox.ac.uk
+University of Oxford
+United Kingdom
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

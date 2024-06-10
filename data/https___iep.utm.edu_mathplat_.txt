@@ -1,0 +1,519 @@
+
+
+
+
+
+
+
+
+
+Platonism, Mathematical  | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematical Platonism
+Mathematical platonism is any metaphysical account of mathematics that implies mathematical entities exist, that they are abstract, and that they are independent of all our rational activities. For example, a platonist might assert that the number pi exists outside of space and time and has the characteristics it does regardless of any mental or physical activities of human beings. Mathematical platonists are often called “realists,” although, strictly speaking, there can be realists who are not platonists because they do not accept the platonist requirement that mathematical entities be abstract.
+Mathematical platonism enjoys widespread support and is frequently considered the default metaphysical position with respect to mathematics. This is unsurprising given its extremely natural interpretation of mathematical practice. In particular, mathematical platonism takes at face-value such well known truths as that “there exist” an infinite number of prime numbers, and it provides straightforward explanations of mathematical objectivity and of the differences between mathematical and spatio-temporal entities. Thus arguments for mathematical platonism typically assert that in order for mathematical theories to be true their logical structure must refer to some mathematical entities, that many mathematical theories are indeed objectively true, and that mathematical entities are not constituents of the spatio-temporal realm.
+The most common challenge to mathematical platonism argues that mathematical platonism requires an impenetrable metaphysical gap between mathematical entities and human beings. Yet an impenetrable metaphysical gap would make our ability to refer to, have knowledge of, or have justified beliefs concerning mathematical entities completely mysterious. Frege, Quine, and “full-blooded platonism” offer the three most promising responses to this challenge.
+Nominalism, logicism, formalism and intuitionism are traditional opponents of mathematical platonism, but these metaphysical theories won’t be discussed in detail in the present article.
+Table of Contents
+
+What Is Mathematical Platonism?
+
+What Types of Items Count as Mathematical Ontology?
+What Is It to Be an Abstract Object or Structure?
+What Is It to Be Independent of All Rational Activities?
+
+
+Arguments for Platonism
+
+The Fregean Argument for Object Platonism 
+
+Frege’s Philosophical Project
+Frege’s Argument
+
+
+The Quine-Putnam Indispensability Argument
+
+
+Challenges to Platonism
+
+Non-Platonistic Mathematical Existence
+The Epistemological and Referential Challenges to Platonism
+
+
+Full-Blooded Platonism
+Supplement: Frege’s Argument for Arithmetic-Object Platonism
+Supplement: Realism, Anti-Nominalism, and Metaphysical Constructivism
+
+Realism
+Anti-Nominalism
+Metaphysical Constructivism
+
+
+Supplement: The Epistemological Challenge to Platonism
+
+The Motivating Picture Underwriting the Epistemological Challenge
+The Fundamental Question: The Core of the Epistemological Challenge
+The fundamental Question: Some Further Details
+
+
+Supplement: The Referential Challenge to Platonism
+
+Introducing the Referential Challenge
+Reference and Permutations
+Reference and the Löwenheim-Skolem Theorem
+
+
+References and Further Reading
+
+Suggestions for Further Reading
+Other References
+
+
+
+1. What Is Mathematical Platonism?
+Traditionally, mathematical platonism has referred to a collection of metaphysical accounts of mathematics, where a metaphysical account of mathematics is one that entails theses concerning the existence and fundamental nature of mathematical ontology. In particular, such an account of mathematics is a variety of (mathematical) platonism if and only if it entails some version of the following three Theses:
+
+Existence: Some mathematical ontology exists.
+Abstractness: Mathematical ontology is abstract.
+Independence: Mathematical ontology is independent of all rational activities, that is, the activities of all rational beings.
+
+In order to understand platonism so conceived, it will be useful to investigate what types of items count as mathematical ontology, what it is to be abstract, and what it is to be independent of all rational activities. Let us address these topics.
+a. What Types of Items Count as Mathematical Ontology?
+Traditionally, platonists have maintained that the items that are fundamental to mathematical ontology are objects, where an object is, roughly, any item that may fall within the range of the first-order bound variables of an appropriately formalized theory and for which identity conditions can be provided. Section 2 provides an outline of the evolution of this conception of an object. Those readers who are unfamiliar with the terminology “first-order bound variable” can consult Model-Theoretic Conceptions of Logical Consequence. Let us call platonisms that take objects to be the fundamental items of mathematical ontology object platonisms. So, object platonism is the conjunction of three theses: some mathematical objects exist, those mathematical objects are abstract, and those mathematical objects are independent of all rational activities. In the last hundred years or so, object platonisms have been defended by Gottlob Frege [1884, 1893, 1903], Crispin Wright and Bob Hale [Wright 1983], [Hale and Wright 2001], and Neil Tennant [1987, 1997].
+Nearly all object platonists recognize that most mathematical objects naturally belong to collections (for example, the real numbers, the sets, the cyclical group of order 20). To borrow terminology from model theory, most mathematical objects are elements of mathematical domains. Consult  Model-Theoretic Conceptions of Logical Consequence for details. It is well recognized that the objects in mathematical domains have certain properties and stand in certain relations to one another. These distinctively mathematical properties and relations are also acknowledged by object platonists to be items of mathematical ontology.
+More recently, it has become popular to maintain that the items that are fundamental to mathematical ontology are structures rather than objects. Stewart Shapiro [1997, pp. 73-4], a prominent defender of this thesis, offers the following definition of a structure:
+I define a system to be a collection of objects with certain relations. … A structure is the abstract form of a system, highlighting the interrelationships among the objects, and ignoring any features of them that do not affect how they relate to other objects in the system.
+According to structuralists, mathematics’ subject matter is mathematical structures. Individual mathematical entities (for example, the complex number 1 + 2i) are positions or places in such structures. Controversy exists over precisely what this amounts to. Minimally, there is agreement that the places of structures exhibit a greater dependence on one another than object platonists claim exists between the objects of the mathematical domains to which they are committed. Some structuralists add that the places of structures have only structural properties—properties shared by all systems that exemplify the structure in question—and that the identity of such places is determined by their structural properties. Michael Resnik [1981, p. 530], for example, writes:
+In mathematics, I claim, we do not have objects with an “internal” composition arranged in structures, we only have structures. The objects of mathematics, that is, the entities which our mathematical constants and quantifiers denote, are structureless points or positions in structures. As positions in structures, they have no identity or features outside a structure.
+An excellent everyday example of a structure is a baseball defense (abstractly construed); such positions as pitcher and shortstop are the places of this structure. Although the pitcher and shortstop of any specific baseball defense (for example, of the Cleveland Indians’ baseball defense during a particular pitch of a particular game) have a complete collection of properties, if one considers these positions as places in the structure “baseball defense,” the same is not true. For example, these places do not have a particular height, weight, or shoe size. Indeed, their only properties would seem to be those that reflect their relations to other places in the structure “baseball defense.”
+Although we might label platonisms of the structural variety structure platonisms, they are more commonly labeled ante rem (or sui generis) structuralisms. This label is borrowed from ante rem universals—universals that exist independently of their instances. Consult Universals for a discussion of ante rem universals. Ante rem structures are typically characterized as ante rem universals that, consequently, exist independently of their instances. As such, ante rem structures are abstract, and are typically taken to exist independently of all rational activities.
+b. What Is It to Be an Abstract Object or Structure?
+There is no straightforward way of addressing what it is to be an abstract object or structure, because “abstract” is a philosophical term of art. Although its primary uses share something in common—they all contrast abstract items (for example, mathematical entities, propositions, type-individuated linguistic characters, pieces of music, novels, etc.) with concrete, most importantly spatio-temporal, items (for example, electrons, planets, particular copies of novels and performances of pieces of music, etc.)—its precise use varies from philosopher to philosopher. Illuminating discussions of these different uses, the nature of the distinction between abstract and concrete, and the difficulties involved in drawing this distinction—for example, whether my center of gravity/mass is abstract or concrete—can be found in [Burgess and Rosen 1997, §I.A.i.a], [Dummett 1981, Chapter 14], [Hale 1987, Chapter 3] and [Lewis 1986, §1.7].
+For our purposes, the best account takes abstract to be a cluster concept, that is, a concept whose application is marked by a collection of other concepts, some of which are more important to its application than others. The most important or central member of the cluster associated with abstract is:
+1. non-spatio-temporality: the item does not stand to other items in a collection of relations that would make it a constituent of the spatio-temporal realm.
+Non-spatio-temporality does not require an item to stand completely outside of the network of spatio-temporal relations. It is possible, for example, for a non-spatio-temporal entity to stand in spatio-temporal relations that are, non-formally, solely temporal relations—consider, for example, type-individuated games of chess, which came into existence at approximately the time at which people started to play chess. Some philosophers maintain that it is possible for non-spatio-temporal objects to stand in some spatio-temporal relations that are, non-formally, solely spatial relations. Centers of gravity/mass are a possible candidate. Yet, the dominant practice in the philosophy of mathematics literature is to take non-spatio-temporal to have an extension that only includes items that fail to stand in all spatio-temporal relations that are, non-formally, solely spatial relations.
+Also fairly central to the cluster associated with abstract are, in order of centrality:
+2.  acausality: the item neither exerts a strict causal influence over other items nor does any other item causally influence it in the strict sense, where strict causal relations are those that obtain between, and only between, constituents of the spatio-temporal realm—for example, you can kick a football and cause it (in a strict sense) to move, but you can’t kick a number.
+3.  eternality: where this could be interpreted as either
+3a. omnitemporality: the item exists at all times, or
+3b. atemporality: the item exists outside of the network of temporal relations,
+4.  changelessness: none of the item’s intrinsic properties change—roughly, an item’s intrinsic properties are those that it has independently of its relationships to other items, and
+5. necessary existence: the item could not have failed to exist.
+An item is abstract if and only if it has enough of the features in this cluster, where the features had by the item in question must include those that are most central to the cluster.
+Differences in the use of “abstract” are best accounted for by observing that different philosophers seek to communicate different constellations of features from this cluster when they apply this term. All philosophers insist that an item have Feature 1 before it may be appropriately labeled “abstract.” Philosophers of mathematics invariably mean to convey that mathematical entities have Feature 2 when they claim that mathematical objects or structures are abstract. Indeed, they typically mean to convey that such objects or structures have either Feature 3a or 3b, and Feature 4. Some philosophers of mathematics also mean to convey that mathematical objects or structures have Feature 5.
+For cluster concepts, it is common to call those items that have all, or most, of the features in the cluster paradigm cases of the concept in question. With this terminology in place, the content of the Abstractness Thesis, as intended and interpreted by most philosophers of mathematics, is more precisely conveyed by the Abstractness+ Thesis: the mathematical objects or structures that exist are paradigm cases of abstract entities.
+c. What Is It to Be Independent of All Rational Activities?
+The most common account of the content of “X is independent of Y” is X would exist even if Y did not. Accordingly, when platonists affirm the Independence Thesis, they affirm that their favored mathematical ontology would exist even if there were no rational activities, where the rational activities in question might be mental or physical.
+Typically, the Independence Thesis is meant to convey more than indicated above. The Independence Thesis is typically meant to convey, in addition, that mathematical objects or structures would have the features that they in fact have even if there were no rational activities or if there were quite different rational activities to the ones that there in fact are. We exclude these stronger conditions from the formal characterization of “X is independent of Y,” because there is an interpretation of the neo-Fregean platonists Bob Hale and Crispin Wright that takes them to maintain that mathematical activities determine the ontological structure of a mathematical realm satisfying the Existence, Abstractness, and Independence Theses, that is, mathematical activities determine how such a mathematical realm is structured into objects, properties, and relations. See, for example, [MacBride 2003]. Athough this interpretation of Hale and Wright is controversial, were someone to advocate such a view, he or she would be advocating a variety of platonism.
+2. Arguments for Platonism
+Without doubt, it is everyday mathematical activities that motivate people to endorse platonism. Those activities are littered with assertions that, when interpreted in a straightforward way, support the Existence Thesis. For example, we are familiar with saying that there exist an infinite number of prime numbers and that there exist exactly two solutions to the equation x2 ­– 5x + 6 = 0. Moreover, it is an axiom of standard set theories that the empty set exists.
+It takes only a little consideration to realize that, if mathematical objects or structures do exist, they are unlikely to be constituents of the spatio-temporal realm. For example, where in the spatio-temporal realm might one locate the empty set, or even the number four—as opposed to collections with four elements? How much does the empty set or the real number p weigh? There appear to be no good answers to these questions. Indeed, to even ask them appears to be to engage in a category mistake. This suggests that the core content of the Abstractness Thesis–that mathematical objects or structures are not constituents of the spatio-temporal realm–is correct.
+The standard route to the acceptance of the Independence Thesis utilizes the objectivity of mathematics. It is difficult to deny that “there exist infinitely many prime numbers” and “2 + 2 = 4” are objective truths. Platonists argue—or, more frequently, simply assume—that the best explanation of this objectivity is that mathematical theories have a subject matter that is quite independent of rational beings and their activities. The Independence Thesis is a standard way of articulating the relevant type of independence.
+So, it is easy to establish the prima facie plausibility of platonism. Yet it took the genius of Gottlob Frege [1884] to transparently and systematically bring together considerations of this type in favor of platonism’s plausibility. In the very same manuscript, Frege also articulated the most influential argument for platonism. Let us examine this argument.
+a. The Fregean Argument for Object Platonism
+i. Frege’s Philosophical Project
+Frege’s argument for platonism [1884, 1893, 1903] was offered in conjunction with his defense of arithmetic logicism—roughly, the thesis that all arithmetic truths are derivable from general logical laws and definitions. In order to carry out a defense of arithmetic logicism, Frege developed his Begriffsschift [1879]—a formal language designed to be an ideal tool for representing the logical structure of what Frege called thoughts. Contemporary philosophers would call them “propositions,” and they are what Frege took to be the primary bearers of truth. The technical details of Frege’s begriffsschift need not concern us; the interested reader can consult the articles on Gottlob Frege and Frege and Language. We need only note that Frege took the logical structure of thoughts to be modeled on the mathematical distinction between a function and an argument.
+On the basis of this function-argument understanding of logical structure, Frege incorporated two categories of linguistic expression into his begriffsschift: those that are saturated and those that are not. In contemporary parlance, we call the former singular terms (or proper names in a broad sense) and the latter predicates or quantifier expressions, depending on the types of linguistic expressions that may saturate them. For Frege, the distinction between these two categories of linguistic expression directly reflected a metaphysical distinction within thoughts, which he took to have saturated and unsaturated components. He labeled the saturated components of thoughts “objects” and the unsaturated components “concepts.” In so doing, Frege took himself to be making precise the notions of object and concept already embedded in the inferential structure of natural languages.
+ii. Frege’s Argument
+Formulated succinctly, Frege’s argument for arithmetic-object platonism proceeds as follows:
+i. Singular terms referring to natural numbers appear in true simple statements.
+ii. It is possible for simple statements with singular terms as components to be true only if the objects to which those singular terms refer exist.
+Therefore,
+iii. the natural numbers exist.
+iv. If the natural numbers exist, they are abstract objects that are independent of all rational activities.
+Therefore,
+v. the natural numbers are existent abstract objects that are independent of all rational activities, that is, arithmetic-object platonism is true.
+In order to more fully understand Frege’s argument, let us make four observations: (a) Frege took natural numbers to be objects, because natural number terms are singular terms, (b) Frege took natural numbers to exist because singular terms referring to them appear in true simple statements—in particular, true identity statements, (c) Frege took natural numbers to be independent of all rational activities, because some thoughts containing them are objective, and (d) Frege took natural numbers to be abstract because they are neither mental nor physical. Observations (a) and (b) are important because they are the heart of Frege’s argument for the Existence Thesis, which, at least if one judges by the proportion of his Grundlagen [1884] that was devoted to establishing it, was of central concern to Frege. Observations (c) and (d) are important because they identify the mechanisms that Frege used to defend the Abstractness and Independence Theses. For further details, consult [Frege 1884, §26 and §61].
+Frege’s argument for the thesis that some simple numerical identities are objectively true relies heavily on the fact that such identities allow for the application of natural numbers in representing and reasoning about reality, especially the non-mathematical parts of reality. It is applicability in this sense that Frege took to be the primary reason for judging arithmetic to be a body of objective truths rather than a mere game involving the manipulation of symbols. The interested reader should consult [Frege 1903, §91]. A more detailed formulation of Frege’s argument for arithmetic-object platonism, which incorporates the above observations, can be found below in section 5.
+The central core of Frege’s argument for arithmetic-object platonism continues to be taken to be plausible, if not correct, by most contemporary philosophers. Yet its reliance on the category “singular term” presents a problem for extending it to a general argument for object platonism. The difficulty with relying on this category can be recognized once one considers extending Frege’s argument to cover mathematical domains that have more members than do the natural numbers (for example, the real numbers, complex numbers, or sets). Although there is a sense in which many natural languages do contain singular terms that refer to all natural numbers—such natural languages embed a procedure for generating a singular term to refer to any given natural number—the same cannot be said for real numbers, complex numbers, and sets. The sheer size of these domains excludes the possibility that there could be a natural language that includes a singular term for each of their members. There are an uncountable number of members in each such domain. Yet no language with an uncountable number of singular terms could plausibly be taken to be a natural language, at least not if what one means by a natural language is a language that could be spoken by rational beings with the same kinds of cognitive capacities that human beings have.
+So, if Frege’s argument, or something like it, is to be used to establish a more wide ranging object platonism, then that argument is either going to have to exploit some category other than singular term or it is going to have to invoke this category differently than how Frege did. Some neo-Fregean platonists such as [Hale and Wright 2001] adopt the second strategy. Central to their approach is the category of possible singular term. [MacBride 2003] contains an excellent summary of their strategy. Yet the more widely adopted strategy has been to give up on singular terms all together and instead take objects to be those items that may fall within the range of first-order bound variables and for which identity conditions can be provided. Much of the impetus for this more popular strategy came from Willard Van Orman Quine. See [1948] for a discussion of the primary clause and [1981, p. 102] for a discussion of the secondary clause. It is worth noting, however, that a similar constraint to the secondary clause can be found in Frege’s writings. See discussions of the so-called Caesar problem in, for example, [Hale and Wright 2001, Chapter 14] and [MacBride 2005, 2006].
+b. The Quine-Putnam Indispensability Argument
+ 
+Consideration of the Quinean strategy of taking objects to be those items that may fall within the range of first-order bound variables naturally leads us to a contemporary version of Frege’s argument for the Existence Thesis. This Quine-Putnam indispensability argument (QPIA) can be found scattered throughout Quine’s corpus. See, for example, [1951, 1963, 1981]. Yet nowhere is it developed in systematic detail. Indeed, the argument is given its first methodical treatment in Hilary Putnam’s Philosophy of Logic [1971]. To date, the most extensive sympathetic development of the QPIA is provided by Mark Colyvan [2001]. Those interested in a shorter sympathetic development of this argument should read [Resnik 2005].
+The core of the QPIA is the following:
+i. We should acknowledge the existence of—or, as Quine and Putnam would prefer to put it, be ontologically committed to—all those entities that are indispensable to our best scientific theories.
+ii. Mathematical objects or structures are indispensable to our best scientific theories.
+Therefore,
+iii. We should acknowledge the existence of—be ontologically committed to—mathematical objects or structures.
+Note that this argument’s conclusion is akin to the Existence Thesis. Thus, to use it as an argument for platonism, one needs to combine it with considerations that establish the Abstractness and Independence Theses.
+So, what is it for a particular, perhaps single-membered, collection of entities to be indispensable to a given scientific theory? Roughly, it is for those entities to be ineliminable from the theory in question without significantly detracting from the scientific attractiveness of that theory. This characterization of indispensability suffices for noting that, prima facie, mathematical theories are indispensable to many scientific theories, for, prima facie, it is impossible to formulate many such theories—never mind formulate those theories in a scientifically attractive way—without using mathematics.
+However, indispensability thesis has been challenged. The most influential challenge was made by Hartry Field [1980]. Informative discussions of the literature relating to this challenge can be found in [Colyvan 2001, Chapter 4] and [Balaguer 1998, Chapter 6].
+In order to provide a more precise characterization of indispensability, we will need to investigate the doctrines that Quine and Putnam use to motivate and justify the first premise of the QPIA: naturalism and confirmational holism. Naturalism is the abandonment of the goal of developing a first philosophy. According to naturalism, science is an inquiry into reality that, while fallible and corrigible, is not answerable to any supra-scientific tribunal. Thus, naturalism is the recognition that it is within science itself, and not in some prior philosophy, that reality is to be identified and described. Confirmational holism is the doctrine that theories are confirmed or infirmed as wholes, for, as Quine observes, it is not the case that “each statement, taken in isolation from its fellows, can admit of confirmation or infirmation …, statements … face the tribunal of sense experience not individually but only as a corporate body” [1951, p. 38].
+It is easy to see the relationship between naturalism, confirmation holism, and the first premise of the QPIA. Suppose a collection of entities is indispensable to one of our best scientific theories. Then, by confirmational holism, whatever support we have for the truth of that scientific theory is support for the truth of the part of that theory to which the collection of entities in question is indispensable. Further, by naturalism, that part of the theory serves as a guide to reality. Consequently, should the truth of that part of the theory commit us to the existence of the collection of entities in question, we should indeed be committed to the existence of those entities, that is, we should be ontologically committed to those entities.
+In light of this, what is needed is a mechanism for assessing whether the truth of some theory or part of some theory commits us to the existence of a particular collection of entities. In response to this need, Quine offers his criterion of ontological commitment: theories, as collections of sentences, are committed to those entities over which the first-order bound variables of the sentences contained within them must range in order for those sentences to be true.
+Although Quine’s criterion is relatively simple, it is important that one appropriately grasp its application. One cannot simply read ontological commitments from the surface grammar of ordinary language. For, as Quine [1981, p. 9] explains,
+[T]he common man’s ontology is vague and untidy … a fenced ontology is just not implicit in ordinary language. The idea of a boundary between being and nonbeing is a philosophical idea, an idea of technical science in the broad sense.
+Rather, what is required is that one first regiment the language in question, that is, cast that language in what Quine calls “canonical notation.” Thus,
+[W]e can draw explicit ontological lines when desired. We can regiment our notation. … Then it is that we can say the objects assumed are the values of the variables. … Various turns of phrase in ordinary language that seem to invoke novel sorts of objects may disappear under such regimentation. At other points new ontic commitments may emerge. There is room for choice, and one chooses with a view to simplicity in one’s overall system of the world. [Quine 1981, pp. 9-10]
+To illustrate, the everyday sentence “I saw a possible job for you” would appear to be ontologically committed to possible jobs. Yet this commitment is seen to be spurious once one appropriately regiments this sentence as “I saw a job advertised that might be suitable for you.”
+We now have all of the components needed to understand what it is for a particular collection of entities to be indispensable to a scientific theory. A collection of entities is indispensable to a scientific theory if and only if, when that theory is optimally formulated in canonical notation, the entities in question fall within the range of the first-order bound variables of that theory. Here, optimality of formulation should be assessed by the standards that govern the formulation of scientific theories in general (for example, simplicity, fruitfulness, conservativeness, and so forth).
+Now that we understand indispensability, it is worth noting the similarity between the QPIA and Frege’s argument for the Existence Thesis. We observed above that Frege’s argument has two key components: recognition of the applicability of numbers in representing and reasoning about the world as support for the contention that arithmetic statements are true, and a logico-inferential analysis of arithmetic statements that identified natural number terms as singular terms. The QPIA encapsulates directly parallel features: ineliminable applicability to our best scientific theories (that is, indispensability) and Quine’s criterion of ontological commitment. While the language and framework of the QPIA are different from those of Frege’s argument, these arguments are, at their core, identical.
+One important difference between these arguments is worth noting, however. Frege’s argument is for the existence of objects; his analysis of natural languages only allows for the categories “object” and “concept.” Quine’s criterion of ontological commitment recommends commitment to any entity that falls within the range of the first-order bound variables of any theory that one endorses. While all such entities might be objects, some might be positions or places in structures. As such, the QPIA can be used to defend ante rem structuralism.
+3. Challenges to Platonism
+a. Non-Platonistic Mathematical Existence
+Since the late twentieth century, an increasing number of philosophers of mathematics in the platonic tradition have followed the practice of labeling their accounts of mathematics as “realist” or “realism” rather than “platonist” or “platonism.” Roughly, these philosophers take an account of mathematics to be a variety of (mathematical) realism if and only if it entails three theses: some mathematical ontology exists, that mathematical ontology has objective features, and that mathematical ontology is, contains, or provides the semantic values of the components of mathematical theories. Typically, contemporary platonists endorse all three theses, yet there are realists who are not platonists. Normally, this is because these individuals do not endorse the Abstractness Thesis. In addition to non-platonist realists, there are also philosophers of mathematics who accept the Existence Thesis but reject the Independence Thesis. Section 6 below discusses accounts of mathematics that endorse the Existence Thesis, or something very similar, yet reject either the Abstractness Thesis or the Independence Thesis.
+b. The Epistemological and Referential Challenges to Platonism
+Let us consider the two most common challenges to platonism: the epistemological challenge and the referential challenge. Sections 7 and 8 below contain more detailed, systematic discussions of these challenges.
+Proponents of these challenges take endorsement of the Existence, Abstractness and Independence Theses to amount to endorsement of a particular metaphysical account of the relationship between the spatio-temporal and mathematical realms. Specifically, according to this account, there is an impenetrable metaphysical gap between these realms. This gap is constituted by a lack of causal interaction between these realms, which, in turn, is a consequence of mathematical entities being abstract (see [Burgess and Rosen 1997, §I.A.2.a]). Proponents of the epistemological challenge observe that, prima facie, such an impenetrable metaphysical gap would make human beings’ ability to form justified mathematical beliefs and obtain mathematical knowledge completely mysterious. Proponents of the referential challenge, on the other hand, observe that, prima facie, such an impenetrable metaphysical gap would make human beings’ ability to refer to mathematical entities completely mysterious. It is natural to suppose that human beings do have justified mathematical beliefs and mathematical knowledge, for example, that 2 + 2 = 4, and do refer to mathematical entities, for example, when we assert “2 is a prime number.” Moreover, it is natural to suppose that the obtaining of these facts is not completely mysterious. The epistemological and referential challenges are challenges to show that the truth of platonism is compatible with the unmysterious obtaining of these facts.
+This raises two questions. Why do proponents of the epistemological challenge maintain that an impenetrable metaphysical gap between the mathematical and spatio-temporal realms would make human beings’ ability to form justified mathematical beliefs and obtain mathematical knowledge completely mysterious? (For readability, we shall drop the qualifier “prima facie” in the remainder of this discussion.) And, why do proponents of the referential challenge insist that such an impenetrable metaphysical gap would make human beings’ ability to refer to mathematical entities completely mysterious?
+To answer the first question, consider an imaginary scenario. You are in London, England while the State of the Union address is being given. You are particularly interested in what the U.S. President has to say in this address. So, you look for a place where you can watch the address on television. Unfortunately, the State of the Union address is only being televised on a specialized channel that nobody seems to be watching. You ask a Londoner where you might go to watch the address. She responds, “I’m not sure, but if you stay here with me, I’ll let you know word for word what the President says as he says it.”  You look at her confused. You can find no evidence of devices in the vicinity (for example, television sets, mobile phones, or computers) that could explain her ability to do what she claims she will be able to. You respond, “I don’t see any TVs, radios, computers, or the like. How are you going to know what the President is saying?”
+That such a response to this Londoner’s claim would be appropriate is obvious. Further, its aptness supports the contention that you can only legitimately claim knowledge of, or justified beliefs concerning, a complex state of affairs if there is some explanation available for the existence of the type of relationship that would need to exist between you and the complex state of affairs in question in order for you to have the said knowledge or justified beliefs. Indeed, it suggests something further: the only kind of acceptable explanation available for knowledge of, or justified beliefs concerning, a complex state of affairs is one that appeals directly or indirectly to a causal connection between the knower or justified believer and the complex state of affairs in question. You questioned the Londoner precisely because you could see no devices that could put her in causal contact with the President, and the only kind of explanation that you could imagine for her having the knowledge (or justified beliefs) that she was claiming she would have would involve her being in this type of contact with the President.
+An impenetrable metaphysical gap between the mathematical and spatio-temporal realms of the type that proponents of the epistemological challenge insist exists if platonism is true would exclude the possibility of causal interaction between human beings, who are inhabitants of the spatio-temporal realm, and mathematical entities, which are inhabitants of the mathematical realm. Consequently, such a gap would exclude the possibility of there being an appropriate explanation of human beings having justified mathematical beliefs and mathematical knowledge. So, the truth of platonism, as conceived by proponents of the epistemological challenge, would make all instances of human beings having justified mathematical beliefs or mathematical knowledge completely mysterious.
+Next, consider why proponents of the referential challenge maintain that an impenetrable metaphysical gap between the spatio-temporal and mathematical realms would make human beings’ ability to refer to mathematical entities completely mysterious. Once again, this can be seen by considering an imaginary scenario. Imagine that you meet someone for the first time and realize that you went to the same university at around the same time years ago. You begin to reminisce about your university experiences, and she tells you a story about John Smith, an old friend of hers who was a philosophy major, but who now teaches at a small liberal arts college in Ohio, was married about 6 years ago to a woman named Mary, and has three children. You, too, were friends with a John Smith when you were at the University. You recall that he was a philosophy major, intended to go to graduate school, and that a year or so ago a mutual friend told you that he is now married to a woman named Mary and has three children. You incorrectly draw the conclusion that you shared a friend with this woman while at the University. As a matter of fact, there were two John Smiths who were philosophy majors at the appropriate time, and these individuals’ lives have shared similar paths. You were friends with one of these individuals, John Smith1, while she was friends with the other, John Smith2.
+Your new acquaintance proceeds to inform you that John and Mary Smith got divorced recently. You form a false belief about your old friend and his wife. What makes her statement and corresponding belief true is that, in it, “John Smith” refers to John Smith2, “Mary Smith” refers to Mary Smith2, John Smith2’s former wife, and John Smith2 and Mary Smith2 stand to a recent time in the triadic relation “x got divorced from y at time t.” Your belief is false, however, because, in it, “John Smith” refers to John Smith1, “Mary Smith” refers to Mary Smith1, John Smith1’s wife, and John Smith1 and Mary Smith1 fail to stand to a recent time in the triadic relation “x got divorced from y at time t.”
+Now, consider why John Smith1 and Mary Smith1 are the referents of your use of “John and Mary Smith” while John Smith2 and Mary Smith2 are the referents of your new acquaintance’s use of this phrase. It is because she causally interacted with John Smith2 while at the University, while you causally interacted with John Smith1. In other words, your respective causal interactions are responsible for your respective uses of the phrase “John and Mary Smith” having different referents.
+Reflecting on this case, you might conclude that there must be a specific type of causal relationship between a person and an item if that person is to determinately refer to that item. For example, this case might convince you that, in order for you to use the singular term “two” to refer to the number two, there would need to be a causal relationship between you and the number two. Of course, an impenetrable metaphysical gap between the spatio-temporal realm and the mathematical realm would make such a causal relationship impossible. Consequently, such an impenetrable metaphysical gap would make human beings’ ability to refer to mathematical entities completely mysterious.
+4. Full-Blooded Platonism
+Of the many responses to the epistemological and referential challenges, the three most promising are (i) Frege’s, as developed in the contemporary neo-Fregean literature, (ii) Quine’s, as developed by defenders of the QPIA, and (iii) a response that is commonly referred to as full-blooded or plenitudinous platonism (FBP). This third response has been most fully articulated by Mark Balaguer [1998] and Stewart Shapiro [1997].
+The fundamental idea behind FBP is that it is possible for human beings to have systematically and non-accidentally true beliefs about a platonic mathematical realm—a mathematical realm satisfying the Existence, Abstractness, and Independence Theses—without that realm in any way influencing us or us influencing it. This, in turn, is supposed to be made possible by FBP combining two theses: (a) Schematic Reference: the reference relation between mathematical theories and the mathematical realm is purely schematic, or at least close to purely schematic and (b) Plenitude: the mathematical realm is VERY large. It contains entities that are related to one another in all of the possible ways that entities can be related to one another.
+What it is for a reference relation to be purely schematic will be explored later. For now, these theses are best understood in light of FBP’s account of mathematical truth, which, intuitively, relies on two further Theses: (1) Mathematical theories embed collections of constraints on what the ontological structure of a given “part” of the mathematical realm must be in order for the said part to be an appropriate truth-maker for the theory in question. (2) The existence of any such appropriate part of the mathematical realm is sufficient to make the said theory true of that part of that realm. For example, it is well-known that arithmetic characterizes an ω-sequence, a countable-infinite collection of objects that has a distinguished initial object and a successor relation that satisfies the induction principle. Thus, illustrating Thesis 1, any part of the mathematical realm that serves as an appropriate truth-maker for arithmetic must be an ω-sequence. Intuitively, one might think that not just any ω-sequence will do, rather one needs a very specific ω-sequence, that is, the natural numbers. Yet, proponents of FBP deny this intuition. According to them, illustrating Thesis 2, any ω-sequence is an appropriate truth-maker for arithmetic; arithmetic is a body of truths that concerns any ω-sequence in the mathematical realm.
+Those familiar with the model theoretic notion of “truth in a model” will recognize the similarities between it and FBP’s conception of truth. (Those who are not can consult Model-Theoretic Conceptions Logical Consequence, where “truth in a model” is called “truth in a structure.”) These similarities are not accidental; FBP’s conception of truth is intentionally modeled on this model-theoretic notion. The outstanding feature of model-theoretic consequence is that, in constructing a model for evaluating a semantic sequent (a formal argument), one doesn’t care which specific objects one takes as the domain of discourse of that model, which specific objects or collections of objects one takes as the extension of any predicates that appear in the sequent, or which specific objects one takes as the referents of any singular terms that appear in the sequent. All that matters is that those choices meet the constraints placed on them by the sequent in question. So, for example, if you want to construct a model to show that ‘Fa & Ga’ does not follow from ‘Fa’ and ‘Gb’, you could take the domain of your model to be the set of natural numbers, assign extensions to the two predicates by requiring Ext(F) = {x: x is even} and Ext(G) = {x: x is odd}, and assign denotations Ref(a) = 2, and Ref(b) = 3. Alternatively, you could take the domain of your model to be {Hillary Clinton, Bill Clinton}, Ext(F) = {Hillary Clinton}, Ext(G) = {Bill Clinton}, Ref(a) = Hillary Clinton, and Ref(b) = Bill Clinton. A reference relation is schematic if and only if, when employing it, there is the same type of freedom concerning which items are the referents of quantifiers, predicates, and singular terms as there is when constructing a model. In model theory, the reference relation is purely schematic. This reference relation is employed largely as-is in Shapiro’s structuralist version of FBP, whereas Balaguer’s version of FBP places a few more constraints on this reference relation. Yet neither Shapiro’s nor Balaguer’s constraints undermine the schematic nature of the reference relation they employ in characterizing their respective FBPs.
+By endorsing Thesis 2, proponents of FBP endorse the Schematic Reference Thesis. Moreover, Thesis 2 and the Schematic Reference Thesis distinguish the requirements on mathematical reference (and, consequently, truth) from the requirements on reference to (and, consequently, truth concerning) spatio-temporal entities. As illustrated in section 3 above, the logico-inferential components of beliefs and statements about spatio-temporal entities have specific, unique spatio-temporal entities or collections of spatio-temporal entities as their referents. Thus, the reference relationship between spatio-temporal entities and spatio-temporal beliefs and statements is non-schematic.
+FBP’s conception of reference appears to provide it with the resources to undermine the legitimacy of the referential challenge. According to proponents of FBP, in offering their challenge, proponents of the referential challenge illegitimately generalized a feature of the reference relationship between spatio-temporal beliefs and statements, and spatio-temporal entities, that is, its non-schematic character.
+So, the Schematic Reference Thesis is at the heart of FBP’s response to the referential challenge. By contrast, the Plenitude Thesis is at the heart of FBP’s response to the epistemological challenge. To see this, consider an arbitrary mathematical theory that places an obtainable collection of constraints on any truth-maker for that theory. If the Plenitude Thesis is true, we can be assured that there is a part of the mathematical realm that will serve as an appropriate truth-maker for this theory because the truth of the Plenitude Thesis amounts to the mathematical realm containing some part that is ontologically structured in precisely the way required by the constraints embedded in the particular mathematical theory in question. So, the Plenitude Thesis ensures that there will be some part of the mathematical realm that will serve as an appropriate truth-maker for any mathematical theory that places an obtainable collection of constraints on its truth-maker(s). Balaguer uses the term “consistent” to pick out those mathematical theories that place obtainable constraints on their truth-maker(s). However, what Balaguer means by this is not, or at least should not be, deductively consistent. The appropriate notion is closer to Shapiro’s [1997] notion of coherent, which is a primitive modeled on set-theoretic satisfiability. Yet, however one states the above truth, it has direct consequences for the epistemological challenge. As Balaguer [1998, pp. 48–9] explains:
+If FBP is correct, then all consistent purely mathematical theories truly describe some collection of abstract mathematical objects. Thus, to acquire knowledge of mathematical objects, all we need to do is acquire knowledge that some purely mathematical theory is consistent [.…] But knowledge of the consistency of a mathematical theory … does not require any sort of contact with, or access to, the objects that the theory is about. Thus, the [epistemological challenge has] been answered: We can acquire knowledge of abstract mathematical objects without the aid of any sort of contact with such objects.
+5. Supplement: Frege’s Argument for Arithmetic-Object Platonism
+Frege’s argument for arithmetic-object platonism proceeds in the following way:
+i. The primary logico-inferential role of natural number terms (for example, “one” and “seven”) is reflected in numerical identity statements such as “The number of states in the United States of America is fifty.”
+ii. The linguistic expressions on each side of identity statements are singular terms.
+Therefore, from (i) and (ii),
+iii. In their primary logico-inferential role, natural number terms are singular terms.
+Therefore, from (iii) and from Frege’s logico-inferential analysis of the category “object,”
+iv. the items referred to by natural number terms (that is, the natural numbers) are members of the logico-inferential category object.
+v. Many numerical identity statements (for example, the one mentioned in (i) are true.
+vi. An identity statement can be true only if the object referred to by the singular terms on either side of that identity statement exists.
+Therefore, from (v) and (vi),
+vii. the objects to which natural number terms refer (that is, the natural numbers) exist.
+viii. Many arithmetic identities are objective.
+ix. The existent components of objective thoughts are independent of all rational activities.
+Therefore, from (viii) and (ix),
+x. the natural numbers are independent of all rational activities.
+xi. Thoughts with mental objects as components are not objective.
+Therefore, from (viii) and (xi),
+xii. the natural numbers are not mental objects.
+xiii. The left hand sides of numerical identity statements of the form given in (i) show that natural numbers are associated with concepts in a specific way.
+xiv. No physical objects are associated with concepts in the way that natural numbers are.
+Therefore, from (xiii) and (xiv),
+xv. The natural numbers are not physical objects.
+xvi. Objects that are neither mental nor physical are abstract.
+Therefore, from (xi), (xv), and (xvi),
+xvii. the natural numbers are abstract objects.
+Therefore, from (vii), (x), and (xvii),
+xviii. arithmetic object platonism is true.
+Return to section 2 where this section is references.
+6. Supplement: Realism, Anti-Nominalism, and Metaphysical Constructivism
+a. Realism
+Since the late twentieth century, an increasing number of philosophers of mathematics who endorse the Existence Thesis, or something very similar, have followed the practice of labeling their accounts of mathematics “realist” or “realism” rather than “platonist” or “platonism,” where, roughly, an account of mathematics is a variety of (mathematical) realism if and only if it entails three theses: some mathematical ontology exists, that mathematical ontology has objective features, and that mathematical ontology is, contains, or provides the semantic values of the logico-inferential components of mathematical theories. The influences that motivated individual philosophers to adopt this practice are diverse. In the broadest of terms, however, this practice is the result of the dominance of certain strands of analytic philosophy in the philosophy of mathematics.
+In order to see how one important strand contributed to the practice of labeling accounts of mathematics “realist” rather than “platonist,” let us explore Quinean frameworks. These are frameworks that embed the doctrines of naturalism and confirmational holism in a little more detail. Two features of such frameworks warrant particular mention.
+First, within Quinean frameworks, mathematical knowledge is on a par with empirical knowledge; both mathematical statements and statements about the spatio-temporal realm are confirmed and infirmed by empirical investigation. As such, within Quinean frameworks, neither type of statement is knowable a priori, at least in the traditional sense. Yet nearly all prominent Western thinkers have considered mathematical truths to be knowable a priori. Indeed, according to standard histories of Western thought, this way of thinking about mathematical knowledge dates back at least as far as Plato. So, to reject it is to reject something fundamental to Plato’s thoughts about mathematics. Consequently, accounts of mathematics offered within Quinean frameworks almost invariably reject something fundamental to Plato’s thoughts about mathematics. In light of this, and the historical connotations of the label “platonism,” it is not difficult to see why one might want to use an alternate label for such accounts that accept the Existence Thesis (or something very similar).
+The second feature of Quinean frameworks that warrants particular mention in regard to the practice of using “realism” rather than “platonism” to label accounts of mathematics is that, within such frameworks, mathematical entities are typically treated and thought about in the same way as the theoretical entities of non-mathematical natural science. In some Quinean frameworks, mathematical entities are simply taken to be theoretical entities. This has led some to worry about other traditional theses concerning mathematics. For example, mathematical entities have traditionally been considered necessary existents, and mathematical truths have been considered to be necessary, while the constituents of the spatio-temporal realm—among them, theoretical entities such as electrons—have been considered to be contingent existents, and truths concerning them have been considered to be contingent. Mark Colyvan [2001] uses his discussion of the QPIA—in particular, the abovementioned similarities between mathematical and theoretical entities—to motivate skepticism about the necessity of mathematical truths and the necessary existence of mathematical entities. Michael Resnik [1997] goes one step further and argues that, within his Quinean framework, the distinction between the abstract and the concrete cannot be drawn in a meaningful way. Of course, if this distinction cannot be drawn in a meaningful way, one cannot legitimately espouse the Abstractness Thesis. Once again, it looks as though we have good reasons for not using the label “platonism” for the kinds of accounts of mathematics offered within Quinean frameworks that accept the Existence Thesis (or something very similar).
+b. Anti-Nominalism
+Most of the Quinean considerations relevant to the practice of labeling metaphysical accounts of mathematics “realist” rather than “platonist” center on problems with the Abstractness Thesis. In particular, those who purposefully characterize themselves as realists rather than platonists frequently want to deny some important feature or features in the cluster associated with abstract. Frequently, such individuals do not question the Independence Thesis. John Burgess’ qualms about metaphysical accounts of mathematics are broader than this. He takes the primary lesson of Quine’s naturalism to be that investigations into “the ultimate nature of reality” are misguided, for we cannot reach the “God’s eye perspective” that they assume. The only perspective that we (as finite beings situated in the spatio-temporal world, using the best methods available to us, that is, the methods of common sense supplemented by scientific investigation) can obtain is a fallible, limited one that has little to offer concerning the ultimate nature of reality.
+Burgess takes it to be clear that both pre-theoretic common sense and science are ontologically committed to mathematical entities. He argues that those who deny this, that is, nominalists, do so because they misguidedly believe that we can obtain a God’s eye perspective and have knowledge concerning the ultimate nature of reality. In a series of manuscripts responding to nominalists—see, for example, [Burgess 1983, 2004] and [Burgess and Rosen 1997, 2005]—Burgess has defended anti-nominalism. Anti-nominalism is, simply, the rejection of nominalism. As such, anti-nominalists endorse ontological commitment to mathematical entities, but refuse to engage in speculation about the metaphysical nature of mathematical entities that goes beyond what can be supported by common sense and science. Burgess is explicit that neither common sense nor science provide support for endorsing the Abstractness Thesis when understood as a thesis about the ultimate nature of reality. Further, given that, at least on one construal, the Independence Thesis is just as much a thesis about the ultimate nature of reality as is the Abstractness Thesis, we may assume that Burgess and his fellow anti-nominalists will be unhappy about endorsing it. Anti-nominalism, then, is another account of mathematics that accepts the Existence Thesis (or something very similar), but which cannot be appropriately labeled “platonism.”
+c. Metaphysical Constructivism
+The final collection of metaphysical accounts of mathematics worth mentioning because of their relationship to, but distinctness from, platonism are those that accept the Existence Thesis—and, in some cases, the Abstractness Thesis—but reject the Independence Thesis. At least three classes of accounts fall into this category. The first accounts are those that take mathematical entities to be constructed mental entities. At some points in his corpus, Alfred Heyting suggests that he takes mathematical entities to have this nature—see, for example, [Heyting 1931]. The second accounts are those that take mathematical entities to be the products of mental or linguistic human activities. Some passages in Paul Ernest’s Social Constructivism ss a Philosophy of Mathematics [1998] suggest that he holds this view of mathematical entities. The third accounts are those that take mathematical entities to be social-institutional entities like the United States Supreme Court or Greenpeace. Rueben Hersh [1997] and Julian Cole [2008, 2009] endorse this type of social-institutional account of mathematics. Although all of these accounts are related to platonism in that they take mathematical entities to exist or they endorse ontological commitment to mathematical entities, none can be appropriately labeled “platonism.”
+Return to section 3 where this section is referenced.
+7. Supplement: The Epistemological Challenge to Platonism
+Contemporary versions of the epistemological challenge ,sometimes under the label “the epistemological argument against platonism,” can typically be traced back to Paul Benacerraf’s paper “Mathematical Truth” [1973]. In fairness to Frege, however, it should be noted that human beings’ epistemic access to the kind of mathematical realm that platonists take to exist was a central concern in his work. Benacerraf’s paper has inspired much discussion. An overview of which appears in [Balaguer 1998, Chapter 2]. Interestingly, very little of this extensive literature has served to develop the challenge itself in any great detail. Probably the most detailed articulation of some version of the challenge itself can be found in two papers collected in [Field 1989]. The presentation of the challenge provided here is inspired by Hartry Field’s formulation, yet is a little more detailed than his formulation.
+The epistemological challenge begins with the observation that an important motivation for platonism is the widely held belief that human beings have mathematical knowledge. One might maintain that it is precisely because we take human beings to have mathematical knowledge that we take mathematical theories to be true. In turn, their truth motivates platonists to take their apparent ontological commitments seriously. Consequently, while all metaphysical accounts of mathematics need to address the prima facie phenomenon of human mathematical knowledge, this task is particularly pressing for platonist accounts, for a failure to account for human beings’ ability to have mathematical knowledge would significantly diminish the attractiveness of any such account. Yet it is precisely this that (typical) proponents of the epistemological challenge doubt the platonists’ ability to account for human beings having mathematical knowledge.
+a. The Motivating Picture Underwriting the Epistemological Challenge
+In order to understand the doubts of proponents of the epistemological challenge, one must first understand the conception or picture of platonism that motivates them. Note that, in virtue of their endorsement of the Existence, Abstractness, and Independence Theses, platonists take the mathematical realm to be quite distinct from the spatio-temporal realm. The doubts underwriting the epistemological challenge derive their impetus from a particular picture of the metaphysical relationship between these distinct realms.  According to this picture, there is an impenetrable metaphysical gap between the mathematical and spatio-temporal realms. This gap is constituted by the lack of causal interaction between these two realms, which, in turn, is a consequence of mathematical entities being abstract—see [Burgess and Rosen 1997, §I.A.2.a] for further details. Moreover, according to this picture, the metaphysical gap between the mathematical and spatio-temporal realms ensures that features of the mathematical realm are independent of features of the spatio-temporal realm. That is, features of the spatio-temporal realm do not in any way influence or determine features of the mathematical realm and vice versa. At the same time, the gap between the mathematical and spatio-temporal realms is more than merely an interactive gap; it is also a gap relating to the types of properties characteristic of the constituents of these two realms. Platonists take mathematical entities to be not only acausal but also non-spatio-temporal, eternal, changeless, and (frequently) necessary existents. Typically, constituents of the spatio-temporal world lack all of these properties.
+It is far from clear that the understanding of the metaphysical relationship between the mathematical and spatio-temporal realms outlined in the previous paragraph is shared by self-proclaimed platonists. Yet this conception of that relationship is the one that proponents of the epistemological challenge ascribe to platonists. For the purposes of our discussion of this challenge, let us put to one side all concerns about the legitimacy of this conception of platonism, which, from now on, we shall simply call the motivating picture. The remainder of this section assumes that the motivating picture provides an appropriate conception of platonism and it labels as “platonic” the constituents of realms that are metaphysically isolated from and wholly different from the spatio-temporal realm in the way that the mathematical realm is depicted to be by the motivating picture.
+b. The Fundamental Question: The Core of the Epistemological Challenge
+Let us make some observations relevant to the doubts that underwrite the epistemological challenge. First, according to the motivating picture, the mathematical realm is that to which pure mathematical beliefs and statements are responsible for their truth or falsity. Such beliefs are about this realm and so are true when, and only when, they are appropriately related to this realm. Second, according to all plausible contemporary accounts of human beings, human beliefs in general, and, hence, human mathematical beliefs in particular, are instantiated in human brains, which are constituents of the spatio-temporal realm. Third, it has been widely acknowledged since ancient times that beliefs or statements that are true purely by accident do not constitute knowledge. Thus, in order for a mathematical belief or statement to be an instance of mathematical knowledge, it must be more than simply true; it must be non-accidentally true.
+Let us take a mathematical theory to be a non-trivial, systematic collection of mathematical beliefs. Informally, it is the collection of mathematical beliefs endorsed by that theory. In light of the above observations, in order for a mathematical theory to embed mathematical knowledge, there must be something systematic about the way in which the beliefs in that theory are non-accidentally true.
+Thus, according to the motivating picture, in order for a mathematical theory to embed mathematical knowledge, a distinctive, non-accidental and systematic relationship must obtain between two distinct and metaphysically isolated realms. That relationship is that the mathematical realm must make true, in a non-accidental and systematic way, the mathematical beliefs endorsed by the theory in question, which are instantiated in the spatio-temporal realm.
+In response to this observation, it is reasonable to ask platonists, “What explanation can be provided of this distinctive, non-accidental and systematic relationship obtaining between the mathematical realm and the spatio-temporal realm?” As Field explains, “there is nothing wrong with supposing that some facts about mathematical entities are just brute facts, but to accept that facts about the relationship between mathematical entities and human beings are brute and inexplicable is another matter entirely” [1989, p. 232]. The above question—which this section will call the fundamental question—is the heart of the epistemological challenge to platonism.
+c. The fundamental Question: Some Further Details
+Let us make some observations that motivate the fundamental question. First, all human theoretical knowledge requires a distinctive type of non-accidental, systematic relationship to obtain. Second, for at least the vast majority of spatio-temporal theories, the obtaining of this non-accidental, systematic relationship is underwritten by causal interaction between the subject matter of the theory in question and human brains. Third, there is no causal interaction between the constituents of platonic realms and human brains. Fourth, the lack of causal interaction between platonic realms and human brains makes it apparently mysterious that the constituents of such realms could be among the relata of a non-accidental, systematic relationship of the type required for human, theoretical knowledge.  
+So, the epistemological challenge is motivated by the acausality of mathematical entities. Yet Field’s formulation of the challenge includes considerations that go beyond the acausality of mathematical entities. Our discussion of the motivating picture made it clear that, in virtue of its abstract nature, a platonic mathematical realm is wholly different from the spatio-temporal realm. These differences ensure that not only causal explanations, but also other explanations grounded in features of the spatio-temporal realm, are unavailable to platonists in answering the fundamental question. This fact is non-trivial, for explanations grounded in features of the spatio-temporal realm other than causation do appear in natural science. For examples, see [Batterman 2001]. So, a platonist wanting to answer the fundamental question must highlight a mechanism that is not underwritten by any of the typical features of the spatio-temporal realm.
+Now, precisely what type of explanation is being sought by those asking the fundamental question? Proponents of the epistemological challenge insist that the motivating picture makes it mysterious that a certain type of relationship could obtain. Those asking the fundamental question are simply looking for an answer that would dispel their strong sense of mystery with respect to the obtaining of this relationship. A plausible discussion of a mechanism that, like causation, is open to investigation, and thus has the potential for making the obtaining of this relationship less than mysterious, should satisfy them. Further, the discussion in question need not provide all of the details of the said explanation. Indeed, if one considers an analogous question with regard to spatio-temporal knowledge, one sees that the simple recognition of some type of causal interaction between the entities in question and human brains is sufficient to dispel the (hypothetical) sense of mystery in question in this case.
+Next ask, “Is the fundamental question legitimate?” That is, should platonists feel the need to answer it? It is reasonable to maintain that they should. Explanations should be available for many types of relationships, including the distinctive, non-accidental and systematic relationship required in order for someone to have knowledge of a complex state of affairs. It is this justified belief that legitimizes the fundamental question. One instance of it is the belief that some type of explanation should be, in principle, available for the obtaining of the specific, non-accidental and systematic relationship required for human mathematical knowledge if this is knowledge of an existent mathematical realm. It is illegitimate to provide a metaphysical account of mathematics that rules out the possibility of such an explanation being available, because it would be contrary to this justified belief. The fundamental question is a challenge to platonists to show that they have not made this illegitimate move.
+Return to section 3 where this section is referenced.
+8. Supplement: The Referential Challenge to Platonism
+In the last century or so, the philosophy of mathematics has been dominated by analytic philosophy. One of the primary insights guiding analytic philosophy is that language serves as a guide to the ontological structure of reality. One consequence of this insight is that analytic philosophers have a tendency to assimilate ontology to those items that are the semantic values of true beliefs or statements, that is, the items in virtue of which true beliefs or statements are true. This assimilation played an important role in both of the arguments for platonism developed in section 2. The relevant language-world relations are embedded in Frege’s logico-inferential analysis of the categories of object and concept and in Quine’s criterion of ontological commitment. This assimilation is at the heart of the referential challenge (to platonism).
+a. Introducing the Referential Challenge
+Before developing the referential challenge, let us think carefully about the following claim: “Pure mathematical beliefs and statements are about the mathematical realm, and so are true when, and only when, they are appropriately related to this realm.” What precisely is it for a belief or statement to be about something? And, what is the appropriate relationship that must obtain in order for whatever a belief or statement is about to make that belief or statement true? It is natural to suppose that the logico-inferential components of beliefs and statements have semantic values. Beliefs and statements are “about” these semantic values. Beliefs and statements are true when, and only when, these semantic values are related in the way that those beliefs and statements maintain that they are. The formal mathematical theory that theorizes about this appropriate relation is model theory. Moreover, on the basis of the above, it is reasonable to suppose that the semantic values of the logico-inferential components of beliefs and statements are, roughly, set or determined by means of causal interaction between human beings and those semantic values.
+Applying these observations to the claim “pure mathematical beliefs and statements are about the mathematical realm, and so are true when, and only when, they are appropriately related to this realm,” we find that it maintains that constituents of a mathematical realm are the semantic values of the logico-inferential components of pure mathematical beliefs and statements. Further, such beliefs and statements are true when, and only when, the appropriate semantic values are related to one another in the way that the said beliefs and statements maintain that they are related—more formally, the way demanded by the model-theoretic notion of truth in a model.
+So far, our observations have been easily applicable to the mathematical case. Yet they highlight a problem. How are the appropriate semantic values of the logico-inferential components of pure mathematical beliefs and statements set or determined? If platonists are correct about the metaphysics of the mathematical realm, then no constituent of that realm causally interacts with any human being. Yet it is precisely causal interaction between human beings and the semantic values of beliefs and statements about the spatio-temporal world that is responsible for setting or determining the semantic values of such beliefs and statements. The referential challenge is a challenge to platonists to explain how constituents of a platonic mathematical realm could be set or fixed as the semantic values of human beliefs and statements.
+b. Reference and Permutations
+Two specific types of observations have been particularly important in conveying the force of the referential challenge. The first is the recognition that a variety of mathematical domains contain non-trivial automorphisms, which means that there is a non-trivial, structure-preserving, one-to-one and onto mapping from the domain to itself. A consequence of such automorphisms is that it is possible to systematically reassign the semantic values of the logico-inferential components of a theory that has such a domain as its subject matter in a way that preserves the truth values of the beliefs or statements of that theory. For example, consider the theory of the group {Z,+}, that is, the group whose elements are the integers  …, -2, -1, 0, 1, 2, … and whose operation is addition. If one takes an integer n to have –n as its semantic value rather than n (that is, ‘2’ refers to -2, ‘-3’ refers to 3, and so forth), then the truth values of the statements or beliefs that constitute this theory would be unaltered.  For example, “2 + 3 = 5” would be true in virtue of -2 + -3 being equal to -5. A similar situation arises for complex analysis if one takes each term of the form ‘a+bi’ to have the complex number a-bi as its semantic value rather than the complex number a+bi.
+To see how this sharpens the referential challenge, suppose, perhaps per impossible, that you and your acquaintance each know a person named “John Smith.” John Smith1 and John Smith2 are actually indistinguishable on the basis of the properties and relations that you discuss with your new acquaintance. That is, all of the consequences of all of the true statements that your new acquaintance makes about John Smith2 are also true of John Smith1, and all of the consequences of all of the true statements that you make about John Smith1 are also true of John Smith2. Under this supposition, her statements are still true in virtue of her using “John Smith” to refer to John Smith2, and your statements are still true in virtue of you using “John Smith” to refer to John Smith1. Using this as a guide, you might claim that ‘2 + 3 = 5’ should be true in virtue of ‘2’ referring to 2, ‘3’ referring to 3, and ‘5’ referring to 5 rather than in virtue of ‘2’ referring to the number -2, ‘3’ referring to the number -3, and ‘5’ referring to the number -5 as would be allowed by the automorphism mentioned above. One way to put this intuition is that 2, 3, and 5, are the intended semantic values of ‘2’, ‘3’, and ‘5’ and, intuitively, beliefs and statements should be true in virtue of the intended semantic values of their components being appropriately related to one another, not in virtue of other items (for example, -2, -3, and, -5) being so related. Yet, in the absence of any causal interaction between the integers and human beings, what explanation can be provided of ‘2’, ‘3’, and ‘5’ having their intended semantic values rather than some other collection of semantic values that preserves the truth values of arithmetic statements?
+c. Reference and the Löwenheim-Skolem Theorem
+The sharpening of the referential challenge discussed in the previous section is an informal, mathematical version of Hilary Putnam’s permutation argument. See, for example, [Putnam 1981]. A related model-theoretic sharpening of the referential challenge, also due to Putnam [1983], exploits an important result from mathematical logic: the Löwenheim-Skolem theorem. According to the Löwenheim-Skolem theorem, any first-order theory that has a model has a model whose domain is countable, where a model can be understood, roughly, as a specification of semantic values for the components of the theory. To understand the importance of this result, consider first-order complex analysis and its prima facie intended subject matter, that is, the domain of complex numbers. Prima facie, the intended semantic value of a complex number term of the form ‘a+bi’ is the complex number a+bi. Now, the domain of complex numbers is uncountable. So, according to the Löwenheim-Skolem theorem, it is possible to assign semantic values to terms of the form ‘a+bi’ in a way that preserves the truth values of the beliefs or statements of complex analysis, and which is such that the assigned semantic values are drawn from a countable domain whose ontological structure is quite unlike that of the domain of complex numbers. Indeed, not only the truth of first-order complex analysis, but the truth of all first-order mathematics can be sustained by assigning semantic values drawn from a countable domain to the logico-inferential components of first-order mathematical theories. Since most of mathematics is formulated (or formulable) in a first-order way, we are left with the question, “How, in the absence of causal interaction between human beings and the mathematical realm, can a platonist explain a mathematical term having its intended semantic value rather than an alternate value afforded by the Löwenheim-Skolem theorem?”
+Strictly speaking, a platonist could bite a bullet here and simply maintain that there is only one platonic mathematical domain, a countable one, and that this domain is the actual, if not intended, subject matter of most mathematics. Yet this is not a bullet that most platonists want to bite, for they typically want the Existence Thesis to cover not only a countable mathematical domain, but all of the mathematical domains typically theorized about by mathematicians and, frequently, numerous other domains about which human mathematicians have not, as yet, developed theories. As soon as the scope of the Existence Thesis is so extended, the sharpening of the referential challenge underwritten by the Löwenheim-Skolem theorem has force.
+Return to section 3 where this section is referenced.
+9. References and Further Reading
+a. Suggestions for Further Reading
+
+Balaguer, Mark 1998. Platonism and Anti-Platonism in Mathematics, New  York, NY: Oxford University Press.
+
+The first part of this book provides a relatively gentle introduction to full-blooded platonism. It also includes a nice discussion of the literature surrounding the epistemological challenge.
+
+
+Balaguer, Mark 2008. Mathematical Platonism, in Proof and Other Dilemmas: Mathematics and Philosophy, ed. Bonnie Gold and Roger Simons, Washington, DC: Mathematics Association of America: 179–204.
+
+This article provides a non-technical introduction to mathematical platonism. It is an excellent source of references relating to the topics addressed in this article.
+
+
+Benacerraf, Paul 1973. Mathematical Truth, Journal of Philosophy 70: 661–79.
+
+This paper contains a discussion of the dilemma that motivated contemporary interest in the epistemological challenge to platonism. It is relatively easy to read.
+
+
+Burgess, John and Gideon Rosen 1997. A Subject With No Object: Strategies for Nominalistic Interpretation of Mathematics, New York, NY: Oxford  University Press.
+
+The majority of this book is devoted to a technical discussion of a variety of strategies for nominalizing mathematics. Yet §1A and §3C contain valuable insights relating to platonism. These sections also provide an interesting discussion of anti-nominalism.
+
+
+Colyvan, Mark 2001. The Indispensability of Mathematics, New York, NY: Oxford  University Press.
+
+This book offers an excellent, systematic exploration of the Quine-Putnam Indispensability Argument and some of the most important challenges that have been leveled against it. It also discusses a variety of motivations for being a non-platonist realist rather than a platonist.
+
+
+Field, Hartry 1980. Science Without Numbers, Princeton, NJ: Princeton University Press.
+
+This book contains Field’s classic challenge to the Quine-Putnam Indispensability Argument. Much of it is rather technical.
+
+
+Frege, Gottlob 1884. Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl, translated by John Langshaw Austin as The Foundations of Mathematics: A logico-mathematical enquiry into the concept of number, revised 2nd edition 1974, New York, NY: Basil Blackwell.
+
+This manuscript is Frege’s original, non-technical, development of his platonist logicism.
+
+
+Hale, Bob and Crispin Wright 2001. The Reason’s Proper Study: Essays towards a Neo-Fregean Philosophy of Mathematics, New York, NY: Oxford University Press.
+
+This book collects together many of the most important articles from Hale’s and Wright’s defense of neo-Fregean platonism. Its articles vary in difficulty.
+
+
+MacBride, Fraser 2003. Speaking with Shadows: A Study of Neo-Logicism, British Journal for the Philosophy of Science 54: 103–163.
+
+This article provides an excellent summary of Hale’s and Wright’s neo-Fregean logicism. It is relatively easy to read.
+
+
+Putnam, Hilary 1971. Philosophy of Logic, New York, NY: Harper Torch Books.
+
+This manuscript contains Putnam’s systematic development of the Quine-Putnam Indispensability Argument.
+
+
+Resnik, Michael 1997. Mathematics as a Science of Patterns, New York, NY: Oxford University Press.
+
+This book contains Resnik’s development and defense of a non-platonist, realist structuralism. It contains an interesting discussion of some of the problems with drawing the abstract/concrete distinction.
+
+
+Shapiro, Stewart 1997. Philosophy of Mathematics: Structure and Ontology, New York, NY: Oxford University Press.
+
+This book contains Shapiro’s development and defense of a platonist structuralism. It also offers answers to the epistemological and referential challenges.
+
+
+Shapiro, Stewart 2005. The Oxford Handbook of Philosophy of Mathematics and Logic, New  York, NY: Oxford University Press.
+
+This handbook contains excellent articles addressing a variety of topics in the philosophy of mathematics. Many of these articles touch on themes relevant to platonism.
+
+
+
+b. Other References
+
+Batterman, Robert 2001. The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence, New York, NY: Oxford  University Press.
+Burgess, John 1983. Why I Am Not a Nominalist, Notre Dame Journal of Formal Logic 24: 41–53
+Burgess, John 2004. Mathematics and Bleak House, Philosophia Mathematica 12: 18–36.
+Burgess, John and Gideon Rosen 2005. Nominalism Reconsidered, in The Oxford Handbook of Philosophy of Mathematics and Logic, ed. Stewart Shapiro, New York, NY: Oxford  University Press: 515–35.
+Cole, Julian 2008. Mathematical Domains: Social Constructs? in Proof and Other Dilemmas: Mathematics and Philosophy, ed. Bonnie Gold and Roger Simons, Washington, DC: Mathematics Association of America: 109–28.
+Cole, Julian 2009. Creativity, Freedom, and Authority: A New Perspective on the Metaphysics of Mathematics, Australasian Journal of Philosophy 87: 589–608.
+Dummett, Michael 1981. Frege: Philosophy of Language, 2nd edition, Cambridge, MA: Harvard University Press.
+Ernest, Paul 1998. Social Constructivism as a Philosophy of Mathematics, Albany, NY: State University of New York Press.
+Field, Hartry 1989. Realism, Mathematics, and Modality, New   York, NY: Basil Blackwell.
+Frege, Gottlob 1879. Begriffsschift, eine der arithmetschen nachgebildete Formelsprache des reinen Denkens, Halle a. Saale: Verlag von Louis Nebert.
+Frege, Gottlob 1893. Grundgesetze der Arithmetik, Band 1, Jena,  Germany: Verlag von Hermann Pohle.
+Frege, Gottlob 1903. Grundgesetze der Arithmetik, Band 2, Jena,  Germany: Verlag von Hermann Pohle.
+Hale, Bob 1987. Abstract Objects, New York, NY: Basil Blackwell.
+Hersh, Rueben 1997. What Is Mathematics, Really? New York, NY: Oxford University Press.
+Heyting, Alfred 1931. Die intuitionistische Grundlegung der Mathematik, Erkenntnis 2: 106–115, translated in Paul Benacerraf and Hilary Putnam, Philosophy of Mathematics: Selected Readings, 2nd edition, 1983: 52–61.
+Lewis, David 1986. On the Plurality of Worlds, New York, NY: Oxford University Press.
+MacBride, Fraser 2005. The Julio Czsar Problem, Dialectica 59: 223–36.
+MacBride, Fraser 2006. More problematic than ever: The Julius Caesar objection, in Identity and Modality: New Essays in Metaphysics, ed. Fraser MacBride, New York, NY: Oxford University Press: 174–203.
+Putnam, Hilary 1981. Reason, Truth, and History, New York, NY: Cambridge University Press.
+Putnam, Hilary 1983. Realism and Reason, New York, NY: Cambridge University Press.
+Quine, Willard Van Orman 1948. On what there is, Review of Metaphysics 2: 21–38.
+Quine, Willard Van Orman 1951. Two dogmas of empiricism, Philosophical Review 60: 20–43, reprinted in From a Logical Point of View, 2nd edition 1980, New York, NY: Cambridge University Press: 20–46.
+Quine, Willard Van Orman 1963. Set Theory and Its Logic, Cambridge, MA: Harvard University Press.
+Quine, Willard Van Orman 1981. Theories and Things, Cambridge, MA: Harvard University Press.
+Resnik, Michael 1981. Mathematics as a science of patterns: Ontology and reference, Noûs 15: 529–50.
+Resnik, Michael 2005. Quine and the Web of Belief, in The Oxford Handbook of Philosophy of Mathematics and Logic, ed. Stewart Shapiro, New York, NY: Oxford University Press: 412–36.
+Shapiro, Stewart 1991. Foundations Without Foundationalism: A Case for Second Order Logic, New  York, NY: Oxford University Press. 
+Shapiro, Stewart 1993. Modality and ontology, Mind 102: 455–481.
+Tennant, Neil 1987. Anti-Realism and Logic, New York, NY: Oxford University Press.
+Tennant, Neil 1997. On the Necessary Existence of Numbers, Noûs 31: 307–36.
+Wright, Crispin 1983. Frege’s Conception of Numbers as Objects, volume 2 of Scots Philosophical Monograph, Aberdeen, Scotland: Aberdeen University Press.
+
+Author Information
+Julian C. Cole
+Email: colejc@buffalostate.edu
+Buffalo State College
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

@@ -1,0 +1,547 @@
+
+
+
+
+
+
+
+
+
+Descartes: Ethics | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+René Descartes: Ethics
+This article describes the main topics of Descartes’ ethics through discussion of key primary texts and corresponding interpretations in the secondary literature. Although Descartes never wrote a treatise dedicated solely to ethics, commentators have uncovered an array of texts that demonstrate a rich analysis of virtue, the good, happiness, moral judgment, the passions, and the systematic relationship between ethics and the rest of philosophy. The following ethical claims are often attributed to Descartes: the supreme good consists in virtue, which is a firm and constant resolution to use the will well; virtue presupposes knowledge of metaphysics and natural philosophy; happiness is the supreme contentment of mind which results from exercising virtue; the virtue of generosity is the key to all the virtues and a general remedy for regulating the passions; and virtue can be secured even though our first-order moral judgments never amount to knowledge.
+Descartes’ ethics was a neglected aspect of his philosophical system until the late 20th century. Since then, standard interpretations of Descartes’ ethics have emerged, debates have ensued, and commentators have carved out key interpretive questions that anyone must answer in trying to understand Descartes’ ethics. For example: what kind of normative ethics does Descartes espouse? Are the passions representational or merely motivational states? At what point in the progress of knowledge can the moral agent acquire and exercise virtue? Is Descartes’ ethics as systematic as he sometimes seems to envision?
+Table of Contents
+
+Methodology
+
+Identifying the Texts
+The Tree of Philosophy and Systematicity
+The Issue of Novelty
+
+
+The Provisional Morality
+
+The First Maxim
+The Second Maxim
+The Third Maxim
+The Fourth Maxim
+
+
+Cartesian Virtue
+
+The Unity of the Virtues
+Virtue qua Perfection of the Will
+
+
+The Epistemic Requirements of Virtue
+
+Knowledge of the Truth
+
+Theoretical Knowledge of the Truth
+Practical Knowledge of the Truth
+
+
+Intellect, Will, and Degrees of Virtue
+
+
+Moral Epistemology
+
+The Contemplation of Truth vs. The Conduct of Life
+Moral Certainty and Moral Skepticism
+Virtue qua Resolution
+
+
+The Passions
+
+The Definition of the Passions
+The Function of the Passions
+Whether the Passions are Representational or Motivational
+
+
+Generosity
+
+Component One: What Truly Belongs to Us
+Acquiring Generosity
+Generosity and the Regulation of the Passions
+The Other-Regarding Nature of Generosity
+
+
+Love
+
+The Metaphysical Reading
+The Practical Reading
+
+
+Happiness
+Classifying Descartes’ Ethics
+
+Virtue Ethics
+Deontological Virtue Ethics
+Perfectionism
+
+
+Systematicity Revisited
+
+The Epistemological Reading
+The Organic Reading
+
+
+References and Further Reading
+
+Abbreviations
+Primary Sources
+Secondary Sources
+
+
+
+1. Methodology
+a. Identifying the Texts
+When one considers the heyday of early modern ethics, the following philosophers come to mind: Hobbes, Hutcheson, Hume, Butler, and, of course, Kant. Descartes certainly does not. Indeed, many philosophers and students of philosophy are unaware that Descartes wrote about ethics. Standard interpretations of Descartes’ philosophy place weight on the Discourse on the Method, Rules for the Direction of the Mind, Meditations on First Philosophy (with the corresponding Objections and Replies), and the Principles of Philosophy. Consequently, Descartes’ philosophical contributions to the early modern period are typically understood as falling under metaphysics, epistemology, philosophy of mind, and natural philosophy. When commentators do consider Descartes’ ethical writings, these writings are often regarded as an afterthought to his mature philosophical system. Indeed, Descartes’ contemporaries often did not think much of Descartes’ ethics. For example, Leibniz writes: “Descartes has not much advanced the practice of morality” (Letter to Molanus, AG: 241).
+This view is understandable. Descartes certainly does not have a treatise devoted solely to ethics. This lack, in and of itself, creates an interpretive challenge for the commentator. Where does one even find Descartes’ ethics? On close inspection of Descartes’ corpus, however, one finds him tackling a variety of ethical themes—such as virtue, happiness, moral judgment, the regulation of the passions, and the good—throughout his treatises and correspondence. The following texts are of central importance in unpacking Descartes’ ethics: the Discourse on Method, the French Preface to the Principles, the Dedicatory Letter to Princess Elizabeth for the Principles, the Passions of the Soul, and perhaps most importantly, the correspondence with Princess Elizabeth of Bohemia, Queen Christina of Sweden, and the envoy Pierre Chanut (for more details on these important interlocutors—Princess Elizabeth in particular—and how they all interacted with each other in bringing about these letters see Shapiro [2007: 1–21]).
+These ethical writings can be divided into an early period and a later—and possibly mature—period. That is, the early period of the Discourse (1637) and the later period spanning (roughly) from the French Preface to the Passions of the Soul (1644–1649).
+b. The Tree of Philosophy and Systematicity
+Why should we take seriously Descartes’ interspersed writings on ethics, especially since he did not take the time to write a systematic treatment of the topic? Indeed, one might think that we should not give much weight to Descartes’ ethical musings, given his expressed aversion to writing about ethics. In a letter to Chanut, Descartes writes:
+It is true that normally I refuse to write down my thoughts concerning morality. I have two reasons for this. One is that there is no other subject in which malicious people can so readily find pretexts for vilifying me; and the other is that I believe only sovereigns, or those authorized by them, have the right to concern themselves with regulating the morals of other people. (Letter to Chanut 20 November 1647, AT V: 86–7/CSMK: 326)
+However, one should take this text with a grain of salt. For in other texts, Descartes clearly does express a deep interest in ethics. Consider the famous tree of philosophy passage:
+The whole of philosophy is like a tree. The roots are metaphysics, the trunk is physics, and the branches emerging from the trunk are all the other sciences, which may be reduced to three principal ones, namely, medicine, mechanics, and morals. By ‘morals’ I understand the highest and most perfect moral system, which presupposes a complete knowledge of the other sciences and is the ultimate level of wisdom.
+Now just as it is not the roots or the trunk of a tree from which one gathers the fruit, but only the ends of the branches, so the principal benefit of philosophy depends on those parts of it which can only be learnt last of all. (French Preface to the Principles, AT IXB: 14/CSM I: 186)
+This passage is surprising, to say the least. Descartes seems to claim that the proper end of his philosophical program is to establish a perfect moral system, as opposed to (say) overcoming skepticism, proving the existence of God, and establishing a mechanistic science. Moreover, Descartes seems to claim that ethics is systematically grounded in metaphysics, physics, medicine, and mechanics. Ethics is not supposed to float free from the metaphysical and scientific foundations of the system.
+The tree of philosophy passage is a guiding text for many commentators in interpreting Descartes’ ethics, primarily because of its vision of philosophical systematicity (Marshall 1998, Morgan 1994, Rodis-Lewis 1987, Rutherford 2004, Shapiro 2008a). Indeed, the nature of the systematicity of Descartes’ ethics has been one of the main interpretive questions for commentators. Two distinct questions of systematicity are of importance here, which the reader should keep in mind as we engage Descartes’ ethical writings.
+The first question of systematicity is internal to Descartes’ ethics itself. The early period of Descartes’ ethics, that is, the Discourse, is characterized by Descartes’ provisional morality. Broadly construed, the provisional morality seems to be a temporary moral guide—a stop gap, as it were—so that one can still live in the world of bodies and people while simultaneously engaging in hyperbolic doubt for the sake of attaining true and certain knowledge (scientia). As such, one might expect Descartes to revise the four maxims of the provisional morality once foundational scientia is achieved. Presumably, the perfect moral system that Descartes envisions in the tree of philosophy is not supposed to be a provisional morality. However, some commentators have claimed that the provisional morality is actually Descartes’ final moral view (Cimakasky & Polansky 2012). Others, however, take a developmental view, arguing that Descartes’ later period, although related to the provisional morality, makes novel and distinct advancements (Marshall 1998, Shapiro 2008a).
+The second question of systematicity concerns how Descartes’ ethics relates to the rest of his philosophy. To fully understand this question, we must distinguish two senses of ethics (la morale) in the tree of philosophy (Parvizian 2016). First, there is ethics qua theoretical enterprise. This concerns a theory of virtue, happiness, the passions, and other areas. Second, there is ethics qua practical enterprise. That is, the exercise of virtue, the attainment of happiness, the regulation of the passions. Thus, one may distinguish, for example, the question of whether a theory of virtue depends on metaphysics, physics, and the like, from whether exercising virtue depends on knowledge of metaphysics, physics, and the like. Commentators tend to agree that theoretical ethics presupposes the other parts of the tree, although how this is supposed to work out with respect to each field has not been fully fleshed out. For example: what is the relationship between mechanics and ethics? However, there is substantive disagreement about whether exercising virtue presupposes knowledge of metaphysics or contributes to knowledge of metaphysics.
+c. The Issue of Novelty
+Another broad interpretive question concerns how Descartes’ ethics relates to past ethical theories, and whether Descartes’ ethics is truly novel (as he sometimes claims). It is undeniable that Descartes’ ethics is, in certain respects, underdeveloped. Given that Descartes is well versed in the ethical theories of his predecessors, one might be tempted to fill in the details Descartes does not spell out by drawing on other sources (for example, the Stoics).
+This is a complicated matter. In section 3, Descartes claims that he is advancing beyond ancient ethics, particularly with his theory of virtue. This is in line with Descartes’ more general tendency to claim that his philosophical system breaks from the ancient and scholastic philosophical tradition (Discourse I, AT VI: 4–10/CSM I: 112–115). However, in some texts Descartes suggests that he is building upon past ethical theories. For example, Descartes tells Princess Elizabeth:
+To entertain you, therefore, I shall simply write about the means which philosophy provides for acquiring that supreme felicity which common souls vainly expect from fortune, but which can be acquired only from ourselves.
+One of the most useful of these means, I think, is to examine what the ancients have written on this question, and try to advance beyond them by adding something to their precepts. For in this way we can make the precepts perfectly our own and become disposed to put them into practice. (Letter to Princess Elizabeth 21 July 1645, AT IV: 252/CSMK: 256; emphasis added)
+Given such a text, a commentator would certainly be justified in drawing on other sources to illuminate Descartes’ ethical positions (such as the nature of happiness vis-à-vis the Stoics). Thus, although Descartes claims that he is breaking with the past, one still ought to explore the possibility that his ethics builds on, for example, the Aristotelian and Stoic ethics with which he was surely acquainted. Indeed, some commentators have argued that Descartes’ ethics is indebted to Stoicism (Kambouchner 2009, Rodis-Lewis 1957, Rutherford 2004 & 2014).
+2. The Provisional Morality
+Descartes’ first stab at ethics is in Discourse III. In the Discourse, Descartes lays out a method for conducting reason in order to acquire knowledge. This method requires an engagement with skepticism, which raises the question of how one should live in the world when one has yet to acquire knowledge and must suspend judgment about all dubitable matters. Perhaps to ward off the classic apraxia objection to skepticism, that is, the objection that one cannot engage in practical affairs if one is truly a skeptic (Marshall 2003), Descartes offers a “provisional morality” to help the temporary skeptic and seeker of knowledge still act in the world. Descartes writes:
+Now, before starting to rebuild your house, it is not enough simply to pull it down, to make provision for materials and architects (or else train yourself in architecture), and to have carefully drawn up the plans; you must also provide yourself with some other place where you can live comfortably while building is in progress. Likewise, lest I should remain indecisive in my actions while reason obliged me to be so in my judgements, and in order to live as happily as I could during this time, I formed for myself a provisional moral code consisting of just three or four maxims, which I should like to tell you about. (Discourse III, AT VI: 22/CSM I: 122)
+Notice that Descartes is ambiguous about whether the provisional morality consists of three or four maxims. There is some interpretive debate about this matter. We will discuss all four candidate maxims. Furthermore, we will bracket the issue of how to understand the provisional nature of this morality (see, for example, LeDoeuff 1989, Marshall 1998 & 2003, Morgan 1994, Shapiro 2008a). However, it should be noted that Descartes does refer to the provisional morality even in his later ethical writings, which suggests that the maxims are not entirely abandoned once skepticism is defeated (see Letter to Princess Elizabeth 4 August 1645, AT IV: 265–6/CSMK: 257–8).
+a. The First Maxim
+Maxim One can be divided into three claims:
+M1a: The moral agent ought to obey the laws and customs of her country.
+M1b: The moral agent ought to follow their religion.
+M1c: In all other matters not addressed by M1a and M1b, the moral agent ought to follow the most commonly accepted and sensible opinions of her community. (Discourse III, AT VI: 23/CSM I: 122)
+Descartes claims that during his skeptical period he found his own “opinions worthless” (Ibid.). In the absence of genuine moral knowledge to guide our practical actions, Descartes claims that the best we can do is conform to the moral guidelines offered in the laws and customs of one’s country, religion, and the moderate and sensible opinions of one’s community. As Vance Morgan notes, M1 is strikingly anti-Cartesian, as it calls the moral agent to an “unreflective social conformism” (1994: 45). But as we see below, M1, at least partially, does not seem to be abandoned in Descartes’ later ethical writings.
+b. The Second Maxim
+Maxim Two states:
+M2: The moral agent ought to be firm and decisive in her actions, and to follow even doubtful opinions once they are adopted, with no less constancy than if they were certain.
+The motivation for M2 seems to be the avoidance of irresolution, which Descartes later characterizes as an anxiety of the soul in the face of uncertainty that prevents or delays the moral agent from taking up a course of action (Passions III.170, AT XI: 459–60/CSM I: 390–1). Descartes writes that, since “in everyday life we must often act without delay, it is a most certain truth that when it is not in our power to discern the truest opinions, we must follow the most probable” (Discourse III, AT VI: 25/CSM I: 123). Descartes discusses a traveler lost in a forest to illustrate the usefulness of M2. The traveler is lost, and he does not know how to get out of the woods. Descartes’ advice is that the traveler should pick a route, even if it is uncertain, and resolutely stick to it:
+Keep walking as straight as he can in one direction, never changing it for slight reasons even if mere chance made him choose it in the first place; for in this way, even if he does not go exactly where he wishes, he will at least end up in a place where he is likely to be better off than in the middle of a forest. (Ibid.)
+Descartes claims that following M2 prevents the moral agent from undergoing regret and remorse. This is important because regret and remorse prevent the moral agent from attaining happiness. The notion of sticking firmly and constantly to one’s moral judgments, even if they are not certain, is a recurring theme in Descartes’ later ethical writings (it is indeed constitutive of his virtue theory).
+c. The Third Maxim
+Maxim Three states:
+M3: The moral agent ought to master herself rather than fortune, and to change her desires rather than the order of the world.
+The justification for M3 is that “nothing lies entirely within our power except our thoughts” (Ibid.). Knowing this truth will lead the moral agent to orient her desires properly, because she will have accepted that “after doing our best in dealing with matters external to us, whatever we fail to achieve is absolutely impossible so far as we are concerned” (Ibid.). To be clear, the claim is that we should consider “all external goods as equally beyond our power” (Discourse III, AT VI: 26/CSM I: 124). Unsurprisingly, Descartes claims that it takes much work to accept M3: “it takes long practice and repeated meditation to become accustomed to seeing everything in this light” (Ibid.). The claim that only our thoughts lie within our power—and that knowing this is a key to regulating the passions—is another recurring theme in Descartes’ ethical writings, particularly in his theory of the passions and generosity (see section 7).
+d. The Fourth Maxim
+When reading Discourse III, it seems that the provisional morality ends after the discussion of M3. Indeed, in some texts Descartes refers to “three rules of morality” (see, for instance, Letter to Princess Elizabeth 4 August 1645, AT IV: 265/CSMK: 257). However, Descartes does seem to tack on a final Fourth Maxim:
+M4: The moral agent ought to devote their life to cultivating reason and acquiring knowledge of the truth, according to the method outlined in the Discourse.
+M4 has a different status than the other three maxims: it is the “sole basis of the foregoing three maxims” (Discourse III, AT VI: 27/CSM I: 124). It seems that M4 is not truly a maxim of morality, however, but a re-articulation of Descartes’ commitment to acquiring genuine knowledge. The moral agent must not get stuck in skepticism, resorting to a life of provisional morality, but rather must continue and persist in her search for knowledge of the truth (with the hope of establishing a well-founded morality—perhaps the “perfect moral system” of the tree of philosophy).
+3. Cartesian Virtue
+ We now turn to Descartes’ later ethical writings (ca. 1644–1649). Arguably, the centerpiece of these writings is a theory of (moral) virtue. Though formulated in different ways, Descartes offers a consistent definition of virtue throughout his later ethical writings, namely, that virtue consists in the firm and constant resolution to use the will well (see Letter to Princess Elizabeth 18 August 1645, AT IV: 277/CSMK: 262; Letter to Princess Elizabeth 4 August 1645, AT IV: 265/CSMK: 258; Letter to Princess Elizabeth 6 October 1645, AT IV: 305/CSMK: 268; Passions II.148, AT XI: 442/CSM I: 382; Letter to Queen Christina 20 November 1647, AT V: 83/CSMK: 325). This resolution to use the will well has two main features: (1) the firm and constant resolution to arrive at one’s best moral judgments, and (2) the firm and constant resolution to carry out these best moral judgments to the best of one’s abilities. It is important to note that the scope of the discussion here concerns moral virtue, not epistemic virtue (for an account of epistemic virtue see Davies 2001, Shapiro 2013, Sosa 2012).
+a. The Unity of the Virtues
+Descartes claims that his definition of virtue is wholly novel, and that he is breaking off from Scholastic and ancient definitions of virtue:
+He should have a firm and constant resolution to carry out whatever reason recommends without being diverted by his passions or appetites. Virtue, I believe, consists precisely in sticking firmly to this resolution; though I do not know that anyone has ever so described it. Instead, they have divided it into different species to which they have given various names, because of the various objects to which it applies. (Letter to Princess Elizabeth 4 August 1645, AT IV: 265/CSMK: 258)
+It is unclear what conception of virtue Descartes is criticizing here, but it is not far-fetched that he has in mind Aristotle’s account of virtue (arete) in the Nicomachean Ethics. For, according to Aristotle, there are a number of virtues—such as courage, temperance, and wisdom—each of which are distinct characterological traits that consist of a mean between an excess and a deficiency and guided by practical wisdom (phronesis) (Nicomachean Ethics II, 1106b–1107a). For example, the virtue of courage is the mean between rashness and cowardice. Although Descartes is willing to use a similar conceptual apparatus for distinguishing different virtues—for example, he will talk extensively about a “distinct” virtue of generosity—at bottom he thinks that there are no strict metaphysical divisions between the virtues. All of the so-called virtues have one and the same nature—they are reducible to the resolution to use the will well. As he tells Queen Christina:
+I do not see that it is possible to dispose it [that is, the will] better than by a firm and constant resolution to carry out to the letter all the things which one judges to be best, and to employ all the powers of one’s mind in finding out what these are. This by itself constitutes all the virtues. (Letter to Queen Christina 20 November 1647, AT V: 83/CSMK: 325)
+Similarly, he writes in the Dedicatory Letter to Princess Elizabeth for the Principles:
+The pure and genuine virtues, which proceed solely from knowledge of what is right, all have one and the same nature and are included under the single term ‘wisdom’. For whoever possesses the firm and powerful resolve always to use his reasoning powers correctly, as far as he can, and to carry out whatever he knows best, is truly wise, so far as his nature permits. And simply because of this, he will possess justice, courage, temperance, and all the other virtues; but they will be interlinked in such a way that no one virtue stands out among the others. (AT VIIIA: 2–3/CSM:191)
+In these passages, Descartes is espousing a unique version of the unity of the virtues thesis. An Aristotelian unity of the virtues entails a reciprocity or inseparability among distinct virtues (Nichomachean Ethics VI, 1144b–1145a). According to Descartes, however, there is a unity of the “virtues” because, strictly speaking, there is only one virtue, namely, the resolution to use the will well (Alanen and Svensson 2007: fn. 8; Naaman-Zauderer 2010: 179–181). When the virtues are unified in this way, they exemplify wisdom.
+b. Virtue qua Perfection of the Will
+But what exactly is the nature of this resolution to use the will well? And how does one go about exercising this virtue? There are three main issues that need to be addressed in order to unpack Cartesian virtue. The first and foundational issue is Descartes’ rationale for locating virtue in a perfection of the will (section 3b). The second concerns the distinct epistemic requirements for virtue (section 4a). The third concerns Descartes’ characterization of virtue as a resolution of the will (section 5c).
+According to Descartes, virtue is our “supreme good” (Letter to Princess Elizabeth 6 October 1645, AT IV: 305/CSMK: 268, Letter to Queen Christina 20 November 1647, AT V: 83/CSMK: 325; see also Svensson 2019b). One avenue for tackling this claim about the supreme good is to think about what we can be legitimately praised or blamed for (Parvizian 2016). According to Descartes, virtue is certainly something that we can be praised for, and vice is certainly something that we can be blamed for. Now, in order to be legitimately praised or blamed for some property, f, f must be fully within our control. If f is not fully within our control, then we cannot truly be praised or blamed for possessing f. For example, Descartes cannot be praised or blamed for being French. This is a circumstantial fact about Descartes that is wholly outside of his control. However, Descartes can be praised or blamed for his choice to join the army of Prince Maurice of Nassau, for this is presumably a decision within his control, and it is either virtuous or vicious.
+But what does it mean for f to be within our control? According to Descartes, control needs to be understood vis-à-vis the freedom to dispose of our volitions. The will is the source of our power and control—it is through the will that we affirm and deny perceptions at the cognitive level, and correspondingly act at the bodily level (Fourth Meditation, AT VII: 57/CSM II: 40). We have control over f insofar as f is fully under the purview of the will. As such, the reason why our supreme good lies in our will—or more specifically a virtuous use of our will—is because our will is the only thing we truly have control over. At bottom, everything else—our bodies, historical circumstances, and even intellectual capacities—are beyond the scope of our finite power.
+This is not to deny that things outside of our control might be perfections or goods. Descartes clearly recognizes that wealth, beauty, intelligence and so forth are perfections, and desirable ones (Passions III.158, AT XI: 449/CSM I: 386). They can certainly contribute, in some sense, to well-being (see section 9). However, they are neither necessary nor sufficient for virtue and happiness. Descartes certainly allows for the possibility of the virtuous moral agent who is tortured “on the rack.” What matters is how we respond to the contingencies of the world, and how we incorporate contingent perfections into our life. Such responses are, of course, dependent on the will. Thus, it is through the will alone that we attain virtue.
+As such, the will is also the only legitimate source of our personal value, and thus justified self-esteem. Indeed, Descartes claims that it is through the will alone that we bear any similarity to God. For it is through the will that we can become masters of ourselves, just as God is a master of Himself (Passions III.152, AT XI: 445/CSM I: 384).
+4. The Epistemic Requirements of Virtue
+Although virtue is located in a perfection of the will, the intellect does have a role in Cartesian virtue. One cannot use the will well in practical affairs unless the will is guided by the right kinds of perceptions—leaving open for now what we mean by ‘right’ (Morgan 1994: 113–128; Shapiro 2008: 456–7; Williston 2003: 308–310). Nonetheless, Descartes clearly claims that the virtuous will must be guided by the intellect:
+Virtue unenlightened by the intellect is false: that is to say, the will and resolution to do well can carry us to evil courses, if we think them good; and in such a case the contentment which virtue brings is not solid. (Letter to Princess Elizabeth 4 August 1645, AT IV: 267/CSMK: 258)
+More specifically, Descartes claims that we need knowledge of the truth to exercise virtue. However, Descartes recognizes that this knowledge cannot be comprehensive given our limited intellectual capacities:
+It is true that we lack the infinite knowledge which would be necessary for a perfect acquaintance with all the goods between which we have to choose in the various situations of our lives. We must, I think, be contented with a modest knowledge of the most necessary truths. (Letter to Princess Elizabeth 6 October 1645, AT IV: 308/CSMK: 269)
+This section tackles the issue of how to judge well based on knowledge of the truth, in other words how to arrive at our best moral or practical judgments. Notice that this seems to mark a departure from the provisional morality of the Discourse, in particular M1, where our moral judgments are not guided by any knowledge given the background engagement with skepticism.
+a. Knowledge of the Truth
+According to Descartes, in order to judge (and act) well we need to have knowledge of the truth in both a theoretical and practical sense. That is, we must assent to a certain set of truths at a theoretical level. However, in order to judge well in a moral situation, we need to have these truths ready at hand, that is, we need practical habits of belief.
+i. Theoretical Knowledge of the Truth
+In a letter to Princess Elizabeth, Descartes identifies six truths that we need in order to judge well in moral situations. Four of these truths are general in that they apply to all of our actions, and two of these truths are particular in that they are applicable to specific moral situations. Let us first examine what these truths are at a theoretical level, before turning to how these truths must be transformed into practical habits of belief.
+Broadly put, the four general truths are:
+T1: The existence of God
+T2: The real distinction between mind and body
+T3: The immensity of the universe
+T4: The interconnectedness of the parts of the universe
+The two particular truths are:
+T5: The passions can misguide us.
+T6: One can follow customary moral opinions when it is reasonable to do so.
+On T1: Descartes claims that we must know that “there is a God on whom all things depend, whose perfections are infinite, whose power is immense and whose decrees are infallible” (Letter to Princess Elizabeth 15 September 1645, AT IV: 291/CSMK: 265) Knowing T1 is necessary for virtue, because it “teaches us to accept calmly all the things which happen to us as expressly sent by God,” and it engenders love for God in the moral agent (Ibid.).
+On T2: Descartes says that we must know the nature of the soul, “that it subsists apart from the body, and is much nobler than the body, and that it is capable of enjoying countless satisfactions not to be found in this life” (Letter to Princess Elizabeth 15 September 1645, AT IV: 292/CSMK: 265–6). Knowing T2 is necessary for virtue because it prevents the moral agent from fearing death and helps her prioritize her intellectual pursuits over her bodily pursuits.
+On T3: Descartes says that we must have a “vast idea of the extent of the universe” (Ibid.). He says this vast idea of the universe is conveyed in Principles III, and that it would be useful for moral agents to have read at least that part of his physics. Having knowledge of physics is necessary for virtue, because it prevents the moral agent from thinking that the universe was only created for her, thus wishing to “belong to God’s council” (Ibid.). It is important to note that this is one of the few places where Descartes draws out any connection between his physics and ethics, although he claims in a number of places that there are fundamental connections between these two disparate fields (Letter to Chanut 15 June 1646, AT IV: 441/CSMK: 289, Letter to Chanut 26 February 1649, AT V: 290-1/CSMK: 368).
+On T4: Descartes says that “though each of us is a person distinct from others, whose interests are accordingly in some way different from those of the rest of the world, we ought still to think that none of us could subsist alone and that each one of us is really one of the many parts of the universe” (Letter to Princess Elizabeth 15 September 1645, AT IV: 293/CSMK: 266). Knowing T4 is necessary for virtue, because it helps engender an other-regarding character—perhaps love and generosity—that is particularly relevant to Cartesian virtue. Indeed, virtue requires that the “interests of the whole, of which each of us is a part, must always be preferred to those of our own particular person” (Ibid.).
+On T5: Descartes seems to claim that the passions exaggerate the value of the goods they represent (and thus are misrepresentational), and that the passions correspondingly impel us to the pleasures of the body. Knowing T5 is necessary for virtue, because it helps us suspend our judgments when we are in the throes of the passions, so that we are not “deceived by the false appearances of the goods of this world” (Letter to Princess Elizabeth 15 September 1645, AT IV: 294–5/CSMK: 267).
+On T6: Descartes claims that “one must also examine minutely all the customs of one’s place of abode to see how far they should be followed” (Ibid.). T6 is necessary for virtue because “though we cannot have demonstrations of everything, still we must take sides, and in matters of custom embrace the opinions that seem the most probable, so that we may never be irresolute when we need to act” (Ibid.). T6 seems to be a re-articulation of M1 in the provisional morality, specifically M1a above.
+ii. Practical Knowledge of the Truth
+T1–T6 must be known at a theoretical level. However, Descartes claims that we also need to transform T1–T6 into habits of belief:
+Besides knowledge of the truth, practice is also required if one is to be always disposed to judge well. We cannot continually pay attention to the same thing; and so, however clear and evident the reasons may have been that convinced us of some truth in the past, we can later be turned away from believing it by some false appearances unless we have so imprinted it on our mind by long and frequent meditation that it has become a settled disposition within us. In this sense the Scholastics are right when they say that virtues are habits; for in fact our failings are rarely due to lack of theoretical knowledge of what we should do, but to lack of practical knowledge—that is, lack of a firm habit of belief. (Letter to Princess Elizabeth 15 September 1645, AT IV: 295–6/CSMK: 267)
+The idea seems to be this: in order to actually judge well in a moral situation, T1–T6 need to be ready at hand. We need to bring them forth before the mind swiftly and efficiently in order to respond properly in a moral situation. In order to do that, we must meditate on T1–T6 until they become habits of belief.
+b. Intellect, Will, and Degrees of Virtue
+There seems to be an inconsistency between Descartes’ theory of virtue and his account of the epistemic requirements for virtue. Descartes is committed to the following two claims:
+
+Theoretical and practical knowledge of T1–T6 is a necessary condition for virtue.
+One can be virtuous even if they do not have theoretical and practical knowledge of T1–
+
+We have seen that Descartes is committed to claim (1). But why is he committed to claim (2)? Consider the following passage from the Dedicatory Letter to Elizabeth:
+Now there are two prerequisites for the kind of wisdom [that is, the unity of the virtues] just described, namely the perception of the intellect and the disposition of the will. But whereas what depends on the will is within the capacity of everyone, there are some people who possess far sharper intellectual vision than others. Those who are by nature somewhat backward intellectually should make a firm and faithful resolution to do their utmost to acquire knowledge of what is right, and always to pursue what they judge to be right; this should suffice to enable them, despite their ignorance on many points, to achieve wisdom according to their lights and thus to find great favour with God. (AT VIIIA: 3/CSM I: 191)
+Descartes clearly commits himself to (2) in this passage. But in the continuation of this passage he offers a way to reconcile (1) and (2):
+Nevertheless, they will be left far behind by those who possess not merely a very firm resolve to act rightly but also the sharpest intelligence combined with the utmost zeal for acquiring knowledge of the truth.
+According to Descartes, virtue, at its essence, is a property of the will, not the intellect. Virtue consists in the firm and constant resolution to use the will well, which requires determining one’s best practical judgments and executing them to the best of one’s abilities. However, virtue comes in degrees, in accordance with what these best practical judgments are based on. The more knowledge one has (essentially, the more perfected one’s intellect is), the higher one’s degree of virtue.
+In its ideal form, virtue presupposes, at a minimum, theoretical and practical knowledge of T1–T6 (and arguably one’s virtue would be improved by acquiring further relevant knowledge). But Descartes acknowledges that not everyone has the capacity or perhaps is in a position to acquire knowledge of the truth (for instance the peasant). Nonetheless, Descartes does not want to exclude such moral agents from acquiring virtue. Virtue is not just for the philosopher. If such moral agents resolve to acquire as much knowledge as they can, and have a firm and constant resolution to use their will well (according to that knowledge), then they will secure virtue (even if they have the wrong metaphysics, epistemology, natural philosophy, or the like). Claims (1) and (2) are rendered consistent, then, once they are properly revised:
+(1)*     Theoretical and practical knowledge of T1–T6 is a necessary condition for ideal virtue.
+(2)*     One can be non-ideally virtuous while lacking full theoretical and practical knowledge of T1–T6, so long as they do their best to acquire as much relevant knowledge as they can, and to have the firm and constant resolution to use their will well accordingly.
+It is clear that Descartes is usually talking about an ideal form of virtue, whenever he uses the term ‘virtue.’ When he wants to highlight discussion of non-ideal forms of virtue, he is usually clear about his target (see, for example, Dedicatory Letter to Elizabeth, AT VIIIA: 2/CSM I: 190–1). In what follows, then, the reader should assume that the virtue being discussed is of the ideal variety, that is, it is based on some perfection of the intellect. As flagged earlier, there is disagreement, of course, about how much knowledge one must have to acquire certain virtues (for example, generosity).
+5. Moral Epistemology
+Does Descartes have a distinct moral epistemology? In the epistemology of the Meditations, Descartes distinguishes three different kinds of epistemic states: scientia/perfecte scire (perfect knowledge), cognitio (awareness), and persuasio (conviction or opinion). Broadly construed, the distinction between these three epistemic states is as follows. Scientia is an indefeasible judgment (it is true and absolutely certain), whereas cognitio and persuasio are both defeasible judgments. Nonetheless, cognitio is of a higher status than persuasio because there is—to some degree—better justification for cognitio than persuasio. Persuasio is mere opinion or belief, whereas cognitio is an opinion or awareness backed by some legitimate justification. For example, the atheist geometer can have cognitio of the Pythagorean theorem, and can justify that cognitio with a geometrical proof. However, this cognitio fails to achieve the status of scientia because the atheist geometer is unaware of God, and thus does not know the Truth Rule, namely, that her clear and distinct perceptions are true because God is not a deceiver (Second Replies, AT VII: 141/CSM II: 101; Third Meditation, AT VII: 35/CSM II: 24; Fourth Meditation, AT VII: 60–1/CSM II: 41).
+a. The Contemplation of Truth vs. The Conduct of Life
+There is an important question that must be raised about the epistemic status of our best moral judgments. In what sense is a “best moral judgment” the best? That is, is a best moral judgment the best because it amounts to scientia or does it fall short—that is, is it the best cognitio or persuasio? In the Meditations, where Descartes is engaged in a sustained hyperbolic doubt, he identifies two jointly necessary and sufficient conditions for knowledge in the strict sense, that is, scientia. In the standard interpretation, a judgment will amount to scientia when it is both true and absolutely certain (Principles I.45, AT VIIIA: 21–22/CSM I: 207). A judgment can meet the conditions of truth and absolute certainty when it is grounded in divinely guaranteed clear and distinct perceptions. Though the details are tricky, it is ultimately clear and distinct perceptions that make scientia indefeasible, because the intellect and its clear and distinct perceptions are epistemically guaranteed, in some sense, by God’s benevolence and non-deceptive nature. According to Descartes, however, the epistemic standards that we must abide by in theoretical matters or “the contemplation of the truth” should not be extended to practical matters or the “conduct of life.” As he writes in the Second Replies,
+As far as the conduct of life is concerned, I am very far from thinking that we should assent only to what is clearly perceived. On the contrary, I do not think that we should always wait even for probable truths; from time to time we will have to choose one of many alternatives about which we have no knowledge, and once we have made our choice, so long as no reasons against it can be produced, we must stick to it as firmly as if it had been chosen for transparently clear reasons. (AT VII: 149/CSM II: 106)
+This passage tells us that our best practical judgments cannot be the best in virtue of meeting the strict standards for scientia. This is because of the distinguishing factors between the contemplation of truth from the conduct of life. First and foremost, unlike the contemplation of truth, where the goal is to arrive at a true and absolutely certain theoretical judgment that amounts to knowledge, the conduct of life is concerned with arriving at a best practical moral judgment for the sake of carrying out a course of action. Given that in morality we are ultimately concerned with action in the conduct of life, we must keep in mind that there is a temporally indexed window of opportunity to act in a moral situation (Letter to Princess Elizabeth 6 October 1645 AT IV: 307/CSMK: 269). If a moral agent tries to obtain clear and distinct perceptions in moral deliberation—something that can take weeks or even months to attain according to Descartes (Second Replies, AT VII: 131/CSM II: 94; Seventh Replies, AT VII: 506/CSM II: 344)—the opportunity to act will pass and thus the moral agent will have failed to use her will well. In short, attaining clear and distinct perceptions in a moral situation is not advisable.
+Second, and perhaps more importantly, it seems that we cannot attain clear and distinct perceptions in the conduct of life. Although our best moral judgments are guided by knowledge of the truth (which are presumably based on clear and distinct perceptions), we also base our best moral judgments, in part, on perceptions of the relevant features of the moral situation. These include information about other mind-body composites, bodies, and the consequences of our action. For example, in the famous trolley problem, the moral agent has to consider her perceptions of the people tied to the track, the train and the rails, and the possible consequences that follow from directing the train one way or another at the fork in the tracks. Such information about the other mind-body composites and bodies in this moral situation is ultimately provided by sensations. And sensations, according to Descartes, provide obscured and confused content to the mind about the nature of bodies (Principles I.45, AT VIIIA: 21–2/CSM I: 207–8, Principles I.66–68, AT VIIIA: 32–33/CSM I: 126–7). As for predicting the consequences of an action, this is done through the imagination, for these consequences do not exist yet. I need to represent to my myself, through imagination, the potential consequences my action will produce in the long run. And such fictitious representations can only be obscure and confused. In short, given the imperfect kinds of perceptions that are involved in moral deliberation, our best moral judgments can never be fully grounded in clear and distinct perceptions.
+b. Moral Certainty and Moral Skepticism
+These perceptual facts help explain why Descartes claims that our best moral judgments can achieve only moral certainty, that is,
+[C]ertainty which is sufficient to regulate our behaviour, or which measures up to certainty we have on matters relating to the conduct of life which we never doubt, though we know that it is possible, absolutely speaking, that they may be false. (Principles IV.204, AT VIIIA: 327/CSM I: 289, fn. 1; see also Schachter 2005, Voss 1993)
+Given that even our best moral judgments can achieve only moral certainty, Descartes seems to be claiming that we cannot have first-order moral knowledge. That is, when I make a moral judgment of the following form “I ought to f in x moral situation,” that moral judgment will never amount to knowledge in the strict sense. Nonetheless, morally certain moral judgments are certainly not persuasio, as they are backed with some justification. Thus, we should regard them as attaining the status of cognitio—just shy of scientia (but for different reasons than the cognitio of the atheist geometer, presuming that the moral agent has completed the Meditations and knows that her faculties—in normal circumstances—are reliable).
+However, it is important to note that Descartes is not claiming that first-order moral knowledge is impossible tout court. That is, Descartes is not a non-cognitivist about moral judgments, claiming that moral judgments are neither true nor false. Cartesian moral judgments are truth-evaluable; that is, they are capable of being true or false. Descartes, then, is a cognitivist about moral judgments. As Descartes says, we must recognize that although our best practical moral judgments are morally certain, they may still, “absolutely speaking,” be false. If Descartes is a moral skeptic of some stripe, he should be understood as making a plausible claim about our limitations as finite minds. A finite mind, given its limited and imperfect perceptions, cannot attain first-order moral knowledge because it cannot ultimately know whether its first-order moral judgments are true or false. However, an infinite mind—God—surely knows whether the first-order moral judgments of finite minds are true or false. First-order moral knowledge is possible—finite minds just cannot attain it.
+One final remark. One might resist the standard interpretation that we cannot have first-order moral knowledge, by claiming that Descartes is not a moral skeptic at all, because the standards for knowledge shift from the contemplation of truth to the conduct of life. That is, Descartes might be an epistemic contextualist. Epistemic contextualism is the claim that the meaning of the term ‘knows’ shifts depending on the context, in the same way the meaning of the indexical ‘here’ shifts depending on the context. If Jones utters the sentence ‘Brown is here,’ the meaning of the sentence will shift depending on where Jones is when he utters it (Rysiew 2007). This kind of contextualist view has been suggested in passing by Lex Newman (2016), who argues that Descartes’ epistemic standards shift depending on whether he is doing metaphysics or science (Principles IV.205–6, AT VIIIA: 327–9/CSM I: 289–291). Although Newman does not extend this contextualist interpretation to Descartes’ moral epistemology, it would take only a few steps to do so. Nonetheless, it strains credulity to think that first-order moral judgments could ever meet the standards of scientia in the Meditations.
+c. Virtue qua Resolution
+We can now clarify why Descartes characterizes virtue in terms of a resolution. The conduct of life presents us with a unique epistemic challenge that does not arise in the contemplation of truth. That is: (1) we have a short of window of opportunity to arrive at a moral judgment and then act, and (2) the perceptions that in part serve as the basis for our judgments are ultimately obscure and confused. These two features can give rise to irresolution.  Irresolution, according to Descartes, is a kind of anxiety which causes a person to withhold from performing an action, creating a cognitive space for the person to make a choice (Passions III.170, AT XI: 459/CSM I: 390). As such, irresolution can be a good cognitive trait. However, irresolution becomes problematic when one has “too great a desire to do well” (Passions III. 170, AT XI: 460/CSM I: 390). If one wants to arrive at the most perfect moral judgment (such as through grounding their moral judgments in clear and distinct perceptions), they will ultimately fall into an excessive kind of irresolution which prevents them from judging and acting at all. Given the nature of moral situations and what is at stake within them (essentially, how we ought to treat other people), the conduct of life is ripe for producing this excessive kind of irresolution. Arguably, we do want perfection in our moral conduct.
+This is why Descartes says virtue involves a resolution: we need to establish a firm and constant resolve to arrive at our best moral judgments and to carry them out, even though we realize that these judgments are only morally certain and can be false. So long as we have this firm resolve (which is of course guided by knowledge of the truth), we can be assured that we have done our duty, even if it turns out that we retrospectively determine that what we did was wrong. For we can control only our will—how our action plays out in the real world is beyond our control, and there is no way we can guarantee that we will always produce the right consequences. As Descartes tells Princess Elizabeth:
+There is nothing to repent of when we have done what we judged best at the time when we had to decide to act, even though later, thinking it over at our leisure, we judge that we made a mistake. There would be more ground for repentance if we had acted against our conscience, even though we realized afterwards that we had done better than we thought. For we are only responsible for our thoughts, and it does not belong to human nature to be omniscient, or always to judge as well on the spur of the moment as when there is plenty of time to deliberate.
+(Letter to Princess Elizabeth 6 October 1645, AT IV 308/CSMK: 269; see also Letter to Queen Christina 20 November 1647, AT V: 83/CSMK: 325)
+Consistent with Descartes’ grounding of virtue in a perfection of the will, Descartes’ view of moral responsibility is that we are responsible only for what is truly under our control—that is, our thoughts (or more specifically our volitions). Notice that the seeds of this full analysis of virtue qua resolution is present in the provisional morality, namely, M2.
+6. The Passions
+Strictly speaking, Descartes’ Passions of the Soul is not an ethical treatise. As Descartes writes, “my intention was to explain the passions only as a natural philosopher, and not as a rhetorician or even as a moral philosopher” (Prefatory Letters, AT XI: 326/CSM I: 327). Nonetheless, the passions have a significant status within Descartes’ ethics. At the end of Passions, Descartes writes: “it is on the passions alone that all the good and evil of this life depends” and “the chief use of wisdom lies in its teaching us to be masters of our passions and to control them with such skill that the evils which they cause are quite bearable, and even become a source of joy” (Passions III.212, AT XI: 488/CSM I: 404). Thus, it is important to discuss Cartesian passions in order to understand Descartes’ ethics. We will consider (1) the function of the passions and (2) whether the passions are merely motivational or representational states.
+a. The Definition of the Passions
+Descartes identifies a general sense of the term ‘passion,’ which covers all states of the soul that are not, in any way, active. That is, passions are passive and thus are perceptions: “all our perceptions, both those we refer to objects outside us and those we refer to the various states of our body, are indeed passions with respect to our soul, so long as we use the term ‘passion’ in its most general sense” (Passions I.25, AT XI: 347–8/CSM I: 337). Thus, a general use of the term ‘passion’ would include the following kinds of perceptions: smells, sounds, colors, hunger, pain, and thirst, all of which are states that we refer to objects outside of us (Passions I.29, AT XI: 350/CSM I: 339). However, the more narrow and strict sense of passions that is examined in the Passions are “those perceptions, sensations, or emotions of the soul which we refer particularly to it, and which are caused, maintained and strengthened by some movement of the spirits” (Passions I.27, AT XI: 349/CSM I: 338–9). Descartes identifies six primitive passions, out of which all of the other more complex passions are composed. These are wonder, love, hatred, joy, sadness, and desire. Each primitive and complex passion is distinguished from the others in terms of its physiological and causal basis (roughly, the animal spirits which give rise to it) and its cognitive nature and specific function (Passions II.51–2, AT XI: 371–2/CSM I: 349).
+b. The Function of the Passions
+Given Descartes’ general resistance to teleology, there is much to be said about how to understand the nature of Cartesian functions in general, and specifically the function of the passions (Brown 2012). Setting aside the issue of reconciling any metaphysical inconsistencies, it is clear that Descartes does think that the passions have some kind of function, and we must be mindful of this in interpreting Descartes.
+In Passions II.52, Descartes identifies the general function of the passions:
+I observe, moreover, that the objects which stimulate the senses do not excite different passions in us because of differences in the objects, but only because of the various ways in which they may harm or benefit us or in general have importance for us. The function of all the passions consists solely in this, that they dispose our soul to want the things which nature deems useful for us, and to persist in this volition; and the same agitation of the spirits which normally causes the passions also disposes the body to make movements which help us to attain these things. (AT XI: 372/CSM I: 349, cf. Passions I.40, AT XI: 359/CSM I: 343)
+Descartes claims that the general function of the passions is to dispose the soul to want the things which nature deems useful for us, and to also dispose the body to move in the appropriate ways so as to attain those things. Put more simply, the passions are designed to preserve the mind-body composite. How exactly that plays out will depend on the kind of passion under consideration. As Descartes writes in Passions I.40, fear disposes the soul to want to flee (a bodily action) and courage disposes the soul to want to fight (a bodily action as well).
+It is important to note that the general function assigned to the passions is similar to, but slightly different than, the one assigned to sensations in the Sixth Meditation. In the context of his sensory theodicy, Descartes writes: “the proper purpose of the sensory perceptions given me by nature is simply to inform the mind of what is beneficial or harmful for the composite of which the mind is a part” (Sixth Meditation, AT VII: 83/CSM II: 57). Supposing that Descartes does not have passions in mind in the Sixth Meditation, and given Descartes’ strict distinction between sensations and passions in the Passions, it seems that passions and sensations have different functions. The function of a passion is to dispose the soul to want what is beneficial or harmful for it, while the function of a sensation is to inform the soul of what is beneficial or harmful for it. This would suggest that sensations are perhaps representational states (De Rosa 2007, Gottlieb & Parvizian 2018, Hatfield 2013, Simmons 1999), whereas the passions are merely motivational.
+But matters are more complicated. A vexing issue for commentators has been how the passions fulfill their function of disposing the soul to want certain things. It is clear that the passions are motivational. But the interpretive issue for commentators has been whether the passions are merely motivational (and thus non-intentional, affective states), or whether they are, to some degree, representational as well. Settling this issue is important, because it helps clarify whether the passions ought to serve as guides to our practical behavior.
+c. Whether the Passions are Representational or Motivational
+The standard interpretation is that the passions are representational in addition to being motivational (Alanen 2003a & 2003b, Brown 2006, Clarke 2005, Franco 2015). Sometimes commentators describe the passions as being informative, but the best way to cash this out given Descartes’ philosophy of mind is in terms of representation. There are broad reasons for claiming that the passions are representational. If one thinks that the passions are a type of idea, then it seems that they must be representational, for Descartes claims in the Third Meditation that all ideas have intentionality: “there can be no ideas which are not as it were of things” (AT VII: 44/CSM II: 30). Moreover, Descartes seems to make a representationalist claim about the passions in T5: “all our passions represent to us the goods to whose pursuit they impel us as being much greater than they really are” (Letter to Princess Elizabeth 15 September 1645, AT IV: 294–295/CSMK: 267; see also Passions II. 90, AT XI: 395/CSM I: 360). Strictly speaking, the claim here seems to be that the passions have representational content—they represent goods for the mind-body composite—but they are ultimately misrepresentational because they exaggerate the value of those goods. However, it is claimed that the passions can be a guide to our survival and preservation once they are regulated by reason. According to John Marshall, once the passions are regulated they can become accurate representations of goods (1998: 119–125). As such, the passions can be reliable guides to our survival and preservation under the right circumstances.
+Alternatively, it has been argued that, despite the textual evidence, Descartes’ considered view is that the passions are merely motivational states (Greenberg 2007, Brassfield 2012). Shoshana Brassfield has argued that the passions are motivational states which serve to strengthen and prolong certain thoughts which are good for the soul to cognitively sustain. When Descartes speaks of the passions representing, we need to re-read him as actually saying one of two things. First, he may be clarifying a representational content (distinct from a passion) that a particular passion strengthens and prolongs. Second, he may be discussing how the passions lead us to exaggerate the value of objects in our judgments, by prolonging and strengthening certain judgments, which thus make us mistakenly affirm that a particular object is more valuable than it actually is.
+The upshot of this type of motivational reading of the passions is that the passions are not intrinsic guides to our survival and preservation, and that we should suspend judgment about how to act when we are moved by the passions. It is reason alone that is the guide to what is good and beneficial for the mind-body composite. The passions are, in some sense, beneficial when they are regulated by reason (and thus lead, for example, to proper experiences of joy and thus happiness), but they are not beneficial when reason is guided by the passions.
+7. Generosity
+According to Descartes, generosity—a species of wonder—is both a passion and a virtue (Passions III.153, AT XI: 445–6/CSM I: 384, Passions III.161, AT XI: 453–4/CSM I: 387–8). Generosity transitions from a passion to a virtue once the passion becomes a habit of the soul (Passions III.161, AT XI: 453–4/CSM I: 387–8). Having already discussed passions, we will focus on generosity qua virtue. Generosity is the chief virtue in Descartes’ ethics because it is the “key to all the virtues and a general remedy for every disorder of the passions” (Passions III.161, AT XI: 454/CSM I: 388). Descartes defines generosity as that:
+Which causes a person’s self-esteem to be as great as it may legitimately be, [and] has only two components. The first consists in his knowing that nothing truly belongs to him but this freedom to dispose his volitions, and that he ought to be praised or blamed for no other reason than his using this freedom well or badly. The second consists in his feeling within himself a firm and constant resolution to use it well—that is, never to lack the will to undertake and carry out whatever he judges to be best. To do that is to pursue virtue in a perfect manner. (Passions III.153, AT XI: 445–6/CSM I: 384)
+Generosity has two components. The first, broadly construed, consists in the knowledge that the only thing that truly belongs to us is our free will. The second, broadly construed, consists in feeling the firm and constant resolution to use this free will well.
+a. Component One: What Truly Belongs to Us
+What is particularly noteworthy about Descartes’ definition of generosity is the first component. Descartes claims that the first component of generosity consists in knowledge of the following proposition: the only thing that truly belongs to me is my free will. This is certainly a strong claim, which goes beyond Descartes’ account of the role of the will in virtue, as discussed in section 3. Recall that we claimed that virtue is grounded in a perfection of the will, because only our volitions are under our control. Descartes is taking this a step further here: he now seems to be claiming that the only thing that truly belongs to us is free will. In claiming that free will “truly belongs” to us, Descartes seems to be making a new metaphysical claim about the status of free will within a finite mind. But how exactly should this claim be interpreted?
+The locution “belongs” and “truly belongs” is typically used by Descartes to make a metaphysical claim about the essence of a substance. For example, Descartes claims that his body does not truly belong to his essence (see Sixth Meditation, AT VII: 78/CSM II: 54). If Descartes is making a claim about our metaphysical essence in the definition of generosity, then this claim seems to be in clear contradiction with the account of our metaphysical essence in the Meditations and Principles. There, Descartes claims that he is essentially a thinking thing, res cogitans (Second Meditation, AT VII: 28/CSM II: 19). Although a body also belongs to him in some sense (Sixth Meditation, AT VII: 80/CSM II: 56; see also Chamberlain 2019), he can still draw a real distinction between his mind and body, which implies that what truly belongs to him is thought. Thought, in the Meditations, has a broad scope: in particular, it includes both the intellect and the will as well as all of the different types of perceptions and volitions that fall under these two faculties (Principles I.9, AT VIIIA: 7–9/CSM I: 195). However, in the first component of generosity, Descartes seems to be claiming that there is a particular kind of thought that truly belongs to us, namely, our free will and its corresponding volitions. As such, the moral agent is not strictly speaking a res cogitans; rather, she is a willing thing, res volans (Brown 2006: 25; Parvizian 2016).
+Commentators have picked up on this difficulty in Descartes’ definition of generosity. There are two interpretations in the literature. One reading goes in for a metaphysical reading of ‘truly belongs,’ according to which Descartes is making a metaphysical claim about our true essence (Boehm 2014: 718–19). Another reading takes an evaluative reading which approximates the standard account of why virtue is a perfection of the will, namely, that Descartes is making a claim about what is under our control—that is, our volitions—and thus what we can be truly praised and blamed for (Parvizian 2016). In this reading, there is a sense in which a human being is truly a res volans, but this does not metaphysically exclude the other properties of a res cogitans from its nature.
+b. Acquiring Generosity
+How is the chief virtue of generosity acquired? Descartes writes:
+If we occupy ourselves frequently in considering the nature of free will and the many advantages which proceed from a firm resolution to make good use of it—while also considering, on the other hand, the many vain and useless cares which trouble ambitious people—we may arouse the passion of generosity in ourselves and then acquire the virtue. (Passions III. 161, AT XI: 453–4/CSM I: 388)
+Here, Descartes claims that we need to reflect on two aspects of the will. First, we need to reflect on the very nature of the will. This includes facts such as its freedom, its being infinite in scope, and its different functional capacities. Second, we need to reflect on the advantages and disadvantages that come from using it well and poorly, respectively. This reflection on the advantages and disadvantages, interestingly, seems to require observation of other people’s behavior. As Descartes writes, we need to observe “the main vain and useless cares which trouble ambitious people,” which will help us appreciate the value and efficacy of the will. There are some commentators who have claimed that this process for acquiring generosity is exemplified in the Second or Fourth Meditation (Boehm 2014, Shapiro 2005), while other commentators have argued that the meditator cannot engage in the process of acquiring generosity until after the Meditations have been completed (Parvizian 2016).
+c. Generosity and the Regulation of the Passions
+Throughout the Passions, Descartes indicates different ways to remedy the disorders of the passions. Descartes claims, for example, that the exercise of virtue is a remedy against the disorders of the passions, because then “his conscience cannot reproach him,” which allows the moral agent to be happy amidst “the most violent assaults of the passions” (Passions II.148, AT XI: 441–2/CSM I: 381–2). However, Descartes claims that generosity is a “general remedy for every disorder of the passions” (Passions III.161, AT XI: 454/CSM I: 388). Descartes writes:
+They [generous people] have mastery over their desires, and over jealousy and envy, because everything they think sufficiently valuable to be worth pursuing is such that its acquisition depends solely on themselves; over hatred of other people, because they have esteem for everyone; over fear, because of the self-assurance which confidence in their own virtue gives them; and finally over anger, because they have little esteem for everything that depends on others, and so they never give their enemies any advantage by acknowledging that they are injured by them. (Passions III.156, AT XI: 447–8/CSM I: 385)
+Generosity is a general remedy for the disorders of the passions because it ultimately leads the moral agent to a proper conception of what she ought to esteem. At bottom, the problem of the passions is that they lead us to misunderstand the value of various external objects, and to place our own self-esteem in them. Once we understand that the only property that is truly valuable is a virtuous will, then all the passions will be regulated.
+d. The Other-Regarding Nature of Generosity
+Although Descartes’ definition of generosity is certainly not standard, his account of how generosity manifests in the world does coincide with our standard intuitions about what generosity looks like. According to Descartes, the truly generous person is fundamentally other-regarding:
+Those who are generous in this way are naturally led to do great deeds, and at the same time not to undertake anything of which they do not feel themselves capable. And because they esteem nothing more highly than doing good to others and disregarding their own self-interest, they are always perfectly courteous, gracious, and obliging to everyone. (Passions III.156, AT XI: 447–8/CSM I: 385)
+The fundamental reason why the generous person is other-regarding is that she realizes that the very same thing that causes her own self-esteem, a virtuous will, is present or at least capable of being present in other people (Passions III.154, AT XI: 446–7/CSM I: 384). That is, since others have a free will, they are also worthy of value and esteem and thus must be treated in the best possible way. A fundamental task of the generous person is to help secure the conditions for other people to realize their potential to acquire a virtuous will.
+8. Love
+Love is a passion that has direct ethical implications for Descartes, for in its ideal form love is altruistic, other-regarding, and requires self-sacrifice. Descartes distinguishes between different kinds of love: affection, friendship, devotion, sensory love, and intellectual love (Passions II. 83 AT XI: 389–90/CSM I: 357–8; Letter to Chanut 1 February 1647, AT IV: 600–617/CSMK: 305–314). We examine love in general:
+Love is an emotion of the soul caused by a movement of the spirits, which impels the soul to join itself willingly to objects that appear to be agreeable to it. (Passions II.79, AT XI: 387/CSM I: 356)
+In explicating what it means for the soul to join itself willingly to objects, Descartes writes:
+In using the word ‘willingly’ I am not speaking of desire, which is a completely separate passion relating to the future. I mean rather the assent by which we consider ourselves henceforth as joined with what we love in such a manner that we imagine a whole, of which we take ourselves to be only one part, and the thing loved to be the other. (Passions II.80 AT XI: 387/CSM I: 356)
+In short, love involves an expansion of the self. The lover regards herself and the beloved as two parts of a larger whole. But this raises an important question: is there a metaphysical basis for this part-whole relationship? Or is the part-whole relationship merely a product of the imagination and the will?
+a. The Metaphysical Reading
+One could try to provide a metaphysical basis for love by arguing that people are metaphysical parts of larger wholes. If so, then there would be metaphysical grounds “to justify a very expansive love” (Frierson 2002: 325). Indeed, Descartes seems to claim as much in his account of T4:
+Though each of us is a person distinct from others, whose interests are accordingly in some way different from those of the rest of the world, we ought still to think that none of us could subsist alone and that each one of us is really one of the many parts of the universe, and more particularly a part of the earth, the state, the society and the family to which we belong by our domicile . . . and the interests of the whole, of which each of us is a part, must always be preferred to those of our own particular person. (Letter to Princess Elizabeth 15 September 1645, AT IV: 293/CSMK: 266)
+Descartes uses suggestive metaphysical language here. Indeed, he claims that people cannot subsist without the other parts of the universe (which includes other people), and that we are parts of a larger whole. Given this metaphysical basis of love, then, the interests of the whole should be preferred to the interests of any given part.
+There are interpretive problems for a metaphysical basis of love, however. For one, Descartes does not spell out this metaphysical relation in any detail. Moreover, such a metaphysical relation seems to fly in the face of Descartes’ account of the independent nature of substances and the real distinction between minds and bodies. To say that persons (mind-body composites) are parts of larger wholes would seem to suggest that (1) mind-body composites are modes and not substances, and consequently that (2) there is no real distinction between mind-body composites.
+b. The Practical Reading
+Alternatively, one could give a practical basis for love, by arguing that we ought to consider or imagine ourselves as parts of larger wholes, even though metaphysically we are not (Frierson 2002). As Descartes writes to Princess Elizabeth:
+If we thought only of ourselves, we could enjoy only the goods which are peculiar to ourselves; whereas, if we consider ourselves as parts of some other body, we share also in the goods which are common to its members, without losing any of those which belong only to ourselves. (Letter to Princess Elizabeth 6 October 1645, AT IV: 308/CSMK: 269)
+There are practical reasons for loving others, because doing so allows us to partake in their joy and perfections. Of course, this raises the problem that we will also partake in their imperfections and suffering. On this issue Descartes writes:
+With evils, the case is not the same, because philosophy teaches that evil is nothing real, but only a privation. When we are sad on account of some evil which has happened to our friends, we do not share in the defect in which this evil consists. (Letter to Princess Elizabeth 6 October 1645, AT IV: 308/CSMK: 269)
+In either the metaphysical or practical reading, however, it is clear that love has a central role in Descartes’ ethics. According to Descartes, inculcating and exercising love is central for curbing one’s selfishness and securing the happiness, well-being, and virtue of others (see also Letter to Chanut 1 February 1647, AT VI: 600–617/CSMK: 305–314). For further important work on Cartesian love see Frigo (2016), Boros (2003), Beavers (1989), Williston (1997).
+9. Happiness
+In general, Descartes characterizes happiness as an inner contentment or satisfaction of the mind that results from the satisfaction of one’s desires. However, he draws a distinction between mere happiness (bonheur) and genuine happiness or blessedness (felicitas; félicité/béatitude). Mere happiness, according to Descartes, is contentment of mind that is acquired through luck and fortune. This occurs through the acquisition of goods—such as honors, riches, and health—that do not truly depend on the moral agent (that is, her will) but external conditions. Although the moral agent is satisfying her desires, these desires are not regulated by reason. As such, she seeks things beyond her control. Blessedness, however, is a supreme contentment of mind achieved when the moral agent satisfies desires that are regulated by reason, and reason dictates that we ought to prioritize and desire virtue and wisdom. This is because virtue and wisdom are goods that truly depend on the moral agent, as they truly proceed from the right use of the will, and do not depend on any external conditions. As Descartes writes:
+We must consider what makes a life happy, that is, what are the things which can give us this supreme contentment. Such things, I observe, can be divided into two classes: those which depend on us, like virtue and wisdom, and those which do not, like honors, riches, and health. For it is certain that a person of good birth who is not ill, and who lacks nothing, can enjoy a more perfect contentment than another who is poor, unhealthy and deformed, provided the two are equally wise and virtuous. Nevertheless, a small vessel may be just as full as a large one, although it contains less liquid; and similarly if we regard each person’s contentment as the full satisfaction of all his desires duly regulated by reason, I do not doubt that the poorest people, least blest by nature and fortune, can be entirely content and satisfied just as much as everyone else, although they do not enjoy as many good things. It is only this sort of contentment which is here in question; to seek the other sort would be a waste of time, since it is not in our own power. (Letter to Princess Elizabeth 4 August 1645, AT IV: 264–5/CSMK: 257)
+It is important to note that Descartes is not denying that honors, riches, beauty, health, and so on are genuine goods or perfection. Nor is he claiming that they are not desirable. Rather, he is merely claiming that such goods are neither necessary nor sufficient for blessedness. Virtue alone is necessary and sufficient for blessedness (Svensson 2015).
+However, such external goods are conducive to well-being (the quality of life), and for that reason they are desirable (Svensson 2011). Compare a virtuous person, S, who is poor, unhealthy, and ugly and a virtuous person, S*, who is rich, healthy, and beautiful. In Svensson’s reading, S and S* will have the same degree of happiness. However, Descartes does have room to acknowledge that S* has more well-being than S, because S* possesses more perfections.
+10. Classifying Descartes’ Ethics
+We have examined the main features of Descartes’ ethics. But what kind of ethics does Descartes espouse? There are three distinct classifications of Descartes’ ethics in the literature: virtue ethics, deontological virtue ethics, and perfectionism.
+a. Virtue Ethics
+Given that virtue is the undeniable centerpiece of Descartes’ ethics, it is natural to read Descartes as a virtue ethicist. Broadly construed, according to virtue ethics, the standard for morality in ethics is possession of the right kinds of character traits (virtues), as opposed to producing the right sorts of consequences, or following the right kinds of moral laws, duties, or rules.
+Lisa Shapiro has argued that Descartes is a virtue ethicist. Her contention is that Descartes’ commitment to virtue (as opposed to happiness) being the supreme good makes Descartes a virtue ethicist (2008a: 454). In this view, the ultimate explanation for why an action is good or bad is whether it proceeds from virtue. This would place Descartes in the tradition of Aristotelian virtue ethics, but Shapiro notes that there are significant differences. For Aristotle, virtue must be successful: “virtue requires the world cooperate with our intentions” (2008a: 455). Whereas given Descartes’ moral epistemology, for Descartes “good intentions are sufficient for virtue” (Ibid.).
+b. Deontological Virtue Ethics
+Noa Naaman-Zauderer (2010) agrees with Lisa Shapiro that Descartes is a virtue ethicist, due to his commitment to virtue being the supreme good. However, Naaman-Zauderer claims that Descartes has a deontological understanding of virtue, and thus Descartes is actually a deontological virtue ethicist. Broadly construed, deontological ethics maintain that the standard of morality consists in the fulfillment of imperatives, duties, or ends.
+Descartes indeed speaks of virtue in deontological terms. For example, he writes that the supreme good (virtue) is “undoubtedly the thing we ought to set ourselves as the goal of all our actions” (Letter to Princess Elizabeth 18 August 1645, AT IV: 275/CSMK: 2561). According to Naaman-Zauderer, Descartes is claiming that we have a duty to practice virtue: “the practice of virtue as a command of reason, as a constitutive moral imperative that we must fulfill for its own sake” (2010: 185).
+c. Perfectionism
+Frans Svensson (2010; compare 2019a) has argued that Descartes is not a virtue ethicist, and that other commentators have mistakenly classified him as such due to a misunderstanding of the criteria of virtue ethics. Recall that Shapiro and Naaman-Zauderer claim that Descartes must be a virtue ethicist (of whatever stripe) due to his claim that virtue is the supreme good. However, Svensson claims that virtue ethics, deontological ethics, and consequential ethics alike can, strictly speaking, admit that virtue is the supreme good, in the sense that virtue should be the goal in all of our actions (2010: 217). Descartes’ account of the supreme good, then, does not make him a virtue ethicist.
+The criterion for being a virtue ethicist is that “morally right conduct should be grounded ultimately in an account of virtue or a virtuous agent” (Ibid. 218). This requires an explanation of the nature of virtue that does not depend on some independent account of morally right conduct. The problem, however, is that although Descartes agrees that virtue can be explained without reference to some independent account of morally right conduct, Descartes departs from the virtue ethicist in that he thinks that virtue is not constitutive of morally right conduct.
+Instead, Svensson proposes that Descartes is committed to perfectionism. In this view, what Descartes’ ethics demands is that the moral agent pursue “everything in his power in order to successfully promote his own overall perfection as far as possible” (Ibid. 221). As such, Svensson claims that Descartes’ ethics is “outcome-based, rather than virtue-based, and it is thus best understood as a kind of teleological, or even consequentialist ethics” (Ibid. 224).
+11. Systematicity Revisited
+Are there systematic connections between Descartes’ ethics and his metaphysics, epistemology, and natural philosophy? There are broadly two answers to this question in the literature: the epistemological reading and the organic reading.
+a. The Epistemological Reading
+In the epistemological reading, the tree of philosophy conveys an epistemological order to Cartesian philosophy (Marshall 1998, 2–4, 72– 74, 59–60; Morgan 1994, 204–211; Rutherford 2004, 190). One must learn philosophy in the following order: metaphysics and epistemology, physics, and then the various sub-branches of natural philosophy, and finally ethics. As applied to ethics, proponents of the epistemological reading are primarily concerned with an epistemological order to ethics qua practical enterprise, not theoretical enterprise. For example, in order to acquire virtue and happiness, one must have knowledge of metaphysics and epistemology. As Donald Rutherford writes: virtue and happiness “can be guaranteed only if reason itself has been perfected through the acquisition and proper ordering of intellectual knowledge” (2004: 190).
+A consequence of the epistemological reading is that one cannot read any ethical practices into the Meditations. While there may be ethical themes in the Meditations, the meditator cannot acquire or exercise any kind of moral virtue (epistemic virtue is a separate matter). The issue of whether virtue has a role in the Meditations has been a contemporary topic of debate. In particular, there has been a debate about whether the meditator acquires the virtue of generosity. Recall that the virtue of generosity consists of two components: the knowledge that the only thing that truly belongs to us is free will, and the firm and constant resolution to use the will well. It seems that the meditator, in the Fourth Meditation, acquires both of these components through her reflection on the nature of the will and her resolution to use the will well. Indeed, Lisa Shapiro has argued extensively that this is exactly what is happening, and thus generosity—and ethics more generally—has a role in the epistemic achievements of the meditator and the regulation of her passions. Omri Boehm (2014) has also argued that the virtue of generosity is actually acquired in the Second Meditation vis-à-vis the cogito. Parvizian (2016) has argued against Shapiro and Boehm’s view, arguing that generosity presupposes the knowledge of T1–T6 explained in section 4, which the meditator does not have access to by the Second or Fourth Meditation. But let us turn to the view that argues that ethics does have a role in metaphysics and epistemology.
+b. The Organic Reading
+In the organic reading, the tree of philosophy does not represent strict divisions between philosophical fields, and there is not a strict epistemological order to philosophy, and especially ethics qua practical enterprise. Rather the tree is organic. This reading is drawn from Lisa Shapiro (2008a), Genevieve Rodis-Lewis (1987), Amy Schmitter (2002), and Vance Morgan (1994) (although Morgan does not draw the same conclusion about ethics as the rest of these commentators). Morgan writes: “in a living organism such as a tree, all the connected parts grow simultaneously, dependent upon one another . . . hence the basic structure of the tree, branches and all, is apparent at the very early stage in its development” (1994, 25). Developing Rodis-Lewis’ interpretation, Shapiro writes:
+Generosity is a seed-bearing fruit, and that seed, if properly cultivated, will grow into the tree of philosophy. In this way, morals is not simply one branch among the three branches of philosophy, but provides the ‘ultimate level of wisdom’ by leading us to be virtuous and ensuring the tree of philosophy continues to thrive. (2008a: 459)
+Applying this view to generosity, Shapiro claims that generosity is “the key to Cartesian metaphysics and epistemology” (2008a: 459). Placing generosity in the Meditations has interpretive benefits. In particular, it may be able to explain the presence and regulation of the meditator’s passions from the First to Sixth Meditation (Shapiro 2005). Moreover, it shows the deep systematicity of Descartes’ ethics, for ethical themes are present right at the foundations of the system.
+12. References and Further Reading
+a. Abbreviations
+
+AG: Philosophical Essays (cited by page)
+AT: Oeuvres de Descartes (cited by volume and page)
+CSM: The Philosophical Writings of Descartes, vol. 1 & 2 (cited by volume and page) ‘CSMK’: The Philosophical Writings of Descartes, vol. 3 (cited by page).
+
+b. Primary Sources
+
+Aristotle. (2000). Nicomachean Ethics. Translated by Terence Irwin (Second Edition). Indianapolis: Hackett.
+Descartes, R. (1996), Oeuvres de Descartes. (C. Adam, & P. Tannery, Eds.) Paris: J. Vrin.
+Descartes, R. (1985). The Philosophical Writings of Descartes (Vol. II). (J. Cottingham, R. Stoothoff, & D. Murdoch, Trans.) Cambridge: Cambridge University Press.
+Descartes, R. (1985). The Philosophical Writings of Descartes (Vol. I). (J. Cottingham, R. Stoothoff, & D. Murdoch, Trans.) Cambridge: Cambridge University Press.
+Descartes, R. (1991). The Philosophical Writings of Descartes: The Correspondence (Vol. III). (J. Cottingham, R. Stoothoff, D. Murdoch, & A. Kenny, Trans.) Cambridge: Cambridge University Press.
+Leibniz, G. W. (1989). Philosophical Essays. Trans. Ariew, R. and Garber, D. Indianapolis: Hackett.
+Princess Elizabeth and Descartes (2007). The Correspondence Between Princess Elizabeth of Bohemia and René Descartes. Edited and Translated by Lisa Shapiro. University of Chicago Press.
+
+c. Secondary Sources
+
+Alanen, L. (2003a). Descartes’s Concept of Mind. Harvard University Press.
+Alanen, L. (2003b). “The Intentionality of Cartesian Emotions,” in Passion and Virtue in Descartes, edited by B. Williston and A. Gombay. Amherst, NY: Humanity Books. 107–27.
+Alanen, L. and Svennson, F. (2007). Descartes on Virtue. In Hommage à Wlodek Philosophical Papers Dedicated to Wlodek Rabinowicz, ed. by J.B. Petersson, D. Josefsson, and T. Egonsson. Rønnow-Rasmussen. http://www.fil.lu.se/hommageawlodek.
+Ariew, R. (1992). “Descartes and the Tree of Knowledge,” Synthese, 1:101–116.
+Beardsley, W. (2005), “Love in the Ruins: Passions in Descartes’ Meditations.” In J. Jenkins, J. Whiting, & C. Williams (Eds.), Persons and Passions: Essays in Honor of Annette Baier (pp. 34–47). Notre Dame: University of Notre Dame Press.
+Beavers, A. F. (1989). “Desire and Love in Descartes’s Late Philosophy.” History of Philosophy Quarterly 6 (3):279–294.
+Boehm, O. (2014), “Freedom and the Cogito,” British Journal for the History of Philosophy, 22: 704–724.
+Boros, G. (2003). “Love as a Guiding Principle of Descartes’s Late Philosophy.” History of Philosophy Quarterly, 20(2), 149–163.
+Brassfield, S. (2013), “Descartes and the Danger of Irresolution.” Essays in Philosophy, 14: 162–78.
+Brown, D. J. (2006), Descartes and the Passionate Mind. Cambridge: Cambridge University Press.
+Brown, D. J. (2012). Cartesian Functional Analysis. Australasian Journal of Philosophy 90 (1):75–92.
+Chamberlain, C. (2019). “The body I call ‘mine’”: A sense of bodily ownership in Descartes. European Journal of Philosophy 27 (1): 3–24.
+Clarke, D. M. (2005). Descartes’s Theory of Mind. Oxford University Press.
+Cimakasky, Joseph & Polansky, Ronald (2012). Descartes’ ‘provisional morality’. Pacific Philosophical Quarterly 93 (3):353–372.
+Davies, R. (2001), Descartes: Belief, Skepticism, and Virtue. London: Routledge.
+Des Chene, D. (2012), “Using the Passions,” in M. Pickavé and L. Shapiro (eds.), Emotion and Cognitive Life in Medieval and Early Modern Philosophy. Oxford: Oxford University Press.
+De Rosa, R. (2007a). ‘The Myth of Cartesian Qualia,’ Pacific Philosophical Quarterly 88(2), pp. 181–207.
+Franco, A. B. (2015). “The Function and Intentionality of Cartesian Émotions.” Philosophical Papers 44 (3):277–319.
+Franco, A. B. (2016). “Cartesian Passions: Our (Imperfect) Natural Guides Towards Perfection.” Journal of Philosophical Research 41: 401–438
+Frierson, Patrick (2002). “Learning to love: From egoism to generosity in Descartes.” Journal of the History of Philosophy 40 (3):313–338.
+Frigo, Alberto (2016). A very obscure definition: Descartes’s account of love in the Passions of the Soul and its scholastic background. British Journal for the History of Philosophy 24 (6):1097–1116.
+Gottlieb, Joseph & Parvizian, Saja (2018). “Cartesian Imperativism.” Pacific Philosophical Quarterly (99): 702–725
+Greenberg, Sean (2007). Descartes on the passions: Function, representation, and motivation. Noûs 41 (4):714–734.
+Hatfield, G. (2013). ‘Descartes on Sensory Representation, Objective Reality, and Material Falsity,’ in K. Detlefsen (ed.) Descartes’ Meditations: A Critical Guide. Cambridge: Cambridge University Press, pp. 127–150.
+Kambouchner, D. (2009). Descartes, la philosophie morale, Paris: Hermann.
+LeDoeuff, M. (1989). “Red Ink in the Margins.” In The Philosophical Imaginary, trans. C. Gordon. Standford: Stanford Unviersity Press.
+Marshall, J. (1998), Descartes’s Moral Theory. Ithaca: Cornell University Press.
+Marshall, J. (2003). “Descartes’ Morale Par Provision,” in Passion and Virtue in Descartes, edited by B. Williston and A. Gombay. Amherst, NY: Humanity Books.191–238
+Mihali, A. (2011). “Sum Res Volans: The Centrality of Willing for Descartes.” International Philosophical Quarterly 51 (2):149–179.
+Morgan, V. G. (1994), Foundations of Cartesian Ethics. Atlantic Highlands: Humanities Press.
+Murdoch, D. (1993). “Exclusion and Abstraction in Descartes’ Metaphysics,” The
+Philosophical Quarterly, 43: 38–57.
+Naaman-Zauderer, N. (2010), Descartes’ Deontological Turn: Reason, Will, and Virtue in the Later Writings. Cambridge: Cambridge University Press.
+Newman, L., “Descartes’ Epistemology”, The Stanford Encyclopedia of Philosophy (Winter 2014 Edition), Edward N. Zalta (ed.), URL = .
+Parvizian, Saja (2016). “Generosity, the Cogito, and the Fourth Meditation.” Res Philosophica 93 (1):219–243
+Pereboom, Derk, 1994. “Stoic Psychotherapy in Descartes and Spinoza,” Faith and Philosophy, 11: 592–625.
+Rodis-Lewis, G. (1957). La morale de Descartes. [1. ed.] Paris: Presses universitaires de France
+Rodis-Lewis, G. (1987), “Le Dernier Fruit de la Métaphysique Cartésienne: la Generosity”, Etudes Philosophiques, 1: 43–54.
+Rutherford, D. (2004), “On the Happy Life: Descartes vis-à-vis Seneca,” in S. K. Strange, & J. Zupko (eds.), Stoicism: Traditions and Transformations. Cambridge: Cambridge University Press.
+Rutherford, D. (2014). “Reading Descartes as a Stoic: Appropriate Actions, Virtue, and the Passions,” Philosophie antique, 14: 129–155.
+Rysiew, Patrick, “Epistemic Contextualism”, The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = .
+Schmitter, A. M. (2002), “Descartes and the Primacy of Practice: The Role of the Passions in the Search for Truth,” Philosophical Studies (108), 99–108.
+Shapiro, L. (1999), “Cartesian Generosity,” Acta Philosophica Fennica, 64: 249–75.
+Shapiro, L. , “What Are the Passions Doing in the Meditations?,” in J. Jenkins, J. Whiting, & C. Williams (eds.), Persons and Passions: Essays in Honor of Annette Baier. Notre Dame: University of Notre Dame Press.
+Shapiro, L. (2008a), “Descartes’s Ethics,” In J. Broughton, & J. Carriero (eds.), A Companion to Descartes. Malden: Blackwell Publishing.
+Shapiro, L. (2008b), ‘”Turn My Will in Completely the Opposite Direction”: Radical Doubt and Descartes’s Account of Free Will,” in P. Hoffman, D. Owen, & G. Yaffe (eds.), Contemporary Perspectives on Early Modern Philosophy. Buffalo: Broadview Press.
+Shapiro, L. (2011), “Descartes on Human Nature and the Human Good,” in C. Fraenkel, J. E. Smith, & P. Dario (eds.), The Rationalists: Between Tradition and Innovation. New York: Springer.
+Shapiro, L. (2013), “Cartesian Selves,” in K. Detlefsen (ed.), Descartes’ Meditations: A Critical Guide. Cambridge: Cambridge University Press.
+Simmons, A. (1999). ‘Are Cartesian Sensations Representational?’ Noûs 33(3), pp. 347–369.
+Svensson, F. (2010). The Role of Virtue in Descartes’ Ethical Theory, Or: Was Descartes a Virtue Ethicist?. History of Philosophy Quarterly 27(3): 215–236
+Svensson, F. (2011). Happiness, Well-being, and Their Relation to Virtue in Descartes’ Ethics. Theoria 77 (3):238–260.
+Svensson, F. (2015). Non-Eudaimonism, The Sufficiency of Virtue for Happiness, and Two Senses of the Highest Good in Descartes’s Ethics. British Journal for the History of Philosophy 23 (2):277–296.
+Svensson, F. (2019a) “A Cartesian Distinction in Virtue: Moral and Perfect.” In Mind, Body, and Morality: New Perspectives on Descartes and Spinoza edited by Martina Reuter, Frans Svensson. Routledge.
+Svensson, F. (2019b). “Descartes on the Highest Good.” American Catholic Philosophical Quarterly 93 (4):701–721.
+Sosa, E. (2012), “Descartes and Virtue Epistemology,” in K. J. Clark, & M. Rea (eds.), Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga. Oxford: Oxford University Press.
+Williston, B. (1997). Descartes on Love and/as Error. Journal of the History of Ideas 58 (3):429–444.
+Williston, B. (2003). “The Cartesian Sage and the Problem of Evil” in Passion and Virtue in Descartes, edited by B. Williston and A. Gombay. Amherst, NY: Humanity Books. 301–331.
+
+Author Information
+Saja Parvizian
+Email: sparvizia@coastal.edu
+Coastal Carolina University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

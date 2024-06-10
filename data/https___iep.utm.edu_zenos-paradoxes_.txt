@@ -1,0 +1,661 @@
+
+
+
+
+
+
+
+
+
+Zeno’s Paradoxes | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zeno’s Paradoxes
+In the fifth century B.C.E., Zeno offered arguments that led to conclusions contradicting what we all know from our physical experience—that runners run, that arrows fly, and that there are many different things in the world. The arguments were paradoxes for the ancient Greek philosophers. Because many of Zeno’s arguments turn crucially on the notion that space and time are infinitely divisible, he was the first person to show that the concept of infinity is problematical.
+In his Achilles Paradox, Achilles races to catch a slower runner—for example, a tortoise that is crawling in a straight line away from him. The tortoise has a head start, so if Achilles hopes to overtake it, he must run at least to the place where the tortoise presently is, reasons Zeno, but by the time he arrives there, it will have crawled to a new place, so then Achilles must run at least to this new place, and so forth. According to this reasoning, Achilles will never catch the tortoise, says Zeno. Whether Zeno and Parmenides themselves denied motion is very controversial, but subsequent scholars over the centuries assumed this, so it has been the majority position. One minority position is that they were not denying motion, but only showing that their opponents were committed to this.
+We cannot escape the Achilles paradox by jumping up from our seat and chasing down a tortoise, nor by saying Zeno’s opponents should have constructed a new argument in which Achilles takes better aim and runs toward a place ahead of the tortoise. Because Zeno was correct in saying Achilles needs to run at least to all those places where the tortoise once was, what is required is an analysis of Zeno’s own argument.
+This article explains his ten known paradoxes and considers the treatments that have been offered. In the Achilles Paradox, Zeno assumed distances and durations are infinitely divisible in the sense of having an actual infinity of parts, and he assumed there are too many of these parts for the runner to complete. Aristotle‘s treatment says Zeno should have assumed instead that there are only a potential infinity of places to run to, so that at any time the hypothetical division into parts produces only a finite number of parts, and the runner has time to complete all these parts. Aristotle’s treatment was generally accepted until the late 19th century. The current standard treatment, the so-called “Standard Solution,” implies Achilles’s path contains an actual infinity of parts, but Zeno was mistaken to assume this is too many parts for a runner to complete. This treatment employs the mathematical apparatus of calculus which has proved its indispensability for the development of modern science.  The article ends by exploring newer treatments of the paradoxes—and related paradoxes such as Thomson’s Lamp Paradox—that were developed since the 1950s.
+Table of Contents
+
+Zeno of Elea 
+
+His Life 
+His Book 
+His Goals 
+His Method 
+
+
+The Standard Solution to the Paradoxes 
+The Ten Paradoxes
+
+Paradoxes of Motion
+
+The Achilles
+The Dichotomy (The Racetrack)
+The Arrow
+The Moving Rows (The Stadium)
+
+
+Paradoxes of Plurality
+
+Alike and Unlike
+Limited and Unlimited
+Large and Small
+Infinite Divisibility
+
+
+Other Paradoxes
+
+The Grain of Millet
+Against Place
+
+
+
+
+Aristotle’s Treatment of the Paradoxes 
+Other Issues Involving the Paradoxes 
+
+Consequences of Accepting the Standard Solution 
+Criticisms of the Standard Solution 
+Supertasks and Infinity Machines 
+Constructivism 
+Nonstandard Analysis 
+Smooth Infinitesimal Analysis 
+
+
+The Legacy and Current Significance of the Paradoxes 
+References and Further Reading
+
+1. Zeno of Elea
+a. His Life
+Zeno was born in about 490 B.C.E. in the city-state of Elea, now Velia, on the west coast of southern Italy; and he died in about 430 B.C.E. He was a friend and student of Parmenides, who was twenty-five years older and also from Elea. He was not a mathematician.
+There is little additional, reliable information about Zeno’s life. Plato remarked (in Parmenides 127b) that Parmenides took Zeno to Athens with him where he encountered Socrates, who was about twenty years younger than Zeno, but today’s scholars consider this encounter to have been invented by Plato to improve the story line. Zeno is reported to have been arrested for taking weapons to rebels opposed to the tyrant who ruled Elea. When asked about his accomplices, Zeno said he wished to whisper something privately to the tyrant. But when the tyrant came near, Zeno bit him, and would not let go until he was stabbed. Diogenes Laërtius reported this apocryphal story seven hundred years after Zeno’s death.
+b. His Book
+According to Plato’s commentary in his Parmenides (127a to 128e), Zeno brought a treatise with him when he visited Athens. It was said to be a book of paradoxes defending the philosophy of Parmenides. Plato and Aristotle may have had access to the book, but Plato did not state any of the arguments, and Aristotle’s presentations of the arguments are very compressed. The Greek philosophers Proclus and Simplicius commented on the book and its arguments. They had access to some of the book, perhaps to all of it, but it has not survived. Proclus is the first person to tell us that the book contained forty arguments. This number is confirmed by the sixth century commentator Elias, who is regarded as an independent source because he does not mention Proclus. Unfortunately, we know of no specific dates for when Zeno composed any of his paradoxes, and we know very little of how Zeno stated his own paradoxes. We do have a direct quotation via Simplicius of the Paradox of Denseness and a partial quotation via Simplicius of the Large and Small Paradox. In total we know of less than two hundred words that can be attributed to Zeno. Our knowledge of these two paradoxes and the other seven discussed in this article comes to us indirectly through paraphrases of them, and comments on them, primarily by his opponents Aristotle (384-322 B.C.E.), Plato (427-347 B.C.E.), Proclus (410-485 C.E.), and Simplicius (490-560 C.E.). The names of the paradoxes were created by later commentators, not by Zeno. A thousand years after Zeno, one comment by Hesychius suggested that there were perhaps three more books by Zeno than the one mentioned by Plato, but scholars do not generally accept this claim because at least three of the book names by Hesychius are believed to be the name for just one book.
+c. His Goals
+In the early fifth century B.C.E., Parmenides emphasized the distinction between appearance and reality. Reality, he said, is a seamless unity that is unchanging and cannot be destroyed, so appearances of reality are deceptive. Our ordinary observation reports are false; they do not report what is real. This metaphysical theory is the opposite of Heraclitus’ theory, but evidently it was supported by Zeno. Although we do not know from Zeno himself whether he accepted his own paradoxical arguments or exactly what point he was making with them, or exactly what the relationship was between Parmenides’ views and Zeno’s, the historically most influential position is  Plato‘s. Plato said the paradoxes were designed to provide detailed, supporting arguments for Parmenides beliefs by demonstrating that Greek common sense confidence in the reality of motion, change, and ontological plurality (that is, that there exist many things), involve absurdities. Plato’s classical interpretation of Zeno was accepted by Aristotle and by most other commentators throughout the intervening centuries. On Plato’s interpretation, it could reasonably be said that Zeno’s goal was to show that his Dichotomy and Achilles paradoxes demonstrate that any continuous process takes an infinite amount of time, which is paradoxical, while Zeno’s Arrow and Stadium paradoxes demonstrate that the concept of discontinuous change is paradoxical. Because both continuous and discontinuous change are paradoxical, so is any change.
+This is Gregory Vlastos’ position regarding Zeno’s goals. Eudemus, a student of Aristotle, offered another interpretation of Zeno’s goals. He suggested that Zeno was challenging both pluralism and Parmenides’ monism, which would imply that Zeno was a nihilist. Paul Tannery in 1885 and Wallace Matson in 2001 offer a third interpretation of Zeno’s goals regarding the paradoxes of motion. Plato and Aristotle did not understand Zeno’s arguments nor his purpose, they say. Zeno was actually challenging the Pythagoreans and their particular brand of pluralism, not Greek common sense. Tannery and Matson suggest Zeno himself did not believe the conclusions of his own paradoxes. The controversial issue of interpreting Zeno’s true goals and purposes is not pursued further in this article. Instead, Plato’s classical interpretation is assumed because it is the one that was so influential throughout history and because the paradox as classically interpreted needs to be countered even if Matson and Tannery are correct about Zeno’s own position.
+Aristotle believed Zeno’s Paradoxes were trivial and easily resolved, but later philosophers have not agreed on the triviality.
+d. His Method
+Before Zeno, Greek thinkers favored presenting their philosophical views by writing poetry. Zeno began the grand shift away from poetry toward a prose that contained explicit premises and conclusions. And he employed the method of indirect proof in his paradoxes by temporarily assuming some thesis that he opposed and then attempting to deduce an absurd conclusion or a contradiction, thereby undermining the temporary assumption. This method of indirect proof or reductio ad absurdum probably originated with Greek mathematicians, but Zeno used it more systematically and self-consciously.
+2. The Standard Solution to the Paradoxes
+Any paradox can be treated by abandoning enough of its crucial assumptions. In examining Zeno’s paradoxes, it is very interesting to consider which assumptions to abandon, and why those. A paradox is an argument that reaches a contradiction by apparently legitimate steps from apparently reasonable assumptions, while the experts at the time cannot agree on the way out of the paradox, that is, agree on its resolution. It is this latter point about disagreement among the experts that distinguishes a paradox from a mere puzzle in the ordinary sense of that term. Zeno’s paradoxes are now generally considered to be puzzles because of the wide agreement among today’s experts that there is at least one acceptable resolution of the paradoxes.
+This resolution is called the Standard Solution. It points out that, although Zeno was correct in saying that at any point or instant before reaching the goal there is always some as yet uncompleted path to cover, this does not imply that the goal is never reached. More specifically, the Standard Solution says that for the runners in the Achilles Paradox and the Dichotomy Paradox, the runner’s path is a physical continuum that is completed by using a positive, finite speed. The details presuppose differential calculus and classical mechanics. The Standard Solution treats speed as the derivative of distance with respect to time. It assumes that physical processes are sets of point-events. It implies that durations, distances and line segments are all linear continua composed of indivisible points, then it uses these ideas to challenge various assumptions made, and inference steps taken, by Zeno. To be very brief and anachronistic, Zeno’s mistake (and Aristotle’s mistake) was to fail to use calculus. More specifically, in the case of the paradoxes of motion such as the Achilles and the Dichotomy, Zeno’s mistake was not his assuming there is a completed infinity of places for the runner to go, which was what Aristotle said was Zeno’s mistake. Instead, Zeno’s and Aristotle’s mistake was in assuming that this is too many places (for the runner to go to in a finite time).
+A key background assumption of the Standard Solution is that this resolution is not simply employing some concepts that will undermine Zeno’s reasoning—Aristotle’s reasoning does that, too, at least for most of the paradoxes—but that it is employing concepts which have been shown to be appropriate for the development of a coherent and fruitful system of mathematics and physical science. Aristotle’s treatment of the paradoxes does not employ these fruitful concepts of mathematical physics. Aristotle did not believe that the use of mathematics was needed to understand the world. The Standard Solution is much more complicated than Aristotle’s treatment, and no single person can be credited with creating it.
+The Standard Solution allows us to speak of one event happening pi seconds after another, and of one event happening the square root of three seconds after another. In ordinary discourse outside of science we would never need this kind of precision, but it is needed in mathematical physics and its calculus. The need for this precision has led to requiring time to be a linear continuum, very much like a segment of the real number line. By “real numbers” we do not mean actual numbers but rather decimal numbers.
+Calculus was invented in the late 1600’s by Newton and Leibniz. Their calculus is a technique for treating continuous motion as being composed of an infinite number of infinitesimal steps. After the acceptance of calculus, most all mathematicians and physicists believed that continuous motion should be modeled by a function which takes real numbers representing time as its argument and which gives real numbers representing spatial position as its value. This position function should be continuous or gap-free. In addition, the position function should be differentiable in order to make sense of speed, which is treated as the rate of change of position. By the early 20th century most mathematicians had come to believe that, to make rigorous sense of motion, mathematics needs a fully developed set theory that rigorously defines the key concepts of real number, continuity and differentiability. Doing this requires a well defined concept of the continuum. Unfortunately Newton and Leibniz did not have a good definition of the continuum, and finding a good one required over two hundred years of work.
+The continuum is a very special set; it is the standard model of the real numbers. Intuitively, a continuum is a continuous entity; it is a whole thing that has no gaps. Some examples of a continuum are the path of a runner’s center of mass, the time elapsed during this motion, ocean salinity, and the temperature along a metal rod. Distances and durations are normally considered to be real physical continua whereas treating the ocean salinity and the rod’s temperature as continua is a very useful approximation for many calculations in physics even though we know that at the atomic level the approximation breaks down.
+The distinction between “a” continuum and “the” continuum is that “the” continuum is the paradigm of “a” continuum. The continuum is the mathematical line, the line of geometry, which is standardly understood to have the same structure as the real numbers in their natural order. Real numbers and points on the continuum can be put into a one-to-one order-preserving correspondence. There are not enough rational numbers for this correspondence even though the rational numbers are dense, too (in the sense that between any two rational numbers there is another rational number).
+For Zeno’s paradoxes, standard analysis assumes that length should be defined in terms of measure, and motion should be defined in terms of the derivative. These definitions are given in terms of the linear continuum. The most important features of any linear continuum are that (a) it is composed of indivisible points, (b) it is an actually infinite set, that is, a transfinite set, and not merely a potentially infinite set that gets bigger over time, (c) it is undivided yet infinitely divisible (that is, it is gap-free), (d) the points are so close together that no point can have a point immediately next to it, (e) between any two points there are other points, (f) the measure (such as length) of a continuum is not a matter of adding up the measures of its points nor adding up the number of its points, (g) any connected part of a continuum is also a continuum, and (h) there are an aleph-one number of points between any two points.
+Physical space is not a linear continuum because it is three-dimensional and not linear; but it has one-dimensional subspaces such as paths of runners and orbits of planets; and these are linear continua if we use the path created by only one point on the runner and the orbit created by only one point on the planet. Regarding time, each (point) instant is assigned a real number as its time, and each instant is assigned a duration of zero. The time taken by Achilles to catch the tortoise is a temporal interval, a linear continuum of instants, according to the Standard Solution (but not according to Zeno or Aristotle). The Standard Solution says that the sequence of Achilles’ goals (the goals of reaching the point where the tortoise is) should be abstracted from a pre-existing transfinite set, namely a linear continuum of point places along the tortoise’s path. Aristotle’s treatment does not do this. The next section of this article presents the details of how the concepts of the Standard Solution are used to resolve each of Zeno’s Paradoxes.
+Of the ten known paradoxes, The Achilles attracted the most attention over the centuries. Aristotle’s treatment of the paradox involved accusing Zeno of using the concept of an actual or completed infinity instead of the concept of a potential infinity, and accusing Zeno of failing to appreciate that a line cannot be composed of indivisible points. Aristotle’s treatment is described in detail below. It was generally accepted until the 19th century, but slowly lost ground to the Standard Solution. Some historians say Aristotle had no solution but only a verbal quibble. This article takes no side on this dispute and speaks of Aristotle’s “treatment.”
+The development of calculus was the most important step in the Standard Solution of Zeno’s paradoxes, so why did it take so long for the Standard Solution to be accepted after Newton and Leibniz developed their calculus? The period lasted about two hundred years. There are four reasons. (1) It took time for calculus and the rest of real analysis to prove its applicability and fruitfulness in physics, especially during the eighteenth century. (2) It took time for the relative shallowness of Aristotle’s treatment of Zeno’s paradoxes to be recognized. (3) It took time for philosophers of science to appreciate that each theoretical concept used in a physical theory need not have its own correlate in our experience. (4) It took time for certain problems in the foundations of mathematics to be resolved, such as finding a better definition of the continuum and avoiding the paradoxes of Cantor’s naive set theory.
+Point (2) is discussed in section 4 below.
+Point (3) is about the time it took for philosophers of science to reject the demand, favored by Ernst Mach and most Logical Positivists, that each meaningful term in science must have “empirical meaning.” This was the demand that each physical concept be separately definable with observation terms. It was thought that, because our experience is finite, the term “actual infinite” or “completed infinity” could not have empirical meaning, but “potential infinity” could. Today, most philosophers would not restrict meaning to empirical meaning.
+Point (1) is about the time it took for classical mechanics to develop to the point where it was accepted as giving correct solutions to problems involving motion. Point (1) was, and still is, challenged in the metaphysical literature on the grounds that the abstract account of continuity in real analysis does not truly describe either time, space or concrete physical reality. This challenge is discussed in later sections.
+Point (4) arises because the standard of rigorous proof and rigorous definition of concepts has increased over the years. As a consequence, the difficulties in the foundations of real analysis, which began with George Berkeley’s criticism of inconsistencies in the use of infinitesimals in the calculus were not satisfactorily resolved until the early 20th century with the development of Zermelo-Fraenkel set theory. The key idea was to work out the necessary and sufficient conditions for being a continuum. To achieve the goal, the conditions for being a mathematical continuum had to be strictly arithmetical and not dependent on our intuitions about space, time and motion. The idea was to revise or “tweak” the definition until it would not create new paradoxes and would still give useful theorems. When this revision was completed, it could be declared that the set of real numbers is an actual infinity, not a potential infinity, and that not only is any interval of real numbers a linear continuum, but so are the spatial paths, the temporal durations, and the motions that are mentioned in Zeno’s paradoxes. In addition, it was important to clarify how to compute the sum of an infinite series (such as 1/2 + 1/4 + 1/8 + …) without requiring any person to manually add or otherwise perform some action that requires an infinite amount of time. Finally, mathematicians needed to define motion in terms of the derivative. This new mathematical system required many new well-defined concepts such as compact set, connected set, continuity, continuous function, convergence-to-a-limit of an infinite sequence (such as 1/2, 1/4, 1/8, …), curvature at a point, cut, derivative, dimension, function, integral, limit, measure, reference frame, set, and size of a set. Just as for those new mathematical concepts, rigor was added to the definitions of these physical concepts: place, instant, duration, distance, and instantaneous speed. The relevant revisions were made by Euler in the 18th century and by Bolzano, Cantor, Cauchy, Dedekind, Frege, Hilbert, Lebesgue, Peano, Russell, Weierstrass, and Whitehead, among others, during the 19th and early 20th centuries.
+What happened over these centuries to Leibniz’s infinitesimals and Newton’s fluxions? Let’s stick with infinitesimals, since fluxions have the same problems and same resolution. In 1734, Berkeley had properly criticized the use of infinitesimals as being “ghosts of departed quantities” that are used inconsistently in calculus. Earlier, Newton had defined instantaneous speed as the ratio of an infinitesimally small distance and an infinitesimally small duration, and he and Leibniz produced a system of calculating variable speeds that was very fruitful. But nobody in that century or the next could adequately explain what an infinitesimal was. Newton had called them “evanescent divisible quantities,” whatever that meant. Leibniz called them “vanishingly small,” but that was just as vague.
+The practical use of infinitesimals was unsystematic. For example, the infinitesimal dx is treated as being equal to zero when it is declared that x + dx = x, but is treated as not being zero when used in the denominator of the fraction [f(x + dx) – f(x)]/dx which is used in the derivative of the function f. In addition, consider the seemingly obvious Archimedean property of pairs of positive numbers: given any two positive numbers A and B, if you add enough copies of A, then you can produce a sum greater than B. This property fails if A is an infinitesimal. Finally, mathematicians gave up on answering Berkeley’s charges (and thus re-defined what we mean by standard analysis) because, in 1821, Cauchy showed how to achieve the same useful theorems of calculus by using the idea of a limit instead of an infinitesimal. Later in the 19th century, Weierstrass resolved some of the inconsistencies in Cauchy’s account and satisfactorily showed how to define continuity in terms of limits (his epsilon-delta method). As J. O. Wisdom points out (1953, p. 23), “At the same time it became clear that [Leibniz’s and] Newton’s theory, with suitable amendments and additions, could be soundly based” provided Leibniz’s infinitesimals and Newton’s fluxions were removed. In an effort to provide this sound basis according to the latest, heightened standard of what counts as “sound,” Peano, Frege, Hilbert, and Russell attempted to properly axiomatize real analysis. Unfortuately, this led in 1901 to Russell’s paradox and the fruitful controversy about how to provide a foundation to all of mathematics. That controversy still exists, but the majority view is that axiomatic Zermelo-Fraenkel set theory with the axiom of choice blocks all the paradoxes, legitimizes Cantor’s theory of transfinite sets, and provides the proper foundation for real analysis and other areas of mathematics, and indirectly resolves Zeno’s paradoxes. This standard real analysis lacks infinitesimals, thanks to Cauchy and Weierstrass. Standard real analysis is the mathematics that the Standard Solution applies to Zeno’s Paradoxes.
+In Standard real analysis, the rational numbers are not continuous although they are infinitely numerous and infinitely dense. To come up with a foundation for calculus there had to be a good definition of the continuity of the real numbers. But this required having a good definition of irrational numbers. There wasn’t one before 1872. Dedekind’s definition in 1872 defines the mysterious irrationals in terms of the familiar rationals. The result is a clear and useful definition of real numbers. The usefulness of Dedekind’s definition of real numbers, and the lack of any better definition, convinced many mathematicians to be more open to accepting the real numbers and actually-infinite sets.
+Let’s take a short interlude and introduce Dedekind’s key, new idea that he discovered in the 1870s about the reals and their relationship to the rationals. He envisioned how to define a real number to be a cut of the rational numbers, where a cut is a certain ordered pair of actually-infinite sets of rational numbers.
+A Dedekind cut (A,B) is defined to be a partition or cutting of the standardly-ordered set of all the rational numbers into a left part A and a right part B. A and B are non-empty, and they partition all the rationals so that the numbers in A are less than all those in B, and also A contains no greatest number. Every real number is a unique Dedekind cut. The cut can be made at a rational number or at an irrational number. Here are examples of each:
+Dedekind’s real number 1/2 is ({x : x < 1/2} , {x: x ≥ 1/2}).
+Dedekind’s positive real number √2 is ({x : x < 0 or x2 < 2} , {x: x2 ≥ 2}).
+The value of ‘x’ must be rational only. For any cut (A,B), if B has a smallest number, then the real number for that cut corresponds to this smallest number, as in the definition of ½ above. Otherwise, the cut defines an irrational number which, loosely speaking, fills the gap between A and B, as in the definition of the square root of 2 above. By defining reals in terms of rationals this way, Dedekind gave a foundation to the reals, and legitimized them by showing they are as acceptable as actually-infinite sets of rationals.
+But what exactly is an actually-infinite (or transfinite) set, and does this idea lead to contradictions? This question needs an answer if there is to be a good theory of continuity and of real numbers. In the 1870s, Cantor clarified what an actually-infinite set is and made a convincing case that the concept does not lead to inconsistencies. These accomplishments by Cantor are why he (along with Dedekind and Weierstrass) is said by Russell to have “solved Zeno’s Paradoxes.”
+That solution recommends using very different concepts and theories than those used by Zeno. The argument that this is the correct solution was presented by many people, but it was especially influenced by the work of Bertrand Russell (1914, lecture 6) and the more detailed work of Adolf Grünbaum (1967). In brief, the argument for the Standard Solution is that we have solid grounds for believing our best scientific theories, but the theories of mathematics such as calculus and Zermelo-Fraenkel set theory are indispensable to these theories, so we have solid grounds for believing in them, too. The scientific theories require a resolution of Zeno’s paradoxes and the other paradoxes; and the Standard Solution to Zeno’s Paradoxes that uses standard calculus and Zermelo-Fraenkel set theory is indispensable to this resolution or at least is the best resolution, or, if not, then we can be fairly sure there is no better solution, or, if not that either, then we can be confident that the solution is good enough (for our purposes). Aristotle’s treatment, on the other hand, uses concepts that hamper the growth of mathematics and science. Therefore, we should accept the Standard Solution.
+In the next section, this solution will be applied to each of Zeno’s ten paradoxes.
+To be optimistic, the Standard Solution represents a counterexample to the claim that philosophical problems never get solved. To be less optimistic, the Standard Solution has its drawbacks and its alternatives, and these have generated new and interesting philosophical controversies beginning in the last half of the 20th century, as will be seen in later sections. The primary alternatives contain different treatments of calculus from that developed at the end of the 19th century. Whether this implies that Zeno’s paradoxes have multiple solutions or only one is still an open question.
+Did Zeno make mistakes? And was he superficial or profound? These questions are a matter of dispute in the philosophical literature. The majority position is as follows. If we give his paradoxes a sympathetic reconstruction, he correctly demonstrated that some important, classical Greek concepts are logically inconsistent, and he did not make a mistake in doing this, except in the Moving Rows Paradox, the Paradox of Alike and Unlike and the Grain of Millet Paradox, his weakest paradoxes. Zeno did assume that the classical Greek concepts were the correct concepts to use in reasoning about his paradoxes, and now we prefer revised concepts, though it would be unfair to say he blundered for not foreseeing later developments in mathematics and physics.
+3. The Ten Paradoxes
+Zeno probably created forty paradoxes, of which only the following ten are known. Only the first four have standard names, and the first two have received the most attention. The ten are of uneven quality. Zeno and his ancient interpreters usually stated his paradoxes badly, so it has taken some clever reconstruction over the years to reveal their full force. Below, the paradoxes are reconstructed sympathetically, and then the Standard Solution is applied to them. These reconstructions use just one of several reasonable schemes for presenting the paradoxes, but the present article does not explore the historical research about the variety of interpretive schemes and their relative plausibility.
+a. Paradoxes of Motion
+i. The Achilles
+Achilles, whom we can assume is the fastest runner of antiquity, is racing to catch the tortoise that is slowly crawling away from him. Both are moving along a linear path at constant speeds. In order to catch the tortoise, Achilles will have to reach the place where the tortoise presently is. However, by the time Achilles gets there, the tortoise will have crawled to a new location. Achilles will then have to reach this new location. By the time Achilles reaches that location, the tortoise will have moved on to yet another location, and so on forever. Zeno claims Achilles will never catch the tortoise. This argument shows, he believes, that anyone who believes Achilles will succeed in catching the tortoise and who believes more generally that motion is physically possible is the victim of illusion. The claim that motion is an illusion was advanced by Zeno’s mentor Parmenides .
+The source for all of Zeno’s arguments is the writings of his opponents. The Achilles Paradox is reconstructed from Aristotle (Physics Book VI, Chapter 8, 239b14-16) and some passages from Simplicius in the fifth century C.E. There is no evidence that Zeno used a tortoise rather than a slow human. The tortoise is a later commentator’s addition. Aristotle spoke simply of “the runner” who competes with Achilles.
+It won’t do to react and say the solution to the paradox is that there are biological limitations on how small a step Achilles can take. Achilles’ feet are not obligated to stop and start again at each of the locations described above, so there is no limit to how close one of those locations can be to another. A stronger version of his paradox would ask us to consider the movement of Achilles’ center of mass. It is best to think of Achilles’ change from one location to another as a continuous movement rather than as incremental steps requiring halting and starting again. Zeno is assuming that space and time are infinitely divisible; they are not discrete or atomistic. If they were, this Paradox’s argument would not work.
+
+One common complaint with Zeno’s reasoning is that he is setting up a straw man because it is obvious that Achilles cannot catch the tortoise if he continually takes a bad aim toward the place where the tortoise is; he should aim farther ahead. The mistake in this complaint is that even if Achilles took some sort of better aim, it is still true that he is required to go to every one of those locations that are the goals of the so-called “bad aims,” so remarking about a bad aim is not a way to successfully treat Zeno’s argument.
+The treatment called the “Standard Solution” to the Achilles Paradox uses calculus and other parts of real analysis to describe the situation. It implies that Zeno is assuming Achilles cannot achieve his goal because
+(1) there is too far to run, or
+(2) there is not enough time, or
+(3) there are too many places to go, or
+(4) there is no final step, or
+(5) there are too many tasks.
+The historical record does not tell us which of these was Zeno’s real assumption, but they are all false assumptions, according to the Standard Solution.
+Let’s consider assumption (1). Presumably Zeno would defend that assumption by remarking that there are an infinity of sub-distances involved in Achilles’ run, and the sum of the sub-distances is an actual infinity, which is too much distance even for Achilles. However, the advocate of the Standard Solution will remark, “How does Zeno know what the sum of this infinite series is, since in Zeno’s day the mathematicians could make sense of a sum of a series of terms only if there were a finite number of terms in the series? Maybe he is just guessing that the sum of an infinite number of terms could somehow be well-defined and be infinite.” According to the Standard Solution the sum is finite. Here is a graph using the methods of the Standard Solution showing the activity of Achilles as he chases the tortoise and overtakes it.
+For ease of understanding, Zeno and the tortoise are assumed to be point masses or infinitesimal particles, each moving at a constant velocity (that is, a constant speed in one direction). The graph is displaying the fact that Achilles’ path is a linear continuum and so is composed of an actual infinity of points. (An actual infinity is also called a “completed infinity” or “transfinite infinity.” The word “actual” does not mean “real” as opposed to “imaginary.”) Zeno’s failure to assume that Achilles’ path is a linear continuum is a fatal step in his argument, according to the Standard Solution which requires that the reasoner use the concepts of contemporary mathematical physics.
+Achilles travels a distance d1 in reaching the point x1 where the tortoise starts, but by the time Achilles reaches x1, the tortoise has moved on to a new point x2. When Achilles reaches x2, having gone an additional distance d2, the tortoise has moved on to point x3, requiring Achilles to cover an additional distance d3, and so forth. This sequence of non-overlapping distances (or intervals or sub-paths) is an actual infinity, but happily the geometric series converges. The sum of its terms d1 + d2 + d3 +… is a finite distance that Achilles can readily complete while moving at a constant speed.
+Similar reasoning would apply if Zeno were to have made assumptions (2) or (3) above about there not being enough time for Achilles or there being too many places for him to run. Regarding assumption (4), Zeno’s requirement that there be a final step or final sub-path in Achilles’ run is simply mistaken—according to the Standard Solution. (More will be said about assumption (5) in Section 5c when we discuss supertasks.)
+In Zeno’s day, since the mathematicians could make sense only of the sum of a finite number of distances, it was Aristotle’s genius to claim that Achilles covered only a potential infinity of distances, not an actual infinity since the sum of a potential infinity is a finite number at any time; thus Achilles can in that sense achieve an infinity of tasks while covering a finite distance in a finite duration. When Aristotle made this claim and used it to treat Zeno’s paradoxes, there was no better solution to the Achilles Paradox, and a better solution would not be discovered for many more centuries. In Zeno’s day, no person had a clear notion of continous space, nor of the limit of an actually infinite series, nor even of zero.
+The Achilles Argument, if strengthened and not left as vague as it was in Zeno’s day, presumes that space and time are continuous or infinitely divisible. So, Zeno’s conclusion might have more cautiously asserted that Achilles cannot catch the tortoise if space and time are infinitely divisible in the sense of actual infinity. Perhaps, as some commentators have speculated, Zeno used or should have used the Achilles Paradox only to attack continuous space, and he used or should have used his other paradoxes such as the “Arrow” and the “The Moving Rows” to attack discrete space.
+ii. The Dichotomy (The Racetrack)
+As Aristotle realized, the Dichotomy Paradox is just the Achilles Paradox in which Achilles stands still ahead of the tortoise. In his Progressive Dichotomy Paradox, Zeno argued that a runner will never reach the stationary goal line on a straight racetrack. The reason is that the runner must first reach half the distance to the goal, but when there he must still cross half the remaining distance to the goal, but having done that the runner must cover half of the new remainder, and so on. If the goal is one meter away, the runner must cover a distance of 1/2 meter, then 1/4 meter, then 1/8 meter, and so on ad infinitum. The runner cannot reach the final goal, says Zeno. Why not? There are few traces of Zeno’s reasoning here, but for reconstructions that give the strongest reasoning, we may say that the runner will not reach the final goal because there is too far to run, the sum is actually infinite. The Standard Solution argues instead that the sum of this infinite geometric series is one, not infinity.
+The problem of the runner reaching the goal can be viewed from a different perspective. According to the Regressive version of the Dichotomy Paradox, the runner cannot even take a first step. Here is why. Any step may be divided conceptually into a first half and a second half. Before taking a full step, the runner must take a 1/2 step, but before that he must take a 1/4 step, but before that a 1/8 step, and so forth ad infinitum, so Achilles will never get going. Like the Achilles Paradox, this paradox also concludes that any motion is impossible.
+The Dichotomy paradox, in either its Progressive version or its Regressive version, assumes here for the sake of simplicity and strength of argumentation that the runner’s positions are point places. Actual runners take up some larger volume, but the assumption of point places is not a controversial assumption because Zeno could have reconstructed his paradox by speaking of the point places occupied by, say, the tip of the runner’s nose or the center of his mass, and this assumption makes for a clearer and stronger paradox.
+In the Dichotomy Paradox, the runner reaches the points 1/2 and 3/4 and 7/8 and so forth on the way to his goal, but under the influence of Bolzano and Dedekind and Cantor, who developed the first theory of sets, the set of those points is no longer considered to be potentially infinite. It is an actually infinite set of points abstracted from a continuum of points, in which the word “continuum” is used in the late 19th century sense that is at the heart of calculus. And any ancient idea that the sum of the actually infinite series of path lengths or segments 1/2 + 1/4 + 1/8 + … is infinite now has to be rejected in favor of the theory that the sum converges to 1. This is key to solving the Dichotomy Paradox according to the Standard Solution. It is basically the same treatment as that given to the Achilles. The Dichotomy Paradox has been called “The Stadium” by some commentators, but that name is also commonly used for the Paradox of the Moving Rows, so readers need to be on the alert for ambiguity in the literature.
+Aristotle, in Physics Z9, said of the Dichotomy that it is possible for a runner to come in contact with a potentially infinite number of things in a finite time provided the time intervals becomes shorter and shorter. Aristotle said Zeno assumed this is impossible, and that is one of his errors in the Dichotomy. However, Aristotle merely asserted this and could give no detailed theory that enables the computation of the finite amount of time. So, Aristotle could not really defend his diagnosis of Zeno’s error. Today the calculus is used to provide the Standard Solution with that detailed theory.
+There is another detail of the Dichotomy that needs resolution. How does Zeno’s runner complete the trip if there is no final step or last member of the infinite sequence of steps (intervals and goals)? Don’t trips need last steps? The Standard Solution answers “no” and says the intuitive answer “yes” is one of many intuitions held by Zeno and Aristotle and the average person today that must be rejected when embracing the Standard Solution.
+iii. The Arrow
+Zeno’s Arrow Paradox takes a different approach to challenging the coherence of our common sense concepts of time and motion. Think of how you would distinguish an arrow that is stationary in space from one that is flying through space, given that you look only at a snapshot (an instantaneous photo) of them. Would there be any difference? No, and since at any instant of any time period the arrow makes no progress, it never makes progress.
+As Aristotle explains, from Zeno’s “assumption that time is composed of moments,” a moving arrow must occupy a space equal to itself during any moment. That is, during any indivisible moment or instant it is at the place where it is. But places do not move. So, if in each moment, the arrow is occupying a space equal to itself, then the arrow is not moving in that moment. The reason it is not moving is that it has no time in which to move; it is simply there at the place. It cannot move during the moment because there is not enough time for any motion, and the moment is indivisible. The same reasoning holds for any other moment during the so-called “flight” of the arrow. So, the arrow is never moving. By a similar argument, Zeno can establish that nothing else moves. The source for Zeno’s argument is Aristotle (Physics, Book VI, chapter 5, 239b5-32).
+The Standard Solution to the Arrow Paradox requires appeal to our contemporary theory of speed from calculus. This theory defines instantaneous motion, that is, motion at an instant, without defining motion during an instant. This new treatment of motion originated with Newton and Leibniz in the sixteenth century, and it employs what is called the “at-at” theory of motion, which says motion is being at different places at different times. Motion is not some feature that reveals itself only within a moment. The modern difference between rest and motion, as opposed to the difference in antiquity, has to do with what is happening at nearby moments and—contra Zeno—has nothing to do with what is happening during a moment.
+Some researchers have speculated that the Arrow Paradox was designed by Zeno to attack discrete time and space rather than continuous time and space. This is not clear, and the Standard Solution works for both. That is, regardless of whether time is continuous and Zeno’s instant has no finite duration, or time is discrete and Zeno’s instant lasts for, say, 10-44 seconds, there is insufficient time for the arrow to move during the instant. Yet regardless of how long the instant lasts, there still can be instantaneous motion, namely motion at that instant provided the object is in a different place at some other instant.
+To re-emphasize this crucial point, note that both Zeno and 21st century mathematical physicists agree that the arrow cannot be in motion within or during an instant (an instantaneous time), but the physicists will point out that the arrow can be in motion at an instant in the sense of having a positive speed at that instant (its so-called instantaneous speed), provided the arrow occupies different positions at times before or after that instant so that the instant is part of a period in which the arrow is continuously in motion. If we do not pay attention to what happens at nearby instants, it is impossible to distinguish instantaneous motion from instantaneous rest, but distinguishing the two is the way out of the Arrow Paradox. Zeno would have balked at the idea of motion at an instant, and Aristotle explicitly denied it.
+The Arrow Paradox is refuted by the Standard Solution with its new at-at theory of motion, but the paradox seems especially strong to someone who would prefer instead to say that motion is an intrinsic property of an instant, being some propensity or disposition to be elsewhere.
+Let’s reconsider the details of the Standard Solution assuming continuous motion rather than discrete motion. In calculus, the speed of an object at an instant (its instantaneous speed) is the time derivative of the object’s position; this means the object’s speed is the limit of its series of average speeds during smaller and smaller intervals of time containing the instant. We make essentially the same point when we say the object’s speed is the limit of its average speed over an interval as the length of the interval tends to zero. The derivative of the arrow’s position x with respect to time t, namely dx/dt, is the arrow’s instantaneous speed, and it has non-zero values at specific places at specific instants during the arrow’s flight, contra Zeno and Aristotle. The speed during an instant or in an instant, which is what Zeno is calling for, would be 0/0 and is undefined. But the speed at an instant is well defined. If we require the use of these modern concepts, then Zeno cannot successfully produce a contradiction as he tries to do by his assuming that in each moment the speed of the arrow is zero—because it is not zero. Therefore, advocates of the Standard Solution conclude that Zeno’s Arrow Paradox has a false, but crucial, assumption and so is unsound.
+Independently of Zeno, the Arrow Paradox was discovered by the Chinese dialectician Kung-sun Lung (Gongsun Long, ca. 325–250 B.C.E.). A lingering philosophical question about the arrow paradox is whether there is a way to properly refute Zeno’s argument that motion is impossible without using the apparatus of calculus.
+iv. The Moving Rows (The Stadium)
+According to Aristotle (Physics, Book VI, chapter 9, 239b33-240a18), Zeno try to create a paradox by considering bodies (that is, physical objects) of equal length aligned along three parallel rows within a stadium. One track contains A bodies (three A bodies are shown below); another contains B bodies; and a third contains C bodies. Each body is the same distance from its neighbors along its track. The A bodies are stationary. The Bs are moving to the right, and the Cs are moving with the same speed to the left. Here are two snapshots of the situation, before and after. They are taken one instant apart.
+
+Zeno points out that, in the time between the before-snapshot and the after-snapshot, the leftmost C passes two Bs but only one A, contradicting his (very controversial) assumption that the C should take longer to pass two Bs than one A. The usual way out of this paradox is to reject that controversial assumption.
+Aristotle argues that how long it takes to pass a body depends on the speed of the body; for example, if the body is coming towards you, then you can pass it in less time than if it is stationary. Today’s analysts agree with Aristotle’s diagnosis, and historically this paradox of motion has seemed weaker than the previous three. This paradox has been called “The Stadium,” but occasionally so has the Dichotomy Paradox.
+Some analysts, for example Tannery (1887), believe Zeno may have had in mind that the paradox was supposed to have assumed that both space and time are discrete (quantized, atomized) as opposed to continuous, and Zeno intended his argument to challenge the coherence of the idea of discrete space and time.
+Well, the paradox could be interpreted this way. If so, assume the three objects A, B, and C are adjacent to each other in their tracks, and each A, B and C body are occupying a space that is one atom long. Then, if all motion is occurring at the rate of one atom of space in one atom of time, the leftmost C would pass two atoms of B-space in the time it passed one atom of A-space, which is a contradiction to our assumption about rates. There is another paradoxical consequence. Look at the space occupied by left C object.  During the instant of movement, it passes the middle B object, yet there is no time at which they are adjacent, which is odd.
+So, Zeno’s argument can be interpreted as producing a challenge to the idea that space and time are discrete. However, most commentators suspect Zeno himself did not interpret his paradox this way.
+b. Paradoxes of Plurality
+Zeno’s paradoxes of motion are attacks on the commonly held belief that motion is real, but because motion is a kind of plurality, namely a process along a plurality of places in a plurality of times, they are also attacks on this kind of plurality. Zeno offered more direct attacks on all kinds of plurality. The first is his Paradox of Alike and Unlike.
+i. Alike and Unlike
+According to Plato in Parmenides 127-9, Zeno argued that the assumption of plurality–the assumption that there are many things–leads to a contradiction. He quotes Zeno as saying: “If things are many, . . . they must be both like and unlike. But that is impossible; unlike things cannot be like, nor like things unlike” (Hamilton and Cairns (1961), 922).
+Zeno’s point is this. Consider a plurality of things, such as some people and some mountains. These things have in common the property of being heavy. But if they all have this property in common, then they really are all the same kind of thing, and so are not a plurality. They are a one. By this reasoning, Zeno believes it has been shown that the plurality is one (or the many is not many), which is a contradiction. Therefore, by reductio ad absurdum, there is no plurality, as Parmenides has always claimed.
+Plato immediately accuses Zeno of equivocating. A thing can be alike some other thing in one respect while being not alike it in a different respect. Your having a property in common with some other thing does not make you identical with that other thing. Consider again our plurality of people and mountains. People and mountains are all alike in being heavy, but are unlike in intelligence. And they are unlike in being mountains; the mountains are mountains, but the people are not. As Plato says, when Zeno tries to conclude “that the same thing is many and one, we shall [instead] say that what he is proving is that something is many and one [in different respects], not that unity is many or that plurality is one….” [129d] So, there is no contradiction, and the paradox is solved by Plato. This paradox is generally considered to be one of Zeno’s weakest paradoxes, and it is now rarely discussed. [See Rescher (2001), pp. 94-6 for some discussion.]
+ii. Limited and Unlimited
+This paradox is also called the Paradox of Denseness. Suppose there exist many things rather than, as Parmenides would say, just one thing. Then there will be a definite or fixed number of those many things, and so they will be “limited.” But if there are many things, say two things, then they must be distinct, and to keep them distinct there must be a third thing separating them. So, there are three things. But between these, …. In other words, things are dense and there is no definite or fixed number of them, so they will be “unlimited.” This is a contradiction, because the plurality would be both limited and unlimited. Therefore, there are no pluralities; there exists only one thing, not many things. This argument is reconstructed from Zeno’s own words, as quoted by Simplicius in his commentary of book 1 of Aristotle’s Physics.
+According to the Standard Solution to this paradox, the weakness of Zeno’s argument can be said to lie in the assumption that “to keep them distinct, there must be a third thing separating them.” Zeno would have been correct to say that between any two physical objects that are separated in space, there is a place between them, because space is dense, but he is mistaken to claim that there must be a third physical object there between them. Two objects can be distinct at a time simply by one having a property the other does not have.
+iii. Large and Small
+Suppose there exist many things rather than, as Parmenides says, just one thing. Then every part of any plurality is both so small as to have no size but also so large as to be infinite, says Zeno. His reasoning for why they have no size has been lost, but many commentators suggest that he’d reason as follows. If there is a plurality, then it must be composed of parts which are not themselves pluralities. Yet things that are not pluralities cannot have a size or else they’d be divisible into parts and thus be pluralities themselves.
+Now, why are the parts of pluralities so large as to be infinite? Well, the parts cannot be so small as to have no size since adding such things together would never contribute anything to the whole so far as size is concerned. So, the parts have some non-zero size. If so, then each of these parts will have two spatially distinct sub-parts, one in front of the other. Each of these sub-parts also will have a size. The front part, being a thing, will have its own two spatially distinct sub-parts, one in front of the other; and these two sub-parts will have sizes. Ditto for the back part. And so on without end. A sum of all these sub-parts would be infinite. Therefore, each part of a plurality will be so large as to be infinite.
+This sympathetic reconstruction of the argument is based on Simplicius’ On Aristotle’s Physics, where Simplicius quotes Zeno’s own words for part of the paradox, although he does not say what he is quoting from.
+There are many errors here in Zeno’s reasoning, according to the Standard Solution. He is mistaken at the beginning when he says, “If there is a plurality, then it must be composed of parts which are not themselves pluralities.” A university is an illustrative counterexample. A university is a plurality of students, but we need not rule out the possibility that a student is a plurality. What’s a whole and what’s a plurality depends on our purposes. When we consider a university to be a plurality of students, we consider the students to be wholes without parts. But for another purpose we might want to say that a student is a plurality of biological cells. Zeno is confused about this notion of relativity, and about part-whole reasoning; and as commentators began to appreciate this they lost interest in Zeno as a player in the great metaphysical debate between pluralism and monism.
+A second error occurs in arguing that the each part of a plurality must have a non-zero size. The contemporary notion of measure (developed in the 20th century by Brouwer, Lebesgue, and others) showed how to properly define the measure function so that a line segment has nonzero measure even though (the singleton set of) any point has a zero measure. The measure of the line segment [a, b] is b – a; the measure of a cube with side a is a3. This theory of measure is now properly used by our civilization for length, volume, duration, mass, voltage, brightness, and other continuous magnitudes.
+Thanks to Aristotle’s support, Zeno’s Paradoxes of Large and Small and of Infinite Divisibility (to be discussed below) were generally considered to have shown that a continuous magnitude cannot be composed of points. Interest was rekindled in this topic in the 18th century. The physical objects in Newton’s classical mechanics of 1726 were interpreted by R. J. Boscovich in 1763 as being collections of point masses. Each point mass is a movable point carrying a fixed mass. This idealization of continuous bodies as if they were compositions of point particles was very fruitful; it could be used to easily solve otherwise very difficult problems in physics. This success led scientists, mathematicians, and philosophers to recognize that the strength of Zeno’s Paradoxes of Large and Small and of Infinite Divisibility had been overestimated; they did not prevent a continuous magnitude from being composed of points.
+iv. Infinite Divisibility
+This is the most challenging of all the paradoxes of plurality. Consider the difficulties that arise if we assume that an object theoretically can be divided into a plurality of parts. According to Zeno, there is a reassembly problem. Imagine cutting the object into two non-overlapping parts, then similarly cutting these parts into parts, and so on until the process of repeated division is complete. Assuming the hypothetical division is “exhaustive” or does comes to an end, then at the end we reach what Zeno calls “the elements.” Here there is a problem about reassembly. There are three possibilities. (1) The elements are nothing. In that case the original objects will be a composite of nothing, and so the whole object will be a mere appearance, which is absurd. (2) The elements are something, but they have zero size. So, the original object is composed of elements of zero size. Adding an infinity of zeros yields a zero sum, so the original object had no size, which is absurd. (3) The elements are something, but they do not have zero size. If so, these can be further divided, and the process of division was not complete after all, which contradicts our assumption that the process was already complete. In summary, there were three possibilities, but all three possibilities lead to absurdity. So, objects are not divisible into a plurality of parts.
+Simplicius says this argument is due to Zeno even though it is in Aristotle (On Generation and Corruption, 316a15-34, 316b34 and 325a8-12) and is not attributed there to Zeno, which is odd. Aristotle says the argument convinced the atomists to reject infinite divisibility. The argument has been called the Paradox of Parts and Wholes, but it has no traditional name.
+The Standard Solution says we first should ask Zeno to be clearer about what he is dividing. Is it concrete or abstract? When dividing a concrete, material stick into its components, we reach ultimate constituents of matter such as quarks and electrons that cannot be further divided. These have a size, a zero size (according to quantum electrodynamics), but it is incorrect to conclude that the whole stick has no size if its constituents have zero size. [Due to the forces involved, point particles have finite “cross sections,” and configurations of those particles, such as atoms, do have finite size.] So, Zeno is wrong here. On the other hand, is Zeno dividing an abstract path or trajectory? Let’s assume he is, since this produces a more challenging paradox. If so, then choice (2) above is the one to think about. It’s the one that talks about addition of zeroes. Let’s assume the object is one-dimensional, like a path. According to the Standard Solution, this “object” that gets divided should be considered to be a continuum with its elements arranged into the order type of the linear continuum, and we should use the contemporary notion of measure to find the size of the object. The size (length, measure) of a point-element is zero, but Zeno is mistaken in saying the total size (length, measure) of all the zero-size elements is zero. The size of the object  is determined instead by the difference in coordinate numbers assigned to the end points of the object. An object extending along a straight line that has one of its end points at one meter from the origin and other end point at three meters from the origin has a size of two meters and not zero meters. So, there is no reassembly problem, and a crucial step in Zeno’s argument breaks down.
+c. Other Paradoxes
+i. The Grain of Millet
+There are two common interpretations of this paradox. According to the first, which is the standard interpretation, when a bushel of millet (or wheat) grains falls out of its container and crashes to the floor, it makes a sound. Since the bushel is composed of individual grains, each individual grain also makes a sound, as should each thousandth part of the grain, and so on to its ultimate parts. But this result contradicts the fact that we actually hear no sound for portions like a thousandth part of a grain, and so we surely would hear no sound for an ultimate part of a grain. Yet, how can the bushel make a sound if none of its ultimate parts make a sound? The original source of this argument is Aristotle Physics, Book VII, chapter 4, 250a19-21). There seems to be appeal to the iterative rule that if a millet or millet part makes a sound, then so should a next smaller part.
+We do not have Zeno’s words on what conclusion we are supposed to draw from this. Perhaps he would conclude it is a mistake to suppose that whole bushels of millet have millet parts. This is an attack on plurality.
+The Standard Solution to this interpretation of the paradox accuses Zeno of mistakenly assuming that there is no lower bound on the size of something that can make a sound. There is no problem, we now say, with parts having very different properties from the wholes that they constitute. The iterative rule is initially plausible but ultimately not trustworthy, and Zeno is committing both the fallacy of division and the fallacy of composition.
+Some analysts interpret Zeno’s paradox a second way, as challenging our trust in our sense of hearing, as follows. When a bushel of millet grains crashes to the floor, it makes a sound. The bushel is composed of individual grains, so they, too, make an audible sound. But if you drop an individual millet grain or a small part of one or an even smaller part, then eventually your hearing detects no sound, even though there is one. Therefore, you cannot trust your sense of hearing.
+This reasoning about our not detecting low amplitude sounds is similar to making the mistake of arguing that you cannot trust your thermometer because there are some ranges of temperature that it is not sensitive to. So, on this second interpretation, the paradox is also easy to solve. One reason given in the literature for believing that this second interpretation is not the one that Zeno had in mind is that Aristotle’s criticism given below applies to the first interpretation and not the second, and it is unlikely that Aristotle would have misinterpreted the paradox.
+ii. Against Place
+Given an object, we may assume that there is a single, correct answer to the question, “What is its place?” Because everything that exists has a place, and because place itself exists, so it also must have a place, and so on forever. That’s too many places, so there is a contradiction. The original source is Aristotle’s Physics (209a23-25 and 210b22-24).
+The standard response to Zeno’s Paradox Against Place is to deny that places have places, and to point out that the notion of place should be relative to reference frame. But Zeno’s assumption that places have places was common in ancient Greece at the time, and Zeno is to be praised for showing that it is a faulty assumption.
+4. Aristotle’s Treatment of the Paradoxes
+Aristotle’s views about Zeno’s paradoxes can be found in his Physics, book 4, chapter 2, and book 6, chapters 2 and 9. Regarding the Dichotomy Paradox, Aristotle is to be applauded for his insight that Achilles has time to reach his goal because during the run ever shorter paths take correspondingly ever shorter times.
+Aristotle had several criticisms of Zeno. Regarding the paradoxes of motion, he complained that Zeno should not suppose the runner’s path is dependent on its parts; instead, the path is there first, and the parts are constructed by the analyst. His second complaint was that Zeno should not suppose that lines contain indivisible points. Aristotle’s third and most influential, critical idea involves a complaint about potential infinity. On this point, in remarking about the Achilles Paradox, Aristotle said, “Zeno’s argument makes a false assumption in asserting that it is impossible for a thing to pass over…infinite things in a finite time.” Aristotle believed it is impossible for a thing to pass over an actually infinite number of things in a finite time, but he believed that it is possible for a thing to pass over a potentially infinite number of things in a finite time. Here is how Aristotle expressed the point:
+For motion…, although what is continuous contains an infinite number of halves, they are not actual but potential halves. (Physics 263a25-27). …Therefore to the question whether it is possible to pass through an infinite number of units either of time or of distance we must reply that in a sense it is and in a sense it is not. If the units are actual, it is not possible: if they are potential, it is possible. (Physics 263b2-5).
+Aristotle denied the existence of the actual infinite both in the physical world and in mathematics, but he accepted potential infinities there. By calling them potential infinities he did not mean they have the potential to become actually infinite; potential infinity is a technical term that suggests a process that has not been completed. The term actual infinite does not imply being actual or real. It implies being complete, with no dependency on some process in time.
+A potential infinity is an unlimited iteration of some operation—unlimited in time. Aristotle claimed correctly that if Zeno were not to have used the concept of actual infinity and of indivisible point, then the paradoxes of motion such as the Achilles Paradox (and the Dichotomy Paradox) could not be created.
+Here is why doing so is a way out of these paradoxes. Zeno said that to go from the start to the finish line, the runner Achilles must reach the place that is halfway-there, then after arriving at this place he still must reach the place that is half of that remaining distance, and after arriving there he must again reach the new place that is now halfway to the goal, and so on. These are too many places to reach. Zeno made the mistake, according to Aristotle, of supposing that this infinite process needs completing when it really does not need completing and cannot be completed; the finitely long path from start to finish exists undivided for the runner, and it is the mathematician who is demanding the completion of such a process. Without using that concept of a completed infinity there is no paradox. Aristotle is correct about this being a treatment that avoids paradox.
+Aristotle and Zeno disagree about the nature of division of a runner’s path. Aristotle’s complaint can be expressed succinctly this way: Zeno was correct to suppose that at any time a runner’s path can be divided anywhere, but incorrect to suppose the path can be divided everywhere at the same time.
+Today’s standard treatment of the Achilles paradox disagrees with Aristotle’s way out of the paradox and says Zeno was correct to use the concept of a completed infinity and correct to imply that the runner must go to an actual infinity of places in a finite time and correct to suppose the runner’s path can be divided everywhere at the same time.
+From what Aristotle says, one can infer between the lines that he believes there is another reason to reject actual infinities: doing so is the only way out of these paradoxes of motion. Today we know better. There is another way out, namely, the Standard Solution that uses actual infinities, which are analyzable in terms of Cantor’s transfinite sets.
+Aristotle’s treatment by disallowing actual infinity while allowing potential infinity was clever, and it satisfied nearly all scholars for 1,500 years, being buttressed during that time by the Church’s doctrine that only God is actually infinite. George Berkeley, Immanuel Kant, Carl Friedrich Gauss, and Henri Poincaré were influential defenders of potential infinity. Leibniz accepted actual infinitesimals, but other mathematicians and physicists in European universities during these centuries were careful to distinguish between actual and potential infinities and to avoid using actual infinities.
+Given 1,500 years of opposition to actual infinities, the burden of proof was on anyone advocating them. Bernard Bolzano and Georg Cantor accepted this burden in the 19th century. The key idea is to see a potentially infinite set as a variable quantity that is dependent on being abstracted from a pre-exisiting actually infinite set. Bolzano argued that the natural numbers should be conceived of as a set, a determinate set, not one with a variable number of elements. Cantor argued that any potential infinity must be interpreted as varying over a predefined fixed set of possible values, a set that is actually infinite. He put it this way:
+In order for there to be a variable quantity in some mathematical study, the “domain” of its variability must strictly speaking be known beforehand through a definition. However, this domain cannot itself be something variable…. Thus this “domain” is a definite, actually infinite set of values. Thus each potential infinite…presupposes an actual infinite. (Cantor 1887)
+From this standpoint, Dedekind’s 1872 axiom of continuity and his definition of real numbers as certain infinite subsets of rational numbers suggested to Cantor and then to many other mathematicians that arbitrarily large sets of rational numbers are most naturally seen to be subsets of an actually infinite set of rational numbers. The same can be said for sets of real numbers. An actually infinite set is what we today call a “transfinite set.” Cantor’s idea is then to treat a potentially infinite set as being a sequence of definite subsets of a transfinite set. Aristotle had said mathematicians need only the concept of a finite straight line that may be produced as far as they wish, or divided as finely as they wish, but Cantor would say that this way of thinking presupposes a completed infinite continuum from which that finite line is abstracted at any particular time.
+[When Cantor says the mathematical concept of potential infinity presupposes the mathematical concept of actual infinity, this does not imply that, if future time were to be potentially infinite, then future time also would be actually infinite.]
+Dedekind’s primary contribution to our topic was to give the first rigorous definition of infinite set—an actual infinity—showing that the notion is useful and not self-contradictory. Cantor provided the missing ingredient—that the mathematical line can fruitfully be treated as a dense linear ordering of uncountably many points, and he went on to develop set theory and to give the continuum a set-theoretic basis which convinced mathematicians that the concept was rigorously defined.
+These ideas now form the basis of modern real analysis. The implication for the Achilles and Dichotomy paradoxes is that, once the rigorous definition of a linear continuum is in place, and once we have Cauchy’s rigorous theory of how to assess the value of an infinite series, then we can point to the successful use of calculus in physical science, especially in the treatment of time and of motion through space, and say that the sequence of intervals or paths described by Zeno is most properly treated as a sequence of subsets of an actually infinite set [that is, Aristotle’s potential infinity of places that Achilles reaches are really a variable subset of an already existing actually infinite set of point places], and we can be confident that Aristotle’s treatment of the paradoxes is inferior to the Standard Solution’s.
+Zeno said Achilles cannot achieve his goal in a finite time, but there is no record of the details of how he defended this conclusion. He might have said the reason is (i) that there is no last goal in the sequence of sub-goals, or, perhaps (ii) that it would take too long to achieve all the sub-goals, or perhaps (iii) that covering all the sub-paths is too great a distance to run. Zeno might have offered all these defenses. In attacking justification (ii), Aristotle objects that, if Zeno were to confine his notion of infinity to a potential infinity and were to reject the idea of zero-length sub-paths, then Achilles achieves his goal in a finite time, so this is a way out of the paradox. However, an advocate of the Standard Solution says Achilles achieves his goal by covering an actual infinity of paths in a finite time, and this is the way out of the paradox. (The discussion of whether Achilles can properly be described as completing an actual infinity of tasks rather than goals will be considered in Section 5c.) Aristotle’s treatment of the paradoxes is basically criticized for being inconsistent with current standard real analysis that is based upon Zermelo Fraenkel set theory and its actually infinite sets. To summarize the errors of Zeno and Aristotle in the Achilles Paradox and in the Dichotomy Paradox, they both made the mistake of thinking that if a runner has to cover an actually infinite number of sub-paths to reach his goal, then he will never reach it; calculus shows how Achilles can do this and reach his goal in a finite time, and the fruitfulness of the tools of calculus imply that the Standard Solution is a better treatment than Aristotle’s.
+Let’s turn to the other paradoxes. In proposing his treatment of the Paradox of the Large and Small and of the Paradox of Infinite Divisibility, Aristotle said that
+…a line cannot be composed of points, the line being continuous and the point indivisible. (Physics, 231a25)
+In modern real analysis, a continuum is composed of points, but Aristotle, ever the advocate of common sense reasoning, claimed that a continuum cannot be composed of points. Aristotle believed a line can be composed only of smaller, indefinitely divisible lines and not of points without magnitude. Similarly a distance cannot be composed of point places and a duration cannot be composed of instants. This is one of Aristotle’s key errors, according to advocates of the Standard Solution, because by maintaining this common sense view he created an obstacle to the fruitful development of real analysis. In addition to complaining about points, Aristotelians object to the idea of an actual infinite number of them.
+In his analysis of the Arrow Paradox, Aristotle said Zeno mistakenly assumes time is composed of indivisible moments, but “This is false, for time is not composed of indivisible moments any more than any other magnitude is composed of indivisibles.” (Physics, 239b8-9) Zeno needs those instantaneous moments; that way Zeno can say the arrow does not move during the moment. Aristotle recommends not allowing Zeno to appeal to instantaneous moments and restricting Zeno to saying motion be divided only into a potential infinity of intervals. That restriction implies the arrow’s path can be divided only into finitely many intervals at any time. So, at any time, there is a finite interval during which the arrow can exhibit motion by changing location. So the arrow flies, after all. That is, Aristotle declares Zeno’s argument is based on false assumptions without which there is no problem with the arrow’s motion. However, the Standard Solution agrees with Zeno that time can be composed of indivisible moments or instants, and it implies that Aristotle has mis-diagnosed where the error lies in the Arrow Paradox. Advocates of the Standard Solution would add that allowing a duration to be composed of indivisible moments is what is needed for having a fruitful calculus, and Aristotle’s recommendation is an obstacle to the development of calculus.
+Aristotle’s treatment of The Paradox of the Moving Rows is basically in agreement with the Standard Solution to that paradox–that Zeno did not appreciate the difference between speed and relative speed.
+Regarding the Paradox of the Grain of Millet, Aristotle said that parts need not have all the properties of the whole, and so grains need not make sounds just because bushels of grains do. (Physics, 250a, 22) And if the parts make no sounds, we should not conclude that the whole can make no sound. It would have been helpful for Aristotle to have said more about what are today called the Fallacies of Division and Composition that Zeno is committing. However, Aristotle’s response to the Grain of Millet is brief but accurate by today’s standards.
+In conclusion, are there two adequate but different solutions to Zeno’s paradoxes, Aristotle’s Solution and the Standard Solution? No. Aristotle’s treatment does not stand up to criticism in a manner that most scholars deem adequate. The Standard Solution uses contemporary concepts that have proved to be more valuable for solving and resolving so many other problems in mathematics and physics. Replacing Aristotle’s common sense concepts with the new concepts from real analysis and classical mechanics has been a key ingredient in the successful development of mathematics and science, and for this reason the vast majority of scientists, mathematicians, and philosophers reject Aristotle’s treatment. Nevertheless, there is a significant minority in the philosophical community who do not agree, as we shall see in the sections that follow.
+See (Wallace2003) for a deeper treatment of Aristotle and how the development of the concept of infinity led to the standard solution to Zeno’s Paradoxes.
+5. Other Issues Involving the Paradoxes
+a. Consequences of Accepting the Standard Solution
+There is a price to pay for accepting the Standard Solution to Zeno’s Paradoxes. The following–once presumably safe–intuitions or assumptions must be rejected:
+
+A continuum is too smooth to be composed of indivisible points.
+Runners do not have time to go to an actual infinity of places in a finite time.
+The sum of an infinite series of positive terms is always infinite.
+For each instant there is a next instant and for each place along a line there is a next place.
+A finite distance along a line cannot contain an actually infinite number of points.
+The more points there are on a line, the longer the line is.
+It is absurd for there to be numbers that are bigger than every integer.
+A one-dimensional curve can not fill a two-dimensional area, nor can an infinitely long curve enclose a finite area.
+A whole is always greater than any of its parts.
+
+Item (8) was undermined when it was discovered that the continuum implies the existence of fractal curves. However, the loss of intuition (1) has caused the greatest stir because so many philosophers object to a continuum being constructed from points. Aristotle had said, “Nothing continuous can be composed of things having no parts,” (Physics VI.3 234a 7-8). The Austrian philosopher Franz Brentano believed with Aristotle that scientific theories should be literal descriptions of reality, as opposed to today’s more popular view that theories are idealizations or approximations of reality. Continuity is something given in perception, said Brentano, and not in a mathematical construction; therefore, mathematics misrepresents. In a 1905 letter to Husserl, he said, “I regard it as absurd to interpret a continuum as a set of points.”
+But the Standard Solution needs to be thought of as a package to be evaluated in terms of all of its costs and benefits. From this perspective the Standard Solution’s point-set analysis of continua has withstood the criticism and demonstrated its value in mathematics and mathematical physics. As a consequence, advocates of the Standard Solution say we must live with rejecting the eight intuitions listed above, and accept the counterintuitive implications such as there being divisible continua, infinite sets of different sizes, and space-filling curves. They agree with the philosopher W. V .O. Quine who demands that we be conservative when revising the system of claims that we believe and who recommends “minimum mutilation.” Advocates of the Standard Solution say no less mutilation will work satisfactorily.
+b. Criticisms of the Standard Solution
+Balking at having to reject so many of our intuitions, Henri-Louis Bergson, Max Black, Franz Brentano, L. E. J. Brouwer, Solomon Feferman, William James, Charles S. Peirce, James Thomson, Alfred North Whitehead, and Hermann Weyl argued in different ways that the standard mathematical account of continuity does not apply to physical processes, or is improper for describing those processes. Here are their main reasons: (1) the actual infinite cannot be encountered in experience and thus is unreal, (2) human intelligence is not capable of understanding motion, (3) the sequence of tasks that Achilles performs is finite and the illusion that it is infinite is due to mathematicians who confuse their mathematical representations with what is represented, (4) motion is unitary or “smooth” even though its spatial trajectory is infinitely divisible, (5) treating time as being made of instants is to treat time as static rather than as the dynamic aspect of consciousness that it truly is, (6) actual infinities and the contemporary continuum are not indispensable to solving the paradoxes, and (7) the Standard Solution’s implicit assumption of the primacy of the coherence of the sciences is unjustified because what is really primary is coherence with a priori knowledge and common sense.
+See Salmon (1970, Introduction) and Feferman (1998) for a discussion of the controversy about the quality of Zeno’s arguments, and an introduction to its vast literature. This controversy is much less actively pursued in today’s mathematical literature, and hardly at all in today’s scientific literature. A minority of philosophers are actively involved in attempting to retain one or more of the eight intuitions listed in the previous section. An important philosophical issue is whether the paradoxes should be solved by the Standard Solution or instead by assuming that a line is not composed of points but of intervals, and whether use of infinitesimals is essential to a proper understanding of the paradoxes. For an example of how to solve Zeno’s Paradoxes without using the continuum and with retaining Democritus’ intuition that there is a lower limit to the divisibility of space, see  “Atoms of Space” in Rovelli’s theory of loop quantum gravity (Rovelli 2017, pp. 169-171).
+c. Supertasks and Infinity Machines
+In Zeno’s Achilles Paradox, Achilles does not cover an infinite distance, but he does cover an infinite number of distances. In doing so, does he need to complete an infinite sequence of tasks or actions? In other words, assuming Achilles does complete the task of reaching the tortoise, does he thereby complete a supertask, a transfinite number of tasks in a finite time?
+Bertrand Russell said “yes.” He argued that it is possible to perform a task in one-half minute, then perform another task in the next quarter-minute, and so on, for a full minute. At the end of the minute, an infinite number of tasks would have been performed. In fact, Achilles does this in catching the tortoise, Russell said. In the mid-twentieth century, Hermann Weyl, Max Black, James Thomson, and others objected, and thus began an ongoing controversy about the number of tasks that can be completed in a finite time.
+That controversy has sparked a related discussion about whether there could be a machine that can perform an infinite number of tasks in a finite time. A machine that can is called an infinity machine. In 1954, in an effort to undermine Russell’s argument, the philosopher James Thomson described a lamp that is intended to be a typical infinity machine. Let the machine switch the lamp on for a half-minute; then switch it off for a quarter-minute; then on for an eighth-minute; off for a sixteenth-minute; and so on. Would the lamp be lit or dark at the end of minute? Thomson argued that it must be one or the other, but it cannot be either because every period in which it is off is followed by a period in which it is on, and vice versa, so there can be no such lamp, and the specific mistake in the reasoning was to suppose that it is logically possible to perform a supertask. The implication for Zeno’s paradoxes is that Thomson is denying Russell’s description of Achilles’ task as a supertask, as being the completion of an infinite number of sub-tasks in a finite time.
+Paul Benacerraf (1962) complains that Thomson’s reasoning is faulty because it fails to notice that the initial description of the lamp determines the state of the lamp at each period in the sequence of switching, but it determines nothing about the state of the lamp at the limit of the sequence, namely at the end of the minute. The lamp could be either on or off at the limit. The limit of the infinite converging sequence is not in the sequence. So, Thomson has not established the logical impossibility of completing this supertask, but only that the setup’s description is not as complete as he had hoped.
+Could some other argument establish this impossibility? Benacerraf suggests that an answer depends on what we ordinarily mean by the term “completing a task.” If the meaning does not require that tasks have minimum times for their completion, then maybe Russell is right that some supertasks can be completed, he says; but if a minimum time is always required, then Russell is mistaken because an infinite time would be required. What is needed is a better account of the meaning of the term “task.” Grünbaum objects to Benacerraf’s reliance on ordinary meaning. “We need to heed the commitments of ordinary language,” says Grünbaum, “only to the extent of guarding against being victimized or stultified by them.”
+The Thomson Lamp Argument has generated a great literature in philosophy. Here are some of the issues. What is the proper definition of “task”? For example, does it require a minimum amount of time in the physicists’ technical sense of that term? Even if it is physically impossible to flip the switch in Thomson’s lamp because the speed of flipping the toggle switch will exceed the speed of light, suppose physics were different and there were no limit on speed; what then? Is the lamp logically impossible or physically impossible? Is the lamp metaphysically impossible? Was it proper of Thomson to suppose that the question of whether the lamp is lit or dark at the end of the minute must have a determinate answer? Does Thomson’s question have no answer, given the initial description of the situation, or does it have an answer which we are unable to compute? Should we conclude that it makes no sense to divide a finite task into an infinite number of ever shorter sub-tasks? Is there an important difference between completing a countable infinity of tasks and completing an uncountable infinity of tasks? Interesting issues arise when we bring in Einstein’s theory of relativity and consider a bifurcated supertask. This is an infinite sequence of tasks in a finite interval of an external observer’s proper time, but not in the machine’s own proper time. See Earman and Norton (1996) for an introduction to the extensive literature on these topics. Unfortunately, there is no agreement in the philosophical community on most of the questions we’ve just entertained.
+d. Constructivism
+The spirit of Aristotle’s opposition to actual infinities persists today in the philosophy of mathematics called constructivism. Constructivism is not a precisely defined position, but it implies that acceptable mathematical objects and procedures have to be founded on constructions and not, say, on assuming the object does not exist, then deducing a contradiction from that assumption. Most constructivists believe acceptable constructions must be performable ideally by humans independently of practical limitations of time or money. So they would say potential infinities, recursive functions, mathematical induction, and Cantor’s diagonal argument are constructive, but the following are not: The axiom of choice, the law of excluded middle, the law of double negation, completed infinities, and the classical continuum of the Standard Solution. The implication is that Zeno’s Paradoxes were not solved correctly by using the methods of the Standard Solution. More conservative constructionists, the finitists, would go even further and reject potential infinities because of the human being’s finite computational resources, but this conservative sub-group of constructivists is very much out of favor.
+L. E. J. Brouwer’s intuitionism was the leading constructivist theory of the early 20th century. In response to suspicions raised by the discovery of Russell’s Paradox and the introduction into set theory of the controversial non-constructive axiom of choice, Brouwer attempted to place mathematics on what he believed to be a firmer epistemological foundation by arguing that mathematical concepts are admissible only if they can be constructed from, and thus grounded in, an ideal mathematician’s vivid temporal intuitions, which are a priori intuitions of time.
+Brouwer’s intuitionistic continuum has the Aristotelian property of unsplitability. What this means is that, unlike the Standard Solution’s set-theoretic composition of the continuum which allows, say, the closed interval of real numbers from zero to one to be split or cut into (that is, be the union of sets of) those numbers in the interval that are less than one-half and those numbers in the interval that are greater than or equal to one-half, the corresponding closed interval of the intuitionistic continuum cannot be split this way into two disjoint sets. This unsplitability or inseparability agrees in spirit with Aristotle’s idea of the continuity of a real continuum, but disagrees in spirit with Aristotle’s idea of not allowing the continuum to be composed of points. [For more on this topic, see Posy (2005) pp. 346-7.]
+Although everyone agrees that any legitimate mathematical proof must use only a finite number of steps and be constructive in that sense, the majority of mathematicians in the first half of the twentieth century claimed that constructive mathematics could not produce an adequate theory of the continuum because essential theorems would no longer be theorems, and constructivist principles and procedures are too awkward to use successfully. In 1927, David Hilbert exemplified this attitude when he objected that Brouwer’s restrictions on allowable mathematics—such as rejecting proof by contradiction—were like taking the telescope away from the astronomer.
+But thanks in large part to the later development of constructive mathematics by Errett Bishop and Douglas Bridges in the second half of the 20th century, most contemporary philosophers of mathematics believe the question of whether constructivism could be successful in the sense of producing an adequate theory of the continuum is still open [see Wolf (2005) p. 346, and McCarty (2005) p. 382], and to that extent so is the question of whether the Standard Solution to Zeno’s Paradoxes needs to be rejected or perhaps revised to embrace constructivism. Frank Arntzenius (2000), Michael Dummett (2000), and Solomon Feferman (1998) have done important philosophical work to promote the constructivist tradition. Nevertheless, the vast majority of today’s practicing mathematicians routinely use nonconstructive mathematics.
+e. Nonstandard Analysis
+Although Zeno and Aristotle had the concept of small, they did not have the concept of infinitesimally small, which is the informal concept that was used by Leibniz (and Newton) in the development of calculus. In the 19th century, infinitesimals were eliminated from the standard development of calculus due to the work of Cauchy and Weierstrass on defining a derivative in terms of limits using the epsilon-delta method. But in 1881, C. S. Peirce advocated restoring infinitesimals because of their intuitive appeal. Unfortunately, he was unable to work out the details, as were all mathematicians—until 1960 when Abraham Robinson produced his nonstandard analysis. At this point in time it was no longer reasonable to say that banishing infinitesimals from analysis was an intellectual advance. What Robinson did was to extend the standard real numbers to include infinitesimals, using this definition: h is infinitesimal if and only if its absolute value is less than 1/n, for every positive standard number n. Robinson went on to create a nonstandard model of analysis using hyperreal numbers. The class of hyperreal numbers contains counterparts of the reals, but in addition it contains any number that is the sum, or difference, of both a standard real number and an infinitesimal number, such as 3 + h and 3 – 4h2. The reciprocal of an infinitesimal is an infinite hyperreal number. These hyperreals obey the usual rules of real numbers except for the Archimedean axiom. Infinitesimal distances between distinct points are allowed, unlike with standard real analysis. The derivative is defined in terms of the ratio of infinitesimals, in the style of Leibniz, rather than in terms of a limit as in standard real analysis in the style of Weierstrass.
+Nonstandard analysis is called “nonstandard” because it was inspired by Thoralf Skolem’s demonstration in 1933 of the existence of models of first-order arithmetic that are not isomorphic to the standard model of arithmetic. What makes them nonstandard is especially that they contain infinitely large (hyper)integers. For nonstandard calculus one needs nonstandard models of real analysis rather than just of arithmetic. An important feature demonstrating the usefulness of nonstandard analysis is that it achieves essentially the same theorems as those in classical calculus. The treatment of Zeno’s paradoxes is interesting from this perspective. See McLaughlin (1994) for how Zeno’s paradoxes may be treated using infinitesimals. McLaughlin believes this approach to the paradoxes is the only successful one, but commentators generally do not agree with that conclusion, and consider it merely to be an alternative solution. See Dainton (2010) pp. 306-9 for some discussion of this.
+f. Smooth Infinitesimal Analysis
+Abraham Robinson in the 1960s resurrected the infinitesimal as an infinitesimal number, but F. W. Lawvere in the 1970s resurrected the infinitesimal as an infinitesimal magnitude. His work is called “smooth infinitesimal analysis” and is part of “synthetic differential geometry.” In smooth infinitesimal analysis, a curved line is composed of infinitesimal tangent vectors. One significant difference from a nonstandard analysis, such as Robinson’s above, is that all smooth curves are straight over infinitesimal distances, whereas Robinson’s can curve over infinitesimal distances. In smooth infinitesimal analysis, Zeno’s arrow does not have time to change its speed during an infinitesimal interval. Smooth infinitesimal analysis retains the intuition that a continuum should be smoother than the continuum of the Standard Solution. Unlike both standard analysis and nonstandard analysis whose real number systems are set-theoretical entities and are based on classical logic, the real number system of smooth infinitesimal analysis is not a set-theoretic entity but rather an object in a topos of category theory, and its logic is intuitionist (Harrison, 1996, p. 283). Like Robinson’s nonstandard analysis, Lawvere’s smooth infinitesimal analysis may also be a promising approach to a foundation for real analysis and thus to solving Zeno’s paradoxes, but there is no consensus that Zeno’s Paradoxes need to be solved this way. For more discussion see note 11 in Dainton (2010) pp. 420-1.
+6. The Legacy and Current Significance of the Paradoxes
+What influence has Zeno had? He had none in the East, but in the West there has been continued influence and interest up to today.
+Let’s begin with his influence on the ancient Greeks. Before Zeno, philosophers expressed their philosophy in poetry, and he was the first philosopher to use prose arguments. This new method of presentation was destined to shape almost all later philosophy, mathematics, and science. Zeno drew new attention to the idea that the way the world appears to us is not how it is in reality. Zeno probably also influenced the Greek atomists to accept atoms. Aristotle was influenced by Zeno to use the distinction between actual and potential infinity as a way out of the paradoxes, and careful attention to this distinction has influenced mathematicians ever since. The proofs in Euclid’s Elements, for example, used only potentially infinite procedures. Awareness of Zeno’s paradoxes made Greek and all later Western intellectuals more aware that mistakes can be made when thinking about infinity, continuity, and the structure of space and time, and it made them wary of any claim that a continuous magnitude could be made of discrete parts. ”Zeno’s arguments, in some form, have afforded grounds for almost all theories of space and time and infinity which have been constructed from his time to our own,” said Bertrand Russell in the twentieth century.
+There is controversy in 20th and 21st century literature about whether Zeno developed any specific, new mathematical techniques. Most scholars say the conscious use of the method of indirect argumentation arose in both mathematics and Zeno’s philosophy independently of each other. See Hintikka (1978) for a discussion of this controversy about origins. Everyone agrees the method was Greek and not Babylonian, as was the method of proving something by deducing it from explicitly stated assumptions. G. E. L. Owen (Owen 1958, p. 222) argued that Zeno influenced Aristotle’s concept of there being no motion at an instant, which implies there is no instant when a body begins to move, nor an instant when a body changes its speed. Consequently, says Owen, Aristotle’s conception is an obstacle to a Newton-style concept of acceleration, and this hindrance is “Zeno’s major influence on the mathematics of science.” Other commentators consider Owen’s remark to be slightly harsh regarding Zeno because, they ask, if Zeno had not been born, would Aristotle have been likely to develop any other concept of motion?
+Zeno’s paradoxes have received some explicit attention from scholars throughout later centuries. Pierre Gassendi in the early 17th century mentioned Zeno’s paradoxes as the reason to claim that the world’s atoms must not be infinitely divisible. Pierre Bayle’s 1696 article on Zeno drew the skeptical conclusion that, for the reasons given by Zeno, the concept of space is contradictory. In the early 19th century, Hegel suggested that Zeno’s paradoxes supported his view that reality is inherently contradictory.
+Zeno’s paradoxes caused mistrust in infinites, and this mistrust has influenced the contemporary movements of constructivism, finitism, and nonstandard analysis, all of which affect the treatment of Zeno’s paradoxes. Dialetheism, the acceptance of true contradictions via a paraconsistent formal logic, provides a newer, although unpopular, response to Zeno’s paradoxes, but dialetheism was not created specifically in response to worries about Zeno’s paradoxes. With the introduction in the 20th century of thought experiments about supertasks, interesting philosophical research has been directed towards understanding what it means to complete a task.
+Zeno’s paradoxes are often pointed to for a case study in how a philosophical problem has been solved, even though the solution took over two thousand years to materialize.
+So, Zeno’s paradoxes have had a wide variety of impacts upon subsequent research. Little research today is involved directly in how to solve the paradoxes themselves, especially in the fields of mathematics and science, although discussion continues in philosophy, primarily on whether a continuous magnitude should be composed of discrete magnitudes, such as whether a line should be composed of points. If there are alternative treatments of Zeno’s paradoxes, then this raises the issue of whether there is a single solution to the paradoxes or several solutions or one best solution. The answer to whether the Standard Solution is the correct solution to Zeno’s paradoxes may also depend on whether the best physics of the future that reconciles the theories of quantum mechanics and general relativity will require us to assume spacetime is composed at its most basic level of points, or, instead, of regions or loops or something else.
+From the perspective of the Standard Solution, the most significant lesson learned by researchers who have tried to solve Zeno’s paradoxes is that the way out requires revising many of our old theories and their concepts. We have to be willing to rank the virtues of preserving logical consistency and promoting scientific fruitfulness above the virtue of preserving our intuitions. Zeno played a significant role in causing this progressive trend.
+7. References and Further Reading
+
+Arntzenius, Frank. (2000) “Are there Really Instantaneous Velocities?”, The Monist 83, pp. 187-208.
+
+Examines the possibility that a duration does not consist of points, that every part of time has a non-zero size, that real numbers cannot be used as coordinates of times, and that there are no instantaneous velocities at a point.
+
+
+Barnes, J. (1982). The Presocratic Philosophers, Routledge & Kegan Paul: Boston.
+
+A well respected survey of the philosophical contributions of the Pre-Socratics.
+
+
+Barrow, John D. (2005). The Infinite Book: A Short Guide to the Boundless, Timeless and Endless, Pantheon Books, New York.
+
+A popular book in science and mathematics introducing Zeno’s Paradoxes and other paradoxes regarding infinity.
+
+
+Benacerraf, Paul (1962). “Tasks, Super-Tasks, and the Modern Eleatics,” The Journal of Philosophy, 59, pp. 765-784.
+
+An original analysis of Thomson’s Lamp and supertasks.
+
+
+Bergson, Henri (1946). Creative Mind, translated by M. L. Andison. Philosophical Library: New York.
+
+Bergson demands the primacy of intuition in place of the objects of mathematical physics.
+
+
+Black, Max (1950-1951). “Achilles and the Tortoise,” Analysis 11, pp. 91-101.
+
+A challenge to the Standard Solution to Zeno’s paradoxes. Blacks agrees that Achilles did not need to complete an infinite number of sub-tasks in order to catch the tortoise.
+
+
+Cajori, Florian (1920). “The Purpose of Zeno’s Arguments on Motion,” Isis, vol. 3, no. 1, pp. 7-20.
+
+An analysis of the debate regarding the point Zeno is making with his paradoxes of motion.
+
+
+Cantor, Georg (1887). “Über die verschiedenen Ansichten in Bezug auf die actualunendlichen Zahlen.” Bihang till Kongl. Svenska Vetenskaps-Akademien Handlingar , Bd. 11 (1886-7), article 19. P. A. Norstedt & Sôner: Stockholm.
+
+A very early description of set theory and its relationship to old ideas about infinity.
+
+
+Chihara, Charles S. (1965). “On the Possibility of Completing an Infinite Process,” Philosophical Review 74, no. 1, p. 74-87.
+
+An analysis of what we mean by “task.”
+
+
+Copleston, Frederick, S.J. (1962). “The Dialectic of Zeno,” chapter 7 of A History of Philosophy, Volume I, Greece and Rome, Part I, Image Books: Garden City.
+
+Copleston says Zeno’s goal is to challenge the Pythagoreans who denied empty space and accepted pluralism.
+
+
+Dainton, Barry. (2010). Time and Space, Second Edition, McGill-Queens University Press: Ithaca.
+
+Chapters 16 and 17 discuss Zeno’s Paradoxes.
+
+
+Dauben, J. (1990). Georg Cantor, Princeton University Press: Princeton.
+
+Contains Kronecker’s threat to write an article showing that Cantor’s set theory has “no real significance.” Ludwig Wittgenstein was another vocal opponent of set theory.
+
+
+De Boer, Jesse (1953). “A Critique of Continuity, Infinity, and Allied Concepts in the Natural Philosophy of Bergson and Russell,” in Return to Reason: Essays in Realistic Philosophy, John Wild, ed., Henry Regnery Company: Chicago, pp. 92-124.
+
+A philosophical defense of Aristotle’s treatment of Zeno’s paradoxes.
+
+
+Diels, Hermann and W. Kranz (1951). Die Fragmente der Vorsokratiker, sixth ed., Weidmannsche Buchhandlung: Berlin.
+
+A standard edition of the pre-Socratic texts.
+
+
+Dummett, Michael (2000). “Is Time a Continuum of Instants?,” Philosophy, 2000, Cambridge University Press: Cambridge, pp. 497-515.
+
+Promoting a constructive foundation for mathematics, Dummett’s formalism implies there are no instantaneous instants, so times must have rational values rather than real values. Times have only the values that they can in principle be measured to have; and all measurements produce rational numbers within a margin of error.
+
+
+Earman J. and J. D. Norton (1996). “Infinite Pains: The Trouble with Supertasks,” in Paul Benacerraf: the Philosopher and His Critics, A. Morton and S. Stich (eds.), Blackwell: Cambridge, MA, pp. 231-261.
+
+A criticism of Thomson’s interpretation of his infinity machines and the supertasks involved, plus an introduction to the literature on the topic.
+
+
+Feferman, Solomon (1998). In the Light of Logic, Oxford University Press, New York.
+
+A discussion of the foundations of mathematics and an argument for semi-constructivism in the tradition of Kronecker and Weyl, that the mathematics used in physical science needs only the lowest level of infinity, the infinity that characterizes the whole numbers. Presupposes considerable knowledge of mathematical logic.
+
+
+Freeman, Kathleen (1948). Ancilla to the Pre-Socratic Philosophers, Harvard University Press: Cambridge, MA. Reprinted in paperback in 1983.
+
+One of the best sources in English of primary material on the Pre-Socratics.
+
+
+Grünbaum, Adolf (1967). Modern Science and Zeno’s Paradoxes, Wesleyan University Press: Middletown, Connecticut.
+
+A detailed defense of the Standard Solution to the paradoxes.
+
+
+Grünbaum, Adolf (1970). “Modern Science and Zeno’s Paradoxes of Motion,” in (Salmon, 1970), pp. 200-250.
+
+An analysis of arguments by Thomson, Chihara, Benacerraf and others regarding the Thomson Lamp and other infinity machines.
+
+
+Hamilton, Edith and Huntington Cairns (1961). The Collected Dialogues of Plato Including the Letters, Princeton University Press: Princeton.
+Harrison, Craig (1996). “The Three Arrows of Zeno: Cantorian and Non-Cantorian Concepts of the Continuum and of Motion,” Synthese, Volume 107, Number 2, pp. 271-292.
+
+Considers smooth infinitesimal analysis as an alternative to the classical Cantorian real analysis of the Standard Solution.
+
+
+Heath, T. L. (1921). A History of Greek Mathematics, Vol. I, Clarendon Press: Oxford. Reprinted 1981.
+
+Promotes the minority viewpoint that Zeno had a direct influence on Greek mathematics, for example by eliminating the use of infinitesimals.
+
+
+Hintikka, Jaakko, David Gruender and Evandro Agazzi. Theory Change, Ancient Axiomatics, and Galileo’s Methodology, D. Reidel Publishing Company, Dordrecht.
+
+A collection of articles that discuss, among other issues, whether Zeno’s methods influenced the mathematicians of the time or whether the influence went in the other direction. See especially the articles by Karel Berka and Wilbur Knorr.
+
+
+Kirk, G. S., J. E. Raven, and M. Schofield, eds. (1983). The Presocratic Philosophers: A Critical History with a Selection of Texts, Second Edition, Cambridge University Press: Cambridge.
+
+A good source in English of primary material on the Pre-Socratics with detailed commentary on the controversies about how to interpret various passages.
+
+
+Maddy, Penelope (1992) “Indispensability and Practice,” Journal of Philosophy 59, pp. 275-289.
+
+Explores the implication of arguing that theories of mathematics are indispensable to good science, and that we are justified in believing in the mathematical entities used in those theories.
+
+
+Matson, Wallace I (2001). “Zeno Moves!” pp. 87-108 in Essays in Ancient Greek Philosophy VI: Before Plato, ed. by Anthony Preus, State University of New York Press: Albany.
+
+Matson supports Tannery’s non-classical and minority interpretation that Zeno’s purpose was to show only that the opponents of Parmenides are committed to absurdly denying motion, and that Zeno himself never denied motion, nor did Parmenides.
+
+
+McCarty, D.C. (2005). “Intuitionism in Mathematics,” in The Oxford Handbook of Philosophy of Mathematics and Logic, edited by Stewart Shapiro, Oxford University Press, Oxford, pp. 356-86.
+
+Argues that a declaration of death of the program of founding mathematics on an intuitionistic basis is premature.
+
+
+McLaughlin, William I. (1994). “Resolving Zeno’s Paradoxes,” Scientific American, vol. 271, no. 5, Nov., pp. 84-90.
+
+How Zeno’s paradoxes may be explained using a contemporary theory of Leibniz’s infinitesimals.
+
+
+Owen, G.E.L. (1958). “Zeno and the Mathematicians,” Proceedings of the Aristotelian Society, New Series, vol. LVIII, pp. 199-222.
+
+Argues that Zeno and Aristotle negatively influenced the development of the Renaissance concept of acceleration that was used so fruitfully in calculus.
+
+
+Posy, Carl. (2005). “Intuitionism and Philosophy,” in The Oxford Handbook of Philosophy of Mathematics and Logic, edited by Stewart Shapiro, Oxford University Press, Oxford, pp. 318-54.
+
+Contains a discussion of how the unsplitability of Brouwer’s intuitionistic continuum makes precise Aristotle’s notion that “you can’t cut a continuous medium without some of it clinging to the knife,” on pages 345-7.
+
+
+Proclus (1987). Proclus’ Commentary on Plato’s Parmenides, translated by Glenn R. Morrow and John M. Dillon, Princeton University Press: Princeton.
+
+A detailed list of every comment made by Proclus about Zeno is available with discussion starting on p. xxxix of the Introduction by John M. Dillon. Dillon focuses on Proclus’ comments which are not clearly derivable from Plato’s Parmenides, and concludes that Proclus had access to other sources for Zeno’s comments, most probably Zeno’s original book or some derivative of it. William Moerbeke’s overly literal translation in 1285 from Greek to Latin of Proclus’ earlier, but now lost, translation of Plato’s Parmenides is the key to figuring out the original Greek. (see p. xliv)
+
+
+Rescher, Nicholas (2001). Paradoxes: Their Roots, Range, and Resolution, Carus Publishing Company: Chicago.
+
+Pages 94-102 apply the Standard Solution to all of Zeno’s paradoxes. Rescher calls the Paradox of Alike and Unlike the “Paradox of Differentiation.”
+
+
+Rovelli, Carlo (2017). Reality is Not What It Seems: The Journey to Quantum Gravity, Riverhead Books: New York.
+
+Rovelli’s chapter 6 explains how the theory of loop quantum gravity provides a new solution to Zeno’s Paradoxes that is more in tune with the intuitions of Democritus because it rejects the assumption that a bit of space can always be subdivided.
+
+
+Russell, Bertrand (1914). Our Knowledge of the External World as a Field for Scientific Method in Philosophy, Open Court Publishing Co.: Chicago.
+
+Russell champions the use of contemporary real analysis and physics in resolving Zeno’s paradoxes.
+
+
+Salmon, Wesley C., ed. (1970). Zeno’s Paradoxes, The Bobbs-Merrill Company, Inc.: Indianapolis and New York. Reprinted in paperback in 2001.
+
+A collection of the most influential articles about Zeno’s Paradoxes from 1911 to 1965. Salmon provides an excellent annotated bibliography of further readings.
+
+
+Szabo, Arpad (1978). The Beginnings of Greek Mathematics, D. Reidel Publishing Co.: Dordrecht.
+
+Contains the argument that Parmenides discovered the method of indirect proof by using it against Anaximenes’ cosmogony, although it was better developed in prose by Zeno. Also argues that Greek mathematicians did not originate the idea but learned of it from Parmenides and Zeno. (pp. 244-250). These arguments are challenged in Hntikka (1978).
+
+
+Tannery, Paul (1885). “‘Le Concept Scientifique du continu: Zenon d’Elee et Georg Cantor,” pp. 385-410 of Revue Philosophique de la France et de l’Etranger, vol. 20, Les Presses Universitaires de France: Paris.
+
+This mathematician gives the first argument that Zeno’s purpose was not to deny motion but rather to show only that the opponents of Parmenides are committed to denying motion.
+
+
+Tannery, Paul (1887). Pour l’Histoire de la Science Hellène: de Thalès à Empédocle, Alcan: Paris. 2nd ed. 1930.
+
+More development of the challenge to the classical interpretation of what Zeno’s purposes were in creating his paradoxes.
+
+
+Thomson, James (1954-1955). “Tasks and Super-Tasks,” Analysis, XV, pp. 1-13.
+
+A criticism of supertasks. The Thomson Lamp thought-experiment is used to challenge Russell’s characterization of Achilles as being able to complete an infinite number of tasks in a finite time.
+
+
+Tiles, Mary (1989). The Philosophy of Set Theory: An Introduction to Cantor’s Paradise, Basil Blackwell: Oxford.
+
+A philosophically oriented introduction to the foundations of real analysis and its impact on Zeno’s paradoxes.
+
+
+Vlastos, Gregory (1967). “Zeno of Elea,” in The Encyclopedia of Philosophy, Paul Edwards (ed.), The Macmillan Company and The Free Press: New York.
+
+A clear, detailed presentation of the paradoxes. Vlastos comments that Aristotle does not consider any other treatment of Zeno’s paradoxes than by recommending replacing Zeno’s actual infinities with potential infinites, so we are entitled to assert that Aristotle probably believed denying actual infinities is the only route to a coherent treatment of infinity. Vlastos also comments that “there is nothing in our sources that states or implies that any development in Greek mathematics (as distinct from philosophical opinions about mathematics) was due to Zeno’s influence.”==
+
+
+Vlastos, Gregory (1967). “Zeno of Elea,” in The Encyclopedia of Philosophy, Paul Edwards (ed.), The Macmillan Company and The Free Press: New York.
+
+A clear, detailed presentation of the paradoxes. Vlastos comments that Aristotle does not consider any other treatment of Zeno’s paradoxes than by recommending replacing Zeno’s actual infinities with potential infinites, so we are entitled to assert that Aristotle probably believed denying actual infinities is the only route to a coherent treatment of infinity. Vlastos also comments that “there is nothing in our sources that states or implies that any development in Greek mathematics (as distinct from philosophical opinions about mathematics) was due to Zeno’s influence.”==
+
+
+Wallace, David Foster. (2003). A Compact History of ∞, W. W. Norton and Company: New York.
+
+A clear and sophisticated treatment of how a deeper understanding of infinity led to the solution to Zeno’s Paradoxes. Highly recommended.
+
+
+White, M. J. (1992). The Continuous and the Discrete: Ancient Physical Theories from a Contemporary Perspective, Clarendon Press: Oxford.
+
+A presentation of various attempts to defend finitism, neo-Aristotelian potential infinities, and the replacement of the infinite real number field with a finite field.
+
+
+Wisdom, J. O. (1953). “Berkeley’s Criticism of the Infinitesimal,” The British Journal for the Philosophy of Science, Vol. 4, No. 13, pp. 22-25.
+
+Wisdom clarifies the issue behind George Berkeley’s criticism (in 1734 in The Analyst) of the use of the infinitesimal (fluxion) by Newton and Leibniz. See also the references there to Wisdom’s other three articles on this topic in the journal Hermathena in 1939, 1941 and 1942.
+
+
+Wolf, Robert S. (2005). A Tour Through Mathematical Logic, The Mathematical Association of America: Washington, DC.
+
+Chapter 7 surveys nonstandard analysis, and Chapter 8 surveys constructive mathematics, including the contributions by Errett Bishop and Douglas Bridges.
+
+
+
+Author Information
+Bradley Dowden
+Email: dowden@csus.edu
+California State University, Sacramento
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

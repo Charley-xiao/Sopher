@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+Square of Opposition | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Square of Opposition
+The square of opposition is a chart that was introduced within classical (categorical) logic to represent the logical relationships holding between certain propositions in virtue of their form. The square, traditionally conceived, looks like this:
+
+The four corners of this chart represent the four basic forms of propositions recognized in classical logic:
+A propositions, or universal affirmatives take the form: All S are P.
+E propositions, or universal negations take the form: No S are P.
+I propositions, or particular affirmatives take the form: Some S are P.
+O propositions, or particular negations take the form: Some S are not P.
+Given the assumption made within classical (Aristotelian) categorical logic, that every category contains at least one member, the following relationships, depicted on the square, hold:
+Firstly, A and O propositions are contradictory, as are E and I propositions. Propositions are contradictory when the truth of one implies the falsity of the other, and conversely. Here we see that the truth of a proposition of the form All S are P implies the falsity of the corresponding proposition of the form Some S are not P. For example, if the proposition “all industrialists are capitalists” (A) is true, then the proposition “some industrialists are not capitalists” (O) must be false. Similarly, if “no mammals are aquatic” (E) is false, then the proposition “some mammals are aquatic” must be true.
+Secondly, A and E propositions are contrary. Propositions are contrary when they cannot both be true. An A proposition, e.g., “all giraffes have long necks” cannot be true at the same time as the corresponding E proposition: “no giraffes have long necks.” Note, however, that corresponding A and E propositions, while contrary, are not contradictory. While they cannot both be true, they can both be false, as with the examples of “all planets are gas giants” and “no planets are gas giants.”
+Next, I and O propositions are subcontrary. Propositions are subcontrary when it is impossible for both to be false. Because “some lunches are free” is false, “some lunches are not free” must be true. Note, however, that it is possible for corresponding I and O propositions both to be true, as with “some nations are democracies,” and “some nations are not democracies.” Again, I and O propositions are subcontrary, but not contrary or contradictory.
+Lastly, two propositions are said to stand in the relation of subalternation when the truth of the first (“the superaltern”) implies the truth of the second (“the subaltern”), but not conversely. A propositions stand in the subalternation relation with the corresponding I propositions. The truth of the A proposition “all plastics are synthetic,” implies the truth of the proposition “some plastics are synthetic.” However, the truth of the O proposition “some cars are not American-made products” does not imply the truth of the E proposition “no cars are American-made products.” In traditional logic, the truth of an A or E proposition implies the truth of the corresponding I or O proposition, respectively. Consequently, the falsity of an I or O proposition implies the falsity of the corresponding A or E proposition, respectively. However, the truth of a particular proposition does not imply the truth of the corresponding universal proposition, nor does the falsity of an universal proposition carry downwards to the respective particular propositions.
+The presupposition, mentioned above, that all categories contain at least one thing, has been abandoned by most later logicians. Modern logic deals with uninstantiated terms such as “unicorn” and “ether flow” the same as it does other terms such as “apple” and “orangutan”. When dealing with “empty categories”, the relations of being contrary, being subcontrary and of subalternation no longer hold. Consider, e.g., “all unicorns have horns” and “no unicorns have horns.” Within contemporary logic, these are both regarded as true, so strictly speaking, they cannot be contrary, despite the former’s status as an A proposition and the latter’s status as an E proposition. Similarly, “some unicorns have horns” (I) and “some unicorns do not have horns” (O) are both regarded as false, and so they are not subcontrary. Obviously then, the truth of “all unicorns have horns” does not imply the truth of “some unicorns have horns,” and the subalternation relation fails to hold as well. Without the traditional presuppositions of “existential import”, i.e., the supposition that all categories have at least one member, then only the contradictory relation holds. On what is sometimes called the “modern square of opposition” (as opposed to the traditional square of opposition sketched above) the lines for contraries, subcontraries and subalternation are erased, leaving only the diagonal lines for the contradictory relation.
+Author Information
+The author of this article is anonymous.
+The IEP would like a qualified author to replace this article with a longer one.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

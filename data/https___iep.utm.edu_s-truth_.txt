@@ -1,0 +1,365 @@
+
+
+
+
+
+
+
+
+
+Semantic Theory of Truth | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Semantic Theory of Truth
+The semantic theory of truth (STT, hereafter) was developed by Alfred Tarski in the 1930s. The theory has two separate, although interconnected, aspects. First, it is a formal mathematical theory of truth as a central concept of model theory, one of the most important branches of mathematical logic. Second, it is also a philosophical doctrine which elaborates the notion of truth investigated by philosophers since antiquity. In this respect, STT is one of the most influential ideas in contemporary analytic philosophy. This article discusses both aspects.
+The STT is designed to define truth without circularity and to satisfy certain minimal conditions that must be met by any adequate theory of truth.
+STT as a formal construction is explicated via set theory and the concept of satisfaction. The prevailing philosophical interpretation of STT considers it to be a version of the correspondence theory of truth that goes back to Aristotle. This theory is presented here in its modern shape, that is, as associated with first-order logic. Tarski’s original account used the elementary theory of classes (a theory similar to the simple theory of types).
+One of Tarski’s most important results was to show that a theory of truth for set theory cannot be given within set theory itself, and that any truth definition for a formal language L must be given in a language which is essentially stronger than L.
+Table of Contents
+
+Historical Introduction
+Outline of STT
+Informal Presentation of STT
+Formal Presentation of STT
+Philosophical Comments
+Final Remarks 
+References and Further Reading 
+
+1. Historical Introduction
+Alfred Tarski (1901–1983) was a Polish mathematician, logician and philosopher. He lived in the U.S.A. from 1939 onward and became an American citizen in 1945. He was a member of the Polish Mathematical School, the Warsaw School of Logic and the Lvov-Warsaw Philosophical School. These schools flourished in the interwar period (1918-1939).
+While investigating problems associated with the definability of real numbers, Tarski came to the conclusion that the concept of satisfaction informally used in mathematics can help in defining the concept of truth. In 1930, he delivered two lectures (one in Warsaw. the second in Lvov) devoted to the concept of truth. In 1931, he began to work on a monograph on this topic. It was published in 1933 (see Tarski 1933) as Pojęcie prawdy w językach nauk dedukcyjnych (The Concept of Truth in Languages of Deductive Sciences). This book was well-received in Poland.
+Due to Tarski’s contacts with the Vienna Circle, his semantic ideas became known abroad. The German translation (Der Wahrheitsbegriff in den formalisierten Sprachen) of Tarski’s Polish book appeared in 1935 (see Tarski 1935). In the same year, Tarski lectured at the Paris Congress for Scientific Philosophy; his lectures on the foundations and semantics and on the concept of logical consequence were applauded; (see Tarski 1936 and Tarski 1936a). His popular paper on the concept of truth appeared in Philosophy and Phenomenological Research in 1944 (see Tarski 1944). The English translation based on the German version of the book on truth (see Tarski 1956a) was included in Tarski’s famous collection Logic, Semantics, Metamathematics (1956). The last Tarski’s essay on truth (rather more popular than formal), namely “Truth and Proof”, was published in 1969 (see Tarski 1969). Since all Tarski’s writings on truth present principally the same ideas, this article does not refer to his particular works, except in some places.
+2. Outline of STT
+The Semantic theory of Truth (STT) has many ingredients. The most important are as follows:
+
+(A) Truth as a property of sentences;
+(B) Relations between truth and meaning;
+(C) Diagnosis of semantic paradoxes;
+(D) Resolution of semantic paradoxes;
+(E) Relativization to languages;
+(F) T-scheme (A is true if and only if A);
+(G) The principle BI of bivalence;
+(H) Material and formal adequacy of a truth-definition;
+(I) Conditions imposed on a metalanguage in order to obtain a proper  truth-definition;
+(J) The relation between language and metalanguage;
+(K) The truth-definition itself;
+(L) Maximality of the set of truths in a given language;
+(M) The undefinability theorem.
+
+These points are gradually elaborated in the next remarks, with capital letters referring back to the above list.
+(A)–(B). For Tarski, sentences are truth-bearers. However, sentences are always equipped with meanings. Tarski avoided explaining what the meaning of an expression is. On the other hand, he explicitly said that the problem of defining truth is meaningless for purely informal languages. Roughly speaking, the semantic truth-definition (SDT, for brevity) is formulated for formalized languages.
+(C)–(D). The Liar Paradox is a serious problem for any truth-definition. The ancient version attributed to Epimenides runs as follows. A Cretan says “I am lying now”. If he is actually lying, his sentence is true, but if he is not lying, the sentence in question is false.  Contradiction! For the modern version, consider the sentence
+(S) The sentence denoted by (S) is false.
+Observe that (S) = ((S) is false). Since, (S) and ‘(S) is true’ are equivalent, we obtain a contradiction expressed by
+(LP) (S) is true if and only if (S) false.
+What are sources of the Liar Paradox (LP)? First, it employs the sentence (S) which asserts its own falsity. Such a situation is called a self-referential use of a semantic concept; the semantic concept in this case is falsehood. Second, the Paradox uses a rule that a sentence, let us say A, is true if and only if A (which Tarski called the T-scheme). Third, we apply, classical logic, in particular, the law of bivalence, that is, (BI).
+This diagnosis, which was proposed by Stanisław Leśniewski (Tarski’s teacher in Warsaw) and adopted by Tarski, offers three ways out of the Paradox. First, one could eliminate self-referentiality from the language. Second, reject the T-scheme. Third, change logic, in particular, reject (BI). The third strategy is popular in the twenty-first century, and it uses the techniques of many-valued logic, logic with truth-value gaps, or paraconsistent logic. These solutions will not be commented upon in this article. Anyway, Tarski considered them to be too complex and too narrow because they require the rejection of what should be retained. The T-scheme, according to him, is so intuitive that it cannot be rejected. Thus, the proper solution is to eliminate self-referentiality, he said.
+(E)–(F). How to eliminate self-referentiality? The main idea is that the concept of truth should be relativized to a language. More specifically, we deal with the context ‘the sentence A is true in a language L’. However, this move is still insufficient, because if self-referentiality is to be banished, the adjective ‘true’ must belong to another language. This new language is called the metalanguage and is abbreviated by the symbol ML (we assume that L is a corresponding language). The simplest and the most popular situation is that L is an object-language (used to speak about the world) and ML forms its metalanguage, suitable for speaking about L. Here is an example. Assume that German is our object-language, but English serves as the associate metalanguage. We write in L ‘Schnee ist weiss’, but in ML we write ‘The German sentence “Schnee ist weiss” means that snow is white’. We see that ML must contain resources for speaking about expressions belonging to L. In order to indicate that we are speaking about L-expressions, we use quotation marks, but many other devices can be employed. For instance, we can use italics and write that the sentence Schnee is weiss means that snow is white. The most important observation is that expressions like ‘Schnee ist weiss’ and Schnee ist weiss are (metalinguistic) names in ML of the corresponding German sentence that is in L. The standard way of capturing the reported distinction is to say that expressions are used in L, but mentioned in ML.
+The above conventions function as the part of STT. A simple example is
+(1) ‘Schnee ist weiss’ in German is true if and only if snow is white.
+The interaction of two languages in (1) consists in the fact that the name of the german sentence is on left, and its English translation is on the right. If the same language functions as both L and ML, one should speak about self-translation. According to the foregoing explanations we can generalize (1) into
+(TS) ‘A’ is true in L if and only A*,
+where the symbol A* refers to a translation of the sentences denoted by the name ‘A’. It is the general form of the T-scheme. (For additional discussion of the T-scheme, see the Liar Paradox.) Note that we cannot replace (TS) by
+(2) For any A, ‘A’ is true if and only if A,
+because the letter A is not free in the expression ‘A’. Quotes can be regarded as a name-forming operator. Anyway, concrete biconditionals (T-sentences, T-equivalences) arising from (TS) play the crucial role in STT. Roughly speaking, they capture the following intuition: a sentence saying so and so is true if so and so.
+All explanations given above are formulated in ordinary English. It is easy to see several inconveniences of this approach. For instance, we should multiply quotes, when we pass from using to mentioning, for instance to write ‘‘A’’, when ‘A’ is mentioned. To simplify the issue, we replace some occurrences of quotes by such expressions as ‘name’, ‘sentence’, and so forth. Also, the concept of translation as applied to ordinary languages is not precise. The most important thing is that ordinary languages contain their own metalanguages, that is they are (to use Tarski’s way of speaking), semantically closed. This circumstance causes semantic paradoxes; the Liar is only one of them, but we will not consider others.
+Tarski was very sceptical about the possibility of successfully providing a coherent truth-definition for ordinary language. Hence, he worked with a formal language. Such a language must have a well-defined alphabet (the set of elementary expressions), a well-defined set of formulas and a logical basis. If L is a formalized language, its ML is only partially formal, usually a part of ordinary mathematics. The following example illustrates the issue. Let ‘P(a)’ be the considered formula. It is an atomic formula of first-order language and says that a is P (the object a has a property P). The truth conditions of this sentence should be formulated by
+(3) ‘P(a)’ is true if and only if a is a member of the set P,
+where the non-italics letter P refers to the set that is denoted by the italicized predicate letter P. When (3) is expressed more formally in set theory, the binary relation “is a member of” is usually represented by the Greek letter epsilon, namely . In this example, the language of set theory serves as the metalanguage ML. To finish this part, note that Tarski liberalized his early negative attitude to ordinary speech. In his later works, he introduced the concept of languages having specified structure (see Tarski 1944). They are not semantically closed formalized languages, but are well-described by specification of their units, complex expression and the underlying logic.
+
+3. Informal Presentation of STT
+ 
+As noted earlier, Tarski considered the concept of satisfaction (more precisely, the satisfaction relation) as basic for defining truth. In particular, truth is to be defined as a special case of satisfaction. Assume that L is given – it is a first-order formal language. Open formulas are defined as containing free variables. By contrast, closed formulas have no free variables – for instance, P(a) or . Open formulas are satisfied or not, depending upon how the free variables are interpreted in a given domain D, but sentences are true or false. Take the formula ‘x is a city’. Let D consist of cities and rivers. Our formula is satisfied by London, but not by Thames (we assume that the name ‘Thames’ refers to the river Thames). Furthermore, the sentence ‘London is a city’ is true in D, but the sentence ‘Thames is a city’ is false in D. Roughly speaking, satisfaction converts open formulas into true sentences, but non-satisfaction into false ones. Moreover, these considerations show that an instance of the T-scheme, namely the equivalence ‘the sentence ‘London is a city’ is true if and only if London is a city’ correctly displays the main ordinary intuition associated with the predicate ‘is true’.
+The above explanations do not provide a definition of truth. Consider now two collections of ideas:
+(A) (General case): open formulas,
+satisfaction by some objects from D;
+non-satisfaction by some objects from D;
+(Special case): closed formulas (sentences), satisfaction by ?;
+non-satisfaction by ?
+Inspecting the formulas ‘x is a city’ and ‘London is a city’ leads to the conclusion that although satisfaction depends on valuation (valuation given by a valuation function consists in attributing denotations from D to expressions of L) of free variables, truth and falsehood do not. The reason is very simple and even trivial, namely that sentences have no free variables. Consequently, truth and falsehood should (even must) be independent of how the valuation function acts with respect to terms that are free variables. On the other hand, logical values are determined by valuations of constants (individual names, such as ‘London’) and predicates (such as ‘is a city’) as well as by the understanding of logical constants (propositional connectives, quantifiers and identity).
+The last observation motivates the following formulation of SDT assuming that the domain of interpretation D is fixed:
+(3) (a) ‘A’ is true if and only if ‘A’ is satisfied by any object in D;
+(b) ‘A’ is false if and only if ‘A’ is satisfied by no object in D.
+Using ‘London is a city’ as an example we have that this sentence is true if and only if it is satisfied by any object from D (this formulation will be commented upon below). Now, (A) can be corrected by dropping question-marks as
+(B) Open formulas: satisfaction by some objects from D, but not others;
+sentences: satisfaction by all objects from D (truth);
+open formulas: non-satisfaction by some objects from D;
+sentences: satisfaction by no objects from D (falsity).
+The formal version of (B) is formulated in the next section.
+The definition of sentences as open formulas without free variables looks at first sight like an artificial mathematical trick, but such constructions frequently occur in mathematical practice as useful simplifications. For example, the straight line can be considered as a special case of a curve, or Euclidean space as a special instance of Riemannian space, and so forth. Consequently, (B) can be charged with being a result of a purely formal game, completely alien to ordinary and philosophical intuitions. Tarski did not conceal that his explanations pertaining to truth employ mathematical concepts and techniques that are perhaps fairly obvious for practising mathematicians, but that are not convincing as tools of a reasonable philosophical analysis. This article does not do that. However, one can also try to argue that this definition fulfills some intuitive constraints. For instance, it entails that no sentence is true and false at the same time (the metalogical principle of contradiction). On the other hand, if A is an open formula, it is not the case that either A is satisfied or A is satisfied. The formulas P(x) and P(x) can serve as an example – both can be satisfied, for instance, ‘x is a city’ and ‘x is not a city’ can be satisfied though not by the same city. This example shows that generally speaking satisfaction of open formulas has some other properties than truth attributed to sentences, although, both concepts are related in many ways. By definition, every sentence is satisfied by all objects or by no object. Assume that the formula xP(x) is true and, thereby, satisfied by every object. Its negation, the formula xP(x), is satisfied by no object. This assertion implies the metalogical principle of the excluded middle. Thus, we reach (BI) (the principle of bivalence).
+Let us try to come up with a philosophical paraphrase of the statement that if truth and falsehood are independent of valuations of free variables, then having logical values by sentences depends on how things are in considered universes, in our example, in D. It is time to introduce (informally, but it suffices) the concept of model. Models are algebraic structures consisting of a universe U (that is, a set of objects; some items can be distinguished and named by special names – individual constants) and relations, defined on U (other elements of model are omitted). If X is a set of sentences and M is its model, then all sentences belonging to X are true in M. Perhaps we could say that if truth and falsehood are indeed free of such valuations, then whether sentences have definite logical values is how things are in a relevant model.
+Two additional remarks are in order. First, satisfaction by all objects cannot be regarded as equivalent to being a logical tautology. Satisfaction is always relative to a chosen (fixed) universe. In particular, all conclusions made in this section assume that the stock of predicates – such as ‘is a city’ is established in advance and its elements have a definite meaning that stems from a specific interpretation. If A is a logical tautology this means that A is true (now in the outlined sense) in all models Second, truth and falsehood relativizes truth (and falsehood) not only to L, but also to M. To sum up, SDT considers truth as relativized to an interpretation of L via M. In fact, SDT defines the set of true sentences in a given L. This literally means that the definition in question is extensional, that is, determines the scope of the predicate ‘is true’. However, taking into account that every definition of a given set X as a reference of a predicate P, directly or indirectly, deals with the content of P, SDT offers an understanding of the property expressed by P.
+To be satisfactory SDT must conform to so-called conditions of adequacy. More specifically, this definition must be (a) formally correct, and (b) materially correct Condition (a) means that the definition does not lead to paradoxes and it is not circular. These requirements involve the interplay of L and ML functioning as insurance against semantic inconsistencies. Moreover, SDT does not appeal to the concept of truth for ML. Condition (b) is formulated as the Convention T (CT, for brevity) stating that (a) a formally correct truth-definition should logically entail all instances of T-scheme available in L; (b) Tr L (the set of true sentences of L is a subset of the entire L). CT shows that the T-scheme is not a required T-definition. On the other hand, Tarski underlined that every particular T-sentence provides a partial definition of truth for a given sentence. One could possibly form the conjunction of all T-equivalences as the definition, but this formula would to be infinite in length (thus, this maneuver is limited to finite languages). Moreover, the T-scheme does not imply (BI).
+A standard objection against STT points out that it stratified the concept of truth. It is because we have the entire hierarchy of languages Lo (the object language), L1 ( = MLo), L2 (= ML1), L3 (M L2), …. Denote this hierarchy by the symbol HL. It is infinite and, moreover, there is no universal metalanguage allowing a truth-definition for the entire HL. Such a language would be semantically closed and, thereby, inconsistent. STT generates the hierarchy ‘truth in L0’, ‘truth in L1’ ‘truth in L2’, …, contrary to the ordinary use of ‘is true’ which is not stratified. Thus, SDT must be separately performed at every level of HL. Two observations are in order in this context. Firstly, we have that Tr(Ln)  Tr(Ln+1), for every n, due to the fact that every Ln is translated into its metalanguage Ln+1. Consequently, HL is cumulative, that is, Tr(Ln+1) includes all truths of Ln. Secondly, taking first-order logic as the foundation and the Hilbert thesis (every theory can be formalized in the first-order language), we define ‘true in the first order L’ in ML. This second language is partially informal. In fact, SDT for first-order languages requires tools from weak-second order logic (but it is too formal issue to be explained in this survey). Thus, the stratification objection (originally formulated for Tarski’s construction via a simple theory of types) can be easily discarded and we can stay with one concept of truth. The price is that the concept of truth cannot be used for sentences formulated in ML.
+4. Formal Presentation of STT
+The earlier explanations concerned the simplest case, namely satisfaction of monadic open formulas, that is, of the form P(x). What about the formula (a) ‘x is a larger city than y’, which expresses the relation of being a larger city? We can say that the sequence <London, Manchester> satisfies (a), but not the sequence <Manchester, London>. (This article assumes the reader knows logical notations and elementary set-theoretical concepts, particularly the concept of sequence.) Since formulas can have arbitrary length, we need a generalization of this procedure in order to have a uniform way of dealing with all cases. This was Tarski’s motivation for introducing the concept of satisfaction by means of infinite sequences of objects. Since formulas are of arbitrary but always finite length, infinite sequences have a sufficient number of members to cover the satisfaction of all possible cases of particular formulas. This intuition is articulated by
+(4) A is satisfied by an infinite sequence s = <s1, s2, s3,…>, where sn (n 1) refers to the nth term of s.
+The definition of satisfaction (SAT; the symbol I refers to an interpretation) is as follows (This article simplifies indexing, and it restricts terms to individual variables and individual constants; the knowledge of this logical notation is assumed):
+(5) (a) ‘Pj (t1, …., tk )’  SAT(s, I) ⇔ <ℑ (‘t1’), …, ℑ(‘tk’)>  Rj (=I(‘Pj’);
+(b) ‘A’  SAT(s, I) ⇔ ‘A’  SAT(s, I);
+(c) ‘A  B’  SAT(s, I) ⇔ ‘A’  SAT(s, I) and ‘B’  SAT(s,I);
+(d) ‘A  B’  SAT(s, I) ⇔ ‘A’  SAT(s, I) or ‘B’  SAT(s, I);
+(e) ‘A  ⇒ B’  SAT(s, I) ⇔ ‘A’  SAT(s, I) ‘B’  SAT(s, I);
+(f) ‘A  ⇔ B’  SAT(s, I) ⇔ ‘A ⇔ B’  SAT(s, I) and ‘B ⇒ A’  SAT(s, I);
+(g) ‘xiA(xi)’  SAT(s, I) ⇔ ‘A(xi)’  SAT(s’, I), for every sequence s’, which differs from the sequence s at most at the ith place;
+(h) ‘xiA(xi)’  SAT(s, I) ⇔ ‘A(xi)’  SAT(s’, I), for some sequence s’, which  differs from the sequence s at most at the ith place.
+The first clause establishes the satisfaction-conditions for atomic formulas that refer to relations (sets can be considered as one-placed relation). Conditions (b)–(f) repeat the semantic definitions of propositional connectives, (g) and (h) concern quantifiers and say that an (open) universal formula is satisfied by every sequence, but an existential formula by some sequence (‘differs at most at most ith place’ is a technical phrase to capture the intended meaning). The reference to an interpretation ℑ indicates its role in correlation of expressions and their references, for instance predicates and relations. Since I is always associated with a model M, the expression ‘A’  SAT(s, I) can be replaced by the phrase ‘A’  SAT(s, M) (a formula A is satisfied by a sequence s in a model M). If s is an infinite sequence and A has n free variables, only n terms of s are relevant to A’s being satisfied or not. Another formal possibility to define the satisfaction relation consists in introducing sequences of a sufficient finite length.
+What about sentences? Consider the example with London and Manchester. The formula (*) ‘x1 is a larger city than x2’ is satisfied by every ordered pair <s1, s2> such that s1 = I(x1) and s2 = I(x1) are cities, and s1 is larger than s2. In particular, the pair <London, Manchester> satisfies (3). Note that the sequence <s1, s2> can be enlarged by adding an arbitrary number of terms in order to have an infinite sequence <s1, s2, s3, …, sk, …>, but this operation is irrelevant to satisfaction or lack thereof. Informally speaking, if a sequence <s1, s2> satisfies (or not) the formula (*), the same applies to the sequence <s1, s2, s3, …, sk, …>, because the terms s1, s2 are the only one that are significant for the satisfaction business in question. Now substitute Manchester. That gives (**) ‘x1 is a larger city than Chicago’. This formula is satisfied by the sequence < s1> such that s1 = I(x1), is a city and s1 being larger than Chicago, in particular by the object <London>. Enlarging the sequence <London> by adding an arbitrary number of terms does not change the situation. Every sequence of the form <London, s2, s3, …, sk, …> satisfies the formula (**). Finally, consider (***) ‘London is a larger city than Manchester’, which is just a sentence, not an open formula. Since it has no free variables, its satisfaction does not depend on valuations of free variables. Hence, every infinite sequence of the form <s1, s2, s3, …, sk, …> satisfies (***). In other words, we can replace sk by an arbitrary object and this step has no relevance for the satisfaction of (***). It is satisfied, because London is a larger city than Manchester. Another way to the same result consists in using a theorem of first-order logic ‘if A is a sentence, xi A  ⇔ A’. Assume that a sequence s satisfies (***). By clause (5g), formula A is also satisfied by every sequence s’ which differs from s at most at the ith place. Since A has no free variables, the ith place can be arbitrarily chosen from terms of s’. This means, that every sequence satisfies A. This reasoning implies that if a sentence A is satisfied by at least one sequence, it is also satisfied by any other sequence. Conversely, if a sentence is not satisfied by at least one infinite sequence, it is also not satisfied by any other infinite sequence.
+Accordingly, the following statements are obtained
+(6) A sentence is satisfied by all sequences if and only if it is satisfied by at least one sequence.
+(7) A sentence is not satisfied by all sequences if and only if it is satisfied by no sequence.
+Both assertions lead to
+(8) If A is a sentence it is satisfied by all sequences or is satisfied by no sequence.
+(6) and (7) lead to the following definition:
+(SDT) (a) ‘A’ is true in M if and only if ‘A’ is satisfied by every infinite sequence of objects M (equivalently: by at least one such sequence);
+(b) ‘A’ is false in M if and only if ‘A’ is not satisfied by some infinite sequence of objects from M (or by no sequence).
+However, we can also prove that if a sentence is satisfied by any infinite sequence of objects (or by one such sequence), it is also satisfied by the empty sequence of objects. Thus, SDT can also be formulated by saying that the sentence A is true if and only if it is satisfied by the empty sequence of objects (the notion of the empty sentence is a generalization of the usual definition of sequence. This definition is model-theoretic and explicitly appeared in (Tarski, Vaught 1957). Tarski’s original treatment assumed that satisfaction and truth refer to the one domain in which expressions are interpreted. One can eventually say that the concept of model was implicitly involved in Tarski 1933.
+Let us look at the consequences of SDT in the above formulation. Since it assumes resources to meet (LP) and similar paradoxes, its consistency against semantic antinomies is guaranteed. Since SDT does not use the concept of truth, it is not circular. On the other hand, we must suppose that out metatheory (weak second-order arithmetic) is correct in an intuitive sense. According to Tarski, SDT is formulated in the morphology (syntax) of ML. Due to the understanding of logic around 1930, it covered set theory or the theory of logical types. Thus, Tarski was justified in his view that the correctness of metatheory is reduced to that of pure logic.
+Today, the situation is more complicated. One can say that SDT proceeds as a typical mathematical construction based on a portion of set theory. Although some philosophers – for instance, Husserl and his followers – will probably be dissatisfied by this situation vis-a-vis their claim that philosophical constructions have to be free of presuppositions, the defenders of SDT (and similar constructions) can reply that (a) conformity to mathematical practice is more important than established a priori metaphilosophical postulates, and that (b) an informal understanding of ML is inevitable for logical constructions pertaining to L. Since ML exceeds L in expressive means, we have also a good articulation of the claim that ML must be richer than L in order for truth for the latter to be defined in the latter. SDT satisfies CT and implies (BI).
+The set Tr(L) has various metamathematical properties. It is consistent, forms a deductive system, which is maximal (no sentence can be added without losing consistency), compact (Tr(L) is consistent if and only if its every finite subset is consistent) and syntactically complete (for any A, A   Tr(L) or A   Tr(L). On the other hand, sets of truths are not always finitarily axiomatizable, In other words, it is not so that for any Tr(L), there exists a finite set X   Tr(L), such that Cn(X) = Tr(L) (the symbol Cn refers to the consequence operation). SDT leads to a very elegant account of logical consequence (see Tarski 1936a). We say that the sentence A belong to the set of consequences of the set X if and only if every model of X is also a model of A. In symbols, A   CnX if and only for every M, if M is a model of X (every sentence from X is true in M), then A is true in M.
+STT, claiming that ‘is true in L’ is defined in ML, raises the question whether we can define truth inside L. The Tarski Undefinability Theorem (TUT) says that if a consistent theory T contains the arithmetic of natural numbers, the set of T-truths is not definable in T. In other words, the truth-predicate is not definable in languages sufficiently rich for expressing the arithmetic of natural numbers. So, TUT is a limitative theorem. Gödel’s first incompleteness theorem (GFT) is perhaps the most famous example of a limitative theorem. If states that if AR (the formal arithmetic of natural numbers) is consistent, it is also incomplete, that is, there are arithmetical sentences A and A, such that they are not provable in AR.
+The informal proof of GFT proceeds in the following way. Consider the sentence (i) ‘the sentence (i) is not provable’. If (i) is true, it is unprovable, but if it is false, it is unprovable as well, because logic cannot lead to false consequences (we tacitly assume that axioms of AR are true). Using the law of excluded middle, we obtain that there exists a true but unprovable theorem.
+The above reasoning is semantic. The formal proof of GFT is purely syntactic and uses arithmetization that is, translation of metamathematical concepts and theorems into the language of AR.
+Assume that STTL is a correct (consistent) truth-theory for L formulated in this language and that a formula A   L mentions itself and says ‘A does not define truth’. If A   Tr(L), truth is undefinable by A. Now, A is not a theorem of STTL, that is (STTL ├ A) (or A  Cn(STTL). This assertion is justified by the reductio argument. Assume that STTL ├ A. Hence, (A  Cn( STTL). Hence, A can be either false or independent of STTL. The first-case is impossible, because it would mean that STTL defines truth for L. Thus, the second possibility remains, namely that STTL does not define truth for L. Assume that A is false. This means that STTL defines truth of L. However, it is impossible, because A would be a false theorem of STTL, but we assumed that this theory is materially correct and so contains not falsehoods. Thus, we proved that STTL does not define the truth- predicate for L (the informal version of Tarski’ undefinability theorem (TUT)). A more technical version of this theorem says that there is no formula Tr(A)  LAR such that for any A  LAR, AR ├ A ⇔ Tr(‘A’). The proof of TUT in this formulation uses the fixed-point lemma (FPL), which says that if A(x)  LAR and A(x) has one free variable, then B   LAR (AR ├ B  ⇔ A(‘B’). The proof is remarkably brief. Assume that there is a formula mentioned in the first part of (TUT). By (FPL), there exists a sentence A such that AR ├ A  ⇔ T(‘L’). By our assumption, we obtain AR ├ T(L) ⇔ T(L), but it conflicts with consistency of AR.
+Formulations and proofs of GFT and TUT essentially appeal to self-referentiality. However, the former theorem does not demonstrate that the sentence ‘I am not provable’ is paradoxical, but only that it is independent of AR. The situation in the context of TUT is radically different. In particular, the second part of the informal proof of this theorem shows that adding the formula A (in the indicated meaning) results in the contradiction. The formal proof TUT via FPL confirms this assertion. In fact, FPL can be considered as a metalogical (metamathematical) pointing out of what is wrong with the Liar Paradox. This outcome is important because shows that paradoxes related to self-reference are not curiosities but that they have deep connections with general mathematical results. Finally, one should see a fundamental difference between GFT and TUT. Although both have similar informal formulations appealing to the concept of truth, the forms can be replaced by its syntactic version, the latter not. In the language of recursion, the set of provable sentences of AR is not recursive (a set is recursive if and only if it is computable; it implies that the complement of recursive set is recursive as well), but recursively enumerable (a set is recursively enumerable provided that it can be enumerated by natural numbers; it does not implies that is, complement can be enumerated as well), but the set of arithmetical truths does not fulfils the condition of recursive enumerability. Thus, semantic cannot be reduced to syntax. This fact is particularly important in metamathematics, because doing formal semantics for theories sufficient for expressing AR require infinitistic methods, but syntax of such systems is finitary.
+5. Philosophical Comments
+Tarski explicitly asserted that he considered STT as an answer to one of the central problems of epistemology. This claim motivates several philosophical comments about the truth-theory. However, we enter here risky territory, because philosophy is full of conflicts and polemics. Limiting attention to analytic philosophy, STT has (had) radical critics such as Otto Neurath and Hilary Putnam, radical defenders such as Rudolf Carnap and Karl Popper, sceptics maintaining that it is philosophically sterile, and an army of more or less followers trying to improve or reinterpret it such as Donald Davison, Hartry Field, Paul Horwich and Saul Kripke. At least three important contemporary philosophers radically changed their views under Tarski’s influence, namely Kazimierz Ajdukiewicz (who rejected radical conventionalism), Carnap (who changed his early view that logical syntax is the core of philosophy and defended semantics as the foundation of philosophical analysis) and Popper (who adopted scientific realism as the most proper philosophy of science).
+The above brief survey focused on positive as well as negative influences of Tarski’s ideas. Both indicate that STT is a contemporary philosophical tool, at least in the camp of analytic philosophy. (Continental philosophy is ignored here, although a longer treatment should also refer to this tradition.)
+Without pretence to completeness, here are the problems which should be touched upon by any philosophically reasonable truth-theory in philosophy. Being philosophically reasonably does not mean correct, but rather deserving attention in the world of philosophy).
+
+What are the bearers of truth?
+What are the initial intuitions associated with a given truth-definition?
+How to define truth, and what about the consequences of SDT?
+Is the division of truth-bearers stable, that is, do at least some truth-bearers sometimes change their truth-values (briefly: is truth relative or absolute)?
+What is a truth-criterion and what is the relationship between truth-criteria and truth-definition?
+What is the relation of a particular truth-theory to its rivals?
+How can a given truth-theory be defended against various objections?
+What is the relation of truth to other philosophical problems?
+
+So, there is much for a theory of truth to accomplish. This article tries to show how the STT of truth is related to these questions, or at least to some of them.
+(1) STT assumes that truth-bearers are sentences in the syntactic sense. Yet there are several more concrete possibilities. Sentences? Propositions? Statements? Judgments? These entities can be either linguistic units or objects expressed by linguistic utterances. By contrast, concepts are not truth-bearers, contrary to what Hegelians say. To have a convenient label, we can say that, according to STT, entities qualified as true or false are of the propositional syntactic category. This way of speaking has nothing to do with the question of the ontological nature of propositions, for instance, as abstract objects. Tarski himself chose meaningful sentences as entities on which truth is predicated.
+(2) Tarski always stressed that his definition follows the intuitions of Aristotle. Tarski was influenced by the Stagirite himself as well as his Polish teachers, particularly Tadeusz Kotarbiński. Tarski, like most Polish philosophers, uses the label ‘classical truth definition’ as referring to Aristotelian ideas. At the beginning, Tarski identified the classical and correspondence theory of truth, but later he expressed greater reservations with respect to explanations via expressions, such as “agreement” or “correspondence” than to Aristotle’s original formulation. It is not controversial that a T-equivalence says of a true sentence that it states how things are.
+What about SDT? We have two options, first, having some justifications in Tarski’s explanations that satisfaction by all sequences of objects is a mathematical trick, and, second, that the official definition corresponds to some ordinary intuitions. The second option is based on some facts, for instance, that SDT entails T-sentences and  BI. Anyway, SDT suggests that truth depends on the domain (model) and how it is. This definition does not appeal to terms such as ‘agreement’ (of a truth-bearer and the world, fact, state of affairs, and so forth.), ‘picturing of the world by minds, thought, and so forth.’, ‘structural similarity’, and so forth. One can propose to distinguish the strong correspondence theory, as in the famous formulation veritas est adequatio rei et intellectus, and the weak (semantic) correspondence. Presumably STT might be interpreted as a weak correspondence theory.
+(3) Tarski decided to define truth by a single formula (the definition satisfaction is recursive). He considered introducing truth by axioms, but he rejected this possibility for philosophical reasons. More specifically, he was afraid of being criticized by philosophers from the Vienna Circle for advocating physicalism (see Tarski 1936). This motivation is presently completely historical. Today, the axiomatization of the concept of truth is commonly applied.
+TUT has some intriguing consequences for philosophy. Assume what is natural and philosophically tempting, namely that the collection TRUTH of all truths is infinite. By TUT, TRUTH is not definable by resources conceptually available within it. The only admissible way out within set theory consists in considering TRUTH to be too big a set (Zermelo-Fraenkel system), a class as distinct from sets (Bernays-Gödel-von Neumann) or a category. All these outcomes are formally correct, but lead to not quite pleasant consequences, at least for philosophers who like to say something about the set of all truths. However, set theory and TUT seriously limit such theoretical ambitions. On the other hand, this fact gives a precise meaning for the assertion that truth is transcendental in the sense of the medieval theory of transcendentalia (verum omnia genera transcendit). 
+(4) The classical concept of truth is commonly considered as absolute, that is, if A is true then it is true eternally (for ever) and sempiternally (since ever). On the other hand, SDT indexes truth by L and M. Does this deprive truth of its absolute character? This question is connected with such issues as bivalence, logical determinism and many-valued logic. Without entering into details concerning this fairly complex stock of ideas, it might be suggested that one can model-theoretically prove that truth is eternal if and only if it is sempiternal. Thus, the classical theory of truth in the semantic setting can be considered as associated with the absolute concept of truth. Even if this conclusion encounters reservations, the possibility of analysing the absolutism/relativism controversy within the philosophical theory of truth via SDT is a remarkable fact.
+(5) Clearly, SDT is a-criterial. This means that the definition in question does not generate any truth-criterion, although it says what truth is. If mathematics is taken into account, proof can be regarded as a measure of truth. However, there arises a problem. Let the symbol Pr denote the provability operator. By the Löb theorem, we have PrA ⇒ A, a theorem very similar to TrA ⇒ A. But, due to the first incompleteness theorem, the formula A ⇒ PrA cannot be consistently added to the provability logic. Hence, there is no counterpart of the T-scheme with Pr instead Tr, that is, the scheme PrA  ⇔ A. So, we must conclude that proof is not a complete truth-criterion even in mathematics. This fact can motivate various ways out, for instance, modifying the concept of proof (every true mathematical assertion can be proved in a formal system; this assertion does not contradict the incompleteness theorem) or replacing truth by proof, eventually with additional constraints, for instance, that proofs must be constructive. However, such proposals are restricted to mathematics. Another suggestion is that truth-criteria consist of procedures which justify satisfaction of open formulas by some objects.
+(6) Tarski grew up in the tradition of division of truth-theories into the classical theory and so-called non-classical theories, namely the evidence theory (A is true if A is evident), the coherence theory (A is true if it can be embedded in a coherent system without destroying its coherence), the common agreement theory (A is true if specialists agree about its correctness) and the utilitarian theory (A is true if A is useful). The non-classical theories are criteria, because they appeal to procedures assuring that something is true. Tarski himself mentioned the last definition and the coherence account. In general, he considered non-classical theories as lacking precision and he did not discuss them as serious alternatives for STT.
+Another issue involving the relation between various truth-theories concerns substantial and minimalist accounts. The latter approach (the redundancy theory, the deflationary theory, and so forth.) reduces the truth-definition to the T-scheme. Under this view, STT is a minimalist theory. Tarski himself discussed this question. His counterexample was the sentence ‘All consequences of true sentences are true.’ It is not justified by the T-scheme, and it does not justify asserting that all consequences of true sentences are true. There are much more complicated examples, for instance, the sentence ‘There exist true but not provable sentences’, which looks not to be subject to a minimalist translation. If so, STT is essentially richer than any minimalist theory of truth.
+(7) Consider three objections stated by Franz Brentano against the classical theory, and consider trying to show that STT meets them successfully. First, the concept of correspondence is obscure and cannot be satisfactorily explained. More precisely, in order to establish what a truth-bearer corresponds to in reality, one must compare the former with the latter. But it is impossible, due to relata of such a comparison. However, this objection applies to the strong notion of correspondence, not to its weak form. The second objection is more serious. Assume that we define truth by a definition D. Yet D is a sentence. In order to have a good definition D must be true. Now, the definition is either circular (if it uses itself) or falls into the regressum ad infinitum, because in order to formulate D, we must appeal to D’ related to D, and so forth. Third, the concept of correspondence does not explain the truth of negative sentences. The answers to these objections depend on the relation of L to ML. These relations do not entail that SDT is circular or leads to an infinite regress. The problem of negative sentences has a simple solution in STT because they are true (or false) under the same definition as positive ones.
+(8) Tarski underlined that one can accept STT without being committed to strong ontological or epistemological views such as idealism or realism. In other words, STT is independent of such philosophical assumptions or consequences. Independently of Tarski’s intentions, it is easy to give an example of a philosophical problem closely related to STT, namely the semantic realism / semantic anti-realism debate. Generally speaking, (semantic) realists, such as Donald Davidson, use STT; but (semantic) anti-realists (such as Michael Dummett) reject this account of truth. This controversy concerns the mutual relation of the condition of truth and condition of assertibility. The realist says that the meaning of a sentence (MS) is given by its truth-conditions (TC), but the anti-realist says the meaning is given by assertibility-conditions (AC). Thus, we have two equalities:
+(i) MS = TC (realism);
+(ii) MS = AC (anti-realism).
+However, (i) and (ii) are still too vague. In fact, (i) and (ii) should be transformed into
+(iii) MS = TC  TC ⇒ AC;
+(iv) MS = AC  TC = AC.
+The antirealist says that truth-conditions exceed assertibility-conditions, but the antirealist identifies truth-conditions with the assertibility conditions. How does STT work here? It justifies (iii), but it refutes (iv). If, as many anti-realists claim, the conditions of assertibility are governed by intuitionistic logic, it does not generate sufficient and necessary conditions for asserting any mathematical sentence. The point is that the incompleteness theorem constructively holds for Heyting arithmetic (Peano arithmetic based on intuitionistic logic). If so, the anti-realist cannot say that there are true, but unprovable sentences; but the realist can by appealing to STT. As far as the issue concerns more general (that is, ontological and/or epistemological) forms of realism and anti-realism, some insights are provided by results about the full expressibility of semantics in syntax. The general philosophical problem considers the relation between the knowing subject and the object of knowledge. Following a modernized Ajdukiewicz’s proposal, the former is represented by syntax, that is, defines the subject inside language, but the latter can be identified with a model of this language. Since, due to TUT, models transcend languages or cannot be defined within them, the realists’ view on knowledge and reality, has some justification.
+6. Final Remarks
+STT employs logical tools throughout. Yet this theory is not a logical calculus in the sense in which propositional or predicate logic are. STT is metamathematical, and eventually axiomatic, if this approach is chosen. The status of T-equivalences provides a good illustration in this respect. They are neither logical tautologies nor material biconditionals. As consequences of SDT they have the status of mathematical theorems provable from axioms. This remark does not end the discussion about the character of T­-equivalences, but at least it outlines the direction which seems correct. Anyway, STT belongs to logic in a broad sense.
+The philosophical content of STT plays an important role in philosophy of language, logic and mathematics, at least in clarifying some issues. On the other hand, the belief that STT can ultimately solve various problems of these parts of philosophy would be exaggerated. This statement even more concerns epistemology and ontology. On the other hand, as this article documents, although philosophical uses of the semantic theory of truth are problematic, Tarski’s semantic ideas are not philosophically sterile.
+7. References and Further Reading
+The readings below include only general books on Tarski and his basic writings. Further bibliographical references are available in the books mentioned.
+
+Beeh, V., 2003, Die halbe Wahrheit. Tarskis Definition & Tarski’s Theorem, Paderborn, Mentis.
+Butler, M. K. ,2017, Deflationism and Semantic Theories of Truth, Manchester, Pendlebury Press.
+Casari, E.,2006, La matematica della verità. Strumenti matematici della semantica logica, Torino, Bollati.
+Cieśliński, C., 2017, The Epistemic Lightness of Truth. Deflationism and its Logic, Cambridge, Cambridge University Press.
+David, M.,1994, Correspondence and Disquotation. An Essays on the Nature of Truth. Oxford, Oxford University Press.
+De Fioro, C., 2013, La forma della verità. Logica e filosofia nell’opera di Alfred Tarski, Milano, Mimesis.
+Glanzberg, M., 2018, ed. The Oxford Handbook of Truth, Oxford, Oxford University Press.
+Gruber, M., 2016, Alfred Tarski and the “Concept of Truth in Formalized Languages. A Running Commentary with Consideration of the Polish Original and the German Translation, Dordrecht, Springer.
+Halbach,V., 2011, Axiomatic Truth Theories, Cambridge, Cambridge University Press.
+Horsten, L., 2011, The Tarskian Turn. Deflationism and Axiomatic Truth, Cambridge, Mass., The MIT Press, Cambridge, Mass.
+Kirkham, R. L., 1992, Theories of Truth. A Critical Introduction, Cambridge, Mass, The MIT Press.
+Künne, W., 2005, Conceptions of Truth, Oxford, Oxford University Press.
+Martin, R. L., 1984, ed., Recent Essays on Truth and the Liar Paradox, Oxford, Clarendon Press.
+Moreno, L. F., 1992, Wahrheit und Korrespondenz bei Tarski. Eine Untersuchung der Wahrheitstheorie Tarskis als Korrepondenztheorie der Wahrheit, Würzburg, Köningshausen & Neumann.
+Pantsar, M., 2009, Truth, Proof and Gödelian Arguments. A Defence of Tarskian Truth in Mathematics, Helsinki, University of Helsinki.
+Patterson, D., 2012, Alfred Tarski Philosophy of Language and Logic, Hampshire, Palgrave Macmillan.
+Patterson, D. 2008, ed., New Essays on Tarski and Philosophy, Oxford, Oxford University Press.
+Puntel, L. B.,1990, Grundlagen einer Thorie der Wahrheit, Berlin, de Gruyter.
+Rojszczak, A., 2005, From the Act of Judging to the Sentence. The Problem of Truth Bearers from Bolzano to Tarski, Dodrecht, Springer.
+Simons, P., 1992, Philosophy and Logic in Central Europe from Bolzano to Tarski. Selected Essays, The Hague, M. Nijhoff.
+Stegmüller, W., 1957, Das Wahrheitsbegriff und die Idee der Semantik, Springer, Wien.
+Tarski, A., 1933, Pojęcie prawdy w językach nauk dedukcyjnych, Warszawa, Towarzystwo Naukowe Warszawskie, Warszawa; Germ. tr. (with additions), Tarski 1935, Eng. tr. Tarski 1956a.
+Tarski, A., 1935, Der Wahrheitsbegriff in den formalisierten Sprachen, Studia Philosophica I (1935), pp. 53–198 [German tr. of Tarski 1933).
+Tarski, A. 1936, Grundlegung der wissenschaftlichen Semantik. In Actes du Congrès international de philosophie scientifique, Paris 1935, fasc. 3: Semantique, Paris, Herman, 1–14; Eng. tr. in Tarski 1956, p. 401–408.
+Tarski, A. 1936a, Über den Begriff der logischen Folgerung. In Actes du Congrès international de philosophie scientifique, Paris 1935, fasc. 7: Logique, Paris, Herman, p. 1–11; Eng. tr. in Tarski 1956, 409–420.
+Tarski, A. 1944, The Semantic Conception of Truth and the Foundations of Semantics., Philosophy and Phenomenological Research 4, 341-395; reprinted in Tarski 1 Collected Papers, v. 2, Birkhäuser, Basel, pp. 665¬–699.
+Tarski, A. 1956, Logic, Semantics, Metamathematics. Papers of 1923 to 1938, Oxford, Clarendon Press; 2nd ed., Hackett Publishing Company, Indianapolis,
+Tarski, A., 1956a, The Concept of Truth in Formalized Languages. In Tarski 1956, 152–278 [Eng. tr. of Tarski 1935].
+Tarski, A., 1969. Truth and Proof. L’age de la Science 1, 279–301; reprinted in Tarski 1986, v. 4, 399–422.
+Tarski, A., 1986, Collected Papers, v. 1–4, Basel, Birkhäuser.
+Tarski, A., Vaught, R., 1957, Arithmetical Extensions of Relational Systems. Compositio Mathematica, 13, 81–102; reprinted in Tarski 1986, v. 4, 651–682.
+Woleński, J., Köhler, E., 1999, eds., Alfred Tarski and the Vienna Circle. Austro-Polish Connections in Logical Empiricism, Dordrecht, Kluwer.
+
+Author Information
+Jan Woleński
+Email: jan.wolenski@uj.edu.pl
+University of Information Technology, Management and Technology
+Poland
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

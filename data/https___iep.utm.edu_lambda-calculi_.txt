@@ -1,0 +1,679 @@
+
+
+
+
+
+
+
+
+
+Lambda Calculi | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lambda Calculi
+
+
+Lambda calculi (λ-calculi) are formal systems describing functions and function application. One of them, the untyped version, is often referred to as the λ-calculus. This exposition will adopt this convention. At its core, the λ-calculus is a formal language with certain reduction rules intended to capture the notion of function application [Church, 1932, p. 352]. Through the primitive notion of function application, the λ-calculus also serves as a prototypical programming language. The philosophical significance of the calculus comes from the expressive power of a seemingly simple formal system. The λ-calculus is in fact a family of formal systems, all stemming from the same common root. The variety and expressiveness of these calculi yield results in formal logic, recursive function theory, the foundations of mathematics, and programming language theory. After a discussion of the history of the λ-calculus, we will explore the expressiveness of the untyped λ-calculus. Then we will investigate the role of the untyped lambda calculus in providing a negative answer to Hilbert’s Entscheidungsproblem and in forming the Church-Turing thesis. After this, we will take a brief foray into typed λ-calculi and discuss the Curry-Howard isomorphism, which provides a correspondence between these calculi (which again are prototypical programming languages) and systems of natural deduction.
+Table of Contents
+
+History
+
+Main Developments
+Notes
+
+
+The Untyped Lambda Calculus
+
+Syntax
+Substitution
+α-equivalence
+β-equivalence
+η-equivalence
+Notes
+
+
+Expressiveness
+
+Booleans
+Church Numerals
+Notes
+
+
+Philosophical Importance
+
+The Church-Turing Thesis
+An Answer to Hilbert’s Entscheidungsproblem
+Notes
+
+
+Types and Programming Languages
+
+Overview
+Notes
+
+
+References and Further Reading
+
+1. History
+a. Main Developments
+Alonzo Church first introduced the λ-calculus as “A set of postulates for the foundation of logic” in two papers of that title published in 1932 and 1933. Church believed that “the entities of formal logic are abstractions, invented because of their use in describing and systematizing facts of experience or observation, and their properties, determined in rough outline by this intended use, depend for their exact character on the arbitrary choice of the inventor” [Church, 1932, p. 348]. The intended use of the formal system Church developed was, as mentioned in the introduction, function application. Intuitively, the expression (later called a term) λx.x2 corresponds to an anonymous definition of the mathematical function f(x) = x2. An “anonymous definition” of a function refers to a function defined without a name; in the current case, instead of defining a function “f”, an anonymous definition corresponds to the mathematician’s style of defining a function as a mapping, such as “x ↦ x2”. Do note that the operation of squaring is not yet explicitly defined in the λ-calculus. Later, it will be shown how it can be. For our present purposes, the use of squaring is pedagogical. By limiting the use of free variables and the law of excluded middle in his system in certain ways, Church hoped to escape paradoxes of transfinite set theory [Church, 1932, p. 346–8]. The original formal system of 1932–1933 turned out, however, not to be consistent. In it, Church defined many symbols besides function definition and application: a two-place predicate for extensional equality, an existential quantifier, negation, conjunction, and the unique solution of a function. In 1935, Church’s students Kleene and Rosser, using this full range of symbols and Gödel’s method of representing the syntax of a language numerically so that a system can express statements about itself, proved that any formula is provable in Church’s original system. In 1935, Church isolated the portion of his formal system dealing solely with functions and proved the consistency of this system. One idiosyncratic feature of the system of 1935 was eliminated in Church’s 1936b paper, which introduced what is now known as the untyped λ-calculus. This 1936 paper also provides the first exposition of the Church-Turing thesis and a negative answer to Hilbert’s famous problem of determining whether a given formula in a formal system is provable. We will discuss these results later.
+b. Notes
+For a thorough history of the λ-calculus, including many modern developments, with a plethora of pointers to primary and secondary literature, see Cardone and Hindley [2006]. Church [1932] is very accessible and provides some insight into Church’s thinking about formal logic in general. Though the inconsistency proof of Kleene and Rosser [1935] is a formidable argument, the first page of their paper provides an overview of their proof strategy which should be comprehensible to anyone with some mathematical/logical background and rough understanding of the arithmetization of syntax á la Gödel. According to Barendregt [1997], Church originally intended to use the notation ˆx.x2. His original typesetter could not typeset this, and so moved the hat in front of the x, which another typesetter than read as λx.x2. In an unpublished letter, Church writes that he placed the hat in front, not a typesetter. According to Cardone and Hindley [2006, p. 7], Church later contradicted his earlier account, telling enquirers that he was in need of a symbol and just happened to pick λ.
+2. The Untyped Lambda Calculus
+At its most basic level, the λ-calculus is a formal system with a concrete syntax and distinct reduction rules. In order to proceed properly, we must define the alphabet and syntax of our language and then the rules for forming and manipulating well-formed formulas in this language. In the process of this exposition, formal definitions will be given along with informal description of the intuitive meaning behind the expressions.
+a. Syntax
+The language of the λ-calculus consists of the symbols (, ), λ and a countably infinite set of variables x, y, z, … We use upper-case variables M, N, … to refer to formulas of the λ-calculus. These are not symbols in the calculus itself, but rather convenient metalinguistic abbreviations. The terms (formulas, expressions; these three will be used interchangeably) of the calculus are defined inductively as follows:
+
+x is a term for any variable.
+If M, N are terms, then (MN) is a term.
+If x is a variable and M a term, then (λx.M) is a term.
+
+The latter two rules of term formation bear most of the meat. The second bullet corresponds to function application. The last bullet is called “abstraction” and corresponds to function definition. Intuitively, the notation λx.M corresponds to the mathematical notation of an anonymous function x ↦ M. As you can see from this language definition, everything is a function. The functions in this language can “return” other functions and accept other functions as their input. For this reason, they are often referred to as higher-order functions or first-class functions in programming language theory. We provide a few examples of λ terms before examining evaluation rules and the expressive power of this simple language.
+
+λx.x: this represents the identity function, which just returns its argument.
+λf.(λx.(fx)): this function takes in two arguments and applies the first to the second.
+λf.(λx.(f(xx)))(λx.(f(xx))): this term is called a “fixed-point combinator” and usually denoted by Y. We will discuss its importance later, but introduce it here to show how more complex terms can be built.
+
+Though I referred to the second term above as accepting two arguments, this is actually not the case. Every function in the λ-calculus takes only one argument as its input (as can be seen by a quick examination of the language definition). We will see later, however, that this does not in any way restrict us and that we can often think of nested abstractions as accepting multiple arguments. Before we proceed, a few notational conventions should be mentioned:
+
+We always drop the outermost parentheses. This was already adopted in the three examples above.
+Application associates to the left: (MNP) is shorthand for ((MN)P).
+Conversely, abstraction associates to the right: (λx.λy.M) is short for (λx.(λy.M))
+We can drop λs from repeated abstractions: λx.λy.M can be written λxy.M and similarly for any length sequence of abstractions.
+
+b. Substitution
+Because it will play a pivotal role in determining the equivalence between λ-terms, we must define a notion of variable substitution. This depends on the notion of free and bound variables, which we will define only informally. In a term λx.P, x is a bound variable, as are similarly bound variables in the subterm P; variables which are not bound are free. In other words, free variables are those that occur outside the scope of a λ abstraction on that variable. A term containing no free variables is called a combinator. We can then define the substitution of N for x in term M, denoted M[x := N], as follows:
+
+x[x := N] = N
+y[x := N] = y (provided that x is a variable different than y)
+(PQ)[x := N] = P[x := N]Q[x := N]
+(λx.P)[x := N] = λx.P
+(λy.P)[x := N] = λy.P[x := N] (provided that x is different than y and y is not free in N or x is not free in P)
+
+Intuitively, these substitution rules allow us to replace all the free occurrences of a variable (x) with any term (N). We cannot replace the bound occurrences of the variable (or allow for a variable to become bound by a substitution, as accounted for in the last rule) because that would change the “meaning” of the term. The scare quotes are included because the formal semantics of the λ-calculus falls beyond the scope of the present article.
+c. α-equivalence
+The α-equivalence relation, denoted ≡α, captures the idea that two terms are equivalent up to a change of bound variables. For instance, though I referred to λx.x as “the” identity function earlier, we also want to think of λy.y, λz.z, et cetera as identity functions. We can define α-equivalence formally as follows:
+
+x ≡α x
+MN ≡α PQ if M ≡α P and N ≡α Q
+λx.M ≡α λx.N (provided that M ≡α N)
+λx.M ≡α λy.M[x := y] (provided that y is not free in M)
+
+It will then follow as a theorem that ≡α is an equivalence relation. It should therefore be noted that what was defined earlier as a λ-term is in fact properly called a pre-term. Equipped with the notion of α-equivalence, we can then define a λ-term as the α-equivalence class of a pre-term. This allows us to say that λx.x and λy.y are in fact the same term since they are α-equivalent.
+d. β-equivalence
+β-reduction, denoted →β, is the principle rewriting rule in the λ-calculus. It captures the intuitive notion of function application. So, for instance, (λx.x)M →β M, which is what we would expect from an identity function. Formally, →β is the least relation of λ-terms satisfying:
+
+If M →β N then λx.M →β λx.N
+If M →β N then MZ →β NZ for any terms M, N, Z
+If M →β N then ZM →β ZN for any terms M, N, Z
+(λx.M)N →β M[x := N]
+
+The first three conditions define what’s referred to as a compatible relation. →β is then the least compatible relation of terms satisfying the fourth condition, which encodes the notion of function application as variable substitution. We will use the symbol ↠β to denote the iterated (zero or more times) application of →β and =β to denote the smallest equivalence relation containing →β. Two terms M and N are said to be convertible when M =αβ N (=αβ refers to the union of =α and =β). A term of the form (λx.M)N is called a β-redux (or just a redux) because it can be reduced to M[x := N]. A term M is said to be in β-normal form (henceforth referred to simply as normal form) iff there is no term N such that M →β N. That is to say that a term M is in normal form iff M contains no β-redexes. A term M is called normalizing (or weakly normalizing) iff there is an N in normal form such that M ↠β N. A term M is strongly normalizing if every β-reduction sequence starting with M is finite. A term which is not normalizing is called divergent. Regarding β-reduction as the execution of a program, this definition says that divergent programs never terminate since normal form terms correspond to terminated programs. Although we do not prove the result here, it is worth nothing that the untyped λ-calculus is neither normalizing nor strongly normalizing. For instance, Y as defined earlier does not normalize. The interested reader may try an exercise: show that Y →β Y1 →β Y2 →β Y3 →β …, where Yi ≠ Yj for all i ≠ j. Iterated β reduction allows us to express functions of multiple variables in a language that only has one-argument functions. Consider the example before of the term λf.λx.(fx). Letting F, X denote arbitrary terms, we can evaluate:
+
+
+
+(λf.(λx.(fx)))FX
+→β (λx.(fx)[f := F])X
+
+
+
+→β (Fx)[x := X]
+
+
+
+= FX
+
+
+
+This result is exactly what we expected. The process of treating a function of multiple arguments as iterated single-argument functions is generally referred to as Currying. Moreover, ↠β satisfies an important property known either as confluence or as the Church-Rosser property. For any term M, if M ↠β M1 and M ↠β M2, then there exists a term M3 such that M1 ↠β M3 and M2 ↠β M3. Although a proof of this statement requires machinery that lies beyond the scope of the present exposition, it is both an important property and one that is weaker than either normalization or strong normalization. In other words, although the untyped λ-calculus is neither normalizing nor strongly normalizing, it does satisfy the Church-Rosser property.
+e. η-equivalence
+Another common notion of reduction is →η which is the least compatible relation (i.e. a relation satisfying the first three items in the definition of →β) such that
+
+λx.Mx →η M (provided that x is not free in M)
+
+As before, =η is the least equivalence relation containing →η. The notion of η-equivalence captures the idea of extensionality, which can be broadly stated as the fact that two objects (of whatever kind) are equal if they share all their external properties, even if they may differ on internal properties. (The notion of external and internal properties used here is meant to be intuitive only.) η-equivalence is a kind of extensionality statement for the untyped λ-calculus because it states that any function is equal to the function which takes an argument and applies the original function to this argument. In other words, two functions are equivalent when they yield the same output on the same input. This assumption is an extensionality one because it ignores any differences in how the two functions compute that output.
+f. Notes
+In its original formulation, Church allowed abstraction to occur only over free variables in the body of the function. While this makes intuitive sense (i.e. the body of the function should depend on its input), the requirement does not change any properties of the calculus and has generally been dropped. Barendregt [1984] is the most thorough work on the untyped λ-calculus. It is also very formal and potentially impenetrable to a new reader. Introductions with learning curves that are not quite as steep include Hindley and Seldin [2008] and Hankin [2004]. The first chapter of Sørensen and Urzyczyn [2006] contains a quick, concise tour through the material, with some intuitive motivation. Other less formal expositions include the entry on Wikipedia and assorted unpublished lecture notes to be found on the web. Not every aspect of the untyped λ-calculus was covered in this section. Moreover, notions such as η-equivalence and the Church-Rosser property were introduced only briefly. These are important philosophically. For more discussion and elaboration on the important technical results, the interested reader can learn more from the above cited sources. We also omit any discussion of the formal semantics of the untyped λ-calculus, originally developed in the 1960s by Dana Scott and Christopher Strachey. Again, Barendregt’s book contains a formal exposition of this material and extensive pointers to further reading on it.
+3. Expressiveness
+Though the language and reduction rules of the untyped λ-calculus may at first glance appear somewhat limiting, we will see in this section how expressive the calculus can be. Because everything is a function, our general strategy will be to define some particular terms to represent common objects like booleans and numbers and then show that certain other terms properly codify functions of booleans and numbers in the sense that they β reduce as one would expect. Instead, however, of continuing these general remarks, the methodology will be used in the particular cases of booleans and natural numbers. Throughout this exposition, bold face will be used to name particular terms.
+a. Booleans
+We first introduce the basic definitions:
+
+
+
+true
+= λxy.x
+
+
+false
+= λxy.y
+
+
+
+In other words, true is a function of two arguments which returns its first argument and false is one which returns the second argument. To see how these two basic definitions can be used to encode the behavior of the booleans, we first introduce the following definition:
+
+
+
+ifthenelse
+= λxyz.xyz
+
+
+
+The statement ifthenelse PQR should be read as “if P then Q else R”. It should also be noted that ifthenelse PQR ↠β PQR; often times, only this reduct is presented as standing for the linguistic expression quoted above. Note that ifthenelse actually captures the desired notion. When P = true, we have that
+
+
+
+ifthenelse true QR
+↠β true QR
+
+
+
+= (λxy.x)QR
+
+
+
+→β (λy.Q)R
+
+
+
+→β Q
+
+
+
+An identical argument will show that ifthenelse false QR ↠β R. The above considerations will also hold for any P such that P ↠β true or P ↠β false. We will now show how a particular boolean connective (and) can be encoded in the λ-calculus and then list some further examples, leaving it to the reader to verify their correctness. We define
+
+
+
+and
+= λpq.pqp
+
+
+
+To see this definition’s adequacy, we can manually check the four possible truth-values of the “propositional variables” p and q. Although any λ-term can serve as an argument for a boolean function, these functions encode the truth tables of the connectives in the sense that they behave as one would expect when acting on boolean expressions.
+
+
+
+and true true
+= (λpq.pqp)(λxy.x)(λxy.x)
+
+
+
+→β (λq.pqp)[p := (λxy.x)](λxy.x)
+
+
+
+= (λq.((λxy.x)q(λxy.x)))(λxy.x)
+
+
+
+→β ((λxy.x)q(λxy.x))[q := λxy.x]
+
+
+
+= (λxy.x)(λxy.x)(λxy.x)
+
+
+
+↠β λxy.x
+
+
+
+= true
+
+
+
+Similarly, we see that
+
+
+
+and true false
+= (λpq.pqp)(λxy.x)(λxy.y)
+
+
+
+→β (λq.pqp)[p := (λxy.x)](λxy.y)
+
+
+
+= (λq.((λxy.x)q(λxy.x)))(λxy.y)
+
+
+
+→β (λxy.x) (λxy.y)(λxy.x)
+
+
+
+↠β λxy.y
+
+
+
+= false
+
+
+
+We leave it to the reader to verify that and false true ↠β false and that and false false ↠β false. Together, these results imply that our definition of and encodes the truth table for “and” just as we would expect it to do. The following list of connectives similarly encode their respective truth tables. Because we think it fruitful for the reader to work out the details to gain a fuller understanding, we simply list these without examples:
+
+
+
+or
+= λpq.ppq
+
+
+not
+= λpxy.pyx
+
+
+xor
+= λpq.p(q false true)q
+
+
+
+b. Church Numerals
+At the very end of his 1933 paper, Church introduced an encoding for numbers in the untyped λ-calculus that allows arithmetic to be carried out in this purely functional setting. Because the ramifications were not fully explored until his 1936 paper, we hold off on discussion of the import of this encoding and focus here on an exposition of the ability of the λ-calculus to compute functions of natural numbers. The numerals are defined as follows:
+
+
+
+1
+= λab.ab
+
+
+2
+= λab.a(ab)
+
+
+3
+= λab.a(a(ab))
+
+
+
+⁝
+
+
+
+Successor, addition, multiplication, predecessor, and subtraction can also be defined as follows:
+
+
+
+succ
+= λnab.a(nab)
+
+
+plus
+= λmnab.ma(nab)
+
+
+mult
+= λmna.n(ma)
+
+
+pred
+= λnab.n(λgh.h(ga))(λu.b)(λu.u)
+
+
+minus
+= λmn.(n pred)m
+
+
+
+As in the case of the booleans, an example of using the successor and addition functions will help show how these definitions functionally capture arithmetic.
+
+
+
+succ 1
+= (λnab.a(nab))(λab.ab)
+
+
+
+→β (λab.a(nab))[n := (λab.ab)]
+
+
+
+= λab.a((λab.ab)ab)
+
+
+(λab.ab)ab
+→β ((λb.ab)[a := a])b
+
+
+
+= (λb.ab)b
+
+
+
+→β ab
+
+
+λab.a((λab.ab)ab)
+→β λab.a(ab)
+
+
+
+= 2
+
+
+
+Similarly, an example of addition:
+
+
+
+plus 1 2
+= (λmnab.ma(nab))(λab.ab)(λab.a(ab))
+
+
+(λmnab.ma(nab)) 1 2
+→β ((λnab.ma(nab))[m := λab.ab])2
+
+
+
+= (λnab.(λab.ab)a(nab))2
+
+
+
+→β (λab.(λab.ab)a(nab))[n := λab.a(ab)]
+
+
+
+= λab.(λab.ab)a((λab.a(ab))ab)
+
+
+(λab.ab)a
+→β λb.ab
+
+
+(λab.a(ab))ab
+→β (λb.a(ab))b
+
+
+
+→β a(ab)
+
+
+λab.1a(2ab)
+→β λab.a(a(ab))
+
+
+
+= 3
+
+
+
+Seeing as how these examples capture the appropriate function on natural numbers in terms of Church numerals, we can introduce the notion of λ-definability in the way that Church did in 1936. A function f of one natural number is said to be λ-definable if it is possible to find a term f such that if f(m) = r, then fm ↠β r, where m and r are the Church numerals of m and r. The arithmetical functions defined above clearly fit this description. The astute reader may have anticipated the result, proved in Kleene [1936], that the λ-definable functions coincide exactly with partial recursive functions. This quite remarkable result encapsulates the arithmetical expressiveness of the untyped λ-calculus completely. While the import of the result will be discussed in section 4, I will briefly discuss how fixed-point combinators allow recursive functions to be encoded in the λ-calculus. Recall that a combinator is a term with no free variables. A combinator M is called a fixed-point combinator if for every term N, we have that MN =β N(MN). In particular, Y as defined before, is a fixed point combinator, since
+
+
+
+YF
+≡ (λf. (λx.f(xx))(λx.f(xx)))F
+
+
+
+→β (λx.F(xx))(λx.F(xx))
+
+
+
+→β F(xx)[x := λx.F(xx)]
+
+
+
+≡ F((λx.F(xx))(λx.F(xx)))
+
+
+
+=β F(YF)
+
+
+
+Although the technical development of the result lies outside the scope of the present exposition, one must note that fixed-point combinators allow the minimization operator to be defined in the λ-calculus. Therefore, all (partial) recursive functions on natural numbers—not just the primitive recursive ones (which are a proper subset of the partial recursive functions)—can be encoded in the λ-calculus.
+c. Notes
+In the exposition of booleans, connectives such as and, or, et cetera, were given in a very general formulation. They can also be defined more concretely in terms of true and false in a manner that may be closer to capturing their truth tables. For instance, one may define and = λpq.p(q true false) false and verify that it also captures the truth table properly even though it does not directly β-reduce to the definition presented above. In the 1933 paper, Church defined plus, mult, and minus somewhat differently than presented here. This original exposition used some of the idiosyncrasies of the early version of the λ-calculus that were dropped by the time of the 1936 paper. The predecessor function was originally defined by Kleene, in a story which will be discussed in section 4. In addition to the original Kleene paper, more modern expositions of the result that the partial recursive functions are co-extensive with the λ-definable functions can be found in Sørensen and Urzyczyn [2006, pp. 20–22] and Barendregt [1984, pp. 135–139], among others.
+4. Philosophical Importance
+The expressiveness of the λ-calculus has allowed it to play a critical role in debates at the foundations of mathematics, logic and programming languages. At the end of the introduction to his 1936 paper, Church writes that “The purpose of the present paper is to propose a definition of effective calculability which is thought to correspond satisfactorily to the somewhat vague intuitive notion in terms of which problems of this class are often stated, and to show, by means of an example, that not every problem of this class is solvable.” The first subsection below will explore the definition of effective calculability in terms of λ-definability. We will then explore the second purpose of the 1936 paper, namely that of proving a negative answer to Hilbert’s Entscheidungsproblem. In the course of both of these expositions, connections will be made with the work of other influential logicians (Gödel and Turing) of the time. Finally, we will conclude with a brief foray into more modern developments in typed λ-calculi and the correspondence between them and logical proofs, a correspondence often referred to as “proofs-as-programs” for reasons that will become clear.
+a. The Church-Turing Thesis
+In his 1936 paper, in a section entitled “The notion of effective calculability”, Church writes that “We now define the notion, already discussed, of an effectively calculable function of positive integers by identifying it with the notion of a recursive function of positive integers (or a λ-definable function of positive integers)” [Church, 1936b, p. 356, emphasis in original]. The most striking feature of this definition, which will be discussed in more depth in what follows, is that it defines an intuitive notion (effective calculability) with a formal notion. In this sense, some regard the thesis as more of an unverifiable hypothesis than a definition. In what follows, we will consider, in addition to the development of alternative formulations of the thesis, what qualifies as evidence in support of this thesis. In the preceding parts of Church’s paper, he claims to have shown that for any λ-definable function, there exists an algorithm for calculating its values. The idea of an algorithm existing to calculate the values of a function (F) plays a pivotal role in Church’s thesis. Church argues that an effectively calculable function of one natural number must have an algorithm, consisting in a series of expressions (“steps” in the algorithm) that lead to the calculated result. Then, because each of these expressions can be represented as a natural number using Gödel’s methodology, the functions that act on them to calculate F will be recursive and therefore F will be as well. In short, a function which has an algorithm that calculates its values will be effectively calculable and any effectively calculable function of one natural number has such an algorithm. Furthermore, if such an algorithm exists, it will be λ-definable (via the formal result that all recursive functions are λ-definable). Church offers a second notion of effective calculability in terms of provability within an arbitrary logical system. Because he can show that this notion also coincides with recursiveness, he concludes that “no more general definition of effective calculability than that proposed above can be obtained by either of the two methods which naturally suggest themselves” [Church, 1936b, p. 358]. The history of this particular version of the thesis has no clear story. Kleene allegedly realized how to define the predecessor function (as given in the previous section: Kleene had earlier defined the predecessor function using an encoding of numerals different from those of Church) while at the dentist for the removal of two wisdom teeth. For a first-hand account, see Crossley [1975, pp. 4–5]. According to Barendregt [1997, p. 186]:
+After Kleene showed the solution to his teacher, Church remarked something like: “But then all intuitively computable functions must be lambda definable. In fact, lambda definability must coincide with intuitive computability.” Many years later—it was at the occasion of Robin Gandy’s 70th birthday, I believe—I heard Kleene say: “I would like to be able to say that, at the moment of discovering how to lambda define the predecessor function, I got the idea of Church’s Thesis. But I did not, Church did.”
+Alan Turing, in his groundbreaking paper also published in 1936, developed the notion of computable numbers in terms of his computing machines. While Turing believes that any definition of an intuitive notion will be “rather unsatisfactory mathematically,” he frames the question in terms of computation as opposed to effective calculability: “The real question at issue is ‘what are the possible processes which can be carried out in computing a number?’ ” [Turing, 1937a, p. 249] By analyzing the way that a computer—in fact, an idealized human computer—would use a piece of paper to carry out this process of computing a number, which he reduces to observing a finite number of squares on a one-dimensional paper and changing one of the squares or another within a small distance of the currently observed squares, Turing shows how this intuitive notion of computing can be captured by one of his machines. Thus, he claims to have captured the intuitive notion of computability with computability by Turing machines. In the appendix of this paper added later, Turing also offers a sketch of a proof that λ-definability and his computability capture the same class of functions. In a subsequent paper, he also suggests that “The identification of ‘effectively calculable’ functions with computable functions is possibly more convincing than an identification with the λ-definable or general recursive functions” [Turing, 1937b, p. 153]. While Turing may believe that his machines are closer to the intuitive notion of calculating a number, the fact that the three classes of functions are identical means they can be used interchangeably. This fact has often been considered to count as evidence that these formalisms do in fact capture an intuitive notion of calculability. Because Turing’s analysis of the notion of computability often makes reference to a human computer, with squares on paper referred to as “states of mind”, the Church-Turing thesis, along with Turing’s result that there is a universal machine which can compute any function that any Turing machine can, has often been interpreted, in conjunction with the computational theory of mind, as having profound results on the limits of human thought. For a detailed analysis of many misinterpretations of the thesis and what it does imply in the context of the nature of mind, see Copeland [2010].
+b. An Answer to Hilbert’s Entscheidungsproblem
+In a famous lecture addressed at the meeting of the International Congress of Mathematicians in 1900, David Hilbert proposed 23 problems in need of solution. The second of these was to give a proof of the consistency of analysis without reducing it to a consistency proof of another system. Though much of Hilbert’s thought and the particular phrasing of this problem changed over the ensuing 30 years, the challenge to prove the consistency of certain formal systems remained. At a 1928 conference, Hilbert posed three problems that continued his general program. The third of these problems was the Entscheidungsproblem in the sense that Church used the term: “By the Entscheidungsproblem of a system of symbolic logic is here understood the problem to find an effective method by which, given any expression Q in the notation of the system, it can be determined whether or not Q is provable in the system” [Church, 1936a, p. 41]. In 1936b, Church used the λ-calculus to prove a negative solution to this problem for a wide/natural/interesting class of formal systems. The technical result proved in this paper is that it is undecidable, given two λ-terms A and B whether A is convertible into B. Church argues that any system of logic that is strong enough to express a certain amount of arithmetic will be able to express the formula ψ(a, b), which encodes that a and b are the Gödel numbers of A and B such that A is convertible into B. If the system of logic satisfied the Entscheidungsproblem, then it would be decidable for every a, b whether ψ(a, b) is provable; but this would provide a way to decide whether A is convertible into B for any terms A and B, contradicting Church’s already proven result that this problem is not decidable. Given that we have just seen the equivalence between Turing machine computability and λ-definability, it should come as no surprise that Turing also provided a negative solution to the Entscheidungsproblem. Turing proceeds by defining a formula of one variable which takes as input the complete description of a Turing machine and is provable if and only if the machine input ever halts. Therefore, if the Entscheidungsproblem can be solved, then it provides a method for proving whether or not a given machine halts. But Turing had shown earlier that this halting problem cannot be solved. These two results, in light of the Church-Turing Thesis, imply that there are functions of natural numbers that are not effectively calculable/computable. It remains open, however, whether there are computing machines or physical processes that elude the limitations of Turing computability (equivalently, λ-definability) and whether or not the human brain may embody one such process. For a thorough discussion of computation in physical systems and the resulting implications for philosophy of mind, see Piccinini [2007].
+c. Notes
+Kleene [1952] offers (in chapters 12 and 13) a detailed account of the development of the Church-Turing thesis from a figure who was central to the logical developments involved. Turing’s strategy of reducing the Entscheudingsproblem to the halting problem has been adopted by many researchers tackling other problems. Kleene [1952] also discusses Turing computability. The halting problem, as outlined above, however, takes an arbitrary machine and an arbitrary input. There are, of course, particular machines and particular inputs for which it can be decided whether the machine halts on that input.  For instance, every finite-state automaton halts on every input.
+5. Types and Programming Languages
+a. Overview
+In 1940, Church gave a “formulation of the simple theory of types which incorporates certain features of λ-conversion” [Church, 1940, p. 56]. Though the history of simple types extends beyond the scope of this paper and Church’s original formulation extended beyond the syntax of the untyped λ-calculus (in a way somewhat similar to the original, inconsistent formulation), one can intuitively think of types as syntactic decorations that restrict the formation of terms so that functions may only be applied to appropriate arguments. In informal mathematics, a function f : ℕ → ℕ cannot be applied to a fraction. We now define a set of types and a new notion of term that incorporates this idea. We have a set of base types, say σ1, σ2. (In Church’s formulation, ι and o were the only base types. In many programming languages, base types include things such as nat, bool, etc. This set can be countably infinite for the purposes of proof although no programming language could implement such a type system.) For any types α, β, then α → β is also a type. (Church used the notation (βα), but the arrow is used in most modern expositions because it captures the intuition of a function type better.) In what follows, σ, τ and any other lower-case Greek letters will range over types. We will write either e : τ or eτ to indicate that term e is of type τ. The simply typed terms can then be defined as follows:
+
+xβ is a term.
+If xβ is a variable and Mα is a term, then (λxβ.Mα)β→α is a term.
+If Mα→β and Nα are terms, then (MN)β is a term.
+
+While the first two rules can be seen as simply adding “syntactic decoration” to the original untyped terms, this third rule captures the idea of only applying functions to proper input. It can be read as saying: If M is a function from α to β and N is an α, then MN is a β. This formal system does not permit other application terms to be formed. One must note that this simply-typed λ-calculus is strongly normalizing, meaning that any well-typed term has a finite reduction sequence. It has been mentioned that λ-calculi are prototypical programming languages. We can then think of typed λ-calculi as being typed programming languages. Seen in this light, the strongly normalizing property states that one cannot write a non-terminating program. For instance, the term Y in the untyped λ-calculus has no simply-typed equivalent. Clearly, then, this is a somewhat restrictive language. Because of this property and the results in the preceding section, it follows that the simply-typed λ-calculus is not Turing complete, i.e. there are λ-definable functions which are not definable in the simply-typed version. Taking this analogy with programming languages literally, we can interpret a family of results collectively known as the Curry-Howard correspondence as providing a “proofs-as-programs” metaphor. (The correspondence is sometimes referred to as Curry-Howard-Lambek due to Lambek’s work in expressing both the λ-calculus and natural deduction in a category-theoretic setting.) In the case of the simply-typed λ-calculus, the correspondence is between the λ-calculus and the implicational fragment of intuitionistic natural deduction. One can readily see that simple types correspond directly to propositions in this fragment of propositional logic (modulo a translation of base types to propositional variables). The correspondence then states that a proposition is provable if and only if there is a λ-term with the type of the proposition. The term then corresponds to a proof of the proposition. In the simply-typed case, the correspondence can be fleshed out as:
+
+
+
+
+λ-calculus
+propositional logic
+
+
+type
+proposition
+
+
+term
+proof
+
+
+abstraction
+arrow introduction
+
+
+application
+modus ponens
+
+
+variables
+assumptions
+
+
+
+Table 1. Curry-Howard in the simply-typed λ-calculus.
+For example, consider the intuitionistic tautology p → ¬¬p, where ¬p =df p → ⊥. While a full exposition of natural deduction for intuitionistic propositional logic lies beyond the present scope, observe that we have the following proof of p → ¬¬p = p → ((p → ⊥) → ⊥):
+   p, p → ⊥ ⊢ p → ⊥         p, p → ⊥ ⊢ p         p, p → ⊥ ⊢ ⊥           p ⊢ (p → ⊥) → ⊥      ⊢ p → ((p → ⊥) → ⊥)
+We can then follow this proof in order to construct a corresponding term in the simply-typed λ-calculus as follows:
+   xp, yp→⊥ ⊢ yp→⊥         xp, yp→⊥ ⊢ xp         xp, yp→⊥ ⊢ yx⊥           xp ⊢ (λyp→⊥.yx⊥)(p→⊥)→⊥      ⊢ (λxp.λyp→⊥.yx⊥)p→((p→⊥)→⊥)
+As was mentioned, the Curry-Howard correspondence is not one correspondence, but rather a family. The main idea is that terms correspond to proofs of their type. In the way that we can extend logics beyond the implicational fragment of intuitionistic propositional logic to include things like connectives, negation, quantifiers, and higher-order logic, so too can we extend the syntax and type systems of λ-calculus. There are thus many variations of the proofs-as-programs correspondence. See the following notes section for many sources exploring the development of more complex correspondences. That programs represent proofs is more than an intellectual delight: it is the correspondence on which software verifiers and automated mathematical theorem provers (such as Automath, HOL, Isabelle, and Coq) are based. These tools both verify and help users generate proofs and have in fact been used to develop proofs of unproven conjectures.
+b. Notes
+For a thorough exposition of typed λ-calculi, starting with simple types and progressing through all faces of the “λ-cube”, see Barendregt [1992]. Sørensen and Urzyczyn [2006] explores the Curry-Howard correspondence between many different forms of logic and the corresponding type systems. Pierce [2002] focuses on the λ-calculus and its relation to programming languages, thoroughly developing calculi from the simple to the very complex, along with type checking and operational semantics for each.
+6. References and Further Reading
+
+Barendregt, Henk. 1984. The Lambda Calculus: Its Syntax and Semantics. Elsevier Science, Amsterdam.
+Barendregt, Henk. 1992. Lambda Calculi with Types. Oxford University Press, Oxford.
+Barendregt, Henk. 1997. “The Impact of the Lambda Calculus in Logic and Computer Science.” The Bulletin of Symbolic Logic 3(2):181–215.
+Cardone, Felice and J. R. Hindley. 2006. Handbook of the History of Logic, eds., D. M. Gabbay and J. Woods, vol. 5., History of Lambda-Calculus and Combinatory Logic, Elsevier.
+Church, Alonzo. 1932. “A Set of Postulates for the Foundation of Logic (Part I).” Annals of Mathematics, 33(2):346–366.
+Church, Alonzo. 1933. “A Set of Postulates for the Foundation of Logic (Part II).” Annals of Mathematics, 34(4):839–864.
+Church, Alonzo. 1935. “A Proof of Freedom from Contradiction.” Proceedings of the National Academy of Sciences of the United States of America, 21(5):275–281.
+Church, Alonzo. 1936a. “A Note on the Entscheidungsproblem.” Journal of Symbolic Logic, 1(1):40–41.
+Church, Alonzo. 1936b. “An Unsolvable Problem of Elementary Number Theory.” American Journal of Mathematics, 58(2):345–363, 1936b.
+Church, Alonzo. 1940. “A Formulation of the Simple Theory of Types.” Journal of Symbolic Logic, 5(2):56–68.
+Church, Alonzo. 1941. The Calculi of Lambda Conversion. Princeton University Press, Princeton, NJ.
+Copeland, B. Jack. 2010. “The Church-Turing Thesis.” Stanford Encyclopedia of Philosophy.
+Crossley, J. N. 1975. “Reminiscences of Logicians.” Algebra and Logic: Papers from the 1974 Summer Research Institute of the Australian Mathematical Society, Monash University, Australia, Lecture Notes in Mathematics, vol. 450, Springer, Berlin.
+Hankin, Chris. 2004. An Introduction to Lambda Calculi for Computer Scientists. College Publications.
+Hindley, J. Roger and Jonathan P. Seldin. 2008. Lambda-Calculus and Combinators: An Introduction. Cambridge University Press, Cambridge.
+Kleene, S. C. 1936. “λ-definability and Recursiveness.” Duke Mathematical Journal, 2(2):340–353.
+Kleene, S. C. 1952. Introduction to Metamathematics. D. van Norstrand, New York.
+Kleene, S. C. and J. B. Rosser. 1935. “The Inconsistency of Certain Formal Logics.” Annals of Mathematics, 36(3):630–636.
+Piccinini, Gualtiero. 2007. “Computational Modelling vs. Computational Explanation: Is Everything a Turing Machine, and Does It Matter to the Philosophy of Mind?” Australasian Journal of Philosophy, 85(1):93–115.
+Pierce, Benjamin C. 2002. Types and Programming Languages. MIT Press, Cambridge.
+Sørensen, M. H. and P. Urzyczyn. 2006. Lectures on the Curry-Howard Isomorphism. Elsevier Science, Oxford.
+Turing, Alan M. 1937a. “On Computable Numbers, with an Application to the Entscheidungsproblem.” Proceedings of the London Mathematical Society, 42(2):230–265.
+Turing, Alan M. 1937b. “Computability and λ-Definability.” Journal of Symbolic Logic, 2(4): 153–163.
+
+Author Information
+Shane Steinert-Threlkeld
+Email: shanest@stanford.edu
+Stanford University
+U. S. A. 
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

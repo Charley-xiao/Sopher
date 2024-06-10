@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+Geometrical Method | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Geometrical Method
+The Geometrical Method is the style of proof (also called “demonstration”) that was used in Euclid’s proofs in geometry, and that was used in philosophy in Spinoza’s proofs in his Ethics. The term appeared first in 16th century Europe when mathematics was on an upswing due to the new science of mechanics. Before that, geometry had been taught as a merely theoretical discipline without being connected to natural philosophy. In contrast, natural philosophy had been based on observation, experiment, and speculation, not at all on mathematics. Galileo, though, saw the connection; he envisioned nature as a book written in mathematical signs and thus he emphasized the study of mathematics to understand nature. His initial quest for the mathematization of nature was continued by Descartes. Descartes asked for the cultivation of a new sort of geometry that would no longer be a mere abstract enterprise but could explain the phenomena of nature.
+Although the use of the Geometrical Method and of mathematization more broadly became the success story of modern sciences, it faced resistance from those who believed its use led to the disenchantment of the world and the vanishing of miracles. The opponents often accused modern philosophers of haughtiness if they applied the Geometrical Method. Galileo was blamed for claiming an equality between human knowledge and God’s knowledge, at least in geometrical things. Galileo had stated that whatever we humans could demonstrate geometrically could not be known any better by God because it was necessarily true. Moreover, the constraint of geometrical demonstrations, extended to real things in nature and society, even to human beings, opened questions about the freedom of the human will, stirring up philosophical and theological debates, lasting to some extent even into our own days.
+Table of Contents
+
+The Geometrical Method
+The Essential Significance of Definitions
+Adequate Ideas and A Priori Knowledge We Share with God
+The Place of Empirical Knowledge in the Geometrical Method
+Geometrical Method and Logic of Containment
+The Mathematization of Nature as a Challenge of Necessitarianism
+Conclusion
+References and Further Reading
+
+Abbreviations
+Bibliography
+
+
+
+1. The Geometrical Method
+When we think of the Geometrical Method today, we usually associate it with what we see when we open a book of Euclid, or (if we are looking for its use in philosophy) what we see in Spinoza’s Ethics. Instead of a coherent flow of text, the lines are broken up into different types of text: definitions, axioms, postulates, propositions, and demonstrations. As we all learn in school, a geometrical demonstration has to start from definitions of things, which are supposed to allow for the deduction of conclusions about properties of the defined things because these properties are already (virtually) involved in the definitions. A common example is the definition of a triangle. Here it follows necessarily from its definition—being composed of three straight lines—that its angles sum up to 180o. To be sure, this definition is true for all triangles in Euclidean geometry necessarily and thus with absolute certainty. Geometrical demonstrations also use axioms, being statements that everybody will admit as self-evidently true, and postulates, statements which are hypothetically claimed as long as nobody objects. Both axioms and postulates are considered permitted additions to definitions that allow for a geometrical demonstration in which it is shown how the conclusions necessarily follow from the definitions.
+This way of demonstration has been known since ancient Greek mathematics, mostly through Euclid’s Elements. However, the term “Geometrical Method” only came up much later, in early modern times. Jacobo Zabarella, who wrote in late 16th century in Padua, described this method as involving two aspects, namely the resolutive and the compositive, also known as the analytic and synthetic side of the Geometrical Method (Cassirer 1974, I, 136-44). While the analytic part is considered to be helpful for discovery and invention of new truths, the synthetic is appreciated for ensuring the certainty of the results due to a complete deduction of propositions from definitions and axioms, that is, by geometrical demonstration. It was the synthetic method that provided the compelling force for the argument being thus capable of convincing others of the correctness of a proposition. Leibniz emphasized the eminent significance of such a demonstration when he referred to Euclid. The Greek mathematician had been mocked for his cumbersome demonstration of something even children could easily see, namely that two straight lines cannot surround a space and that they can only share one point. But Leibniz praised Euclid for demonstrating this anyway because he did not make the demonstration to know it but to know it with certainty (A VI, 1, N. 125, 469).
+Pascal, in a text which came down to us as an inclusion in the Port-Royal Logic of Antoine Arnauld and Pierre Nicole, provided a comprehensive description of the synthetic aspect of the Geometrical Method, which he then again broke down into two major demands: not to employ any term in a demonstration that had not yet been defined and not to accept any proposition which had not yet been demonstrated from defined terms or demonstrated propositions (Pascal 2000, 155-6). While only Spinoza, notoriously, explicitly uses the synthetic method in his major work Ethics, the rationalist authors follow this very method when presenting their arguments. They begin with definitions and deduce their entire argument from them (for example, A IV, 1, N. 1). It should be noticed that all rationalists were advanced mathematicians, although only Descartes and Leibniz were mathematical geniuses.
+The strict demands of the Geometrical Method opened the space for discussion not only about the status of axioms not being demonstrated but also about that of definitions. Did definitions depend on human choice of words or did they have to express the essence of the defined thing? If the latter, how could we know the essence of a thing, and if the former, how would arbitrary definitions lead to truth? While the constraint of geometrical demonstrations, that is, their convincing force, could never be questioned once the definitions were admitted, it was the concept of definition and to a smaller extent that of axiom which moved to the center of the discussion about the Geometrical Method.
+While providing absolute certainty, the synthetic aspect of the Geometrical Method had also disadvantages. Due to the rules not to employ any concept before defining it and not to use any proposition before demonstrating it, the way of presenting an argument had to follow the course in which these definitions and propositions could be demonstrated, which often interrupted the natural course of the argument. Also, the apparatus of definitions, axioms, postulates, propositions, and their demonstrations was quite cumbersome. Finally, the striving for unequivocal expressions did not allow for metaphors, ironies, or jokes and thus lacked entertaining qualities.
+It is very common to associate the synthetic or compositive aspect with the Geometrical Method and to neglect the analytical side. However, scientists and mathematicians have always been more interested in the analytic aspect of the Geometrical Method because they aimed to discover new truths. In using the analytic or resolutive method, they did not even care much about a gapless deduction (Breger 2008, 191-2). Rather, they trusted their intuition, based on their intensive foregoing studies and deep knowledge about their subject. Philosophers also used the analytic side of the Geometrical Method, and Descartes even preferred it in his writing, stating that he wanted to write following the path in which he found the truth rather than presenting it by geometric demonstration (AT VII, 211-3; CSM II, 110-1). Spinoza, according to Tschirnhaus’ reports to Christian Wolff (Wolff 1980, 124-7; Corr 1972, 323-34), developed the analytic method in order to find and constantly improve definitions, using experiments and observation. He started with mere nominal definitions for things insufficiently known and replaced them (or parts of them) by causal definitions in the course of progress in his ability to produce the effects (Goldenbaum 2011, 29-41). Tschirnhaus, who was above all a mathematician and an engineer (he invented, for example, Meissen porcelain), further developed this method of defining and redefining objects of natural science based on empirical research. Christian Wolff used this method systematically to reduce the gap between a priori knowledge and experiential knowledge. When, for example, he wrote about methods to increase the growth of grain, he distinguished between facts we know from experience and the causes of some phenomena we know with certainty and have thus under control (Wolff 1734; Goldenbaum 2011). Although we cannot know the essence of the plants yet, we can come to know some causal processes of the growing of plants and thus can even predict the outcome with a high degree of certainty.
+It was the goal of the analytic part of the Geometrical Method to improve the definitions of real things—not only of geometrical figures. Due to the negligence of the analytic aspect of the Geometrical Method, the understanding of definitions in the framework of the modern Geometrical Method is often insufficient.
+2. The Essential Significance of Definitions
+Although it was the geometrical demonstrations that guaranteed necessary truths, they were hardly under attack. Instead, it was the definitions and, to a smaller extent, the axioms that moved to the center of the philosophical discussion because they were the starting point of the Geometrical Method—in particular, of its synthetic part. Surprisingly, partisans and critics agreed about the essential significance of the definitions.
+Of course, axioms also became a subject of criticism by the opponents of the Geometrical Method because, traditionally, they were not demonstrated but assumed to be evident. Critics argued that a demonstration built upon undemonstrated axioms could not guarantee the truth of the demonstrated proposition. Hobbes rose to this challenge, arguing that all axioms could actually be demonstrated as soon as anybody would doubt them. Spinoza and Leibniz agreed. As an example, Hobbes and Leibniz demonstrated the axiom that had become disputed at the time, namely that the part is smaller than the whole (OL I, 105-6; De corpore II, 8, sec. 25; Leibniz A II, 1 2006, 281; A VI, 2, 480). As a result, Hobbes (OL I, 252-8; De corpore III, 20, sec. 6) and, following him, Leibniz (Leibniz, A VI, 1, N. 12; A II, 1 2006, N. 24, 153) conceived geometrical demonstrations as mere chains of definitions (axioms or postulates being capable of demonstration, if doubted). According to Leibniz, the only true axioms were identical propositions that could not be demonstrated.
+But it was the concept of definition which bore the brunt of the attacks throughout the 17th and 18th centuries. Critics insisted that an extension of the Geometrical Method to real things would be impossible because we could not give any real definition of any real thing, in sharp contrast to real definitions of geometrical subjects, which we could provide. Since geometrical figures were created by humans, we could know their essence. Because real things were created by God, or at least not by human beings, their essences remained unknown to us, due to our finite minds and moreover to our fall. The same criticism can still be found in Locke and Kant.
+Traditionally, there existed a general distinction between nominal and real definitions going back to Aristotle’s Organon (Anal. Post. II, 7-10). Even the new Cartesian Port-Royal Logic (L’art de penser), written by Arnauld and Nicole, kept this traditional distinction (Arnaud/Nicole 2011, 325-31; Logique de Port-Royal I, 12). While a nominal definition was nothing but words by which we named things, either by convention or by custom, without knowing the essence of the thing, a real definition would allow us to know whether the defined thing was real or at least possible in reality. Real definitions were usually supposed to be possible in mathematics, due to their human production, but also in theology, at least for the notion of God, although the latter was increasingly doubted. Pascal, for example, after his religious turn, did not accept any but nominal definitions because human beings were unable to know any real definitions (Pascal 2000, 156). In his view, we could define things as we liked, arbitrarily, and therefore there could never be a cause for serious contradiction but in mere words. This radical position, rejecting any role of reason for religion, was strongly contradicted by Arnauld and Nicole, who defended the real definitions in their Port-Royal Logic.
+Here again, Hobbes took on the challenge and developed a new approach to real definitions. The way he does this sheds quite some light on how the new Geometrical Method of early modern time was indeed new, namely, infected by the new science of mechanics. Hobbes connected the issue of definitions with Galileo’s mechanics (Jesseph 1999, 117-25). Considering geometrical figures as produced by mechanical motion (already done by the mathematician Roberval), he understood them as effects caused by mechanical motion. A definition which included the cause of the thing to be defined showed at the same time that it was possible. In this way, it provided the opportunity to deduce any possible property of the thing, that is, even of those properties we are not yet aware of. A circle, for example, is produced by the mechanical motion of one endpoint of a straight line around the other endpoint. All the possible properties of a circle can be deduced from this causal definition, necessarily.
+But Hobbes then introduced this new mechanical approach to definitions into philosophy and demanded such causal definitions (or genetic definitions) in philosophy too, in order to produce necessary conclusions about reality. Indeed, he uses the term “philosophy” (or “science”) exclusively for causal explanations of phenomena, starting from causal definitions (OL I, 62-65; De corpore I, 6,6). According to Hobbes, just as within geometry, a definition that includes the mechanical cause of the thing to be defined can serve in any field of science to deduce all the properties of the thing (OL I, 71-3; De corpore I, 6, 13). Hobbes thus transforms the Geometrical Method into a general epistemological principle: what we can generate, that is, cause, we can know with certainty, in its essence, or—with necessity. That is the reason why he can claim that we can even come to know the political state by philosophy, that is, in a scientific way, namely through causal explanation—because it is produced, generated, or caused by human beings.
+Hobbes’ innovation of causal definitions was adopted (together with the Geometrical Method) by Spinoza (Spinoza 1985, 31-2), by Leibniz, and by Christian Wolff (Cassirer 1974, II, 521-5; Goldenbaum 2011). Leibniz discusses the traditional distinction of nominal and real definitions as still taught in the Port-Royal Logic. According to his explanation, nominal definitions result from our clear and distinct perception of things and their properties which we can name. Such nominal definitions allow us to distinguish these clearly and distinctly perceived things from other things. Confused ideas, though, where we cannot give single properties although we somehow recognize a thing in its entirety, do not allow yet for any definition. They may be made more (and more) distinct by analysis though, that is, by further distinguishing their parts (On Synthesis and Analysis, Loemker 229-34; A VI, 4, N. 129).
+In contrast to such nominal definitions, being a name for a mere listing of properties, Leibniz defines real definitions as including and displaying the possibility of the defined thing, that is, freedom from contradiction (Loemker 231; A VI, 4, N. 129, 542). His example is the definition of a circle—that is, Euclid’s definition of a circle as produced by the motion of a straight line in a plane around one of its endpoints. This definition, being clearly a causal definition (christened so by Hobbes), is for Leibniz a real definition in an exemplary way because it displays the demanded possibility of its subject. But Leibniz does not even mention any other type of real definitions (Loemker 230-1; A VI, 4, N. 129, 541)
+Moreover, Hobbes, Spinoza, and Leibniz, all extended the scope of causal definitions further, arguing that not only those definitions that include the actual cause of a thing but any definition that includes a cause capable to bring about the thing to be defined, can serve as its causal definition. If we can generate a thing, it is at the same time shown that it is possible. Surprisingly, Leibniz uses this extended concept of the causal definition to develop his modern concepts of hypothesis and of truth. He writes, “to set up a hypothesis or to explain the method of production is merely to demonstrate the possibility of the thing” (Loemker 231). That is, for Leibniz, a hypothesis that can explain a possible generation or causation of a thing shows its possibility and is capable of deducing all the properties of the subject of the hypothesis even if it will never come into reality.
+All rationalists using the Geometrical Method intended to use it beyond geometry, making the generability of a thing through human beings the new approach to science which also changed the approach to empirical investigation. They all had a strong awareness that knowledge starting from causal definitions could provide necessary knowledge, that is, a priori knowledge about things beyond geometry. It is seldom noticed that exactly this position is already held by Galileo: “all these properties [of things in nature] are in effect virtually included in the definitions of all things; and ultimately, through being infinite, are perhaps but one in their essence and in the Divine mind” (Galilei 1967, 104).
+3. Adequate Ideas and A Priori Knowledge We Share with God
+The mathematician and rationalist Descartes did not yet talk of causal definitions. But in his reply to Arnauld about his fourth meditation (AT VII, 220; CSM, II, 155), he describes something he calls an “adequate idea,” which is precisely what is described as a causal definition by Hobbes. Just like causal definitions, adequate ideas have the capacity to virtually include all properties that belong to the cognized/defined thing. The term “adequate ideas” is more familiar to us from Spinoza and Leibniz. Descartes uses it indeed rarely and only with greatest caution: he does not ascribe adequate ideas to human beings but to God exclusively. According to Descartes, only God, knowing everything, can be assured to know whether an idea indeed contained all the properties of the thing. In contrast, while human beings may know all properties of a thing, they can only be sure of its completeness by a special revelation of God.
+Moreover, not only could God have created things in a different way, even mathematics could have been shaped differently if God had willed so (AT I, 145, 149-50; CSMK III, 23-4). While this statement caused headaches and criticism among rationalists such as Spinoza and Leibniz, they all yet understood Descartes as a partisan of the Geometrical Method. They admired his insistence on intuition and deduction as the only way to certainty in knowledge, that is, to a priori knowledge. And indeed, while giving up about our reach to adequate ideas, Descartes does introduce the notion of a complete idea being available to human beings. And such complete notions would contain virtually all the properties of the ideatum, making it look like an adequate idea, with the only restriction that only God could know if it was indeed complete in respect to all consequences.
+Descartes’ cautious distinction between adequate and complete ideas will not be upheld by his followers. For Spinoza, it is precisely our adequate ideas, which we share with God’s intellect, that allow for certainty of our knowledge (Spinoza 1985, 474-8; EII, p.37-p.40s2) as well as for overcoming our lack of freedom. Adequate ideas will even make our mind eternal (Spinoza 1985, 613-7; EV, p.38-42s). Spinoza defines “adequate idea” as “an idea which, insofar as it is considered in itself, without relation to an object, has all the properties, or intrinsic denominations of a true idea” (Spinoza 1985, 447; EII, d4). Thus, he explicitly denies correspondence of an idea with an external object as a criterion for adequacy and thereby denies the traditional understanding of adequacy in Aristotelian scholastics as agreement or correspondence of idea and ideatum. For Spinoza, to have an adequate idea is to provide the proximate cause of the thing to be known or to define a thing by its cause. That is, he introduces the adequate idea as causal definition or deduction from causal definitions.
+Even Leibniz, the committed Christian philosopher, accepted a human capability for adequate ideas. He agreed that if we know things adequately, we know them with the same certainty by which they are known by God. Such an adequate idea is given whenever the thing can be completely analyzed into its simple primitive concepts, which is precisely the case in geometrical causal definitions. Leibniz praised adequate ideas for their special capacity that from them “all truths [can be demonstrated] with the exception of identical propositions, which by their very nature are evidently indemonstrable and can truly be called axioms” (Loemker 231; A VI, 4, N. 129, 542). Just like Spinoza, Leibniz connects adequate ideas with causal definitions because such definitions, in contrast to nominal definitions, immediately display the possibility of the defined thing, without any experiment or observation: “Obviously, we cannot build a secure demonstration on any concept unless we know that this concept is possible … This is an a priori reason why possibility is a requisite in a real definition” (ibid.).
+It is precisely from this Geometrical Method that Leibniz arrives at his containment logic, stating that a reason can be given for each truth “for the connection of the predicate with the subject is either evident in itself as in identities, or can be explained by an analysis of the terms. This is the only, and the highest, criterion of truth in abstract things, that is, things which do not depend on experience—that it must either be an identity or be reducible to identities” (Loemker 232; A VI, 4, N. 129, 543). From here, Leibniz states that the elements of eternal truths can be deduced and a method provided for everything if they are only cognized as demonstratively as in geometry. Of course, God cognizes everything in this way, even concrete things, that is, a priori and “sub specie aeternitatis”—because He does not need any experience. While He knows everything adequately and intuitively, we can grasp hardly anything in this way and have to rely for most things on experience.
+It is interesting that in Wolffianism, when it comes to German translations, the term “idea adaequata” is bluntly translated as “complete idea” [“vollständiger Begriff”] (Spinoza 1744), thereby ignoring Descartes’ cautious distinction between complete ideas available to human beings and adequate ideas available to God. However, while all rationalists agree that human beings can know a certain number of necessary demonstrations and to that extent have adequate ideas, that is, a priori knowledge equaling divine knowledge (the latter claim not being shared by Hobbes), this view is moderated by their awareness that such a priori knowledge is extremely limited in human beings and has therefore to be supplemented by experience. Galileo, Descartes, Spinoza, and Leibniz, all admit a difference between divine and human knowledge—a difference consisting in God’s thoroughgoing intuitive knowledge of all things in contrast to human discursive knowledge of very few things. Still, a few intuitive insights were available to human beings too (Galilei 1967, 103-4; see also AT X, 409 (Reg. XI)). However, they stated the special character of this kind of knowledge which we shared with God, its absolute certainty due to its a priori character.
+Adequate ideas are thus, from Descartes via Spinoza to Leibniz, ideas which provide a complete and absolutely certain knowledge of all the properties of their subject, independent of any knowledge of correspondence, that is, of sense perceptions. Although we can only reach a small amount of adequate ideas, this kind of knowledge is absolutely certain, a priori, that is, necessary and thus equal with divine knowledge. Causal definitions as the central part of the new Geometrical Method were crucial to obtaining such adequate ideas. It is this kind of knowledge which distinguishes us from animals. According to Hobbes, Spinoza, and Leibniz, it goes without saying that animals could think. But they could only think in an empirical way, by observation, trial and error, or by induction. They absolutely lacked necessary or a priori knowledge which we humans shared alone with God. Only human beings had the capability to have adequate ideas, a priori knowledge they shared with God.
+4. The Place of Empirical Knowledge in the Geometrical Method
+While God knows everything adequately and intuitively, we humans rarely get to know adequate ideas intuitively. Therefore, all rationalists agreed that in acquiring knowledge we usually need to rely, not just on intuition, but also on empirical knowledge. It is a widespread prejudice, due to German Idealism, that rationalists were not interested in empirical studies [see Continental Rationalism], but Descartes and Spinoza themselves performed experiments, and they all were highly interested in the scientific experiments of their time. They took, however, a very different approach to empirical studies than did the empiricists.
+Although we are able to know only a few things with absolute certainty, what we are able to know in that way provides us with a fixed framework to order and interpret empirical data. Because “the fixed and eternal things” (Spinoza 1985, 41) that we know a priori are closely connected to the particular concrete things of which only God has adequate ideas, the necessary knowledge we have will help us to order our empirical data. Because these eternal abstract truths can never contradict any predicate of a complete notion or adequate idea of a concrete thing, they can provide a strong framework for our empirical work, which is available to our finite minds. When we come to learn about new facts by experience and by history, we can expect these single facts to fit into the theoretical framework such as the pieces of an unfinished puzzle, and build more and more a complete notion of an individual and its action. Therefore, Descartes, Spinoza, and Leibniz strongly recommend the development of empirical sciences that combine a priori knowledge with experiment in mixed sciences, supposed to enrich human knowledge.
+Of course, this process of learning can never be conclusive because it is infinite due to the infinite properties of concrete particular things, or individuals. Nevertheless, our expectation that things in the world are coherent (based on the conviction of a theoretical framework that is adequately known by God, a priori, and thus must exist), together with the available specific notions of abstract things we as human beings can reach a priori, provide powerful tools. It is as if we had an unfinished map, a compass, and a watch that, with our general framework of terrestrial geography, can guide an expedition into an unknown area. Such equipment can help us to recognize coherence and causal interconnectedness in the otherwise confusingly rich abundance of single facts of empirically obtained knowledge. Therefore, Leibniz’s, Spinoza’s, and Hobbes’ approach to empirical research is completely different from any empiricist approach to nature or history. Empiricists claim to collect facts in order to check for common patterns or similarities and then to abstract rules or laws from them. If appropriate, mathematics could be applied to these abstractions. But no cognition reached by such a process could ever provide certainty, and it must remain provisional due to the general weakness of the fallen men.
+This distinction between rationalists and empiricists in respect to empirical studies becomes plain in Spinoza’s criticism of Boyle, who saw his experiments as demonstrating mechanical corpuscular philosophy. Instead, Spinoza argued Boyle’s experiments would fit a hypothesis which he had held before and which had to be justified by its inner coherence alone while it could not be proved by any experiment (Spinoza 1985, 173-88, esp. 178). Leibniz quotes this statement with agreement in his argument with Locke (A VI, 6, N. 2, 454-5; Leibniz 1996, 455; IV, 12, 13). Curley contradicts the view that Spinoza ignored empirical research (Curley 1986a, 156), and indeed, Spinoza even demands a theory of experimentation (Spinoza 1985, 42). We also have evidence from his correspondence that Spinoza experimented himself.
+But it is especially Leibniz’s modern concept of hypothesis that can explain the empirical project of rationalism. To recall, to state a hypothesis is to state the way of generation whereby the possibility of a thing can be proved. For Leibniz, this is even valid if parts of such a hypothesis cannot yet be perceived distinctly and can only be supposed, that is, if the hypothesis is a hybrid of causal definition and empirical facts. While such a hypothesis is valid only by presumption of the truth of our empirical knowledge, it has to be coherent in itself and can count as demonstrated to the extent it fulfills this criterion. If there exist competing hypotheses for the explanation of natural phenomena, as in the case of the hypotheses of Ptolemy, Tycho de Brahe, and Copernicus, one has to choose the most intelligible hypothesis as true or closest to truth, which also coheres the most with all known phenomena.
+What is already implicit in the 1680s becomes plain in the 1690s, that truth for Leibniz is nothing but the intelligibility of a hypothesis, that is, a complex causal definition. Truth is nothing we can state by checking the correspondence of our ideas with reality, as claimed by empiricists. Such a check is indeed impossible. Instead, adequate ideas are true in themselves, and their truth can be determined alone by their own property to be free of contradiction. This alone makes them intelligible and thus possible. That is not only valid for mathematics, but as well for causal definitions or hypotheses about real things. Just as Hobbes had declared, Leibniz argues: All we can generate or cause, or of which we can provide a possible way of generation or causation, is intelligible and knowable by human beings in adequate ideas.
+While today we are used to distinguishing between natural sciences as hard-core science (such as physics, chemistry, biology, or, increasingly, medicine), on the one hand, and humanities and social sciences, on the other, Hobbes, Spinoza, and Leibniz instead distinguished demonstrative from empirical knowledge. To the extent that empirical knowledge could be organized in explanatory and coherent hypotheses explaining natural phenomena by mathematical science, it could be turned into a gradually demonstrative science. For Leibniz, even human history and the humanities could be turned into sciences in this way, being not really different from natural sciences in their searching for a coherent explanation of empirical, contingent truths. As soon as they could come up with a theoretical framework of a priori eternal truths available to us through the Geometrical Method, they could become science.
+5. Geometrical Method and Logic of Containment
+Leibniz, embracing the Geometrical Method, was fully aware of his dangerous intellectual neighbors (Hobbes and Spinoza), and worked hard to secure his metaphysics against strict determinism or necessitarianism in order to distinguish his metaphysical and epistemological project from these bad bedfellows. He had been working on this since he studied Hobbes and Spinoza in Mainz between 1670 and 1672. The result is his well-known distinction of necessitating versus inclining in paragraph 13 of the Discourse on Metaphysics written in 1686 (Loemker 310-1; A VI, 4, N. 306, p. 1546). But, notwithstanding his obvious rejection of Hobbes’ and Spinoza’s strict determinism, Leibniz clearly shares the new Geometrical Method, as a philosophical method, with the infamous philosophers, the method which was constantly accused of necessitarianism if extended to real things. Moreover, it is this new method based on the causal definition that provides the basis of Leibniz’s logic of containment (Di Bella 2005, 80-95).
+Leibniz approaches the challenge by distinguishing abstract and concrete things as subjects of our ideas. While only God can have a priori knowledge of the complete notions of concrete things or individuals, we can at least have a priori knowledge of abstracta as, for example, geometrical figures because they are finite in their properties. Also, what is true for one kind of abstracta, as for example a triangle, is true of all members of that kind, for example, for all triangles. In contrast, because concrete things or individuals have infinitely many properties and are the only member of their kind, we as finite beings cannot reach their complete concepts and have to rely on empirical knowledge too when it comes to individuals (Loemker 331-8; A II, 2, N. 14). This distinction, closely related to the distinction of necessary and contingent truths, allowed Leibniz to distinguish human and divine knowledge by a qualitative criterion. Moreover, it also provided a criterion to distinguish contingent from necessary knowledge, thereby paving the path for human and divine freedom. This solution gave Leibniz sufficient confidence to present at least the headings of his Discourse on Metaphysics to the Jansenist theologian and Cartesian Arnauld in 1686, with the long sec. 13 being especially provocative in respect to free will. Clearly, at this time, Leibniz had worked out his new metaphysics (based, however, on the problematic new Geometrical Method), which would make modern science compatible with Christian dogmatics and especially allow for free will by a softened determinism.
+However, in spite of Leibniz’s strong emphasis on the different ontological status of abstracta versus concreta and of necessary versus contingent truths to secure contingency and to block strict determinism, he always maintained the containment theory based on Geometrical Method. According to this view, in every true proposition, the predicate had to be included in the subject. This position clearly retains a general similarity between the two kinds of concepts because both—specific (or full) concepts of finite abstract things as much as complete concepts of concrete infinite individuals—must include all their predicates and can be known a priori by Him who generated them. This view is precisely the core of the Geometrical Method! According to Leibniz, even if human beings cannot know individuals a priori but only through empirical study or by history, God does know the complete concepts of individual substances a priori which thus exist, the subject containing the predicate.
+It was this theory that would lead to paragraph 13 of the Discourse of Metaphysics, according to which the complete concept of any individual was known by God and would include every single event that would ever happen to us. When God created this world, He chose those individuals who belonged to the best of all compossible worlds. Because of that choice, led by God’s intellect, there cannot be any contradiction among the things of one world, or rather of their concepts. What is crucial here is that Leibniz’s approach to contingent things assures us—from the very beginning—of the inner coherence of all phenomena of this world that will ever occur to our experience even if we cannot see it yet. Because there is nothing arbitrary in God’s creation—nihil sine ratione—we can take it for granted that there is a universal coherence of the world in spite of our own limited approach. It is within this view that Leibniz sharply deviates from Luther and the Protestant way of thinking in which such an intelligibility of the world to humans is bluntly denied, due to the fall. It is this view that makes him a true optimist, being convinced of the intelligibility of the world—even if we will never exhaust it.
+6. The Mathematization of Nature as a Challenge of Necessitarianism
+The use of the Geometrical Method in philosophy had often been criticized, long before Kant argued against it (Kant 1998, 630-43; 1st Cr. A713/B741-A738/B766). One objection was that the Geometrical Method should be restricted to geometry and could not be used in any other field. At first glance, this seems quite convincing. Given the cumbersome outlook of a text written in Geometrical Method, as for example Spinoza’s Ethics, it seems obvious that this method makes understanding of the argument rather more difficult. The complicated system of references to former demonstrations constantly interrupts the argument; Spinoza’s addition of so many scholia wherein he explains the context and the aim of his demonstrations in common language displays his awareness of this problem.
+But the objections against the Geometrical Method were more fundamental. What the partisans of the Geometrical Method saw as its greatest advantage in contrast to any other knowledge—the necessary conclusions and thus certainty, was considered the greatest danger by its critics. One of the reasons for such protests was obviously the theological concern about human haughtiness as it was expressed already in the accusation against Galileo. He was blamed for claiming an equality between human knowledge and that of God, at least in geometrical things (Galilei 1907, vol. 19, 326-7). Indeed, Galileo stated that what we could demonstrate geometrically could not be known any better by God because it was necessarily true: “I say that as to the truth of the knowledge which is given by mathematical proofs, this is the same that Divine wisdom recognizes” (Galilei 1967, 103; my emphasis-UG). The concern about human haughtiness was not restricted to the Catholic Church, it would also cause worries among Protestants, for example, for the Cambridge Platonists, very influential to Locke and Newton, who both rejected the Geometrical Method. In Germany, it became one of the major arguments of the Lutheran theologians and philosophers against Leibniz and Christian Wolff (Goldenbaum 2004, 48-58; 195-208).
+But it was not the traditional method of Euclidian geometry that caused the massive criticism of the new Geometrical Method. Rather it was its close connection to the mathematization of nature and thereby the extension of geometry from a small discipline without practical relevance to reality, making it the science of the world. Galileo had opened the new path of modern science by using the Geometrical Method for the investigation of physical phenomena, and he was deeply convinced that nature itself is structured mathematically. In this way, he found the law of falling bodies as well as the parabola as the trajectory of thrown bodies; neither of them could have been found by mere observation or experiment. Galileo’s enthusiasm that mathematics would allow us to understand the inner structures of nature is most clearly expressed in his famous saying:
+Philosophy is written in that great book which ever is before our eyes—I mean the universe—but we cannot understand it if we do not first learn the language and grasp the symbols in which it is written. The book is written in mathematical language, and the symbols are triangles, circles and other geometrical figures, without whose help it is impossible to comprehend a single word of it; without which one wanders in vain through a dark labyrinth. (Galileo 1960, 183-4)
+Descartes followed Galileo and asked for the cultivation of a new sort of geometry that would no longer be a mere abstract enterprise but could explain the phenomena of nature (AT II, 268; CSMK III, 118-9). There shall be only one science, mathesis universalis, by which the observed natural phenomena could be explained from their inner essences and thus necessarily. The great admirer of Galileo, Thomas Hobbes, extended the Geometrical Method to politics, claiming that his political philosophy was the beginning of political science. Spinoza even extended the Geometrical Method to ethics and delivered a theory of human affects showing the necessity by which they would occur whenever certain circumstances came together. That is how he could state: “Therefore, I shall treat the nature and powers of the Affects, and the power of the Mind over them, by the same Method by which, in the proceding parts, I treated God and the Mind, and I shall consider human actions and appetites just as if it were a Question of lines, planes, and bodies” (C 492; Preface to EIII).
+All these thinkers extended the Geometrical Method beyond mathematics, claiming its value for the investigation of realia, of real things instead of mere geometrical figures. Such extension of the Geometrical Method to real things was done with the goal to produce certainty of knowledge, a certainty guaranteed by the necessity of geometrical demonstrations. But if it would indeed lead to necessary demonstrations about nature, politics, and ethics, it would introduce necessitarianism into natural, social, and moral sciences, and space would not be left for miracles and, even worse, for free will. This can be seen in the cases of Hobbes and Spinoza, who both were strict determinists. In contrast, it was precisely the recognition of this threat of determinism or necessitarianism implied in the Geometrical Method that led Henry More very early to his criticism of Descartes and since the 1660s to his massive rejection of Cartesianism (More 1711, 58). Besides the theological concern about human haughtiness, it was the threat of necessitarianism that was the true source of the lasting protest against the Geometrical Method throughout the 17th and 18th centuries.
+What caused the most trouble about the Geometrical Method in 17th and throughout the 18th centuries was neither its ponderous way of thinking nor its lack of success. Rather it was the turmoil about human haughtiness and the threat that its determinism would destroy free will of God as well as that of human beings. Exemplary for the different approaches to God’s free will is still the correspondence of Leibniz and Clarke. According to Leibniz, nothing can happen without a sufficient reason—and this just proves the existence of a God who—in His perfection—could not have chosen an arbitrarily functioning world. Clarke (and Newton), on the other hand, counts any act of an arbitrary will on God’s part as a sufficient reason (Leibniz 2000, 7 and 11).
+7. Conclusion
+ 
+Two things caused deep anxiety and anger regarding this method: (1) the attempt to extend the Geometrical Method to nature, to humans, and to society (taking mathematization of nature for granted), providing human beings with a godlike a priori knowledge beyond mathematics, even if limited; and (2) the threat of determinism. These threats forced theologians and Christian philosophers to reject rationalism and the Geometrical Method altogether. In sharp contrast to rationalism, Locke would even deny the possibility of any natural science because we could not have any real definitions beyond mathematics and morals:
+This way of getting and improving our Knowledge in Substances only by Experience and History, which is all the weakness of our Faculties in this State of Mediocrity, which we are in this World, can attain to, makes me suspect, that natural Philosophy is not capable of being made a Science. We are able, I imagine, to reach very little general Knowledge concerning the Species of Bodies, and their several Properties. (Locke 1975, 645; Leibniz 1996, 453; IV, 12, 10)
+Kant would declare that there would “never be a Newton for a blade of grass” (Kant 2000, 268-71; 3rd Crit., 75 (B338)), pointing us instead to design theory in biology admitting causal explanations alone for mathematics and mechanics, that is, applied mathematics. Both approaches were applauded by Protestant theology (Goldenbaum 2004, 48-58).
+Thus, the opposition between the two philosophical camps of rationalism and empiricism was not the result of different approaches to experience as is often claimed. Rather, it was their different and opposing stances toward the Geometrical Method and the mathematization of nature. This new Geometrical Method was in no way a merely external way of presentation to rationalist philosophy. Instead, it constituted this philosophy. As much as rationalist philosophers differ in their philosophical systems, they all agree that human beings can arrive at a priori knowledge (through deducing from definitions), independently of experience, and that this knowledge is somehow “divine,” that is, as certain as God’s knowledge. In contrast, empiricists and theologians are eager to deny such a possibility. Thus, it is the Geometrical Method that provides the explanation for the two schools of early modern philosophy.
+8. References and Further Reading
+a. Abbreviations
+
+A
+
+See Leibniz 1921ff.
+
+
+AT
+
+See Descartes 1996.
+
+
+CSM
+
+See Descartes 1985-88.
+
+
+Loemker
+
+See Leibniz 1969.
+
+
+Leibniz-Clarke
+
+See Leibniz 2000.
+
+
+OL
+
+See Hobbes 1839.
+
+
+
+b. Bibliography
+
+Arnaud, Antoine/Pierre Nicole (2011), La logique ou l’art de penser, ed. crit. by Dominique Descotes, Champion: Paris.
+Breger, Herbert (1991), “Der mechanizistische Denkstil in der Mathematik des 17.Jahrhunderts,” in: Hartmut Hecht (Ed.), Gottfried Wilhelm Leibniz im Philosophischen Diskurs über Geometrie und Erfahrung, Akademie Verlag, 15-46.
+Breger, Herbert (2008), “Leibniz’s Calculation with Compendia,” in: Ursula Goldenbaum/Douglas Jesseph, Infinitesimal Differences. Controversies between Leibniz and His Contemporaries, De Gruyter: Berlin-New York, pp. 185-198.
+Cassirer, Ernst (1974), Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit, 4 vols., Wissenschaftliche Buchgesellschaft: Darmstadt.
+Corr, Charles A. (1972), “Christian Wolff’s Treatment of Scientific Discovery,” in: Journal of the History of Philosophy, 10, pp. 323-334.
+Curley, Edwin (1986a), “Spinoza’s Geometric Method,” in: Studia Spinozana 2, Central Theme: Spinoza’s Epistemology, ed. by E. Curley, W. Klever, F. Mignini, Walther & Walther: Alling 1986, pp. 152-169.
+Curley, Edwin (1986b), Behind the Geometrical Method, Princeton University Press.
+De Dijn, Hermann (1986), “Conceptions of Philosophical Method in Spinoza: Logica and Mos Geometricus,” in: The Review of Metaphysics, XL, No. 1, Issue No. 157 (Sep), pp. 55-78.
+Descartes, René (1985-88), The Philosophical Writings of Descartes, trans. by John Cottingham, Robert Stoothoff, and Dugald Murdoch, Cambridge University Press: Cambridge, New York, 3 vols.
+Descartes, René (1996), Oeuvres de Descartes, ed. by Charles Adam & Paul Tannery, Librarie Philosophique J. Vrin: Paris, 11 vols.
+Di Bella, Stefano (2005), The Science of the Individual: Leibniz’s Ontology of Individual Substance, Dordrecht.
+Galilei, Galileo (1907), Opere. Edizione Nazionale, vol. 19, ed. by Antonio Favaro, Firenze: Barbèra.
+Galilei, Galileo (1954), Dialogues Concerning Two New Sciences, trans. by Henry Crew & Alfons de Salvio, introd. By Antonio Favaro, Dover Publications: New York.
+Galilei, Galileo (1960), “The Assayer,” in: Stilman Drake and C.D. O’Malley, The Controversy on the Comets of 1618, University of Pennsylvania Press: Philadelphia.
+Galilei, Galileo (1967), Dialogue Concerning the Two Chief World Systems (2nd edition), trans. by Stillman Drake, University of California Press: Berkeley.
+Goldenbaum, Ursula (1991), “Daß die Phänomene mit der Vernunft Übereinstimmen sollen. Spinozas Versuch einer Vermittlung von geometrischer Theorie und experimenteller Erfahrung,” in: Leibniz im philosophischen Diskurs über Geometrie und Erfahrung. Studien zur Ausarbeitung des Erfahrungsbegriffes in der neuzeitlichen Philosophie, ed. by Hartmut Hecht, Akademie Verlag: Berlin 1991, pp. 86-104.
+Goldenbaum, Ursula (2004), Appell an das Publikum. Die öffentliche Debatte in der deutschen Aufklärung 1697-1786. Sieben Fallstudien, 2 Parts, Akademie Verlag: Berlin.
+Goldenbaum, Ursula (2011), “Spinoza—ein toter Hund? Nicht für Christian Wolff,” in: Zeitschrift für Ideengeschichte, ed. by Johannes Ulrich Schneider, pp. 29-41.
+Hobbes, Thomas (1839), Opera Philosophica quae latine scripsit omnia, ed. by Gulielmi Molesworth, Bohn: London.
+Hobbes, Thomas (1994), Leviathan, with selected variants from the Latin edition of 1668, ed. by Edwin Curley, Hackett: Indianapolis.
+Hubbeling, Hubertus Gesinus (1964), Spinoza’s Methodology, Van Gorcum: Assen.
+Hubbeling, Hubertus Gesinus (1977), “The development of Spinoza’s axiomatic (geometric) method: The reconstructed geometric proof of the second letter of Spinoza’s correspondence and its relation to earlier and later versions,” in: Revue international de philosophie 31, pp. 53-68.
+Jesseph, Douglas (1999), Squaring the Circle: The War between Hobbes and Wallis, Chicago Press: Chicago and London.
+Kant, Immanuel (1998), Critique of Pure Reason, trans. and ed. by Paul Geyer and Allen W. Wood, Cambridge University Press: Cambridge, New York.
+Kant , Immanuel (2000), Critique of the Power of Judgment, ed. by Paul Guyer, trans. by Paul Guyer and Eric Mathews, Cambridge University Press: Cambridge and New York.
+Klever, Wim (1986), “Axioms in Spinoza’s Science and Philosophy of Science,” in: Studia Spinozana 2, Central Theme: Spinoza’s Epistemology, ed. by E. Curley, W. Klever, F. Mignini, Walther & Walther: Alling 1986, pp. 171-195.
+Leibniz, Gottfried Wilhelm (1921ff.), Sämtliche Schriften und Briefe, Akademie Verlag: Berlin (quoted as A with Roman number of series and Arabic number of volume, followed by page number).
+Leibniz, Gottfried Wilhelm (1969), Philosophical Papers and Letters, trans. and ed. by Leroy E. Loemker, Reidel: Dordrecht.
+Leibniz, Gottfried Wilhelm (1996), New Essays on Human Understanding, trans. and ed. by Peter Remnant and Jonathan Bennett, Cambridge University Press: Cambridge, New York.
+Leibniz, Gottfried Wilhelm/Samuel Clarke (2000), Correspondence, ed. by Roger Ariew, Hackett: Indianapolis.
+Locke, John (1975), An Essay Concerning Human Understanding, ed. by Peter H. Nidditch, Oxford University Press.
+Matheron, Alexandre (1986), “Spinoza and Euclidean Arithmetic: The Example of the Fourth Proportional,” (trans. by David Lachterman), in: Spinoza and the Sciences, ed. by Marjorie Greene and Debra Nails, Reidel: Dordrecht, pp. 125-50.
+Maxwell, Vance (1988), “The Philosophical Method of Spinoza,” in: Dialogue 27 (1988), pp. 89-110.
+More, Henry (1711), Epistola H. Mori ad V.C., quae Apologiam complectitur pro Cartesio, quaeque Introductionis loco esse poterit ad universam Philosophiam Cartesianam, 4th ed., Londini.
+Pascal, Blaise (2000), Œuvres completes, ed. by Michel le Guern, Gallimard: Paris, vol. II.
+Schüling, Hermann (1969), Die Geschichte der axiomatischen Methode im 16. und beginnenden 17. Jahrhundert, Olms: Hildesheim, New York.
+Spinoza (1744), B.v.S. Sittenlehre widerleget von dem berühmten Weltweisen unserer Zeit Herrn Christian Wolff, Varrentrapp: Frankfurt and Leipzig [Reprint: Hildesheim and New York: Olms 1981].
+Spinoza (1985), The Collected Works of Spinoza, ed. and trans. by Edwin Curley, Princeton University Press.
+Wolff, Christian (1734), A Discovery of the True Cause of the Wonderful Multiplication of Corn; With Some General Remarks upon the Nature of Trees and Plants, Printed for J. Roberts: London.
+Wolff, Christian (1980), Gesammelte Werke, 1. Abt., Vol. 10, Olms: Hildesheim, New York.
+
+ 
+Author Information
+Ursula Goldenbaum
+Email: ugolden@emory.edu
+Emory University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

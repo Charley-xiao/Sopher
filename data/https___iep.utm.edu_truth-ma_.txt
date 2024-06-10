@@ -1,0 +1,436 @@
+
+
+
+
+
+
+
+
+
+Truthmaker Theory | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Truthmaker Theory
+Truthmaker theory is the branch of metaphysics that explores the relationships between what is true and what exists. Discussions of truthmakers and truthmaking typically start with the idea that truth depends on being, and not vice versa. For example, if the sentence ‘Kangaroos live in Australia’ is true, then there are kangaroos living in Australia. And if there are kangaroos living in Australia, then the sentence ‘Kangaroos live in Australia’ is true. But we can ask whether the sentence is true because of the way the world is, or whether the world is the way it is because the sentence is true. Truthmaker theorists make the former claim that the sentence is true because of what exists in the world; it is not the case that the world is the way it is because of which sentences are true. Truthmaker theorists use this fundamental idea as a starting point for clarifying the nature of truth and its relationship to ontology, and to advance various views in metaphysics concerning the nature of the past and future, counterfactual conditionals, modality, and many others. Because truthmaker theorists end up with differing views concerning all these matters, what ultimately unites them is not any single thesis but rather a commitment to thinking that the idea of truthmaking is a useful one for pursuing metaphysical inquiry. Others might conceive of ‘truthmaker theory’ more strictly (such as by requiring a commitment to all truths having truthmakers, or all truthmakers being of a particular ontological variety), though defining the enterprise in this way will inevitably fail to capture all those earnestly pursuing investigation into truthmaking.
+Philosophical discussion of truthmakers falls into two broad categories. First, there are ‘internal’ debates about the nature of truthmaker theory itself. For instance, there are open questions as to which truths have truthmakers: do all truths have truthmakers, or just some proper subset of truths (such as the positive truths or synthetic truths)? There are questions as to the nature of the truthmaking relation: is it a necessary relation or a contingent one? Is it a kind of supervenience, dependence, or something else? And it is an open question as to what sorts of objects serve as truthmakers: perhaps there are states of affairs, tropes, or counterparts that serve as truthmakers, or perhaps none of these. There is also frequent debate as to whether truthmaker theory constitutes a theory of truth (similar to, in particular, the correspondence theory of truth), or whether it is an entirely separate philosophical enterprise, one concerned more with metaphysics rather than semantics.
+There are also ‘external’ truthmaking discussions that apply basic ideas about truthmaking to longstanding metaphysical topics. The hope is that truthmaker theory can bring new insights and argumentative resources to bear on traditional metaphysical inquiries. For example, truthmaker theorists investigate whether presentism—the view that only the present exists—can satisfy the obligations of truthmaker theory. Truthmaker theory has also been wielded against metaphysical views such as behaviorism and phenomenalism, and it has made contributions to the metaphysics of modality.
+Table of Contents
+
+History of Truthmaker Theory
+The Truthmaking Relation
+Maximalism and Non-Maximalism 
+Kinds of Truthmakers
+Truthmaking Principles
+Truthmaking and Truth
+Truthmaking and the Past
+Truthmaking and Modality
+Objections to Truthmaker Theory
+References and Further Reading
+
+1. History of Truthmaker Theory
+Perhaps the first occurrence of a basic truthmaking idea is found in Aristotle’s Categories. There Aristotle points out that if a certain man exists, then a statement that that man exists is true, and vice versa. But it seems that there is a difference in priority between these two states of affairs. The statement is true because the man exists; it is not the case that the man exists because the statement is true. Aristotle is, in effect, raising a ‘Euthyphro’ question, drawing on Plato’s famous dialogue. Is the statement true because of the way the world is, or is the world the way it is because of which statements are true? Aristotle chose the former answer, and set the stage for discussions of truthmakers far down the road.
+The idea of a truthmaker did not play a significant role in philosophy until the rise of logical atomism in the work of Bertrand Russell and Ludwig Wittgenstein. In the Philosophy of Logical Atomism, Russell takes it to be a truism that there are facts, and says that facts are the sort of thing that make propositions true or false. The project of logical atomism is then to determine what sorts of facts are ontologically required in order to make true all the different kinds of propositions. The most basic kind of fact for Russell is the atomic fact, which consists of no more than the possession of a quality by a particular object (or of the holding of a relation between multiple objects). Sentences like ‘X is green’ and ‘X is heavier than Y’, if true, are made true by atomic facts. More complex sentences like ‘X is green and is heavier than Y’ do not call for more complex, ‘molecular’ facts. Instead, the same atomic facts from before can explain the truth of conjunctive sentences. Particularly worrisome are negative truths, such as ‘X is not red’. Russell believed that there need to be negative facts to account for negative truths. In advocating for the existence of negative facts, Russell claims to have ‘nearly produced a riot’ when he suggested the idea at a seminar at Harvard (1985: 74). The idea that reality contains entities that are fundamentally negative in nature has long struck many philosophers as puzzling and metaphysically unacceptable, and there has been continuing controversy over what, if anything, makes negative truths true.
+The next major advance in truthmaker theory came from the work of the Australian philosopher David Armstrong. Armstrong—who credits fellow philosopher Charlie Martin with inspiring him on the topic—has long advocated the use of truthmakers in metaphysics. Armstrong cites two paradigm examples of how truthmakers can be put to work in philosophy. First, there is the case of behaviorism, as defended by Gilbert Ryle (1949). Ryle’s philosophy of mind relies heavily on dispositions; Ryle thought that claims involving mental terms could be analyzed into subjunctive conditionals involving dispositions. What it is for Ryle to believe that he is a philosopher is that if he were to be asked what his profession was, he would reply ‘philosopher’. While this counterfactual may be true, the truthmaker theorist asks: but what is it that makes it true? The behaviorist faces a challenge of either accepting this counterfactual as a brute truth, a truth with no further explanation, or admitting that it is made true by some sort of mental state, thus abandoning the supposed ontological economy of behaviorism.
+Similarly, Armstrong argues that the phenomenalism of philosophers such as Berkeley and Mill faces a parallel difficulty. According to phenomenalism, all that exists are sensory impressions. But might it not be true that there is a rock on the dark side of the moon that no one has ever observed? The phenomenalist accounts for this idea by claiming that if you were to go to that part of the moon, you would have a rock-like sensory impression. But again: what makes that counterfactual true? The anti-phenomenalist will say that the counterfactual is true because it is made true (at least in part) by the rock itself. The phenomenalist, limited by an ontology of actual sense impressions, is hard-pressed to find a plausible answer to the truthmaker theorist’s question.
+In the wake of Armstrong’s (and others’) writings, truthmaker theory became a lively corner of contemporary metaphysics.
+2. The Truthmaking Relation
+A key concern of truthmaker theory is giving an account of the truthmaking relation. When some object X is a truthmaker for some truth Y, what is the nature of the relationship that X and Y stand in?
+One universally agreed upon fact about the truthmaking relation is that it is not a one-one relation. That is, in principle an object can be a truthmaker for multiple truths, and any given truth can have multiple truthmakers. For example, Socrates is frequently thought to be a truthmaker not only for ‘Socrates exists’, but also for ‘Socrates is human’ and ‘There are humans’. For it is impossible that Socrates—who is essentially human—could exist and yet any of those sentences be false (at least given some familiar assumptions about essences). Similarly, ‘There are humans’ is made true by many things—anything that is essentially human, in fact. Hence, it can be misleading to ask what the truthmaker for some truth is, since it is not necessary that truths have only one, unique truthmaker.
+So what exactly is the nature of the relation? To ask this question is to probe what sort of analysis, if any, can be given of the truthmaking relation. Many truthmaker theorists have argued that the truthmaking relation, at the least, requires metaphysical necessitation. Some object X necessitates the truth of Y if and only if it is metaphysically impossible for X to exist, and yet Y not be true. In the language of possible worlds, X necessitates Y if and only if every possible world in which X exists is a world in which Y is true. Necessitation is thought to be a necessary component of the truthmaking relation because it shows that the truthmaker’s existence is a sufficient condition on the truth in question. If X’s existence were not enough to guarantee Y’s truth, then X would not yet adequately explain or account for the truth of Y. Something else, in addition to X, would be needed to properly account for Y’s truth.
+Not all theorists have agreed that necessitation is necessary for truthmaking. Hugh Mellor (2003), for instance, at one point argued that truthmakers need not necessitate the truths that they make true. Mellor relied on the controversial case of general truths, such as ‘All gold spheres are less than a mile in diameter’. Suppose there are three such spheres, A, B, and C. Then there are three states of affairs (Mellor calls them ‘facta’): A’s being less than a mile in diameter, B’s being less than a mile in diameter, and C’s being less than a mile in diameter. For Mellor, the truthmaker for the general truth is no more than the sum of the three states of affairs. But these three states of affairs do not necessitate the truth of ‘All gold spheres are less than a mile in diameter’, since it is possible that that very sum could exist, and yet the sentence be false. That is a case where, for example, A, B, and C all exist with diameters less than a mile, but a fourth gold sphere D exists whose diameter is greater than a mile. Mellor reasons that the sum of the three states of affairs is the truthmaker for ‘All gold spheres are less than a mile in diameter’, and thus concludes that truthmaking does not require necessitation. (Furthermore, on his view, the truthmaking relation is contingent in the sense that whether X is a truthmaker for Y can vary from world to world. Those who accept necessitation would reject this consequence.) Other theorists argue that truthmaking does require necessitation, and so the sum is not a truthmaker for the sentence; something else (such as one of the totality states of affairs discussed below) is needed to provide a truthmaker, or perhaps it has no truthmaker at all (according to advocates of the supervenience accounts discussed below).
+It is more common for philosophers to challenge the sufficiency of the necessitation condition, rather than its necessity. The concern that necessitation is not enough derives in large part from the fact that all objects necessitate the truth of all necessary truths. This is the problem of trivial truthmakers for necessary truths. For example, Socrates necessitates ‘2 + 2 = 4’, for it is metaphysically impossible for Socrates to exist and yet ‘2 + 2 = 4’ be false. Similarly, if God exists, and exists necessarily, then a torn, dog-eared copy of Lolita rotting away in some landfill necessitates the truth of ‘God exists’. If it is impossible for that sentence to be false, then it is impossible for that sentence to be false should that rotting copy of Lolita exist. But—according to this line of thought—Socrates is not a truthmaker for ‘2 + 2 = 4’, and the copy of Lolita is not a truthmaker for ‘God exists’. Truthmaking requires more than just necessitation.
+Theories divide as to what exactly else is required of the truthmaking relation. Trenton Merricks (2007) has argued that truthmaking requires ‘aboutness’, in that X is a truthmaker for Y only if Y is about X. Mathematical claims are not about Socrates, and so Socrates cannot make them true. ‘God exists’ is about God, so only God is a candidate truthmaker for it. Those who accept Merricks’s proposal thereby avoid the problem of trivial truthmakers for necessary truths.
+E. J. Lowe (2007) conceives of truthmaking as depending upon the essences of propositions. X is a truthmaker for Y only if it is part of the essence of Y that it be true should an object like X exist. This amendment solves the problem of trivial truthmakers because it is no part of the essence of the proposition expressed by ‘God exists’ that it be true should the copy of Lolita exist. The essence of the proposition that God exists has nothing to do with the rotting copy of Lolita, just as the proposition that two and two are four has nothing to do with Socrates. Lowe criticizes his own view on the grounds that it implies that propositions can be related to things that do not exist. For example, Batman could have been a truthmaker for ‘There are humans’, since the nature of the proposition that there are humans is such that it is true if things like Batman existed. So according to Lowe’s account, the proposition’s essence appears to stand in a relation to a non-existent entity, which is concerning for anyone who takes relations to entail the existence of their relata.
+Regardless of how the problem of trivial truthmakers is solved, theorists seem to be agreed that the truthmaking relation, however ultimately analyzed, needs to be treated as a hyperintensional relation. That is, as a matter of necessity, a particular object could exist and a particular claim could be true in all the same possible worlds without that object being a truthmaker for the claim. Hence, truthmaking is a relation that is more discriminating than modal relations such as necessitation. Truthmaking is thus more like a dependence relation, or a grounding relation, than relations like necessitation or supervenience. Sometimes it is said that truthmaking is an ‘in virtue of’ relation: X is a truthmaker for Y because Y is true ‘in virtue’ of the existence of X (for example, Rodriguez-Pereyra 2006c). X is somehow ontologically responsible for the truth of Y, and no merely intensional relation is thought to capture this deeper connection between a truth and its truthmaker.
+Some theorists accept that truthmaking is a kind of ‘in virtue of’ relation, but deny that it can be further analyzed. This is the view of, for example, Gonzalo Rodriguez-Pereyra (2006c), who holds that the truthmaking relation is a primitive notion that resists analysis.
+In addition to the project of analyzing the components of the truthmaking relation (or admitting that such an analysis cannot be offered), there is also a question of what the structural and logical features of the relation are. One issue concerns the nature of the kinds of relata that the relation takes. The relation is typically understood to hold between a truth and a truthmaker. In this sense it is usually ‘cross-categorial’ in that it obtains between very different kinds of things, items from different categories. The truth that Socrates exists is made true by Socrates: here we have a case where the truthmaking relation obtains between a person and a truthbearer.
+For many truthmaker theorists, there is no restriction on the kind of object that can be a truthmaker. To be a truthmaker, something just needs to appropriately account for the truth of some truthbearer. On this view, truthmakers are just whatever sorts of things are ontologically available. Other views impose restrictions. For example, one might argue that only facts or state of affairs are properly thought of as truthmakers. On this view, Socrates could not be a truthmaker for ‘Socrates exists’ because Socrates himself is not a fact or state of affairs. (At best he is a sort of abstraction from various states of affairs or facts.) There must be some other entity, such as the fact that Socrates exists, or a state of affairs composed by Socrates and an existence property, that makes the sentence true. Other views would find this perspective ontologically inflating: we do not need, in addition to Socrates, some further state of affairs that requires a property of existence in order to give an ontological account of the truth of ‘Socrates exists’. Finally, some have thought that only certain entities deserve to be thought of as truthmakers, such as fundamental entities (for example, Cameron 2008). On this view, X is a truthmaker for Y only if X is a fundamental entity.
+As for the other side of the truthmaking relation, theorists disagree as to what sorts of objects are the bearers of truth. More restrictive views maintain that there is only one sort of truthbearer, or that there is only one primary kind of truthbearer, compared to which all other truthbearers are derivative. For example, a common view is that some sentence or belief bears truth only in virtue of expressing a true proposition, where propositions are the primary bearers of truth and falsity. More liberal views are happy to concede that there are a variety of truthbearers, and that they can all stand in the truthmaking relation. It is not clear that substantive questions about truthmaker theory turn on one’s background views about truthbearers, but it is wise to be sensitive to the ways in which truthmaking considerations might be affected by issues concerning truthbearers. For example, one could argue that while Socrates is a sufficient truthmaker for the proposition that Socrates exists (for it is impossible for Socrates to exist and yet that proposition be false), he is not a sufficient truthmaker for the sentence ‘Socrates exists’ because it is possible for Socrates to exist and yet the sentence be false, should the sentence have turned out to have a different meaning. For example, it is possible that ‘Socrates exists’ could have meant something else—such as that Socrates is Persian—and so it is possible that Socrates could have existed and that sentence be false. On this reading, then, one might take the truthmaker for the (uninterpreted) sentence to be more involved than the truthmaker for the proposition that sentence contingently expresses. What makes ‘Socrates exists’ true is Socrates plus whatever it is that makes it true that ‘Socrates exists’ means that Socrates exists.
+Finally, consider some of the logical features of the truthmaking relation. In particular, there is the issue of how truthmaking stands with respect to reflexivity, symmetry, and transitivity. A relation is reflexive when every object that stands in the relation stands in the relation to itself. This would mean that every truth is its own truthmaker. The cross-categorial nature of truthmaking prohibits this possibility. Because not all truthmakers are truthbearers, the truthmaking relation is not reflexive.
+Many theorists argue that truthmaking is irreflexive, in that there is no instance of something standing in the truthmaking relation to itself. (Hence, irreflexivity is stronger than the view that truthmaking is non-reflexive, which means that not every truth is its own truthmaker.) The general thought here is that truthmaking is a kind of dependence relation, and nothing can depend upon itself. But there are plausible counterexamples to irreflexivity. For example, the proposition that there are propositions appears to be a case of self-truthmaking. Because that proposition exists, it is true. One might respond by saying that the relation in this case actually holds between the existence of the proposition and the truth of the proposition, and so not between one and the same thing. This response, however, requires a substantial rethinking of the nature of the truthmaking relation (such that it no longer holds between truthmakers and truthbearers), and the apparent reification of properties like truth and existence.
+Similar remarks apply to symmetry. A symmetric relation is one where if X bears it to Y, Y bears it to X. The cross-categorial nature of truthmaking again shows that the truthmaking relation is not in general symmetric. Not all truthmakers are truthbearers. But because some truthbearers can be truthmakers, the possibility for symmetry arises, in which case the relation is just non-symmetric. (Again, some will resist by suggesting that truthmaking, as a kind of dependence, must be anti-symmetric: if X depends on Y, Y does not depend on X.) In fact, any case of reflexive truthmaking will provide a case of symmetric truthmaking.
+Finally consider transitivity: if X stands in R to Y, and Y stands in R to Z, then X stands in R to Z. Transitivity fails for obvious reasons. Socrates is a truthmaker for the proposition that Socrates exists, and the proposition that Socrates exists is a truthmaker for the proposition that there are propositions. But Socrates is no truthmaker for the proposition that there are propositions. Truthmaking is not transitive in general, but there could be individual instances of it (drawing on the same cases of reflexivity and symmetry).
+3. Maximalism and Non-Maximalism
+Another central question any truthmaker theorist must address concerns which truths have truthmakers. Perhaps all truths have truthmakers, or perhaps just some proper subset of the truths have truthmakers. Truthmaker maximalism is the thesis that all truths have truthmakers. Truthmaker non-maximalism maintains that there are truthmaker gaps: truths that have no truthmaker.
+There have not been many arguments for maximalism. Its defenders frequently claim that the view is on its own quite intuitive and plausible. Resisting maximalism, according to such advocates, threatens to court the view that truths can ‘float free’ of reality. A truth without a truthmaker, on this view, is a brute truth, a truth for which there can be no explanation. Such truths, if they exist, are thought by maximalists to be metaphysically mysterious. Others have argued for maximalism by conceiving of having a truthmaker as being somehow essential to being true. If what it is to be true is to have a truthmaker, then something cannot be true without having a truthmaker. (The relationship between truth and truthmaking is further discussed in section 5.)
+One motivation for non-maximalism is the existence of plausible counterexamples to the thesis that all truths have truthmakers. Consider negative existential truths, such as ‘There are no merlions’. On the face of it, the sentence is true not because some kind of thing exists; it is true because nothing of a different kind exists. A truthmaker for the negative existential would have to be some sort of entity whose existence excluded the existence of merlions, and explained their non-existence. But there is nothing in the world among the ‘positive’ entities that can guarantee that there are no merlions. Take, for example, the set of all the actually existing animals. Taken together, their existence does not guarantee the absence of merlions. For that set of animals could exist and yet it still be true that there are, in addition, merlions. It is only if we somehow combine the existence of those animals together with the fact that those animals are all the animals that we can find a suitable truthmaker for the negative existential.
+Armstrong introduced a ‘totaling’ relation in response to these difficulties. For example, there is a state of affairs composed of the sum of all the animals standing in the totaling relation to the property of being an animal. This state of affairs fixes which animals exist, and so excludes the existence of any merlions. Armstrong generalizes this approach when he argues for the existence of what he calls the ‘totality state of affairs’. This is a second-order state of affairs that is composed of the sum of all the first-order state of affairs standing in the totaling relation to the property of being a first-order state of affairs. The existence of this second-order state of affairs thereby guarantees that the first-order states of affairs that partially compose it are all the first-order states of affairs there are. This single totality state of affairs can be a truthmaker for all negative existentials (and every other truth besides).
+Like Russell’s negative facts, totality states of affairs are thought by many to be entities that are not fully ‘positive’. Their existence seems to concern what is not in addition to what is, and this is thought to be metaphysically suspicious. One way of putting the worry is that they are entities whose existence bears on the existence of things that are fully distinct from them. Ordinarily, one object’s existence does not bear on the existence of other objects that are separate from it. The existence of the Statue of Liberty neither entails nor excludes the existence of the Eiffel Tower. Neither does their existence exclude the existence of other potential landmarks that happen not to exist (such as a replica of the Statue of Liberty in Victoria Harbour). Totality states of affairs are different. The totality of animals excludes the existence of merlions, though merlions are entirely distinct from totalities of animals. For this reason, some philosophers have sought to develop non-maximalist approaches to truthmaker theory.
+One prominent way of defending non-maximalism is to defend alternate principles that attempt to capture the dependence of truth upon being, but without admitting that all truths have truthmakers. One such principle is the thesis that truth supervenes on being, and it has been defended in both strong and weak versions. The strong version, defended by John Bigelow (1988), is the principle that if some proposition P is true at some world W1 but not world W2, then there must exist some entity at W1 that does not exist at W2, or some entity that exists at W2 but not W1. This principle captures the idea that what is true cannot vary from possible world to possible world unless there is some corresponding difference in the ontology of those worlds. Truth thus depends on being, although some truths escape having truthmakers. To see why, suppose that ‘There are merlions’ is false at W1 but true at W2. The principle implies that something must exist in one of these worlds but not the other. In this case, there is a merlion that exists at W2 but does not exist at W1. Although the negative existential ‘There are no merlions’ is true at W1, it has no truthmaker in that world. Nevertheless, its truth depends on the ontology of the world in the sense that, had it been false, there would have been something in the world’s ontology (namely, a merlion) that it does not currently have.
+David Lewis (2001) has defended a weaker supervenience principle. For Lewis, if some proposition P is true at some world W1 but not world W2, then either there must exist some entity at only one of the worlds, or some group of things must stand in some fundamental relation at one of the worlds but not the other. Like the strong supervenience principle, this weaker principle allows one to accept negative existentials as truthmaker gaps, but also allows one to treat contingent predications as truthmaker gaps. For example, suppose that while W1 and W2 contain all the same objects, they differ with respect to the properties those objects have. For example, suppose some object O is blue in W1, but red in W2. Because ‘O is blue’ is true in W1 but false in W2, the strong supervenience principle requires that there be some entity that exists in one of the worlds but not the other. But ex hypothesi the two worlds have the same ontology. The advocate of strong supervenience (alongside the maximalist) requires something like a blueness trope or state of affairs (that is, O’s being blue) to exist in W1 but not W2. The contingent predication still needs a truthmaker. The advocate of weak supervenience, by contrast, does not require the contingent predication to have a truthmaker. While there is no entity that guarantees the truth of ‘O is blue’ in W1, its truth nevertheless depends on being in the sense that had it been false, there must be some difference in what exists, or in what properties those things have and what relations they stand in. The worlds where ‘O is blue’ is false are worlds where either O does not exist, or has different properties, such as being red.
+Maximalism, strong supervenience, and weak supervenience are all attempts to capture the basic intuition behind truthmaker theory, and avoid the commitment to there being truths that ‘float free’ of reality. Some philosophers, however, have admitted that there are truths that do not depend on being at all, in any sense. Roy Sorensen (2001), for example, has argued that the puzzling truthteller sentence ‘This very sentence is true’ has a determinate truth value, but that it can never be known. Unlike the paradoxical liar sentence (‘This very sentence is false’), the truthteller is consistent: it can be true or false without contradiction. Sorensen argues that the truthteller is what we might call a deep truthmaker gap. Its truth does not depend on being in any sense, whereas shallow truthmaker gaps like contingent predications and negative existentials (if indeed they are truthmaker gaps) still in some sense depend on being. Sorensen argues that the truthteller’s status as a deep truthmaker gap explains why its truth value is unknowable: because we usually come to know truths by way of some kind of connection to their truthmakers, the fact that the truthteller (or its negation) lacks a truthmaker explains why we do not know its truth value.
+Other forms of non-maximalism include the thesis that only ‘positive’ truths have truthmakers (however the positive/negative distinction may be articulated), that only synthetic truths have truthmakers, and that only contingent truths have truthmakers. It is incumbent upon theorists adopting such views that they explain why negative, analytic, or necessary truths are best thought of as not requiring truthmakers when accounting for their truth.
+Finally, consider the following argument against maximalism, which does not turn at all on the plausibility of the various sorts of ontological truthmaking posits. Consider the sentence ‘This very sentence has no truthmaker’. This sentence is provably true (see Milne 2005). To see why, first suppose it is false. In that case, it has a truthmaker, in which case it is true: contradiction. So it must be true after all. Therefore, it has no truthmaker, since that is what it says about itself. It is a truthmaker gap. Here, simple reasoning leads to the view that there is at least one truth without a truthmaker. Many maximalists reject this argument (sometimes by assimilating it to the liar paradox), but nevertheless it remains to be seen where the reasoning goes wrong (see, for example, Rodriguez-Pereyra 2006a).
+4. Kinds of Truthmakers
+Truthmaker theorists are motivated by ontological questions: we can make progress on figuring out what exists by pursuing questions about what truthmakers there are. Considerations about truthmaking have thus led to different views about what exactly is included in the world’s ontology. These considerations often go hand in hand with the ancient metaphysical debate between realists and nominalists in discussions over the nature and existence of universals.
+In his logical atomism, Russell just accepted as a truism the existence of facts, which are the sorts of things that make propositions true. Armstrong accepts the existence of similar objects, but he calls them ‘states of affairs’. A state of affairs is a complex object composed (in a non-mereological way) by a particular together with a universal. To offer a simplified example, suppose there is a universal of being a philosopher. Socrates instantiates this universal, and so in addition to the existence of Socrates and the universal, there is a third thing—we might call it ‘Socrates’s being a philosopher’—that is a kind of fusion of the other two.
+Armstrong offers a truthmaking argument for the existence of states of affairs. It is true that Socrates is a philosopher. But Socrates does not make this claim true. Because the claim is a contingent predication, it is possible that Socrates could have existed and yet not been a philosopher. So Socrates does not necessitate the truth of ‘Socrates is a philosopher’, and so is not a truthmaker for the sentence. Nor does the universal being a philosopher necessitate ‘Socrates is a philosopher’, for it might have existed without Socrates being a philosopher. (Something else could have instantiated the universal.) Furthermore, not even the mereological sum of Socrates together with being a philosopher necessitates ‘Socrates is a philosopher’. For a world in which Socrates exists but is not a philosopher, though someone else is, is a world where the mereological sum exists but the sentence is false. On this basis, Armstrong argues that there must be something else, a state of affairs, that is a fusion of the particular and the property. Every world where the state of affairs composed by Socrates and being a philosopher is a world where ‘Socrates is a philosopher’ is true. On this basis, Armstrong defends the existence of states of affairs in the name of offering a satisfying truthmaker theory for contingent predications.
+Similarly, Armstrong argues that we also need totality states of affairs in order to find truthmakers for negative and general truths. All the first-order states of affairs that exist are not enough to guarantee that there are no unicorns, or that all spheres of gold are less than a mile in diameter. So Armstrong posits the existence of a totaling relation, and second-order states of affairs partially composed by it. Again we see truthmaking considerations driving an ontological argument for the existence of entities that we might not ordinarily posit.
+Not all truthmaker theorists accept Armstrong’s pro-universals and pro-states of affairs approach to truthmaker theory. Others have defended nominalist positions that reject the existence of universals, and so maintain the thesis that reality is exhausted by the particular. One popular ‘moderate’ form of nominalism is the view that there are tropes, which are individual, particularized property instances. Whereas the realist maintains that there is one unified thing, the universal of being a philosopher that is commonly instantiated by both Plato and Aristotle, the trope nominalist argues that there are two different ‘being a philosopher’ tropes: the trope associated with Plato is a distinct existence from the trope associated with Aristotle. Tropes, at least if thought of as essentially tied to their bearers, can serve as truthmakers for contingent predications. If Socrates’s being a philosopher trope exists, it must be true that Socrates is a philosopher. That trope, whose identity is bound up with Socrates, cannot in any sense be ‘transferred’ to Aristotle or anyone else. So tropes are sufficient necessitators for contingent predications. For those who find tropes ontologically advantageous over universals and states of affairs, this is a compelling argument. (It remains to be seen, however, whether trope theorists can provide truthmakers for negative and general truths, and so whether they must also, in the end, posit the existence of states of affairs.)
+Another nominalist-friendly approach to truthmakers comes from David Lewis (2003), who uses counterpart theory to resist the above arguments for states of affairs and tropes. On Lewis’s view, an object exists in only one possible world, but has counterparts in different possible worlds. But there are multiple ways of thinking about objects, and so multiple ways of identifying an object’s counterparts. For example, we can use the name ‘Socrates qua philosopher’ to identify a series of counterparts to Socrates, all of whom are philosophers. Similarly, ‘Socrates qua Greek’ identifies Socrates in a way such that all his counterparts are Greek. Lewis next maintains that objects under counterpart relations can be truthmakers for contingent predications: every possible world in which Socrates qua philosopher exists is a world in which Socrates (or his counterpart) is a philosopher. So Lewis provides necessitating truthmakers for contingent predications without admitting the existence of tropes or states of affairs.
+The previous arguments presuppose that contingent predications and/or negative and general truths require truthmakers. If they do, then truthmaker theorists are led to positing the existence of objects such as universals, tropes, states of affairs, and counterparts. A competing perspective, however, derives from a refusal to assume maximalist truthmaking principles, and so avoids such arguments. This alternative approach does not assume from the beginning that contingent predications and/or negative and general truths require truthmakers, and so is not ready to concede that we need an ontology of counterparts, tropes, or states of affairs. Instead of defending the existence of such entities, these truthmaker theorists defend the truth of non-maximalist truthmaker principles (as discussed in section 3). For example, advocates of the strong supervenience principle—that any difference in truth between two possible worlds requires a difference in ontology between the two worlds—believe that negative and general truths do not require truthmakers, and so, for example, Armstrong’s argument for totality states of affairs is unsuccessful. Similarly, advocates of the weak supervenience principle—that any difference in truths between two possible worlds requires either a difference in ontology or a difference in what fundamental relations objects stand in—argue that contingent predications do not require truthmakers, and so the arguments above do not succeed in showing that such posits exist.
+5. Truthmaking Principles
+Some very general and controversial principles concerning truthmaker theory have been canvassed above, such as maximalism, strong and weak supervenience, and principles concerning whether the truthmaking relation is irreflexive (or merely non-reflexive), asymmetric (or merely non-symmetric), or anti-transitive (or merely non-transitive). Other disputed truthmaking principles concern how truthmakers relate to one another, and what other logical principles apply in the theory of truthmaking.
+One such principle in truthmaker theory is the entailment principle: if X is a truthmaker for Y, then X is a truthmaker for anything entailed by Y. For example, suppose that the state of affairs of Socrates’s being a philosopher exists, and is a truthmaker for ‘Socrates is a philosopher’. Because ‘Socrates is a philosopher’ entails ‘Something is a philosopher’, the entailment principle holds that the state of affairs of Socrates’s being a philosopher is also a truthmaker for ‘Something is a philosopher’. Furthermore, any other state of affairs involving the universal being a philosopher will also be a truthmaker for ‘Something is a philosopher’, since the truthmaking relation is not one-one.
+While seemingly quite plausible, the entailment principle runs into an immediate difficulty: the problem of trivial truthmakers for necessary truths. ‘Socrates is a philosopher’ also entails ‘2 + 2 =4’, at least when entailment is thought of on the model of necessary truth preservation. Every world where ‘Socrates is a philosopher’ is true is a world where ‘2 + 2 = 4’ is true. But, presumably, the state of affairs of Socrates’s being a philosopher is not a truthmaker for ‘2 + 2 =4’, though the entailment principle suggests otherwise. In response, truthmaker theorists find ways to restrict the entailment principle, or offer alternate understandings of the kind of entailment in question. Generally speaking, truthmaker theorists attempt to articulate a hyperintensional account of entailment that is more modally discriminating than standard entailment. For example, one might think that some sort of relevance notion of entailment is at stake (for example, Restall 1996); the hope is to develop a conception of entailment that maintains that while ‘Socrates is a philosopher’ entails ‘Someone is a philosopher’, it does not entail ‘2 + 2 =4’.
+Another plausible truthmaking principle—and one entailed by the entailment principle—is the conjunction principle. According to this principle, any truthmaker for a conjunction is also a truthmaker for the individual conjuncts. The conjunction principle follows from the entailment principle simply because conjuncts are entailed by the conjunctions they compose. While plausible, the principle has been doubted (for example, Rodriguez-Pereyra 2006c). The principle might seem appealing so long as we think of the truthmaking relation as tracking entailment relations. But recall that the truthmaking relation is not just a necessitation or entailment relation. As an ‘in virtue of’ relation, there is more to being a truthmaker than just being a necessitator. Take, for example, the conjunctive truth ‘Socrates exists and Aristotle exists’. A plausible truthmaker for this conjunction is the mereological sum composed by Socrates and Aristotle. If that sum exists, the conjunction has to be true. But is that mereological sum a truthmaker for the individual conjuncts? Put another way: is ‘Socrates exists’ true in virtue of the existence of the mereological sum Socrates + Aristotle? One might say: no, ‘Socrates exists’ is true in virtue of the existence of Socrates, period. The mereological sum, while a genuine necessitator of the truth of ‘Socrates exists’, is not the entity responsible for the sentence’s truth. The truthmaker for the conjunction, in effect, has ‘extraneous’ parts that are irrelevant to the truth of some of its conjuncts. Since truthmaking is thought of as a hyperintensional relation such that mere necessitation is not sufficient for truthmaking, there is room to doubt that Socrates + Aristotle is a genuine truthmaker for ‘Socrates exists’. Other philosophers who defend the conjunction principle may simply accept the sum as an adequate, albeit non-‘minimal’ truthmaker for the conjunct. (That is, the truthmaker has a proper part that is also a truthmaker.) After all, a truth may have multiple truthmakers on the standard view.
+A similar candidate truthmaking principle is the disjunction principle: any truthmaker for a disjunction is a truthmaker for at least one of the disjuncts. For example, if Socrates is a truthmaker for ‘Socrates exists or Cthulhu exists’, then he is a truthmaker either for ‘Socrates exists’ or ‘Cthulhu exists’. The principle seems innocuous enough, until one considers necessary disjunctions of the form ‘p or it is not the case that p’. If one accepts the basic entailment principle, then any object whatsoever is a truthmaker for every claim of the form ‘p or it is not the case that p’. By the disjunction principle, any object whatsoever is therefore a truthmaker of either ‘p’ or ‘it is not the case that p’, depending upon which one is the true disjunct. As a result, every object is a truthmaker for every truth. This unfortunate result has led many to rethink the plausibility of the entailment and disjunction principles. (This problem may well be circumvented if a ‘relevance’ style amendment to the entailment principle is offered.)
+A similar, but less controversial truthmaking principle about disjunction would be that any object that is a truthmaker for some truth is also a truthmaker for any disjunction that includes that truth as a disjunct. So since Socrates is a truthmaker for ‘Socrates exists’, he is also a truthmaker for ‘Socrates exists or Caesar sank in the Rubicon’. This sort of principle has been at work since the beginning of truthmaker theory; Russell (1985) relied on it when arguing that we need not posit a realm of disjunctive facts to make disjunctive propositions true. Atomic facts on their own suffice to serve as truthmakers for disjunctions.
+6. Truthmaking and Truth
+This section is a halfway house in the transition away from the internal concerns of truthmaker theory, and toward its external connections with other domains of philosophy, for it is controversial whether or not the theory of truth is a distinct domain from the theory of truthmakers. This section explores the relationship between the theory of truth and the theory of truthmakers, and surveys the possible attitudes one might take about their relationship to one another.
+The history of truthmaker theory is inextricably linked with the correspondence theory. The metaphysical ambitions of Russell’s logical atomism are a natural extension of the correspondence theory of truth that he was beginning to accept around the same time period. Nowadays truthmaker theory is sometimes thought of as a modified, contemporary update of correspondence theory. It is no great mystery why. According to correspondence theories of truth, a proposition is true if and only if it stands in the correspondence relation to some worldly entity. (Oftentimes these entities are thought to be facts.) According to truthmaker theory, it seems that propositions are true if and only if they have a truthmaker; that is, a proposition is true just in case it stands in the truthmaking relation to some worldly entity, its truthmaker. If one identifies the truthmaking relation with the correspondence relation, and the set of truthmakers (facts or not) with the set of corresponding objects, then it certainly appears that truthmaker theory provides a correspondence-style theory of truth.
+Notice that the above perspective presupposes maximalism. The only possible way of finding a theory of truth (let alone a correspondence theory of truth) inside truthmaker theory is to first commit to the thesis that every truth has a truthmaker. Any truthmaker gap would be an exception to anyone trying to explain the nature of truth by way of truthmakers. So the fact that maximalism is an optional requirement of truthmaker theory shows that taking truthmaker theory to be a theory of truth is also optional at best.
+Even granting maximalism, anyone who seeks to define truth in terms of truthmakers still faces a crucial challenge. The truthmaking relation is itself typically understood in terms of truth. Truthmakers are objects that necessitate the truth of certain propositions, and not their other features. The accounts of the truthmaking relation canvassed in section 2 all presuppose the notion of truth. The essential dependence account, for example, holds that X is a truthmaker for Y only if Y is essentially such that it is true if X exists. Unless truthmaking can somehow be analyzed without further resort to truth, it cannot, on pain of circularity, be put to work in defining truth. Truth, it seems, is prior to truthmaking. Truthmaker theory presupposes the notion of truth, and so is not fit to serve as a theory of truth itself.
+If truthmaker theory presupposes the notion of truth, does it presuppose any particular conception of truth? Again, many might think that truthmaker theory presupposes a correspondence theory of truth, or some similar substantive theory of truth. Several philosophers have also argued that truthmaker theory is incompatible with deflationary theories of truth (for example, Vision 2005). According to deflationary theories, truth is not a substantive property of propositions, in virtue of which they are true. The proposition that snow is white is not true in virtue of its having some property, or standing in a particular relation (for example, correspondence) to some object (or fact). Rather, the deflationist maintains, there is nothing more to the truth of the proposition that snow is white other than snow being white.
+Accordingly, some might see deflationary theories of truth as containing an implicit rejection of truthmaker theory. As a result, truthmaker theory is incompatible with deflationary theories, and must presuppose some substantive theory of truth. (If not correspondence, there are coherence theories, pragmatic theories, epistemic theories, and others.) But it is not at all clear that anything in truthmaker theory conflicts with deflationary theories of truth. The latter tend to consist of axioms such as ‘The proposition that snow is white is true if and only if snow is white’ and ‘The proposition that Socrates is a philosopher is true if and only if Socrates is a philosopher’. These biconditionals themselves do not conflict with anything in truthmaker theory (or, typically, with any other theory of truth, either). Deflationists also maintain, in addition, that these axioms exhaust all there is to be said about the nature of truth. (It is this negative claim that substantive theories of truth must reject.) But truthmaker theorists need not be offering the claims of their theories as in any way revealing the nature of truth itself. To say that the truthmaker for the proposition that Socrates is a philosopher is a particular trope, state of affairs, or Socrates under a counterpart relation is not to say anything about the nature of truth itself. Rather, it is a claim about the particular ontological grounds needed for a particular claim about Socrates. In principle, truthmaker theorists and deflationists have nothing that they must disagree about.
+7. Truthmaking and the Past
+A longstanding metaphysical question concerns the reality of the past. Everyone can agree that entities in the present exist. But what about the objects that do not currently exist but someday will? And what about objects that used to exist but exist no longer? Presentism is the view that reality is exhausted by the present; the only things that exist are entities in the present. Eternalism, by contrast, is the view that there is no time limit on what exists: entities from the past are just as real as presently existing entities, which are just as real as future entities.
+The existence of non-present entities is a highly contentious issue in philosophy. What is less controversial is the fact that there are, presently, truths about entities from the past. Presentists and eternalists disagree as to whether Socrates, a past entity, exists. But they agree that ‘Socrates existed’ is true. (What is more contentious is whether or not there are, right now, truths about the future. Parallel problems arise for those who think that there are truths about the future, but do not believe in the existence of purely future entities.) Eternalists face no difficulty in accounting for how such claims can be true. Socrates is the truthmaker for ‘Socrates existed’ in just the way that the Eiffel Tower is the truthmaker for ‘The Eiffel Tower exists’. Socrates and the Eiffel Tower are equally real, from the eternalist’s metaphysical point of view. One is located entirely in the past, and the other is located (but not entirely) in the present. But the present is not metaphysically privileged, so entities from the past and future are freely available to eternalists to serve as truthmakers.
+Presentism, by contrast, faces a challenge from truthmaker theory. Given that there are truths about the past, but nothing (fully) from the past that exists, presentists are at pains when accounting for what, if anything, there is that can make those truths about the past true. Presentists have two available options: First, they can deny that truths about the past have truthmakers. Second, they can attempt to show that there are sufficient ontological resources in the present to ground the truths about the past.
+Consider first the strategy of denying that truths about the past have truthmakers. This is a form of non-maximalism that limits truthmakers to truths about the present. Recall from section 3 that there are two distinct ways of conceiving of truthmaker gaps, that is, truths without truthmakers. There are deep truthmaker gaps, which are truths that do not depend in any way whatsoever upon what exists. Deep truthmaker gaps violate the principle that truth supervenes upon being: a deep truthmaker gap could be true in one world, but false in another, without there being any other difference between the two worlds. Shallow truthmaker gaps, by contrast, do not have truthmakers, but their truth is nonetheless ontologically accountable (by way, perhaps, of their adherence to one of the supervenience principles).
+It appears that presentists cannot take advantage of the supervenience principles that have been defended by truthmaker theorists, and so appear to be forced into the view that if truths about the past are truthmaker gaps, they are deep truthmaker gaps. To see why, consider two presentist universes. These worlds are metaphysically indiscernible at the present moment: all the same things exist, and stand in the same fundamental relations. But they have different histories. In one of the universes, at some point some radioactive atom A decayed within its half-life, while a neighboring atom B did not. In the other universe, B decayed within its half-life, that is, within the predicted time it would take for half of a group of B-like atoms to radioactively decay, while A did not. So in the first universe, ‘A decayed within its half-life’ is true, while it is false in the second universe. But this difference has made no later difference in the histories of these universes, and so now, at present, the two universes are indiscernible. Yet something is true in one of them but not the other. So supervenience has been violated: they are discernible with respect to truth, but indiscernible with respect to being. Hence, presentists cannot defend a non-maximalist perspective on truths about the past without conceding that those truths are deep truthmaker gaps. But deep truthmaker gaps are highly unattractive—they make the truths in question brute, inexplicable truths. Given that eternalists have an easy, straightforward account of truthmakers for truths about the past, presentists face a serious objection. Presentists might respond by claiming that the supervenience principles need to be appropriately modified, such that truth supervenes on not just present being, but past being as well. But this response requires that present truths stand in relations to past entities, which is impossible for presentists who do not believe in past entities. If there are no past entities, there are no past entities for present truths to supervene upon.
+The second strategy for presentism is to deny that there are no presently available truthmakers for truths about the past. On this kind of account, the burden is on the presentist to offer an ontological account of what present entities are available that can provide grounds for truths about the past. An eclectic menagerie of entities has been posited by presentists over the years to serve as truthmakers. Some have suggested that the world—the present world—has a variety of ‘tensed properties’ (for example, Bigelow 1996). For example, while echidnas make true ‘There are echidnas’, the world’s having the property there having been dinosaurs makes true ‘There were dinosaurs’. Others have posited a realm of ‘tensed facts’ (for example, Tallant 2009). A tensed fact is a sui generis entity posited solely to provide a truthmaker for past truths. So the truthmaker for ‘There were dinosaurs’ is on this view just an entity of some sort that we call ‘the fact that there were dinosaurs’. Still others have suggested that, for example, God’s memory of there being dinosaurs is a truthmaker for ‘There were dinosaurs’ (for example, Rhoda 2009).
+Anyone can posit an entity to be a truthmaker. Such posits constitute a genuine solution to the truthmaking challenge to presentism only if those entities are the right sorts of entities to be truthmakers, and only if they are entities whose existence is plausible and can be independently motivated (lest they remain ad hoc posits). After all, the eternalist stands ready with plausible, independently motivated truthmakers. Hence, presentists do not need to just offer some account of truthmakers for past truths; they need to provide an equally good account.
+Tensed facts fail both sorts of challenges. Consider Socrates’s last moments, as the hemlock spread through his blood. During those moments, ‘Socrates exists’ was true, and made true by Socrates. A few moments later, ‘Socrates existed’ is true, and made true by a tensed fact that has just sprung into existence. That two truths so similar should be made true by such drastically different entities should be fairly disquieting. Socrates seems to be the perfect sort of thing to explain why ‘Socrates exists’ is true. After all, the sentence is about Socrates, a human being, and so a human being seems fit to provide the grounds for its truth. ‘Socrates existed’ is also about a human being, but now the supposed truthmaker is some sort of sui generis entity, something that is certainly composed in no way by a human being. There is no independent reason to believe in tensed facts; they are put forward as truthmakers for truths about the past by brute force, since it is unclear what they are apart from their stipulated role of being truthmakers for truths about the past.
+Tensed property views face a similar sort of objection. ‘Socrates exists’ is true at some moment in virtue of Socrates. ‘Socrates existed’ is true the next moment, but in virtue of the world’s having some tensed property. Why, one might wonder, is not ‘Socrates exists’ true, when it is true, in virtue of the world having the tensed property presently containing Socrates? If such properties are not motivated to account for the present, it is unclear why we should posit them to account for the past.
+In general, any strategy using presently existing entities to make true truths about the past will face a common explanatory problem (Sanson and Caplan 2010). Why are truths about the past true in virtue of things in the present? After all, truths about the past seem to be about the past, and so it is unclear how anything not from the past could be an adequate explanation of why they are true. Truthmakers are not mere necessitators; they have to give the right sort of grounds for their truths. God’s memory of there being Socrates certainly necessitates the truth of ‘Socrates existed’. But it is fair to claim that ‘Socrates existed’ is not true in virtue of God’s having a particular memory. (To deny this seems to accept some form of divine idealism.) So God’s memories aren’t the right kind of thing to make true ‘Socrates existed’. (To the view’s credit, the existence of God’s memories can at least be motivated independently—for anyone motivated to believe in God. The view is obviously a non-starter for naturalistic metaphysics.)
+8. Truthmaking and Modality
+Another traditionally problematic domain of truths are the modal claims: claims involving possibility and necessity, as well as related kinds of claims such as counterfactuals. For example, there are claims about mere possibilities, that is, possibilities that do not obtain, but could have. There are also necessary and impossible truths, and truths that those truths are necessary or impossible. Since such claims appear to concern a realm beyond the actual world, the grounds for their truth have long intrigued metaphysicians.
+Though defended independently of his views about truthmaking, David Lewis’s modal realism can be put to work as a theory of truthmakers for some modal truths. According to Lewis, there exists, in addition to the actual world, infinitely many other concrete worlds. These other possible worlds are just as real as the actual world; the actual world bears no special metaphysical significance. While objects exist only in one possible world, they have counterparts in other worlds. An object’s counterparts are the entities in other possible worlds that are highly similar to the object (where similarity is explicated contextually). These counterparts can serve as truthmakers for modal truths concerning the actual world. For example, Socrates could have been a sophist. What makes that true, Lewis could maintain, is one of Socrates’s sophistic counterparts. Because there exists a counterpart of Socrates that is a sophist, ‘Socrates could have been a sophist’ is true in the actual world. At the same time, this view might face a relevance objection: the truth in question is a claim about Socrates, so how could it be made true by some individual existing in a separate, causally isolated possible world?
+Armstrong hopes for a more austere account of the truthmakers for truths of mere possibility. To do this, he defends the principle that any truthmaker for a contingent truth is also a truthmaker for the truth that that truth is contingent. So, if some object X is a truthmaker for some contingent proposition that p, then X is a truthmaker for the truth that it is contingent that p. And if it is contingent that p, it follows that it is possible that it is not the case that p. X will therefore provide a truthmaker for the truth of mere possibility (assuming the truth of the right sort of entailment principle). For example, Socrates might not have been a philosopher, even though he was. Suppose the truthmaker for ‘Socrates is a philosopher’ is the state of affairs of Socrates’s being a philosopher. In that case, Socrates’s being a philosopher also makes it true that it is contingent that Socrates is a philosopher. By the entailment principle, Socrates’s being a philosopher is also a truthmaker for the claim that it is possible that Socrates is not a philosopher. In this way, Armstrong defends an account of truthmakers for truths of mere possibilities that does not employ resources above and beyond the ordinary truthmakers needed to grounds truths solely about the actual world.
+As for necessary truths (and claims that such truths are necessary), most truthmaker theorists are agreed that not just any old entity will do, since mere necessitation is not sufficient for truthmaking. If it is true that God exists, and necessarily so, then presumably God is the truthmaker for such claims, not every object whatsoever. What is more contentious is what it is that makes mathematical statements true. Platonists might defend their view on the basis that numbers, understood Platonically, are necessary for giving an account of truthmakers for mathematical truths (for example, Baron 2013). Others might hope for a non-Platonic basis for mathematical truthmakers. Since it is agreed that truthmakers need to be ‘about’ or relevant to their corresponding truths, non-Platonists face the challenge of explaining how their purported truthmakers ground the truth of claims that at least appear to concern Platonic entities.
+There are many more modal cases to keep truthmaker theorists busy. There are truths of natural necessity (for example, that all copper conducts electricity), conceptual truths (for example, that all bachelors are male), and logical truths (for example, that someone is human only if someone is human). All pose unique challenges for truthmaker theory.
+9. Objections to Truthmaker Theory
+Many philosophers are unmoved by truthmaker theory. A common thread running between the various objections that have been raised is that truthmaker theory lacks the sufficient motivation that would be necessary to justify its ontological posits. Truthmaker theory traditionally defends the existence of ontologically controversial entities (such as states of affairs or tropes), and so such posits should figure into theories only when they have some indispensable theoretical role to play. And many are convinced that no such role exists.
+One line of objection maintains that truthmaker principles that are weaker than maximalism are not worthy of the name, and that the ontological posits required for maximalism are unacceptable. So no form of truthmaker theory is tenable. (See, for example, Dodd 2002 and Merricks 2007.) Such objections rely on conceptions of truthmaker theory that are substantially narrower than what is actually found in the literature; non-maximalists will be unmoved by such supposed refutations. It is up to truthmaker theorists, not their opponents, to decide who counts as a truthmaker theorist.
+Another common style of objection is to claim that the intuitions behind truthmaker theory can be saved far more economically by ontologically innocuous principles (for example, Hornsby 2005). As a result, the key but controversial principles supporting truthmaker theory (and the ontological results they produce) are unmotivated, and so should be rejected. The objection runs as follows. As above, a central motivating thought behind truthmaker theory is that truth depends on reality. Maximalists account for this intuition by way of requiring that every truth be made true by some entity, in virtue of which that truth is true. Non-maximalists might look to the strong or weak supervenience principles to explain how what is true is not independent from what exists and how those things are arranged. But other philosophers find these principles to be overreactions to the idea that truth depends on being. For these philosophers, that idea is best cashed out by pointing to the instances of the following schema:
+The proposition that p is true because p.
+For instance, the proposition that Socrates is a philosopher is true because Socrates is a philosopher. According to the objection, this ‘because principle’ suffices to explain how the truth of the proposition that Socrates is a philosopher depends upon reality. After all, this maneuver seems to capture the asymmetry between truth and reality. For instances of the reverse schema are false:
+p because the proposition that p is true.
+It is not the case that Socrates is a philosopher because the proposition that Socrates is a philosopher is true. Hence, there is no need to entertain the existence of a state of affairs or trope, and no need to posit general claims about the supervenience of truth on being.
+The most natural response for truthmaker theorists to make is that the above ‘because principles’ remain silent on the questions of interest to truthmaker theorists. Advocates of the objection claim that such principles express the appropriate dependency between truth and reality. But there is no mention of reality anywhere in the principles. Consider what is being expressed by the ‘because principles’. They appear to apply a relation—the ‘because’ relation—between two sentences, or perhaps two propositions. The first sentence applies truth to a proposition; the second is just the use of a sentence that expresses that proposition. The ‘because principle’ cannot be expressing a relation involving entities such as facts or states of affairs, since the objector does not believe in the need for an ontology of those kinds of things. In fact, one can endorse a ‘because principle’ without taking any metaphysical or ontological stand about anything. The sentence ‘Socrates is a philosopher’ is completely silent on what exists. The sentence itself does not tell you what its ontological commitments are; one must bring to the sentence a theory of ontological commitment or truthmaking in order to determine what its metaphysical implications are. Presumably, advocates of the ‘because principles’ think that the used sentence following ‘because’ somehow involves reality. In so doing, they betray the fact that they are reading ontological implications already into the sentence. They are bringing, in other words, an implicit theory of truthmaking to the table.
+Consider again the sorts of suspicious counterfactual conditionals that motivated truthmaker theory in the first place. The counterfactual ‘If I were to go to the quad I would have a tree-like sensory impression’ appears to be true, and true in virtue of the existence of a real, live tree in the quadrangle courtyard. That is the view that puts pressure on ontologies limited to actual sensory impressions: they have no available truthmakers for such counterfactuals, and so must take such claims to be primitive, brute truths. The objector to truthmaker theory points out that the proposition that if I were to go to the quad I would have a tree-like sensory impression is true because if I were to go to the quad I would have a tree-like sensory impression. That is true, but beside the point. It does not explain the need for something to exist in order for something to be true. We’re left wondering why I would have a tree-like sensory impression if I were to go to the quad. All the ‘because principle’ does (at least on the readings available to the objector) is cite a relation that obtains between two sentences or propositions; but truthmaker theorists are after a relation between truth and reality.
+10. References and Further Reading
+
+Armstrong, D. M. 2004. Truth and Truthmakers. Cambridge: Cambridge University Press.
+
+A systematic account of truthmaker theory by one of its most established proponents.
+
+
+Baron, Sam. 2013. A truthmaker indispensability argument. Synthese 190: 2413-2427.
+
+Argues for mathematical Platonism on the basis of certain truthmaking considerations.
+
+
+Beebee, Helen and Julian Dodd. 2005. Truthmakers: The Contemporary Debate. Oxford: Clarendon Press.
+
+An anthology of various essays both critical and supportive of truthmaker theory.
+
+
+Bigelow, John. 1988. The Reality of Numbers: A Physicalist’s Philosophy of Mathematics. Oxford: Clarendon Press.
+
+Defends the strong supervenience principle, offering a non-maximalist approach to truthmaker theory.
+
+
+Bigelow, John. 1996. Presentism and properties. Philosophical Perspectives 10: 35-52.
+
+Discusses the relationship between truthmaker theory and presentism; defends the view that truths about the past have truthmakers in the present.
+
+
+Cameron, Ross P. 2008. Truthmakers and ontological commitment: or how to deal with complex objects and mathematical ontology without getting into trouble. Philosophical Studies 140: 1-18.
+
+Defends a view that requires truthmakers to be fundamental entities.
+
+
+Caplan, Ben and David Sanson. 2011. Presentism and truthmaking. Philosophy Compass 6: 196-208.
+
+Provides an accessible introduction to presentism and truthmaker theory.
+
+
+Dodd, Julian. 2002. Is truth supervenient on being? Proceedings of the Aristotelian Society (New Series) 102: 69-85.
+
+Argues that truthmaker theory is unmotivated.
+
+
+Hornsby, Jennifer. 2005. Truth without truthmaking entities. In Truthmakers: The Contemporary Debate, eds. Helen Beebee and Julian Dodd, 33-47. Oxford: Clarendon Press.
+
+Argues that the intuitions behind truthmaking can be captured without resort to contentious ontological posits.
+
+
+Lewis, David. 2001. Truthmaking and difference-making. Noûs 35: 602-615.
+
+Provides an important critical perspective on maximalist truthmaker theory that relies on defending the weak supervenience principle.
+
+
+Lewis, David. 2003. Things qua truthmakers. In Real Metaphysics: Essays in Honour of D. H. Mellor, eds. Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra, 25-42. London: Routledge.
+
+Provides a nominalist-friendly account of truthmaker theory that employs counterpart theory.
+
+
+Lowe, E. J. 2009. An essentialist approach to truth-making. In Truth and Truth-Making, eds. E. J. Lowe and A. Rami, 201-216. Stocksfield: Acumen.
+
+Defends the view that the truthmaking relation is a kind of essential dependence.
+
+
+Lowe, E. J. and A. Rami, eds. 2009. Truth and Truth-Making. Stocksfield: Acumen.
+
+An anthology of papers on truthmaker theory, including several on this list, that provides an introduction to core issues in truthmaker theory.
+
+
+MacBride, Fraser. 2014. Truthmakers. In The Stanford Encyclopedia of Philosophy (Spring 2014 Edition), ed. Edward N. Zalta.
+
+Provides a detailed overview of several main theoretical concerns within truthmaker theory.
+
+
+Mellor, D. H. 2003. Real metaphysics: replies. In Real Metaphysics: Essays in Honour of D. H. Mellor, eds. Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra, 212-238. London: Routledge.
+
+Offers an argument that the truthmaking relation does not require necessitation.
+
+
+Merricks, Trenton. 2007. Truth and Ontology. Oxford: Clarendon Press.
+
+Offers a sustained and ultimately negative critical evaluation of truthmaker theory.
+
+
+Milne, Peter. 2005. Not every truth has a truthmaker. Analysis 65: 221-224.
+
+Raises a potential paradox for maximalism.
+
+
+Molnar, George. 2000. Truthmakers for negative truths. Australasian Journal of Philosophy 78: 72-86.
+
+Introduces and discusses the problem of negative truths for truthmaker theory.
+
+
+Mulligan, Kevin, Peter Simons and Barry Smith. 1984. Truth-makers. Philosophy and Phenomenological Research 44: 287-321.
+
+Offers a non-maximalist approach to truthmaker theory without resorting to states of affairs that begins by finding truthmakers for atomic facts.
+
+
+Restall, Greg. 1996. Truthmakers, entailment and necessity. Australasian Journal of Philosophy 74: 331-340.
+
+Discusses problems (such as that related to the disjunction principle) with treating the truthmaking relation merely as a relation of necessitation.
+
+
+Rhoda, Alan R. 2009. Presentism, truthmakers, and God. Pacific Philosophical Quarterly 90: 41-62.
+
+Posits the existence of God’s memories as providing presentist-friendly truthmakers for truths about the past.
+
+
+Rodriguez-Pereyra, Gonzalo. 2006a. Truthmaker Maximalism defended. Analysis 66: 260-264.
+
+Defends truthmaker maximalism against Milne’s argument on the grounds that it begs the question.
+
+
+Rodriguez-Pereyra, Gonzalo. 2006b. Truthmakers. Philosophy Compass 1: 186-200.
+
+Provides a highly accessible introduction to central issues in truthmaker theory.
+
+
+Rodriguez-Pereyra, Gonzalo. 2006c. Truthmaking, entailment, and the conjunction thesis. Mind (New Series) 115: 957-982.
+
+Argues against certain core principles discussed in the truthmaking literature.
+
+
+Russell, Bertrand. 1985. The Philosophy of Logical Atomism. ed. David Pears. La Salle, IL: Open Court.
+
+An early work that makes use of truthmaking ideas that gave rise to and inspired future contemporary work on truthmakers.
+
+
+Ryle, Gilbert. 1949. The Concept of Mind. Chicago: University of Chicago Press.
+
+Presents Ryle’s behaviorism that becomes a later target of truthmaker theory.
+
+
+Sanson, David and Ben Caplan. 2010. The way things were. Philosophy and Phenomenological Research 81: 24-39.
+
+Argues against various defenses of truthmakers for presentism on the ground that such posits are insufficiently explanatory.
+
+
+Sorensen, Roy. 2001. Vagueness and Contradiction. Oxford: Clarendon Press.
+
+In the last chapter of this book Sorensen argues that the truthtelling sentence ‘This very sentence is true’ is a deep truthmaker gap: a truth without a truthmaker that depends in no way upon reality.
+
+
+Tallant, Jonathan. 2009. Presentism and truth-making. Erkenntnis 71: 407-416.
+
+Discusses various strategies for presentist truthmaking.
+
+
+Vision, Gerald. 2005. Deflationary truthmaking. European Journal of Philosophy 13: 364-380.
+
+Discusses the relationship between truthmaker theory and the deflationary theory of truth, and finds the two projects difficult to combine.
+
+
+
+ 
+Author Information
+Jamin Asay
+Email: asay@hku.hk
+University of Hong Kong
+Hong Kong
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

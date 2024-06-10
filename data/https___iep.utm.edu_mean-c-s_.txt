@@ -1,0 +1,580 @@
+
+
+
+
+
+
+
+
+
+Meaning and Context-Sensitivity | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meaning and Context-Sensitivity
+Truth-conditional semantics explains meaning in terms of truth-conditions. The meaning of a sentence is given by the conditions that must obtain in order for the sentence to be true. The meaning of a word is given by its contribution to the truth-conditions of the sentences in which it occurs.
+What a speaker says by the utterance of a sentence depends on the meaning of the uttered sentence. Call what a speaker says by the utterance of a sentence the content of the utterance. Natural languages contain many words whose contribution to the content of utterances varies depending on the contexts in which they are uttered. The typical example of words of this kind is the pronoun ‘I’. Utterances of the sentence ‘I am hungry’ change their contents depending on who the speaker is. If John is speaking, the content of his utterance is that John is hungry, but if Mary is speaking, the content of her utterance is that Mary is hungry.
+The words whose contribution to the contents of utterances depends on the context in which the words are uttered are called context-sensitive. Their meanings are guidance for speakers to use language in particular contexts for expressing particular contents.
+This article presents the main theories in philosophy of language that address context-sensitivity. Section 1 presents the orthodox view in truth-conditional semantics. Section 2 presents linguistic pragmatism, also known as ‘contextualism’, which comprises a family of theories that converge on the claim that the orthodox view is inadequate to account for the complexity of the relations between meanings and contexts. Sections 3 and 4 present indexicalism and minimalism, which from two different perspectives try to resist the objections raised by linguistic pragmatism against the orthodox view. Section 5 presents relativism, which provides a newer conceptualization of the relations between meanings and contexts.
+Table of Contents
+
+The Orthodox View in Truth-Conditional Semantics
+
+Context-Sensitive Expressions and the Basic Set 
+Following Kaplan: Indexes and Characters
+Context-Sensitivity and Saturation
+Grice on What is Said and the Syntactic Constraint
+Semantic Contents of Utterances
+
+
+Departing from the Orthodox View: Linguistic Pragmatism
+
+Underdetermination of Semantic Contents 
+Completions and Expansions
+Saturation and Modulation
+Core Ideas and Differences among Linguistic Pragmatists
+
+
+Defending the Orthodox View: Indexicalism
+
+Extending Indexicality and Polysemy
+Two Objections to Linguistic Pragmatism: Overgeneration and Normativity
+Hidden Variables and the Binding Argument
+Objections to the Binding Argument
+
+
+Defending the Autonomy of Semantics: Minimalism
+
+Distinguishing Semantic Content from Speech Act Content
+Rebutting the Arguments for Linguistic Pragmatism
+Motivation and Tenets of Minimalism 
+Testing Context-Sensitivity 
+
+
+Defending Invariant Semantic Contents: Relativism
+
+Indexicality, Context-Sensitivity, and Assessment-Sensitivity
+The Intelligibility of Assessment-Sensitivity
+Faultless Disagreement
+
+
+References and Further Reading
+
+References
+Further Reading
+
+
+
+1. The Orthodox View in Truth-Conditional Semantics
+a. Context-Sensitive Expressions and the Basic Set
+The orthodox view in truth-conditional semantics maintains that the content (proposition, truth-condition) of an utterance of a sentence is the result of assigning contents, or semantic values, to the elements of the sentence uttered in accord with their meanings and combining them in accord with the syntactic structure of the sentence. The content of the utterance is determined by the conventional meanings of the words that occur in the sentence.
+Conventional meanings are divided into two kinds. Meanings of the first kind determine semantic values that remain constant in all contexts of utterance. Meanings of the second kind provide guidance for the speaker to exploit information from the context of utterance to express semantic values. Linguistic expressions governed by meanings of the second kind are context-sensitive and can be used to express different semantic values in different contexts of utterance. The following is a list of some context-sensitive expressions (Donaldson and Lepore 2012):
+Personal pronouns: I, you, she
+Demonstratives: this, that
+Adjectives: present, local, foreigner
+Adverbs: here, now, today
+Nouns: enemy, foreigner, native
+Cappelen and Lepore (2005) call the set of expressions that exhibit context-sensitivity in their conventional meaning the Basic Set. Compare the following pair of utterances:
+(1) I am hungry (uttered by John).
+(2) John is hungry (uttered by Mary).
+Utterance (1) and utterance (2) have the same truth-conditional content. Both are true if and only if John is hungry. Yet, the sentence ‘I am hungry’ and the sentence ‘John is hungry’ have different meanings. The meaning of the first-person pronoun ‘I’ prescribes that only the speaker can utter it to refer to herself. Only John can utter the sentence ‘I am hungry’ to say that John is hungry. In a context where the speaker is not John, the sentence ‘I am hungry’ cannot be uttered to say that John is hungry. The meaning of the proper name ‘John’, instead, allows for speakers in different contexts of utterance to refer to John. In all contexts of utterance the sentence ‘John is hungry’ can be uttered to say that John is hungry.
+b. Following Kaplan: Indexes and Characters
+Since David Kaplan’s works (1989a, 1989b) in formal semantics, the conventional meaning of a word is a function from an index, which represents features of the context of utterance, to a semantic value. The features of the context of utterance include who is speaking, when, where, the object the speaker refers to with a demonstrative, and the possible world where the utterance takes place. Adopting Kaplan’s terminology, philosophers call the function from indexes to semantic values character. The semantic values of the words in a sentence relative to an index are composed into a function that distributes truth-values at points of evaluation, pairs of possible worlds and times. The formal semantic machinery determines the condition under which a sentence relative to a given index is true at a world and a time. For example, John’s utterance (1) is represented as the pair formed of the sentence ‘I am hungry’ and an index i that contains John as speaker. The semantic machinery determines the truth-condition of this pair so that the sentence ‘I am hungry’ at the index i is true at a possible world w and a time t if and only if the speaker of i is hungry in w at t; that is, if and only if John is hungry in w at time t. If Mary uttered the sentence ‘I am hungry’, another index i* with Mary as speaker would be needed to represent her utterance. The semantic machinery would ascribe to the sentence ‘I am hungry’ at the index i* the content that is true at a possible world w and a time t if and only if Mary is hungry in w at time t.
+In formal semantics, then, context-sensitive meanings are characters that vary depending on the indexes that represent features of the contexts of utterance, where indexes are tuples of slots, or parameters, to be filled in in order for sentences at indexes to have a truth-conditional content. The meanings of context-insensitive expressions, instead, are characters that remain constant in all indexes. For example, the meaning of the proper name ‘John’ is a constant character that returns John as semantic value in all indexes. No matter who is speaking, when, or where, John is the semantic value of the proper name ‘John’, and the sentence ‘John is hungry’, relative to all indexes, is true at a world w and time t if and only if John is hungry in w at time t.
+It is convenient here to introduce an aspect relevant to section 5. Since the indexes that are used to represent features of contexts of utterance contain possible worlds and times, the semantic machinery distributes unrelativised truth-values to index-sentence pairs. A sentence S at index i is true (simpliciter) if and only if S is true in iw at it, where iw and it are the possible world and the time of index; see Predelli (2005: 22). For example, if John utters the sentence ‘I am hungry’ at noon on 23 November 2019, the index that represents the features of John’s context of utterance contains the time noon on 23 November 2019 and the actual world. John’s utterance is true (simpliciter) if and only if John is hungry at noon on 23 November 2019 in our actual world.
+c. Context-Sensitivity and Saturation
+The orthodox truth-conditional view in semantics draws the distinction between the meaning of an expression type and the content of an utterance of the expression. The meaning of the expression type is the linguistic rule that governs the use of the expression. Context-insensitive expressions are governed by linguistic rules that determine their contents (semantic values), which remain invariant in all contexts of utterance. Context-sensitive expressions, instead, are governed by linguistic rules that prescribe how the speaker can use them to express contents in contexts of utterance.
+The meanings of context-sensitive expressions specify what kinds of contextual factors play certain roles with respect to utterances. More precisely, the meanings of context-sensitive expressions fix the parameters that have to be filled in in order for utterances to have contents. Philosophers and linguists use the technical term saturation for what the speaker does by filling in the demanded parameters with values taken from contextual factors. Indexicals are typical examples of context-sensitive expressions. For example, the meaning of the pronoun ‘I’ establishes that an utterance of it refers to the agent that produces it. The meaning of the demonstrative ‘that’ establishes that an utterance of it refers to the object that plays the role of demonstratum in the context of utterance. Thus, the meaning of ‘I’ demands that the speaker fill in an individual, typically herself, as the value of the parameter speaker of the utterance. And the meaning of ‘that’ demands that the speaker fill in a particular object she has in mind as the value of the parameter demonstratum.
+In formal semantics the parameters that are filled in with values are represented with indexes, and the meanings of expressions are functions—characters—from indexes to contents. The meanings of context-insensitive expressions are constant characters, while the meanings of context-sensitive expressions are variable characters. If a sentence contains no context-sensitive expressions, it can be uttered to express the same content in all contexts of utterance. On the contrary, if a sentence contains context-sensitive expressions, it can be used to express different contents in different contexts of utterances.
+d. Grice on What is Said and the Syntactic Constraint
+One of the main tenets of the orthodox truth-conditional view is that all context-sensitivity is linguistically triggered in sentences or in their logical forms. The presence of each component of the truth-conditional content of an utterance of a sentence is mandatorily governed by a linguistic element occurring in the uttered sentence or in its logical form. For this reason, some philosophers equate the distinction between the meanings of expression types and the contents of utterances with Paul Grice’s (1989) distinction between sentence meaning and what is said by an utterance of a sentence. The sentence meaning is given by the composition of the meanings of the words that occur in the sentence. What is said corresponds to the truth-conditional content that the speaker expresses by undertaking the processes of disambiguation, reference assignment, and saturation that are required by her linguistic and communicative intentions and by the meanings of the uttered words.
+Grice held that what is said is part of the speaker’s meaning. The speaker’s meaning is the content that the speaker intends to communicate by an utterance of a sentence. In Grice’s view, the speaker’s meaning comprises two parts: What is said and what is implicated. What is said is the content that the speaker explicitly and directly communicates by the utterance of a sentence. What is implicated is the content the speaker intends to convey indirectly. Grice called the contents that are indirectly conveyed implicatures. Implicatures can be inferred from what is said and general principles governing communication: the cooperative principle and its maxims. To illustrate Grice’s distinctions, suppose that at a party A, pointing to Bob and speaking to B, utters the following sentence:
+(3) That guest is thirsty.
+Following Grice, the utterance of (3) can be analysed at three distinct levels. (i) The level of sentence meaning is given by the linguistic conventions that govern the use of the words in the sentence. Due to linguistic competence alone, the hearer B understands that A’s utterance is true if and only if the individual, to whom A refers with the complex demonstrative ‘that guest’, is thirsty. (ii) The second level is given by what A says, that is, the truth-conditional content A’s utterance expresses. What is said—the content of A’s utterance—is that Bob is thirsty. To understand this content, B must consider A’s expressive and communicative intentions. B must understand that A has Bob in mind and wants to refer to him. To do so, B needs to rely on his pragmatic competence and contextual information. Mere linguistic competence is not enough. (iii) Finally, there is the level of what is meant through a conversational implicature. A intends that B offer Bob some champagne. Grice’s idea is that to understand what A intended to communicate, B must first understand the content of what A said—that Bob is thirsty—and then understand the implicature that it would be nice to offer Bob some champagne.
+One very important aspect of Grice’s view is that each element that enters the content of what is said corresponds to some linguistic expression in the sentence. Grice maintained that what is said is “closely related to conventional meanings of words” (1989: 25). Grice imposed a syntactic constraint on what is said, according to which each element of what is said must correspond to an element of the sentence uttered. Carston (2009) speaks of the ‘Isomorphism Principle’, which states that if an utterance of a sentence S expresses the propositional content P, then the constituents of P must correspond to the semantic values of some constituents of S or of its logical form.
+e. Semantic Contents of Utterances
+Some philosophers reject the equation of the notion of content of an utterance with Grice’s notion of what is said. For example, Korta and Perry (2007) maintain that the content of an utterance is determined by the conventional meanings of the words the speaker utters and by the fact that the speaker undertakes all the semantic burdens that are demanded by those meanings, in particular disambiguation, reference assignment, and saturation of context-sensitive expressions. Korta and Perry call the content of an utterance so determined locutionary content (see also Bach 2001) and argue that there are clear cases in which the locutionary content does not coincide with Grice’s what is said, which is always part of what the speaker intends to communicate, that is, the speaker’s meaning. Irony is a typical example of this distinction. When, pointing to X, a speaker utters the sentence:
+(4) He is a fine friend
+ironically, the speaker does not intend to communicate that X is a fine friend, but the opposite. Nonetheless, without identifying the referent of ‘he’ and the literal content of ‘is a fine friend’, that is, without understanding the locutionary content of (4), the hearer is not able to understand the speaker’s ironic comment.
+To illustrate in detail the debate on Grice’s notion of what is said goes beyond the purpose of this article. It is important to remark here that, according to the orthodox truth-conditional view—at least when speakers use language literally—what is said by an utterance of a sentence corresponds to the content that is determined by the conventional meanings of the words in the uttered sentence: The speaker undertakes all the semantic burdens that are demanded by those meanings, such as disambiguation, reference assignment, and saturation of context-sensitive expressions. When a speaker uses language literally, the content of an utterance of a sentence is what one gets by composing the semantic values of the expressions that occur in accord with their conventional meanings and the syntactic structure of the sentence. This content is a fully propositional one with a determinate truth-condition. This picture, which underlies the orthodox truth-conditional view in semantics, has been challenged by philosophers who call for a new theoretical approach. This new approach is called linguistic pragmatism and it expands the truth-conditional roles of pragmatics. The following section presents it.
+2. Departing from the Orthodox View: Linguistic Pragmatism
+a. Underdetermination of Semantic Contents
+Neale (2004) coined the term ‘linguistic pragmatism’, though some philosophers and linguists prefer the term ‘contextualism’. Linguistic pragmatism comprises a family of theories (Bach 1994, 2001, Carston 2002, Recanati 2004, 2001, Sperber and Wilson 1986) that converge on one main thesis, that of semantic underdetermination. Linguistic pragmatists maintain that the meanings of most expressions—perhaps all, according to radical versions of linguistic pragmatism—underdetermine their contents in contexts, and pragmatic processes that are not linguistically governed are required to determine them. The main point of linguistic pragmatism is the distinction between semantic underdetermination and indexicality.
+The orthodox view accepts that context-sensitivity is codified in the meanings of indexical expressions, which demand saturation processes. Linguistic pragmatists too accept this form of context-sensitivity, but according to them indexicality does not exhaust context-sensitivity. Linguistic pragmatists say that the variability of contents in contexts of many expressions is not codified in linguistic conventions. Rather, the variability of contents in contexts is due to the fact that the meanings of the expressions underdetermine their contents. Speakers must complete the meanings of the expressions with contents that are not determined by linguistic conventions codified in those meanings. The pragmatic operations that intervene in the process of completing the contents in context are not governed by conventions of the language, that is, by linguistic information, but work on more general contextual information.
+Linguistic pragmatists make use of three kinds of arguments to support their view:
+(i) Context-shifting arguments test people’s intuitions about the content of sentences in actual or hypothetical contexts of utterance. If people have the intuition that a sentence S expresses differing contents in different contexts, despite the fact that no overt context-sensitive expression occurs in S, it is evidence that some expression that occurs in S is semantically underdetermined. Consider the following example. Mark is 185 cm tall, and George utters the sentence:
+ (5) Mark is short
+in a conversation about the average height of basketball players and then in a conversation about the average height of American citizens. People have the intuition that what George said in the first context is true while what he said in the second context is false. Linguistic pragmatists draw the conclusion that the content of (5) varies through contexts of utterance, despite the fact that the adjective ‘short’ is not an overt context-sensitive expression. They argue that the content of ‘short’ is underdetermined by its conventional meaning and explain the variation in content from context to context as a result of pragmatic processes that are not linguistically governed but nonetheless complete the meaning of ‘short’.
+(ii) Incompleteness arguments too test people’s intuitions about the contents of sentences in context, pointing at people’s inability to evaluate the truth-value of a sentence without taking into account contextual information. Suppose George utters the sentence:
+(6) Anna is ready.
+People cannot say whether George’s utterance is true or false without considering what Anna is said to be ready for. The conclusion now is that (6) does not express a full propositional content with determinate truth-conditions. There is no such thing as Anna’s being ready simpliciter. The explanation is semantic underdetermination: The adjective ‘ready’ does not provide an invariant contribution to a full propositional content and it does not provide guidance to determine such a contribution either, because it is not an overt context-sensitive expression. The enrichment that is required to determine a full truth-conditional content is the result of a pragmatic process that is not governed by the meaning of ‘ready’.
+(iii) Inappropriateness arguments spot the difference between the content that is strictly encoded in a sentence and the contents that are expressed by utterances of that sentence in different contexts. Suppose a math teacher utters the following sentence in the course of a conversation about her class:
+(7) There are no French girls.
+People usually understand the math teacher to say that there are no French girls attending the math class. Some philosophers say that in this case there is an invariant semantic content composed out of the meanings of the words in the sentence: French girls do not exist. However, it seems awkward both to claim that in uttering (7) the speaker says that French girls do not exist and to claim that hearers understand (7) as denying the existence of French girls in general. On the contrary, it seems convenient to suppose that both speakers and hearers restrict the interpretation of (7) to a particular domain, such as the students attending the math class.
+b. Completions and Expansions
+The claim on which all versions of linguistic pragmatism agree is that very often the content of an utterance is richer than the content obtained composing the semantic values of the expressions in the uttered sentence. Adopting a terminology from Bach (1994), it is common to distinguish two cases of pragmatic enrichments: completions and expansions.
+With completions, the content determined by the meanings of the expressions that occur in a sentence is incomplete because it lacks full truth-conditions. These cases often recur in context-shifting arguments and incompleteness arguments:
+(5) Mark is short.
+(6) Anna is ready.
+People do not know what conditions a person must meet to be short or ready simpliciter, so it appears there are no determinate conditions making a person so. To obtain a truth-conditional content it is necessary to add elements that do not correspond to any expression in (5) and (6). Linguistic pragmatists maintain that what is said is a completion of the content that is obtained by composing the meanings of the expressions in the sentence with some completion taken from the context. For instance, the contents of (5) and (6) could be completed in ways that might be expressed as follows:
+(5*) Mark is short with respect to the average height of basketball players.
+(6*) Anna is ready to climb Eiger’s North Face.
+With expansions, the content of an utterance of a sentence is an enrichment of the literal content obtained by composing the semantic values of the expressions in the sentence. Some interesting cases of expansions are employed in inappropriateness arguments. Consider the following examples:
+(8) All the students got an A.
+(9) Anna has nothing to wear.
+In these cases, there is a complete content that does not correspond to the content of the utterance. (8) expresses the content that all students in existence got an A, and (9) expresses the content that Anna has no clothes to wear at all. However, these sentences are usually used to express different contents. For example, (8) can be used by the logic professor to say that all students in her class got an A, and (9) can be used to say that Anna has no appropriate dress for a particular occasion.
+c. Saturation and Modulation
+Linguistic pragmatists maintain that completions and expansions are obtained through pragmatic processes that are not linguistically driven by conventional meanings. Recanati draws a distinction between saturation and modulation: Processes of saturation are mandatory pragmatic processes required to determine the semantic contents of linguistic expressions (bottom-up or linguistically driven processes). Processes of modulation are optional pragmatic processes that yield completions and expansions (top-down or ‘free’ processes).
+Pragmatic processes of saturation are directed and governed by the linguistic meanings of context-sensitive expressions. For instance, the linguistic meaning of the demonstrative ‘that’ demands the selection of a salient object in the context of utterance to determine the referent of the demonstrative. In contrast, pragmatic processes of modulation are optional because they are not activated by linguistic meanings. They are not activated for the simple reason that the elements that form completions and expansions do not match any linguistic expression in the sentence. Recanati distinguishes three types of pragmatic processes of modulation:
+(i) Free enrichment is a process that narrows the conditions of application of linguistic expressions. Some of the above examples are cases of free enrichment. In (8) the domain of the quantifier ‘all students’ is restricted to the logic class and in (9) the domain of ‘nothing to wear’ is restricted to appropriate dresses for a given occasion. In (5) the conditions of application of the adjective ‘short’ are restricted to people whose height is lower than the average basketball player. In (6) the conditions of application of the adjective ‘ready’ are restricted to people who acquired technical and physical ability for climbing Eiger’s North Face.
+(ii) Loosening is a process that widens the conditions of application of words specifying the degree of approximation. Here is one example used by Recanati:
+(10) The ATM swallowed my credit card.
+Literally speaking, an ATM cannot swallow anything because it does not have a digestive system. In this case, the conditions of application of the verb ‘swallow’ are made loose so as to include a wider range of actions. Another example of loosening is the following:
+(11) France is hexagonal.
+This sentence does not say that the borders of France draw a perfect hexagon, but that it does so approximately.
+(iii) Semantic transfer is a process that maps the meaning of an expression onto another meaning. The following is an example of semantic transfer. Suppose a waiter in a bar says to his boss:
+(12) The ham sandwich left without paying.
+Through a process of modulation, the meaning of the phrase ‘the ham sandwich’ is mapped onto the meaning of the phrase ‘the customer who ordered the ham sandwich’.
+d. Core Ideas and Differences among Linguistic Pragmatists
+The orthodox truth-conditional view distinguishes two kinds of pragmatic processes, primary ones and secondary ones. Primary pragmatic processes contribute to determine the contents of utterances for context-sensitive expressions. Secondary pragmatic processes contribute to conversational implicatures and are activated after the composition of the contents of utterances has been accomplished. The fundamental aspect of the orthodox view that linguistic pragmatists reject is the idea that primary pragmatic processes are only processes of saturation, which are activated and driven by conventional meanings of words. Linguistic pragmatists affirm that primary pragmatic processes also include processes of modulation that are not encoded in linguistic meanings. According to linguistic pragmatism, the process of truth-conditional composition that gives the contents of utterances is systematically underdetermined by linguistic meanings.
+The different versions of linguistic pragmatism are all unified by the criticism of the orthodox view. Recanati calls the content of an utterance in the pragmatist conception ‘pragmatic truth-conditions’, Bach speaks of ‘implicitures’, Carston of ‘explicatures’. There are important and substantive differences among these notions. For Bach an impliciture is a pragmatic enrichment of the strict semantic content that is determined by linguistic meanings alone and can be truth-conditionally incomplete. The strict semantic content is like a template that needs to be filled. Recanati argues that Bach’s strict semantic content is only a theoretical abstraction that does not perform any proper role in the computation of what is said. Carston and relevance theorists like Sperber and Wilson adopt a similar view, but—in contrast with Recanati—they affirm that primary and secondary pragmatic processes are, from a cognitive point of view, processes of the same kind that are explained by the principle of relevance, according to which one accepts the interpretation that satisfies the expectation of relevance with the least effort.
+However, there is something on which Bach, Recanati, Carston, Sperber and Wilson all agree: Very often, semantic interpretation alone gives at most semantic schemata, and only with the help of pragmatic processes of modulation can a complete propositional content be obtained.
+Finally, the most radical views of Searle (1978), Travis (2008), and Unnsteinsson (2014) claim that conventional meanings do not exist. Speakers rely upon models of past applications of words and any new interpretation of a word arises from a process of modulation from one of its past applications. The latest works by Carston (2019) tend to develop a similar view. Radical linguistic pragmatists reject even the idea that semantics provides schemata to be pragmatically enriched by modulation processes. In their view, the difficulty is to explain what such an incomplete semantic content might be for many expressions. Think, for example, of ‘red’. It is difficult to individuate a semantic content, no matter how incomplete, that is shared in ‘red car’, ‘red hair’, ‘red foliage’, ‘red rashes’, ‘red light’, ‘red apple’, etc. It is even more difficult to explain how this alleged incomplete content could be enriched into the contents that people convey with those expressions.
+The next section is devoted to indexicalism, a family of theories that react against linguistic pragmatism.
+3. Defending the Orthodox View: Indexicalism
+a. Extending Indexicality and Polysemy
+Indexicalists attempt to recover the orthodox truth-conditional approach in semantics from the charge of semantic underdetermination raised by linguistic pragmatists. Indexicalists reject the thesis of semantic underdetermination and explain the variability of utterances’ contents in contexts with the resources of the orthodox truth-conditional view, mainly by enlarging the range of indexicality and the range of polysemy. The typical examples of variability of contents in contexts invoked by linguistic pragmatists are the following:
+(13) John is tall.
+(14) Mary is ready.
+(15) It is raining.
+(16) Everybody got an A.
+(17) Mary and John got married and had a child.
+In the course of a conversation about basketball players, an utterance of (13) might express the content that John is tall with respect to the average height of basketball players. In the course of a conversation about the next logic exam, an utterance of (14) might express the content that Mary is ready to take the logic exam. If Mary utters (15) while in Rome, her utterance might express the content that it is raining in Rome at the time of the utterance. If the professor of logic utters (16), her utterance might express the content that all the students in her class got an A. Mostly, if a speaker utters (17), she expresses the content that Mary and John got married before having a child.
+Linguistic pragmatists argue that, in order for utterances of sentences like (13)-(17) to express those contents, the conventional meanings encoded in the sentences are not sufficient. Linguistic pragmatists hold that the presence in the content expressed of a comparison class for ‘tall’, of a course of action for ‘ready’, of a location for weather reports, of a restricted domain for quantified noun phrases, and of the temporal/causal order for ‘and’ is not the result of a process that is governed by a semantic convention. Linguistic pragmatists generalize this claim and argue that what is true of expressions like ‘tall’, ‘ready’, ‘it rains’, ‘everybody’, and ‘and’, is true of nearly all expressions in natural languages. According to linguistic pragmatists, semantic conventions provide at most propositional schemata—propositional radicals—that lack determinate truth-conditions.
+The indexicalists’ strategy for resisting the call for a new theoretical approach raised by linguistic pragmatists is to enlarge both the range of indexicality, thought of as the result of linguistically governed processes of saturation, and the range of polysemy. Michael Devitt says, there is more linguistically governed context-sensitivity and polysemy in our language than linguistic pragmatists think. Indexicalists try to explain examples like (13)-(16) by conventions of saturation: It is by linguistic conventions codified in language that people use ‘tall’ having in mind a class of comparison, ‘ready’ a course of action, ‘it rains’ a location, and ‘everyone’ a domain of quantification. Some indexicalistsexplain examples like (17) by polysemy: ‘And’ is a polysemous word having multiple meanings, one for the truth-functional conjunction and one for the temporally/causally ordered conjunction.
+Indexicalism too comprises a family of theories, and there are deep and fundamental differences among them. As said, on an orthodox semantic theory the meaning of context-sensitive expressions sets up the parameters, or slots, that must be loaded with contextual values. Sometimes the parameters are explicitly expressed in the sentence, as with indexicals. Sometimes, instead, the parameters do not figure at the level of surface syntax. Philosophers and linguists disagree on where the parameters, which do not show up at the level of surface syntax, are hidden. Some (Stanley 2005a, Stanley and Williamson 1995, Szabo 2001, Szabo 2006) hold that such parameters are associated with elements that occur in the logical form. Taylor (2003) advances a different theory and argues that hidden parameters are represented in the syntactic basement of the lexicon. They are constituents not of sentences but of words. On Taylor’s view, the lexical representations of words specify the parameters that must be filled in with contextual values in order for utterances of sentences to have determinate truth-conditions. In a different version of indexicalism, some authors (Rothshield and Segal 2009) argue that the expressions that are regularly used to express different contents in different contexts ought to be treated as ordinary context-sensitive expressions and added to the Basic Set.
+What all indexicalist theories have in common is the view that the variability of contents in contexts is always linguistically governed by conventional meanings of expressions. In all versions of indexicalism the phenomenon of semantic underdetermination is denied: The presence of each component of the content of an utterance of a sentence is mandatorily governed by a linguistic element occurring in the sentence either at the level of surface syntax or at the level of logical form.
+b. Two Objections to Linguistic Pragmatism: Overgeneration and Normativity
+There are two connected motivations that underlie the indexicalists’ defence of the orthodox view. One is a problem with overgeneration, the other is a problem with the normativity of meaning.
+Linguistic pragmatists aim at keeping in place the distinctions among the level of linguistic meaning, the level of the contents of utterances, and the level of what speakers communicate indirectly by means of implicatures. To this end, linguistic pragmatists need a principled way to distinguish the contents of utterances (Sperber and Wilson’s and Carston’s explicatures, Bach’s implicitures, Recanati’s pragmatic truth-conditions) from implicatures. The canonical definition of explicature—and from now on this article adopts the term ‘explicature’ for pragmatically enriched contents of utterances—is the following:
+An explicature is a pragmatically inferred development of logical form, where implicatures are held to be purely pragmatically inferred—that is, unconstrained by logical form.
+The difficulty arises because explicatures are taken to be pragmatic developments of logical forms but not all pragmatic developments of logical forms count as explicatures. Linguistic pragmatists need to keep developments of logical forms that are explicatures apart from developments of logical forms that are not. Explicatures result from pragmatic processes that are not linguistically driven. There is a problem of overgeneration. As Stanley points out, if explicatures are linguistically unconstrained, then there is no explanation of why an utterance of sentence (18) can never have the same content as an utterance of sentence (19), or why an utterance of sentence (20) can have the same content as an utterance of sentence (21) but never the same content as an utterance of sentence (22):
+(18) Everyone likes Sally.
+(19) Everyone likes Sally and her mother.
+(20) Every Frenchman is seated.
+(21) Every Frenchman in the classroom is seated.
+(22) Every Frenchman or Dutchman in the classroom is seated.
+Carston and Hall (2012) try to answer Stanley’s objection of overgeneration from within the camp of linguistic pragmatists. For an assessment and criticism of their attempts, see Borg (2016). However, the point of Stanley’s objection of overgeneration is clear: Once pragmatic processes are allowed to contribute to direct contents of utterances in ways that are not linguistically governed by conventional meanings, it is difficult to draw the distinction between what speakers directly say and what they indirectly convey, so that the distinction between explicatures and implicatures collapses.
+The other objection against linguistic pragmatism concerns the normativity of meaning. According to indexicalists, the explanation of contents of utterances supplied by semantics in the orthodox approach is superior to the explanation supplied by linguistic pragmatism because the former accounts for the normative aspect of meaning while the latter does not. Normativity is constitutive of the notion of meaning. If there are meanings, there must be such things as going right and going wrong with the use of language. The use of an expression is right if it conforms with its meaning, and wrong otherwise. If literal contents of speech acts are thought of in truth-conditional terms, conformity with meaning amounts to constraints on truth-conditions. In cases of expressions with one meaning the speaker undertakes the semantic burden of using them for expressing their conventional semantic values. In cases of polysemy the speaker undertakes the semantic burden of selecting a convention that fixes a determinate contribution to the truth-conditional contents expressed by utterances of sentences. In cases of expressions governed by conventions of saturation, the speaker undertakes the semantic burden of loading the demanded parameters with contextual values. Whenever the speaker fulfils these semantic burdens, she goes right with her use of language, otherwise she goes wrong, unless the speaker is speaking figuratively. As said above, the speaker who utters sentences (13)-(16) undertakes the semantic burden of loading a comparison class for ‘tall’, a course of action for ‘ready’, a location for ‘it rains’, a restricted domain of quantification for ‘everybody’. And a speaker who utters (17) undertakes the semantic burden of selecting the convention for ‘and’ that fixes the truth-functional conjunction or the convention that fixes the temporal/causal ordered conjunction.
+Indexicalists say that the problem for linguistic pragmatism is to provide an account of how the meanings of expressions constrain truth-conditional contents of utterances, if the composition of truth-conditions is not governed by linguistic conventions, and how, lacking such an explanation, linguistic pragmatism can preserve the distinction between going right and going wrong with the use of language.
+The remainder of this section gives a short illustration of the version of indexicalism that tries to explain the variability of contents in contexts by adding hidden variables in the logical form of sentences. The next two sections introduce some technicalities, and the reader who is content with a general introduction to context-sensitivity can skip to section 4.
+c. Hidden Variables and the Binding Argument
+Some indexicalists (Stanley, Szabo, Williamson) reinstate the Gricean syntactic constraint, rejected by linguistic pragmatists, at the level of logical form. They maintain that every pragmatic process that contributes to the determination of the truth-conditional content of a speech act is a process of saturation that is always activated by the linguistic meaning of an expression. If there is no trace of such expression in the surface syntactic structure, then there must be an element in the logical form that triggers a saturation process. The variables in the logical form work as indexicals that require contextual assignments of values. The pragmatic processes that assign the values of those variables are processes that are governed by linguistic rules; they are not optional.
+Here are some examples, with some simplifications, given that a correct rendering of the logical form would require more technicalities. Suppose that, while on the phone to Mary on 25 November 2019, answering a question about the weather in London, George says:
+(15) It’s raining.
+People tend to agree that George said that it is raining in London on that date. Linguistic pragmatists concede that the reference to the day is due to the present tense of the verb, which works as an indexical expression that refers to the time of the utterance. However, the reference to the place, the city of London, is given by free enrichment. For linguistic pragmatists (15) can be represented as follows:
+(15*) It’s raining (t).
+The variable ‘t’ corresponds to the present tense of the verb. In the logical form there is no variable taking London as value. On the contrary, indexicalists claim that (17) can be represented as follows:
+(15**) It’s raining (t, l).
+In (15**) the variable ‘l’ takes London as a value. The process that assigns London to the variable ‘l’ is of the same kind as the process that assigns a referent to the indexical ‘here’ and it is linguistically driven because it is activated by an element of the logical form.
+The variables that indexicalists insert in logical forms have a more complex structure. In (15**) the variable ‘t’ has the structure ‘ƒ(x)’ and the variable ‘l’ has the structure ‘ƒ*(y)’. ‘x’ is a variable that takes contextually salient entities as values and ‘ƒ’ is a variable that ranges over functions from entities to temporal intervals. The variable ‘y’ also takes contextually salient entities as values, and ‘ƒ*’ ranges over functions from entities to locations. The reason for this complexity will be explained in the next section. For now, it suffices to note that in simple cases like (15**), ‘x’ take instants as values and ‘ƒ ’ takes the identity function, so that ƒ(x) = x. Likewise, ‘y’ takes locations as values and ‘ƒ*’ takes the identity function, so that ƒ*(y) = y.
+Here is another example. Consider Mark, the  player whose coach makes the following assertion:
+(5) Mark is short.
+The coach said that Mark is short with respect to the average height of basketball players. Indexicalists explain this case by inserting a variable in (5):
+(5*) Mark is short (h).
+‘h’ is a variable that takes standards of height as values. The variable ‘h’ too has a structure of the kind ‘ƒ(x)’, where ‘x’ ranges over contextually salient entities (for example, the set of basketball players) and ‘ƒ’ over functions that map the salient entities to other entities (for instance, the subset of the basketball players that are shorter than the average height of basketball players).
+Here is an example with quantifiers. Consider the following sentence, asserted by the professor of logic:
+(8) All students got an A.
+The professor said that all students that took the logic class got an A. Indexicalists claim that in the quantifier ‘all students’ there is a variable that assigns domains of quantification:
+(8*) [all x: student x]ƒ(y) (got an A x).
+In this example the value of the variable ‘y’ is the professor of logic and the value of ‘ƒ’ is a function that maps y onto the set of students who took the logic class taught by y. This set becomes the domain of the quantifier ‘all students’.
+Stanley and Szabo present a strategy for justifying the insertion of hidden variables in logical forms, the so-called binding argument: to show that an element of the truth-conditional content of an utterance of a sentence is the result of a process of saturation, it is enough to show that it can vary in accordance with the values of a variable bound by a quantifier.
+Consider the following sentence:
+(23) Whenever Bob lights a cigarette, it rains.
+An interpretation of (23) is the following: Whenever Bob lights a cigarette, it rains where Bob lights it. In this interpretation, the location where it rains varies in relation to the time when Bob lights a cigarette. Therefore, the value of the variable ‘l’ in ‘it rains (t, l)’ depends on the value of the variable ‘t’ that is bound by a quantifier that ranges over times. This interpretation can be obtained if (23) is represented as follows:
+(23*) [every t: temporal interval t Ù Bob lights a cigarette at t](it rains (ƒ(t), ƒ*(t))).
+The value of ‘ƒ’ is the identity function so that ƒ(t) = t, and the value of ‘ƒ*’ is a function that assigns to the time that is the value of ‘t’ the location where Bob lights a cigarette at that time.
+d. Objections to the Binding Argument
+Some philosophers (Cappelen and Lepore 2002, Breheny 2004) raise an objection of overgeneration against the binding argument. In their view, the binding argument forces the introduction of too many hidden variables, even when there is no need for them. The strongest objection against the binding argument has been raised by Recanati (2004: 110), who argues that the binding argument is fallacious. Recanati summarizes the binding argument as follows:
+
+
+
+Linguistic pragmatism maintains that in ‘it rains’ the implicit reference to the location is the result of a process of modulation that does not require any covert variable.
+In the sentence ‘whenever Bob lights a cigarette, it rains’, the reference to the location varies according to the value of the variable bound by the quantifier ‘whenever Bob lights a cigarette’.
+There can be no binding without a variable in the logical form.
+In the logical form of ‘it rains’ there is a variable for locations, although phonologically not realized.
+
+
+
+Therefore:
+
+
+
+Linguistic pragmatism is wrong: In ‘it rains’, the reference to the location is mandatory, because it is articulated in the logical form.
+
+
+
+Recanati argues that this argument is fallacious because of an ambiguity in premise 4, where the sentence ‘it rains’ can be intended either in isolation or as a part of compound phrases. According to Recanati, the sentence ‘it rains’ contains a covert variable when it occurs as a part of the compound sentence ‘whenever Bob lights a cigarette, it rains’, but it does not contain any variable when it occurs alone.
+Recanati proposes a theory that admits that binding requires variables in the logical form, but at the same time it rejects indexicalism. Recanati makes use of expressions that modify predicates. Given an n-place predicate, a modifier can form an n+1 place or an n-1 place predicate. A modifier expresses a function from properties/relations to other properties/relations. For example, Recanati says that ‘it rains’ expresses the property of raining, which is predicated of temporal intervals. Expressions like ‘at’, ‘in’, and so forth, transform the predicate ‘it rains (t)’ from a one-place predicate to a two-place predicate: ‘it rains (t, l)’. Expressions like ‘here’ or ‘in London’ are special modifiers that transform the predicate ‘it rains’ from a one-place predicate to a two-place predicate but also provide a value for the new argument place. Recanati argues that expressions like ‘whenever Bob lights a cigarette’ are modifiers of the same kind as ‘here’ and ‘in London’. They change the number of predicate places and provide a value to the new argument through the value of the variable they bind. Recanati’s conclusion is that although binding requires variables in the logical form of compound sentences, there is no need to insert covert variables in sub-sentential expressions or sentences in isolation.
+The next section presents a different approach to semantics, one that distinguishes between semantic contents and speech act contents.
+4. Defending the Autonomy of Semantics: Minimalism
+a. Distinguishing Semantic Content from Speech Act Content
+Indexicalists and linguistic pragmatists share the view that the goal of semantics is to explain the explicit contents of speech acts performed by utterances of sentences. They both agree that there must be a close explanatory connection between the meaning encoded in a sentence S and the contents of speech acts performed by utterances of S. One important corollary of this conception is that if a sentence S is systematically uttered for performing speech acts with different contents at different contexts, this phenomenon calls for an explanation on behalf of semantics. The point of disagreement between indexicalists and linguistic pragmatists is that the former think that semantics can provide such an explanation while the latter think that semantics alone is not sufficient and a new theoretical model is needed, one in which pragmatic processes, semantically unconstrained, contribute to determine the contents of speech acts. As said above, indexicalists explain the variability of contents in contexts in terms of context-sensitivity by enlarging the range of indexicality and polysemy, whereas linguistic pragmatists explain it in terms of semantic underdetermination. The debate between indexicalists and linguistic pragmatists starts taking for granted the explanatory connection between semantics and contents of speech acts.
+Minimalism in semantics is a family of theories that reject the explanatory connection between semantics and contents of speech acts. Minimalists (Borg 2004, 2012, Cappelen and Lepore 2005, Soames 2002) maintain that semantics is not in the business of explaining the contents of speech acts performed by utterances of sentences. Minimalists work with a notion of semantic content that does not play the role of speech acts content. According to them the semantic content of a sentence is a full truth-conditional content that is obtained compositionally by the syntactic structure of the sentence and the semantic values of the expressions in the sentence that are fixed by conventional meanings. Moreover, they claim that the Basic Set of genuinely context-sensitive expressions, which are governed by conventions of saturation, comprises only overt indexicals (pronouns, demonstratives, tense markers, and a few other words). Minimalists call the semantic content of a sentence its minimal content.
+The above statement that minimal contents are not contents of speech acts requires qualification. Cappelen and Lepore argue indeed for speech act pluralism. They argue that speech acts have a plurality of contents and the minimal content of a sentence is always one of many contents that its utterances express. In order to protect speech act pluralism from the objection that very often speakers are not aware of having made an assertion with the minimal content, and, if asked, they would deny having made an assertion with the minimal content, Cappelen and Lepore argue that speakers can sincerely assert a content without believing it and without knowing they have asserted it. For example, if Mary looks into the refrigerator and says ‘there are no beers’, Mary herself would deny that she asserted that there are no beers in existence and deny that she believes that there are no beers in existence, although that there are no beers in existence is the minimal content that the sentence ‘there are no beers’ semantically expresses.
+The main line of the minimalists’ attack on indexicalism and linguistic pragmatism is methodological. Minimalists argue that both indexicalists and linguistic pragmatists adhere to the methodological principle that says that a semantic theory is adequate just in case it accounts for the intuitions people have about what speakers say, assert, claim, and state by uttering sentences. Minimalists claim that this principle is mistaken just because it conflates semantic contents and contents of speech acts. Semantics is the study of the semantic values of the lexical items and their contribution to the semantic contents of complex expressions. Contents of speech acts, instead, are contents that can be used to describe what people say by uttering sentences in particular contexts of utterance.
+b. Rebutting the Arguments for Linguistic Pragmatism
+Minimalists dismiss context-shifting arguments and inappropriateness arguments just on the grounds that they conflate intuitions about semantic contents of sentences and intuitions about contents of speech acts. Incompleteness arguments are a subtler matter and require more articulated responses. Cappelen and Lepore’s (2005) response and Borg’s (2012) response are presented in the following. An incompleteness argument aims at showing that there is no invariant content that a sentence S expresses in all contexts of utterance. For example, with respect to:
+(14) Mary is ready,
+an incompleteness argument starts from the observation that if (14) is taken separately from contextual information specifying what Mary is ready for, people are unable to evaluate it as true or false. This evidence leads to the conclusion that there is no minimal content—that Mary is ready (simpliciter)—that is invariant and semantically expressed by (14) in all contexts of utterance. In general, then, the conclusions of incompleteness arguments are that minimal contents do not exist: without pragmatic processes, many sentences in our language do not express full propositional contents with determinate truth-conditions.
+Cappelen and Lepore accept the premises of incompleteness arguments, that is, that people are unable to truth-evaluate certain sentences, but they argue that from these premises it does not follow that minimal contents do not exist. Borg adopts a different strategy. Borg tries to block incompleteness arguments by rejecting their premises and explaining away people’s inability to truth-evaluate certain sentences.
+Cappelen and Lepore raise the objection that incompleteness arguments try to establish metaphysical conclusions, for example about the existence of the property of being ready (simpliciter) as a building block of the minimal content that Mary is ready (simpliciter), from premises that concern psychological facts regarding people’s ability to evaluate sentences as true or false. They point out that psychological data are not relevant in metaphysical matters. The data about people’s dispositions to evaluate sentences might reveal important facts about psychology and communication but have no weight at all in metaphysics. Cappelen and Lepore say that people’s inability to evaluate sentences like (14) as true or false independently of contextual information does not provide evidence against the claim that the property of being ready exists and is the semantic content of the adjective ‘ready’. On the one hand, they acknowledge that the problem of giving the analysis of the property of being ready is a difficult one, but it is for metaphysicians, not for semanticists. On the other hand, they argue that semanticists have no difficulty at all in stating what invariant minimal content is semantically encoded in (14). Sentence (14) semantically expresses the minimal content that Mary is ready. There is no difficulty in determining its truth-conditions either: ‘Mary is ready’ is true if and only if Mary is ready.
+Cappelen and Lepore address the immediate objection that if the truth-condition of (14) is represented by a disquotational principle like the one reported above, then nobody is able to verify whether such truth-condition is satisfied or not. This fact is witnessed by people’s inability to evaluate (14) as true or false independently of information specifying what Mary is ready for. Cappelen and Lepore respond that it is not a task for semantics to ascertain how things are in the world. For example, it is not a task for semantics to say whether (14) is true or false. That a semantic theory for a language L does not provide speakers with a method of verifying sentences of L is not a defect of that semantic theory. Cappelen and Lepore say that those theorists who think otherwise indulge in verificationism. For an objection to Cappelen and Lepore see Recanati (2004), Clapp (2007), Penco and Vignolo (2019).
+In Pursuing Meaning Borg offers a different strategy for blocking incompleteness arguments. Borg’s strategy is to explain away the intuitions of incompleteness. Borg agrees that speakers have intuitions of incompleteness with respect to sentences like ‘Mary is ready’, but she argues that intuitions of incompleteness emerge from some overlooked covert and context-insensitive syntactic structure. Borg says that ‘ready’ is lexically marked as an expression with two argument places. On Borg’s view ‘ready’ always denotes the same relation, the relation of readiness, which holds between a subject and the thing for which they are held to be ready. When only one argument place is filled at the surface level, the other is marked by an existentially bound variable in the logical form. Thereby ‘ready’ makes exactly the same contribution in any context of utterance to any propositional content literally expressed. For example, Borg says that in a context where what is salient is the property being ready to join the fire service, the sentence ‘Mary is ready’ literally expresses the minimal content that Mary is ready for something not that Mary is ready to join the fire service. As Borg points out, the minimal content that Mary is ready for something is almost trivially true. Yet, Borg warns not to conflate intuitions about the informativeness of a propositional content with intuitions about its semantic completeness.
+Borg’s explanation of the intuitions of incompleteness is that speakers are aware of the need for the two arguments, which is in tension with the phonetic delivery of only one argument. Speakers are uneasy to truth-evaluate sentences like ‘Mary is ready’ not because the sentence is semantically incomplete and lacks a truth-condition, but because their expectation for the second argument to be expressed is frustrated and the minimal content that is semantically expressed, when the argument role corresponding to the direct object is not filled at the surface level, is barely informative. For a critical assessment of Borg’s strategy, see Clapp (2007) and Penco and Vignolo (2019).
+The following subsection illustrates the tenets that characterise minimalism and the central motivation for it.
+c. Motivation and Tenets of Minimalism
+Minimalism is characterised by four main theses (Borg 2007) and one main motivation. The first thesis is propositionalism. Propositionalism states that sentence types, relativized to indexes representing contexts of utterance, express full propositional contents with determinate truth-conditions. These semantic contents are the minimal ones, which are invariant through contexts of utterance when sentence types do not contain overt context-sensitive expressions. Propositionalism distinguishes minimalism from radical minimalism, which is a philosophical view sustained by Bach (2007). Bach acknowledges the existence of semantic contents of sentence types, but he rejects the view that such contents are always fully propositional with determinate truth-conditions. According to Bach, most semantic contents are propositional radicals. As Borg points out, despite the fact that Bach insists on avowing that he is not a linguistic pragmatist, it is not easy to spot substantial differences between Bach’s view and linguistic pragmatism. Although Bach’s semantically incomplete sentences are not context-sensitive unless they contain overt context-sensitive expressions, linguistic pragmatists need not deny that semantic theories are possible. They simply maintain that in most cases semantic theories deal with sub-propositional contents. Bach and linguistic pragmatists agree that, in many if not most cases, in order to reach full propositional contents theorists need to focus on speech acts and not on sentence types.
+The second important thesis of minimalism is the Basic Set assumption. The Basic Set assumption states that the only genuine context-sensitive expressions that trigger and drive pragmatic processes for the determination of semantic values are those that are listed in the Basic Set, that is, overt indexicals like ‘I’, ‘here’, ‘now’, ‘that’, plus or minus a bit. Expressions like ‘ready’, ‘tall’, ‘green’, quantified noun phrases, and so on, are not context-sensitive.
+The third tenet of minimalism is the distinction between semantic contents and speech acts contents: Semantic contents are not what speakers intend to explicitly and directly communicate. The contents explicitly communicated are pragmatic developments of semantic contents. As said, this move serves to disarm batteries of arguments advanced by indexicalists and linguistic pragmatists. Even if in almost all cases semantic contents are not the contents of speech acts, they nonetheless play an important theoretical role in communication. Semantic contents are fallback contents that people are able to understand on the sole basis of their linguistic competence when they ignore or mistake the intentions of the speakers and the contextual information needed for understanding what speakers are trying to communicate. Minimal contents can play this role in communication just because they can be grasped simply in virtue of linguistic competence alone.
+The fourth and last thesis of minimalism is a commitment to formalism. Formalism is the view that the processes that compute the truth-conditional contents of sentence types are entirely formal and computational. There is an algorithmic route to the semantic content of each sentence (relative to an index representing contextual features), and all contextual contributions to semantic contents are formally tractable. More precisely, all those contextual contributions that depend on speakers’ intentions must be kept apart from semantic contents. This last claim puts a further constraint on context-sensitive expressions, which ought to be responsive only to objective aspects of contexts of utterance, like who is speaking, when, and where. These are the features that Bach (1994, 1999, 2001) and Perry (2001) termed narrow features of contexts and play a semantic role, as opposed to wide features that depend on speakers’ intentions and play a pragmatic role. It is also a claim that relates to Kaplan’s distinction between pure (automatic) indexicals, which refer semantically by picking out objective features of the context of utterance, and intentional indexicals, which refer pragmatically in virtue of intentions of speakers (Kaplan 1989a, Perry 2001).
+Formalism is related to one of the main motivations for minimalism. Minimalism is compatible with a modular account of meaning understanding. The modularity theory of mind is the view that the mind is constituted of discrete and relative autonomous modules, each of which is dedicated to the computation of particular cognitive functions. A module possesses a specific body of information and specific rules working computationally on that body of information. Among such modules there is one, the module of the faculty of language, which is dedicated to the comprehension of literal contents of sentences. This model includes phonetic/orthographic information and related rules, syntactic information and related rules, and semantic information and related rules.
+A minimalist semantics fits well as part of the language module since it derives the truth-conditional contents of sentences, relative to indexes, in a computational way operating on representations of semantic properties of the lexicon and with formal rules working on such representations. Thus, if linguistic comprehension is modular, minimalism offers a theory that is consistent with the existence of the language module.
+The following data are often-invoked evidence to justify the claim that linguistic comprehension is modular. The understanding of literal meanings of sentences seems to be the result of domain-specific and encapsulated processes. Linguistically competent people understand the literal meaning of a sentence even when they ignore salient aspects of the context of utterance and the communicative intentions of the speaker. Moreover, the understanding of literal meaning is carried out independently of any sort of encyclopaedic information. The processes that yield literal truth-conditional contents of sentences are mandatory, very fast, and mostly unavailable to consciousness. People cannot help reading certain signs and hearing certain sounds as utterances of sentences in languages they understand. Competent speakers interpret straightforwardly and very quickly those signs and sounds as sentences with literal contents without being aware of the information and the rules operating on it that yield such an understanding. Finally, linguistic understanding is associated with localized neuronal structures that undergo regularities in acquisition and development processes, and regularities of breakdown due to neuronal damages. In conclusion, for those who believe that this is good evidence that comprehension of literal meaning is modular, minimalism offers a semantic theory that can be coherently taken to be part of the language faculty module.
+The presentation of minimalism closes with the discussion of the tests that Cappelen and Lepore propose in order to select the only context-sensitive expressions that go into the Basic Set. The following subsection contains some technicalities. The reader who is mainly interested in an overview on context-sensitivity can skip to section 5.
+d. Testing Context-Sensitivity
+Cappelen and Lepore propose different tests for distinguishing the expressions in the Basic Set that are genuinely context-sensitive from those that are not. Here only one of their tests is illustrated, but it is sufficient to give a hint of their work.
+Test of inter-contextual disquotational indirect reports: Suppose that Anna, who had planned to climb Eiger’s North Face on July 1 but cancelled, utters the following sentence on July 2:
+(24) Yesterday I was not ready.
+Suppose that on July 3 Mary indirectly reports what Anna said on July 2. Mary cannot use the same words as Anna used. If she did, she would make the following report:
+(25) Anna said that yesterday I was not ready.
+From this example it is clear that context-sensitive expressions like ‘I’and ‘yesterday’ generate inter-contextual disquotational indirect reports that are false or inappropriate.
+Cappelen and Lepore say that it is possible to make inter-contextual disquotational indirect reports with the adjective ‘ready’, and this fact provides evidence that ‘ready’ is not context-sensitive. Assume that on July 5 Mary utters the following sentence:
+(26) On July 1 Anna was not ready.
+Then, on July 6 George might report what Mary said with the utterance of the following sentence:
+(27) Mary said that on July 1 Anna was not ready.
+These results generalize to all expressions that do not belong to the Basic Set.
+Another case is the following. Suppose Mary utters ‘Anna is ready’ in a context C1 to say that Anna is ready to climb Eiger’s North Face and makes a second utterance of it in a context C2 to say that Anna is ready to sit her logic exam. Cappelen and Lepore argue that in a context C3 the following reports are true:
+(28) Mary said that Anna is ready (with respect to the utterance in C1).
+(29) Mary said that Anna is ready (with respect to the utterance in C2).
+(30) In C1 and C2 Mary said that Anna is ready.
+Cappelen and Lepore say that linguistic pragmatism and indexicalism have difficulty explaining the truth of the above inter-contextual disquotational indirect reports. It is not obvious, however, that the difficulty Cappelen and Lepore propose is insurmountable. The context C3 might differ from C1 and C2 because the speaker, the time, and the place of the utterance are different, but the same contextual information might be available in C3 and be relevant for the interpretation of the utterance in C1 or C2. In C3 the speaker (and the audience too) might be aware that Mary was talking about alpinism in C1 and of logic exams in C2.
+According to a suggestion by Stanley (2005b), and Cappelen and Hawthorne (2009), sentence (30) might be represented as follows:
+(30*) C1 and C2 lx (in x Mary said that Anna is readyƒ(x)).
+Here the variable ‘x’ takes contexts as values and the variable ‘ƒ’ takes a function that maps contexts to kinds of actions or activities salient in those contexts. This analysis yields the interpretation that the report (30) is true if and only if in C1 Mary said that Anna is ready to climb Eiger’s North Face and in C2 Mary said that Anna is ready to take her logic exam. On the other hand, if one supposes that the speaker in C3 has the erroneous belief that Mary was talking about Anna’s readiness to go out with friends, linguistic pragmatists and indexicalists will doubt the truth of the reports (28)-(30) and reduce the debate to a conflict of intuitions.
+The test of inter-contextual disquotational indirect reports and the other tests that Cappelen and Lepore present, such as the test of inter-contextual disquotation and the test of collective descriptions, raised an intense debate. For critical assessments of these tests, see Leslie (2007) and Taylor (2007). Cappelen and Hawthorne (2009) present the test of agreement, while Donaldson and Lepore (2012) add the test of collective reports. Limits of space prevents deeper detail of the debate on tests for context-sensitivity. The foregoing suffices to give an idea of the kind of arguments that philosophers involved in that debate deal with.
+While minimalism is a strong alternative to linguistic pragmatism and indexicalism, another approach develops in a new way the idea of invariant semantic contents: relativism. The next section presents the view of relativism, which reconceptualises the relations between meaning and context.
+5. Defending Invariant Semantic Contents: Relativism
+a. Indexicality, Context-Sensitivity, and Assessment-Sensitivity
+Relativism in semantics provides a new conceptualization of context dependence. Relativists (Kolbel 2002, MacFarlane 2014, Richard 2008) recover invariant semantic contents and explain some forms of context dependence not in terms of variability of contents in contexts of utterance but in terms of variability of extensions in contexts of assessment. A context of utterance is a possible situation in which a sentence might be uttered and a context of assessment is a possible situation in which a sentence might be evaluated as true or false.
+As said in section 1b, Kaplan represents meanings as functions that return contents in contexts of utterances. Contents are functions that distribute extensions in circumstances of evaluation. The content of a sentence in a context of utterance is a function that returns truth-values at standard circumstances of evaluation composed of a possible world and a time. MacFarlane shows that the technical machinery of Kaplan’s semantics is apt to draw conceptual distinctions among what he calls indexicality, context-sensitivity, and assessment-sensitivity. MacFarlane’s notion of indexicality covers the standard variability of contents in contexts. His notions of context-sensitivity and assessment-sensitivity cover new semantic phenomena, according to which expressions might change extensions while maintaining the same contents. MacFarlane’s notions are defined as follows:
+Indexicality:
+An expression E is indexical if and only if its content at a context of utterance depends on features of the context of utterance.
+Context-sensitivity:
+An expression E is context-sensitive if and only if its extension at a context of utterance depends on features of the context of utterance.
+Assessment-sensitivity:
+An expression E is assessment-sensitive if and only if its extension at a context of utterance depends on features of a context of assessment.
+For example, consider two utterances of (5): a true utterance in a conversation about basketball players and a false utterance in a conversation about the general population.
+(5) Mark is short.
+Indexicality: The standard account in terms of indexicality affirms that the two utterances have different contents because the adjective ‘short’ is treated as an expression that expresses different contents in different contexts of utterance. According to indexicalism, the meaning of ‘short’ demands that the speaker fill in a standard of height that is operative in the context of utterance in order to determine the content of the utterance. Thus, the speaker in the first conversation expresses a different content than that expressed in the second conversation. Since the difference in truth-values between the two utterances is explained in terms of a difference in contents, the context of utterance—in our example speaker’s intentions referring to different standard of height—has a content-determinative role.
+Context-sensitivity: Context-sensitivity, in MacFarlane’s sense, explains the difference in truth-values in terms of a difference in the circumstance of evaluation. The circumstance of evaluation is enriched with non-standard parameters. In our example, the circumstance of evaluation is enriched with a parameter concerning the standard of height. The meaning of ‘short’ returns the same content in all contexts of utterance. The content of ‘short’ is invariant across contexts of utterance, but it returns different extensions in circumstances of evaluation that comprise a possible world, a time, and a standard of height. The standard of height that is operative in the first conversation enters the circumstance of evaluation with respect to which ‘short’ has an extension in that context of utterance. According to that standard of height, Mark does belong to the extension of ‘short’. The standard of height that is operative in the second conversation enters the circumstance of evaluation with respect to which ‘short’ has an extension in that context of utterance. According to that standard of height, Mark does not belong to the extension of ‘short’. With context-sensitivity (in MacFarlane’s sense) the context of utterance has a circumstance-determinative role, since it fixes the non-standard parameters that enter the circumstance of evaluation with respect to which expressions have extensions at the context of utterance.
+Context-sensitivity so defined is not relativism. For any context of utterance, expressions have just one, if any, extension at that context. In particular, sentences in contexts have absolute truth-values. Truth for sentences in contexts is defined as follows:
+A sentence S at a context of utterance i is true if and only if S is true in iw at it and with respect to ih1…ihn, where iw and it are the world and the time of the context of utterance i, and ih1…ihn are all the non-standard parameters, demanded by the expressions in S, which are operative in i (in the above example the standard of height demanded by ‘short’, that is, the average height of basketball players in the first context and the average height of American citizens in the second context).
+On the contrary, relativism holds that the extensions of expressions at contexts of utterance are relative to contexts of assessment. So, if contexts of assessment change, extensions too might change. In particular, sentences are true or false at contexts of utterance relative to contexts of assessment. Relative truth is defined as follows:
+A sentence S at a context of utterance i is true relative to a context of assessment a if and only if S is true in iw at it and with respect to ah1…ahn, where iw and it are the world and the time of the context of utterance i, and ah1…ahn are all the non-standard parameters, demanded by the expressions in S, that are operative in the context of assessment a.
+Relativism requires small revisions of the technical machinery of standard truth-conditional semantics in order to define the notion of relative truth, but it provides a radical reconceptualization of the ways in which meaning, contents, and extensions are context-dependent. Different authors apply relativism to different parts of language. MacFarlane (2014) presents a relativistic semantics for predicates of taste, knowledge attributions, epistemic modals, deontic modals, and future contingents. Kompa (2002) and Richard (2008) offer a relativist treatment of comparative adjectives like ‘short’. Predelli (2005) suggests a view close to relativism for colour words like ‘green’.
+The major difficulty for relativists is not technical but conceptual. Relativism must explain what it is for a sentence at a context of utterance to be true relative to a context of assessment. The next subsection presents MacFarlane’s attempt to answer this conceptual difficulty. The final subsection discusses the case of faultless disagreement, which many advocates of relativism employ to show it superior to rival theories in semantics.
+b. The Intelligibility of Assessment-Sensitivity
+Many philosophers, following Dummett, say that the conceptual grasp of the notion of truth is due to a clarification of its role in the overall theory of language. In particular, the notion of truth has been clarified by its connection with the notion of assertion. One way to get this explication is to take the norm of truth as constitutive of assertion. The norm of truth can be stated as follows:
+Norm of truth: Given a context of utterance C and a sentence S, an agent is permitted to assert that S at C only if S is true. (Remember that a sentence S at a context of utterance C is true if and only if S is true in the world of C at the time of C.)
+Relativism needs to provide the explication of what it is for a sentence at a context of utterance to be true relative to a context of assessment. If the clarification of the notion of relative truth is to proceed along with its connection to the notion of assertion, what is needed is a norm of relative truth that relates the notion of assertion to the notion of relative truth. It would seem intuitive to employ the following norm of relative truth that privileges the context of utterance and selects it as the context of assessment:
+Norm of relative truth: given a context of utterance C and a sentence S, an agent is permitted to assert that S at C only if S at context C is true as assessed from context C itself.
+The problem, as MacFarlane points out, is that if the adoption of the norm of relative truth is all that can be said in order to explicate the notion of relative truth, then assessment-sensitivity is an idle wheel with no substantive theoretical role. Relativism becomes a notational variant of standard truth-conditional semantics. The point is that when the definition of relative truth is combined with the norm of relative truth, which picks out the context of utterance and makes it the context of assessment, relativism has the same prescriptions for the correctness of assertions as standard truth-conditional semantics, which works with the definition of truth (simpliciter) combined with the norm of truth.
+MacFarlane argues that in order to clarify the notion of relative truth, the norm of relative truth is necessary but not sufficient. In order to gain a full explication of the notion of relative truth, a norm for retraction of assertions must be added to the norm of relative truth. MacFarlane presents the norm for retraction as follows:
+Norm for retraction: An agent at a context of assessment C2 must retract an assertion of the sentence S, uttered at a context of utterance C1, if S uttered at C1 is not true as assessed from C2.
+Relativism together with the norm of relative truth and the norm for retraction predicts cases of retraction of assertions that other semantic theories are not able to predict. Consider the following example: Let C1 be the context of utterance consisting of John, a time t in the year 1982, and the actual world @; let C2 be the context of utterance consisting of John, a time t´ in 2019, and the actual world @. Let C3 be the context of assessment in which John’s taste in 1982 is operative and C4 the context of assessment in which John’s taste in 2019 is operative.
+Suppose John did not like green tea in 1982, when he was ten years old, but he likes green tea a lot in 2019, when he is forty-seven years old. Green tea is not in the extension of ‘tasty’ at C1 as assessed from C3 but it is in the extension of ‘tasty’ at C2 as assessed form C4. Suppose John utters:
+(31) ‘Green tea is not tasty’ at C1
+and
+(32) ‘Green tea is tasty’ at C2.
+Relativism predicts that both assertions are correct. John does not violate the norm of relative truth. However, relativism also predicts that in 2019 John must retract the assertion he made in 1982, because in 1982 John uttered a sentence that is false as assessed from C4.
+Notice that John’s retraction of his assertion made in 1982 is predicted only by relativism, which treats the adjective ‘tasty’ as assessment-sensitive. If ‘tasty’ is treated as an indexical expression, then John’s assertions in 1982 and in 2019 have two distinct contents, and there is no reason why in 2019 John ought to retract his assertion made in 1982, because his assertion made in 1982 is true. There is no reason why John ought to retract his assertion if ‘tasty’ is treated as a context-sensitive expression. In this case too John’s assertion made in 1982 is true, because the circumstance of evaluation of his 1982 assertion contains the taste that is operative for John in 1982. Retraction is made possible only if ‘tasty’ is assessment-sensitive, making it possible to assess an assertion made in a context of utterance with respect to parameters that are operative in another context (the context of assessment).
+c. Faultless Disagreement
+Even if one accepts MacFarlane’s explanation of the intelligibility of relativism, it remains an open question whether languages contain assessment-sensitive expressions. It is important, then, to clarify whether there are linguistic phenomena that relativism explains better than linguistic pragmatism, indexicalism, or minimalism. Relativists address a representative phenomenon: faultless disagreement. In a pre-theoretic sense there is faultless disagreement between two parties when they disagree about a speech act or an attitude and neither of them violates any epistemic or constitutive norm governing speech acts or attitudes.
+Faultless disagreement is very helpful to model disputes about non-objective matters, for instance, disputes on aesthetic values like tastes. Such disputes show the distinctive linguistic traits of genuine disagreement when the parties involved say ‘No, that is false’, ‘What you are saying is false’, ‘You are wrong, I disagree with you’, and so on. However, many philosophers feel compelled to avoid the account of disagreement that characterizes matters of objective fact, which in subjective areas of discourse would impute implausible cognitive errors and chauvinism to the parties in disagreement.
+First, it is important to identify what kinds of disagreement are made intelligible in different semantic theories. Then, given an area of discourse, one must ask which of these kinds of disagreement can be found in it. Thus, semantic theories can be assessed on the basis of which of them predicts the kind of disagreement that is present in that area of discourse.
+By employing the notion of relative truth, MacFarlane defines the following notion of accuracy for attitudes and speech acts:
+Assessment-sensitive accuracy: An attitude or speech act occurring at a context of utterance C1 is accurate, as assessed from a context of assessment C2, if and only if its content at C1 is true as assessed from C2.
+Based on the notion of assessment-sensitive accuracy, MacFarlane defines the following notion of disagreement:
+Preclusion of joint accuracy: Agent A disagrees with agent B if and only if the accuracy of the attitudes or speech acts of A, as assessed from a given context, precludes the accuracy of the attitudes or speech acts of B, as assessed from the same context.
+There are also different senses in which an attitude or speech act can be faultless. One of them is the absence of violation of constitutive norms governing attitudes or speech acts. According to MacFarlane, the kind of faultless disagreement given by preclusion of joint accuracy together with absence of violation of constitutive norms of attitudes or speech acts is typical of disputes in non-objective matters like taste.
+Consider the sentence ‘Green tea is tasty’. Relativism accommodates the idea that its truth depends on the subjective taste of the assessor. Whether green tea is tasty is not an objective state of affairs. Suppose John utters the sentence ‘Green tea is tasty’ and George utters the sentence ‘Green tea is not tasty’. John and George disagree to the extent that there is no context of assessment from which both John’s and George’s assertions are accurate, but neither of them violates the norm of relative truth and the norm of retraction. John’s assertion is accurate if assessed from John’s context of assessment where John’s standard of taste is operative. George’s assertion is accurate if assessed from George’s context of assessment where George’s standard of taste is operative. They are both faultless. Moreover, George will acknowledge that ‘Green tea is tasty’ is true if assessed from John’s standard of taste and vice versa. Finally, suppose that after trying green tea several times, George starts appreciating it. George now says:
+(33) Green tea is tasty.
+George must retract his previous assertion and say:
+(34) What I said (about green tea) is false.
+Relativism predicts this pattern of linguistic uses of the adjective ‘tasty’. On the contrary, other semantic theories cannot describe the dispute between John and George as a case of faultless disagreement defined as preclusion of joint accuracy and absence of violation of constitutive norms governing attitudes/speech acts.
+Linguistic pragmatism and indexicalism affirm that John’s and George’s tastes have a content-determinative role. Uttered by John, ‘tasty’ means tasty in relation to John’s standard of taste, and uttered by George it means tasty in relation to George’s standard of taste. Therefore, the sentence ‘green tea is tasty’ has a different content in John’s context of utterance than in George’s, with the consequence that disagreement is lost.
+Minimalism says that the content of ‘tasty’, the objective property of tastiness, is invariant through all contexts of utterance and its extension in a given possible world is invariant through all contexts of assessment. Therefore, either green tea is in the extension of ‘tasty’ or is not. In this case, John and George are in disagreement but at least one of them is at fault.
+6. References and Further Reading
+a. References
+
+Bach, Kent, 1994. ‘Conversational Impliciture’, Mind and Language, 9: 124-162.
+Bach, Kent, 1999. ‘The Semantics-Pragmatics Distinction: What It Is and Why It Matters’, in K. Turner (ed.), The Semantics-Pragmatics Interface from Different Points of View, Oxford: Elsevier, pp. 65-84.
+Bach, Kent, 2001. ‘You Don’t Say?’, Synthese, 128: 15-44.
+Bach, Kent, 2007. ‘The Excluded Middle: Minimal Semantics without Minimal Propositions’, Philosophy and Phenomenological Research, 73: 435-442.
+Borg, Emma, 2004. Minimal Semantics, Oxford: Oxford University Press.
+Borg, Emma, 2007. ‘Minimalism versus Contextualism in Semantics’, in Preyer & Peter (2007), pp. 339-359.
+Borg, Emma, 2012. Pursuing Meaning, Oxford: Oxford University Press.
+Borg, Emma, 2016. ‘Exploding Explicatures’, Mind and Language, 31(3): 335-355.
+Breheny, Richard, 2004. ‘A Lexical Account of Implicit (Bound) Contextual Dependence’, in R. Young, and Y. Zhou (eds.), Semantics and Linguistic Theory (SALT) 13, pp. 55-72.
+Cappelen, Herman, and Lepore, Ernie, 2002. ‘Indexicality, Binding, Anaphora and A Priori Truth’, Analysis, 62, 4: 271-81.
+Cappelen, Herman, and Lepore, Ernest, 2005. Insensitive Semantics: A Defence of Semantic Minimalism and Speech Act Pluralism, Oxford: Blackwell.
+Cappelen, Herman, and Hawthorne, John, 2009. Relativism and Monadic Truth, Oxford: Oxford University Press.
+Carston, Robyn, 2002. Thoughts and Utterances: The Pragmatics of Explicit Communication, Oxford: Blackwell.
+Carston, Robyn, 2009. ‘Relevance Theory: Contextualism or Pragmaticism?’,  UCL Working Papers in Linguistics 21: 19-26.
+Carston, Robyn, 2019. ‘Ad Hoc Concepts, Polysemy and the Lexicon’ In K. Scott, R. Carston, and B. Clark (eds.) Relevance, Pragmatics and Interpretation, Cambridge: Cambridge University Press, pp. 150-162.
+Carston, Robyn, and Hall, Alison, 2012. ‘Implicature and Explicature’, in H. J. Schmid and D. Geeraerts (eds.), Cognitive Pragmatics, Vol. 4. Berlin: Mouton de Gruyter, 47–84.
+Clapp, Lenny, 2007. ‘Minimal (Disagreement about) Semantics’, in Preyer & Peter (2007) below, pp. 251-277.
+Donaldson, Tom, and Lepore, Ernie, 2012. ‘Context-Sensitivity’, in D. G. Fara, and G. Russell (eds.), 2012, pp. 116-131.
+Grice, Herbert Paul, 1989. Studies in the Way of Words, Cambridge, MA: Harvard University Press.
+Kaplan, David, 1989a. ‘Demonstratives’, in J. Almog, J. Perry, and H. Wettstein (eds.), Themes from Kaplan, Oxford: Oxford University Press, pp. 481-563.
+Kaplan, David, 1989b. ‘Afterthoughts’, in J. Almog, J. Perry, and H. Wettstein (eds.), Themes from Kaplan, Oxford: Oxford University Press, pp. 565-614.
+Korta, Kepa, and John, Perry, 2007. ‘Radical Minimalism, Moderate Contextualism.’ In Preyer & Peter (2007), pp. 94-111.
+Kolbel, Max, 2002. Truth without Objectivity, London: Routledge.
+Kompa, Nikola, 2002. ‘The Context-Sensitivity of Knowledge Ascriptions’, Grazer Philosophische Studien, 64: 79-96.
+Leslie, Sarah-Jane, 2007. ‘How and Why to be a Moderate Contextualist’, in Preyer & Peter (2007), pp. 133-168.
+MacFarlane, John, 2014. Assessment Sensitivity, Oxford: Oxford University Press.
+Neale, Stephen, 2004. ‘This, That, and the Other’, in A. Bezuidenhout, and M. Reimer (eds.), Descriptions and Beyond, Oxford: Oxford University Press, pp. 68-182.
+Penco, Carlo, and Vignolo, Massimiliano, 2019. ‘Some Reflexions on Conventions’, Croatian Journal of Philosophy, Vol. XIX, No. 57: 375-402.
+Perry, John, 2001. Reference and Reflexivity, Stanford, CSLI Publications.
+Predelli, Stefano, 2005. Contexts: Meaning, Truth, and the Use of Language, Oxford: Oxford University Press.
+Recanati, Francois, 2004. Literal Meaning, New York: Cambridge University Press.
+Recanati, Francois, 2010. Truth-Conditional Pragmatics, Oxford: Clarendon Press.
+Richard, Mark, 2008. When Truth Gives Out, Oxford: Oxford University Press.
+Rothschild, Daniel, and Segal, Gabriel, 2009. ‘Indexical Predicates’, Mind and Language, 24, 4: 467-493.
+Searle, John, 1978. ‘Literal Meaning’, Erkenntnis, 13: 207-224.
+Soames, Scott, 2002. Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity, Oxord: Oxford University Press.
+Sperber, Dan, and Wilson, Deindre, 1986. Relevance: Communication and Cognition, Oxford: Blackwell.
+Stanley, Jason, 2005a. Language in Context, Oxford: Oxford University Press.
+Stanley, Jason, 2005b. Knowledge and Practical Interests, Oxford: Oxford University Press.
+Stanley, Jason, and Williamson, Timothy, 1995. ‘Quantifiers and Context-Dependence’, Analysis, 55: 291-295.
+Szabo, Zoltan Gendler, 2001. ‘Adjectives in context’. In I. Kenesi, and R. Harnish (eds.), Perspectives on Semantics, Pragmtics, and Discourse. Amsterdam: John Benjamins, pp. 119-146.
+Szabo, Zoltan Gendler, 2006. ‘Sensitivity Training’, Mind and Language, 21: 31-38.
+Taylor, Kenneth, 2003. Reference and the Rational Mind, Stanford, CA: CSLI Publications.
+Taylor, Kenneth, 2007. ‘A Little Sensitivity Goes a Long Way’, in (Preyer & Peter (2007), pp. 63-92.
+Travis, Charles, 2008. Occasion-Sensitivity: Selected Essays, Oxford: Oxford University Press.
+Unnsteinsson, Elmar Geir, 2014. ‘Compositionality and Sandbag Semantics’, Synthese, 191: 3329–3350.
+
+b. Further Reading
+
+Bianchi, Claudia (ed.), 2004. The Semantic/Pragmatic Distinction, Stanford: CSLI.
+
+A collection on context-sensitivity.
+
+
+Domaneschi, Filippo, and Penco, Carlo (eds.), 2013. What is Said and What is Not, Stanford: CSLI.
+
+A collection on context-sensitivity.
+
+
+Fara, Delia Graff, and Russell, Gillian (eds.), 2012. The Routledge Companion to Philosophy of Language, New York: Routledge.
+
+A companion to the philosophy of language that covers many of the topics that are discussed in this encyclopedia article.
+
+
+Garcia-Carpintero, Manuel, and Kolbel, Max (eds.), 2008. Relative Truth, Oxford: Oxford University Press.
+
+A collection on relativism.
+
+
+Preyer, Gerhard, and Peter, George (eds.), 2007. Context-Sensitivity and Semantic Minimalism: New Essays on Semantics and Pragmatics, Oxford: Oxford University Press.
+
+A collection on minimalism.
+
+
+Recanati, Francois, Stojanovic, Isidora, and Villanueva, Neftali (eds.), 2010. Context Dependence, Perspective, and Relativity, Berlin: De Gruyter.
+
+A collection on context-sensitivity.
+
+
+Szabo, Zoltan Gendler (ed.), 2004. Semantics versus Pragmatics, Oxford: Oxford University Press.
+
+A collection on context-sensitivity.
+
+
+
+ 
+Author Information
+Carlo Penco
+Email: penco@unige.it
+University of Genoa
+Italy
+and
+Massimiliano Vignolo
+Email: massimiliano.vignolo@unige.it
+University of Genoa
+Italy
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

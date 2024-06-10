@@ -1,0 +1,541 @@
+
+
+
+
+
+
+
+
+
+Problem of the Criterion | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Problem of the Criterion
+The Problem of the Criterion is considered by many to be a fundamental problem of epistemology.  In fact, Chisholm (1973, 1) claims that the Problem of the Criterion is “one of the most important and one of the most difficult of all the problems of philosophy.” A popular form of the Problem of the Criterion can be raised by asking two seemingly innocent questions: What do we know? How are we to decide in any particular case whether we have knowledge?  One quickly realizes how troubling the Problem of the Criterion is because it seems that before we can answer the first question we must already have an answer to the second question, but it also seems that before we can answer the second question we must already have an answer to the first question.  That is, it seems that before we can determine what we know we must first have a method or criterion for distinguishing cases of knowledge from cases that are not knowledge.  Yet, it seems that before we can determine the appropriate criterion of knowledge we must first know which particular instances are in fact knowledge.  So, we seem to be stuck going around a circle without any way of getting our epistemological theorizing started.  Although there are various ways of responding to the Problem of the Criterion, the problem is difficult precisely because it seems that each response comes at a cost.  This article examines the nature of the Problem and the costs associated with the most promising responses to the Problem.
+Table of Contents
+
+The Problem
+Chisholm on the Problem of the Criterion
+Other Responses to the Problem of the Criterion
+
+Explanationist Responses
+
+Explanatory Particularism
+Coherentism
+Applied Evidentialism
+
+
+Dissolution
+
+
+The Problem of the Criterion’s Relation to Other Philosophical Problems
+References and Further Reading
+
+1. The Problem
+The Problem of the Criterion is the ancient problem of the “wheel” or the “diallelus”.  It comes to us from Book 2 of Sextus Empiricus’ Outlines of Pyrrhonism.  Sextus presents the Problem of the Criterion as a major issue in the debate between the Academic Skeptics and the Stoics.  After Sextus’ presentation though, philosophers largely seemed to lose interest in the Problem of the Criterion until the modern period.  The problem resurfaced in the late 1500’s with Michael De Montaigne’s “Apology for Raymond Sebond” and it again had a significant influence.  Following the modern period, however, the Problem of the Criterion largely disappeared until the early 19th century when G.W.F. Hegel (1807) presented the problem and, arguably, put forward one of the first coherentist responses to the Problem of the Criterion (Rockmore (2006) and Aikin (2010)). In the late 19th and early 20th centuries Cardinal D.J. Mercier (1884) and his student P. Coffey (1917) again reminded the world of the problem.  In the late 20th century the Problem of the Criterion played an important role in the work of two philosophers: Roderick Chisholm and Nicholas Rescher.  In fact, it is primarily due to the work of Roderick Chisholm that the Problem of the Criterion is discussed by contemporary epistemologists at all. (See Amico (1993) and Popkin (2003) for further discussion of the historical development of the Problem of the Criterion).
+In light of Chisholm’s enormous influence on contemporary discussions of the Problem of the Criterion his presentation of the problem is a fitting place to begin getting clear on things. Chisholm (1973, 12) often introduces the Problem of the Criterion with the following pairs of questions:
+(A)  What do we know? What is the extent of our knowledge?
+(B) How are we to decide whether we know? What are the criteria of knowledge?
+However, Chisholm also speaks approvingly of Montaigne’s presentation of the Problem of the Criterion, which is in terms of true/false appearances rather than knowledge.  Further, there is some ambiguity in Chisholm’s own discussions of the Problem of the Criterion as to whether the problem presented by the Problem of the Criterion is the meta-epistemological problem of determining when we have knowledge or the epistemological problem of determining what is true.  So, there is a difficulty in determining exactly what problem the Problem of the Criterion is supposed to pose.
+The fact that Chisholm’s discussion oscillates between these two versions of the Problem of the Criterion and the fact that he seems to be aware of the two versions of the problem help make it clear that perhaps there is no such thing as the Problem of the Criterion. Perhaps the Problem of the Criterion is rather a set of related problems.  This is something that many philosophers since Chisholm, and Chisholm himself (see his 1977), have noted.  For instance, Robert Amico (1993) argues that Chisholm mistakenly takes himself to be discussing the same problem as Sextus Empiricus when he considers the Problem of the Criterion.  Richard Fumerton (2008) points out that there are at least two versions of the Problem of the Criterion.  The first is a methodological problem of trying to identify sources of knowledge or justified belief (this, he claims, is the version of the problem that Chisholm focuses on).  The second is the problem of trying to identify the necessary and sufficient conditions for correctly applying concepts such as ‘knowledge’ or ‘justification’.  Michael DePaul (1988, 70) expresses a version of the Problem of the Criterion limited to moral discourse in terms of two questions: “Which of our actions are morally right?” and “What are the criteria of right action?”
+Since there are many versions of the Problem of the Criterion, one might worry that it will be nearly impossible to formulate the Problem of the Criterion precisely.  Fortunately, this is not the case.  Although there are many particular instances of the Problem of the Criterion, they all seem to be questions of epistemic priority.  In other words, the various versions of the Problem of the Criterion are focused on trying to answer the question “how is it possible to theorize in epistemology without taking anything epistemic for granted?” (Conee 2004, 17).  More generally: how is it possible to theorize at all without making arbitrary assumptions? Hence, perhaps the best way to formulate the Problem of the Criterion in its most general form is with the following pair of questions (Cling (1994) and McCain and Rowley (2014)):
+(1) Which propositions are true?
+(2) How can we tell which propositions are true?
+Plausibly, all the various formulations of particular versions of the Problem of the Criterion can be understood as instances of the problem one faces when trying to answer these general questions.
+Before moving on it is important to be clear about the nature of (1) and (2).  These are not questions about the nature of truth itself.  Rather, these are epistemological questions concerning which propositions we should think are true and what the correct criteria are for determining whether a proposition should be accepted as true or false.  It is possible that one could have answers to these questions without possessing any particular theory of truth, or even taking a stand at all as to the correct theory of truth.  Additionally, it is possible to have a well-developed theory of the nature of truth without having an answer to either (1) or (2).  So, the issue at the heart of the Problem of the Criterion is how to start our epistemological theorizing in the correct way, not how to discover a theory of the nature of truth.
+Most would admit that it is important to start our epistemological theorizing in an appropriate way by not taking anything epistemic for granted, if possible.  However, this desire to start theorizing in the right way coupled with the questions of the Problem of the Criterion does not yield a problem—it is merely a desire we have and questions we need to answer.  The problem yielded by the Problem of the Criterion arises because one might plausibly think that we cannot answer (1) until we have an answer to (2), but we cannot answer (2) until we have an answer to (1).  So, at least initially, consideration of the Problem of the Criterion makes it seem that we cannot get our theorizing started at all.  This seems to land us in a pretty extreme form of skepticism—we cannot even begin the project of trying to determine which propositions to accept as true.
+Of course, there are anti-skeptical ways to respond to the Problem of the Criterion.  According to Chisholm, these anti-skeptical responses are question-begging.  In light of this one might think that extreme skepticism is inevitable.  However, this might not be correct.  The extreme skepticism threatened by the Problem of the Criterion itself seems guilty of begging the question.  This is why Chisholm (1973, 37) claims “we can deal with the problem only by begging the question.”
+2. Chisholm on the Problem of the Criterion
+According to Chisholm, there are only three responses to the Problem of the Criterion: particularism, methodism, and skepticism.  The particularist assumes an answer to (1) and then uses that to answer (2), whereas the methodist assumes an answer to (2) and then uses that to answer (1).  The skeptic claims that you cannot answer (1) without first having an answer to (2) and you cannot answer (2) without first having an answer to (1), and so you cannot answer either. Chisholm claims that, unfortunately, regardless of which of these responses to the Problem of the Criterion we adopt we are forced to beg the question.  It will be worth examining each of the responses to the Problem of the Criterion that Chisholm considers and how each begs the question against the others.
+The particularist assumes an answer to (1) that does not epistemically depend on an answer to (2) and uses her answer to (1) to answer (2). More precisely, the particularist response to the Problem of the Criterion is:
+Particularism             Assume an answer to (1) (accept some set of propositions as true) that does not depend on an answer to (2) and use the answer to (1) to answer (2).
+What is the epistemic status of the particularist’s answer to (1)? Chisholm (1973, 37) seems to take it that its status is weak, being nothing more than an assumption:
+But in all of this I have presupposed the approach I have called “particularism.” The “methodist” and the “skeptic” will tell us that we have started in the wrong place. If now we try to reason with them, then, I am afraid, we will be back on the wheel.
+One might think that the question-begging only occurs if the particularist tries to reason with her methodist or skeptical interlocutors.  So, one might think the problem for particularism is simply a lack of reasons in support of particularism that advocates of methodism or skepticism would accept.
+However, things are worse than this. The real problem with particularism is not simply the dialectical problem of providing grounds that methodists and skeptics will accept; rather it is an epistemic problem. The problem with particularism is that the particularist’s starting point is an unfounded assumption.  Particularism starts with a set of particular propositions and works from there.  If the particularist goes beyond that set of particular propositions to provide reasons for accepting them, she abandons that particularist response and either picks a new set of particular propositions to assume (a new particularist response) or picks something other than simply a new set of only particular propositions to assume and ceases to be a particularist.  So, the problem for the particularist response is much deeper than a dialectical problem that arises only when trying to deal with opposing views.  The particularist cannot offer reasons for particularism beyond the unfounded assumption of a set of particular propositions. By simply assuming an answer to (1), the particularist begs the question against both the methodists and the skeptics.
+Particularism is not unique in begging the question though.  It seems that methodism begs the question too.  The methodist response to the Problem of the Criterion is:
+Methodism                 Assume an answer to (2) (accept some criterion to be a correct criterion of truth – one that successfully discriminates true propositions from false ones) that does not depend on an answer to (1) and use the answer to (2) to answer (1).
+Since methodism begins by assuming that some criterion is a correct criterion of truth without providing any epistemic reason to prefer this response to the alternatives, it begs the question against particularism and skepticism.
+The skeptical response to the Problem of the Criterion assumes that both particularism and methodism are mistaken.   That is, the skeptical response to the Problem of the Criterion assumes that there is no answer to (1) that does not depend on an answer to (2) and there is no answer to (2) that does not depend on an answer to (1). As Chisholm (1973, 14) explains the response:
+And so we can formulate the position of the skeptic on these matters. He will say: ‘You cannot answer question 1 until you answer question 2. And you cannot answer question 2 until you answer question 1. Therefore, you cannot answer either question. You cannot know what, if anything, you know, and there is no possible way for you to decide in any particular case.’
+(The names of the questions have been changed from Chisholm’s “A” and “B” to “1” and “2”, respectively, in this quote in order to maintain continuity with the present discussion)
+A bit more succinctly:
+Skepticism                  Assume that (i) there is no independent answer to (1) or (2), and (ii) if (1) and (2) cannot be answered independently, they cannot be answered at all.
+According to Chisholm, the skeptical response has no more to recommend it that particularism or methodism.  The reason for this is that skepticism, as a response to the Problem of the Criterion, is question-begging.  The skeptic simply assumes that there is no independent answer to (1) or (2) and though both the particularist and the methodist deny this assumption, they can only respond by appealing to assumptions of their own.  The skeptic has no reasons to support the assumption that there is no independent answer to (1) or (2).  The conflict between the three responses that Chisholm considers comes down to ungrounded assumptions. It is because of this fact that Chisholm claims when facing the Problem of the Criterion we have no choice but to beg the question. Since all responses beg the question, skepticism is no better off than any other response to the Problem of the Criterion.
+At this point it is worth getting clear on two further points about the skeptical response.  First, it should be noted that the skeptical response is not the only response that might lead to a thoroughgoing skepticism.  For instance, one might be a methodist who assumes the criterion for distinguishing true from false propositions is absolute certainty.  That is, a methodist might think that the only way to tell whether a proposition is true is for the truth of the proposition to be absolutely certain for her.  Pretty clearly this sort of methodism will lead to a fairly extreme skepticism.  One of the lessons of Cartesian skepticism is that it is implausible to think that we can be absolutely certain about the truth of any proposition about the external world.
+Second, one might think that the skeptical response to the Problem of the Criterion really is better off than particularism or methodism. One might think that the skeptical response simply emerges from consideration of the problems facing both particularism and methodism, and so does not have to make any assumptions of its own.
+Although the skeptical response may arise in this way, it does not absolve skepticism of begging the question. As Chisholm notes, the skeptical response has nothing in itself that makes it better than particularism or methodism. The skeptical resolution of the Problem of the Criterion has nothing to appeal to other than unfounded assumptions in order to motivate it over its alternatives.  Without something more than unfounded assumptions there does not seem to be any reason to prefer the skeptic’s response. Given this, accepting the skeptical response would still beg the question because there is no more reason to accept it than there is to accept any of the other positions.  Since the skeptical response has nothing more to recommend it in itself than the other responses, there is no more reason to accept the skeptical response because of the problems for particularism and methodism than there is to accept particularism because of the problems with the other responses, or to accept methodism for the same reason.  All three options seem to be on equal footing when it comes to having reason to pick them over their rivals and they all beg the question.
+Each of these responses to the Problem of the Criterion begins with an unfounded assumption, one that is unsupported by reasons, and so begs the question in an epistemic sense against the other two.  Despite this and his emphasis on the fact that all three responses are unappealing because of their question-begging, Chisholm famously argues in support of particularism.  His argument in support of particularism, which he sometimes refers to as “commonsensism”, involves criticizing the other two responses and giving some reasons for preferring particularism.
+Concerning methodism, Chisholm offers two objections.  First, he objects that the criterion that methodism starts with will be “very broad and far-reaching and at the same time completely arbitrary” (1973, 17).  Essentially, he thinks that there can be no good reason for starting with a broad criterion.  Second, he objects that methodism (at least of the empiricist variety that he considers in detail) will lead to skepticism.  When we adopt the methodist’s broad criterion it will turn out that many of the things we commonsensically take ourselves to know do not count as knowledge.  Chisholm finds this unacceptable.
+Chisholm’s case against the skeptical response to the Problem of the Criterion seems also to come down to two things.  The first is quite plain.  If methodism is flawed because it will lead to skepticism concerning many areas where we take ourselves to have knowledge, it is no surprise that Chisholm finds the skeptical response to the Problem of the Criterion to be unacceptable.  It too has this result.  In fact, the skeptical response is in a sense doubly skeptical.  It not only holds that we lack knowledge in areas that we typically take ourselves to have knowledge, it holds that we cannot even begin the process of determining what we do know.  The second problem Chisholm seems to have with skepticism is simply that it has no more to recommend it that either of the other views.  Admittedly, this does not seem to be much of a criticism, especially since he grants that all three responses make unfounded assumptions.
+Unfortunately, Chisholm’s positive support for particularism is very sparse.  In fact in his Aquinas Lectures he only claims, “in favor of our approach [particularism] there is the fact that we do know many things, after all” (1973, 38).  But, of course, this seems to merely be a statement of the assumption made by particularism, not a defense of it. As a solution to the Problem of the Criterion, Chisholm’s particularism seems to be lacking.  In fact, Robert Amico (1988b) argues that Chisholm’s “solution” is clearly unacceptable because Chisholm does not give us good independent reasons to reject either methodism or skepticism, he does not provide good reasons to prefer particularism to the other responses, and, as Chisholm himself admits, particularism begs the question.
+Given the very weak argument in support of his preferred view, one might wonder what Chisholm is really up to when he discusses the Problem of the Criterion.  Throughout the many works in which he discusses the Problem of the Criterion Chisholm consistently favors particularism, but he also makes it clear that all responses to the Problem of the Criterion are unappealing and his own view must, just like its rivals, beg the question.  In responses to Amico’s criticisms Chisholm claims that particularism is superior to methodism and skepticism because by being a particularist one can give a reasonable account of knowledge, but one cannot make progress in epistemology by taking a methodist or skeptical approach.
+A few further points about Chisholm’s take on the Problem of the Criterion that are often overlooked are worth mentioning here.  First, he claims that we should remain open to the possibility of one day discovering a version of methodism that fares better than the empiricist version he criticizes.  Second, Chisholm is adamant that in supporting particularism he is not trying to solve the Problem of the Criterion because “the problem of the criterion has no solution” (1988, 234).  So, Chisholm thinks that particularism is simply the best of a set of bad options—the options are bad because they beg the question; particularism is best because it allows us to make progress in epistemology.
+3. Other Responses to the Problem of the Criterion
+Chisholm claimed that there are only three responses to the Problem of the Criterion and that there is no solution to this problem.   Many philosophers disagree with Chisholm on both points.  In fact, Andrew Cling (1994) argues that there are eight non-skeptical responses to the Problem of the Criterion.  Importantly, Cling does not consider two of the non-skeptical responses that we will consider below, so it seems that if Cling is correct concerning the eight non-skeptical approaches he mentions and the two additional approaches discussed below are distinct responses, there are at least eleven (ten non-skeptical and one skeptical) responses to the Problem of the Criterion.  While there are many possible responses to the Problem of the Criterion the focus here will be limited to those that have been defended in the literature.
+a. Explanationist Responses
+As noted above, there are a number of responses to the Problem of the Criterion beyond the three kinds that Chisholm considers.  The employment of explanatory reasoning offers promising alternatives to the responses Chisholm considers.  These explanationist responses share a commitment to explanatory reasoning—they all involve attempting to answer (1) and (2) in a way that yields the most satisfactory explanatory picture.  A helpful way of understanding explanationist responses is as employing the method of reflective equilibrium to respond to the Problem of the Criterion. Roughly, the method of reflective equilibrium involves starting with a set of data (beliefs, intuitions, etc.) and making revisions to that set—giving up some of the data, adding new data to the set, giving more/less weight to some of the data, and so on—so as to create the best explanatory picture overall.  Reaching this equilibrium state of maximized explanatory coherence of the remaining data is thought to make accepting whatever data remains, whether this includes any of one’s initial data or not, reasonable (see coherentism and John Rawls for more on reflective equilibrium).  Of course, there have been criticisms of the viability of reflective equilibrium as a method of reasoning; however, for current purposes these can be set aside because the ultimate concern here is simply the sort of responses that can be generated by employing reflective equilibrium.
+There are a variety of ways that one might attempt to respond to the Problem of the Criterion by using the method of reflective equilibrium.  The variation in these responses is largely a result of what one includes in the set of data that will form the basis for one’s reflection.  It is worth considering some of the more promising varieties of this response that have been put forward in the literature.
+i. Explanatory Particularism
+Although the explanatory particularism defended by Paul Moser (1989) is a kind of particularism, its explanationist elements warrant discussing it as a separate variety of response.  Moser’s (1989, 261) explanatory particularism begins with one’s “considered, but revisable, judgments” concerning particular propositions.  This is importantly different from the sort of particularism that Chisholm describes because explanatory particularism allows that the beliefs about the truth of particular propositions are revisable whereas particularism as Chisholm describes it does not clearly allow for this.  It is because of this that Moser claims that explanatory particularism does not beg the question against skeptics by ruling out skepticism from the start.  Importantly, the kind of skepticism Moser is discussing here is not the skeptical response to the Problem of the Criterion, but rather the sort of skepticism that grants that we can get started in epistemological theorizing while claiming that ultimately we will end up lacking knowledge in a wide range of cases. External world skepticism is an example of this sort of skepticism; it grants that we are aware of what is required for knowledge, but claims that we simply fail to have knowledge of the world around us.  Like Chisholm’s particularism, explanatory particularism uses this initial set of propositions (i.e. this answer to (1)) to develop epistemic principles or criteria for truth (i.e. to answer (2)).  The initial set of propositions and criteria are both continually revised until a state of maximal explanatory coherence is reached.
+Moser claims that explanatory particularism avoids begging the question in the way that Chisholm’s particularism or methodism does.  The reason for this is that Moser claims that the beliefs that explanatory particularism starts with are revisable.  Despite this and Moser’s claim that explanatory particularism does not beg the question against the skeptic, it is not clear that it avoids begging the question against the skeptical response to the Problem of the Criterion.  After all, explanatory particularism assumes an independent answer to (1)—revisable or not it is still an answer—and then uses that to answer (2).  So, it at least seems that explanatory particularism begs the question against the skeptical response by denying the skeptic’s assumption that there is no independent answer to (1) or (2).
+Ernest Sosa (2009) also defends a view that we might call explanatory particularism.  On Sosa’s view we begin with particular items of knowledge.  That is, we start with particular propositions that we know to be true.  According to Sosa, we know these propositions because our beliefs with respect to these propositions satisfy a correct general criterion of knowledge (they are formed by sufficiently reliable cognitive faculties).  Although we have knowledge of these propositions, we merely have what he terms “animal knowledge”.  Our knowledge of these propositions when we begin is only animal knowledge because we lack a higher-order perspective on these beliefs.  That is to say, we lack “reflective knowledge” of the fact that these first-order beliefs satisfy the proper criterion of knowledge.  However, on Sosa’s view we use our animal knowledge to develop a perspective on our epistemic situation that offers us an explanatory picture about how or why our first-order beliefs really do constitute knowledge, i.e. we develop reflective knowledge as to how our particular pieces of animal knowledge satisfy the proper criterion for knowledge.  This explanatory perspective yields reflective knowledge and it strengthens our animal knowledge.  A significant component of this picture is that we use our starting animal knowledge to come to answer both (1) and (2) from a reflective standpoint.  So, we begin with an answer to (1) in terms of animal knowledge and we use that answer to develop a perspective that gives us an answer to (2) with respect to both animal and reflective knowledge and an answer to (1) in terms of reflective knowledge.  Sosa’s explanatory response to the Problem of the Criterion relies on a mixture of levels.
+Although Sosa’s explanatory particularism with its multiple levels seems more complex that Moser’s, one might think that it begs the question in the same way that Moser’s response does.  Namely, Sosa’s response, like Moser’s, assumes an independent answer to (1). Sosa’s assumed answer is only in terms of animal knowledge, however, it is still an answer.  His response then requires using that answer to develop an explanatory perspective that provides an answer to (2).  Thus, one might think that Sosa’s response seems to beg the question against the skeptical response in the same way that Moser’s response seems to: by denying the skeptic’s assumption (i) that there is no independent answer to (1) or (2).
+ii. Coherentism
+Coherentism responds to the Problem of the Criterion by starting with both beliefs about which propositions are true and beliefs about the correct method or methods for telling which beliefs are true.  It then uses these beliefs to attempt to answer both (1) and (2) at the same time (DePaul 1988 & 2009, Cling 1994, and Poston 2011). As Andrew Cling (1994, 274) explains:
+To be a coherentist is to reject the epistemic priority of beliefs and criteria of truth. Instead, coherentists recommend balancing beliefs against criteria and criteria against beliefs until they all form a consistent, mutually supporting system.
+The coherentist does not simply assume that the criterion of truth is to balance “beliefs against criteria and criteria against beliefs.”  To understand coherentism in this way would simply make it a variety of methodism, and so fail to appreciate the importance of its employment of reflective equilibrium.  Instead, the coherentist response involves starting with both beliefs about criteria of truth and also beliefs that particular propositions are true and then makes adjustments to beliefs of either kind in an attempt to reach a state of reflective equilibrium.  Once this equilibrium state has been reached the coherentist uses it to complete her answers to (1) and (2).
+On one understanding of coherentism (Cling’s 1994 and Poston’s 2011) the coherentist accepts one of the skeptic’s assumptions, but denies the other.  In particular, this version of coherentism shares the skeptic’s assumption of (i) (there is no independent answer to (1) or (2)), but denies (ii) (if (1) and (2) cannot be answered independently, they cannot be answered at all).  More precisely, on this way of understanding coherentism it involves accepting (i) of Skepticism and adding to it the further assumptions that: (a) a particular criterion is correct (namely, explanatory goodness), (b) a set of particular propositions are true, and (c) the criterion and the set of propositions are not independent of each other.  However, it seems that if one begins with beliefs about which propositions are true and beliefs about the correct criteria for telling which beliefs are true along with the assumption that there is no independent answer to (1) or (2), this version of coherentism will beg the question for reasons similar to why Skepticism begs the question.  That is to say, the coherentist’s assumption of (i) begs the question against particularism and methodism.  After all, (i) is a groundless assumption with which the coherentist starts.  It may be awareness of this feature that helped lead Cling (2009) to ultimately abandon his coherentist response in favor of a skeptical stance with respect to the Problem of the Criterion.
+Another way of understanding this approach is as Michael DePaul (1988 & 2009) depicts it.  According to this way of understanding coherentism, the coherentist starts with beliefs about which particular propositions are true and about the correct criteria for telling which beliefs are true, but she does not assume (i). This version of coherentism seems to avoid begging the question against both particularists and methodists because it does not assume that we can answer (1) prior to (2) or that we can answer (2) prior to (1) nor does it assume that they cannot be answered independently.  Instead, this kind of coherentism merely applies reflective equilibrium to the coherentist’s starting set of beliefs without taking a stand on (i) at all.  Now it might turn out that after the application of reflective equilibrium the coherentist is committed to a particular position with respect to (i), but this kind of coherentism does not have to take a stand on (i) from the start.  So, in some respects this way of understanding coherentism may seem superior to the previous version of coherentism.  However, its use of beliefs in the relevant data set seems to beg the question against the skeptic because starting with beliefs about which propositions are true assumes that we can answer and in fact already have an answer to (1).  Likewise, a belief about which criteria are successful for telling which beliefs are true assumes that we can answer and have an answer to (2).   In other words, this version of coherentism seems to beg the question against skepticism by assuming that (ii) is false.  Thus, applying reflective equilibrium to a set of beliefs appears to beg the question by assuming that one of the assumptions of skepticism is false from the outset.  This may be why DePaul (2009) accepts Chisholm’s position that all responses to the Problem of the Criterion end up begging the question.
+A final coherentist response is Nicholas Rescher’s “systems-theoretic approach”.  Rescher’s development of this approach takes place over several books (1973a, 1973b, 1977, and 1980).  Although Rescher’s systems-theoretic approach is complex, the relevant details for the present discussion of the Problem of the Criterion are relatively straightforward. Rescher’s response begins by appealing to pragmatic considerations.  It starts with a method and a goal, applies the method and checks to see whether the results satisfy the goal.  So, with respect to the Problem of the Criterion the idea is that our goal is to come to believe true propositions and we start with some criterion for distinguishing true propositions from false.  We apply our criterion and then see if it helps us achieve our goal.  Assuming that the criterion does help us achieve our goal, we have completed the first step in Rescher’s process.  The second step in this process involves showing that a pragmatically successful criterion/method is connected to the truth.  Here Rescher (1977, 107) claims that “only when all the pieces fit together” do we have justification for the criterion.  Further, he is clear that coherence is central to this process.  It is because of this that Robert Amico (1993) argues that Rescher’s view, though complex, is simply a coherentist version of methodism—Rescher ultimately assumes that coherence is the appropriate criterion of truth.  This is so despite the fact that the criterion/method that Rescher starts with may not be coherence because ultimately his way of establishing that any criterion that one starts with is actually a correct criterion is by appeal to coherence.  Since Rescher assumes this role for coherence from the outset, his approach seems to be a form of methodism.  Although Rescher’s approach is a kind of methodism with a significant explanatory element and one that may make more progress in epistemology than the sort that Chisholm criticizes, it seems to be vulnerable to the same charge of question-begging that Chisholm leveled at other forms of methodism—something Rescher may accept since he does not believe the Problem of the Criterion can be solved, but it is at best something that one can “meet and overcome” (1980, 13).
+iii. Applied Evidentialism
+A final explanationist response to the Problem of the Criterion is what Earl Conee (2004) calls “Applied Evidentialism” (McCain and Rowley (2014) call it the “Seeming Intuition Response”).  This explanationist response differs from the previous ways of using reflective equilibrium to respond to the Problem of the Criterion in that it does not start with a set of beliefs.  Rather, Applied Evidentialism begins with one’s evidence.  In particular, when Conee defends this view he suggests beginning with the set of intuitions or what seems true to us about various propositions.  That is to say, Applied Evidentialism begins with what seems true to us both with respect to propositions about particular items of fact and with respect to criteria for determining when propositions are true.  According to Applied Evidentialism, the way to respond to the Problem of the Criterion is to start with these intuitions and then make modifications—give up some intuitions, form different intuitions, rank some intuitions as more/less important than others, and so on— until a state of equilibrium has been reached.  Once such an equilibrium state has been reached the data from that state can be used to answer (1) and (2). 
+Like the other ways of using reflective equilibrium to respond to the Problem of the Criterion, Applied Evidentialism does not seem to beg the question against particularism or methodism because it does not assume that there can be no independent answer to (1) or (2).  Additionally, Applied Evidentialism does not seem to beg the question against the skeptic because it refrains from assuming an answer to (1) or (2) at the outset.  Further, Applied Evidentialism does not assume from the start that the equilibrium state that we end up with will be anti-skeptical.  It is consistent with Applied Evidentialism that reflection on our initial intuitions will in the end lead us to the conclusion that we are unaware of which propositions are true or that we lack an appropriate criterion for discovering this information.  In other words, Applied Evidentialism does not assume that we will have an answer to (1) or (2) when we reach our end equilibrium state.  After all, it could be that our equilibrium state is one in which no method appears to be correct and our best position with respect to each proposition seems to be to suspend judgment concerning its truth.  So, Applied Evidentialism does not seem to beg any questions against the skeptical response to the Problem of the Criterion or other kinds of skepticism, such as Cartesian skepticism.
+One might worry that Applied Evidentialism is really a form of methodism, and hence, open to the same charge of question begging as other kinds of methodism.  After all, Applied Evidentialism suggests that using the method of reflective equilibrium on one’s intuitions can provide a response to the Problem of the Criterion.
+Upon reflection, however, it seems that Applied Evidentialism is not a kind of methodism.  Plausibly, someone can employ a method without having any beliefs about, or even conscious awareness of, the method at all.  Kevin McCain and William Rowley (2014) argue that methods are analogous to rules in this sense.  They maintain that someone might behave in accordance with a rule without intending to obey the rule or even being aware that there is such a rule at all.  For example, one can act in accordance with a rule of not driving faster than 50mph by simply not driving over 50mph.  She does not need to know that this is a rule or even have an intention to follow rules concerning speed limits.  Ignorance of a rule does not mean that one fails to act in accordance with a rule.  Likewise, McCain and Rowley claim, one can employ the method of reflective equilibrium without accepting or even being aware of the method being used.  So, Applied Evidentialism does not seem to be a kind of methodism.
+McCain and Rowley further argue that Applied Evidentialism does not beg the question by assuming that reflective equilibrium is the correct criterion or method at the outset.  They maintain that this is not to say that one cannot be aware that reflective equilibrium is a good method from the outset.  Rather, they claim that the important point is that Applied Evidentialism does not take the goodness of reflective equilibrium as a starting assumption—perhaps one has the intuition that reflective equilibrium is a good method to employ, perhaps not.  The key, they argue, is that unlike methodism Applied Evidentialism does not require one to have beliefs about, or even awareness of, reflective equilibrium to begin to respond to the Problem of the Criterion.  So, they argue Applied Evidentialism is not a form of methodism.  And thus, Applied Evidentialism does not beg the questions that methodism does.
+Even if one accepts that Applied Evidentialism does not beg the question, it may have other problems.  It seems that in order to avoid begging the question Applied Evidentialism requires being able to employ reflective equilibrium in responding to the Problem of the Criterion without needing reasons to think that reflective equilibrium is a good method from the start.  This, however, seems to commit the supporter of Applied Evidentialism to accepting that certain kinds of circular reasoning can provide one with good reasons.  More precisely, if Applied Evidentialism is to avoid being a form of methodism, and the question begging that comes with methodism, then it seems that Applied Evidentialism requires that one can have good reasons to believe the results of employing reflective equilibrium without first having good reasons to accept reflective equilibrium as a good method.  But, this allows for epistemic circularity because it can be the case that the claim that reflective equilibrium is a good method is itself one of the results that is produced in the final equilibrium state.  The heart of this worry is that Applied Evidentialism allows someone to use reflective equilibrium to come to reasonably believe that reflective equilibrium is a good method for determining true propositions. This is a kind of rule-circularity that occurs when a rule or method is employed to establish that that very rule or method is acceptable. The status of rule-circularity is contentious.  Several authors argue that it is benign (for example, Braithwaite (1953), Conee (2004), Matheson (2012), Sosa (2009), and Van Cleve (1984)), but others argue that it is vicious circularity (e.g., Cling (2003) and Vogel (2008)).  Depending on whether this circularity is benign or vicious, Applied Evidentialism is a promising or problematic response to the Problem of the Criterion (for more on this issue see epistemic circularity).
+b. Dissolution
+Robert Amico (1988a, 1993, and 1996) offers a very different response to the Problem of the Criterion.  Rather than attempting to solve the Problem of the Criterion, Amico attempts to “dissolve” it.  According to Amico, a philosophical problem is a question that can only be answered theoretically—it cannot be answered by purely empirical investigation.  Further, a philosophical problem is such that there is rational doubt as to the correct answer to the question asked by the problem.  He explains rational doubt as simply being such that withholding belief in a particular answer is the justified doxastic attitude to take.  Since he explicates philosophical problems in terms of rational doubt and rational doubt is relative to a person, Amico maintains that problems are always relative to particular people.  A particular question poses a problem for someone when that question generates rational doubt for her. 
+It is because of the role of rational doubt that Amico distinguishes between solutions to problems and dissolutions of problems.  A solution to a problem is a set of true statements that answer the question that generates the problem and removes the rational doubt concerning the answer to the question.  Dissolution occurs when the rational doubt is removed, not by an answer to the question, but rather by recognition that it is impossible to adequately answer the question.  For example, Amico claims that the problem of how to square a circle is dissolved as soon as one recognizes that it is impossible to make a circular square.  Once someone sees that it is impossible to make a circular square, the question “How do you square a circle?” does not generate any rational doubt for her.  Without rational doubt, Amico claims that the problem has been dissolved and there is no need to look for a solution.
+Like all problems, Amico claims that the Problem of the Criterion is only a problem for a particular person when its question raises rational doubt for the person.  When we first consider the questions posed by the Problem of the Criterion Amico claims that we may have rational doubt about how to answer the questions in such a way that that answer can be justified to the skeptic.  So, we face a problem.  However, Amico argues that consideration of the failure of other responses—in particular their tendency to be question begging— and consideration of the nature of the problem itself allows one to recognize that it is in fact impossible to answer the questions of the Problem of the Criterion in a way that can be justified to the skeptic.  Once one recognizes that it is impossible to answer the skeptic’s questions Amico alleges that the rational doubt generated by the Problem of the Criterion is removed.  Thus, he claims that the Problem of the Criterion is at that point dissolved.  Since it has been dissolved, we should not be troubled by the Problem of the Criterion at all.
+There are three major challenges to Amico’s purported dissolution of the Problem of the Criterion.  The first, as Sharon Ryan (1996) argues, is that it does not seem that the problem has been dissolved, but instead it seems that Amico has simply accepted that the skeptic is correct.  Amico responds by claiming that the skeptical position is not a solution to the problem because that position cannot be justified to the particularist or the methodist.  Since none of the three positions can justify their position to the others, he claims that the problem is dissolved.  It is not clear that this adequately responds to Ryan’s criticism because one might think that claiming that there is no acceptable answer to the questions of the Problem of the Criterion is exactly what the skeptic had in mind all along.
+The second major challenge to Amico’s view comes from the various responses to the Problem of the Criterion.  Although he does discuss several responses, Amico does not argue that all of the responses mentioned above fail to provide answers that remove the rational doubt raised by the Problem of the Criterion.  Insofar as one thinks that some of these responses to the Problem of the Criterion provide a solution to the problem, one will rightly be skeptical of Amico’s proffered dissolution.
+The third major challenge to Amico’s view arises because he seems to rest his dissolution on what can and cannot be said in response to a skeptic.  Andrew Cling argues that the Problem of the Criterion does not require skeptical interlocutors at all.  Rather, Cling maintains that the difficulty illuminated by the Problem of the Criterion is that anti-skeptics have commitments that seem plausible when considered individually, but they are jointly inconsistent.  The inconsistency among these commitments is present whether or not there are skeptics.  Thus, Cling contends that arguing that the Problem of the Criterion is constituted by questions that cannot be answered does not dissolve the problem; it brings the problem to light.
+4. The Problem of the Criterion’s Relation to Other Philosophical Problems
+The Problem of the Criterion is a significant philosophical issue in its own right—if Chisholm is correct, it is one of the most fundamental of all philosophical problems.  However, according to many philosophers, there are additional reasons to study this problem.  They claim that the Problem of the Criterion is closely related to several other perennial problems of philosophy.  It is worth briefly noting some of the philosophical problems thought to be closely related to the Problem of the Criterion. 
+First, James Van Cleve (1979) and Ernest Sosa (2007) maintain that the Cartesian Circle is in fact just a special instance of the Problem of the Criterion (See Descartes for more on the Cartesian Circle).  Sosa also argues that the problem of easy knowledge is closely related to the Problem of the Criterion—something that Stewart Cohen (2002) and Andrew Cling note as well.  In places Sosa seems to go so far as to suggest that the problem of easy knowledge and the Problem of the Criterion are the same problem. (See epistemic circularity for more on the problem of easy knowledge).
+Next, Ruth Weintraub (1995) argues that Hume’s attack on induction is simply a special case of the Problem of the Criterion.  She claims that Hume essentially applies the Problem of the Criterion to induction rather than applying the problem in a general fashion (For more on Humean inductive skepticism see confirmation and induction, epistemology, and Hume: causation).
+According to Bryson Brown (2006), the challenge of responding to skepticism about the past is just a version of the Problem of the Criterion.  He claims that debunking Bertrand Russell’s five-minute old universe hypothesis, for example, involves providing a criterion for trusting memory.  This, he argues, requires satisfactorily responding to the Problem of the Criterion.
+Andrew Cling (2009) and (2014) maintains that the Problem of the Criterion and the regress argument for skepticism are closely related.  In fact, he argues that they are both instances of a more general problem that he calls the “paradox of reasons”.  Cling argues that this paradox arises because it seems that it is possible to have reasons for a belief, it seems that reasons themselves must be supported by reasons, and it seems that if an endless sequence of reasons—either in the form of an infinite regress or a circle of reasons—is necessary for having reasons for a belief, then it is impossible to have reasons for a belief.  According to Cling, these three commitments are inconsistent.  The important point for the current purpose is that Cling maintains that the Problem of the Criterion and the regress argument for skepticism are both instances of the paradox of reasons (See infinitism in epistemology for more on regress arguments).
+Finally, Howard Sankey (2010, 2011, and 2012) argues that the Problem of the Criterion provides one of the primary, if not the primary, argument in support of epistemic relativism.  Relativists take the Problem of the Criterion to show that it is not possible to provide a justification for choosing one criterion over another.  However, rather than opting for skepticism, which claims that no criterion is justified, relativists respond to the Problem of the Criterion by holding that all criteria are equally rational to adopt—one’s choice is determined simply by the context in which one finds oneself.  Sankey argues that a clear understanding of the Problem of the Criterion is key to responding to the threat of epistemic relativism (For more on epistemic relativism see relativism).
+The Problem of the Criterion is a significant philosophical problem in its own right.  However, if these philosophers are correct in claiming that the Problem of the Criterion is related to all of these various philosophical problems in important ways, close study of this problem and its responses could yield insights that are very far-ranging.
+5. References and Further Reading
+
+Aikin, S.F. “The Problem of the Criterion and a Hegelian Model for Epistemic Infinitism.” History of Philosophy Quarterly 27 (2010): 379-88.
+
+Puts forward the view that Hegel proposes what is arguably a coherentist response to the Problem of the Criterion.
+
+
+Amico, R. P. “Reply to Chisholm on the Problem of the Criterion.” Philosophical Papers 17 (1988a): 235-36.
+
+Presents a very brief formulation of his dissolution of the Problem of the Criterion.
+
+
+Amico, R. P. “Roderick Chisholm and the Problem of the Criterion.” Philosophical Papers 17 (1988b): 217-29.
+
+Argues that Chisholm’s particularist response to the Problem of the Criterion is unsatisfactory.
+
+
+Amico, R. P. The Problem of the Criterion. Lanham, MD: Rowman & Littlefield Publishers, Inc., 1993.
+
+The only book-length treatment of the Problem of the Criterion. Includes a helpful discussion of the history of the Problem of the Criterion, critiques of major responses to the Problem of the Criterion, and the full formulation of Amico’s proposed dissolution.
+
+
+Amico, R. P. “Skepticism and the Problem of the Criterion.” In K. G. Lucey (ed.), On Knowing and the Known. Amherst, NY: Prometheus Books, 1996. 132-41.
+
+Argues against the skeptical response to the Problem of the Criterion in favor of his dissolution of the problem.
+
+
+Braithwaite, R.B. Scientific Explanation. Cambridge: Cambridge University Press, 1953.
+
+Argues that the sort of rule-circularity present in inductive arguments in support of induction is not always vicious.
+
+
+Brown, B. “Skepticism About the Past and the Problem of the Criterion.” Croatian Journal of Philosophy 6 (2006): 291-306.
+
+Argues that skepticism about the past is in essence a limited form of the Problem of the Criterion.
+
+
+Chisholm, R.M. Perceiving. Ithaca, NY: Cornell University Press, 1957.
+
+Chisholm’s earliest discussion of the Problem of the Criterion appears in this work.
+
+
+Chisholm, R.M.  The Problem of the Criterion. Milwaukee, WI: Marquette University Press, 1973.
+
+The Aquinas Lecture on the Problem of the Criterion by one of the most influential epistemologists of the twentieth century. Arguably, this is the most important contemporary work on the Problem of the Criterion.
+
+
+Chisholm, R.M. Theory of Knowledge. Englewood Cliffs, NJ: Prentice Hall, 2nd Edition, 1977; 3rd Edition, 1989.
+
+Chisholm’s famous and widely used epistemology textbook; contains brief discussions of the Problem of the Criterion in both of its later editions.
+
+
+Chisholm, R.M. The Foundations of Knowing. Minneapolis, MN: University of Minnesota Press, 1982.
+
+Contains a reprint of Chisholm’s 1973 Aquinas Lecture.
+
+
+Chisholm, R.M. “Reply to Amico on the Problem of the Criterion.” Philosophical Papers 17 (1988): 231-34.
+
+Responds to Amico’s criticisms of his particularist response to the Problem of the Criterion. Claims that the Problem of the Criterion cannot be solved.
+
+
+Cling, A.D. “Posing the Problem of the Criterion.” Philosophical Studies 75 (1994): 261-92.
+
+Argues that there are many more options for responding to the Problem of the Criterion than Chisholm considers.  Presents his coherentist response to the Problem of the Criterion.
+
+
+Cling, A.D. “Epistemic Levels and the Problem of the Criterion.” Philosophical Studies 88 (1997): 109-40.
+
+Presents the Problem of the Criterion as an argument for skepticism.  Argues that both Chisholm and Van Cleve fail to solve the problem.
+
+
+Cling, A.D. “Self-Supporting Arguments.” Philosophy and Phenomenological Research 66 (2003): 279-303.
+
+Evaluates the strength of self-supporting arguments in deductive and inductive logic.  Argues that rule-circularity is a kind of vicious circularity.
+
+
+Cling, A.D. “Reasons, Regresses, and Tragedy: The Epistemic Regress Problem and the Problem of the Criterion.” American Philosophical Quarterly 46 (2009): 333-46.
+
+Argues that the Problem of the Criterion and the regress argument for skepticism are both species of a more general problem, the “paradox of reasons”
+
+
+Cling, A.D. “The Epistemic Regress Problem, the Problem of the Criterion, and the Value of Reasons.” Metaphilosophy 45 (2014): 161-71.
+
+Further develops the idea that the Problem of the Criterion and the regress argument for skepticism are both species of a more general problem, the “paradox of reasons”.  Also, includes a discussion of the kinds of reasons that this problem reveals we can and cannot have.
+
+
+Coffey, P. Epistemology or Theory of Knowledge. London: Longmans, Green, 1917.
+
+This work by D.J. Mercier’s pupil is largely responsible for ushering discussion of the Problem of the Criterion into the 20th century.
+
+
+Cohen, S. “Basic Knowledge and the Problem of Easy Knowledge.” Philosophy and Phenomenological Research 65 (2002): 309-29.
+
+Presents the problem of easy knowledge and notes its relevance to the Problem of the Criterion.
+
+
+Conee, E. “First Things First.” In E. Conee and R. Feldman, Evidentialism. New York: Oxford University Press, 2004. 11-36.
+
+Presents and defends “Applied Evidentialism” as a response to the Problem of the Criterion.
+
+
+DePaul, M. “The Problem of the Criterion and Coherence Methods in Ethics.” Canadian Journal of Philosophy 18 (1988): 67-86.
+
+Presents a version of the Problem of the Criterion in terms of moral theories and describes his coherentist response to the Problem of the Criterion.
+
+
+DePaul, M. “Pyrrhonian Moral Skepticism and the Problem of the Criterion.” Philosophical Issues 19 (2009), 38-56.
+
+Claims, like Chisholm, that all responses to the Problem of the Criterion—including the skeptical response—beg the question.
+
+
+DePaul, M. “Sosa, Certainty and the Problem of the Criterion.” Philosophical Papers 40 (2011), 287-304.
+
+Suggests that Chisholm’s own particularist response to the Problem of the Criterion may have included some subtle methodism. Also, provides a discussion of Sosa’s recent work on the Problem of the Criterion.
+
+
+Fumerton, R. “The Problem of the Criterion.” In J. Greco (ed.), The Oxford Handbook of Skepticism. Oxford: Oxford University Press, 2008. 34-52.
+
+Claims there are at least two distinct problems often called the “Problem of the Criterion”.  Also, discusses some responses to the Problem of the Criterion.
+
+
+Greco, J. “Epistemic Circularity: Vicious, Virtuous and Benign.” International Journal for the Study of Skepticism 1 (2011): 1-8.
+
+Provides a nice summary of Sosa’s most recent work on the Problem of the Criterion.
+
+
+Hegel, G.W.F. Phenomenology of Spirit. Oxford: Oxford University Press, 1979.
+
+Helped draw attention back to the Problem of the Criterion in the 19th century.  Presents the Problem of the Criterion as a crisis for Spirit, and (arguably) proposes a coherentist response to the problem.
+
+
+Lemos, Noah. Commonsense: A Contemporary Defense. New York: Cambridge University Press, 2004.
+
+Defends Chisholm’s particularist response to the Problem of the Criterion.
+
+
+Matheson, J. “Epistemic Relativism.” In A. Cullison (ed.), Continuum Companion to Epistemology. New York: Continuum, 2012. 161-79.
+
+Argues against epistemic relativism and offers considerations for thinking that at least some kinds of epistemic circularity are not vicious.
+
+
+Mercier, D.J. Criteriologie 8th Edition. Paris: Felix Alcan, 1923.
+
+Helped draw attention back to the Problem of the Criterion in the 19th century.  Also, Chisholm cites Mercier’s conditions for what a satisfying criterion would have to look like.
+
+
+McCain, K. and Rowley, W. “Pick Your Poison: Beg the Question or Embrace Circularity.” International Journal for the Study of Skepticism (2014): 125-40.
+
+Explains why the three responses to the Problem of the Criterion that Chisholm considers each beg the question.  Also, argues that it is possible to respond to the Problem of the Criterion without begging the question, but doing so requires a commitment to certain forms of circularity as epistemically acceptable.
+
+
+Montaigne, M. de. “Apology for Raymond Sebond.” In J. Zeitlin (trans.), Essays of Michael De Montaigne, New York: Knopf, 1935.
+
+The Problem of the Criterion appears to have resurfaced in the modern period with this work.
+
+
+Moser, P.K. Knowledge and Evidence. Cambridge: Cambridge University Press, 1989.
+
+Presents and defends his explanatory particularist response to the Problem of the Criterion.
+
+
+Popkin, R.H. The History of Sceptism: From Savonarola to Bayle (Revised and Expanded Edition). New York: Oxford University Press, 2003.
+
+Discusses the historical development of skepticism. Of particular interest is the discussion of the influence that the Problem of the Criterion had on philosophy during the modern period.
+
+
+Poston, T. “Explanationist Plasticity & The Problem of the Criterion.” Philosophical Papers 40 (2011): 395-419.
+
+Defends a coherentist response to the Problem of the Criterion.
+
+
+Rescher, N. The Coherence Theory of Truth. Oxford: Clarendon Press, 1973a.
+
+Part of the series of books in which Rescher’s “systems-theoretic approach” to the Problem of the Criterion is developed.
+
+
+Rescher, N. The Primacy of Practice. Oxford: Basil Blackwell, 1973b.
+
+Part of the series of books in which Rescher’s “systems-theoretic approach” to the Problem of the Criterion is developed.
+
+
+Rescher, N. Methodological Pragmatism. Oxford: Basil Blackwell, 1977.
+
+Part of the series of books in which Rescher’s “systems-theoretic approach” to the Problem of the Criterion is developed.
+
+
+Rescher, N. Scepticism. Totowa, N.J.: Rowman & Littlefield Publishers, 1980.
+
+Part of the series of books in which Rescher’s “systems-theoretic approach” to the Problem of the Criterion is developed.
+
+
+Rockmore, T. “Hegel and Epistemological Constructivism.” Idealistic Studies 36 (2006): 183-90.
+
+Argues that Hegel proposes a coherentist response to the Problem of the Criterion.
+
+
+Ryan, S. “Reply to Amico on Skepticism and the Problem of the Criterion.” In K. G. Lucey (ed.), On Knowing and the Known. Amherst, NY: Prometheus Books, 1996. 142-48.
+
+Argues that Amico’s dissolution of the Problem of the Criterion really amounts to accepting the skeptical response to the Problem of the Criterion.
+
+
+Sankey, H. “Witchcraft, Relativism and the Problem of the Criterion.” Erkenntnis 72 (2010): 1-16.
+
+Explores the relationship between epistemic relativism and the Problem of the Criterion.
+
+
+Sankey, H. “Epistemic Relativism and the Problem of the Criterion.” Studies in the History and Philosophy of Science 42 (2011): 562-70.
+
+Explores the relationship between epistemic relativism and the Problem of the Criterion.
+
+
+Sankey, H. “Scepticism, Relativism, and the Argument from the Criterion.” Studies in the History and Philosophy of Science 43 (2012): 182-90.
+
+Explores the relationship between epistemic relativism and the Problem of the Criterion.
+
+
+Sextus Empiricus. The Skeptic Way: Sextus Empiricus’s Outlines of Pyrrhonism, (trans.) B. Mates. New York: Oxford University Press, 1996.
+
+The original presentation of the Problem of the Criterion.
+
+
+Sosa, E. A Virtue Epistemology: Apt Belief and Reflective Knowledge, Volume I. New York: Oxford University Press, 2007.
+
+Argues that the Cartesian Circle is a version of the Problem of the Criterion.
+
+
+Sosa, E. Reflective Knowledge: Apt Belief and Reflective Knowledge, Volume II. New York: Oxford University Press, 2009.
+
+Develops Sosa’s response to the Problem of the Criterion.  Argues that the problem of easy knowledge is a version of the Problem of the Criterion.
+
+
+Van Cleve, J. “Foundationalism, Epistemic Principles, and the Cartesian Circle.” The Philosophical Review 88 (1979): 55-91.
+
+Argues that the Cartesian Circle is simply a special case of the Problem of the Criterion.
+
+
+Van Cleve, J. “Reliability, Justification, and the Problem of Induction.” Midwest Studies in Philosophy 9 (1984): 555-67.
+
+Presents an inductive argument in support of induction and argues that the rule-circularity involved in such an argument is not vicious.
+
+
+Van Cleve, J. “Sosa on Easy Knowledge and the Problem of the Criterion.” Philosophical Studies 153 (2011): 19-28.
+
+Discusses Sosa’s response to the Problem of the Criterion and the related, according to Sosa, problem of easy knowledge.
+
+
+Vogel, J. “Epistemic Bootstrapping.” Journal of Philosophy 105 (2008): 518-39.
+
+Argues that many forms of epistemic circularity are viciously circular.
+
+
+Weintraub, R. “What Was Hume’s Contribution to the Problem of Induction?” Philosophical Quarterly 45 (1995): 460-70.
+
+Argues that the problem of induction is simply a special case of the Problem of the Criterion.
+
+
+
+ 
+Author Information
+Kevin McCain
+Email: mccain@uab.edu
+University of Alabama at Birmingham
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

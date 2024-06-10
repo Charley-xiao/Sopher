@@ -1,0 +1,350 @@
+
+
+
+
+
+
+
+
+
+Quantum Mechanics, Interpretations of | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretations of Quantum Mechanics
+Quantum mechanics is a physical theory developed in the 1920s to account for the behavior of matter on the atomic scale. It has subsequently been developed into arguably the most empirically successful theory in the history of physics. However, it is hard to understand quantum mechanics as a description of the physical world, or to understand it as a physical explanation of the experimental outcomes we observe. Attempts to understand quantum mechanics as descriptive and explanatory, to modify it such that it can be so understood, or to argue that no such understanding is necessary, can all be taken as versions of the project of interpreting quantum mechanics.
+The problematic nature of quantum mechanics stems from the fact that the theory often represents the state of a system using a sum of several terms, where each term apparently represents a distinct physical state of the system. What’s more, these terms interact with each other, and this interaction is crucial to the theory’s predictions. If one takes this representation literally, it looks as if the system exists in several incompatible physical states at once. And yet when the physicist makes a measurement on the system, only one of these incompatible states is manifest in the result of the measurement. What makes this especially puzzling is that there is nothing in the physical nature of a measurement that could privilege one of the terms over the others.
+According to the Copenhagen interpretation of quantum mechanics, the solution to this puzzle is that the quantum state should not be taken as a description of the physical system. Rather, the role of the quantum state is to summarize what we can expect if we make measurements on the system. According to the many-worlds interpretation, the quantum state is to be taken as a description of the system, and the solution to the puzzle is that each term in that description produces a corresponding measurement outcome. That is, for any quantum measurement there are generally multiple measurement results occurring on distinct “branches” of reality. According to hidden variable theories, the quantum state is a partial description of the system, where the rest of the description is given by the values of one or more “hidden” variables. The solution to the puzzle in this case is that the hidden variables pick out one of the physical states described by the quantum state as the actual one. According to spontaneous collapse theories, the quantum state is a complete description of the system, but the dynamical laws of quantum mechanics are incomplete, and need to be supplemented with a “collapse” process that eliminates all but one of the terms in the state during the measurement process.
+These interpretations and others present us with very different pictures of the nature of the physical world (or in the Copenhagen case, no picture at all), and they have different strengths and weaknesses. The question of how to decide between them is an open one.
+Table of Contents
+
+The Development of Quantum Mechanics
+The Copenhagen Interpretation
+The Many-Worlds Interpretation
+Hidden Variable Theories
+Spontaneous Collapse Theories
+Other Interpretations
+Choosing an Interpretation
+References and Further Reading
+
+1. The Development of Quantum Mechanics
+Quantum mechanics was developed in the early twentieth century in response to several puzzles concerning the predictions of classical (pre-20th century) physics. Classical electrodynamics, while successful at describing a large number of phenomena, yields the absurd conclusion that the electromagnetic energy in a hollow cavity is infinite. It also predicts that the energy of electrons emitted from a metal via the photoelectric effect should be proportional to the intensity of the incident light, whereas in fact the energy of the electrons depends only on the frequency of the incident light. Taken together with the prevailing account of atoms as clouds of positive charge containing tiny negatively charged particles (electrons), classical mechanics entails that alpha particles fired at a thin gold foil should all pass straight through, whereas in fact a small proportion of them are reflected back towards the source.
+In response to the first puzzle, Max Planck suggested in 1900 that light can only be emitted or absorbed in integral units of hn, where n is the frequency of the light and h is a constant. This is the hypothesis that energy is quantized—that it is a discrete rather than continuous quantity—from which quantum mechanics takes its name. This hypothesis can be used to explain the finite quantity of electromagnetic energy in a hollow cavity. In 1905 Albert Einstein proposed that the quantization of energy can solve the second puzzle too; the minimum amount of energy that can be transferred to an electron from the incident light is hn, and hence the energy of the emitted electrons is proportional to the frequency of the light.
+Ernest Rutherford’s solution to the third puzzle in 1911 was to posit that the positive charge in the atom is concentrated in a small nucleus with enough mass to reflect an alpha particle that collides with it. According to Niels Bohr’s 1913 elaboration of this model, the electrons orbit this nucleus, but only certain energies for these orbital electrons are allowed. Again, energy is quantized. The model has the additional benefit of explaining the spectrum of light emitted from excited atoms; since only certain energies are allowed, only certain wavelengths of light are possible when electrons jump between these levels, and this explains why the spectrum of the light consists of discrete wavelengths rather than a continuum of possible wavelengths.
+But the quantization of energy raises as many questions as it answers. Among them: Why are only certain energies allowed? What prevents the electrons in an atom from losing energy continuously and spiraling in towards the nucleus, as classical physics predicts? In 1924 Louis de Broglie suggested that electrons are wave-like rather than particle-like, and that the reason only certain electron energies are allowed is that energy is a function of wavelength, and only certain wavelengths can fit without remainder in the electron orbit for a given energy. By 1926 Erwin Schrödinger had developed an equation governing the dynamical behavior of these matter waves, and quantum mechanics was born.
+This theory has been astonishingly successful. Within a year of Schrödinger’s formulation, Clinton Davisson and Lester Germer demonstrated that electrons exhibit interference effects just like light waves—that when electrons are bounced off the regularly-arranged atoms of a crystal, their waves reinforce each other in some directions and cancel out in others, leading to more electrons being detected in some directions than others. This success has continued. Quantum mechanics (in the form of quantum electrodynamics) correctly predicts the magnetic moment of the electron to an accuracy of about one part in a trillion, making it the most accurate theory in the history of science. And so far its predictive track record is perfect: no data contradicts it.
+But on a descriptive and explanatory level, the theory of quantum mechanics is less than satisfactory. Typically when a new theory is introduced, its proponents are clear about the physical ontology presupposed—the kind of objects governed by the theory. Superficially, quantum mechanics is no different, since it governs the evolution of waves through space. But there are at least two reasons why taking these waves as genuine physical entities is problematic.
+First, although in the case of electron interference the number of electrons arriving at a particular location can be explained in terms of the propagation of waves though the apparatus, each electron is detected as a particle with a precise location, not as a spread-out wave. As Max Born noticed in 1926, the intensity (squared amplitude) of the quantum wave at a location gives the probability that the particle is located there; this is the Born rule for assigning probabilities to measurement outcomes. The second reason to doubt the reality of quantum waves is that the quantum waves do not propagate through ordinary three-dimensional space, but though a space of 3n dimensions, where n is the number of particles in the system concerned. Hence it is not at all clear that the underlying ontology is genuinely of waves propagating through space. Indeed, the standard terminology is to call the quantum mechanical representation of the state of a system a wavefunction rather than a wave, perhaps indicating a lack of metaphysical commitment: the mathematical function that represents a system has the form of a wave, even if it does not actually represent a wave.
+So quantum mechanics is a phenomenally successful theory, but it is not at all clear what, if anything, it tells us about the underlying nature of the physical world. Quantum mechanics, perhaps uniquely among physical theories, stands in need of an interpretation to tell us what it means. Four kinds of interpretation are described in detail below (and some others more briefly). The first two—the Copenhagen interpretation and the many-worlds interpretation—take standard quantum mechanics as their starting point. The third and fourth—hidden variable theories and spontaneous collapse theories—start by modifying the theory of quantum mechanics, and hence are perhaps better described as proposals for replacing quantum mechanics with a closely related theory.
+2. The Copenhagen Interpretation
+The earliest consensus concerning the meaning of quantum mechanics formed around the work of Niels Bohr and Werner Heisenberg in Copenhagen during the 1920s, and hence became known as the Copenhagen interpretation. Bohr’s position is that our conception of the world is necessarily classical; we think of the world in terms of objects (for example, waves or particles) moving through three-dimensional space, and this is the only way we can think of it. Quantum mechanics doesn’t permit such a conceptualization, either in terms of waves or particles, and so the quantum world is in principle unknowable by us. Quantum mechanics shouldn’t be taken as a description of the quantum world, and neither should the evolution of the quantum state over time be taken as a causal explanation of the phenomena we observe. Rather, quantum mechanics is an extremely effective tool for predicting measurement results that takes the configuration of the measuring apparatus (described classically) as input, and produces probabilities for the possible measurement outcomes (described classically) as output.
+It is sometimes claimed that the Copenhagen interpretation is a product of the logical positivism that flourished in Europe during the same period. The logical positivists held that the meaningful content of a scientific theory is exhausted by its empirical predictions; any further speculation into the nature of the world that produces these measurement outcomes is quite literally meaningless. This certainly has some resonances with the Copenhagen interpretation, particularly as described by Heisenberg. But Bohr’s views are importantly different from Heisenberg’s, and are more Kantian than positivist. Bohr is happy to say that the micro-world exists, and that it can’t be conceived of in causal terms, both of which would be meaningless claims according to positivist scruples. However, Bohr thinks we can say little else about the micro-world. Bohr, like Kant, thinks that we can only conceive of things in certain ways, and that the world as it is in itself is not amenable to such conceptualization. If this is correct, it is inevitable that our fundamental physical theories are unable to describe the world as it is, and the fact that we can make no sense of quantum mechanics as a description of the world should not concern us.
+Unless one is convinced of Kant’s position concerning our conceptual access to the world, one may not find Bohr’s pronouncements concerning what we can conceive compelling. However, the motivation for adopting a Copenhagen-style interpretation can be made independent of any overarching philosophical position. Since the intensity of the wavefunction at a location gives the probability of the particle occupying that location, it is natural to regard the wavefunction as a reflection of our knowledge of the system rather than a description of the system itself. This view, held by Einstein, suggests that quantum mechanics is incomplete, since it gives us only an instrumental recipe for calculating the probabilities of outcomes, rather than a description of the underlying state of the system that gives rise to those probabilities. But it was later proved (as we shall see) that given certain plausible assumptions, it is impossible to construct such a description of the underlying state. Bohr did not know at the time that Einstein’s task was impossible, but its evident difficulty provides some motivation for regarding the quantum world as inscrutable.
+However, the Copenhagen interpretation has at least two major drawbacks. First, a good deal of the early evidence for quantum mechanics comes from its ability to explain the results of interference experiments involving particles like electrons. Bohr’s insistence that quantum mechanics is not descriptive takes away this explanation (although, of course, viewing the wavefunction as descriptive only of our knowledge does no better). Second, Bohr’s position requires a “cut” between the macroscopic world described by classical concepts and the microscopic world subsumed under (but not described by) quantum mechanics. Since macroscopic objects are made out of microscopic components, it looks like macroscopic objects must obey the laws of quantum mechanics too; there can be no such “cut”, either sharp or vague, delimiting the realm of applicability of quantum mechanics.
+3. The Many-Worlds Interpretation
+In 1957 Hugh Everett proposed a radically new way of interpreting the quantum state. His proposal was to take quantum mechanics as descriptive and universal; the quantum state is a genuine description of the physical system concerned, and macroscopic systems are just as well described in this way as microscopic ones. This immediately solves both the above problems; there is no “cut” between the micro and macro worlds, and the explanation of particle interference in terms of waves is retained.
+An immediate problem facing such a realist interpretation of the quantum state is the provenance of the outcomes of quantum measurements. Recall that in the case of electron interference, what is detected is not a spread-out wave, but a particle with a well-defined location, where the wavefunction intensity at a location gives the probability that the particle is located there.
+How does Everett account for these facts? What he suggests is that we model the measurement process itself quantum mechanically. It is by no means uncontroversial that measuring devices and human observers admit of a quantum mechanical description, but given the assumption that quantum mechanics applies to all material objects, such a description ought to be available at least in principle. So consider for simplicity the situation in which the wavefunction intensity for the electron at the end of the experiment is non-zero in only two regions of space, A and B. The detectors at these locations can be modeled using a wavefunction too, with the result that the electron wavefunction component at A triggers a corresponding change in the wavefunction of the A-detector, and similarly at B. In the same way, we can model the experimenter who observes the detectors using a wavefunction, with the result that the change in the wavefunction of the A-detector causes a change in the wavefunction of the observer corresponding to seeing that the A-detector has fired, and the change in the wavefunction of the B-detector causes a change in the wavefunction of the observer corresponding to seeing that the B-detector has fired. The observer’s final state, then, is modeled by two distinct wave structures superposed, much in the way two images are superposed in a double-exposure photograph.
+In sum, the wave structure of the electron-detector-observer system consists of two distinct branches, the A-outcome branch and the B-outcome branch. Since these two branches are relatively causally isolated from each other, we can describe them as two distinct worlds, in one of which the electron hits the detector at A and the observer sees the A-detector fire, and in the other of which the electron hits the detector at B and the observer sees the B-detector fire. This talk of worlds needs to be treated carefully, though; there is just one physical world, described by the quantum state, but because observers (along with all other physical objects) exhibit this branching structure, it is as if the world is constantly splitting into multiple copies. It is not clear whether Everett himself endorsed this talk of worlds, but this is the understanding of his work that has become canonical; call it the many-worlds interpretation.
+According to the many-worlds interpretation, then, every physically possible outcome of a measurement actually occurs in some branch of the quantum state, but as an inhabitant of a particular branch of the state, a particular observer only sees one outcome. This explains why, in the electron interference experiment, the outcome looks like a discrete particle even though the object that passes through the interference device is a wave; each point in the wave generates its own branch of reality when it hits the detectors, so from within each of the resulting branches it looks like the incoming object was a particle.
+The main advantage of the many-worlds interpretation is that it is a realist interpretation that takes the physics of standard quantum mechanics literally. It is often met with incredulity, since it entails that people (along with other objects) are constantly branching into innumerable copies, but this by itself is no argument against it. Still, the branching of people leads to philosophical difficulties concerning identity and probability, and these (particularly the latter) constitute genuine difficulties facing the approach.
+The problem of identity is a philosophically familiar one: if a person splits into two copies, then the copies can’t be identical to (that is, the same person as) the original person, or else they would be identical to (the same person as) each other. Various solutions have been developed in the literature. One might follow Derek Parfit and bite the bullet here: what fission cases like this show is that strict identity is not a useful concept for describing the relationship between people and their successors. Or one might follow David Lewis and rescue strict identity by stipulating that a person is a four-dimensional history rather than a three dimensional object. According to this picture, there are two people (two complete histories) present both before and after the fission event; they initially overlap but later diverge. Identity over time is preserved, since each of the pre-split people is identical with exactly one of the post-split people. Both of these positions have been proposed as potential solutions to the problem of personal identity in a many-worlds universe. A third solution that is sometimes mentioned is to stipulate that a person is the whole of the branching entity, so that the pre-split person is identical to both her successors, and (despite our initial intuition otherwise) the successors are identical to each other.
+So the problem of identity admits of a number of possible solutions, and the only question is how one should try to decide between them. Indeed, one might argue that there is no need to decide between them, since the choice is a pragmatic one about the most useful language to use to describe branching persons.
+The problem of probability, though, is potentially more serious. As noted above, quantum mechanics makes its predictions in the form of probabilities: the square of the wavefunction amplitude in a region tells us the probability of the particle being located there. The striking agreement of the observed distribution of outcomes with these probabilities is what underwrites our confidence in quantum mechanics. But according to the many-worlds interpretation, every outcome of a measurement actually occurs in some branch of reality, and the well-informed observer knows this. It is hard to see how to square this with the concept of probability; at first glance, it looks like every outcome has probability 1, both objectively and epistemically. In particular, if a measurement results in two branches, one with a large squared amplitude and one with a small squared amplitude, it is hard to see why we should regard the former as more probable than the latter. But unless we can do so, the empirical success of quantum mechanics evaporates.
+It is worth noting, however, that the foundations of probability are poorly understood. When we roll two dice, the chance of rolling 7 is higher than the chance of rolling 12. But there is no consensus concerning the meaning of chance claims, or concerning why the higher chance of 7 should constrain our expectations or behavior. So perhaps a quantum branching world is in no worse shape than a classical linear world when it comes to understanding probability. We may not understand how squared wavefunction amplitude could function as chance in guiding our expectations, but perhaps that is no barrier to postulating that it does so function.
+A more positive approach has been developed by David Deutsch and David Wallace, arguing that given some plausible constraints on rational behavior, rational individuals should behave as if squared wavefunction amplitudes are chances. If one combines this with a functionalist attitude towards chance—that whatever functions as chance in guiding behavior is chance—then this program promises to underwrite the contention that squared wave amplitudes are chances. However, the assumptions on which the Deutsch-Wallace argument is based can be challenged. In particular, they assume that it is irrational to care about branching per se: having two successors experiencing a given outcome is neither better nor worse than having one successor experiencing that outcome. But it is not clear that this is a matter of rationality any more than the question of whether having several happy children is better than having one happy child.
+A further worry about the many-words theory that has been largely put to rest concerns the ontological status of the worlds. It has been argued that the postulation of many worlds is ontologically profligate. However, the current consensus is that worlds are emergent entities just like tables and chairs, and talk of worlds is just a convenient way of talking about the features of the quantum state. On this view, the many-worlds interpretation involves no entities over and above those represented by the quantum state, and as such is ontologically parsimonious. There remains the residual worry that the number of branches depends sensitively on mathematical choices about how to represent the quantum state. Wallace, however, embraces this indeterminacy, arguing that even though the many-worlds universe is a branching one, there is no well-defined number of branches that it has. If tenable, this goes some way towards resolving the above concern about the rationality of caring about branching per se: if there is no number of branches, then it is irrational to care about it.
+4. Hidden Variable Theories
+The many-worlds interpretation would have us believe that we are mistaken when we think that a quantum measurement results in a unique outcome; in fact such a measurement results in multiple outcomes occurring on multiple branches of reality. But perhaps that is too much to swallow, or perhaps the problems concerning identity and probability mentioned above are insuperable. In that case, one is led to the conclusion that quantum mechanics is incomplete, since there is nothing in the quantum state that picks out one of the many possible measurement results as the single actual measurement result. As mentioned above, this was Einstein’s view. If this view is correct, then quantum mechanics stands in need of completion via the addition of extra variables describing the actual state of the world. These additional variables are commonly known as hidden variables.
+However, a theorem proved by John Bell in 1964 shows that, subject to certain plausible assumptions, no such hidden-variable completion of quantum mechanics is possible. One version of the proof concerns the properties of a pair of particles. Each particle has a property called spin: when the spin of the particle is measured in some direction, one either gets the result up or down. Suppose that the spin of each particle can be measured along one of three directions 120° apart. What quantum mechanics predicts is that if the spins of the particles are measured along the same direction, they always agree (both up or both down), but if they are measured along different directions they agree 25% of the time and disagree 75% of the time. According to the hidden variable approach, the particles have determinate spin values for each of the three measurement directions prior to measurement. The question is how to ascribe spin values to particles to reproduce the predictions of quantum mechanics. And what Bell proved is that there is no way to do this; the task is impossible.
+Many physicists concluded on the basis of Bell’s theorem that no hidden-variable completion of quantum mechanics is possible. However, this was not Bell’s conclusion. Bell concluded instead that one of the assumptions he relied on in his proof must be false. First, Bell assumed locality—that the result of a measurement performed on one particle cannot influence the properties of the other particle. This seems secure because the measurements on the two particles can be widely separated, so that a signal carrying such an influence would have to travel faster than light. Second, Bell assumed independence—that the properties of the particles are independent of which measurements will be performed on them. This assumption too seems secure, because the choice of measurement can be made using a randomizing device or the free will of the experimenter.
+Despite the apparent security of his assumptions, Bell knew when he proved his theorem that a hidden-variable completion of quantum mechanics had been explicitly constructed by David Bohm in 1952. Bohm assumed that in addition to the wave described by the quantum state, there is also a set of particles whose positions are given by the hidden variables. The wave pushes the particles around according to a new dynamical law formulated by Bohm, and the law is such that if the particle positions are initially statistically distributed according to the squared amplitude of the wave, then they are always distributed in this way. In an electron interference experiment, then, the existence of the wave explains the interference effect, the existence of the particles explains why each electron is observed at a precise location, and the new Bohmian law explains why the probability of observing an electron at a given location is given by the squared amplitude of the wave. As Bell often pointed out, to call Bohm’s theory a hidden variable theory is something of a misnomer, since it is the values of the hidden variables—the positions of the particles—that are directly observed on measurement. Nevertheless, the name has stuck.
+Bohm’s theory, then, provides a concrete example of a hidden variable theory of quantum mechanics. However, it is not a counterexample to Bell’s theorem, because it violates Bell’s locality assumption. The new law introduced by Bohm is explicitly non-local: the motion of each particle is determined in part by the positions of all the other particles at that instant. In the case of Bell’s spin experiment, a measurement on one particle instantaneously affects the motion of the other particle, even if the particles are widely separated. This is a prima facie violation of special relativity, since according to special relativity simultaneity is dependent on one’s choice of coordinates, making it impossible to define “instantaneous” in any objective way. However, this does not mean that Bohm’s theory is immediately refuted by special relativity, since one can instead take Bohm’s theory to show the need to add a universal standard of simultaneity to special relativity. Bell recognized this possibility. It is worth noting that even though Bohm’s theory requires instantaneous action at a distance, it also prevents these influences from being controlled so as to send a signal; there is no “Bell telephone”.
+Bohm chooses positions as the properties described by the hidden variables of his theory. His reason for this is that it is plausible that it is the positions of things that we directly observe, and hence completing quantum mechanics via positions suffices to ensure that measurements have unique outcomes. But it is possible to construct measurements in which the outcome is recorded in some property other than position. As a response to this possibility, one might suggest adding hidden variables describing every property of the particles simultaneously, rather than just their positions. However, a theorem proved by Kochen and Specker in 1967 shows that no such theory can reproduce the predictions of quantum mechanics. A second response is to stick with Bohm’s theory as it is, and argue that while such measurements may initially lack a unique outcome, they will rapidly acquire a unique outcome as the recording device becomes correlated with the positions of the surrounding objects in the environment.
+A final way to accommodate such measurements within a hidden variable theory is to make it a contingent matter which properties of a system are ascribed determinate values at a particular time. That is, rather than supplementing the wavefunction with variables describing a fixed property (the positions of things), one can let the wavefunction state itself determine which properties of the system are described by the hidden variables at that time. The idea is that the algorithm for ascribing hidden variables to a system is such that whenever a measurement is performed, the algorithm ascribes a determinate value to the property recording the outcome of the measurement. Such theories are known as modal theories. But while Bohm’s theory provides an explicit dynamical law describing the motion of the particles over time, modal theories generally do not provide a dynamical law governing their hidden variables, and this is regarded as a weakness of the approach.
+Modal theories, like Bohm’s theory, evade Bell’s theorem by violating Bell’s locality assumption. In the modal case, the rule for deciding which properties of the system are made determinate depends on the complete wavefunction state at a particular instant, and this allows a measurement on one particle to affect the properties ascribed to another particle, however distant. As mentioned above, one can solve this problem by supplementing special relativity with a preferred standard of simultaneity. But this is widely regarded as an ad hoc and unwarranted addition to an otherwise elegant and well-confirmed physical theory. Indeed, the same charge is often levelled at the hidden variables themselves; they are an ad hoc and unwarranted addition to quantum mechanics. If hidden variable theories turn out to be the only viable interpretations of quantum mechanics, though, the force of this charge is reduced considerably.
+Nevertheless, it may be possible to construct a hidden variable theory that does not violate locality. In order to evade Bell’s theorem, then, it will have to violate the independence assumption—the assumption that the properties of the particles are independent of which measurements will be performed on them. Since one can choose the measurements however one likes, it is initially hard to see how this assumption could be violated. But there are a couple of ways it might be done. First, one could simply accept that there are brute, uncaused correlations in the world. There is no causal link (in either direction) between my choice of which measurement to perform on a (currently distant) particle and its properties, but nevertheless there is a correlation between them. This approach requires giving up on the common cause principle—the principle that a correlation between two events indicates either that one causes the other or that they share a cause. However, there is little consensus concerning this principle anyway.
+A second approach is to postulate a common cause for the correlation—a past event that causally influences both the choice of measurement and the properties of the particle. But absent some massive unseen conspiracy on the part of the universe, one can frequently ensure that there is no common cause in the past by isolating the measuring device from external influences. However, the measuring device and the particle to be measured will certainly interact in the future, namely when the measurement occurs. It has been proposed that this future event can constitute the causal link explaining the correlation between the particle properties and the measurements to be performed on them. This requires that later events can cause earlier events—that causation can operate backwards in time as well as forwards in time. For this reason, the approach is known as the retrocausal approach.
+The retrocausal approach allows correlations between distant events to be explained without instantaneous action at a distance, since a combination of ordinary causal links and retrocausal links can amount to a causal chain that carries an influence between simultaneous distant events. No absolute standard of simultaneity is required by such explanations, and hence retrocausal hidden variable theories are more easily reconciled with special relativity than non-local hidden variable theories.
+Bohm’s theory operates with a two-element ontology—a wave steering a set of particles. Retrocausal theories vary in their ontological presuppositions. Some—retrocausal Bohmian theories—incorporate two waves steering a set of particles; one wave carries the “forward-causal” influences on the particles from the initial state of the system, and the other carries the “backward-causal” influences on the particles from the final state of the system. But it may be possible to make do with the particles alone, with the wavefunction representing our knowledge of the particle positions rather than the state of a real object. The idea is that the interaction between the causal influences on the particles from the past and from the future can explain all the quantum phenomena we observe, including interference. However, at present this is just a promising research program; no explicit dynamical laws for such a theory have been formulated.
+5. Spontaneous Collapse Theories
+Hidden variable theories attempt to complete quantum mechanics by positing extra ontology in addition to (or perhaps instead of) the wavefunction. Spontaneous collapse theories, on the other hand, (at least initially) take the wavefunction to be a complete representation of the state of a system, and posit instead that the dynamical law of standard quantum mechanics—the Schrödinger equation—is not exactly right. The Schrödinger equation is linear; this means that if initial state A leads to final state A’ and initial state B leads to final state B’, then initial state A + B leads to final state A’ + B’. For example, if a measuring device fed a spin-up particle leads to a spin-up reading, and a measuring device fed a spin-down particle leads to a spin-down reading, then a measuring device fed a particle whose state is a sum of spin-up and spin-down states will end up in a state which is a sum of reading spin-up and reading spin-down. This is the multiplicity of measurement outcomes embraced by the many-worlds interpretation.
+To avoid sums of distinct measurement outcomes, one needs to modify the basic dynamical equation of the quantum mechanics equation so that it is non-linear. The first proposal along these lines was made by Gian Carlo Ghirardi, Alberto Rimini, and Tullio Weber in 1986; it has become known as the GRW theory. The GRW theory adds an irreducibly probabilistic “collapse” term to the otherwise deterministic Schrödinger dynamics. In particular, for each particle in a system there is a small chance per unit time of the wavefunction undergoing a process in which it is instantly and discontinuously localized in the coordinates of that particle. The localization process multiplies the wave state by a narrow Gaussian (bell curve), so that if the wave was initially spread out in the coordinates of the particle in question, it ends up concentrated around a particular point. The point on which this collapse process is centered is random, with a probability distribution given by the square of the pre-collapse wave amplitude (averaged over the Gaussian collapse curve).
+The way this works is as follows. The collapse rate for a single particle is very low—about one collapse per hundred million years. So for individual particles (and systems consisting of small numbers of individual particles), we should expect that they obey the Schrödinger equation. And this is exactly what we observe; there are no known exceptions to the Schrödinger equation at the microscopic level. But macroscopic objects contain on the order of a trillion trillion particles, so we should expect about ten million collapses per second for such an object. Furthermore, in solid objects the positions of those particles are strongly correlated with each other, so a collapse in the coordinates of any particle in the object has the effect of localizing the wavefunction in the coordinates of every particle in the object. This means that if the wavefunction of a macroscopic object is spread over a number of distinct locations, it very quickly collapses to a state in which its wavefunction is highly localized around one location.
+In the case of electron interference, then, each electron passes through the apparatus in the form of a spread-out wave. The collapse process is vanishingly unlikely to affect this wave, which is important, as its spread-out nature is essential to the explanation of interference: wave components traveling distinct paths must be able to come together and either reinforce each other or cancel each other out. But when the electron is detected, its position is indicated by something we can directly observe, for example, by the location of a macroscopic pointer. To measure the location of the electron, then, the position of the pointer must become correlated with the position of the electron. Since the wave representing the electron is spread out, the wave representing the pointer will initially be spread out too. But within a fraction of a second, the spontaneous collapse process will localize the pointer (and the electron) to a well-defined position, producing the unique measurement outcome we observe.
+The spontaneous collapse approach is related to earlier proposals (for example, by John von Neumann) that the measurement process itself causes the collapse that reduces the multitude of pre-measurement wave branches to the single observed outcome. However, unlike previous proposals, it provides a physical mechanism for the collapse process in the form of a deviation from the standard Schrödinger dynamics. This mechanism is crucial; without it, as we have seen, there is no way for the measurement process to generate a unique outcome.
+Note that, unlike in Bohm’s theory, there are no particles at the fundamental level in the GRW theory. In the electron interference case, particle behavior emerges during measurement; the measured system exhibits only wave-like behavior prior to measurement. Strictly speaking, to say that a system contains n particles is just to say that its wave representation has 3n dimensions, and to single out one of those particles is really just to focus attention on the form of the wave in three of those dimensions.
+An immediate difficulty that faces the GRW theory is that the localization of the wave induced by collapse is not perfect. The collapse process multiplies the wave by a Gaussian, a function which is strongly peaked around its center but which is non-zero everywhere. No part of the pre-collapse wavefunction is driven to zero by this process; if the wavefunction represents a set of possible measurement results, the wave component corresponding to one result becomes large and the wave component corresponding to the others become small, but they do not disappear. Since one motivation for adopting a spontaneous collapse theory is the perceived failure of the many-worlds interpretation to recover probability claims, it cannot be argued that the small terms are intrinsically improbable. Instead, it looks like the GRW spontaneous collapse process fails to ensure that measurements have unique outcomes.
+A second difficulty with the GRW theory is that the wavefunction is not an object in a three-dimensional space, but an object occupying a high-dimensional space with three dimensions for each “particle” in the system concerned. David Albert has argued that this makes the three-dimensional world of experience illusory.
+A third difficulty with the GRW theory is that the collapse process acts instantaneously on spatially separated parts of the system; it instantly multiplies the wavefunction everywhere by a Gaussian. Like Bohm’s theory, the GRW theory violates Bells’ locality assumption, since a measurement performed on one particle can instantaneously affect the state of a distant particle (although in the case of the GRW theory talk of “particles” has to be cashed out in terms of the coordinates of the wavefunction). As discussed in relation to Bohm’s theory, this requires an objective conception of simultaneity that is absent from special relativity, and hence it is hard to see how to reconcile the GRW theory with relativity.
+One way of responding to these difficulties, advocated by Ghirardi, is to postulate a three-dimensional mass distribution in addition to and determined by the wavefunction, such that our experience is determined directly by the mass distribution rather than the wavefunction. This responds to the second difficulty, since the mass distribution that we directly experience is three-dimensional, and hence our experience of a three-dimensional world is veridical. It may also go some way towards resolving the first difficulty, since the mass density corresponding to non-actual measurement outcomes is likely to be negligible relative to the background mass density surrounding the actual measurement outcome (the mass density of air, for example). Ghirardi’s mass density is not intended to address the third difficulty; this requires modifying the collapse process itself, and several proposals for constructing a relativistic collapse process based on the GRW theory have been developed.
+An alternative approach to the difficulties facing the GRW theory is to adapt a suggestion made by John Bell that the center of each collapse event should be regarded as a “flash of determinacy” out of which everyday objects and everyday experience are built. Roderich Tumulka has developed this suggestion into a “flashy” spontaneous collapse theory, in which the wavefunction is regarded instrumentally as that which connects the distribution of flashes at one time with the probability distribution of flashes at a later time. On this proposal, the small wave terms corresponding to non-actual measurement outcomes can be understood in a straightforwardly probabilistic way: there is only a small chance that a flash will be associated with such a term, and so only a small chance that the non-actual measurement outcome will be realized. The flashes are located in three-dimensional space, so there is no worry that three-dimensionality is an illusion. And since the flashes, unlike the wavefunction, are located at space-time points, it is easier to envision a reconciliation between the flashy theory and special relativity.
+6. Other Interpretations
+There are several other interpretations of quantum mechanics available that don’t fit neatly into one of the categories discussed above. Here are some prominent ones.
+The consistent histories (or decoherent histories) interpretation developed by Robert Griffiths, Murray Gell-Mann and James Hartle, and defended by Roland Omnès, is mathematically something of a hybrid between collapse theories and hidden variable theories. Like spontaneous collapse theories, the consistent histories approach incorporates successive localizations of the wavefunction. But unlike spontaneous collapse theories, these localizations are not regarded as physical events, but just as a means of picking out a particular history of the system in question as actual, much as hidden variables pick out a particular history as actual. If the localizations all constrain the position of a particle, then the history picked out resembles a Bohmian trajectory. But the consistent histories approach also allows localizations to constrain properties other than position, resulting in a more general class of possible histories.
+However, not all such sets of histories can be ascribed consistent probabilities: notably, interference effects often prevent the assignment of probabilities obeying the standard axioms to histories. However, for systems that interact strongly with their environment, interference effects are rapidly suppressed; this phenomenon is called decoherence. Decoherent histories can be ascribed consistent probabilities—hence the two alternative names of this approach. It is assumed that only consistent sets of histories can describe the world, but other than this consistency requirement, there is no restriction on the kinds of histories that are allowed. Indeed, Griffiths maintains that there is no unique set of possible histories: there are many ways of constructing sets of possible histories, where one among each set is actual, even if the alternative actualities so produced describe the world in mutually incompatible ways. Absent a many worlds ontology, however, some have worried about how such a plurality of true descriptions of the world could be coherent. Gell-Mann and Hartle respond to such concerns by arguing that organisms evolve to exploit the relative predictability of one among the competing sets of histories.
+The transactional interpretation, initially developed by John Cramer, also incorporates elements of both collapse and hidden variable approaches. It starts from the observation that some versions of the dynamical equation of quantum mechanics admit wave-like solutions traveling backward in time as well as forward in time. Typically the former solutions are ignored, but the transactional interpretation retains them. Just as in retrocausal hidden variable theories, the backward-travelling waves can transmit information about the measurements to be performed on a system, and hence allow the transactional interpretation to evade the conclusion of Bell’s theorem.
+The transactional interpretation posits rules according to which the backward and forward waves generate “transactions” between preparation events and measurement events, and one of these transactions is taken to represent the actual history of the system in question, where probabilities are assigned to transactions via a version of the Born rule. The formation of a transaction is somewhat reminiscent of the spontaneous collapse of the wavefunction, but due to the retrocausal nature of the theory, one might conclude that the wavefunction never exists in a pre-collapse form, since the completed transaction exists as a timeless element in the history of the universe. Hence some have questioned the extent to which the story involving forwards and backwards waves constitutes a genuine explanation of transaction formation, raising questions about the tenability of the transactional interpretation as a description of the quantum world. Ruth Kastner responds to these challenges by developing a possibilist transactional interpretation, embedding the transactional interpretation in a dynamic picture of time in which multiple future possibilities evolve to a single present actuality.
+Relational interpretations, such as those developed by David Mermin and by Carlo Rovelli, take quantum mechanics to be about the relations between systems rather than the properties of the individual systems themselves. According to such an interpretation, there is no need to assign properties to individual particles to explain the correlations exhibited by Bell’s experiment, and hence one can evade Bells’ theorem without violating either locality or independence. Superficially, this approach resembles Everett’s, according to which systems have properties only relative to a given branch of the wavefunction. But whereas Everettians typically say that a relation such as an observer seeing a particular measurement result holds on the basis of the properties of the observer and of the measured system within a branch, Mermin denies that there are such relata; rather, the relation itself is fundamental. Hence this is not a many worlds interpretation, since world-relative properties provide the relata that relational interpretations deny. Without such relata, though, it is hard to understand relational quantum mechanics as a description of a single world either. However, citing analogies with spatiotemporal properties in relativistic theories, Rovelli insists that it is enough that quantum mechanics ascribe properties to a system relative to the state of a second system (for example, an observer).
+Informational interpretations, such as those developed by Jeffrey Bub and by Carlton Caves, Christopher Fuchs and Rüdiger Schack, interpret quantum mechanics as describing constraints on our degrees of belief. They develop rules of quantum credence by analogy with the rules of classical information theory, expressing the difference between quantum systems and classical systems in informational terms, for example in terms of an unavoidable loss of information associated with a quantum measurement. Some proponents of an informational interpretation take an explicitly instrumentalist stance: quantum mechanics is just about the beliefs of observers, treated as external to the quantum systems under consideration. Others take their informational interpretation to be a realist one, in the sense that it can in principle be applied to the whole universe, with “information” serving as a new physical primitive. However, the adequacy of the informational approach as realist can be challenged, for example, on the basis that it does not provide a dynamics for the evolution of the actual state of the world over time. Bub responds that an account of the information-theoretic properties of our measurement results may be the deepest explanation we can hope for.
+7. Choosing an Interpretation
+Setting aside interpretations such as Copenhagen that eschew describing the quantum world, the interpretations discussed above present us with a number of very different ontological pictures. The many-worlds interpretation tells us that the underlying nature of physical objects is wave-like and branching. Bohm’s theory adds particles to this wave, and some hidden variable theories attempt to do away with the wave as a physical entity. The GRW theory, like the many-worlds interpretation, takes waves as fundamental, but rejects the many-worlds picture of a branching universe. Other spontaneous collapse theories add a mass density distribution to the wave, or replace the wave with point-like flashes. The GRW theory is indeterministic, casting quantum mechanical probabilities as genuine objective chances appearing in the fundamental physical laws. Bohm’s theory is deterministic, since the physical laws involve no chances, making quantum probabilities merely epistemic. The many-worlds interpretation involves no objective chances in the laws, but nevertheless (if successful) casts quantum mechanical probabilities as objective chances grounded in the branching process.
+It seems, then, that we have a classic case of underdetermination: while the experimental data strongly confirm quantum mechanics, it is unclear whether those data confirm the metaphysical picture of many-worlds, Bohm, GRW or some other alternative. Since it has been doubted that underdetermination is ever actually manifested in the history of science, this is a striking example.
+Nevertheless, the nature and even the existence of this underdetermination can be contested. It is worth noting that spontaneous collapse theories differ in their empirical predictions from standard quantum mechanics; the collapse process destroys interference effects, and the larger the object the more quickly one expects these effects to be detectable. At present, the differences between spontaneous collapse theories and standard quantum mechanics are beyond the reach of feasible experiments, since small objects cannot be kept isolated for long enough, and large objects cannot be kept isolated at all. Even so, the empirical underdetermination between spontaneous collapse theories and the other interpretations is not a matter of principle, and may be resolved in favor of one side or the other at some point.
+The underdetermination between hidden variable theories and the many-worlds interpretation is of a different character. These two interpretations are empirically equivalent, and hence no experimental evidence could decide between them. It seems that here we have a case of underdetermination in principle. One could try to decide between them on the basis of non-empirical theoretical virtues like simplicity and elegance. On measures like this, the many-worlds interpretation would surely win, since hidden variable theories begin with the mathematical formalism of the many-worlds interpretation and add complicated and arguably ad hoc extra theoretical structure. But judging theories on the basis of extra-theoretical virtues is a controversial endeavor, particularly if we take the winner to be a guide to the metaphysical nature of the world.
+Alternatively, it is not unreasonable to think that either the many-worlds interpretation or hidden variable theories could prove to be untenable. As noted above, it is unclear whether the many-worlds interpretation can account for the truth of probability claims, and if it cannot, then it fails to make contact with the empirical evidence. On the other hand, it is unclear whether any hidden variable theory can be made consistent with special relativity (and generalized to cover quantum field theory), and if not, then the hidden variable approach is arguably inadequate.
+Some have argued that there is no underdetermination in the interpretation of quantum mechanics, since the many-worlds interpretation alone follows directly from a literal reading of the standard theory of quantum mechanics. It is true that both hidden variable theories and spontaneous collapse theories supplement or modify standard quantum mechanics, so perhaps only the many-worlds interpretation qualifies as an interpretation of standard quantum mechanics rather than a closely related theory. The many-worlds interpretation may be the only reasonable interpretation of quantum mechanics as it stands, and there may be good methodological reasons against modifying successful scientific theories. However, given the possibility that quantum mechanics according to the many-worlds interpretation is not in fact a successful scientific theory (because of the probability problem), it seems reasonable to consider modifications to the standard theory.
+Nevertheless, it is certainly true that there may be no underdetermination in quantum mechanics, since it is possible that only one of the interpretations described here will prove to be tenable. Indeed, it is possible that none of these interpretations will prove to be tenable, since all of them face unresolved difficulties. Hence the interpretation of quantum mechanics is still very much an open question.
+8. References and Further Reading
+
+Albert, David Z. Quantum mechanics and experience. Harvard University Press, 1992.
+
+Non-technical overview of the various interpretations of quantum mechanics and their problems.
+
+
+Bell, John Stewart. Speakable and unspeakable in quantum mechanics: Collected papers on quantum philosophy. Cambridge University Press, 2004.
+
+A mix of technical and non-technical papers, including the original 1964 proof of Bell’s theorem and discussions of various interpretations of quantum mechanics, especially hidden variable theories.
+
+
+Bohm, David. Quantum theory. Prentice-Hall, 1951.
+
+Classic quantum mechanics textbook, with early chapters covering the historical development of the theory.
+
+
+Bohm, David, and Basil J. Hiley. The undivided universe: An ontological interpretation of quantum theory. Routledge, 1993.
+
+A guide to Bohm’s theory and its implications by its originator. Technical in parts.
+
+
+Bub, Jeffrey. Bananaworld: Quantum mechanics for primates. Oxford University Press, 2016.
+
+Accessible introduction to the phenomena of entanglement, and an extended argument for an informational interpretation of quantum mechanics.
+
+
+Cushing, James T. Quantum mechanics: Historical contingency and the Copenhagen hegemony. University of Chicago Press, 1994.
+
+A comparison of the Copenhagen interpretation and Bohm’s theory, and a defense of the view that the former became canonical largely for social reasons.
+
+
+Greaves, Hilary. “Probability in the Everett interpretation.” Philosophy Compass 2.1 (2007): 109-128.
+
+Non-technical overview of the attempts to find a place for probability within Everett’s branching universe.
+
+
+Kastner, Ruth. The transactional interpretation of quantum mechanics: The reality of possibility. Cambridge University Press, 2013.
+
+Non-technical introduction to the transactional interpretation, and development of a “possibilist” version as a response to objections.
+
+
+Maudlin, Tim. Quantum non-locality and relativity. Blackwell, 1994.
+
+Non-technical guide to the problems of reconciling quantum mechanics with relativity.
+
+
+Mermin, N. David. “Quantum mysteries for anyone.” The Journal of Philosophy 78 (1981): 397-408.
+
+Non-technical exposition of Bell’s theorem and discussion of its implications.
+
+
+Ney, Alyssa, and David Z. Albert, eds. The wavefunction: Essays on the metaphysics of quantum mechanics. Oxford University Press, 2013.
+
+Essays on the ontological status of the wavefunction, including the issue of whether realism about the wavefunction makes the three-dimensional world of experience illusory.
+
+
+Omnès, Roland. Understanding quantum mechanics. Princeton University Press, 1999.
+
+Accessible (but in parts moderately technical) defense of the consistent histories approach.
+
+
+Price, Huw. Time’s arrow & Archimedes’ point: New directions for the physics of time. Oxford University Press, 1997.
+
+An extended, non-technical defense of the retrocausal hidden variable interpretation of quantum mechanics.
+
+
+Rovelli, Carlo. “Relational quantum mechanics.” International Journal of Theoretical Physics 35 (1996): 1637-1678.
+
+Exposition and defense of relational quantum mechanics. Moderately technical in parts.
+
+
+Saunders, Simon, Jonathan Barrett, Adrian Kent, and David Wallace, eds. Many Worlds?: Everett, Quantum Theory, & Reality. Oxford University Press, 2010.
+
+A collection of essays on the many-worlds interpretation, for and against, technical and non-technical. Includes an essay by Peter Byrne on the history of Everett’s interpretation.
+
+
+Wallace, David. The emergent multiverse: Quantum theory according to the Everett interpretation. Oxford University Press, 2012.
+
+An exposition and defense of the many-worlds interpretation, focusing especially on the issue of probability. Technical in parts.
+
+
+
+ 
+Author Information
+Peter J. Lewis
+Email: plewis@miami.edu
+University of Miami
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

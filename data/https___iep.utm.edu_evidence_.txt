@@ -1,0 +1,568 @@
+
+
+
+
+
+
+
+
+
+Evidence | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evidence
+The concept of evidence is crucial to epistemology and the philosophy of science. In epistemology, evidence is often taken to be relevant to justified belief, where the latter, in turn, is typically thought to be necessary for knowledge. Arguably, then, an understanding of evidence is vital for appreciating the two dominant objects of epistemological concern, namely, knowledge and justified belief. In the philosophy of science, evidence is taken to be what confirms or refutes scientific theories, and thereby constitutes our grounds for rationally deciding between competing pictures of the world. In view of this, an understanding of evidence would be indispensable for comprehending the proper functioning of the scientific enterprise.
+For these reasons and others, a philosophical appreciation of evidence becomes pressing.    Section 1 examines what might be called the nature of evidence. It considers the theoretical roles that evidence plays, with a view towards determining what sort of entity evidence can be—an experience, a proposition, an object, and so on. In doing so,    it also considers the extent to which evidence is implicated in justified belief (and by extension, knowledge, if knowledge requires justified belief). Then,    section 2 considers the evidential relationship, or the relation between two things by  virtue of which one counts as evidence for the other; and    it explores the nature of their relationship, that is, whether  the relationship is deductive, explanatory, or probabilistic. Finally, equipped with this theoretical background,    section 3 looks at some of the important problems and paradoxes that have occupied those working in the theory of evidence.
+Table of Contents
+
+The Nature of Evidence: What Is It and What Does It Do?
+
+Propositional Evidence in Explanatory, Probabilistic and Deductive Reasoning
+Can Experiences Be Evidence? The Regress Argument
+Evidence and Justified Belief: A Closer Look 
+
+
+Theories of the Evidential Relation
+
+Probabilistic Theories 
+Semi-Probabilistic Theories 
+Qualitative Theories
+
+Hypothetico-Deductivism
+Evidence as a Positive Instance
+Bootstrapping
+
+
+
+
+Some Problems of Evidence
+
+The Ravens Paradox
+
+Hempel’s “Solution”
+A Bayesian Solution
+An Error-Statistical Solution
+
+
+The Grue Paradox
+
+Goodman’s Solution
+Achinstein’s Solution
+
+
+Underdetermination of Theory by Evidence
+
+Underdetermination and Holism: the Duhem-Quine Problem
+A Bootstrapping Solution
+A Bayesian Solution
+
+
+
+
+References and Further Reading
+
+ 1. The Nature of Evidence: What Is It and What Does It Do?
+When we think about examples of evidence from everyday life,  we tend to think of evidence, in the first place, as consisting of an object or  set of objects. Consider evidence that might be found at a crime scene: a gun,  a bloody knife, a set of fingerprints, or hair, fiber or DNA samples. The same  might be said of fossil evidence, or evidence in medicine, such as when an X-ray  is evidence that a patient has a tumor, or koplic spots as evidence that a  patient has measles. Yet we also consider such things as testimony and scientific  studies to be evidence, examples difficult to classify as “objects” since  they apparently involve linguistic entities.  Possibilities proliferate when we turn to philosophical accounts of evidence, where we find more exotic views on what sort of thing  evidence can be. In philosophy, evidence has been taken to consist of such  things as experiences, propositions, observation-reports, mental states, states  of affairs, and even physiological events, such as the stimulation of one’s  sensory surfaces.
+Can all of these  count as evidence? Few would think so, and basic principles of parsimony seem  to militate against it. But given all of the possibilities with which philosophy  and everyday life present us, how would we go about making a decision? What  kind of consideration could determine the sorts of entities that can count as  evidence? A natural strategy to pursue would be to consider the role or function evidence plays in both philosophy and everyday life. That  is, perhaps considering what evidence does affords the best clue to what evidence is.
+a. Propositional Evidence in Explanatory, Probabilistic and  Deductive Reasoning
+One way to approach the matter is to consider the role of  evidence in certain kinds of reasoning in which we engage. Recently, such a strategy has led Timothy Williamson to  the conclusion that evidence must be propositional—that is, that it must consist in a proposition or set of propositions (Williamson  2000, pp. 194-200). Although Williamson declines to give any theoretical  account of propositions, minimally we may take propositions to be the bearers  of truth and falsity (what is true or false), the contents of assertions (what  is said or asserted) and the objects of propositional attitudes (e.g. what is  believed or known). More generally, propositions may be taken to be the  referents of that-clauses: for instance, I believe or know that the house is on fire; it is true or false that the Orioles won last night; I said or asserted that Jones is a thief; and so on.
+To begin with,  Williamson points out that evidence is often featured in explanatory reasoning, in the sense that we tend to infer to the  hypothesis that provides the best  explanation of the evidence. Whatever else evidence may be, then, at the  very least it is the kind of thing that hypotheses explain. But what hypotheses  explain, Williamson contends, are propositions;  we use hypotheses to explain why such-and-such is the case, and so what is explained—the evidence—is that such-and-such is the case. By  contrast, it makes no sense whatsoever to explain an object; we cannot  explain this knife, for example. What we might explain, however, is something  true about this knife, such as that  it is bloody. Here, the evidence would be that  the knife is bloody—again, a proposition, not an object. Nor, on  Williamson’s view, would it make sense to explain a sensory experience. The hypothesis that I have a cold does not  explain the tickle in my throat, but would explain why I have a tickle in my throat. Again, what is explained—the  evidence—is that I have a tickle in my  throat, not the experience itself. Accordingly, if we consider the role of  evidence in explanatory reasoning, it  seems that evidence is propositional.
+Additionally,  Williamson claims that we use evidence to engage in explicitly probabilistic reasoning, where such  reasoning may or may not be explanatory. For instance, we often compare the  probabilities of competing hypotheses H and H’ on a common body of evidence, E.  One way to do so would be to consider the ratio:
+P(H)P(E/H)
+P(H´)P(E/H´)
+(In general, the symbols P(X/Y) mean the probability of X given Y). Here, we would compare the  probability of the hypotheses, given the evidence, only by considering the  probability of the evidence, given  the hypotheses. It follows that evidence must be the sort of thing that can  have a probability. But again, Williamson claims that what has a probability is a proposition; for example, it can  only be probable or improbable that such-and-such  is the case. Even when we speak loosely of the probability of an event, what we mean, says Williamson, is  the probability that the event will  occur. And surely, such things as objects or experiences cannot be probable  or improbable, although it could be probable or improbable that I have an experience under certain conditions, or that an object has a certain property.  So again, granted that we engage in probabilistic reasoning with evidence, the  conclusion seems to be that evidence must be propositional.
+Finally, Williamson  points out that we often think of evidence as ruling out certain hypotheses. For instance, that I was in Cleveland  at the time of the murder rules out the hypothesis that I was the murderer in Columbus.  But evidence E rules out an hypothesis H only when the two are logically inconsistent; in particular, one must be able to deduce ~H from E.  And, of course, the premises in a logical deduction consist of propositions—the sort of thing that can  be true or false. Indeed, a valid deduction is one such that, if the premises  are true, the conclusion must also be  true.
+Yet, one may well  remain unconvinced by these arguments. For example, must the object of an explanation be a proposition, rather than,  say, an event? When Newton  offered an explanation for the action of the tides, one’s first thought is that  he was out to explain a physical occurrence taking place on the surface of the  earth, and not anything like the  content of an assertion or the referent of a that-clause. Indeed, we might  raise the same issue with Williamson’s claim about probabilities. There are  well-known interpretations of probability according to which events and  event-types have probabilities, and not propositions. For instance, on the  standard frequency interpretation, a probability is the limit to the relative  frequency of an event-type in a reference class; and on the propensity  interpretation, a probability is the disposition of a system—such as an  experimental arrangement— to yield a particular outcome, which is manifestly  not a proposition. In defense of Williamson, however, his strategy is to  consider the function of evidence in particular types of reasoning. And as he frequently points out, if one is to reason with one’s evidence, either  probabilistically, deductively, or explanatorily, the evidence must be the sort  of thing that one can grasp or understand, namely, a proposition. (It  makes little sense to grasp an event, although we can grasp that an event took place). So, while  there may be theories of probability or explanation whereby events are  implicated, when we turn to explanatory, probabilistic or deductive reasoning with the evidence, we are  arguably dealing only with what is propositional.
+Whether or  not we agree with Williamson, we shall see in the next section, where we  consider the important role evidence plays—namely,  as something that justifies belief—that we may have strong theoretical ground  for accepting, contrary to Williamson, that experiences can also count as evidence.
+b. Can Experiences Be Evidence? The Regress Argument
+It seems almost a truism that whether a person’s belief is  reasonable or unreasonable—justified or not—depends upon the evidence he  possesses. For instance, if I believe that my wife is having an affair, but I have  no evidence at all to think so, then such a belief seems patently unreasonable.  Given my lack of evidence, I am not justified in holding the belief, and rationality would demand that I relinquish it.  If, on the contrary, I have overwhelming evidence in support of my wife’s  infidelity, but persist in believing that she is being faithful, then such a  belief would be equally unreasonable. In this situation, the only belief I  would be justified in having, in the light  of my evidence, is that my wife is indeed having an affair. Arguably, then,  there is another important role that evidence plays: evidence is that which  justifies a person’s belief. We shall  examine the matter in more detail below (§1c).
+This being  granted, suppose we were to accept, in addition, that evidence consists only in  propositions, as was urged in §1a. If so, the natural conclusion would be that  what justifies a subject’s belief are other propositions he believes (his  evidence). More formally, we would say that, for any proposition p that a subject S believes at a time t,  if S is justified in believing p at  t, there must be at least one other proposition q that S believes at t, which counts as S’s evidence for p. But if this is so, it seems we should  also require that S’s belief in q itself be justified; for if S is groundlessly assuming q, how could it justify  his belief in p? Yet if S’s belief  that q must be justified, then by the  same reasoning S must possess evidence for q,  consisting in yet another proposition r that S is justified in believing.  And, of course, there shall have to be another proposition serving as S’s  evidence for r. The question is:  where, if at all, does this chain of justifications terminate? We refer to this  as the epistemic regress problem. As  we shall soon see, the regress problem may support the conclusion that experiences can count as evidence as  well (see especially Audi 2003).
+Now, granted  that we cannot possibly entertain an infinite number of justifying  propositions, one possible way out of the regress would be simply to reject an  assumption used to generate it,  namely, that only propositions a  person believes can count as his evidence. If we reject this assumption,  perhaps we can hold, on the one hand, that the regress does terminate in what S is justified in believing, but on the  other, the evidence for these beliefs does not consist in other propositions he believes. And aren’t we perfectly familiar  with such cases? Consider beliefs we have about our own perceptual experiences.  I believe that I have a pain in my lower back. What justifies this belief is  surely not some other belief I have, but simply my experience of pain in my lower back. Here, the belief is  grounded directly in the perceptual experience itself, and not in any other  proposition I believe. Or consider my belief that there is something yellow in  my visual field. Again, what justifies this belief is not any other proposition  I believe, but simply my experience of something yellow in my visual field.  Moreover, the point arguably need not be  limited to beliefs about our perceptual experiences (Audi, 2003; see also Pryor  2000). For example, suppose I hear thunder and a patter at my window, and come  to believe that it is raining outside. That it is raining outside is not a  belief about my perceptual experiences, yet seems to be grounded in them.
+The idea, then,  would be that the regress of justifications terminates in a body of beliefs  grounded directly in the evidence of the  senses, and not by any other beliefs that would themselves need to be  justified. This maneuver would terminate the regress, precisely because—unlike  a belief—it makes no sense to demand evidence for an experience.  Indeed, how can I give evidence for a pain in my lower back? At the same time,  experiences do seem to justify  certain beliefs, ostensibly making this an ideal solution to the regress  problem. It is worth noting that, since this view postulates a body of beliefs  that ultimately support all other beliefs without resting on any beliefs  themselves, it is an instance of a more general position on the structure of  justification known as foundationalism.
+While this line  of thought may give some reason for accepting that experiences count as  evidence, it still does not tell us anything about the particular relationship between experience and  belief by virtue of which the former can constitute evidence for the latter.  Indeed, if Williamson’s arguments from §1a are correct, we know that experience  can neither stand in an explanatory, nor probabilistic or deductive relationship with a  proposition believed. By virtue of what sort of relationship, then, can a  subject’s experience count as evidence for what he believes? Donald Davidson  (1990) has argued that experience can only stand in a causal relationship to belief. For example, my hearing thunder and  a patter at the window merely causes me  to believe that it is raining outside. For Davidson and others, this is the wrong sort of relationship to account  for justification; what we need for the latter is not the sort of relationship in which billiard balls can stand, but the sort of relationship that propositions can stand—again, like an  explanatory, probabilistic or deductive relationship. Accordingly, like  Williamson, Davidson claims that only propositions a person believes can count  as evidence for his other beliefs, and opts for a coherence theory of the structure of justification (and knowledge),  rather than a foundationist theory.
+Engaging further  with Davidson’s claim would take us too far afield. For our purposes, it  suffices to say that many philosophers still do think that experience can count  as evidence. Indeed, some, such as John McDowell (1996), think that experiences  have conceptual and even propositional content—we can see, hear, feel that such-and-such is the case—and thus  that experiences can stand in rational relationships  to beliefs, and not just causal ones. Part of the urgency for McDowell is that,  in his view, the very survival of empiricism demands that experiences count as evidence; indeed, Davidson, who denies  this, is perfectly happy to retire empiricism.
+However,  even those who deny that experiences count as evidence need not think that a  person’s experiences are irrelevant to  the evidence he possesses. For instance, Williamson entertains the possibility  that there are some propositions that would not count as a person’s evidence  unless he was undergoing some kind of experience. According to Williamson, in  such a case, experience may be said to provide evidence, without constituting it.  Whether this will be seen as sufficient to save empiricism depends, of course,  on how one understands that doctrine.
+c. Evidence And Justified Belief: A Closer Look
+Recall that in order to start the regress in §1b, we assumed  that evidence is that which justifies a person’s belief. This view can be  generalized to cover all so-called doxastic or belief-involving attitudes—belief, disbelief, suspension of belief, and  even partial belief. The idea would simply be that S’s doxastic attitude D  toward a proposition p at a time t is epistemically justified at t, if and only  if having D toward p fits the evidence S has at t. This view, known as evidentialism, makes justification turn entirely on the evidence a person  possesses (Conee and Feldman, 2004). But is evidentialism inevitable? Is having  evidence sufficient for justified belief? Is it even necessary?
+Consider, first,  whether possessing evidence is sufficient for justified belief. Some think that  justified belief is essentially a deontological notion, involving the fulfillment of one’s duties or responsibilities as a  believer. Hence, while having a belief that fits one’s evidence might be implicated in responsible belief, it  seems that responsibility also requires making proper use of one’s evidence. For example, suppose I am justified in  believing p, and that I am justified in believing that if p then q. Yet, I do not believe q on the basis of this evidence, but  believe it simply because I like the way it sounds (Korblith, 1980). If I  believe q on these grounds, I am arguably not justified in my belief, even  though it “fits” my other beliefs; believing a proposition because of the way  it sounds seems like a patently irresponsible and therefore unjustified belief,  no matter what unused evidence for it I may possess. In defense of  evidentialism here, Conee and Feldman appeal to the auxiliary notion of a well-founded belief: a belief that not  only fits the evidence a person possesses, but is properly based upon it. Thus, in the above example, my belief in q is  not well-founded, since I do not properly use my evidence, even though the  belief is justified by the evidence I possess. This maneuver may do little,  however, to placate those who take justified belief to be inextricably related to responsibility.
+Perhaps a more  pressing challenge to the evidentialist is whether evidence is even necessary for justified belief. Consider  again believing a proposition because of the way it sounds. Intuitively, such a  process or method of adopting beliefs is horribly unreliable; that is, one is not at all likely to arrive at true  beliefs in this way. By contrast, consider the inference from “p” and “if p then q” to the conclusion “q“. If the former two are true, then believing q on their bases is guaranteed to  result in a true belief; indeed, sound deductive reasoning is the very paradigm of a reliable or truth-conducive  process of inference. Accordingly, perhaps the central notion involved in justified belief is not the responsibility  or possession of evidence per se, but  how truth-conducive or reliable one’s belief-forming process or  method is. If so, this opens up the possibility that there are instances of  justified belief in which evidence is not implicated at all; for, while making proper use of one’s evidence is surely one way to form beliefs reliably, there  is no reason to suspect that it is the only way to do so. Indeed, consider again beliefs formed on the basis of  perceptual experience. Perhaps the reason why such beliefs are justified is not because experience is somehow evidence for such a belief; nor even  because experience provides evidence  for other propositions, as in Williamson’s view; but simply because forming  beliefs via experience is generally a reliable or truth-conducive process of  belief-formation. This view, which relates justified belief to the reliability  of the process by which it is formed, is known as reliabilism (see especially Goldman, 1976, 1986).
+It is far from  clear, though, how far reliabilism can decouple justified belief from evidence  (see Bonjour 1980, but also Brandom 2000). As the view has thus far been  described, a belief can be justified even if one has no evidence whatsoever for believing that the process by which the  belief is formed is reliable; all  that matters is that the belief-forming process be reliable, not that the subject has any reason to think that it  is. Indeed, reliabilism is typically thought to involve the thesis of epistemic externalism, or the thesis  that one need have no access to or awareness of what makes one’s beliefs  justified. With this in mind, consider the well-known case of the industrial  chicken-sexer, who can reliably discriminate between male and female chickens  without having any idea of how he does so. Suppose we take someone with that  ability, but withhold from him whether he is successfully discriminating  chickens by sex; that is, he not only has no idea how he reliably discriminates between chickens, but does not even  know whether he does so. Would such a  person really be justified in  believing that a particular chicken is female, even though he hasn’t the  slightest clue that he possesses the ability of the chicken sexer? What if we  told him that he gets it wrong the  majority of the time? Here, he would have evidence against his own reliability. Would he be justified then? Even reliabilists such as Alvin  Goldman (1986) take heed here, requiring among other things that a believer  must not possess evidence against the  reliability of the belief-forming process. This, together with the notion that  proper use of one’s evidence counts as a reliable process, ensures that the  concept of evidence will not be utterly irrelevant  to justified belief, even if we were to reject the strong thesis of evidentialism in favor of something like  reliabilism.
+Up to this point, we have merely been considering what might  be called the nature of evidence:  what it is and what it does. And although it has been suggested that evidence  can stand in an explanatory, probabilistic, or deductive relationship with a  proposition it supports, very little has been said about these relationships.  That is, we have yet to consider any theories on the evidential relation, or the relation between two things by virtue  of which one counts as evidence for  or against the other. It is to this topic that we now turn.
+In order to  avoid biasing the question of what sort of entity evidence can be, where  possible, I will simply refer to the evidence as “E” (although, if Williamson  is correct, E will have to be a proposition in each of the theories we shall  consider).
+2. Theories of the Evidential Relation
+A theory of the evidential-relation provides conditions  necessary and sufficient for the truth of claims of the form
+E is evidence for H.
+Such a theory tells us, in philosophically enriched terms,  what it is for something, E, to constitute evidence for a proposition or  hypothesis, H. There are surely many ways to classify such theories, but one  intuitive way to do so would be to divide them into probabilistic,  semi-probabilistic, and non-probabilistic      or qualitative theories; the first two types of  theory feature probabilities at least somewhere in their accounts of evidence,  while the latter type avoids reference to probabilities altogether. We will  look at probabilistic and semi-probabilistic accounts first.
+a. Probabilistic Theories of the Evidential Relation
+The most widely accepted probabilistic account of evidence  is the so-called increase-in-probability or positive- relevance account. The  idea is simply that E is evidence for H if and only if E makes H more probable.  In symbols, E is evidence for H if and only if
+P(H/E) > P(H)
+where this is to be interpreted as saying that the  probability of H given E is greater  than the probability of H alone. Along similar lines, we can say that E is  evidence against H if and only if
+P(H/E) < P(H).
+Finally, we may say that E is neither evidence for, nor  against, H iff
+P(H/E) = P(H).
+Of course, these  definitions are purely formal, and will take on deeper philosophical  significance if we interpret the concept of probability employed. Most prominently,  subjective Bayesians interpret a probability as a rational subject’s degree of  belief in a proposition at a given time t, where the only condition necessary  for a subject to count as rational is that his degrees of belief conform to  the axioms of the probability calculus. So, for example, where H and H´ are  logically incompatible hypotheses, the degree to which a rational subject  believes [H or H´] ought to be equal to the degree to which he believes H plus the degree to which he believes H´,  since [P(H v H´) = P(H) + P(H´)] is an axiom of the probability calculus. With  this interpretation of probability in mind, the positive-relevance definition  of evidence says that E is evidence for H, for a rational subject S at a time  t, if and only if E would make S believe H more,  were he to learn that E is the case. Naturally, then, evidence against H would make a rational subject  believe H less, and evidence that is  neutral towards H would leave a rational subject’s degree of belief in H  unchanged.
+As intuitive as  these definitions may seem, some think that these simple probabilistic  definitions are subject to serious counterexamples, and either try to  supplement the probabilistic definition with other concepts, such as  explanation, or reject the quantitative approach altogether. Consider a simple  counterexample to positive-relevance offered by Achinstein (1983, 2001),  devised to show that a mere increase in probability is not sufficient for something to count as evidence. Let E = On Wednesday,  Steve was doing training laps in the water; let H = On Wednesday, Steve drowned;  and let our background information include that Steve is a member of the  Olympic swimming team who was in fine shape Wednesday morning. Achinstein  claims that E increases the probability of H over the probability of H alone;  that is, swimming makes drowning more probable than when one is not swimming at  all. According to the positive relevance definition, then, E ought to be  evidence that H. But this is bizarre, for the mere fact that Steve—an  Olympian—is doing training laps on Wednesday seems to provide no reason at all to believe that he drowned. Intuitively, the idea behind the  counterexample is that positive-relevance is too weak to capture a  notion of evidence; E can increase the probability of H without being evidence  for it at all. (For responses to this and other counterexamples of  Achinstein’s, see Kronz (1992), Maher (1996) and Roush (2005)).
+Clark Glymour  (1980) has offered a very widely discussed objection to positive-relevance,  specifically under its subjective Bayesian interpretation, now known as the  “problem of old evidence.” According to Bayesians, the first term in the  positive-relevance definition, P(H/E), is to be determined by way of a theorem  of the probability calculus known as Bayes’ theorem, which in its simplest  formulation is:
+P(H/E) = P(H) x  P(E/H) / P(E)
+With this in mind, Glymour points out that quite often  scientists advance an hypothesis to explain “old evidence,” or some phenomenon  that is already known to obtain. For example, one known phenomenon that  Einstein’s general theory of relativity was advanced to explain was an anomaly  in Mercury’s orbit, known as the anomalous advance of the perihelion of  Mercury. In these cases, P(E) in the above theorem would equal 1; that is,  since the phenomenon is already known to obtain, a rational subject would  believe that E obtains with certainty. Assuming now that the theory (being an  adequate explanation) entails the phenomenon, then P(E/H) above would be 1 as  well. But note that if we plug these figures into the theorem above, the  theorem simply reduces to: P(H/E) = P(H). According to our relevance definitions,  then, old evidence could neither be evidence for, nor against, an hypothesis.  But clearly old evidence can be evidence for, or against, an hypothesis, as was certainly the case with the  anomaly in Mercury’s orbit: it was evidence for Einstein’s theory and evidence against Newton’s. Considerations such as  these lead Glymour to eschew probabilities altogether in his own influential  theory of evidence (see §2c below). (For a subjective Bayesian response to the  problem of old evidence, see especially Howson and Urbach (1996)).
+One might think  that we can easily devise a probabilistic definition of evidence in order to  circumvent these problems. Suppose, for example, we say that E is evidence for  H, if and only if the probability of H given E is high (Carnap, 1950). Call this the high-probability definition of evidence. In symbols, E is evidence  for H if and only if
+P(H/E) > k
+where k is some threshold of high probability. This would  avoid Achinstein’s swimming counterexample, for while swimming does increase  the probability of drowning, it does not render it high. Moreover, since it  avoids making increase-and-decrease-in-probability a criterion of evidence, it  would not face Glymour’s problem of old evidence. But suppose E = Jones has  regularly taken his wife’s birth-control pills over the last year, and H = Jones  has not become pregnant. Clearly, P(H/E) is as high as can be, but the fact  that Jones has taken his wife’s birth-control pills is surely not evidence that he has not become  pregnant. The problem, of course, is one of the evidence being relevant to the hypothesis, a problem  that will surface again with other accounts of evidence, as we shall see below  (§§2ci, 3c).
+b. Semi-Probabilistic Theories of Evidence
+While an elegant probabilistic definition of evidence may be  desirable, these objections and others have suggested to some that such an  account might be unattainable. However, not all philosophers who have been  skeptical of a purely probabilistic approach have abandoned probabilities  altogether.
+Achinstein (1983,  2001), for example, accepts the high probability definition as a necessary but  not sufficient component to an account of evidence. In order to secure  relevance between the evidence and the hypothesis, Achinstein adds to the  high-probability definition a requirement that there also be a high probability of an explanatory connection between E and H (given that E and H are  true), where there is an explanatory connection between E and H if H correctly  explains E, E correctly explains H, or some proposition correctly explains both  of them. (Here, probabilities are not subjective degrees of belief, but are  objective and have nothing to do with what any subject knows or believes).  Obviously, this account avoids the birth control counterexample, precisely  because there is no probability of an explanatory connection between Jones’  taking birth control and his failure to become pregnant; and it continues to  avoid the swimming and the old evidence  problems, for the same reason that the high probability account did on its own.  Also, the account seems to yield a correct verdict in some cases. Suppose, for  instance, that Jones’ wife is taking birth control pills and fails to become  pregnant, but not because of her  contraception, but because she is no longer fertile. On Achinstein’s view we  can still say, as it seems we should, that her taking birth control pills  provides evidence that she will not become pregnant, even though the pills are  not the real explanation, since his view  only requires there to be a high-probability of an explanatory connection, as there seems to be in this case.
+One might think,  though, that Achinstein has simply traded one somewhat manageable problem for  two more difficult ones. For he is cashing out the evidential relation in terms of explanation and objective probability, two notions that are perhaps more in need of philosophical treatment  than the evidential relation.
+It should not be  thought that one must employ either the positive-relevance or high-probability  accounts in giving a theory of evidence. Deborah Mayo’s error-statistical  account (1996) is an influential semi-probabilistic approach to evidence, that  appeals to neither account. Mayo’ approach, like Achinstein’s and unlike  positive relevance, is rather strong; her leading thought takes off from the  Popperian intuition that “any support capable of carrying weight can only rest  upon ingenious tests, undertaken with the aim of refuting our hypothesis.” Thus  she proposes that E is evidence for H if and only if H passes what she calls a  “severe test” with E, where H passes severe test T with E if and only if the  following two conditions are satisfied:
+
+E “agrees with” or “fits” H (which she  leaves rather open-ended, provided that P(E/H) is not low)
+There is a high probability that T would  have produced a less fitting result than E, if H were false.
+
+Consider a simple  example. Suppose we give a patient a test T to test the hypothesis (H) that he  has a disease D, and suppose (E) the test comes out positive. Suppose further  that when a patient has D, T yields a positive result 95% of the time, and when  the patient does not have D, T yields a negative result 99% of the time.  Clearly, conditions (i) and (ii) are satisfied: E not only “fits” H, but T very  probably would have yielded a less fitting (i.e. negative) result if H were  false. Accordingly, since H passes a severe test T with E, E is quite strong  error-statistical evidence that the patient has disease D. Intuitively, T is a  very good test to use if we want to rule  out that H is the case, and so a result of T that instead passes H is impressive evidence in its  favor.
+On the other  hand, if we were to suppose that T yields false positives 95% of the time, the  epistemic status of E would look quite different. While condition (i) is still  satisfied, condition (ii) would not be: since the test almost as frequently  produces false positives, there is a very low probability that T would have produced a less fitting result if the patient  did not have D. Accordingly, T would not count as a severe  test of our hypothesis H, and so E would fail to constitute error-statistical  evidence for H.
+Needless to say,  the error-statistical approach has been adapted to cover much more complicated  testing situations, and interested readers are invited to consult Mayo (1996).  Another severe-testing account of evidence can be found in Giere (1983).
+c. Qualitative Theories of the Evidential Relation
+Not every approach to evidence has employed  probabilities. In this section, we shall look at three of the better-known qualitative theories of evidence. In one  way or another, these theories appeal only to deductive relationships between evidence and hypothesis.
+i. Hypothetico-Deductivism
+Perhaps the best-known non-quantitative approach to  evidence would be hypothetico-deductivism, which is popularly thought to  constitute the scientific method (see  Braithwate in Achinstein (ed.), 1983 or Hempel, 1966). According to the  simplest version of this approach, one invents an hypothesis and draws out its  observational consequences. One then checks to see whether these consequences  turn out to be true, and if so, one is said to have obtained evidence in favor  of one’s hypothesis. If the consequence turns out to be false, then one has  refuted one’s hypothesis. On this approach, then, evidence for an hypothesis is  a true observational consequence of that hypothesis, while evidence against an  hypothesis is a false observational consequence.
+We consider two well-known objections to hypothetico-deductivism  here and another one in §3c below. The first objection is the so-called  irrelevant-conjunction objection. If an hypothesis H logically entails E, then  so does the hypothesis H & H´, where H´ can be any hypothesis whatever. If  E turns out to be true, then, according to this approach, it is evidence for  both H and H´, which is unacceptable.  The irrelevant conjunction objection shows, as we shall see again in §3c, that  hypothetico-deductivism offers a much too indiscriminate an account of the evidential  relationship. The second well-known objection to hypothetico-deductivism is the  competing- hypothesis objection (see e.g. Mill, 1959). Suppose H entails a body  of evidence E1…En, and suppose the evidence comes out  true. Still, H is not the only hypothesis from which we can derive E1…En;  in fact, there may be indefinitely many such hypotheses, even perhaps some  that—as Mill puts it—”our minds are unfitted to conceive.” According to  hypothetico-deductivism, then, E1…En would support those  hypotheses equally well, and the evidence would never be sufficient to accept  one hypothesis among the others. One common reply is that we ought to choose  the simplest among the competing hypotheses. But first, this simply shifts the  problem to defining simplicity, which has proved to be a difficult task; and  second, there seems to be no reason to believe that the simpler theory is more  likely to be true. These problems and  others have led some philosophers to seek alternatives to  hypothetico-deductivism, which we will now examine.
+ii. Evidence as a Positive-Instance
+One influential alternative to hypothetico-deductivism  is offered by      Carl Hempel (1965). On this approach, an observation-sentence E  is evidence for a universal hypothesis H, just when E describes a positive instance of H—or as Hempel puts  it, just when E says of the items mentioned within it what H says of all items. Intuitively, in such a case E  would “instantiate” H, thus would be evidence for it. While this is hardly  groundbreaking, what is novel about Hempel’s approach is that he marshaled the  resources of basic predicate logic to give his account of a positive instance,  thereby construing the evidential relation, like deduction, as being a syntactical relation obtaining between  sentences. That is, on this approach E is evidence for H not by virtue of the specific sorts of objects E and H describe,  but by virtue of the formal features  of the manner in which they describe them.
+For instance, suppose we are psychological researchers entertaining the “psychological hypothesis”, H, that everyone loves someone. The logical form of this hypothesis is ∀x ∃y Lxy. This simply says that, for anything  x, there is some y such that x stands in relation L to y, which is a logical  form shared with great many hypotheses (e.g. that everyone hates someone). Suppose further that we have observed in our  psychological practice that person, a,  loves himself, and that person b loves a. Again, on a purely formal level,  our observation-sentence E would be “Laa & Lba“. This says that a stands in relation L to itself, and b stands in relation L to a (again, there are great many  observation-sentences that would share this form). Now, to determine whether E  describes an instance of H (and whether it is evidence for it), we introduce  the notion of the development of H  with respect to the individuals mentioned in E. Intuitively, the development of  the hypothesis is simply what the hypothesis would assert if there existed only  those individuals in E. Thus, purely formally, the development of H for the  individuals in E is:
+(Laa v Lab) & (Lbb v Lba)
+With this in hand, Hempel claims that a statement is  evidence for an hypothesis when it entails the hypothesis’ development. Now,  since [Laa & Lba] does entail the above development, it follows that E is evidence for our hypothesis  H; that is, the observation-report that person a loves himself and b loves a is evidence for the hypothesis that  everyone loves someone. Since it is clear that the observation-report says of a and b what the hypothesis says of all individuals, Hempel has captured  the notion of a positive instance using basic predicate logic. Moreover, since  the criterion involves only the  logical form of the evidence-statement and the hypothesis, any statements with those forms stands in the exact same evidential  relation.
+As  ingenious as this may be, one obvious shortcoming of Hempel’s approach is that  an observation sentence E can be evidence for an hypothesis H, only if E and H  are formulated in the same vocabulary (in this case, both must employ the  predicate “L”). Thus this approach cannot be used as a general theory of scientific evidence, since scientific  hypotheses often employ theoretical predicates referring to unobservable  entities and processes, while observation-sentences employ a strictly  observational vocabulary. In the next section, we shall see that Clark  Glymour—who, if you recall, raised “the problem of old evidence” against the  Bayesians—developed his bootstrapping approach to evidence in part to remedy  this shortcoming, while still adhering to Hempel’s basic idea that evidence is  a positive instance of an hypothesis.
+iii. Bootstrapping
+The basic idea of Glymour’s bootstrapping theory  (1975, 1980) is quite simple: to test an hypothesis in a theory consisting of  several hypotheses, all of which contain theoretical terms, we can use those  other hypotheses in the theory, together with observational evidence, to derive  a positive instance of the hypothesis we are testing and obtain evidence for  it. By repeating this process for each hypothesis in the theory, we can obtain  evidence for (or against) the theory as a whole, even though the theory employs  a theoretical vocabulary, while the evidence is couched in an observational  one. In such a case, we are “pulling ourselves up by our own bootstraps”, in  the sense that we are using certain bits of a theory to obtain evidence for  other bits of the same theory, in the service of obtaining evidence for (or  against) that theory as a whole.
+To fill-in  this abstract characterization, consider one of Glymour’s historical examples. Newton’s  law of universal gravitation asserts that all bodies exert an inverse square  attractive force upon one another. As evidence for this, he used Kepler’s laws  of planetary motion. Yet none of Kepler’s laws contains the theoretical term  “force”; they merely describe observable regularities in the planets’ orbits  without offering any theoretical explanation for them. How, then, do we link  the observable evidence—Kepler’s laws—to an hypothesis that contains the term  “force”, so that the former can become evidentially  relevant to the latter? The evidential link is supplied, of course, by other parts of Newton’s  theory, namely his second law of motion relating the force on a body with the  measurable quantities of mass and acceleration. Newton  used the second law and the evidence of Kepler’s laws to derive instances of the law of universal  gravitation for planets and their satellites. He eventually generalized this law  to all bodies in the universe.  Despite being the briefest sketch of Newton’s  argument, this illustrates Glymour’s point: here Newton  is using observational evidence and other hypotheses in a general theory under  test to derive instances of—and thus evidence for—a particular hypothesis in  that theory, even though the evidence  and the hypothesis employ different vocabularies. This is precisely what  Hempel’s instantial approach cannot achieve.
+But the  worry haunting Glymour’s approach, as might be expected, has surrounded the  problem of circularity. A great deal of literature has been devoted by Glymour  and others to deal with this and other issues (see Earman 1983).
+This completes our survey of theories on the evidential  relation. We have not covered all such theories, of course, but have aimed  primarily at variety. In particular,  we have examined theories that feature probabilistic, deductive and explanatory  relationships between evidence and hypothesis. It is worth mentioning again that  if Williamson is right, these theories would testify to the propositional  nature of evidence.
+Now that we  are equipped with considerable background, in the remainder of this entry we  shall consider some well-known problems and paradoxes in the theory of  evidence.
+3. Some Problems of Evidence
+a. The Ravens Paradox
+The famous ravens paradox was formulated by Carl  Hempel in the very paper in which he set out his own instantial approach to  evidence sketched in §2cii. The paradox arises by reflecting on the following  three seemingly uncontestable assumptions.
+
+According to the first assumption, an instance provides evidence for a  generalization. So, for example, if our generalization is “All ravens are  black,” then an item that is both a raven and black provides at least some  evidence for it. This certainly seems correct.
+
+According to the second assumption, an instance that is evidence for a  generalization provides evidence for any generalization that is logically  equivalent to it, that is, any sentence that is true and false in exactly the  same circumstances. The idea behind this assumption is simply that logically equivalent  sentences make essentially the same assertion couched in different words, and  we cannot have differential confirmation of sentences based simply on the words they use.  That seems correct as well.
+
+The third assumption is simply that “All ravens are black” is logically  equivalent to “All non-black things are non-ravens,” since the latter is just  the contra-positive of the former. This is just a matter of simple deductive  logic.
+
+The paradox, then, arises as follows. Since, for  example a green book, is a non-black thing that is a non-raven, by assumption  (1), it provides evidence that all non-black things are non-ravens. By  assumption (2), the same green book provides evidence for any hypothesis  logically equivalent to it, which, by assumption (3), means that it also  provides evidence for the hypothesis that all ravens are black. In fact, most  of the things in a room provide evidence  for one’s ornithological hypothesis without one having to look at any birds or even  leaving one’s apartment. The paradox, then, is that three ostensibly  uncontestable assumptions lead to a consequence that seems intolerable.
+i. Hempel’s “Solution”
+Since Hempel was in the process of giving a  positive-instance account of evidence when he presented the paradox, perhaps we  should not be surprised that his own “solution” to the paradox was simply to  accept it, arguing that its paradoxical air was a psychological illusion. The  problem is that by picking some item or other in the apartment as an example,  we antecedently know that it will be a non-raven, and so the outcome of the  “observation” of the object seems irrelevant to the confirmation of the  hypothesis. When we are then told that, in fact, the object does provide evidence for the hypothesis, this seems simply unacceptable. But  suppose that all we knew was that were there is a non-black thing whose  identity as a raven was still genuinely in question. In this case, finding that it is not a raven would, says Hempel, seem evidentially relevant to the  hypothesis that all ravens are black. In both cases, the non-black non-raven  object supplies evidence for the hypothesis, but whether this seems paradoxical  or not depends upon what information we include or suppress in stating the  example. Despite this, many have still found  it intolerable that a green book could provide evidence that all ravens are  black.
+ii. A Bayesian Solution
+Interestingly, Bayesians (see §2a) tend to agree with  Hempel that a green book and a black raven each provide evidence for the  hypothesis that all ravens are black. However, they mitigate this seemingly  outlandish position by using Bayes’ theorem and the positive-relevance  definition of evidence to show that one provides much stronger evidence than  the other. Consider again the simple version of Bayes’ theorem, which according  to Bayesians is the theorem by which we are to compute the conditional  probability P(H/E):
+P(H/E) = P(H)  P(E/H) / P(E)
+Now, it is easy to see from the theorem that as P(E)  becomes larger, P(H/E) becomes smaller. If we interpret this in light of the  positive relevance definition of evidence, this is to say that the more  probable the evidence, the less it increases the probability of the hypothesis,  and the weaker it is as a piece of evidence. Conversely, the less probable the evidence, the more it increases the probability of the  hypothesis, and the stronger it is as  a piece of evidence. This result is said by Bayesians to capture the allegedly  intuitive notion that surprising evidence supports an hypothesis more. But note  that, since there are vastly more non-black things in the universe than there  are ravens, the probability of finding a non-black thing that is also a  non-raven is far greater than that of finding a raven that is black. According  to the theorem, then, finding a non-black, non-raven ought to increase the  probability of H (that all ravens are black) much less than finding a black raven.  Indeed, it ought to increase the probability of the hypothesis hardly at all,  since P(E) should be close to 1. It follows that, while finding a black raven  and a non-black non-raven both provide evidence for the hypothesis that all  ravens are black, the latter provides much weaker evidence than the former.  Indeed, since the latter affords such weak evidence, we would invariably overlook  it as such, which may explain why it is  so surprising to be told that (say) a green book does provide evidence that all  ravens are black.
+iii. An Error-Statistical Solution
+Those who would regard as preposterous even the notion  that a green book could supply extremely weak evidence that all ravens are black, may find some solace in an  error-statistical solution to the ravens paradox. Again, to yield evidence for  an hypothesis on this view, a testing procedure must severely test that hypothesis. With this in mind, it is not  difficult to see that examining all non-black items in one’s apartment would  fail to be a severe test of the hypothesis that all ravens are black. Again, appealing  to Popper’s dictum, this would precisely not be “an ingenious test, undertaken with the aim of refuting our hypothesis.” For,  while finding that all non-black items in one’s apartment are non-ravens may  “agree with” the hypothesis that all ravens are black (thus satisfying Mayo’s  requirement (i)), one would very probably not obtain a less fitting result from such a procedure if all ravens were not black (thus failing to satisfy  requirement (ii)). That is to say, we can be certain that this test would yield  the exact same results even if ravens were of a wide variety of colors.
+It is  important to note, though, that even finding very many black ravens may fail to  provide evidence for the hypothesis on this approach. One’s testing procedure  would have to ensure that one’s instances were sufficiently varied such that,  if not all ravens were black, one  would very probably turn up one of those non-black ravens. For example, one  would at the very least have to select ravens from different locales and of  different ages and sexes. In short, employing what one knows about the  properties that make bird-coloration vary, one would have to do one’s best to  obtain instances that would refute the hypothesis that all ravens are black in  order for one’s results to count as evidence for that hypothesis.
+b. The Grue Paradox
+Another famous paradox haunting the positive-instance  approach to evidence is Nelson Goodman’s grue paradox. Indeed, Goodman’s  paradox is often thought to have put an end to purely formal approaches to evidence, such as Hempel’s, and is of  tremendous historical significance.
+Suppose  that all emeralds examined so far have been green. Assuming again that an  observed positive instance of an hypothesis provides evidence in support of it,  then our observations of green emeralds provide evidence for the hypothesis  that all emeralds are green. So far so good. But note that all emeralds  examined so far have also been grue,  where the predicate “grue” applies to all things observed before some future  time t just in case they are green,  or to things not so examined just in case they are blue. Again, under the  assumption that an observed positive instance of an hypothesis provides  evidence in support of it, our observations of grue emeralds have also supplied evidence that all emeralds  are grue. Yet the two hypotheses are genuine rivals. For example, they make  incompatible predictions: according to the green-hypothesis, the first emerald  observed after t will be green, while  according to the grue-hypothesis it will be grue (that is, blue). Thus, it seems our observations of emeralds provide no more  evidence to believe that the first emerald observed after t will be green than to believe that it will grue (i.e. blue),  which is intolerable.
+Note that  the point of the paradox is not to  undermine our confidence that observations of instances can be evidence for a  general proposition expressing a law or uniformity of nature. Rather, the  paradox begins with that assumption,  and asks the more penetrating question of which propositions are apt to express the laws or uniformities of nature, and thus which propositions are supported by  observations of its instances (or which propositions are “projectable” in  Goodman’s terminology). Ostensibly, both the green and the grue hypotheses are  candidates here, since both assert that nature is uniform in a certain respect:  one says that emeralds everywhere and throughout all time are green, while the  other says they are grue. We of course believe that only the green-hypothesis  is lawlike, and thus we believe only the green hypothesis can obtain support  from the evidence; but the paradox demands that we give a reason for this  bias.
+i. Goodman’s Solution
+Goodman’s own solution to his paradox is rather  startling. Goodman thinks that the deep assumption generating the paradox is  that an account of the evidential relationship ought to look no farther than  the logical relationship between the evidence-statement and the hypothesis  alone (think of Hempel’s account here). Thus, since the green and grue  hypotheses both bear the exact same logical relationship to the  evidence-statements—that is, since those statements simply describe observed  positive instances of the hypotheses—both hypotheses are equally well supported by the evidence, which  is intolerable. Hence, Goodman’s strategy involves rejecting the underlying  assumption that the evidential relation is a purely logical one. While  obviously the logical relation between evidence and hypothesis will be relevant to their evidential relation;  there is no reason to think it is the only relevant factor. According to Goodman, our linguistic practices must also  play a role. Very roughly, our observations of emeralds are evidence for the  green hypothesis, and not the grue hypothesis, because “green” has been used  much more frequently in hypotheses that      have actually been accepted by us. On this view, the evidence supported by our observations depends in part upon how the world has  heretofore been described in words. This, of course, leaves open the  possibility that, had “grue” been the better-entrenched predicate, our observations  would support the grue hypothesis instead.
+ii. Achinstein’s Solution
+Goodman’s solution seems rather shallow. It rests upon  the obvious fact that we have accepted hypotheses involving the predicate  “green” more frequently than those involving “grue”, without offering any  rationale for our acceptance. Achinstein claims to be able to provide such a  rationale with his own theory of evidence (see §2b). First, recall Achinstein  requires that if E is to provide evidence for H, then the probability of H,  given E, must be high. Next he requires that if observed instances are to  bestow high probability on a universal hypothesis, and thus be evidence for it,  the observed instances of the hypothesis must be sufficiently varied. In other  words, if one’s instances are not varied, then it is hard to see how they can make the probability of a universal  hypothesis high. Finally, note that grue is a disjunctive property; the predicate grue applies to two different  kinds of cases, green objects observed before t or blue objects observed after t. Now, given that (1) evidence requires high probability, (2) high  probability requires varied instances, and (3) grue applies to two different  kinds of cases, it seems that our observed instances could never be evidence  that all emeralds are grue, unless some instances of that hypothesis  are of both kinds of cases. That is to say, the only way for observed emeralds  to be sufficiently varied to provide evidence that all emeralds are grue, is if  we examine some emeralds before t and  find them to be green, and some after t and find them to be blue. Since one  of the very conditions of the paradox is that we have not done so, our  observations of emeralds could not provide evidence that all emeralds are grue.  In general, the disjunctive nature of “grue”, and the consequent impossibility  of obtaining sufficiently varied instances of grue items, explains why “grue”  is not a well-entrenched predicate in our language—why we have not frequently  accepted hypotheses featuring that predicate in the past. On the other hand,  since “green” for us is not a  disjunctive property, nothing prevents “green” from being the well-entrenched  predicate that it is in our language, as Goodman observed.
+c. Underdetermination of Theory by Evidence
+There is no more pervasive problem in epistemology  than the problem of underdetermination of theory by evidence. Consider, first,  radical      skepticism about the external world. Here, the skeptic proposes a  seemingly far-fetched competing hypothesis to account for all the evidence that  experience apparently provides about the mind-independent world. For example,  perhaps I am merely a brain-in-a-vat, electrochemically stimulated by a  supercomputer to have the very experiences I am having at this moment, or all  the experiences I have ever had. This  hypothesis is equally compatible with, and indeed entails, that I will have the very same experiential basis for  belief that I would have if the world were as I have always believed it to be.  Indeed, any test that I could perform to decide between the two competing  hypotheses may simply be another set of experiences fed into my brain from the  supercomputer. On what grounds, then, can I say that the hypothesis is  “far-fetched”? Indeed, given all the  evidence I will ever possess, the skeptic’s seemingly bizarre story appears  just as likely to be true as my ordinary beliefs. Granted, I may prefer my ordinary beliefs out of familiarity, or  even simplicity, but neither of these is a reason for believing that my  ordinary beliefs are any more likely to be true;  my preference would be just a baseless prejudice. Accordingly, all possible  evidence I could have radically underdetermines which theory I ought to  believe.
+Other  skeptical arguments, such as inductive skepticism and skepticism about other  minds, are designed to establish the same conclusion. In the case of inductive  skepticism, evidence from the past and present course of nature allegedly underdetermines  the shape of the future course of nature. In the case of skepticism about  other minds, evidence from what others say and do underdetermines not only what  their mental life might be like, but also whether they even have a mental life. In both of these  cases, the evidence stands in the exact same logical relationships to the skeptical hypotheses as they do to our  favored ones. Accordingly, the evidence allegedly provides no justification whatsoever for preferring one hypothesis to the other.
+But it’s  not just skepticism that runs on underdetermination of theory by evidence.  Indeed, the grue paradox from §3c above does so as well: none of our  observations before time t favor  the green hypothesis over the grue hypothesis. As we saw, the problem forced  Goodman to turn to seemingly non-epistemic factors such as the sort of language we use. And there are problems of underdetermination       that are far less esoteric as well, such as the  curve-fitting problem. Suppose we have a graph on which very many data points  are plotted; for instance, suppose that the data points relate the pressure and  volume of various samples of gas. Now, it turns out that there are infinitely  many equations describing curves that can fit the evidence; in our case, this  means that Boyle’s law of gases is merely one of an infinite number of  equations that can fit the data. Moreover, it does not matter how many data  points we add; while some curves will be ruled out with the addition of new  evidence, there will always be an unending supply of equations that will fit.  On what grounds, then, do we accept Boyle’s law? Once more, the idea is that  the evidence itself does not  determine which of the equations we ought to prefer.
+In all of  these cases, the evidence allegedly fails to provide any rational grounds for  preferring one hypothesis over an indefinite number of competing hypotheses. To  make a choice, we seem forced to prefer an hypothesis on non-evidential and  therefore non-epistemic grounds. And  this threatens to make a mockery of the very idea of evidence. For is evidence  not supposed to help us determine what we ought to believe? If something can’t do this, with what right do we  even speak of it as evidence?
+These  problems are far too numerous, and their solutions far too involved, for us to  discuss here. We would do best to concentrate on a problem of  underdetermination dealing with which the materials of the previous sections have  equipped us. Hence, in the remainder of this entry, we shall concentrate on  underdetermination as it relates specifically to thesis of evidential holism, or the thesis that evidence never bears on a  proposition in isolation from other propositions we accept—and possibly all the propositions we accept. As we  shall see, the theories of the evidential relation already on the table will  not only help us set-up the problem, but also offer some solutions.
+i. Underdetermination and Holism: The Duhem-Quine Problem
+Uncovering the problem of holism and  underdetermination is usually credited to Pierre Duhem, the late 19th  and early 20th century French physicist, historian of physics, and  philosopher of science. Duhem asks us to consider the hypothetico-deductive  method of theory-testing, sketched in §2ci: again, from the proposition under  test we derive an observable prediction; if the prediction comes out true, we  are said to have evidence for the theory, while if not, we are said to have  evidence against it. Yet Duhem explains that, while correct in outline, the  account is much too simple: the scientist does not derive testable implications  from the proposition alone, but from that proposition and “a whole  group of theories accepted by him…” For example, in order to obtain any  observable predictions from Newton’s laws of motion and gravitation with  respect to our Solar System, we need take those laws in conjunction with a host  of auxiliary hypotheses and assumed facts, such as that only gravitational  forces act on planets; or assumptions about the relative masses of the planets,  their satellites and the sun; or information about planetary velocities, which  are, in turn, derived from instruments whose correct functioning is based on  the employment of still other theories; and so on. Granted this, Duhem now asks  us to suppose, as is often the case, that the prediction generated by this body  of statements does not turn out true. Since no single hypothesis or theory  entails the false prediction, but only a whole web of theory and alleged fact  taken together, the evidence does not by  itself indicate which member of that web is refuted; nature is silent with  respect to where the blame lies. To put the point in starker terms, there simply is no fact of the matter with  respect to which the evidence is evidence against,  which is just to say that the evidence underdetermines which parts of the body are to be believed and which parts are not. This much  being granted, the same should also go for evidence consistent with one’s theory: since in no case does that theory by  itself entail a true observable prediction, there would simply be no fact of the matter with respect to which  the evidence is evidence for. The conclusion,  then, seems to be evidential holism: evidence never bears on a  proposition in isolation, but only on a body of propositions taken as a  whole.
+Duhem  thought that his problem could be solved by the “good sense” of the practicing  physicist, but it was Quine who unleashed the problem of holism, by extending  it beyond a theory and its auxiliary assumptions, to an entire body of  statements we accept. Quine’s holism is intimately related to his rejection of  the analytic-synthetic distinction in the philosophy of language. An analytic  statement is one that is true solely by virtue of its meaning (such as all bachelors are unmarried), while a  synthetic statement is one that is true or false by virtue of both its meaning  and how things turn out in the world (such as all bachelors are less than five feet ten  inches tall). Accordingly, while synthetic statements are accepted as true or  rejected as false by virtue of what the world affords us in experience,  analytic statements are accepted as true come  what may in experience. Now Quine’s rejection of the analytic-synthetic  distinction is far too involved to review here, and we only need concern  ourselves with its outcome: if there is no distinction between a type of statement that is true in virtue  of meaning and a type of statement  that is true in virtue of how things turn out in the world, then, in principle, any statement can be accepted as true  or rejected as false in the light of experience, and any statement can be held true come what may. The only constraints  on what to accept or reject given the evidence of the senses are consistency  with what else we accept, and pragmatic considerations such as conservatism and  simplicity. Otherwise, the evidence so radically underdetermines our web of  beliefs that there is an indefinite number of systems of the world that can be  made to square with it. Accordingly, whichever picture of the world we choose  is merely one of many, with no evidential basis to decide between them. No one  puts the point better than Quine himself:
+[It] becomes folly to  seek a boundary between synthetic statements, which hold contingently on  experience, and analytic statements, which hold come what may. Any statement  can be held true come what may, if we make drastic enough adjustments elsewhere  in the system… Conversely, by the same token, no statement is immune to  revision. Revision of even the logical law of the excluded middle has been  proposed as a means of simplifying quantum mechanics… The totality of our  so-called knowledge or beliefs…is a man-made fabric which impinges on  experience only along the edges. Or, to change the figure, total science is  like a field of force whose boundary conditions are experience. A conflict with  experience at the periphery occasions readjustments in the interior of the  field. Truth-values have to be redistributed over some of our statements…But  the total field is so underdetermined by its boundary conditions, experience,  that there is much latitude of choice as to what statements to reevaluate in  the light of any single experience. No particular experiences are linked with  any particular statements in the interior of the field, except indirectly  through considerations of equilibrium affecting the field as a whole….
+ii. A Bootstrapping Solution
+Glymour’s bootstrapping approach to evidence, if tenable, provides an ingenious response to the  problem posed by Duhem and Quine, for it extracts a kernel of truth from the  problem while rejecting what seems most pernicious about it. First of all, we  are urged by Glymour not accept the problem, as Quine does, but instead take it as exposing  the key weaknesses in the hypothetico-deductive account of evidence that  generates it, namely, that such an approach makes the bearing of evidence on  the theory unacceptably indiscriminate. Indeed, the irrelevant conjunction  problem, as we saw in §2ci, reveals essentially the same flaw. Accordingly, far  from accepting hypothetico-deductivism and the holism that comes along with it,  we ought to reject the hypothetico-deductive approach on the bases that it  fails to meet a crucial constraint on any acceptable theory of evidence,  namely, how an observation or test can be relevant to one part of a theory  while not to others.
+Of course,  the bootstrap approach is devised to satisfy exactly this very constraint.  Again, according to this approach, we use other hypotheses in the general  theory under test, together with observational data, to derive a confirming or  disconfirming instance of a specific hypothesis in the theory; and we are enjoined to repeat the same process for  the other individual hypotheses composing the theory itself. So while hypothetico-deductivism  has the evidence entailed by a mass of theory, leaving underdetermination and  holism as the inevitable consequences, bootstrapping has the evidence and a  mass of theory entailing an instance of an hypothesis within it, which allows  the evidence to bear specifically on a single hypothesis of interest. Hence, we can see that, contrary to holism, evidence does bear on specific parts of the theory, but, crucially, it does  not do so in isolation from other parts  of the theory. Thus, what is correct about holism is the notion that large parts  of a theory must always be involved in theory-testing; what is not correct is to conclude from this, as  Duhem and Quine do, that a piece of evidence does not bear on one part of the  theory without bearing upon all of it. Of course, the plausibility of this  solution can be no greater than the plausibility of the bootstrap approach as a  whole, which as mentioned above, some have questioned.
+iii. A Bayesian Solution
+To consider a different sort of approach, subjective  Bayesians (see §2a) use Bayes’ theorem, the positive/negative-relevance  definition of evidence and their own subjective interpretation of probability,  to illustrate how evidence can indeed single out one hypothesis among others  for rejection. (Recall that, for the subjectivist, a probability is a rational  subject’s degree of belief in a proposition at a given time). While these  illustrations are too complicated to spell out in all their detail here, we  will consider an abridged account of an illustration offered by Jon Dorling,  employing a case from the 19th century physics. Our hypothesis H is Newton’s  theory of motion and gravitation, and the auxiliary hypothesis A is the  assumption that tidal effects do not influence secular lunar accelerations. We  will suppose that H and A together entail the expected observed acceleration of  the moon E´, but what is observed instead is the anomalous lunar acceleration  E. Thus E tells us that H and A cannot both be true, but the problem, again, is  that it seems to underdetermine which one of the two hypotheses we are to  believe.
+On the Bayesian  view, what we need to consider are the separate effects wrought by E on the  probabilities of H and A. Accordingly, the goal will be to compare P(H/E) and  P(A/E), both of which can be conveniently calculated by means of Bayes’  theorem:
+P(H/E) = P(H)P(E/H) / P(E)
+P(A/E) = P(A)P(E/A) / P(E)
+With this framework intact, we now need to assign a  plausible probability distribution to the right-hand sides of these equations  that would mirror the degrees of belief of a typical scientist at the time.  Since the typical scientist had much confidence in both H and A, but somewhat  less so in A, we can plausibly set P(H) to .9 and P(A) to .6. Next, we need to  determine the so-called likelihoods, P(E/H) and P(E/A). Given some  uncontroversial transformations, the details of which we will pass over here,  it turns out that
+P(E/H) = P(E/A &  H)P(A) + P(E/~A & H)P(~A)
+P(E/A) = P(E/A & H)P(H) + P(E/A &  ~H)P(~H)
+Now, since the obtaining of E refutes the conjunction of  A&H, we already know that P(E/A&H) here would be 0. Thus the above  reduce to:
+P(E/H) = P(E/~A &  H)P(~A)
+P(E/A) = P(E/A &  ~H)P(~H)
+Since we already have P(A) and P(H), we can easily determine  P(~A) and P(~H), which will be 0.4 and 0.1, respectively. So the object, now,  is to determine P(E/~A & H) and P(E/A & ~H). It is plausible to suppose  that, while scientists at the time would believe E to be highly unlikely given  H and ~A (say, P(E/~A & H) = .05), it is clear that, given the wide  acceptance of Newtonian theory at the time, they would take E to be virtually  inexplicable if H were false. That is, the typical scientist at the time would  be highly skeptical that there is a competitor to H that could account for E.  Granted this, we can plausibly set P(E/A & ~H) to a very low .001. Plugging  in our figures we obtain:
+P(E/H) = P(E/~A &  H)P(~A) = (.05) x (.4) = .02
+P(E/A) = P(E/A &  ~H)P(~H) = (.001) x (.1) = .0001
+This gives us all the figures in the numerator of  Bayes’ theorem. We still need to determine the denominator P(E). To expedite  matters, we will simply suppose, as was surely the case, that our scientist  believes E would be very unexpected, and will stipulate that P(E) ≈ 0.02.
+Thus, we  now have all of our figures to plug into the above Bayes’ theorem. Performing  the calculations we find that P(H/E) ≈ .9, while P(A/E) ≈ .003. Accordingly,  while the probability of Newton’s  theory would be virtually unchanged given E, the probability of A given E is  reduced to almost zero. But, according to the relevance definition of evidence,  this means that E is very strong evidence against the auxiliary A, and not Newton’s  theory. Clearly, then, it was the auxiliary A and not Newton’s  theory that should have been—and was—discarded  in light of E. Hence, what Bayesians offer is the machinery with which we can  work out exactly how evidence bears  on one hypothesis more than others. If this view is correct, the problem of  holism and underdetermination would be resolved.
+Some have questioned  whether this constitutes a solution at all (Mayo 1996, Earman 1992). While we  are certainly given probabilities that make the choice of hypothesis obvious,  we are not told whether those corresponding degrees of belief would be  warranted, and thus whether the choice to reject an auxiliary would be a good  one. Indeed, the flexibility of subjective Bayesianism would allow a different  probability distribution, according to which H rather than A would bear the  brunt of the evidence. But if it would be acceptable to blame either A or H, it seems that, instead of  a solution, we have a re-description of  the problem—namely, which hypothesis do we reject in light of the  evidence?
+But for the  subjective Bayesian, the objection is entirely specious. Such probability  distributions would be warranted, so  long as they conform to the axioms of the probability calculus. On the  subjective Bayesian view, there is simply more than one rational perspective on  a matter.
+4. References and Further Reading
+
+Achinstein, Peter (ed.) (1983) The Concept of Evidence (Oxford:  Oxford University
+Press). 
+
+A short collection of essential reading on the evidential  relationship.
+
+
+Achinstein,    Peter (1995) “Are Empirical Evidence Claims A Priori?” British Journal for the Philosophy of Science 46: 447-73.
+
+Discusses the question of whether claims to have evidence  for an hypothesis are themselves empirical, or known by mere calculation or  logic.
+
+
+Achinstein, Peter (2001) The  Book of Evidence (Oxford: Oxford   University Press).
+
+An extended presentation of Achinstein’s own account of  evidence, as well as applications of that account to the paradoxes of grue and  the ravens, and the issue of scientific realism.
+
+
+Achinstein, Peter (ed.) (2005) Scientific  Evidence: Philosophical Theories and Applications (Baltimore:  Johns Hopkins   University Press).
+
+A collection of papers by various authors addressing  Achinstein’s and other views of evidence (including the error-statistical  view), along with several papers on the nature of evidence in particular  sciences.
+
+
+Audi, Robert (2003) “Contemporary Modest Foundationalism” in  Louis J. Pojman (ed.) The Theory of  Knowledge: Classical and Contemporary Readings. (Belmont,   CA: Wadsworth).
+
+Uses the epistemic regress argument to support a view of  foundationalism on which experiences count as evidence. Very clear and accessible.
+
+
+Bonjour, Lawrence (1980) “Externalist Theories of Empirical  Knowledge” in P.A. French, T.E. Uehling, Jr., H.K. Wettstein (eds.) Minnesota Studies in Philosophy 5: Studies  in Epistemology (Minneapolis: University of Minnesota Press).
+
+Classic critique of externalist/reliabilist theories of  epistemic justification, and whether one can have justified belief without  evidence of one’s reliability, or with evidence against one’s reliability.
+
+
+Brandom, Robert (2000) “Insights and Blindspots of Reliabilism”  in Articulating Reasons: An Introduction  to Inferentialism (Cambridge, MA:  Harvard University  Press).
+
+Among other things, questions how far the notion of  reliability can separate justification from reasons for belief or evidence.
+
+
+Carnap, Rudolf (1950) The  Logical Foundations of Probability (Chicago:  University of
+Chicago  Press). 
+
+A quantitative approach to confirmation developing Carnap’s  own logical or a priori theory to probability. Highly technical but very  influential.
+
+
+Conee, Earl and Feldman, Richard (2004) Evidentialism. (Oxford:  Oxford University  Press).
+
+Collection of papers surrounding—and defending—the thesis of  evidentialism. See especially the papers “Evidentialism”, “Having Evidence”,  and “Internalism Defended”.
+
+
+Davidson, Donald (1990) “A Coherence Theory of Truth and  Knowledge” in A.R. Malachowski (ed.) Reading Rorty. Critical Responses to Philosophy and the Mirror of Nature (and Beyond) (Oxford:  Blackwell Publishers).
+
+An argument for various coherence theories, relating essentially  to Davidson’s influential views in semantics.
+
+
+Duhem, Pierre  (1954) The Aim and Structure of Physical  Theory, translated by P Wiener
+(New    York: Athenium). 
+
+Classic work in the philosophy of science presenting the  problem of underdetermination, among many other important positions.
+
+
+Dorling, Jon (1979) “Bayesian Personalism, the Methodology  of Scientific Research Programmes, and  Duhem’s Problem” in Studies in the  History and Philosophy of Science 10: 177-87.
+
+A Bayesian solution to the problem of underdetermination.
+
+
+Earman, John (ed.) (1983) Testing Scientific Theories (Minneapolis:  University of Minnesota  Press).
+
+Contains critical papers on bootstrapping. Highly technical.
+
+
+Earman, John (1992) Bayes  or Bust? (Cambridge, MA:  MIT Press).
+
+An assessment of Bayesian confirmation theory. Highly  technical.
+
+
+Giere, Ronald (1983) “Testing Theoretical Hypotheses” pp.  269-98 in J. Earman (ed.) Testing Scientific Theories: Minnesota Studies in the Philosophy of Science, Vol  10 (Minneapolis: University   of Minnesota Press).
+
+Presents a severe testing approach to evidence, somewhat  similar to Mayo’s.
+
+
+Glymour, Clark (1975) “Relevant  Evidence” Journal of Philosophy 72  pp. 403-420.
+
+A short presentation of Glymour’s bootstrapping approach to evidence.
+
+
+Glymour, Clark (1980) Theory  and Evidence (Princeton, NJ:  Princeton University  Press).
+
+An in depth presentation of bootstrapping, as well as an  evaluation of Bayesian, hypothetico-deductive and Hempel’s approaches, among  others. Also presents the problem of old evidence. Technical in spots.
+
+
+Goldman, Alvin I. (1976) “What is Justified Belief?” in G.S.  Pappas (ed.) Justification and Knowledge (Dordrecht: D. Reidel).
+
+A paradigm of a reliabilist theory of justified belief.
+
+
+Goldman, Alvin I. (1986) Epistemology  and Cognition. (Cambridge, MA:  Harvard University  Press).
+Goodman, Nelson (1955) Fact,  Fiction and Forecast (Cambridge, MA:  Harvard University  Press).
+
+Classic presentation of the grue paradox, and Goodman’s  solution.
+
+
+Hacking, Ian (1975) The  Emergence of Probability. (Cambridge:  Cambridge University  Press).
+
+An historical account on the development of probability that  contains an account of the history of the concept of inductive evidence.
+
+
+Hempel, Carl G. (1965) Aspects  of Scientific Explanation and Other Essays in the Philosophy of Science (New    York: The Free Press).
+
+Contains “Studies in the Logic of Confirmation”—the less  technical presentation of Hempel’s positive-instance approach—as well as  several other classic papers in the epistemology of science.
+
+
+Hempel, Carl G. (1966) Philosophy  of Natural Science (Upper Saddle River, NJ:  Prentice Hall).
+
+A classic introduction to the philosophy of science that  contains a very clear description of hypothetico-deductivism.
+
+
+Howson, Colin and Urbach, Peter (1996) Scientific Reasoning: The Bayesian Approach,
+3rd  Edition (Chicago: Open    Court). 
+
+A comprehensive presentation of the subjective Bayesian  approach to scientific reasoning. Contains Bayesian treatments of many of the  important problems in the epistemology of science, including old evidence,  grue, the ravens paradox and the Duhem-Quine problem.
+
+
+Kornblith, Hilary (1980) “Beyond Foundationalism and the  Coherence Theory”, Journal of Philosophy LXXII: 597-612.
+
+Author criticizes foundationalism and coherence theory,  arriving at a kind of reliabilist theory of justified belief that combines  aspects of both, but which also involves the notion of responsibility.
+
+
+Kronz, Frederick  (1992) “Carnap and Achinstein on Evidence” in Philosophical Studies 67: 151-167.
+
+Contains a reply to Achinstein’s objections to positive  relevance.
+
+
+Mayo, Deborah (1996) Error  and the Growth of Experimental Knowledge (Chicago:
+University   of Chicago Press). 
+
+Mayo’s error-statistical approach to scientific reasoning.  Technical in spots.
+
+
+Maher, Patrick (1996) “Subjective and Objective  Confirmation” in Philosophy of Science
+63: 149-174. 
+
+Contains a defense of positive-relevance against Achinstein,  as well as a presentation of the authors own objective theory of confirmation,  in opposition to the subjective Bayesian view.
+
+
+McDowell, John (1996) Mind  and World. (Cambridge: Harvard   University Press).
+
+Provocative work in which the author navigates between the  pitfalls of coherentism and traditional foundationalism, arguing among other  things that experience contains propositional content, and thus can stand in  rational relationship to belief. Not nearly as difficult or obscure as it often  made out to be.
+
+
+Mill, John Stuart (1888) A  System of Logic. 8th ed. (New York:  Harper and Brothers).
+
+A classic work on inductive reasoning, among other things,  presenting Mill’s criticisms of hypothetico-deductivism, as well as his  contribution to his famous debate with 19th century  hypothetico-deductivist William Whewell.
+
+
+Nozick, Robert (1981) Philosophical  Explanations, Oxford: Oxford   University Press.
+
+Contains Nozick’s “truth-tracking” account of evidence (and  knowledge).
+
+
+Pryor, James (2000) “The Skeptic and the Dogmatist”, Nous, 34, pp. 517-49.
+
+Argues for a modest foundationalism about perceptual beliefs  on which experience counts as evidence.
+
+
+Quine, W. V. (1951) “Two Dogmas of Empiricism” in the Philosophical Review vol. 60.
+
+Quine’s rejection of reductionism and the analytic-synthetic  distinction, with its attendant holism.
+
+
+Quine, W. V. (1992) The  Pursuit of Truth. (Cambridge: Harvard   University Press.
+
+A compressed and accessible presentation of many of Quine’s  philosophical views, with the first chapter devoted entirely to evidence.
+
+
+Roush, Sherrilyn (2005) “Positive Relevance: a defense and  challenge” in Scientific Evidence: Philosophical Theories and  Applications, P. Achinstein ed. (Baltimore: Johns   Hopkins University  Press).
+
+A paper co-written with Achinstein where Roush defends  positive-relevance, and Achinstein attacks it once more.
+
+
+Roush, Sherrilyn (2006) Tracking  Truth: Knowledge, Evidence and Science (Oxford: Oxford   University Press).
+
+Updates Nozick’s truth-tracking account of evidence (and  knowledge).
+
+
+Snyder, Laura J (1994) “Is Evidence Historical?” reprinted  in Philosophy of Science: The Central Issues,  Curd and Cover (eds.) (New York:  Norton).
+
+A contribution to the debate over whether knowing about  evidence prior to formulating a theory makes a difference to whether and to  what extent the evidence supports the theory.
+
+
+Stalker, Douglas, ed. (1994) Grue! The New Riddle of Induction (Princeton:  Princeton University  Press).
+
+A large collection of papers on the grue paradox.
+
+
+Williamson, Timothy (2000) Knowledge and its Limits (Oxford: Oxford University Press).
+
+An important work in recent epistemology that contains  chapters devoted especially to evidence. See especially chapters 8, 9 and 10.
+
+
+
+Author Information
+Victor DiFate
+Email: vdifate1@jhu.edu
+Johns Hopkins University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

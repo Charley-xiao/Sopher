@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+Causal Role Theories of Functional Explanation | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Causal Role Theories of Functional Explanation
+Functional explanations are a type of explanation offered in the natural and social sciences. In giving these explanations, researchers appeal to the functions that a structure or system has. For instance, a biologist might say, “The kidney has the function of eliminating waste products from the bloodstream.” Or a sociologist might say, “The purpose of monogamy is to preserve the family structure.” Each of these is concerned with a function that a structure or system is believed to possess. Philosophical interest in this issue concerns understanding what exactly these statements amount to, and whether they are explanatory. Of particular concern is whether such statements commit us to problematic views about the existence of teleology, or purposes, in nature, and whether this is legitimate in the sciences.
+This article considers the debate over functional explanations in the philosophical literature from the 1950’s to the early 21st century. It begins by considering the background to philosophical interest in this subject. Then it looks at two prominent early approaches to functional explanation: Ernest Nagel’s deductive-nomological approach from the 1950’s, and Robert Cummins’ causal account from the 1970’s, as well as objections to both. Throughout there is consideration of illustrative examples of functional explanations from different sciences. Although there are other accounts of functional explanation in the literature, such as the evolutionary and design-oriented accounts, they will be mentioned only in relation to the other two. The broad history of the concept of teleology and the details of the other accounts will not be developed here.
+Table of Contents
+
+Background
+Nagel’s Early Account
+Difficulties
+Cummins’ View
+An Example
+Objections and Replies
+Other Developments
+References and Further Reading
+
+References
+Suggested Reading
+
+
+
+1. Background
+Prior to the 1950’s, philosophers and scientists were concerned with appeals to teleological concepts in the sciences. These concepts have a history going back to Aristotle, who claimed that understanding such things as physical objects or an animal’s physiological structures involves knowing what they are for. In his view, a complete explanation of these structures requires understanding the purposes towards which they are directed. For instance, he thought that one does not understand what a kidney is merely by knowing the material it is made from; one also has to understand that it has the purpose of filtering blood (what it’s for). In Aristotle’s view purposes were conceived as unusual properties like “ends” or “final causes”. But after the scientific revolution these properties were hard to understand in a manner consistent with the sciences, and were considered to be obscure. At a later point this way of thinking was also believed by many to have become questionable because of Darwin’s theory of evolution, which held that talk of Aristotelian purposes was problematic. The idea was to replace talk of such purposes with reference to the notion of natural selection and the environment. The theory of evolution was taken by many scientists to show that appeals to purposive concepts in biology and the social sciences were merely misguided appeals to an outmoded form of explanation. However, the difficulty remained and scientists often continued through the 1900’s to use purposive language in explaining the phenomena that interested them. If appeals to purposive concepts were misguided, then one would have expected these appeals to wither away. So a problem remained in the scientific community over what this situation implied. There was concern about whether this continued talk of purposes was illegitimate in the sciences, or whether there was an acceptable way of understanding such language.
+2. Nagel’s Early Account 
+Modern discussions of functional explanation usually begin with the views developed by Ernest Nagel and others around the 1950’s in the context of scientific explanation (Nagel 1961; Hempel 1959). In his book The Structure of Science, one of Nagel’s concerns was describing the various forms of explanation that occur in the sciences. When we consider the biological and social sciences, he observes, we often find researchers describing the structures or systems that concern them in terms of the functions they have. For instance, a biologist might say, “The heart has the function of pumping blood through the circulatory system.” Or a sociologist might say, “The purpose of the religious ritual is to increase cohesion in society.” Put generally, Nagel says these statements can be understood as stating that “the function of system X is to do Y.” He claims that there are several issues that such statements raise for further examination. We want to understand the detailed structure of such statements and how they work. We also want to understand how these statements are related to other kinds of explanations offered in the natural and social sciences.
+Nagel claims that functional statements can be understood in the following manner. These statements are explanation sketches that when fully spelled out reduce to another form of explanation common in the physical sciences called the Deductive-Nomological model. Nagel’s account focuses on the attributions of functions to the components of a structure (or system). Consider the statement, “The heart has the function of pumping blood through the circulatory system.” When understood, this statement serves to explain why hearts are present in vertebrates. To see this, we have to note that hearts occur only together with a certain physical organization of the vertebrate body and in a certain external environment that the organism lives in. So, what the statement really says is that, in vertebrate bodies with an organization of blood and blood vessels and in a certain external environment, circulation occurs only if an organism has a heart. If we focus on this latter statement, Nagel says that the information in it can be expanded into a D-N explanation. When this is done, we then have the following explanation: Every vertebrate body with the appropriate organization and in a certain environment engages in circulation. If the vertebrate body does not have a heart, then it does not engage in circulation. Hence, the vertebrate body must have a heart.
+This means functional statements in general have the following form for Nagel: The function of A in a system S with organization C is to enable S in environment E to engage in process P. And this can be expanded into an explicit explanation in this way: Every system S with organization C and in environment E engages in process P. If S with organization C and in environment E does not have A, then S does not engage in P. Hence, S with organization C must have A (1961, 403).
+Understood this way, functional statements can be seen as explaining why components like hearts are present in certain organisms in which circulation occurs. For what such statements say is that for organisms having a heart is a necessary condition for pumping blood in the circulatory system. Nagel says this means the statement “The heart has the function of pumping blood through the circulatory system” says the same thing as the statement “Organisms in which circulation occurs pump blood only if they have a heart.” Because of the equivalence, he writes that it appears that “when a function is ascribed to a constituent element in an organism, the content of the teleological [functional] statement is fully conveyed by another statement that is not explicitly teleological and that simply asserts a necessary . . . condition for the occurrence of a certain trait or activity of the organism” (1961, 405).
+There are two features of Nagel’s account worth noting at this point. First, he holds that when we attribute a function to a component, this is always relative to a goal state of the larger system. Researchers are not interested in merely any effects of the components a system has. Rather, they are interested in certain effects that are important to the maintenance of the organism. Biologists, for example, are interested in understanding the heart’s pumping blood because this effect contributes to the activity of circulation, which is important for the organism’s survival. It is important to note that for Nagel talk of goals in this context is not intended to make reference to conscious entities of some kind. It only concerns the characteristic activities that researchers believe to be present in the systems that concern them (for example, survival and reproduction).
+Second, we saw that functional statements that mention the functions of components can be translated into equivalent statements that lack these notions. Nagel claims this shows there’s nothing scientifically suspect about these statements. We shouldn’t think that such statements commit us to problematic entities like “purposes” in nature that somehow attach to components, or to “ends” or “final causes” towards which components are believed to strive (as in Aristotle’s view of teleology). Instead, what the account makes clear is that, in attributing a function to a component, researchers are merely concerned with explaining why the component is present in the larger system. In light of this, Nagel suggests that functional statements are unproblematic despite their earlier associations in history with unacceptable teleological notions. Understood properly he thinks these statements should be seen as belonging with other legitimate forms of explanation in the sciences (on this point compare Ayala 1970).
+3. Difficulties
+There are two difficulties commonly noted with the account presented. The first concerns the reference to goals in identifying the effects of the components that are the targets of explanation. As we have seen for Nagel, the function of a component is identified in relation to the effects that contribute towards the important activities of an organism, like survival and reproduction. But this is problematic for some (Cummins 1975) since it suggests there are components that researchers might want to say have functions, but with this account do not. For instance, let us suppose that the wings of a particular species of bird stopped contributing to the capacity for survival and reproduction (maybe this is due to a specific type of airborne predator). In this situation, it seems researchers would not say that the wings did not have any function to perform; they would still want to understand how the wings contributed to the birds’ capacity for flight. The present account would classify these structures as lacking functions when some would say they have functions.
+The second problem concerns the sense in which functional statements explain the presence of the components involved. In Nagel’s view, we explain the presence of a component by inferring that it is necessary for the performance of a capacity of a system. In the example considered, the heart is said to be a necessary condition for the occurrence of blood pumping in vertebrates. But it has been held false by some (Wright 1973; Cummins 1975) that having a heart is a necessary condition for pumping blood. For surely there are functionally equivalent structures like artificial hearts that are capable of pumping blood through the circulatory system, or circulation might even be achieved in other ways. If this is the case, however, then functional statements cannot be interpreted as explaining why certain structures must be present in an organism (because they needn’t be). Nagel knew of this concern and said his interest was with actual living systems and what they include (as opposed to logical possibilities). But it is not clear this resolves the worry since we find components like artificial hearts in actual living systems (Buller 1999). Aside from this issue, there are believed to be general problems with the framework of Deductive-Nomological explanation that lies behind Nagel’s account of functional explanation, which have raised concerns with his approach. It is no longer accepted by everyone, for example, that scientific explanations have to be seen as involving deductions from universal, law like statements as required with the Deductive-Nomological model of explanation. The result of this was that people became less inclined to think that an account of functional explanation had to be incorporated into the particular explanatory framework Nagel employed. This was important in making people receptive to the alternative accounts that were being developed.
+4. Cummins’ View
+After Nagel the most prominent view developed along these lines was by Robert Cummins (1975, 1983). Cummins agrees that the previous account suffers from the problems that were described. The point of functional statements is not to explain why certain components are present in a structure in relation to some goal state the structure has. Instead, Cummins suggests that functional statements are merely used to explain the contributions made by components of a structure to a capacity of a containing system. The performance of a capacity of a system is explained in terms of the capacities of the components it contains, and how they are organized. Consider researchers’ interest in explaining what it is for a system S to have property P. Cummins writes that “the natural strategy for answering such a question is to construct an analysis of S that explains S’s possession of P by appeal to the properties of S’s components and their mode of organization” (1983, 15). For example, let us suppose that researchers are interested in understanding how circulation occurs in vertebrates. To explain this capacity, they search for the structure in the body that contributes to this capacity by moving the blood around. They observe that blood is moved through the arteries by some sort of pumping motion. When they learn that the heart serves as the pumping mechanism in the body, they identify this with its function (they report “the heart has the function of pumping blood”). The capacity for circulation is thus explained in terms of the capacities of the components of the system that enable it to perform the task.
+There are different stages that are involved in giving the explanation. Researchers begin with a specification of the larger function of the system they want to explain. The explanation then consists in showing how the function depends on the capacities of the components of the system, and their organization. There are two stages that are involved in this process. The first stage is to analyze the function in question in terms of the capacities involved in bringing about the function, which Cummins calls the analytical strategy. He says “The Analytical Strategy proceeds by analyzing a disposition [function] into a number of other relatively less problematic dispositions such that [the] organized manifestation of these analyzing dispositions amounts to a manifestation of the analyzed disposition” (1977, 272). The second stage is to show that there is a physical structure present that realizes the various capacities. This is needed to show that the function is, in fact, realized by an actual structure or mechanism. As Cummins explains, “Ultimately . . . a complete property theory for a dispositional property must exhibit the details of the target property’s instantiation in the system (or system type) that has it. Analysis of the disposition . . . is only the first step; instantiation is the second” (1983, 31). While the two stages are independent of one another, it is important to note that both stages are needed for the explanation to be complete. This is worth keeping in mind because one sometimes finds discussions in the literature that focus merely on one stage of the explanation and not the other.
+Cummins notes that the explanation can be iterated by applying it to the functions of the components cited in the earlier explanation. This process can be repeated until researchers are satisfied with the level reached, or when they reach a level of physical components where no further explanation can be given. In practice, where this line is drawn is relative to the particular interests the researcher has.
+Understood this way, functional statements are not used, as Nagel says, in explaining why certain components are present in a system, but to explain how a component contributes to the capacity of the system that contains it. This concern with the causal organization of components is why Cummins’ account is referred to as the “causal role” account of functional explanation. Furthermore, there is no requirement with the account that the larger function being explained be related to the organism’s survival and reproduction (or similar activity). This means the goal state requirement of the previous account has been dropped. In this respect, Cummins’ account can be seen as broadening the number of capacities of systems that are the appropriate subjects of explanation. The broader applicability of the account is seen by many to be a benefit of the view, but we will see later that for some it is thought to raise problems.
+5. An Example
+With Cummins’ account, the same form of explanation is said to be applicable to a range of different structures or systems in the sciences. The account applies to the functions of structures like the heart in physiology, but it can also be applied to other kinds of systems, including chemical systems, psychological systems, social systems, and others. We can illustrate this with an example from psychology. Consider the explanation of color vision in the human system (Dawson 1998, 163). The function of color vision consists in the capacity (F) to perceive information about the colors of objects in the environment. The trichromatic theory of color vision provides an explanation of how this works. It holds that the function is performed in virtue of the capacities (C1a, C2a, . . . Cna) of the components of the visual system (S1a, S2a, . . . Sna), and the way they are organized. In particular, the function depends on the capacities of the parts of the eye to produce differential responses to wavelengths of light. Researchers have learned that when light falls on the retina there are three kinds of cone cells there containing photopigments (red, green, and blue) that respond differently to the different wavelengths of light present. These responses are combined together in the retina through cellular connections and produce a distinctive response signal in the nervous system. The signal is sent to the visual cortex in the brain, and leads to the color perceptions we have. In turn, the subcapacities of the individual pigments in the cones (say C1a) have themselves been explained in terms of the capacities (C1b, C2b, . . . Cnb) of the molecular components (S1b, S2b, . . . Snb) of the photopigments and how they respond to light (for example, the capacities of vitamin A and various proteins to change when exposed to light). In this way, the function of color vision has been decomposed into the various capacities of the anatomical components within the eye and nervous system that underlie the function.
+In this respect functional explanation is intended to be a general strategy of explanation that can be applied in different sciences. What is needed is for researchers to identify a capacity of the system they want to explain, and then describe how this occurs as a result of the organized behavior of the components which make up the system. In pursuing this strategy, researchers can be seen as undertaking a kind of mechanical analysis in attempting to explain the behaviors of the system that interest them. It is, in part, the broad applicability of the account to different sciences that has made philosophers interested in understanding its details and implications. One will find further illustrations of the account by looking at discussions of functionalism in the philosophy of mind. This will reveal how the account has been used in theories in other areas.
+6. Objections and Replies
+There are several objections that have been made to the causal role account. Here we will consider four of the common ones. The first is the concern that too many kinds of components can be ascribed functions that on their face don’t seem to have functions. Consider a bit of dirt that has become lodged in a pipe and which operates as a one-way valve (Griffiths 1993). This material can be seen as contributing to the capacity of the pipe to control the flow of liquid, and so can be part of a functional explanation in line with the account. It seems odd to attribute a function to the dirt in this situation, but it becomes a possibility once we have dropped the notion of a goal state from the account. Once this occurs, it seems any effect of a structure that contributes to a capacity can be used in an explanation.
+A second objection concerns the various kinds of things that we know objects like hearts are capable of doing. Millikan (1989a) claims that objects like hearts not only move blood through the circulatory system, but also make a thumping noise that doctors can listen to. Making a noise is an effect of the structure that can be explained in terms of the account presented before. But while biologists take the function of the heart to be the circulation of blood, they do not say that making thumping noises is. So the account seems too liberal since it fails to distinguish between genuine functions and mere side effects of the systems.
+In reply to these sorts of concerns, Cummins (1975) argues that there is no objective way of making the distinction between genuine functions and other effects. The effects of a component may be relevant to the explanation of different overall capacities. The limits on what capacities should be explained depend on the particular explanatory interests researchers have. Relative to the capacity for blood circulation in the body, the heart can be said to function as a pumping mechanism; but relative to the capacity for making sounds, the heart can be said to function as a noise maker. There is no saying which of these counts as a genuine function in an absolute sense since researchers’ interests are what matter. This response raises issues about the nature of scientific explanations and whether these should be seen as objective, or whether it is sufficient merely to appeal to the interests researchers have. The answer to this depends on what one sees as the appropriate characteristics of a scientific explanation. In addition to making this point, Cummins also added a general restriction on the kinds of explanations that should be given. He said that the appropriateness of a functional explanation is related to the “interestingness” of the explanation being offered. An explanation counts as interesting when the component capacities appealed to in the explanation are less complex and different in kind from the larger capacity being explained. We can illustrate this with the piece of dirt which is lodged in the pipe. For example, the capacity of the dirt to obstruct the flow of liquid is neither less complex nor really different from the overall capacity of the pipe being explained, and so a functional explanation has no interest in this case. This response is intended to place limits on the functional explanations that are appropriate to make in these sorts of cases. But it has been perceived as being somewhat vague in describing the systems to which it applies.
+This sort of concern has also been considered by Davies (2001), who argues that there are specific constraints on the effects that are appropriate to use in an explanation. He suggests we can supplement the account offered by recognizing that functions are appropriately attributed, not just to any components, but to those in a hierarchically organized system. A system is hierarchically organized just when the function is performed in virtue of the lower-level organization of the system in question. In this view, the effects of a component are not functional unless they are due to the specific hierarchical organization of the structure. For example, aside from pumping blood the heart beat has the effect of vibrating the sternum in the chest. But this effect does not contribute anything to a larger capacity of the circulatory system, or to other related capacities of the organism. Therefore, there is no reason to accept this as a genuine function of the component in question.
+A third problem concerns the character of some of the components to which researchers ascribe functions. Neander (1991; see Millikan 1989b) claims that researchers in sciences like biology commonly refer to components that may be diseased and malformed as having functions. Due to congenital disease, for example, a heart may lack the parts necessary to pump blood around the circulatory system in an organism and thus not work. This presents a problem because here the component will be unable to perform its causal role, and lack the function as a result. Despite this fact, Neander claims that, in this situation, researchers still classify the components functionally as being hearts. She claims this shows we need another notion of function independent of the causal role notion. The evolutionary account she prefers is presently the main rival to the causal role account. It holds that functional explanations are a type of evolutionary explanation. Roughly, to say that a component has a function F is to say that F is an effect of the component that was selected for by natural selection in the past. So the heart has the function of pumping blood because hearts were selected for pumping blood in our ancestors, and this led to the present existence of hearts. With this view the idea is that natural selection confers on components functional roles they are supposed to perform despite their inability to perform their causal role.
+Different replies have been offered to this objection. Cummins (1975) accepts that malfunctioning components do not have their causal role functions to perform. If a component is unable to perform its causal role, then this implies the loss of the relevant capacity. A similar sort of view has also been supported by Davies (2001, 176). He maintains that we should not classify components as being malfunctional in these cases. He says that components are wrongly classified this way on the basis of our prior experience of physically similar structures, which leads us to expect the structures will function as the other structures do. But, properly speaking, the structures should be classified as nonfunctional “because natural traits cannot malfunction.” This point is made in relation to a larger complaint he makes that the notion of function appealed to in evolutionary theories does not fit well with the ontologies of the natural sciences.
+Another reply has also been offered by Amundson and Lauder (1994). They argue it is false that malfunctioning components can only be classified in terms of the evolutionary functions they perform. They claim that researchers in physiology commonly classify structures in terms of their homologous relationships to other structures, and independently of their functions. Homologies are defined as traits in different species that are similar due to common ancestry (a standard example is the forelimbs of humans and bats that are structurally similar). These traits can be identified in terms of such features as the physical similarity present, correspondence of parts, and other features. These criteria enable researchers to classify structures on the basis of their anatomical features alone. Since researchers can classify a malformed heart as a heart by appeal to its structural features, it is claimed that there is no problem for the account with structures that malfunction. Whether this response is correct depends on how classification works in the practice of researchers in physiology. This has been a subject of early 21st century controversy among philosophers working in this area.
+The final problem concerns the role of functional statements in relation to what they explain. As was noted before, on the evolutionary account a functional statement is said to explain the presence of a component of a system. For instance, the statement “the heart functions to pump blood” serves to explain why hearts exist in certain organisms. The idea is that in the past, hearts that pumped blood contributed to the survival of an organism, which explains the present existence of hearts. So, the functional statement points in the direction of an evolutionary account for the rise of the traits which are subject to explanation. In contrast, the causal role account does not provide an explanation in this sense. Functional statements do not serve to explain the presence of the component, but explain the contribution of the component to a capacity of a particular system. This is not a matter of why the component exists in the system, but the task the component performs. The different accounts raise issues about the aims theories of functional explanation are believed to have and what needs explaining. The different perspectives people have taken on this topic are related to how the explanations are used by researchers in different areas of science, and the particular roles the explanations have in these areas.
+7. Other Developments
+So far, we have seen that the causal role account is applicable to different fields of science. Another issue is discussion over the exact fields it applies to, and how it relates to the other accounts mentioned. In this respect, it will help to describe the relation between the causal role and other accounts as they have been discussed in the biological sciences.
+According to Neander (1991), there is a single notion of function used across different areas of biological research. The basic notion is the evolutionary notion we described before that is explained in terms of natural selection. The idea is that the heart functions to pump blood because pumping blood was the effect that hearts were selected for in the past, and which led to the present existence of hearts. Neander claims this is the basic notion at work when researchers appeal to the functions of a component and not the causal notion. In another vein, Kitcher (1993) argues that the concept of design can be seen to underlie all functional explanations. Roughly, to say that a component has a function F is to say that F is what the component was designed to do (the account allows there are different sources of design). He believes the notion applies in evolutionary contexts that involve a past selection process, as well as in physiological investigations that concern the current causal contributions of a component to a system’s capacity (in the latter case, Kitcher claims that a selection process is involved in an indirect way). In both accounts, appeals to functions can be unified under some general concept that applies across different areas of research.
+Not everyone agrees, though, that the notion of function can be treated in this way. Godfrey-Smith (1993) argues that it is wrong to think there is a unified concept of function at work in different areas. He suggests there are distinct notions of function that are appropriate to different fields. The causal role notion is appropriate in physiological investigations where researchers are concerned with understanding how the capacities of a system depend on the capacities of its components. These investigations can be undertaken independently from historical considerations about selection. Alternatively, the evolutionary notion is appropriate in areas like evolution and behavioral ecology where researchers are interested in explaining why organisms have the structures and behaviors they have. In this context, the focus is on past selection pressures in the environment, and a historical approach is appropriate. So, in Godfrey-Smith’s view it is a mistake to think that we should be attempting to unify the various uses of functional language under a single account; we should rather accept pluralism. The different notions should merely be seen as reflecting the different kinds of information researchers are concerned with in different areas of investigation. This point can be related to the previous issue concerning the interest-relative character of the explanations researchers offer.
+Not only are there concerns about the areas of research where the causal role notion is applicable, but there have been questions raised about similar notions in the vicinity. The causal notion is often thought to be the basic notion at work in physiology (this is controversial for some who hold the evolutionary or other account). Wouters (1995) argues, though, that there is another notion that has been neglected by philosophers in this area. He says that when researchers talk of functional explanations they are often referring to what he calls “viability explanations.” These have a different focus than explaining how a function depends on the capacities of the components of a system. In these cases, researchers are interested in explaining the traits that individuals need to survive and reproduce in their environments. For example, given the distance between the central organs and the outer periphery of the human body, the function of circulating oxygen cannot be performed by simple diffusion. This is why a circulatory system is needed for the performance of the function. This explanation contributes to our understanding by showing why the circulatory system has to be present for maintaining the viability of the organism. Wouters claims that this form of explanation is distinct from the previous accounts we described, and involves its own explanatory structure. Moreover, this explanation is said to share features with the earlier notion of functional explanation described by those like Nagel. In this respect, it is suggested that philosophers may have overlooked an important notion of functional explanation worthy of further examination.
+There is a lot more that could be said about the subject of causal role functional explanation, and the debate about functions. We have not covered everything that might be considered on this issue. One thing that is clear from our discussion, though, is that a proper understanding of functional explanations cannot be achieved independently from considering how they are used in the sciences. Whether, and to what extent, the causal role notion is applicable in a particular area needs to be determined by examining the science in question. In this respect, those interested in furthering our understanding of the notion will have to familiarize themselves with the details of the examples being considered. An understanding of how functional explanations are used is an important part of helping us improve our understanding of this concept.
+8. References and Further Reading
+a. References
+
+Amundson, R., & Lauder, G. (1994). “Function without purpose: the uses of causal role function in evolutionary biology.” Biology and Philosophy 9: 443-469.
+Ariew, A., Cummins, R., & Perlman, M. (eds.) (2002). Functions: New Essays in the Philosophy of Psychology and Biology. Oxford: Oxford University Press.
+Ayala, F. (1970). “Teleological explanations in evolutionary biology.” Philosophy of  Science 37: 1-15.
+Block, N. (1980). “Introduction: what is functionalism?” In Block, N. (ed.) Readings in Philosophy of Psychology, vol. 1. Cambridge, MA: Harvard University Press.
+Cummins, R. (1977). “Programs in the explanation of behavior.” Philosophy of Science 44: 269-287.
+Cummins, R. (1983). The Nature of Psychological Explanation. Cambridge, MA: MIT Press.
+Davies, P. (2001). Norms of Nature: Naturalism and the Nature of Functions. Cambridge, MA: MIT Press.
+Dawson, M. (1998). Understanding Cognitive Science. Malden, MA: Blackwell.
+Enç, B. & Adams, F. (1992). “Functions and goal directedness.” Philosophy of Science 59: 635-654.
+Godfrey-Smith, P. (1993). “Functions: consensus without unity.” Pacific Philosophical Quarterly 74: 196-208.
+Griffiths, P. E. (1993). “Functional analysis and proper functions.” British Journal for the Philosophy of Science 44: 409-422.
+Hempel, C. G. (1959). “The logic of functional analysis.” In Gross, L. (ed.) Symposium on Sociological Theory. Evanston, IL: Harper and Row Publishers.
+Hempel, C. G. & Oppenheim, P. (1948). “Studies in the logic of explanation.” Philosophy of Science 15: 135-175.
+Kitcher, P. (1993). “Function and design.” Midwest Studies in Philosophy 18: 379-397.
+McLaughlin, P. (2001). What Functions Explain: Functional Explanation and Self-Reproducing Systems. Cambridge: Cambridge University Press.
+Millikan, R. G. (1989a). “An ambiguity in the notion of function.” Biology and Philosophy 4: 172-176.
+Millikan, R. G. (1989b). “In defense of proper functions.” Philosophy of Science 56: 288- 302.
+Nagel, E. (1961). The Structure of Science. Indianapolis, IN: Hackett.
+Nagel, E. (1977). “Teleology revisited: goal-directed processes in biology.” Journal of Philosophy 74: 261-301.
+Neander, K. (1991). “The teleological notion of ‘function’.” Australasian Journal of Philosophy 69 (4): 454-468.
+Neander, K. (2002). “Types of traits: the importance of functional homologies.” In Ariew, A., Cummins, R., & Perlman, M. (eds.) (2002).
+Polger, T. (2004). Natural Minds. Cambridge, MA: MIT Press.
+Wouters, A. (1995). “Viability explanation.” Biology and Philosophy 10: 435-457.
+Wright, L. (1973). “Functions.” Philosophical Review 82: 139-168.
+
+b. Suggested Reading
+
+Allen, C., Bekoff, M., & Lauder, G. (eds.) (1998). Nature’s Purposes: Analyses of Function and Design in Biology. Cambridge, MA: MIT Press.
+Buller, D. (ed.) (1999). Function, Selection, and Design. Albany, NY: State University of New York Press.
+Cummins, R. (1975). “Functional Analysis.” Journal of Philosophy 72: 741-765. Reprinted with minor alterations in Allen, Bekoff, & Lauder (1998) and Buller (1999).
+Wouters, A. (2005). “The function debate in philosophy.” Acta Biotheoretica 53: 123-151.
+
+ 
+Author Information
+Mark B. Couch
+Email: mark.couch@shu.edu
+Seton Hall University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

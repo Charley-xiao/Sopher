@@ -1,0 +1,749 @@
+
+
+
+
+
+
+
+
+
+Contrary-to-Duty Paradox | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contrary-to-Duty Paradox
+A contrary-to-duty obligation is an obligation telling us what ought to be the case if something that is wrong is true. For example: ‘If you have done something bad, you should make amends’. Doing something bad is wrong, but if it is true that you did do something bad, it ought to be the case that you make amends. Here are some other examples: ‘If he is guilty, he should confess’, ‘If you have hurt your friend, you should apologise to her’, ‘If she will not keep her promise to him, she ought to call him’, ‘If the books are not returned by the due date, you must pay a fine’. Alternatively, we might say that a contrary-to-duty obligation is a conditional obligation where the condition (in the obligation) is forbidden, or where the condition is fulfilled only if a primary obligation is violated. In the first example, he should not be guilty; but if he is, he should confess. You should not have hurt your friend; but if you have, you should apologise. She should keep her promise to him; but if she will not, she ought to call him. The books ought to be returned by the due date; but if they are not, you must pay a fine.
+Contrary-to-duty obligations are important in our moral and legal thinking. They turn up in discussions concerning guilt, blame, confession, restoration, reparation, punishment, repentance, retributive justice, compensation, apologies, damage control, and so forth. The rationale of a contrary-to-duty obligation is the fact that most of us do neglect our primary duties from time to time and yet it is reasonable to believe that we should make the best of a bad situation, or at least that it matters what we do when this is the case.
+We want to find an adequate symbolisation of such obligations in some logical system. However, it has turned out to be difficult to do that. This is shown by the so-called contrary-to-duty (obligation) paradox, sometimes called the contrary-to-duty imperative paradox. The contrary-to-duty paradox arises when we try to formalise certain intuitively consistent sets of ordinary language sentences, sets that include at least one contrary-to-duty obligation sentence, by means of ordinary counterparts available in various monadic deontic logics, such as the so-called Standard Deontic Logic and similar systems. In many of these systems the resulting sets are inconsistent in the sense that it is possible to deduce contradictions from them, or else they violate some other intuitively plausible condition, for example that the members of the sets should be independent of each other. This article discusses this paradox and some solutions that have been suggested in the literature.
+Table of Contents
+
+The Contrary-to-Duty Paradox
+Solutions to the Paradox
+
+Quick Solutions
+Operator Solutions
+Connective Solutions
+Action or Agent Solutions
+Temporal Solutions
+
+
+References and Further Reading
+
+1. The Contrary-to-Duty Paradox
+Roderick Chisholm was one of the first philosophers to address the contrary-to-duty (obligation or imperative) paradox (Chisholm (1963)). Since then, many different versions of this puzzle have been mentioned in the literature (see, for instance, Powers (1967), Åqvist (1967, 2002), Forrester (1984), Prakken and Sergot (1996), Carmo and Jones (2002), and Rönnedal (2012, pp. 61–66) for some examples). Here we discuss a particular version of a contrary-to-duty (obligation) paradox that involves promises; we call this example ‘the promise (contrary-to-duty) paradox’. Most of the things we say about this particular example can be applied to other versions. But we should keep in mind that different contrary-to-duty paradoxes might require different solutions.
+Scenario I: The promise (contrary-to-duty) paradox (After Prakken and Sergot (1996))
+Consider the following scenario. It is Monday and you promise a friend to meet her on Friday to help her with some task. Suppose, further, that you always meet your friend on Saturdays. In this example the following sentences all seem to be true:
+N-CTD
+N1. (On Monday it is true that) You ought to keep your promise (and see your friend on Friday).
+N2. (On Monday it is true that) It ought to be that if you keep your promise, you do not apologise (when you meet your friend on Saturday).
+N3. (On Monday it is true that) If you do not keep your promise (that is, if you do not see your friend on Friday and help her out), you ought to apologise (when you meet her on Saturday).
+N4. (On Monday it is true that) You do not keep your promise (on Friday).
+Let N-CTD = {N1, N2, N3, N4}. N3 is a contrary-to-duty obligation (or expresses a contrary-to-duty obligation). If the condition is true, the primary obligation that you should keep your promise (expressed by N1) is violated. N-CTD seems to be consistent as it does not seem possible to derive any contradiction from this set. Nevertheless, if we try to formalise N-CTD in so-called Standard Deontic Logic, for instance, we immediately encounter some problems. Standard Deontic Logic is a well-known logical system described in most introductions to deontic logic (for example, Gabbay, Horty, Parent, van der Meyden and van der Torre (eds.) (2013, pp. 36–39)). It is basically a normal modal system of the kind KD (Chellas (1980)). In Åqvist (2002) this system is called OK+. For introductions to deontic logic, see Hilpinen (1971, 1981), Wieringa and Meyer (1993), McNamara (2010), and Gabbay et al. (2013). Consider the following symbolisation:
+SDL-CTD
+SDL1 Ok
+SDL2 O(k → ￢a)
+SDL3 ￢k → Oa
+SDL4 ￢k
+O is a sentential operator that takes a sentence as argument and gives a sentence as value. ‘Op’ is read ‘It ought to be (or it should be) the case that (or it is obligatory that) p’. ￢ is standard negation and → standard material implication, well known from ordinary propositional logic. In SDL-CTD, k is a symbolisation of ‘You keep your promise (meet your friend on Friday and help her with her task)’ and a abbreviates ‘You apologise (to your friend for not keeping your promise)’. In this symbolisation SDL1 is supposed to express a primary obligation and SDL3 a contrary-to-duty obligation telling us what ought to be the case if the primary obligation is violated. However, the set SDL-CTD = {SDL1, SDL2, SDL3, SDL4} is not consistent in Standard Deontic Logic. O￢a is entailed by SDL1 and SDL2, and from SDL3 and SDL4 we can derive Oa. Hence, we can deduce the following formula from SDL-CTD: Oa ∧ O￢a (‘It is obligatory that you apologise and it is obligatory that you do not apologise’), which directly contradicts the so-called axiom D, the schema ￢(OA ∧ O￢A). (∧ is the ordinary symbol for conjunction.) ￢(OA ∧ O￢A) is included in Standard Deontic Logic (usually as an axiom). Clearly, this sentence rules out explicit moral dilemmas. Since N-CTD seems to be consistent, while SDL-CTD is inconsistent, something must be wrong with our formalisation, with Standard Deontic Logic or with our intuitions. In a nutshell, this puzzle is the contrary-to-duty (obligation) paradox.
+2. Solutions to the Paradox
+Many different solutions to the contrary-to-duty paradox have been suggested in the literature. We can try to find some alternative formalisation of N-CTD, we can try to develop some other kind of deontic logic or we can try to show why at least some of our intuitions about N-CTD are wrong. The various solutions can be divided into five categories: quick solutions, operator solutions, connective solutions, action or agent solutions, and temporal solutions, and these categories can be divided into several subcategories. Various answers to the puzzle are often presented as general solutions to all different kinds of contrary-to-duty paradoxes; and if some proposal takes care of all the different kinds, this is a strong reason to accept this solution. Having said that, it might be the case that the same approach cannot be used to solve all kinds of contrary-to-duty paradoxes.
+a. Quick Solutions
+In this section, we consider some quick responses to the contrary-to-duty paradox. There are at least three types of replies of this kind: (1) We can reject some axiom schemata or rules of inference in Standard Deontic Logic that are necessary to derive our contradiction. (2) We can try to find some alternative formalisation of N-CTD in monadic deontic logic. (3) We can bite the bullet and reject some of the original intuitions that seem to generate the paradox in the first place.
+Few people endorse any of these solutions. Still, it is interesting to say a few words about them since they reveal some of the problems with finding an adequate symbolisation of contrary-to-duty obligations. If possible, we want to be able to solve these problems.
+One way of avoiding the contrary-to-duty paradox in monomodal deontic systems is to give up the axiom D, ￢(OA ∧ O￢A) (‘It is not the case that it is obligatory that A and obligatory that not-A’). Without this axiom (or something equivalent), it is no longer possible to derive a contradiction from SDL1−SDL4. In the so-called smallest normal deontic system K (Standard Deontic Logic without the axiom D), for instance, SDL-CTD is consistent. Some might think that there are independent reasons for rejecting D since they think there are, or could be, genuine moral dilemmas. Yet, even if this were true (which is debatable), rejecting D does not seem to be a good solution to the contrary-to-duty paradox for several reasons.
+Firstly, even if we reject axiom D, it is problematic to assume that a dilemma follows from N-CTD. We can still derive the sentence Oa ∧ O￢a from SDL-CTD in every normal deontic system, which says that it is obligatory that you apologise and it is obligatory that you do not apologise. And this proposition does not seem to follow from N-CTD. Ideally, we want our solution to the paradox to be dilemma-free in the sense that it is not possible to derive any dilemma of the form OA ∧ O￢A from our symbolisation of N-CTD.
+Secondly, in every so-called normal deontic logic (even without the axiom D), we can derive the conclusion that everything is both obligatory and forbidden if there is at least one moral dilemma. This follows from the fact that FA (‘It is forbidden that A’) is equivalent to O￢A (‘It is obligatory that not-A’) and the fact that Oa ∧ O￢a entails Or for any r in every normal deontic system. This is clearly absurd. N-CTD does not seem to entail that everything is both obligatory and forbidden. Everything else equal, we want our solution to the contrary-to-duty paradox to avoid this consequence.
+Thirdly, such a solution still has problems with the so-called pragmatic oddity (see below, this section).
+In monomodal deontic logic, for instance Standard Deontic Logic, we can solve the contrary-to-duty paradox by finding some other formalisation of the sentences in N-CTD. Instead of SDL2 we can use k → O￢a and instead of SDL3 we can use O(￢k → a). Then we obtain three consistent alternative symbolisations of N-CTD. Nonetheless, these alternatives are not non-redundant (a set of sentences is non-redundant only if no member in the set follows from the rest). O(￢k → a) follows from Ok in every so-called normal deontic logic, including Standard Deontic Logic, and k → O￢a follows from ￢k by propositional logic. But, intuitively, N3 does not appear to follow from N1, and N2 does not appear to follow from N4. N-CTD seems to be non-redundant in that it seems to be the case that no member of this set is derivable from the others. Therefore, we want our symbolisation of N-CTD to be non-redundant.
+The so-called pragmatic oddity is a problem for many possible solutions to the contrary-to-duty paradox, including our original symbolisation in Standard Deontic Logic, that is, SDL-CTD, the same symbolisation in the smallest normal deontic system K, and the one that uses k → O￢a instead of O(k → ￢a). In every normal deontic logic (with or without the axiom D), it is possible to derive the following sentence from SDL-CTD: O(k ∧ a), which says that it is obligatory that you keep your promise and apologise (for not keeping your promise). Several solutions that use bimodal alethic-deontic logic or counterfactual deontic logic (see Section 2c) as well as Castañeda’s solution (see Section 2d), for instance, also have this problem. The sentence O(k ∧ a) is not inconsistent, but it is certainly very odd, and it does not appear to follow from N-CTD that you should keep your promise and apologise. Hence, we do not want our formalisation of N-CTD to entail this counterintuitive conclusion or anything similar to it.
+One final quick solution is to reject some intuition. The set of sentences N-CTD in natural language certainly seems to be consistent and non-redundant, it seems to be dilemma-free, and it does not seem to entail the pragmatic oddity or the proposition that everything is both obligatory and forbidden. One possible solution to the contrary-to-duty paradox, then, obviously, is to reject some of these intuitions about this set. If it is not consistent and non-redundant, for instance, there is nothing puzzling about the fact that our set of formalised sentences (for example SDL-CTD) lack one or both of these properties. In fact, if this is the case, the symbolisation should be inconsistent and/or redundant.
+The problem with this solution is, of course, that our intuitions seem reliable. N-CTD clearly seems to be consistent, non-redundant, and so forth. And we do not appear to have any independent reasons for rejecting these intuitions. It might be the case that sometimes when we use contrary-to-duty talk, we really are inconsistent or non-redundant, for instance. Still, that does not mean that we are always inconsistent or non-redundant. If N-CTD or some other set of this kind is consistent, non-redundant, and so on, we cannot use this kind of solution to solve all contrary-to-duty paradoxes. Furthermore, it seems that we should not reject our intuitions if there is some better way to solve the contrary-to-duty paradox. So, let us turn to the other solutions. (For more information on quick solutions to the contrary-to-duty paradox, see Rönnedal (2012, pp. 67–98).)
+b. Operator Solutions
+We shall begin by considering the operator solution. The basic idea behind this kind of solution is that the contrary-to-duty paradox, in some sense, involves different kinds of obligations or different kinds of ‘ought-statements’. Solutions of this type have, for example, been discussed by Åqvist (1967), Jones and Pörn (1985), and Carmo and Jones (2002).
+In Standard Deontic Logic a formula of the form OA ∧ O￢A is derivable from SDL-CTD; but OA ∧ O￢A is not consistent with the axiom D. If, however, there are different kinds of obligations, symbolised by distinct obligation operators, it may be possible to formalise our contrary-to-duty scenarios so as to avoid a contradiction. Suppose, for example, that there are two obligation operators O1 and O2 that represent ideal and actual obligations, respectively. Then, it is possible that instead of Oa ∧ O￢a we may derive the formula O1￢a ∧ O2a from the symbolisation of our scenarios. But O1￢a ∧ O2a is not inconsistent with the axiom D; O1￢a ∧ O2a says that it is ‘ideally-obligatory’ that you do not apologise and it is ‘actually-obligatory’ that you apologise. If we cannot derive any other formula of the form OA ∧ O￢A, it is no longer possible to derive a contradiction from our formalisation. Furthermore, such a solution seems to be dilemma-free, and it does not seem to be possible to derive the conclusion that everything is both obligatory and forbidden from a set of sentences that introduces different kinds of obligations.
+An example: Carmo and Jones’s operator solution
+Perhaps the most sophisticated version of this kind of solution is presented by Carmo and Jones (2002). Let us now discuss their answer to the contrary-to-duty paradox to illustrate this basic approach. To understand their view, we must first explain some formal symbols. Carmo and Jones use a dyadic, conditional obligation operator O(…/…) to represent conditional obligations. Intuitively, ‘O(B/A)’ says that in any context in which A is a fixed or unalterable fact, it is obligatory that B, if this is possible. They use two kinds of monadic modal operators: □ and ◇, and □ and ◇. Intuitively, □ is intended to capture that which—in a particular situation—is actually fixed, or unalterable, given (among other factors) what the agents concerned have decided to do and not to do. So, □A says that it is fixed or unalterable that A. ◇ is the dual (possibility operator) of □. Intuitively, □ is intended to capture that which—in a particular situation—is not only actually fixed, but would still be fixed even if different decisions had been made, by the agents concerned, regarding how they were going to behave. So, □A says that it is necessary, fixed or unalterable that A, no matter what the agents concerned intend to do or not to do. ◇ is the dual (possibility operator) of □. They also introduce two kinds of derived obligation sentences, OaB and OiB, pertaining to actual obligations and ideal obligations, respectively. OaB is read ‘It is actually obligatory that B’ or ‘It actually ought to be the case that B’, and OiB is read ‘It is ideally obligatory that B’ or ‘It ideally ought to be the case that B’. T is (the constant) Verum; it is equivalent to some logically true sentence (such as, it is not the case that p and not-p). In short, we use the following symbols:
+O(B/A) In any context in which A is fixed, it is obligatory that B, if this is possible.
+OaB It is actually obligatory that B.
+OiB It is ideally obligatory that B.
+◇A It is actually possible that A.
+◇A It is potentially possible that A.
+□A It is not actually possible that not-A.
+□A It is not potentially possible that not-A.
+T Verum
+Before we consider Carmo and Jones’s actual solution to the contrary-to-duty paradoxes, let us say a few words about the formal properties of various sentences in their language. For more on the syntax and semantics of Carmo and Jones’s system, see Carmo and Jones (2002). □ (and ◇) is a normal modal operator of kind KT, and □ (and ◇) is a normal modal operator of kind KD (Chellas (1980)). □A is stronger than □A, and ◇A is stronger than ◇A. There is, according to Carmo and Jones, an intimate conceptual connection between the two notions of derived obligation, on the one hand, and the two notions of necessity/possibility. The system includes □(A ↔ B) → (OaA ↔ OaB) and □(A ↔ B) → (OiA ↔ OiB) for example. The system also contains the following restricted forms of so-called factual detachment: (O(B/A) ∧ □A ∧ ◇B ∧ ◇￢B) → OaB, and (O(B/A) ∧ □A ∧ ◇B ∧ ◇￢B) → OiB. We can now symbolise N-CTD in the following way:
+O-CTD
+O1 O(k/T)
+O2 O(￢a/k)
+O3 O(a/￢k)
+O4 ￢k
+We use the same propositional letters as in Section 1. Furthermore, we assume that the following ‘facts’ hold: □￢k, ◇(k ∧ ￢a), ◇(k ∧ a), ￢a ∧ ◇a ∧ ◇￢a. In other words, we assume that you decide not to keep your promise, but that it is potentially possible for you to keep your promise and not apologise and potentially possible for you to keep your promise and apologise, and that you have not in fact apologised, although it is still actually possible that you apologise and actually possible that you do not apologise. From this, we can derive the following sentences in Carmo and Jones’s system: Oi(k ∧ ￢a) and Oaa; that is, ideally it ought to be that you keep your promise (and help your friend) and do not apologise, but it is actually obligatory that you apologise. Furthermore, the obligation to keep your promise is violated and the ideal obligation to keep your promise and not apologise is also violated. Still, we cannot derive any contradiction. From Oi(k ∧ ￢a) we cannot derive any actual obligation not to apologise. Consequently, we can avoid the contrary-to-duty paradox.
+Arguments for Carmo and Jones’s operator solution
+According to Carmo and Jones, any adequate solution to the contrary-to-duty paradox should satisfy certain requirements. The representation of N-CTD (and similar sets of sentences) should be: (i) consistent, and (ii) non-redundant, in the sense that the formalisations of the members of N-CTD should be logically independent. The solution should be (iii) applicable to (at least apparently) action- and timeless contrary-to-duty examples (see Section 2d and Section 2e for some examples). (iv) The logical structures of the two conditional obligations in N-CTD (and similar sets of sentences) should be analogous. Furthermore, we should have (v) the capacity to derive actual and (vi) ideal obligations (from (the representation of) N-CTD), (vii) the capacity to represent the fact that a violation of an obligation has occurred, and (viii) the capacity to avoid the pragmatic oddity (see Section 2a above for a description of this problem). Finally, (ix) the assignment of logical form to a sentence in a contrary-to-duty scenario should be independent of the assignment of logical form to the other sentences. Carmo and Jones’s solution satisfies all of these requirements. This is a good reason to accept their approach. Nevertheless, there are also some serious problems with the suggested solution. We now consider two puzzles.
+Arguments against Carmo and Jones’s operator solution
+Even though Carmo and Jones’s operator solution is quite interesting, it has not generated much discussion. In this section, we consider two arguments against their solution that have not been mentioned in the literature.
+Argument 1. Carmo and Jones postulate several different unconditional operators. But ‘ought’ (and ‘obligatory’) does not seem to be ambiguous in the sense the solution suggests. The derived ‘ideal’ obligation to keep the promise and not to apologise does not seem to be of another kind than the derived ‘actual’ obligation to apologise. The ‘ideal’ obligation is an ordinary unconditional obligation to keep your promise and not apologise that holds as long as it is still possible for you to keep your promise and not apologise. And the ‘actual’ obligation is an ordinary unconditional obligation that becomes ‘actual’ as soon as it is settled that you will not keep your promise. Both obligations are unconditional and both obligations are action guiding. The ‘ought’ in the sentence ‘You ought to keep your promise and not apologise’ does not have another meaning than the ‘ought’ in the sentence ‘You ought to apologise’. The only difference between the obligations is that they are in force at different times. Or, at least, so it seems. Furthermore, if the conditional obligation sentences N2 and N3 should be symbolised in the same way, if they have the same logical form, as Carmo and Jones seem to think, it also seems reasonable to assume that the derived unconditional obligation sentences should be symbolised by the same kind of operator.
+Argument 2. Carmo and Jones speak about two kinds of obligations: actual obligations and ideal obligations. But it is unclear which of these, if either, they think is action guiding. We have the following alternatives:
+(i) Both actual and ideal obligations are action guiding.
+(ii) Neither actual nor ideal obligations are action guiding.
+(iii) Ideal but not actual obligations are action guiding.
+(iv) Actual but not ideal obligations are action guiding.
+Yet, all of these alternatives are problematic. It seems that (i) cannot be true. For in Carmo and Jones’s system, we can derive Oi(k ∧ ￢a) and Oaa from the symbolisation of N-CTD. Still, there is no possible world in which it is true both that you keep your promise and not apologise and that you apologise. How, then, can both actual and ideal obligations be action guiding? If we assume that neither actual nor ideal obligations are action guiding, we can avoid this problem, but then the value of Carmo and Jones’s solution is seriously limited. We want, in every situation, to know what we (actually) ‘ought to do’ in a sense of ‘ought to do’ that is action guiding. Nevertheless, according to (ii), neither ideal nor actual obligations are action guiding. In this reading of the text, Carmo and Jones’s system cannot give us any guidance; it does not tell us what we ‘ought to do’ in what seems to be the most interesting sense of this expression. True, the solution does say something about ideal and actual obligations, but why should we care about that? So, (ii) does not appear to be defensible. If it is the ideal and not the actual obligations that are supposed to be action guiding, it is unclear what the purpose of speaking about ‘actual’ obligations is. If actual obligations are supposed to have no influence on our behaviour, they seem to be redundant and serve no function. Moreover, if this is true, why should we call obligations of this kind ‘actual’? Hence, (iii) does not appear to be true either. The only reasonable alternative, therefore, seems to be to assume that it is the actual and not the ideal obligations that are action guiding. Yet, this assumption is also problematic, since it has some counterintuitive consequences. If you form the intention not to keep your promise, if you decide not to help your friend, your actual obligation is to apologise, according to Carmo and Jones. You have an ideal obligation to keep your promise and not apologise, but this obligation is not action guiding. So, it is not the case that you ought to keep your promise and not apologise in a sense that is supposed to have any influence on your behaviour. However, intuitively, it seems to be true that you ought to keep your promise and not apologise as long as you still can keep your promise; as long as this is still (potentially) possible, this seems to be your ‘actual’ obligation, the obligation that is action guiding. As long as you can help your friend (and not apologise), you do not seem to have an actual (action-guiding) obligation to apologise. The fact that you have decided not to keep your promise does not take away your (actual, action-guiding) obligation to keep your promise (and not apologise); you can still change your mind. We cannot avoid our obligations just by forming the intention not to fulfil them. This would make it too easy to get rid of one’s obligations. Consequently, it seems that (iv) is not true either. And if this is the case, Carmo and Jones’s solution is in deep trouble, despite its many real virtues.
+c. Connective Solutions
+We turn now to our second category of solutions to the contrary-to-duty paradox. In Section 1, we interpreted the English construction ‘if, then’ as material implication. But there are many other possible readings of this expression. According to the connective solutions to the contrary-to-duty paradox, ‘if, then’ should be interpreted in some other way, not as a material implication. The category includes at least four subcategories: (1) the modal (or strict implication) solution according to which ‘if, then’ should be interpreted as strict or necessary implication; (2) the counterfactual (or subjunctive) solution according to which ‘if, then’ should be interpreted as some kind of subjunctive or counterfactual conditional; (3) the non-monotonic solution according to which we should use some kind of non-monotonic logic to symbolise the expression ‘if, then’; and (4) the (primitive) dyadic deontic solution according to which we should develop a new kind of dyadic deontic logic with a primitive, two-place sentential operator that can be used to symbolise conditional norms.
+According to the first solution, which we call the modal solution, ‘if, then’ should be interpreted as strict, that is, necessary implication, not as material implication. N2 should, for example, be symbolised in the following way: k => O￢a (or perhaps as O(k => ￢a)), and N3 in the following way: ￢k => Oa (or perhaps as O(￢k => a)), where => stands for strict implication and the propositional letters are interpreted as in Section 1. A => B is logically equivalent to □(A → B) in most modal systems. □ is a sentential operator that takes one sentence as argument and gives one sentence as value. ‘□A’ says that it is necessary that A. The set {Ok, k => O￢a, ￢k => Oa, ￢k} is consistent in some alethic deontic systems (systems that combine deontic and modal logic). So, if we use this symbolisation, it might be possible to avoid the contrary-to-duty paradox. A solution of this kind is discussed by Mott (1973), even though Mott seems to prefer the counterfactual solution. For more on this kind of approach and for some problems with it, see Rönnedal (2012, pp. 99–102).
+According to the second solution, the counterfactual solution, the expression ‘if, then’ should be interpreted as some kind of counterfactual or subjunctive implication. Mott (1973) and Niles (1997), for example, seem to defend a solution of this kind, while Tomberlin (1981) and Decew (1981), for instance, criticise it. We say more about the counterfactual solution below (in this section).
+According to the third solution, the non-monotonic solution, we should use some kind of non-monotonic logic to symbolise the expression ‘if, then’. A solution of this kind has been discussed by Bonevac (1998). Bonevac introduces a new, non-monotonic, defeasible or generic conditional, >, a sentential operator that takes two sentences as arguments and gives one sentence as value. A > B is true in a possible world, w, if and only if B holds in all A-normal worlds relative to w. This conditional does not support ordinary modus ponens, that is, B does not follow from A and A > B. It only satisfies defeasible modus ponens, that B follows non-monotonically from A and A > B in the absence of contrary information. If we symbolise N2 as O(k > ￢a) (or perhaps as k > O￢a), and N3 as ￢k > Oa (and N1 and N4 as in SDL-CTD), we can no longer derive a contradiction from this set in Bonevac’s system. O￢a follows non-monotonically from Ok and O(k > ￢a), and Oa follows non-monotonically from ￢k and ￢k > Oa. But from {Ok, O(k > ￢a), ￢k > Oa, ￢k} we can only derive Oa non-monotonically. According to Bonevac, so-called factual detachment takes precedence over so-called deontic detachment. Hence, we can avoid the contrary-to-duty paradox.
+A potential problem with this kind of solution is that it is not obvious that it can explain the difference between violation and defeat. If you will not see your friend and help her out, the obligation to keep your promise will be violated. It is not the case that this obligation is defeated, overridden or cancelled. The same seems to be true of the derived obligation that you should not apologise. If you do apologise, the derived (unconditional) obligation that you should not apologise is violated. It is not the case that one of the conditional norms in N-CTD defeat or override the other. Nor is it the case that they cancel each other out. Or, at least, so it seems. Ideally, we want our solution to reflect the idea that the primary obligation in a contrary-to-duty paradox has been violated and not defeated. Likewise, we want to be able to express the idea that the derived unconditional obligation not to apologise has been violated if you apologise. However, according to Bonevac, we cannot derive O￢a from {Ok, O(k > ￢a), ￢k > Oa, ￢k}, not even non-monotonically. This approach to the contrary-to-duty paradoxes does not appear to have generated that much discussion. But the non-monotonic paradigm is interesting and Bonevac’s paper provides a fresh view on the paradox.
+According to the fourth solution, the (pure) dyadic deontic solution, we should develop a new kind of dyadic deontic logic with a primitive, two-place sentential operator that can be used to symbolise conditional norms. Sometimes O(B/A) is used to symbolise such norms, sometimes O[A]B, and sometimes AOB. Here we use the following construction: O[A]B. ‘O[A]B’ is read ‘It is obligatory (or it ought to be the case) that B given A’. This has been one of the most popular solutions to the contrary-to-duty paradox and it has many attractive features. Nevertheless, we do not say anything more about it in this article, since we discuss a temporal version of the dyadic deontic solution in Section 2e. For more on this kind of approach and for some problems with it, see Åqvist (1984, 1987, 2002) and Rönnedal (2012, pp. 112–118). For more on dyadic deontic logic, see Rescher (1958), von Wright (1964), Danielsson (1968), Hansson (1969), van Fraassen (1972, 1973), Lewis (1974), von Kutschera (1974), Greenspan (1975), Cox (Al-Hibri) (1978), and van der Torre and Tan (1999). Semantic tableau systems for dyadic deontic logic are developed by Rönnedal (2009).
+ An example: The counterfactual solution
+We now consider the counterfactual solution to the contrary-to-duty paradox and some arguments for and against this approach. Mott (1973) and Niles (1997), for example, are sympathetic to this kind of view, while Tomberlin (1981) and Decew (1981), for instance, criticise it. Some of the arguments in this section have previously been discussed in Rönnedal (2012, pp. 102–106). For more on combining counterfactual logic and deontic logic, see the Appendix, Section 7, in Rönnedal (2012), Rönnedal (2016) and Rönnedal (2019); the tableau systems that are used in this section are described in those works.
+In a counterfactual deontic system, a system that combines counterfactual logic and deontic logic, we can symbolise the concept of a conditional obligation in at least four interesting ways: (A □→ OB), O(A □→ B), (A □⇒ OB) and O(A □⇒ B). □→ (and □⇒) is a two-place, sentential operator that takes two sentences as arguments and gives one sentence as value. ‘A □→ B’ (and ‘A □⇒ B’) is often read ‘If A were the case, then B would be the case’. (The differences between □→ and □⇒ are unimportant in this context and as such we focus on □→.) So, maybe we can use some of these formulas to symbolise contrary-to-duty obligation sentences and avoid the contrary-to-duty paradox. Let us now consider one possible formalisation of N-CTD that seems to be among the most plausible in counterfactual deontic logic. In the discussion of Argument 2 in this section (see below), we consider two more attempts.
+CF-CTD
+CF1 Ok
+CF2 k □→ O￢a
+CF3 ￢k □→ Oa
+CF4 ￢k
+Let CF-CTD = {CF1, CF2, CF3, CF4}. From CF3 and CF4 we can deduce Oa, but it is not possible to derive O￢a from CF1 and CF2, at least not in most reasonable counterfactual deontic systems. Hence, we cannot derive a contradiction in this way.
+Arguments for the counterfactual solution
+This solution to the contrary-to-duty paradox is attractive for many reasons. (1) CF-CTD is consistent, as we already have seen. (2) The set is non-redundant. CF3 does not seem to be derivable from CF1, and CF2 does not seem to be derivable from CF4 in any interesting counterfactual deontic logic. (3) The set is dilemma-free. We cannot derive Oa ∧ O￢a from CF-CTD, nor anything else of the form OA ∧ O￢A. (4) We cannot derive the proposition that everything is both obligatory and forbidden from CF-CTD. (5) We can easily express the idea that the primary obligation to keep the promise has been violated in counterfactual deontic logic. This is just the conjunction of CF1 and CF4. (6) All conditional obligations can be symbolised in the same way. CF2 has the same logical form as CF3. (7) We do not have to postulate several different kinds of unconditional obligations. The unconditional obligation to keep the promise is the same kind of obligation as the derived unconditional obligation to apologise. This is a problem for Carmo and Jones’s operator solution (Section 1 above). (8) The counterfactual solution can take care of apparently actionless contrary-to-duty paradoxes. Such paradoxes are a problem for the action or agent solutions (see Section 2d). (9) The counterfactual solution can perhaps take care of apparently timeless contrary-to-duty paradoxes. Such paradoxes are a problem for the temporal solution (see Section 2e). (Whether or not this argument is successful is debatable.) (10) From CF3 and CF4 we can derive the formula Oa, which says that you should apologise, and, intuitively, it seems that this proposition follows from N3 and N4 (at least in some contexts). (11) In counterfactual deontic logic a conditional obligation can be expressed by a combination of a counterfactual conditional and an ordinary (unconditional) obligation. We do not have to introduce any new primitive dyadic deontic operators. According to the dyadic and temporal dyadic deontic solutions (see above in this section and Section 2e below), we need some new primitive dyadic deontic operator to express conditional obligations.
+Hence, the counterfactual solution to the contrary-to-duty paradox seems to be among the most plausible so far suggested in the literature. Nonetheless, it also has some serious problems. We now consider four arguments against this solution. For more on some problems, see Decew (1981) and Tomberlin (1981), and for some responses, see Niles (1997).
+Arguments against the counterfactual solution
+Argument 1. The symbol □→ has often been taken to represent conditional sentences in the subjunctive, not in the indicative form. That is, A □→ B is read ‘If it were the case that A, then it would be the case that B’, not ‘If A is the case, then B is the case’ (or ‘If A, then B’). So, the correct reading of k □→ O￢a seems to be ‘If you were to keep your promise, then it would be obligatory that you do not apologise’, and the correct reading of ￢k □→ Oa seems to be ‘If you were not to keep your promise, then it would be obligatory that you apologise’. If this is true, the formal sentences CF2 and CF3 do not correctly reflect the meaning of the English sentences N2 and N3, because the English sentences are not in the subjunctive form.
+Here is a possible response to this argument. A □→ B might perhaps be used to symbolize indicative conditionals and not only subjunctive conditionals, and if this is the case, we can avoid this problem. Furthermore, maybe the formulation in natural language is not satisfactory. Maybe the English sentences in N-CTD are more naturally formulated in the subjunctive form. So, ‘It ought to be that if you keep your promise, you do not apologise’ is taken to mean the same thing as ‘If you were to keep your promise, then it would be obligatory that you do not apologise’; and ‘If you do not keep your promise, you ought to apologise’ is taken to say the same thing as ‘If you were not to keep your promise, then it would be obligatory that you apologise’. And if this is the case, the symbolisations might very well be reasonable. To decide whether this is the case or not, it seems that we have to do much more than just look at the surface structure of the relevant sentences. So, this argument—while interesting—does not seem to be conclusive.
+Argument 2. In counterfactual deontic logic, N2 can be interpreted in (at least) two ways: k □→ O￢a (CF2) or O(k □→ ￢a) (CF2(b)). Faced with the choice between two plausible formalisations of a certain statement, we ought to choose the stronger one. CF2(b) is stronger than CF2. So, N2 should be symbolized by CF2(b) and not by CF2. Furthermore, CF2(b) corresponds better with the surface structure of N2 than CF2; in N2 the expression ‘It ought to be that’ has a wide and not a narrow scope. This means that N-CTD should be symbolized in the following way:
+C2F-CTD
+CF1 Ok
+CF2(b) O(k □→ ￢a)
+CF3 ￢k □→ Oa
+CF4 ￢k
+Let C2F-CTD = {CF1, CF2(b), CF3, CF4}. Yet, in this reading, the paradox is reinstated, for C2F-CTD is inconsistent in most plausible counterfactual deontic systems. (An argument of this kind against a similar contrary-to-duty paradox can be found in Tomberlin (1981).) Let us now prove this. (In the proofs below, we use some semantic tableau systems that are described in the Appendix, Section 7, in Rönnedal (2012); temporal versions of these systems can be found in Rönnedal (2016). All rules that are used in our deductions are explained in these works.) First, we establish a derived rule, rule DR8, which is used in our proofs. This rule is admissible in any counterfactual (deontic) system that contains the tableau rule Tc5.
+Derivation of DR8.
+(1) A □→ B, i
+↙                           ↘
+(2) ￢(A → B), i [CUT]          (3) A → B, i [CUT]
+(4) A, i [2, ￢→]
+(5) ￢B, i [2, ￢→]
+(6) irAi [4, Tc5]
+(7) B, i [1, 6, □→]
+(8) * [5, 7]
+Now we are in a position to prove that C2F-CTD is inconsistent. To prove that a set of sentences A1, A2, …, An is inconsistent in a tableau system S, we construct an S-tableau which begins with every sentence in this set suffixed in an appropriate way, such as A1, 0, A2, 0, …, An, 0. If this tableau is closed, that is, if every branch in it is closed, the set is inconsistent in S. (‘MP’ stands for the derived tableau rule Modus Ponens.)
+(1) Ok, 0
+(2) O(k □→ ￢a), 0
+(3) ￢k □→ Oa, 0
+(4) ￢k, 0
+(5) ￢k → Oa, 0 [3, DR8]
+(6) Oa, 0 [4, 5, MP]
+(7) 0s1 [T − dD]
+(8) k, 1 [1, 7, O]
+(9) k □→ ￢a, 1 [2, 7, O]
+(10) a, 1 [6, 7, O]
+(11) k → ￢a, 1 [9, DR8]
+(12) ￢a, 1 [8, 11, MP]
+(13) * [10, 12]
+So, the counterfactual solution is perhaps not so plausible after all. Nevertheless, this argument against this solution is problematic for at least two different reasons.
+(i) It is not clear in what sense CF2(b) is ‘stronger’ than CF2. Tomberlin does not explicitly discuss what he means by this expression in this context. Usually one says that a formula A is (logically) stronger than a formula B in a system S if and only if A entails B but B does not entail A in S. In this sense, CF2(b) does not seem to be stronger than CF2 in any interesting counterfactual deontic logic. But perhaps one can understand ‘stronger’ in some other sense in this argument. CF2(b) is perhaps not logically stronger than CF2, but it is a more natural interpretation of N2 than CF2. Recall that N2 says that it ought to be that if you keep your promise, then you do not apologise. This suggests that the correct symbolisation of N2 is O(k □→ ￢a), not k □→ O￢a; in other words, the O-operator should have a wide and not a narrow scope.
+(ii) Let us grant that O(k □→ ￢a) is stronger than k □→ O￢a in the sense that the former is more natural than the latter. Furthermore, it is plausible to assume that if two interpretations of a sentence are reasonable one should choose the stronger or more natural one (as a pragmatic rule and ceteris paribus). Hence, CF2 should be symbolised as O(k □→ ￢a) and not as k □→ O￢a. Here is a possible counterargument. Both O(k □→ ￢a) and k □→ O￢a are reasonable interpretations of N2. So, ceteris paribus we ought to choose O(k □→ ￢a). But if we choose O(k □→ ￢a) the resulting set C2F-CTD is inconsistent. Thus, in this case, we cannot (or should not) choose O(k □→ ￢a) as a symbolisation of N2. We should instead choose the narrow scope interpretation k □→ O￢a. Furthermore, it is not obvious that N2 says something other than the following sentence: ‘If you keep your promise, it ought to be the case that you do not apologise’ (N2b). And here k □→ O￢a seems to be a more natural symbolisation. Even if N2 and N2b are not equivalent, N2b might perhaps express our original idea better than N2. Consequently, this argument does not seem to be conclusive. However, it does seem to show that C2F-CTD is not a plausible solution to the contrary-to-duty paradox.
+What happens if we try some other formalisation of N3? Can we avoid this problem then? Let us consider one more attempt to symbolize N-CTD in counterfactual deontic logic.
+C3F-CTD
+CF1 Ok
+CF2(b) O(k □→ ￢a)
+CF3(b) O(￢k □→ a)
+CF4 ￢k
+Let C3F-CTD = {CF1, CF2(b), CF3(b), CF4}. In this set N3 is once more represented by a sentence where the O-operator has wide scope. From this set we can derive O￢a from CF1 and CF2(b), but not Oa from CF3(b) and CF4. The set is not inconsistent.
+Yet, this solution is problematic for another reason. All of the following sentences seem to be true: O(k □→ ￢a), k □→ O￢a, ￢k □→ Oa, but O(￢k □→ a) seems false. According to the standard truth-conditions for counterfactuals, A □→ B is true in a possible world w if and only if B is true in every possible world that is as close as (as similar as) possible to w in which A is true; and OA is true in a possible world w if and only if A is true in every possible world that is deontically accessible from w. If we think of the truth-conditions in this way, O(￢k □→ a) is true in w (our world) if and only if ￢k □→ a is true in all ideal worlds (in all possible worlds that are deontically accessible from w), that is, if and only if: in every ideal world w’ deontically accessible from w, a is true in all the worlds that are as close to w’ as possible in which ￢k is true. But in all ideal worlds you keep your promise, and in all ideal worlds, if you keep your promise, you do not apologise. From this it follows that in all ideal worlds you do not apologise. Accordingly, in all ideal worlds you keep your promise and do not apologise. Take an ideal world, say w’. In the closest ￢k world(s) to w’, ￢a seems to be true (since ￢a is true in w’). If this is correct, ￢k and ￢a is true in one of the closest ￢k worlds to w’. So, ￢k □→ a is not true in w’. Hence, O(￢k □→ a) is not true in w (in our world). In conclusion, if this argument is sound, we cannot avoid the contrary-to-duty paradox by using the symbolisation C3F-CTD.
+Argument 3. We turn now to the pragmatic oddity. We have mentioned that this is a problem for some quick solutions and for the modal solution. It is also a problem for the counterfactual solution. In every counterfactual deontic system that includes the tableau rule Tc5 (see Rönnedal (2012, p. 160)), and hence the schema (A □→ B) → (A → B), the sentence O(k ∧ a) is derivable from CF-CTD. This is odd since it does not seem to follow that it ought to be that you keep your promise and apologise (for not keeping your promise) from N-CTD and since it seems that (A □→ B) → (A → B) should hold in every reasonable counterfactual logic. The following semantic tableau shows that O(k ∧ a) is derivable from CF-CTD (in most counterfactual deontic systems).
+(1) Ok, 0
+(2) k □→ O￢a, 0
+(3) ￢k □→ Oa, 0
+(4) ￢k, 0
+(5) ￢O(k ∧ a), 0
+(6) P￢(k ∧ a), 0 [5, ￢O]
+(7) 0s1 [6, P]
+(8) ￢(k ∧ a), 1 [6, P]
+(9) k, 1 [1, 7, O]
+(10) ￢k → Oa, 0 [3, DR8]
+↙                           ↘
+(11) ￢￢k, 0 [10, →]                           (12) Oa, 0 [10, →]
+(13) * [4, 11]                                           (14) a, 1 [12, 7, O]
+ ↙                           ↘
+(15) ￢k, 1 [8, ￢∧]            (16) ￢a, 1 [8, ￢∧]
+(17) * [9, 15]                         (18) * [14, 16]
+Argument 4. According to the counterfactual solution, so-called factual detachment holds unrestrictedly, that is, OB always follows from A and A □→ OB. This view is criticised by Decew (1981). From the proposition that I will not keep my promise and the proposition that if I will not keep my promise I ought to apologise, it does not follow that I ought to apologise. For as long as I still can keep my promise I ought to keep it, and if I keep it, then I should not apologise. According to Decew, it is not enough that a condition is true, it must be ‘unalterable’ or ‘settled’ before we are justified in detaching the unconditional obligation. See also Greenspan (1975). If this is correct, the counterfactual solution cannot, in itself, solve all contrary-to-duty paradoxes.
+d. Action or Agent Solutions
+Now, let us turn to the action or agent solutions. A common idea behind most of these solutions is that we should make a distinction between what is obligatory, actions or so-called practitions, and the circumstances of obligations. We should combine deontic logic with some kind of action logic or dynamic logic. And when we do this, we can avoid the contrary-to-duty paradox. Three subcategories deserve to be mentioned: (1) Castañeda’s solution, (2) the Stit solution, and (3) the dynamic deontic solution.
+Castañeda has developed a unique approach to deontic logic. According to him, any useful deontic calculus must contain two types of sentences even at the purely sentential level. One type is used to symbolise the indicative clauses—that speak about the conditions and not the actions that are considered obligatory—in a conditional obligation, and the other type is used to symbolise the infinitive clauses that speak about the actions that are considered obligatory and not the conditions. Castañeda thinks that the indicative components, but not the infinitive ones, allow a form of (internal) modus ponens. From N3 and N4 we can derive the conclusion that you ought to apologise, but from N1 and N2 we cannot derive the conclusion that you ought not to apologise. Hence, we avoid the contradiction. For more on this approach, see, for instance, Castañeda (1981). For a summary of some arguments against Castañeda’s solution, see Carmo and Jones (2002); see also Powers (1967).
+According to the Stit solution, deontic logic should be combined with some kind of Stit (Seeing to it) logic. However, Stit logic is often combined with temporal logic. So, this approach can also be classified as a temporal solution. We say a few more words about this kind of view in Section 2e.
+To illustrate this type of solution to the contrary-to-duty paradox, let us now discuss the dynamic deontic solution and some problems with this particular way of solving the puzzle.
+ An example: The dynamic deontic solution
+According to the dynamic deontic proposal, we can solve the contrary-to-duty paradox if we combine deontic logic with dynamic logic. A view of this kind is suggested by Meyer (1988), which includes a dynamic deontic system. We will now consider this solution and some arguments for and against it. Dynamic deontic logic is concerned with what we ought to do rather than with what ought to be, and the sentences in N-CTD should be interpreted as telling us what you ought to do. The solution is criticised by Anglberger (2008).
+Dynamic deontic logic introduces some new notions: α stands for some action, the formula [α]A denotes that performance of the action α (necessarily) leads to a state (or states) where A holds, where A is any sentence and [α] is similar to an ordinary necessity-like modal operator (the so-called box). The truth-conditions of [α]A are as follows: [α]A is true in a possible world w if and only if all possible worlds w’ with Rα(w, w’) satisfy A. Rα is an accessibility relation Rα ⊆ W ⨯ W associated with α, where W is the set of possible worlds or states. Rα(w, w’) says that from w one (can) get into state w’ by performing α. Fα, to be read ‘the action α is forbidden’, can be defined as Fα ↔ [α]V (call this equivalence Def F; ↔ is ordinary material equivalence), where V is a special atomic formula denoting violation, in other words, that some action is forbidden if and only if doing the action leads to a state of violation. Oα, to be read ‘the action α is obligatory’ or ‘it is obligatory to perform the action α’, can now be defined as Oα ↔ F(-α) (call this equivalence Def O), where ‐α stands for the non-performance of α. Two further formulas should be explained: α ; β stands for ‘the performance of α followed by β’, and α & β stands for ‘the performance of α and β (simultaneously)’.
+The first three sentences in N-CTD can now be formalised in the following way in dynamic deontic logic:
+DDLF-CTD
+DDLF1 Oα
+DDLF2 [α]O‐β
+DDLF3 [‐α]Oβ
+Let DDLF-CTD = {Oα, [α]O‐β, [‐α]Oβ}, where α stands for the act of keeping your promise (and helping your friend) and β for the act of apologising. In dynamic deontic logic, it is not possible to represent (the dynamic version of) N4, which states that the act of keeping your promise is not performed. This should perhaps make one wonder whether the formalisation is adequate (see Argument 1 below in this section). Yet, if we accept this fact, we can see that the representation solves the contrary-to-duty paradox. From DDLF-CTD it is not possible to derive a contradiction. So, in dynamic deontic logic we can solve the contrary-to-duty paradox.
+Arguments for the dynamic solution
+Meyer’s system is interesting and there seem to be independent reasons to want to combine deontic logic with some kind of action logic or dynamic logic. The symbolisations of the sentences in N-CTD seem intuitively plausible. DDLF-CTD is consistent; the set is dilemma-free and we cannot derive the proposition that everything is both obligatory and forbidden from it. We can assign formal sentences with analogous structures to all conditional obligations in N-CTD. We do not have to postulate several different types of unconditional obligations. Furthermore, from DDLF-CTD it is possible to derive O(α ; ‐β) ∧ [‐α](V ∧ Oβ), which says that it is obligatory to perform the sequence α (keeping your promise) followed by ‐β (not-apologising), and if α has not been done (that is, if you do not keep your promise), one is in a state of violation and it is obligatory to do β; that is, it is obligatory to apologise. This conclusion is intuitively plausible. Nevertheless, there are also some potential and quite serious problems with this kind of solution.
+Arguments against the dynamic solution
+We consider four arguments against the dynamic solution to the contrary-to-duty paradox in this section. Versions of the second and the third can be found in Anglberger (2008). However, as far as we know, Argument 1 and Argument 4 have not been discussed in the literature before. According to the first argument, we cannot symbolise all premises in dynamic deontic logic, which is unsatisfactory. If we try to avoid this problem, we run into the pragmatic oddity once again. According to the second argument, the dynamic formalisations of the contrary-to-duty sets are not non-redundant. According to the third, it is provable in Meyer’s system PDeL + ￢O(α & ‐α) that no possible action is forbidden, which is clearly implausible. ‘￢O(α & ‐α)’ says that it is not obligatory to perform α and non-α. According to the fourth argument, there seem to be action- and/or agentless contrary-to-duty paradoxes, which seem impossible to solve in dynamic deontic logic.
+Argument 1. We cannot symbolise all sentences in N-CTD in dynamic deontic logic; there is no plausible formalisation of N4. This is quite problematic. If the sentence N4 cannot be represented in dynamic deontic logic, how can we then claim that we have solved the paradox? Meyer suggests adding a predicate DONE that attaches to action names (Meyer (1988)). Then, DONE(α) says that action α has been performed. If we add this predicate, we can symbolise all sentences in N-CTD. Sentence N4 is rendered DONE(-α). Meyer appears to think that (DONE(α)→A) is derivable from [α]A. This seems plausible. Still, if we assume this, we can deduce a dynamic counterpart of the pragmatic oddity from our contrary-to-duty sets. To prove this, we use a lemma, Lemma 1, that is a theorem in dynamic deontic logic. α and β are interpreted as above.
+Lemma 1. O(α & β) ↔ (Oα ∧ Oβ) [Theorem 19 in Meyer (1988)]
+
+
+
+1. Oα  
+N1
+
+
+2. [α]O‐β  
+N2
+
+
+3. [-α]Oβ
+N3
+
+
+4. DONE(-α)
+N4
+
+
+5. [-α]Oβ : (DONE(-α) → Oβ)
+Property of DONE
+
+
+6. DONE(-α) → Oβ
+3, 5
+
+
+7. Oβ
+4, 6
+
+
+8. Oα ∧ Oβ
+1, 7
+
+
+9. O(α & β) ↔ (Oα ∧ Oβ)
+Instance of Lemma 1
+
+
+10. O(α & β)
+8, 9
+
+
+
+But the conclusion 10 in this argument says that it is obligatory that you perform the act of keeping your promise and the act of apologising (for not keeping your promise), and this is counterintuitive.
+Argument 2. Recall that the first three sentences in N-CTD are symbolized in the following way: DDLF1 Oα, DDLF2 [α]O‐β, and DDLF3 [-α]Oβ. We will show that we can derive DDLF3 from DDLF1. It follows that the formalisation of N-CTD in dynamic deontic logic is not non-redundant. This is our second argument. The rules that are used in the proofs below are mentioned by Meyer (1988).
+Lemma 2 Fα → F(α & β) [Theorem 16 in Meyer (1988)]
+Lemma 3 α ; β = α & -(α ; ‐β)
+
+
+
+1. α & -(α ; ‐β) = ‐ ‐α & -(α ; ‐β)
+[Act‐ ‐]
+
+
+2. ‐ ‐α & -(α ; ‐β) = -(-α ∪ (α ; ‐β)) 
+[Act-∪]
+
+
+3. -(-α ∪ (α ; ‐β)) = ‐ ‐(α ; β)
+[Act-;]
+
+
+4. ‐ ‐(α ; β) = α ; β
+[Act‐ ‐]
+
+
+5. α & -(α ; ‐β) = α ; β
+[1–4]
+
+
+
+Lemma 4 Fα → F(α ; β)
+
+
+
+1. Fα → F(α & β)
+Lemma 2
+
+
+2. Fα → F(α & -(α ; ‐β))
+-(α ; ‐β)/β
+
+
+3. Fα → F(α ; β)
+2, Lemma 3
+
+
+
+Lemma 5 Fα → [α]Fβ
+
+
+
+1. Fα → F(α; β)
+Lemma 4
+
+
+2. [α]V → [α; β]V
+1, Def F
+
+
+3. [α]V → [α][β]V
+2, (;)
+
+
+4. Fα → [α]Fβ
+3, Def F
+
+
+
+Oα is equivalent to F‐α and [‐α]Oβ to [‐α]F‐β. F‐α → [‐α]F‐β is an instance of Lemma 5. So, DDLF3 in DDLF-CTD is derivable from DDLF1. Consequently, DDLF-CTD is not non-redundant.
+Argument 3. Here is our third argument. This argument shows that if we add Axiom DD (￢O(α & ‐α)) to Meyer’s dynamic deontic logic PDeL, we can derive a sentence that, in effect, says that no possible action is forbidden. Axiom DD seems to be intuitively plausible, as it is a dynamic counterpart of the axiom D in Standard Deontic Logic that rules out moral dilemmas. Hence, this problem is quite serious. In the proof below, T is Verum and ⊥ is Falsum. T is equivalent to an arbitrary logical truth (for example, p or not-p) and ⊥ is equivalent to an arbitrary contradiction (for example, p and not-p). Obviously, T is equivalent to ￢⊥ and ⊥ is equivalent to ￢T. (Let us call these equivalences Def T and Def ⊥.) Furthermore, <α>β is equivalent to ￢[α]￢β (let us call this equivalence Def <>). So, <α> is similar to an ordinary possibility-like modal operator (the so-called diamond). []-nec (or N) is a fundamental rule in Meyer’s system. It says that if B is a theorem (in the system), then [α]B is also a theorem (in the system).
+Axiom DD ￢O(α & ‐α) [DD is called NCO in Meyer (1988)]
+Lemma 6 [α](A ∧ B) ↔ ([α]A ∧ [α]B) [Theorem 3 in Meyer (1988)]
+
+
+
+1. Fα → [α]F‐β
+Lemma 5 ‐β/β
+
+
+2. Fα → [α]F‐ ‐β
+Lemma 5 ‐ ‐β/β
+
+
+3. Fα → [α]Oβ
+1, Def O
+
+
+4. Fα → [α]O‐β
+2, Def O
+
+
+5. Fα → ([α]Oβ ∧ [α]O‐β)
+3, 4
+
+
+6. [α](Oβ ∧ O‐β) ↔ ([α]Oβ ∧ [α]O‐β)
+Lemma 6 Oβ/A, O‐β/B
+
+
+7. Fα → [α](Oβ ∧ O‐β)
+5, 6, Replacement
+
+
+8. O(β & ‐β) ↔ (Oβ ∧ O‐β)
+Lemma 1 β/α, ‐β/β
+
+
+9. Fα → [α]O(β & ‐β)
+7, 8
+
+
+10. ￢O(β & ‐β)
+Axiom DD β/α
+
+
+11. [α]￢O(β & ‐β)
+10, []‐nec
+
+
+12. Fα → ([α]O(β & ‐β) ∧ [α]￢O(β & ‐β))
+9, 11
+
+
+13. [α](O(β & ‐β) ∧ ￢O(β & ‐β))↔([α]O(β & ‐β) ∧ [α]￢O(β & ‐β))
+Lemma 6 O(β & ‐β)/A, ￢O(β & ‐β)/B
+
+
+14. Fα → [α](O(β & ‐β) ∧ ￢O(β & ‐β))
+12, 13
+
+
+15. Fα → [α]⊥
+14, Def ⊥
+
+
+16. (Fα ∧ <α>T) → ([α]⊥ ∧ <α>T)
+15
+
+
+17. <α>T ↔ ￢[α]⊥
+Def <>, Def T, ⊥
+
+
+18. (Fα ∧ <α>T) → ([α]⊥ ∧ ￢[α]⊥)
+16, 17
+
+
+19. ￢(Fα ∧ <α>T)
+18
+
+
+
+In effect, 19 claims that no possible action is forbidden. As Anglberger points out, Fα → [α]⊥ (line 15) seems implausible, but it can be true. If α is an impossible action, the consequent—and hence the whole sentence—is true. Nonetheless, if α is possible, α cannot be forbidden. <α>T says that α is possible, in the sense that there is a way to execute α that leads to a state in which T holds. Clearly 19 is implausible. Clearly, we want to be able to say that at least some possible action is forbidden. So, adding the intuitively plausible axiom DD to Meyer’s dynamic deontic logic PDeL is highly problematic.
+Argument 4. The last argument against the dynamic solution to the contrary-to-duty paradox that we discuss seems to be a problem for most action or agent solutions. At least it is a problem for both the dynamic solution and the solution that uses some kind of Stit logic. Several examples of such (apparently) action- and/or agentless contrary-to-duty paradoxes have been mentioned in the literature, such as in Prakken and Sergot (1996). Here we consider one introduced by Rönnedal (2018).
+Scenario II: Contrary-to-duty paradoxes involving (apparently) action- and/or agentless contrary-to-duty obligations (Rönnedal (2018))
+Consider the following scenario. At t1, you are about to get into your car and drive somewhere. Then at t1 it ought to be the case that the doors are closed at t2, when you are in your car. If the doors are not closed, then a warning light ought to appear on the car instrument panel (at t3, a point in time as soon as possible after t2). It ought to be that if the doors are closed (at t2), then it is not the case that a warning light appears on the car instrument panel (at t3). Furthermore, the doors are not closed (at t2 when you are in the car). In this example, all of the following sentences seem to be true:
+N2-CTD
+AN1 (At t1) The doors ought to be closed (at t2).
+AN2 (At t1) It ought to be that if the doors are closed (at t2), then it is not the case that a warning light appears on the car instrument panel (at t3).
+AN3 (At t1) If the doors are not closed (at t2) then a warning light ought to appear on the car instrument panel (at t3).
+AN4 (At t1 it is the case that at t2) The doors are not closed.
+N2-CTD is similar to N-CTD. In this set, AN1 expresses a primary obligation (or ought), and AN3 expresses a contrary-to-duty obligation. The condition in AN3 is satisfied only if the primary obligation expressed by AN1 is violated. But AN3 does not seem to tell us anything about what you or someone else ought to do, and it does not seem to involve any particular agent. AN3 appears to be an action- and agentless contrary-to-duty obligation. It tells us something about what ought to be the case if the world is not as it ought to be according to AN1. It does not seem to be possible to find any plausible symbolisations of N2-CTD and similar paradoxes in dynamic deontic logic or any Stit logic.
+Can someone who defends this kind of solution avoid this problem? Two strategies come to mind. One could argue that every kind of apparently action- and agentless contrary-to-duty paradox really involves some kind of action and agent when it is analysed properly. One could, for instance, claim that N2-CTD really includes an implicit agent. It is just that the agent is not a human being; the agent is the car or the warning system in the car. When analysed in detail, AN3 should be understood in the following way:
+AN3(b) (At t1) If the doors are not closed (at t2) then the car or the warning system in the car ought to see to it that a warning light appears on the car instrument panel (at t3).
+According to this response, one can always find some implicit agent and action in every apparently action- and/or agentless contrary-to-duty paradox. If this is the case, the problem might not be decisive for this kind of solution.
+According to the second strategy, we simply deny that genuinely action- and/or agentless obligations are meaningful. If, for example, the sentences in N2-CTD are genuinely actionless and agentless, then they are meaningless and we cannot derive a contradiction from them. Hence, the paradox is solved. If, however, we can show that they involve some kind of actions and some kind of agent or agents, we can use the first strategy to solve them.
+Whether any of these strategies is successful is, of course, debatable. There certainly seems to be genuinely action- and agentless obligations that are meaningful, and it seems prima facie unlikely that every apparently action- and agentless obligation can be reduced to an obligation that involves an action and an agent. Is it, for example, really plausible to think of the car or the warning system in the car as an acting agent that can have obligations? Does AN3 [(At t1) If the doors are not closed (at t2) then a warning light ought to appear on the car instrument panel (at t3)] say the same thing as AN3(b) [(At t1) If the doors are not closed (at t2) then the car or the warning system in the car ought to see to it that a warning light appears on the car instrument panel (at t3)]?
+e. Temporal Solutions
+In this section, we consider some temporal solutions to the contrary-to-duty paradox. The temporal approaches can be divided into three subcategories: (1) the pure temporal solution(s), (2) the temporal-action solution(s), and (3) the temporal dyadic deontic solution(s). All of these combine some kind of temporal logic with some kind of deontic logic. According to the temporal-action solutions, we should also add some kind of action logic to the other parts. Some of the first to construct systems that include both deontic and temporal elements were Montague (1968) and Chellas (1969).
+According to the pure temporal solutions, we should use systems that combine ordinary so-called monadic deontic logic with some kind of temporal logic (perhaps together with a modal part) when we symbolise our contrary-to-duty obligations. See Rönnedal (2012, pp. 106–112) for more on some pure temporal solutions and on some problems with such approaches.
+The idea of combining temporal logic, deontic logic and some kind of action logic has gained traction. A particularly interesting development is the so-called Stit (Seeing to it) paradigm. According to this paradigm, it is important to make a distinction between agentive and non-agentive sentences. A (deontic) Stit system is a system that includes one or several Stit (Seeing to it) operators that can be used to formalise various agentive sentences. The formula ‘[α: stit A]’ (‘[α: dstit A]’), for instance, says ‘agent α sees to it that A’ (‘agent α deliberately sees to it that A’). [α: (d)stit A] can be abbreviated as [α: A]. Some have argued that systems of this kind can be used to solve the contrary-to-duty paradox; see, for instance, Bartha (1993). According to the Stit approach, deontic constructions must take agentive sentences as complements; in a sentence of the form OA, A must be (or be equivalent to) a Stit sentence. A justification for this claim is, according to Bartha, that practical obligations, ‘ought to do’s’, should be connected to a specific action by a specific agent. The construction ‘agent α is obligated to see to it that A’ can now be defined in the following way: O[α: A] ⟺ L(￢[α: A] → S), where L says that ‘It is settled that’ and S says that ‘there is wrongdoing’ or ‘there is violation of the rules’ or something to that effect. Hence, α is obligated to see to it that A if and only if it is settled that if she does not see to it that A, then there is wrongdoing. In a logic of this kind, N-CTD can be symbolised in the following way: {O[α: k], O[α: [α: k] → [α:￢a]], O[α:￢[α: k] → [α: [α: a]]], ￢[α: k]}. And this set is consistent in Bartha’s system. For more on Stit logic and many relevant references, see Horty (2001), and Belnap, Perloff and Xu (2001).
+An example: The temporal dyadic deontic solution
+Here we consider, as an example of a temporal solution, the temporal dyadic deontic solution. We should perhaps not talk about ‘the’ temporal dyadic deontic solution, since there really are several different versions of this kind of view. However, let us focus on an example presented in Rönnedal (2018). What is common to all approaches of this kind is that they use some logical system that combines dyadic deontic logic with temporal logic to solve the contrary-to-duty paradox. Usually, the various systems also include a modal part with one or several necessity- and possibility-operators. Solutions of this kind are discussed by, for example, Åqvist (2003), van Eck (1982), Loewer and Belzer (1983), and Feldman (1986, 1990) (see also Åqvist and Hoepelman (1981) and Thomason (1981, 1981b)). Castañeda (1977) and Prakken and Sergot (1996) express some doubts about this kind of approach.
+We first describe how the contrary-to-duty paradox can be solved in temporal alethic dyadic deontic logic of the kind introduced by Rönnedal (2018). Then, we consider some reasons why this solution is attractive. We end by mentioning a potential problem with this solution. In temporal alethic dyadic deontic logic, N-CTD can be symbolised in the following way:
+F-CTD
+F1. Rt1O[T]Rt2k
+F2. Rt1O[Rt2k]Rt3￢a
+F3. Rt1O[Rt2￢k]Rt3a
+F4. Rt1Rt2￢k [⇔Rt2￢k]
+where k and a are interpreted as in SDL-CTD. R is a temporal operator; ‘Rt1A’ says that it is realised at time t1 (it is true on t1) that A, and so forth. t1 refers to the moment on Monday when you make your promise, t2 refers to the moment on Friday when you should keep your promise and t3 refers to the moment on Saturday when you should apologise if you do not keep your promise on Friday. O is a dyadic deontic sentential operator of the kind mentioned in Section 2c. ‘O[B]A’ says that it is obligatory that (it ought to be the case that) A given B. In dyadic deontic logic, an unconditional, monadic O-operator can be defined in terms of the dyadic deontic O-operator in the following way: OA =df O[T]A. According to this definition, it is unconditionally obligatory that A if and only if it is obligatory that A given Verum. All other symbols are interpreted as above. Accordingly, F1 is read as ‘It is true on Monday that you ought to keep your promise on Friday’. F2 is read as ‘It is true on Monday that it ought to be the case that you do not apologise on Saturday given that you keep your promise on Friday’. F3 is read as ‘It is true on Monday that it ought to be the case that you apologise on Saturday given that you do not keep your promise on Friday’. F4 is read as ‘It is true on Monday that it is true on Friday that you do not keep your promise’; in other words, ‘It is true on Friday that you do not keep your promise’. This rendering of N-CTD seems to be plausible.
+In temporal (alethic) dyadic deontic logic, truth is relativized to world-moment pairs. This means that a sentence can be true in one possible world w at a particular time t even though it is false in some other possible world, say w’, at this time (that is, at t) or false in this world (that is, in w) at another time, say t’. Some (but not all) sentences are temporally settled. A temporally settled sentence satisfies the following condition: if it is true (in a possible world), it is true at every moment of time (in this possible world); and if it is false (in a possible world), it is false at every moment of time (in this possible world). All the sentences F1−F4 are temporally settled; O[T]Rt2k, O[Rt2k]Rt3￢a and O[Rt2￢k]Rt3a are examples of sentences that are not, as their truth values may vary from one moment of time to another (in one and the same possible world).
+Rt1Rt2￢k is equivalent to Rt2￢k. For it is true on Monday that it is true on Friday that you do not keep your promise if and only if it is true on Friday that you do not keep your promise. Hence, from now on we use Rt2￢k as a symbolisation of N4. Note that it might be true on Monday that you will not keep your promise on Friday (in some possible world) even though this is not a settled fact—in other words, even though it is not historically necessary. In some possible worlds, you will keep your promise on Friday and in some possible worlds you will not. F4 is true at t1 (on Monday) in the possible worlds where you do not keep your promise at t2 (on Friday).
+Let F-CTD = {F1, F2, F3, F4}. F-CTD is consistent in most interesting temporal alethic dyadic deontic systems (see Rönnedal (2018) for a rigorous proof of this claim). Hence, we can solve the contrary-to-duty paradox in temporal alethic dyadic deontic logic.
+Arguments for the temporal alethic dyadic deontic solution
+We now consider some reasons why the temporal alethic dyadic deontic solution to the contrary-to-duty paradox is attractive. We first briefly mention some features; then, we discuss some reasons in more detail. (1) F-CTD is consistent. (2) F-CTD is non-redundant. (3) F-CTD is dilemma-free. (4) It is not possible to derive the proposition that everything is both obligatory and forbidden from F-CTD. (5) F-CTD avoids the so-called pragmatic oddity. (6) The solution in temporal alethic dyadic deontic logic is applicable to (at least apparently) action- and agentless contrary-to-duty examples. (7) We can assign formal sentences with analogous structures to all conditional obligations in N-CTD in temporal alethic dyadic deontic logic. (8) We can express the idea that an obligation has been violated, and (9) we can symbolise higher order contrary-to-duty obligations in temporal alethic dyadic deontic logic. (10) In temporal alethic dyadic deontic logic we can derive ‘ideal’ obligations, and (11) we can derive ‘actual’ obligations (in certain circumstances). (12) We can avoid the so-called dilemma of commitment and detachment in temporal alethic dyadic deontic logic. All of these reasons are discussed in Rönnedal (2018). Now let us say a few more words about some of them.
+Reason (I): F-CTD is dilemma-free. The solution in temporal alethic dyadic deontic logic is dilemma-free. The sentence Rt1O[T]Rt3￢a is derivable from F1 and F2 (in some systems) (see Reason V below) and from F3b and F4 we can deduce the formula Rt2O[T]Rt3a (in some systems under some circumstances) (see Reason VI below). Accordingly, we can derive the following sentence: Rt1O[T]Rt3￢a ∧ Rt2O[T]Rt3a (in certain systems). Rt1O[T]Rt3￢a says ‘On Monday [when you have not yet broken your promise] it ought to be the case that you do not apologise on Saturday’, and Rt2O[T]Rt3a says ‘On Friday [when you have broken your promise] it ought to be the case that you apologise on Saturday’. Despite this, O[T]Rt3a and O[T]Rt3￢a are not true at the same time. Neither Rt1O[T]Rt3￢a ∧ Rt1O[T]Rt3a nor Rt2O[T]Rt3￢a ∧ Rt2O[T]Rt3a is derivable from F-CTD in any interesting temporal alethic dyadic deontic system. Consequently, this is not a moral dilemma. Since N-CTD seems to be dilemma-free, we want our formalisation of N-CTD to be dilemma-free too; and F-CTD is, as we have seen, dilemma-free. This is one good reason to be attracted to the temporal alethic dyadic deontic solution.
+Reason (II): F-CTD avoids the so-called pragmatic oddity. Neither O[T](Rt2k ∧ Rt3a), Rt1O[T](Rt2k ∧ Rt3a) nor Rt2O[T](Rt2k ∧ Rt3a) is derivable from F-CTD in any interesting temporal alethic dyadic deontic system. Hence, we can avoid the pragmatic oddity (see Section 2a above).
+Reason (III): The solution in temporal alethic dyadic deontic logic is applicable to (at least apparently) actionless and agentless contrary-to-duty examples. In Section 2d, we considered an example of an (apparently) action- and agentless contrary-to-duty paradox. In temporal alethic dyadic deontic logic, it is easy to find plausible symbolisations of (apparently) action- and agentless contrary-to-duty obligations; the sentences in N2-CTD have the same logical form as the sentences in N-CTD. It follows that contrary-to-duty paradoxes of this kind can be solved in exactly the same way as we solved our original paradox.
+Reason (IV): We can assign formal sentences with analogous structures to all conditional obligations in N-CTD in temporal alethic dyadic deontic logic. According to some deontic logicians, a formalisation of N-CTD is adequate only if the formal sentences assigned to N2 and N3 have the same (or analogous) logical form (see Carmo and Jones (2002)). The temporal alethic dyadic deontic solution satisfies this requirement. Not all solutions do that. F2 and F3 have the ‘same’ logical form and they can both be formalised using dyadic obligation.
+Reason (V): We can derive ‘ideal’ obligations in temporal alethic dyadic deontic logic. N1 and N2 seem to entail that you ought not to apologise. Ideally you ought to keep your promise, and ideally it ought to be that if you keep your promise, then you do not apologise (for not keeping your promise). Accordingly, ideally you ought not to apologise. We want our formalisation of N-CTD to reflect this intuition. Rt1O[T]Rt3￢a is deducible from F1 (Rt1O[T]Rt2k) and F2 (Rt1O[Rt2k]Rt3￢a) in many temporal dyadic deontic systems. The tableau below proves this.
+We use two derived rules in our deduction. These are also used in our next semantic tableau (see Reason VI below). According to the first derived rule, DR1, we may add ￢A, wit to any open branch in a tree that includes ￢RtA, witj. This rule is deducible in every system. According to the second derived rule, DR2, we may add O[T](A → B), witj to any open branch in a tree that contains O[A]B, witj. DR2 can be derived in every system that includes the rules T − Dα0 and T − Dα2. (All other special rules that we use in our deductions are described by Rönnedal (2018).)
+(1) Rt1O[T]Rt2k, w0t0
+(2) Rt1O[Rt2k]Rt3￢a, w0t0
+(3) ￢Rt1O[T]Rt3￢a, w0t0
+(4) ￢O[T]Rt3￢a, w0t1 [3, DR1]
+(5) P[T]￢Rt3￢a, w0t1 [4, ￢O]
+(6) sTw0w1t1 [5, P]
+(7) ￢Rt3￢a, w1t1 [5, P]
+(8) ￢￢a, w1t3 [7, DR1]
+(9) O[T]Rt2k, w0t1 [1, Rt]
+(10) Rt2k, w1t1 [9, 6, O]
+(11) k, w1t2 [10, Rt]
+(12) O[Rt2k]Rt3￢a, w0t1 [2, Rt]
+(13) O[T](Rt2k → Rt3￢a), w0t1 [12, DR2]
+(14) Rt2k → Rt3￢a, w1t1 [13, 6, O]
+↙                           ↘
+(15) ￢Rt2k, w1t1 [14, →]                   (16) Rt3￢a, w1t1 [14, →]
+(17) ￢k, w1t2 [15, DR1]                     (18) ￢a, w1t3 [16, Rt]
+(19) * [11, 17]                                          (20) * [8, 18]
+Informally, Rt1O[T]Rt3￢a says that it is true at t1, that is, on Monday, that it ought to be the case that you will not apologise on Saturday when you meet your friend. For, ideally, you keep your promise on Friday. Yet, Rt2O[T]Rt3￢a does not follow from F1 and F2 (see Reason I above). On Friday, when you have broken your promise, and when it is no longer historically possible for you to keep your promise, then it is not obligatory that you do not apologise on Saturday. On Friday, it is obligatory that you apologise when you meet your friend on Saturday (see Reason VI). Nevertheless, it is plausible to claim that it is true on Monday that it ought to be the case that you do not apologise on Saturday. For on Monday it is not a settled fact that you will not keep your promise; on Monday, it is still possible for you to keep your promise, which you ought to do. These conclusions correspond well with our intuitions about Scenario I.
+According to the counterfactual solution (see Section 2c) to the contrary-to-duty paradoxes, we cannot derive any ‘ideal’ obligations of this kind. This is a potential problem for this solution.
+Reason (VI): We can derive ‘actual’ obligations in temporal alethic dyadic deontic logic (in certain circumstances). N3 and N4 appear to entail that you ought to apologise. Ideally you ought to keep your promise, but if you do not keep your promise, you ought to apologise. As a matter of fact, you do not keep your promise. It follows that you should apologise. We want our symbolisation of N-CTD to reflect this intuition. Therefore, let us assume that the conditional (contrary-to-duty) obligation expressed by N3 is still in force at time t2; in other words, we assume that the following sentence is true:
+F3b Rt2O[Rt2￢k]Rt3a.
+Informally, F3b says that it is true at t2 (on Friday) that if you do not keep your promise on Friday, you ought to apologise on Saturday. Rt2O[T]Rt3a is derivable from F4 (Rt2￢k) and F3b in every tableau system that includes T−Dα0, T−Dα2, T−DMO (the dyadic must-ought principle) and T−BT (backward transfer) (see Rönnedal (2018)). According to Rt2O[T]Rt3α, it is true at t2 (on Friday), when you have broken your promise to your friend, that it ought to be the case that you apologise to your friend on Saturday when you meet her.
+Note that Rt1O[T]Rt3a is not deducible from F3 (or F3b or F3 and F3b) and F4 (see Reason I). According to Rt1O[T]Rt3a, it is true at t1, on Monday, that you should apologise to you friend on Saturday when you meet her. However, on Monday it is not yet a settled fact that you will not keep your promise to your friend; on Monday it is still open to you to keep your promise. Accordingly, it is not true on Monday that you should apologise on Saturday. Since it is true on Monday that you ought to keep your promise, and it ought to be that if you keep your promise then you do not apologise, it follows that it is true on Monday that it ought to be the case that you do not apologise on Saturday (see Reason V). These facts correspond well with our intuitions about Scenario I.
+The following tableau proves that Rt2O[T]Rt3a is derivable from F3b and F4:
+(1) Rt2￢k, w0t0
+(2) Rt2O[Rt2￢k]Rt3a, w0t0
+(3) ￢Rt2O[T]Rt3a, w0t0
+(4) ￢O[T]Rt3a, w0t2 [3, DR1]
+(5) P[T]￢Rt3a, w0t2 [4, ￢O]
+(6) sTw0w1t2 [5, P]
+(7) ￢Rt3a, w1t2 [5, P]
+(8) ￢a, w1t3 [7, DR1]
+(9) rw0w1t2 [6, T − DMO]
+(10) ￢k, w0t2 [1, Rt]
+(11) O[Rt2￢k]Rt3a, w0t2 [2, Rt]
+(12) O[T](Rt2￢k → Rt3a), w0t2 [11, DR2]
+(13) Rt2￢k → Rt3a, w1t2 [6, 12, O]
+↙                           ↘
+(14) ￢Rt2￢k, w1t2 [13, →]               (15) Rt3a, w1t2 [13, →]
+(16) ￢￢k, w1t2 [14, DR1]                 (17) a, w1t3 [15, Rt]
+(18) k, w1t2 [16, ￢￢]                           (19) * [8, 17]
+(20) k, w0t2 [9, 18, T − BT]
+(21) * [10, 20]
+F3 and F3b are independent of each other (in most interesting temporal alethic dyadic deontic systems). Hence, one could argue that N3 should be symbolised by a conjunction of F3 and F3b. For we have assumed that the contrary-to-duty obligation to apologise, given that you do not keep your promise, is still in force at t2. It might be interesting to note that this does not affect the main results in this section. {F1, F2, F3, F3b, F4} is, for example, consistent, non-redundant, and so on. So, we can use such an alternative formalisation of N3 instead of F3. Moreover, note that the symbolisation of N2 can be modified in a similar way.
+Reason (VII): In temporal alethic dyadic deontic logic we can avoid the so-called dilemma of commitment and detachment. (Factual) Detachment is an inference pattern that allows us to infer or detach an unconditional obligation from a conditional obligation and this conditional obligation’s condition. Thus, if detachment holds for the conditional (contrary-to-duty) obligation that you should apologise if you do not keep your promise (if detachment is possible), and if you in fact do not keep your promise, then we can derive the unconditional obligation that you should apologise.
+van Eck (1982, p. 263) describes the so-called dilemma of commitment and detachment in the following way: (1) detachment should be possible, for we cannot take seriously a conditional obligation if it cannot, by way of detachment, lead to an unconditional obligation; and (2) detachment should not be possible, for if detachment is possible, the following kind of situation would be inconsistent—A, it ought to be the case that B given that A; and C, it ought to be the case that not-B given C. Yet, such a situation is not necessarily inconsistent.
+In pure dyadic deontic logic, we cannot deduce the unconditional obligation that it is obligatory that A (OA) from the dyadic obligation that it is obligatory that A given B (O[B]A) and B. Still, if this is true, how can we take such conditional obligations seriously? Hence, the dilemma of commitment and detachment is a problem for solutions to the contrary-to-duty paradox in pure dyadic deontic logic. In temporal alethic dyadic deontic logic, we can avoid this dilemma. We cannot always detach an unconditional obligation from a conditional obligation and its condition, but we can detach the unconditional obligation OB from O[A]B and A if A is non-future or historically necessary (in some interesting temporal alethic dyadic deontic systems). This seems to give us exactly the correct answer to the current problem. Detachment holds, but the rule does not hold unrestrictedly. We have seen above that Rt2O[T]Rt3a, but not Rt1O[T]Rt3a, is derivable from Rt2￢k and Rt2O[Rt2￢k]Rt3a in certain systems, that is, that we can detach the former sentence, but not the latter. Nevertheless, we cannot conclude that a set of the following kind must be inconsistent: {A, O[A]B, C, O[C]￢B}; this seems to get us exactly what we want.
+All of these reasons show that the temporal dyadic deontic solution is very attractive. It avoids many of the problems with other solutions that have been suggested in the literature. However, even though the solution is quite attractive, it is not unproblematic. We will now consider one potential serious problem.
+An argument against the temporal solutions
+The following argument against the temporal dyadic deontic solution appears to be a problem for every other kind of temporal solution too. There seems to be timeless (or parallel) contrary-to-duty paradoxes. In a timeless (or parallel) contrary-to-duty paradox, all obligations seem, in some sense, to be in force simultaneously, and both the antecedent and consequent in the contrary-to-duty obligation appear to ‘refer’ to the same time (if indeed they refer to any time at all). Such paradoxes cannot be solved in temporal dyadic deontic logic or any other system of this kind. For a critique of temporal solutions to the contrary-to-duty paradoxes, see Castañeda (1977). Several (apparently) timeless (or parallel) contrary-to-duty paradoxes are mentioned by Prakken and Sergot (1996).
+Here is one example.
+Scenario III: The Dog Warning Sign Scenario (After Prakken and Sergot (1996))
+Consider the following set of cottage regulations. It ought to be that there is no dog. It ought to be that if there is no dog, there is no warning sign. If there is a dog, it ought to be that there is a warning sign. Suppose further that there is a dog. Then all of the following sentences seem to be true:
+TN-CTD
+(TN1) It ought to be that there is no dog.
+(TN2) It ought to be that if there is no dog, there is no warning sign.
+(TN3) If there is a dog, it ought to be that there is a warning sign.
+(TN4) There is a dog.
+(TN1) expresses a primary obligation and (TN3) a contrary-to-duty obligation. The condition in (TN3) is fulfilled only if the primary obligation expressed by (TN1) is violated. Let TN-CTD = {TN1, TN2, TN3, TN4}. It seems possible that all of the sentences in TN-CTD could be true; the set does not seem to be inconsistent. Yet, if this is the case, TN-CTD poses a problem for all temporal solutions.
+In this example, all obligations appear to be timeless or parallel; they appear to be in force simultaneously, and the antecedent and consequent in the contrary-to-duty obligation (TN3) seem to refer to one and the same time (or perhaps to no particular time at all). So, a natural symbolisation is the following:
+FTN-CTD
+(FTN1) O[T]￢d
+(FTN2) O[￢d]￢w
+(FTN3) O[d]w
+(FTN4) d
+where d stands for ‘There is a dog’ and w for ‘There is a warning sign’ and all other symbols are interpreted as above. Nevertheless, this set is inconsistent in many temporal alethic dyadic deontic systems. We prove this below. But first let us consider some derived rules that we use in our tableau derivation.
+Derived rules
+DR3 O[A]B => O[T](A→B)
+DR4 O[A]B, O[A](B→C) => O[A]C
+DR5 O[T](A→B), A => O[T]B, given that A is non-future.
+According to DR3, if we have O[A]B, witj on an open branch in a tree we may add O[T](A→B), witj to this branch in this tree. The other derived rules are interpreted in a similar way. A is non-future as long as A does not include any operator that refers to the future.
+We are now in a position to prove that the set of sentences FTN-CTD = {FTN1, FTN2, FTN3, FTN4} is inconsistent in every temporal dyadic deontic tableau system that includes the rules T–DMO, T–Dα0 – T–Dα4, T–FT, and T–BT (Rönnedal (2018)). Here is the tableau derivation:
+(1) O[T]￢d, w0t0
+(2) O[￢d]￢w, w0t0
+(3) O[d]w, w0t0
+(4) d, w0t0
+(5) O[T](￢d → ￢w), w0t0 [2, DR3]
+(6) O[T](d → w), w0t0 [3, DR3]
+(7) O[T]￢w, w0t0 [1, 5, DR4]
+(8) O[T]w, w0t0 [4, 6, DR5]
+(9) T, w0t0 [Global Assumption]
+(10) STw0w1t0 [9, T–Dα3]
+(11) ￢w, w1t0 [7, 10, O]
+(12) w, w1t0 [8, 10, O]
+(13) * [11, 12]
+This is counterintuitive, since TN-CTD seems to be consistent. This is an example of a timeless (parallel) contrary-to-duty paradox.
+Can we avoid this problem by introducing some temporal operators in our symbolisation of TN-CTD? One natural interpretation of the sentences in this set is as follows: (TN1) (At t1) It ought to be that there is no dog; (TN2) (At t1) It ought to be that if there is no dog (at t1), there is no warning sign (at t1); (TN3) (At t1) If there is a dog, then (at t1) it ought to be that there is a warning sign (at t1); and (TN4) (At t1) There is a dog.
+Hence, an alternative symbolisation of the sentence in (TN-CTD) is the following:
+F2TN-CTD
+(F2TN1) Rt1O[T]Rt1￢d
+(F2TN2) Rt1O[Rt1￢d]Rt1￢w
+(F2TN3) Rt1O[Rt1d]Rt1w
+(F2TN4) Rt1d
+Yet, the set F2TN-CTD = {F2TN1, F2TN2, F2TN3, F2TN4} is also inconsistent. The proof is similar to the one above. So, this move does not help. And it does not seem to be the case that we can find any other plausible symbolisation of TN-CTD in temporal alethic dyadic deontic logic that is consistent. (TN2) cannot, for instance, plausibly be interpreted in the following way: (At t1) It ought to be that if there is no dog (at t2), there is no warning sign (at t3), where t1 is before t2 and t2 before t3. And (TN3) cannot plausibly be interpreted in the following way: (At t1) If there is a dog, then (at t2) it ought to be that there is a warning sign (at t3), where t1 is before t2 and t2 before t3.
+Hence, (apparently) timeless contrary-to-duty paradoxes pose a real problem for the temporal dyadic deontic solution and other similar temporal solutions.
+3. References and Further Reading
+
+Anglberger, A. J. J. (2008). Dynamic Deontic Logic and Its Paradoxes. Studia Logica, Vol. 89, No. 3, pp. 427–435.
+Åqvist, L. (1967). Good Samaritans, Contrary-to-duty Imperatives, and Epistemic Obligations. Noûs 1, pp. 361–379.
+Åqvist, L. (1984). Deontic Logic. In D. Gabbay and F. Guenthner (eds.) Handbook of Philosophical Logic, Vol. II, D. Reidel, pp. 605–714.
+Åqvist, L. (1987). Introduction to Deontic Logic and the Theory of Normative Systems. Naples, Bibliopolis.
+Åqvist, L. (2002). Deontic Logic. In Gabbay and Guenthner (eds.) Handbook of Philosophical Logic, 2nd Edition, Vol. 8, Dordrecht/Boston/London: Kluwer Academic Publishers, pp. 147–264.
+Åqvist, L. (2003). Conditionality and Branching Time in Deontic Logic: Further Remarks on the Alchourrón and Bulygin (1983) Example. In Segerberg and Sliwinski (eds.) (2003) Logic, law, morality: thirteen essays in practical philosophy in honour of Lennart Åqvist, Uppsala philosophical studies 51, Uppsala: Uppsala University, pp. 13–37.
+Åqvist, L. and Hoepelman, J. (1981). Some theorems about a ‘tree’ system of deontic tense logic. In R. Hilpinen (ed.) New Studies in Deontic Logic, D. Reidel, Dordrecht, pp. 187–221.
+Bartha, P. (1993). Conditional obligation, deontic paradoxes, and the logic of agency. Annals of Mathematics and Artificial Intelligence 9, (1993), pp. 1–23.
+Belnap, N., Perloff, M. and Xu, M. (2001). Facing the Future: Agents and Choices in Our Indeterminist World. Oxford: Oxford University Press.
+Bonevac, D. (1998). Against Conditional Obligation. Noûs, Vol 32 (Mars), pp. 37–53.
+Carmo, J. and Jones, A. J. I. (2002). Deontic Logic and Contrary-to-duties. In Gabbay and Guenthner (eds.) (2002) Handbook of Philosophical Logic, vol 8, pp. 265–343.
+Castañeda, H. -N. (1977). Ought, Time, and the Deontic Paradoxes. The Journal of Philosophy, Vol. 74, No. 12, pp. 775–791.
+Castañeda, H. -N. (1981). The paradoxes of deontic logic: the simplest solution to all of them in one fell swoop. In R. Hilpinen (ed.) New Studies in Deontic Logic, D. Reidel, Dordrecht, pp. 37–85.
+Chellas, B. F. (1969). The Logical Form of Imperatives. Stanford: Perry Lane Press.
+Chellas, B. F. (1980). Modal Logic: An Introduction. Cambridge: Cambridge University Press.
+Chisholm, R. M. (1963). Contrary-to-duty Imperatives and Deontic Logic. Analysis 24, pp. 33–36.
+Cox, Azizah Al-Hibri. (1978). Deontic Logic: A Comprehensive Appraisal and a New Proposal. University Press of America.
+Danielsson, S. (1968). Preference and Obligation: Studies in the Logic of Ethics. Filosoﬁska föreningen, Uppsala.
+Decew, J. W. (1981). Conditional Obligations and Counterfactuals. The Journal of Philosophical Logic 10, pp. 55–72.
+Feldman, F. (1986). Doing The Best We Can: An Essay in Informal Deontic Logic. Dordrecht: D. Reidel Publishing Company.
+Feldman, F. (1990). A Simpler Solution to the Paradoxes of Deontic Logic. Philosophical Perspectives, vol. 4, pp. 309–341.
+Fisher, M. (1964). A contradiction in deontic logic?, Analysis, XXV, pp. 12–13.
+Forrester, J. W. (1984). Gentle Murder, or the Adverbial Samaritan. Journal of Philosophy, Vol. LXXI, No. 4, pp. 193–197.
+Gabbay, D., Horty, J., Parent, X., van der Meyden, E. & van der Torre, L. (eds.). (2013). Handbook of Deontic Logic and Normative Systems. College Publications.
+Greenspan. P. S. (1975). Conditional Oughts and Hypothetical Imperatives. The Journal of Philosophy, Vol. 72, No. 10 (May 22), pp. 259–276.
+Hansson, B. (1969). An Analysis of Some Deontic Logics. Noûs 3, 373-398. Reprinted in Hilpinen, Risto (ed). 1971. Deontic Logic: Introductory and Systematic Readings. Dordrecht: D. Reidel Publishing Company, pp. 121–147.
+Hilpinen, R. (ed). (1971). Deontic Logic: Introductory and Systematic Readings. Dordrecht: D. Reidel Publishing Company.
+Hilpinen, R. (ed). (1981). New Studies in Deontic Logic Norms, Actions, and the Foundation of Ethics. Dordrecht: D. Reidel Publishing Company.
+Horty, J. F. (2001). Agency and Deontic Logic. Oxford: Oxford University Press.
+Jones, A. and Pörn, I. (1985). Ideality, sub-ideality and deontic logic. Synthese 65, pp. 275–290.
+Lewis, D. (1974). Semantic analysis for dyadic deontic logic. In S. Stenlund, editor, Logical Theory and Semantical Analysis, pp. 1–14. D. Reidel Publishing Company, Dordrecht, Holland.
+Loewer, B. and Belzer, M. (1983). Dyadic deontic detachment. Synthese 54, pp. 295–318.
+McNamara, P. (2010). Deontic Logic. In E. N. Zalta (ed.), The Stanford Encyclopedia of Philosophy.
+Montague, R. (1968). Pragmatics. In R. Klibansky (ed.) Contemporary Philosophy: Vol. 1: Logic and the Foundations of Mathematics, pp. 102–122, La Nuova Italia Editrice, Firenze, (1968).
+Mott, P. L. (1973). On Chisholm’s paradox. Journal of Philosophical Logic 2, pp. 197–211.
+Meyer, J.-J. C. (1988). A Different Approach to Deontic Logic: Deontic Logic Viewed as a Variant of Dynamic Logic. Notre Dame Journal of Formal Logic, Vol. 29, Number 1.
+Niles, I. (1997). Rescuing the Counterfactual Solution to Chisholm’s Paradox. Philosophia, Vol. 25, pp. 351–371.
+Powers, L. (1967). Some Deontic Logicians. Noûs 1, pp. 361–400.
+Prakken, H. and Sergot, M. (1996). Contrary-to-duty obligations. Studia Logica, 57, pp. 91–115.
+Rescher, N. (1958). An axiom system for deontic logic. Philosophical studies, Vol. 9, pp. 24–30.
+Rönnedal, D. (2009). Dyadic Deontic Logic and Semantic Tableaux. Logic and Logical Philosophy, Vol. 18, No. 3–4, pp. 221–252.
+Rönnedal, D. (2012). Extensions of Deontic Logic: An Investigation into some Multi-Modal Systems. Department of Philosophy, Stockholm University.
+Rönnedal, D. (2016). Counterfactuals in Temporal Alethic-Deontic Logic. South American Journal of Logic. Vol. 2, n. 1, pp. 57–81.
+Rönnedal, D. (2018). Temporal Alethic Dyadic Deontic Logic and the Contrary-to-Duty Obligation Paradox. Logic and Logical Philosophy. Vol. 27, No 1, pp. 3–52.
+Rönnedal, D. (2019). Contrary-to-duty paradoxes and counterfactual deontic logic. Philosophia, 47 (4), pp. 1247–1282.
+Thomason, R. H. (1981). Deontic Logic as Founded on Tense Logic. In R. Hilpinen (ed.) New Studies in Deontic Logic, D. Reidel, Dordrecht, pp. 165–176.
+Thomason, R. H. (1981b). Deontic Logic and the Role of Freedom in Moral Deliberation. In R. Hilpinen (ed.) New Studies in Deontic Logic, D. Reidel, Dordrecht, pp. 177–186.
+Tomberlin, J. E. (1981). Contrary-to-duty imperatives and conditional obligations. Noûs 15, pp. 357–375.
+van Eck, J. (1982). A system of temporally relative modal and deontic predicate logic and its philosophical applications. Logique et Analyse, Vol 25, No 99, pp. 249–290, and No 100, pp. 339–381. Original publication, as dissertation, Groningen, University of Groningen, 1981.
+van der Torre, L. W. N. and Tan, Y. H. (1999). Contrary-To-Duty Reasoning with Preference-based Dyadic Obligations. Annals of Mathematics and Artificial Intelligence 27, pp. 49–78.
+Wieringa, R. J. & Meyer, J.-J. Ch. (1993). Applications of Deontic Logic in Computer Science: A Concise Overview. In J.-J. Meyer and R. Wieringa, editors, Deontic Logic in Computer Science: Normative System Specification, pp. 17–40. John Wiley & Sons, Chichester, England.
+van Fraassen, C. (1972). The Logic of Conditional Obligation. Journal of Philosophical Logic 1, pp. 417–438.
+van Fraassen, C. (1973). Values and the Heart’s Command. The Journal of Philosophy LXX, pp. 5–19.
+von Kutschera, F. (1974). Normative Präferenzen und bedingte Gebote. I Lenk, H., & Berkemann J. (eds.). (1974), pp. 137–165.
+von Wright, G. H. (1964). A new system of deontic logic. Danish yearbook of philosophy, Vol. 1, pp. 173–182.
+
+ 
+Author Information
+Daniel Rönnedal
+Email: daniel.ronnedal@philosophy.su.se
+University of Stockholm
+Sweden
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

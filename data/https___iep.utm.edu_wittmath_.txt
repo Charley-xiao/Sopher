@@ -1,0 +1,353 @@
+
+
+
+
+
+
+
+
+
+Wittgenstein, Ludwig: Later Philosophy of Mathematics | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ludwig Wittgenstein: Later Philosophy of Mathematics
+Mathematics was a central and constant preoccupation for Ludwig Wittgenstein (1889–1951). He started in philosophy by reflecting on the nature of mathematics and logic; and, at the end of his life, his manuscripts on these topics amounted to thousands of pages, including notebooks and correspondence. In 1944, he said his primary contribution to philosophy was in the philosophy of mathematics. Yet his later views on mathematics have been less well received than his earlier conception, due to their anti-scientific, even anti-rationalist, spirit.
+This article focuses on the relation between the later Wittgenstein’s philosophy of mathematics and other philosophies of mathematics, especially Platonism; however, other doctrines (formalism, conventionalism, constructivism, empiricism) will be discussed as well.
+Wittgenstein does not sympathize with any traditional philosophy of mathematics, and in particular his hostility toward Platonism (the conception that mathematics is about a-causal objects and mind-independent truths) is quite evident. This is in line with what can be described as his more general philosophical project: to expose deep conceptual confusions in the academic doctrines, rather than to defend his own doctrine. In fact, it is not even clear that the threads of his thinking on mathematics, when pulled together, amount to what we would today call a coherent, unified -ism. However, one view that can be attributed to him is that mathematical identities such as ‘Three times three is nine’ are not really propositions, as their superficial form indicates, but are certain kinds of rules; and, thus understood, the question is whether they are arbitrary or not. The interpretive position preferred in this article is that they are not, since they are grounded in empirical regularities – hence the recurrence of the theme of the applicability of mathematics in Wittgenstein’s later reflections on this topic.
+Some have characterized him as a finitist-constructivist, others as a conventionalist, while many strongly disagree about these labels. He notoriously held the view that philosophy should be eminently descriptive, strongly opposing any interference with how mathematics is actually done (though he also predicted that lucid philosophy would curb the growth of certain mathematical branches). In particular, he was worried about the philosophers’ tendency to provide a foundation for mathematics, mainly because he thought it does not need one.
+Table of Contents
+
+The Reaction from Other Philosophers
+Which ‘ism’?
+Mathematical Reality
+Philosophical Method, Finitism-Constructivism, Logicism and Formalism
+Regularities, Rules, Agreement, and Contingency
+Concluding Remarks
+References and Further Reading
+
+Wittgenstein’s Writings
+Other Sources
+
+
+
+1. The Reaction from Other Philosophers
+ 
+Although Wittgenstein’s earlier views on mathematics and logic (mainly exposed in his 1922 work Tractatus Logico-Philosophicus) have been very influential, his later conception (roughly, post-1929) has been “met with an ambivalent reaction, (…) drawing both the interest and the ire of working logicians” (Floyd [2005, 77]). A good deal of Wittgenstein’s later work on mathematics has been collected and edited by G.H. von Wright, R. Rhees and G.E.M. Anscombe under the title Remarks on the Foundations of Mathematics (RFM hereafter), and was first published in 1956. Another collection, Wittgenstein’s Lectures on the Foundations of Mathematics. Cambridge 1939, was edited by Cora Diamond and published in 1976. Two harsh reviews of RFM, by G. Kreisel [1958] and A. R. Anderson [1958], set the tone for a sceptical attitude toward his later views on mathematics persisting even into the late twentieth century. P. Maddy, for instance, places the following warning at the beginning of her lucid Wittgenstein section in Naturalism in Mathematics: “Some philosophers, especially those with a technical bent, tend to be unsympathetic to the style and content of the late Wittgenstein. I encourage such Wittgenstein-phobes to skip over [the section].” [1997, 161, fn. 1] Perhaps illustrative for this way of thinking is also the omission of the Wittgenstein material in the second edition [1983] of Benacerraf and Putnam’s landmark collection Philosophy of Mathematics: Selected Readings. (The first edition of 1964 included excerpts from RFM.)
+This Wittgenstein-phobia, if it truly exists, is surely regrettable – not only because of the intrinsic value of Wittgenstein’s highly original insights, but also because understanding his views on mathematics might illuminate difficult themes in his widely-studied work Philosophical Investigations [1953] (PI). It is telling that the early draft of PI had contained a good portion of what is now RFM, and it is no coincidence that some of the examples and scenarios used to illustrate the much discussed rule-following ‘paradoxes’ appearing in PI are cast in mathematical terms (Fogelin [1976], Kripke [1982]).
+2. Which ‘ism’?
+This article focuses on the relation between later Wittgenstein’s philosophy of mathematics and other philosophies of mathematics, especially Platonism; however, other doctrines (formalism, conventionalism, constructivism, empiricism) will be discussed as well. Hopefully, even a glance at this relation will give the reader a minimally misleading sense of his later views on mathematics – although, naturally, there is much more to explore than can be covered here (for example, Wittgenstein’s points on proofs as forging ‘internal relations’ and their role in concept formation, his take on mathematical necessity, or on Gödel’s First Incompleteness Theorem, this last issue alone generating a series of interesting exchanges over the years; see Tymoczko [1984), Shanker [1988), Rodych [1999, 2006], Putnam and Floyd [2000], Floyd [2001], Steiner [2001], Bays [2004]). Note also that very little will be said on the debate over the partition of Wittgenstein’s thinking. When it comes to mathematics, the standard demarcation (two Wittgensteins – the ‘early’ one of the Tractatus, and the ‘later’ one of the PI and RFM) is questioned by Gerrard ([1991], [1996]), who distinguishes two lines of thought within the post-Tractarian period: a middle one, or “the calculus conception”, to be found in Philosophical Grammar (PG), and a truly later one, “the language-game conception.” Stern [1991], however, worries about too finely dividing Wittgenstein’s thinking, concerned with the more recent tendency to add even the fourth period, post-PI, which Wittgenstein devoted to philosophical psychology and is illustrated in his Remarks on the Philosophy of Psychology.
+In addition to the aphoristic and multi-voiced style, one of the most baffling aspects of later Wittgenstein’s views on mathematics is his position relative to the traditional philosophies of mathematics. While his hostility toward Platonism (especially in the version advocated by the Cambridge mathematician G. E. Hardy) is quite pronounced, not much can be confidently said about the doctrine he actually espouses. In fact, given his rejection of theories and theses in philosophy (PI §128), one might even suspect that the threads of his thought, when pulled together, do not amount to what we would today call a ‘position’, let alone a coherent, unified ‘ism.’ He rejects the logicism of his former teachers Frege and Russell, but this does not turn him into a formalist (of Hilbertian inspiration), or an intuitionist-constructivist-finitist (like Brouwer); moreover, Kantian sympathies are discernible, even empiricist ones. Most of Wittgenstein’s remarks, however, are directed against academic schools, and Fogelin [1987], for one, describes his position via a double negative: ‘anti-platonism without conventionalism.’  Here I will not propose a new label, yet the best starting point to discuss Wittgenstein’s conception is its relation to conventionalism. How exactly his views relate to this doctrine is, once again, hard to pin down; what appears relatively clearer is that his conventionalism is not the ‘full-blooded’ conventionalism that Dummett [1959] attributed to him.
+As a first approximation, for Wittgenstein arithmetical identities (such as ‘three times three is nine’) are not propositions, as their superficial grammar indicates – but rules. Importantly though, these rules are not arbitrary; in a sense (to be explicated later on), the rules in place are the only ones that could have been adopted or, as Steiner [2009, 12] put it, “the only rules available.” The typical conventionalist difficulty (that they might have an arbitrary character) is answered when it is added that the rules are grounded in objectively verifiable empirical regularities (Fogelin [1987]; Steiner [1996], [2000], [2009]); or, as Wittgenstein says, the empirical regularities are “hardened” into rules (RFM VI-22). In discussing Wittgenstein’s relation to conventionalism, a central task in what follows will be to clarify why (and how, and what kind of) agreement within a community is a crucial presupposition of the very existence of mathematics.
+3. Mathematical Reality
+As stated above, it is an open question whether Wittgenstein actually held a ‘position’ in the philosophy of mathematics, in the sense of advancing a compact body of doctrine. Most of his remarks seem reactions to what he takes to be (philosophical, non-trivial) misunderstandings concerning the nature of mathematics. Platonism falls in this category. He most likely understood this doctrine as the conjunction of two tenets: a semantic thesis – mathematical propositions state truths, and an ontological claim, according to which the truth-makers of the mathematical propositions, that is, objects like numbers, sets, functions, and so forth, exist, in a fashion similar to Plato’s forms, and populate an a-causal, non-spatiotemporal domain. This is to say that they are abstract; additionally, they are also language- and mind-independent. A third, epistemological, thesis is often added: we humans can know about these objects and truths insofar as we possess a special cognitive faculty of ‘intuition’ (that is, despite the fact that we don’t interact with them causally). However, note that an adequate characterization of Platonism itself, or of the version Wittgenstein dismissed, are substantial philosophical tasks in themselves, and this article will not attempt to undertake them. Yet one issue, among others, is worth mentioning in passing. There are Platonist realists who claim that mathematical statements have truth-value (Shapiro [2000] calls this “realism in truth-value”), yet also hold that this does not entail that certain ‘objects’ need to be postulated as their truth-makers (the view that we do need to postulate these objects is called “realism in ontology”). Many famous mathematicians, philosophers and logicians have been attracted or intrigued by Platonism: Hardy [1929], [1967], Bernays [1935], Gödel [1947], Benaceraff [1973], Dummett [1978a] are loci classici. More recently, Burgess and Rosen [1997] and Balaguer [1998] offer book-length treatments of this conception; Linebo [2009] and Cole [2010] are useful surveys and rich up-to-date bibliographical sources.
+What is Wittgenstein’s take on Platonism? The standard view is that for him this conception is what C. Wright [1980, 5] calls a “dangerous error.” Wittgenstein surely believed that it is extremely misleading to understand mathematical identities as stating truths about some (mathematical) objects. This is so because mathematical formulae are not in the business of making statements to begin with: they are not propositions. The acceptance of this assumption – that they are, as their surface grammar indicates – is, for some commentators, one of those “decisive moment[s] in the conjuring trick (…)” he mentions in PI §308, “the very one that we thought quite innocent.” Thus, the decisive step on the road leading to Platonism is asking the question ‘What is mathematics about?’ The query seems innocent indeed: mathematics is a type of discourse, all discourses have a subject-matter, so mathematics must have one too. To see the problem with this question, Wittgenstein urges us to consider another question – ‘What is chess about?’ (This kind of move is characteristic for his style of philosophizing in the later period.) The initial question suggests a certain perspective on the issue, while the new question is meant to challenge this perspective, to reveal other possibilities – in particular, that mathematical equations may not be descriptions (statements, affirmations, declaratives, and so forth), let alone descriptions of some abstract, mind-independent, non-spatiotemporal entities and their relations. As has been noted (Wrigley [1977]), this idea bears clear similarities to one of the key-thoughts of the Tractatus, that not all words (in particular the logical vocabulary) stand for things. The grammatical form of number words (as nouns), and of mathematical formulae (as affirmations), must be treated with care. More concretely, ‘is’ in ‘two and two is four’ does not have the role of a description of a state of affairs (so to speak) holding within an abstract non-spatiotemporal realm.
+It is generally accepted, at least among philosophers, that Platonism is the natural, or “default” metaphysical position for the working mathematician (Cole [2010]). Wittgenstein has an interesting answer to the question ‘Why are mathematicians attracted to this view?’ and this section shall close by sketching it.
+Commentators have emphasized that his answer is grounded in the distinction between applied and pure (better: not-yet-applied) mathematics, and is thus entirely different from the standard reasons adduced by Platonists themselves. (For them, this doctrine is appealing because: (i) it squares well with our pre-theoretical picture of mathematics (as containing truth-valuable, objective, mind-independent, a priori statements), and (ii) it explains the agreement among mathematicians of all times.) As Maddy [1997, 167-8] points out, Wittgenstein thought it was very important to reflect on how professional mathematicians typically account for the importance of a certain piece of mathematical formalism – say, a new theorem. (He discusses this in terms of subjecting the “interest of calculations” to a test; (RFM II-62)) One thing mathematicians could do is reveal the implications of that bit of mathematics for science and mathematics as a whole. In other words, they could point out the great and unquestionable effectiveness of that formalism in other areas of mathematics and in scientific applications. Yet, when this type of answer is not available – that is, when they have to justify their interest in an unapplied formalism – they usually say things that Wittgenstein calls ‘prose’ (Wittgenstein and the Vienna Circle [WVC], p. 149). Instead of (perhaps boringly) detailing the internal-mathematical complex network of conceptual relations in which the new theorem fits, its unifying power, its capacity to open up new lines of research, and so forth, many mathematicians indulge in the more thrilling project of presenting their activity as one of foray into a mysterious super-empirical realm. Hence the familiar Platonist distinction: the claim that they do not invent theories, but discover objective eternal truths about a-causal, non-spatiotemporal objects. Wittgenstein refers to this as the illusory revelation of “the mysteries of the mathematical world” (RFM II – 40, 41).
+These critical points do not amount to a positive view yet. They rather lead to more queries, two of which will be discussed in the next section.  They are: (i) What is wrong with asking what mathematics is about, and (ii) Does the comparison with chess mean that Wittgenstein believes that mathematics is (merely) a game? Note that for Wittgenstein reflection on games occupies a central place in his philosophical methodology, and that chess is his favourite object of comparison (it appears in many contexts; to mention only the PI, see §31, §33, §136, and so forth)
+4. Philosophical Method, Finitism-Constructivism, Logicism and Formalism
+If one asks ‘what is mathematics about?’, a typical answer is – ‘certain entities, like number 2, inhabiting a Platonic reality.’ The adoption of this metaphysics comes in handy, seemingly increasing our understanding in this matter: we might get the feeling that we now finally know what mathematicians have been talking about for thousands of years. However, this is deceptive; the acceptance of this proposal creates more and deeper problems than the ones we began with. Wittgenstein regards the talk about ‘reality’ in mathematics not as a step toward a better understanding of this human practice, but as a source of confusion, of philosophical problems, which he regards as conceptual ‘illnesses’ requiring ‘treatment.’ Here we encounter his view that philosophy ultimately has a therapeutic role, an idea appearing in PI first at §133, with mathematics mentioned explicitly in §254. The therapy consists in applying one of his philosophical methods – to remind  those who are puzzled of where concepts are ‘at home’, and to reveal how philosophizing uproots them from their natural context:
+Consider Professor Hardy’s article (“Mathematical Proof”) and his remark that “to mathematical propositions there corresponds – in some sense, however sophisticated – a reality.”..[Y]ou forget where the expression ‘a reality corresponds to’ is really at home –What is “reality”? We think of “reality” as something we can point to. It is this, that. Professor Hardy is comparing mathematical propositions to the propositions of physics. This comparison is extremely misleading (Lectures on the Foundations of Mathematics, p. 239-40; LFM hereafter)
+The diagnosis of PI §38 is that philosophical problems appear when ‘language goes on holiday’, or ‘idles.’ What does this mean? (The original reads “…wenn die Sprache feiert.” Stern [2004, 97] argues that Rhees’ initial translation of ‘feiert’ by ‘idle’ coveys better the idea that the language does no work than Anscombe’s standard translation ‘goes on holiday.’) Steps toward the clarification of this point can be made by observing that Wittgenstein has in mind here the situation in which a concept otherwise fully intelligible, oftentimes even unremarkable, is detached from its original contexts and uses (language-games). Once dragged into a new ‘territory’, the concept idles (just like a cogwheel separated from the gear), as it cannot engage other related concepts anymore. Anyone trying to employ the concept in this new ‘environment’ experiences mental cramps and disquietudes, precisely because, as it happens when one ventures into uncharted ‘terrain’, the familiar ‘paths’ and ‘crossroads’ no longer exist: one does not know her “way about” (PI §123), one does not see things clearly anymore. Hence, according to Wittgenstein, the whole point of philosophizing is not to defend ‘philosophical positions’ but to undo this perplexity, and achieve a liberating ‘perspicuous representation’, or over-view (übersichtliche Darstellung; PI §122).
+When discussing the LFM quote above, Maddy observes [1997, 167] that one such problem, of much fame in the current debates in the philosophy of mathematics, is the epistemological problem for Platonists, due to Benacerraf [1973]. Roughly put, the question is how we get to know anything about numbers, if they are a-causal, non-spatiotemporal entities, and if all our knowledge arises by causal interaction with the known objects? This seems a legitimate worry, but Wittgenstein would disagree with one of its assumptions. Not only does he reject the idea that a causal basis is essential for knowledge (‘knowledge’ most likely counts as a “family-resemblance” concept, lacking an essential feature; cf. PI §67), but he tackles the issue from an entirely different angle. He notes that the force of the problem (“the feeling of something queer”, “thumb-catching of the intellect”) “comes from a misunderstanding” (RFM V-6). The misunderstanding originates in what can be called a ‘transfer’ move: the Platonist assumes that the talk of ‘reality’ (and ‘entities’, and so forth) can be extended, or transferred, from the natural ‘home’ of these notions (the vernacular and the natural sciences) to the mathematical discourse – and, moreover, that this transfer can take place without loss of meaning. The rejected assumption is not that we can talk about relations and objective truth in mathematics, but that we can talk about them in the same way we talk in empirical science. Once this transfer is made, ‘deep’ questions (like Benacerraf’s) follow immediately. What Wittgenstein urges, then, is to take this epistemological difficulty as exposing the meaning-annihilation effect of the illicit transfer move – so, in the end, Platonism is not even wrong, but (disguised) nonsense.
+What is the more general outcome of adopting such a philosophical strategy? A ‘therapeutic’ one: the liberation of our minds from the grip of an ‘illegitimate question’ (‘what is mathematics about?’) Such a strategy can be traced back to Heinrich Hertz’s insight in Principles of Mechanics, one of Wittgenstein’s formative readings: “(…) the question […] will not have been answered; but our minds, no longer vexed, will cease to ask illegitimate questions.” (Hertz [1899 / 2003, 8] The question Hertz entertained was about ‘the ultimate nature of force’).
+Before taking up the second issue, it is worth noting that Wittgenstein’s view fails to fit other traditional ‘isms’ too. Wrigley [1977, 50] sketches some of the reasons why he cannot be described as a finitist-constructivist, thus disagreeing with how Dummett [1959] and Bernays [1959] portray him. While following the teachings of this philosophical doctrine would lead to massive changes in mathematics (for example, a big portion of real analysis must be wiped out as meaningless), Wittgenstein notoriously held the view that “philosophy may in no way interfere with the actual use of language; it can in the end only describe it. For it cannot give it a foundation either. It leaves everything as it is. It leaves mathematics as it is, and no mathematical discovery can advance it” (PI §124). Another marked difference between Wittgenstein and the intuitionists is discussed by Gerrard [1996, 196, fn 37]. Brouwer sees mathematics as divorced from the language in which it is done, and says: “FIRST ACT OF INTUITIONISM Completely separating mathematics from mathematical language…recognizing that intuitionistic mathematics is an essentially languageless activity of the mind…” (cited in D. van Dalen [1981, 4]). Yet, as we will see below, it is a constant of Wittgenstein’s view that mathematics cannot be separated from a language and a human practice.
+Moreover, Wittgenstein also distances himself from the logicism of Frege and Russell. The previous point about the status of mathematical formulae (that is, not being propositions) explains why. Insofar as mathematical formulae aren’t propositional truths, it is simply out of the question whether they are, or can be reduced to, a particular kind of truths, namely truths of logic. But Wittgenstein’s dissatisfaction with logicism goes further than that; he is unhappy with the ‘epistemically reductive’ character of this doctrine, and emphasizes the “motley” of mathematical techniques of proof (RFM III-46A, III-48). Formulated in the logicist style, mathematical proofs might gain in precision but surely lose in perspicuity and conceptual elegance. Floyd [2005, 109] summarizes the point: “That is not to say that there are no uses for formalized proofs (for example, in running computer programs). It is to say that a central part of the challenge of presenting proofs in mathematics involves synoptic designs and models, the kind of manner of organizing concepts and phenomena that is evinced in elementary arguments by diagram. This Wittgenstein treated as undercutting the force of logicism as an epistemically reductive philosophy of mathematics: the fact that the derivation of even an elementary arithmetical equation (like 7 + 5 = 12) would be unclearly expressed and unwieldy in (Russel’s and Alfred North Whitehead’s) Principia Mathematica shows that arithmetic has not been reduced in its essence to the system of Principia (compare RFM III-25, 45, 46).”
+Returning to the second issue (how mathematics is different from a game), recall that this concern arises naturally given Wittgenstein’s insistence that mathematical formulae aren’t genuine propositions, but some kind of rules. This takes us to the question as to how Wittgenstein’s conception differs from formalism. The answer must begin by noting that mathematics provides us with “rules for the identity of descriptions” (Fogelin [1987, 214]).
+Consider the multiplication 3 × 3 = 9. Obviously enough, one typical role of this equality is to license the replacement of one string of symbols (‘3’, ‘×’, ‘3’) with another symbol (‘9’) in extensional contexts. Wittgenstein does not disagree with this account, but has a more substantial story to tell. These identifications are not (cannot be) mechanical, disembodied actions – rather, they are grounded in ancestral, natural human practices, such as sorting and arranging objects. A simple example, in essence Fogelin’s [1987], should illustrate this point. Suppose we describe to a child the 3 times 3 operation by the following arrangement:
+(a)
+■    ■    ■
+■    ■    ■
+■    ■    ■
+Next, suppose we produce another arrangement
+(b)
+■ ■ ■       ■ ■ ■       ■ ■ ■ 
+and tell her that this also describes the 3 × 3 operation. Thus, the identity ‘3 × 3 = 9’ is the rule that the two descriptions are correct and they say the same thing (that is, are ‘identical’, to use Fogelin’s terminology). So, we hope, the child understands that three batches of three objects amount to nine objects.
+Now suppose that a few days later the child no longer remembers all the details of this story and conceives of the 3 × 3 multiplication as follows:
+(c)
+■ ■ ■   1.
+■ ■ ■   2.
+■ 
+3.
+She counts the squares, and reports the result: 7. We protest, and the child gets confused. Her puzzlement originates in her belief that she generated arrangement (c) by doing the same thing we did initially – she considered three batches of three objects, and then counted the objects!
+This simple example signals a more serious problem. We recognize here one version of the well-known rule-following ‘paradoxes’ in PI highlighted by Kripke [1982] many years ago: “any course of action can be made out to accord with the rule”, and thus “no course of action could be determined by a rule.” (PI §201) It is impossible to draw a list containing all the directives needed to follow a rule, and no matter what one does, there is an interpretation of one’s actions that makes them accord with the rule. In our case, one just can’t draw a list containing everything that is, and is not, allowed in the manipulation of the little black squares when describing the 3 × 3 operation – thus clearing up all possible confusions. (This is easy to see: suppose one proposes as a regress-stopper adding a rule explicitly excluding superpositions. But this won’t work, since yet another Goodmanesque-Kripkean scenario can be invented in which an arrangement is obtained ‘showing’ that, say, 3×3 = 33 because, for instance, one misunderstands what superposition is. And so on. See Goodman [1955], Kripke [1982].)
+In essence, here Wittgenstein would urge that it is just a brute fact of nature that we are indeed able to avoid this situation, and sort out our confusion, especially after the teachers intervene and signal the mistake we made. To emphasize, it is a brute fact that when people are asked to represent the multiplication 3 × 3, the (a)-type and (b)-type arrangements predominate, while those of the (c)-type are very rare, and even more so after training.
+More generally, it is a given of the human forms of life that we are able to follow rules and orders; that there is a point when we stop ‘interpreting’ them – and just act. Thus, crucial here is our ability to act ‘blindly’ when following directions, as Wittgenstein puts it (PI §219) – that is, blind to “distractions” (Stern [2004, 154-155]), to all the so numerous possibilities to stray away. Were we not able to act this way, were the confusions (such as the ones described above) overwhelmingly prevalent, then the arithmetical practice would not exist to begin with. (It is instructive to peruse Stern’s critique of Fogelin’s [1994, 219-20] misreading of PI §219. But see also Fogelin [2009] for more on these matters.)
+So, as a result of training, the child becomes able to recognize that, as Fogelin notes [1987, 215], despite superficial similarities arrangement (c) is not the result of doing ‘the same thing’ we did initially ((a) and (b)). While this might be distressing, there is no guarantee that the child will reach this stage in understanding. Moreover, the process is gradual: some children ‘get it’ faster than others. The immersion in the community of ‘mathematicians’, the continual checking and correcting, the social pressure (through low grades), and so forth, help the children master the technique of distinguishing what is allowed from what is not, to differentiate what must be ‘turned a blind eye on’ from what really matters.  The arithmetical training consists in inculcating in children a certain technique to deploy when presented with situations of the kind discussed here: they understand multiplication when they are able to establish (and recognize) the identity of various descriptions.
+The squares example can be invoked to illustrate Wittgenstein’s position regarding formalism. The arithmetical identities are not reducible to mere manipulations of symbols, but come embedded into, and govern the relations of, (arrangement) practices. The arithmetical training consists not only in having the pupils learn the allowed strings of symbols (the multiplication table) by heart, but also, more importantly, in inculcating in them a certain reaction when presented with arrangements of the kind discussed above.
+At this point, two aspects of the issue should be distinguished. The first is purely descriptive. In terms of what people actually do, the ‘normal’ situations (arrangements of (a)-type and (b)-type) prevail after training, while the ‘deviant’ ones (arrangements of the (c)-type) are the exception. This is an empirical regularity: with training, most people get the arrangements right most of the time.
+The second aspect is normative: this empirical regularity becomes a candidate to be codified into a special form. By doing this, we thus grant it a new status, that of a norm, or rule – an arbiter of ‘right’ and ‘wrong.’ We say that it is incorrect to take an arrangement like (c) to stand for the 3 times 3 operation. The empirical regularity, the uniform application of the technique of multiplication, is thus ‘hardened’ into a rule. When discussing multiplication in LFM X, p. 95, Wittgenstein says the following:
+I say to [the trainee], “You know what you’ve done so far. Now do the same sort of thing for these two numbers.”—I assume he does what we usually do. This is an experiment—and one which we may later adopt as a calculation. What does that mean? Well, suppose that 90 per cent do it all one way. I say, “This is now going to be the right result.” The experiment was to show what the most natural way is—which way most of them go. Now everybody is taught to do it—and now there is a right and wrong. Before there was not.
+To indicate the change of status, Wittgenstein uses several suggestive metaphors. The first is the road building process:
+It is like finding the best place to build a road across the moors. We may first send people across, and see which is the most natural way for them to go, and then build the road that way. (LFM, p. 95)
+Here, building the road is a decision, but not an arbitrary one: different crossing paths have been taken over time, but usually one is most often travelled, and thus preferred on a regular basis. It is this one that gradually emerges as the most suited for crossing, and the one which the lasting road will follow.
+The second metaphor is legalistic: we regard an empirical regularity as a mathematical proposition when we “deposit [it] in the archives” (LFM, p. 104). Note that what is now in the archives has previously been in circulation, ‘out there’, had a genuine life. On the other hand, what is in the archives is protected, withdrawn from circulation – that is, not open to change and dispute. The relations between the archived items are frozen, solidified. (Note the normative role of archives as well: it is illegal to tamper with them.)
+A related metaphor we already encountered above is that of the physical process of condensation: just as an amount of vapor enters a qualitatively different form of aggregation turning into a drop of water, so the empirical-behavioral regularities are turned into arithmetical rules. What happens is that these regularities are ‘condensed’ or, to use Wittgenstein’s own word, “hardened”:
+It is as if we had hardened the empirical proposition into a rule. And now we have, not an hypothesis that gets tested by experience, but a paradigm with which experience is compared and judged. And so a new kind of judgment. (RFM VI-22)
+The elevation to a new status (performed because of the robust, natural agreement) is indicated by archiving:
+ 
+Because they all agree in what they do, we lay it down as a rule, and put it in the archives. Not until we do that have we got to mathematics. One of the main reasons for adopting this as a standard, is that it’s the natural way to do it, the natural way to go – for all these people. (LFM, p. 107)
+5. Regularities, Rules, Agreement, and Contingency
+Wittgenstein’s emphasis on conceiving mathematics as essentially presupposing human practices and human language should not be taken as an endorsement of a form of subjectivism of the sort right-is-what-I-(my-community)-take-to-be-right. Thus, interestingly, there is a sense in which Wittgenstein actually agrees with the line taken by Hardy, Frege and other Platonists insisting on the objectivity of mathematics. What Wittgenstein opposes is not objectivity per se, but the ‘philosophical’ explanation of it. The alternative account he proposes is that arithmetical identities emerge as a special codification of these contingent but extremely robust, objectively verifiable behavioral regularities. (Yet, recall that although the arithmetical propositions owe their origin and relevance to the existence of such regularities, they belong to a different order.) So, what Wittgenstein rejects is a certain “metaphysics of objectivity” (Gerrard [1996, 173]). In essence, he rejects the idea that mathematics is transcendent, that an extra-layer of ‘mathematical reality’ is the ultimate judge of what is proved, here and now, by human means. (“We know as much as God does in mathematics” (LFM, p. 104)) Therefore, from this perspective, progress in explaining Wittgenstein’s conception consist in clarifying how he manages to account for the “peculiar inexorability of mathematics” (RFM I-4), while avoiding both Platonism and subjectivism.
+A good starting point for this task is understanding Wittgenstein’s view of the relation between mathematical and empirical statements. Unlike some philosophers oftentimes compared with him (such as Quine), he takes mathematical propositions to be non-revisable in light of empirical investigation (“mathematics as such is always measure, not thing measured” RFM, III-75). To see the larger relevance of this point, consider the simple question ‘What if, by putting together two pebbles and other three pebbles, we get sometimes five, sometimes six, and sometimes even four pebbles?’ Importantly, this state of affairs would not be an indication that 2+3=5 is false – and thus needs revision. This situation would only show that pebbles are not good for demonstrating (and teaching) addition. The mathematical identity is untouchable (as it were), and the only option left to us is to suspect that maybe the empirical context is abnormal. Thus, the next step is to ask whether we face the same anomalies when we use other objects, such as fruits, pencils, books, bottles, fingers, and so forth.
+So, let us explore, for a moment, for the sake of the argument, the scenario in which a large variety of ordinary items is subject to this strange variation. Under this assumption, the conclusion to draw is a radical one: were this scenario real, the arithmetical practice of summing could not have even gotten off the ground. This would be the situation defining the supreme pointlessness of arithmetic, which would thus become a mere game of symbols. In such a situation, the truth or falsity of the identity 2+3 = 5 would no longer matter, as it is, in a sense, meaningless. As Wittgenstein puts it,
+I want to say: it is essential to mathematics that its signs are also employed in mufti. It is the use outside mathematics, and so the meaning of the signs that make the sign game into mathematics. (RFM IV-41)
+The terms ‘sense’ and ‘nonsense’, rather than the terms ‘true’ and ‘false’, bring out the relation of mathematical to nonmathematical propositions. (Wittgenstein’s Lectures, Cambridge 1932-35; hereafter AWL, p. 152)
+However, the wild variation described above does not exist. It is a contingent, brute natural fact (again!) that we do not live in such a world, but in one in which regularities prevail. Moreover, it is precisely the existence of such regularities – together with, as we will see in a moment, regularities of human behaviour – that makes possible the arithmetical practice in the first place. Wittgenstein, however, realized this rather late, as Steiner [2009] documents. Remarks about the role of empirical regularities are entirely absent in PG and PR; so, according to Steiner, understanding the importance of the empirical regularities for mathematics amounts for Wittgenstein to a “silent revolution”, in addition to the well-known “overt revolution” (the repudiation of the Tractatus).
+A closer look at the contingent regularity relevant in this context – behavioural agreement – is now in order. (At PI §206 and 207 Wittgenstein suggests that these regularities form the basis of language itself.) This type of agreement consists in all of us having, roughly, the same natural reactions when presented with the same ‘mathematically’ related situations (arranging, sorting, recognizing shapes, performing one-to-one correspondences, and so forth.) Its existence is supported by the already discussed facts: (i) we can be trained to have these reactions, and (ii) the world itself presents a certain stability, many regular features, including the regularity that people receiving similar training will react similarly in similar situations. (There surely is a neuro-physiological basis for this; cats, unlike dogs, cannot be trained to fetch.)
+Yet, as stressed above, it is crucial to note that speaking in terms of behavioural agreement when it comes to understanding the mathematical enterprise should not lead one to believe that Wittgenstein is in the business of undermining the objectivity of mathematics. This is Dummett’s [1959] early influential line of interpretation, describing Wittgenstein as a “full-blooded conventionalist” (or even “anarchist”; this is Dummett’s [1978b, 64] famous label, when comparing Wittgenstein, “in his later phase” with the “Bolsheviks” Brouwer and Weyl.) According to him, Wittgenstein maintains that at any step in a calculation we could go any way we want – and the only reason that we go the way we usually go is an agreement between us, as the members of the community: in essence, a convention we all accept (And which, since it might be changed, is entirely contingent. Dummett [1978b, 67] writes: “What makes a […mathematical] answer correct is that we are able to agree in acknowledging it as correct.” (Cited in Gerrard [1996, 197, fn. 43]).
+Thus, one should say that a mathematical identity is true by convention; that is, it is taken, accepted as true by all calculators because a convention binds them. However, textual evidence can be amassed against this reading. Wittgenstein does not regard the agreement among the members of the community’s opinions on mathematical propositions as establishing their truth-value. Convincing passages illustrating this point can be found virtually everywhere in his later works, and Gerrard [1996] collects several of them.
+In In PI II, xi, pp.226, Wittgenstein says that “Certainly the propositions ‘Human beings believe that twice two is four’ and ‘Twice two is four’ do not mean the same.” In LFM, p. 240, when talking about ‘mathematical responsibility’, he points out that “(…) one proposition is responsible to another. Given certain principles and laws of deduction, you can say certain things and not others.” Some passages in LFM are most perspicuous: “Mathematical truth isn’t established by their all agreeing that it’s true” (p. 107); also, “it has often been put in the form of an assertion that the truths of logic are determined by a consensus of opinions. Is this what I am saying? No.” (p. p. 183).
+So, it is simply not the case that the truth-value of a mathematical identity is established by convention. Yet behavioural agreement does play a fundamental role in Wittgenstein’s view. This is, however, not agreement in verbal, discursive behaviour, in the “opinions” of the members of the community. It is a different, deeper form of consensus – “of action” (LFM, p. 183; both italics in original), or agreement in “what [people] do” (LFM, p. 107). Tellingly, RFM, VI-30C reads: “The agreement of people in calculation is not an agreement in opinions or convictions.” In PI §241, this is spelled out as “not agreement in opinions but in form of life.” Moreover, LFM contains passages like this:
+There is no opinion at all; it is not a question of opinion. They are determined by a consensus of action: a consensus of doing the same thing, reacting in the same way. There is a consensus but it is not a consensus of opinion. We all act the same way, walk the same way, count the same way (p. 183-4)
+The specific kind of behavioural agreement (in action) is a precondition of the existence of the mathematical practice. The agreement is constitutive of the practice; it must already be in place before we can speak of ‘mathematics.’ The regularities of behaviour (we subsequently ‘harden’) must already hold. So, we do not ‘go on’ in calculations (or make up rules) as we wish: it is the existent regularities of behaviour (to be ‘hardened’) that bind us.
+Thus, not much is left of the ‘full-blooded conventionalist’ idea. We don’t really have much freedom. Steiner [2009, 12] explains: the rules obtained from these regularities “are the only rules available. (The only degree of freedom is to avoid laying down these rules, not to adopt alternative rules. It is only in this sense that the mathematician is an inventor, not a discoverer.)” We can now see more clearly how this view contrasts with Dummett’s: mathematical identities are not true by convention, since they themselves are conventions, rules, elevated to this new status (‘archived’) from their initial condition of empirical regularities (Steiner [1996, 196]).
+While the behavioural agreement constitutes the background for the arithmetical practice, Wittgenstein takes great care to keep it separated from the content of this practice (Gerrard [1996, 191]). As we saw, his view is that the latter (the relations between the already ‘archived’ items) is governed by necessity, not contingency; the background, however, is entirely contingent. As Gerrard observes, this distinction corresponds, roughly, to the one drawn in LFM, p. 241: “We must distinguish between a necessity in the system and a necessity of the whole system.” (See also RFM VI-49: “The agreement of humans that is a presupposition of logic is not an agreement in opinions on questions of logic.”) It is thus conceivable that the background might cease to exist; should it vanish, should people start disagreeing on a large scale on simple calculations or manipulations, then, as discussed, this would be the end of arithmetic – not a rejection of the truth of 2+3=5, but the end of ‘right’ (and ‘wrong’) itself, the moment when such an identity turns into a mere string of symbols whose truth would not matter more than, say, the truth of ‘chess bishops move diagonally.’ (Note that this rule is not grounded in a behavioural empirical regularity, but it is merely formal, and arbitrary.)
+The very fact of the existence of this background is not amenable to philosophical analysis. The question ‘Why do we all act the same way when confronted with certain (mathematical) situations?’ is, for Wittgenstein, a request for an explanation, and it can only be answered by advancing a theory of empirical science (neurophysiology, perhaps, or evolutionary psychology). This is a question that he, qua philosopher, does not take to be his concern. He sees himself as being in the business of only describing this background, with the avowed goal of drawing attention to its existence and (overlooked) function.
+Moreover, it now hopefully becomes clearer how his rejection of ‘philosophical’ explanations, still baffling many readers, is connected to his central strategy of dissolving (rather than solving) philosophical puzzles. (Recall Wittgenstein’s warnings about confusing philosophical questions with empirical ones in The Blue and Brown Books, p.18, 35 and the related diagnostic in RFM VI-31, “Our disease is one of wanting to explain.”) When a philosophical explanation is advanced, it usually takes the Platonist form: “we all agree about mathematical identities because we all ‘grasp’ (‘look at’, are ‘guided by’, and so forth) the same (a-causal non-spatiotemporal) mathematical entities and their relations.” But this explanation is preposterous – literally, it gets things in the wrong order. As Steiner puts it [1996, 192; emphasis added), “(w)hat Wittgenstein rejects in mathematical Platonism is not so much its doctrine that ‘mathematical objects exist’, but the illusion it fosters that the existence of mathematical objects, and of a special faculty of intuiting them can explain the extraordinary agreement among mathematicians – of all cultures – about what propositions have been proved. To the contrary, Wittgenstein argues, the ‘great’ and ‘surprising’ agreement among mathematicians underlies mathematics; indeed, makes it possible. But the task of philosophy is, and can be, only to describe, not explain, the fundamental role of the regularity of human mathematical behaviour.”
+Related to Platonism, ‘mentalism’ is another target of Wittgenstein, as Putnam [1996] notes. This is the idea that rules are followed (and calculations made) because there is something that ‘guides’ the mind in these activities. If we recall the black squares example, the guide must play the role of a regress-stopper, constituting the explanation as to how all possible interpretations and distractions are averted. The mind and this guide form an infallible mechanism delivering the result. This is a supermechanism, as Putnam calls it, borrowing Wittgenstein’s own way to characterize the proposal. (Wittgenstein talks about ‘super-concepts’ at PI §97b, ‘super-likeness’ at PI §389, and so forth.) Putnam [1996, 245-6] makes the point as follows: “Wittgenstein shows that while the words used in philosophers’ explanations of rule following may sometimes hit it off – for example, it is perfectly true that a rule determines the results of a calculation – the minute we suppose that some entity or process has been described that explains How We Are Able to Follow Rules, then we slip into thinking that we have discovered a ‘supermechanism’; moreover, if we try to take these super-mechanisms seriously we fall into absurdities. Wittgenstein sometimes indicates the general character of such ‘explanations’ by putting forward parodistic proposals, for example, that what happens when we follow a rule is that the mind is guided by invisible train tracks (§218), ‘lines along which [the rule] is to be followed through the whole of space’ (§219).”
+6. Concluding Remarks
+In 1944, Wittgenstein assessed that his “chief contribution has been in the philosophy of mathematics” (Monk [1990, 466]). According to P.M.S. Hacker, Wittgenstein’s reflections on mathematics are his “least influential and least understood” part of his later philosophy [1996, 295]. Later Wittgenstein’s philosophy of mathematics is indeed difficult to characterize and classify, especially within the framework of academic schools. (For instance, while the tendency to call him today an ‘antirealist’ appears to be well supported by textual evidence, one should not ignore the attempts to identify ‘realist’ tendencies in his work. See Diamond [1991] and Conant [1997] for discussions of Wittgenstein’s location within the broader realist-antirealist landscape). Thus there is ample room for further discussion of his views, and especially for clarifying how his philosophy of mathematics complements, or even augments, his relatively better understood philosophy of language and mind. The relation between his view of mathematics and that of the professional mathematicians is yet another interesting and potentially controversial matter worth of further study – for, if we are to believe him,
+A mathematician is bound to be horrified by my mathematical comments, since he has always been trained to avoid indulging in thoughts and doubts of the kind I develop. He has learned to regard them as something contemptible and… he has acquired a revulsion from them as infantile. That is to say, I trot out all the problems that a child learning arithmetic, and so forth, finds difficult, the problems that education represses without solving. I say to those repressed doubts: you are quite correct, go on asking, demand clarification! (PG 381, 1932)
+7. References and Further Reading
+For comprehensive bibliographical sources, see Sluga and Stern [1996] and Floyd [2005], and, for material available online, see Rodych [2008] and Biletzki and Matar [2009].
+a. Wittgenstein’s Writings
+
+Tractatus Logico-Philosophicus, [1922], London: Routledge and Kegan Paul, 1961; translated by D.F. Pears and B.F. McGuinness.
+(PI) Philosophical Investigations, [1953]. [2001], 3rd ed., Oxford: Blackwell Publishing. The German text, with a revised English translation by G. E. M. Anscombe.
+(RFM) Remarks on the Foundations of Mathematics, [1991], MIT Press: Cambridge Massachusetts and London, England (paperback edition) [1956] 1st ed. Edited by G.H. von Wright, R. Rhees and G.E.M. Anscombe (eds.); translated by G.E.M Anscombe.
+(PG) Philosophical Grammar, [1974], Oxford: Basil Blackwell; Rush Rhees, (ed.); translated by Anthony Kenny.
+(PR) Philosophical Remarks, [1975], Oxford: Basil Blackwell; Rush Rhees, (ed.); translated by Raymond Hargreaves and Roger White.
+(RPP) Remarks on the Philosophy of Psychology, [1980], Vol. I, Chicago: University of Chicago Press, G.E.M. Anscombe and G.H. von Wright, (eds.), translated by G.E.M. Anscombe.
+(BB) The Blue and Brown Books, [1964], [1958] 1st ed. Oxford: Blackwell
+(AWL) Ambrose, Alice, (ed.), [1979], Wittgenstein’s Lectures, Cambridge 1932-35: Ed. A. Ambrose, Totowa: NJ: Littlefield and Adams.
+(LFM) Diamond, Cora, (ed.), [1976], Wittgenstein’s Lectures on the Foundations of Mathematics, Ithaca, N.Y.: Cornell University Press.
+(WVC) Waismann, Friedrich, [1979], Wittgenstein and the Vienna Circle, Oxford: Basil Blackwell; edited by B.F. McGuinness; translated by Joachim Schulte and B.F. McGuinness.
+
+b. Other Sources
+
+Anderson, A.R., [1958], ‘Mathematics and the “Language Game”’, The Review of Metaphysics II, 446-458.
+Balaguer, Mark [1998], Platonism and Anti-Platonism in Mathematics, Oxford: Oxford University Press.
+Bays, Timothy, [2004], “On Floyd and Putnam on Wittgenstein on Gödel,” Journal of Philosophy, CI.4, April: 197-210.
+Benacerraf, Paul, [1973], “Mathematical Truth”, Journal of Philosophy, 70(19): 661–679.
+Benacerraf, Paul and Putnam, Hilary (eds.), [1983] 2nd ed., Philosophy of Mathematics: Selected Readings, Cambridge: Cambridge University Press. ([1964] 1st ed.)
+Bernays, Paul, [1935], “On Platonism in Mathematics”, Reprinted in Benacerraf and Putnam [1983].
+Bernays, Paul, [1959], “Comments on Ludwig Wittgenstein’s Remarks on the Foundations of Mathematics,” Ratio, Vol. 2, Number 1, 1-22.
+Biletzki, Anat and Matar, Anat, [2009], “Ludwig Wittgenstein”, The Stanford Encyclopedia of Philosophy (Summer 2011 Edition), Edward N. Zalta (ed.).
+Burgess, John P. and Rosen, Gideon, [1997], A Subject with No Object, Oxford: Oxford University Press.
+Cole, Julian, [2010], “Mathematical Platonism”, The Internet Encyclopedia of Philosophy, ISSN 2161-0002, 22 Oct 2011
+Conant , James, [1997], “On Wittgenstein’s Philosophy of Mathematics” Proceedings of the Aristotelian Society, New Series, Vol. 97 (1997), pp. 195-222.
+Dalen, van D., [1981], Brouwer’s Cambridge Lectures on Intuitionism. Cambridge Univ. Press
+Diamond, Cora, [1991], The Realistic Spirit, Cambridge, MA: MIT Press.
+Dummett, Michael, [1959], “Wittgenstein’s Philosophy of Mathematics,” The Philosophical Review, Vol. LXVIII: 324-348.
+Dummett, Michael, [1978a], “Platonism”, in Truth and Other Enigmas. Cambridge, MA: Harvard University Press pp. 202-15
+Dummett, Michael, [1978b], “Reckonings: Wittgenstein on Mathematics,” Encounter, Vol. L, No. 3 (March 1978): 63-68.
+Floyd, Juliet, [1991], “Wittgenstein on 2, 2, 2…: The Opening of Remarks on the Foundations of Mathematics,” Synthese 87: 143-180.
+Floyd, Juliet, and Putnam, Hilary, [2000], “A Note on Wittgenstein’s “Notorious Paragraph” about the Gödel Theorem,” The Journal of Philosophy, Volume XCVII, Number 11, November: 624-632.
+Floyd, Juliet, [2001], “Prose versus Proof: Wittgenstein on Gödel, Tarski, and Truth,” Philosophia Mathematica 3, Vol. 9: 280-307.
+Floyd, Juliet, [2005], “Wittgenstein on Philosophy of Logic and Mathematics,” in The Oxford Handbook of Philosophy of Logic and Mathematics, S. Shapiro (ed.), Oxford: Oxford University Press: 75-128.
+Floyd, Juliet, and Putnam, Hilary, [2006], “Bays, Steiner, and Wittgenstein’s ‘Notorious’ Paragraph about the Gödel Theorem,” The Journal of Philosophy, February, Vol. CIII, No. 2: 101-110.
+Fogelin, Robert J., [1994], [1987; 1st ed. 1976], Wittgenstein, Second Edition, New York: Routledge & Kegan Paul.
+Fogelin, Robert J., [2009], Taking Wittgenstein at His Word Princeton: Princeton University Press, 2009
+Gerrard, Steve, [1991], “Wittgenstein’s Philosophies of Mathematics,” Synthese 87: 125-142.
+Gerrard, Steve, [1996], “A Philosophy of Mathematics Between Two Camps,” in The Cambridge Companion to Wittgenstein, Sluga and Stern, (eds.), Cambridge: Cambridge University Press: 171-197.
+Gödel, Kurt, [1947], “What is Cantor’s Continuum Problem?”, Amer. Math. Monthly, 54: 515–525.
+Goodman, Nelson, [1955], Fact, Fiction, & Forecast, Cambridge, MA: Harvard University Press.
+Hacker, P. M. S., [1996], Wittgenstein’s Place in Twentieth-Century Analytic Philosophy, Blackwell.
+Hardy, Geoffrey H, [1929], “Mathematical Proof” Mind 38: 149
+Hardy, Geoffrey H, [1967], A Mathematician’s Apology, Cambridge Univ. Press
+Hertz, Heinrich, [1899, 2003], The Principles of Mechanics, Robert S. Cohen (ed.), D.E. Jones and J.T. Walley (trans.), New York: Dover Phoenix Editions 1956.
+Kreisel, Georg, [1958], “Wittgenstein’s Remarks on the Foundations of Mathematics,” British Journal for the Philosophy of Science 9, No. 34, August 1958, 135-57.
+Kripke, Saul A., [1982], Wittgenstein on Rules and Private Language, Cambridge, Mass.: Harvard University Press.
+Linnebo, Øystein, [2009] “Platonism in the Philosophy of Mathematics”, The Stanford Encyclopedia of Philosophy (Fall 2009 Edition), Edward N. Zalta (ed.).
+Maddy, Penelope, [1997], Naturalism in Mathematics Oxford Univ. Press
+Monk, Ray [1990] Ludwig Wittgenstein: The Duty of Genius Macmillan Free Press, London.
+Morton, Adam, and Stich, Stephen, [1996], Benacerraf and His Critics, Oxford: Blackwell.
+Putnam, Hilary, [1996], ‘On Wittgenstein’s Philosophy of Mathematics’ Proceedings of the Aristotelian Society, Supplementary Volumes, Vol. 70 (1996), pp. 243-265
+Putnam, Hilary, and Juliet Floyd, [2000], “A Note on Wittgenstein’s “Notorious Paragraph” about the Gödel Theorem,” The Journal of Philosophy, Volume XCVII, Number 11, November: 624-632.
+Rodych, Victor, [1999], “Wittgenstein’s Inversion of Gödel’s Theorem,” Erkenntnis, Vol. 51, Nos. 2/3: 173-206.
+Rodych, Victor, [2006], “Who Is Wittgenstein’s Worst Enemy?: Steiner on Wittgenstein on Gödel,” Logique et Analyse, Vol. 49, No. 193: 55-84.
+Rodych, Victor, [2008], “Wittgenstein’s Philosophy of Mathematics”, The Stanford Encyclopedia of Philosophy (Fall 2008 Edition), Edward N. Zalta (ed.).
+Shanker, Stuart, [1988], “Wittgenstein’s Remarks on the Significance of Gödel’s Theorem,” in Shanker, S. (ed.) Gödel’s Theorem in Focus, Routledge; pp. 155-256.
+Shapiro, Stewart, [2000], Thinking about Mathematics. The Philosophy of Mathematics. Oxford University Press.
+Shapiro, Stewart (ed.), [2005], The Oxford Handbook of Philosophy of Logic and Mathematics, Oxford: Oxford University Press.
+Sluga, Hans, and Stern, David G., (eds.), [1996], The Cambridge Companion to Wittgenstein, Cambridge: Cambridge University Press.
+Steiner, Mark, [1996], “Wittgenstein: Mathematics, Regularities, Rules,” in Benacerraf and His Critics, Morton and Stich (eds.), Oxford: Blackwell: 190-212.
+Steiner, Mark, [2001], “Wittgenstein as His Own Worst Enemy: The Case of Gödel’s Theorem,” Philosophia Mathematica, Vol. 9, Issue 3: 257-279.
+Steiner, Mark, [2009], “Empirical Regularities in Wittgenstein’s Philosophy of Mathematics” Philosophia Mathematica 17 (1): 1-34
+Stern, David, [1991], “The ‘Middle Wittgenstein’: From Logical Atomism to Practical Holism” Synthese 87: 203-26.
+Stern, David, [2004], Wittgenstein’s Philosophical Investigations. An Introduction. Cambridge Univ. Press.
+Tymoczko, T, [1984], “Gödel, Wittgenstein and the Nature of Mathematical Knowledge” PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association, Vol. II: Symposia and Invited Papers, pp. 449-468
+Wright, Crispin, [1980], Wittgenstein on the Foundations of Mathematics, London: Duckworth.
+Wrigley, Michael, [1977], “Wittgenstein’s Philosophy of Mathematics,” Philosophical Quarterly, Vol. 27, No. 106: 50-9.
+
+ 
+Author Information
+Sorin Bangu
+Email: sorin.bangu@fof.uib.no
+University of Bergen
+Norway
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

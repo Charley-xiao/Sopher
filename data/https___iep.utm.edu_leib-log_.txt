@@ -1,0 +1,593 @@
+
+
+
+
+
+
+
+
+
+Leibniz: Logic | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leibniz: Logic
+The revolutionary ideas of Gottfried Wilhelm Leibniz (1646-1716) on logic were developed by him between 1670 and 1690. The ideas can be divided into four areas: the Syllogism, the Universal Calculus, Propositional Logic, and Modal Logic.
+These revolutionary ideas remained hidden in the Archive of the Royal Library in Hanover until 1903 when the French mathematician Louis Couturat published the Opuscules et fragments inédits de Leibniz. Couturat was a great admirer of Leibniz’s thinking in general, and he saw in Leibniz a brilliant forerunner of modern logic. Nevertheless he came to the conclusion that Leibniz’s logic had largely failed and that in general the so-called “intensional” approach to logic was necessarily bound to fail. Similarly, in their standard historiography of logic, W. & M. Kneale (1962) maintained that Leibniz “never succeeded in producing a calculus which covered even the whole theory of the syllogism”. Even in recent years, scholars like Liske (1994), Swoyer (1995), and Schupp (2000) argued that Leibniz’s intensional conception must give rise to inconsistencies and paradoxes.
+On the other hand, starting with Dürr (1930), Rescher (1954), and Kauppi (1960), a certain rehabilitation of Leibniz’s intensional logic may be observed which was by and by supported and supplemented by Poser (1969), Ishiguro (1972), Rescher (1979), Burkhardt (1980), Schupp (1982), and Mugnai (1992). However, the full wealth of Leibniz’s logical ideas became visible only in Lenzen (1990), (2004a), and (2004b), where the many pieces and fragments were joined together to an impressive system of four calculi:
+
+The algebra of concepts L1 (which turns out to be deductively equivalent to the Boolean algebra of sets)
+The quantificational system L2 (where “indefinite concepts” function as quantifiers ranging over concepts)
+A propositional calculus of strict implication (obtained from L1 by the strict analogy between the containment-relation among concepts and the inference-relation among propositions)
+The so-called “Plus-Minus-Calculus” (which is to be viewed as a theory of set-theoretical containment, “addition,” and “subtraction”).
+
+Table of Contents
+
+Leibniz’s Logical Works
+Works on the Theory of the Syllogism
+
+Axiomatization of the Theory of the Syllogism
+The Semantics of “Characteristic Numbers”
+Linear Diagrams and Euler-circles
+
+
+Works on the Universal Calculus
+
+The Algebra of Concepts L1
+The Quantificational System L2
+The Plus-Minus-Calculus
+
+
+Leibniz’s Calculus of Strict Implication
+Works on Modal Logic
+
+Possible-Worlds-Semantics for Alethic Modalities
+Basic Principles of Deontic Logic
+
+
+References and Further Reading
+
+Abbreviations for Leibniz’s works
+Secondary Literature
+
+
+
+1. Leibniz’s Logical Works
+Throughout his life (beginning in 1646 in Leipzig and ending in 1716 in Hanover), Gottfried Wilhelm Leibniz did not publish a single paper on logic, except perhaps for the mathematical dissertation “De Arte Combinatoria” and the juridical disputa­tion “De Conditionibus” (GP 4, 27-104 and AE IV, 1, 97-150; the abbrevi­ations for Leibniz’s works are resolved in section 6). The former work deals with some issues in the theory of the syllogism, while the latter contains investigations of what is nowadays called deontic logic. Leibniz’s main aim in logic, however, was to extend the traditional syllogistic to a “Universal Calculus.” Although there exist several drafts of such a calculus which seem to have been composed for publication, none of them was eventually sent to press. So Leibniz’s logical essays appeared only posthumously. The early editions of his philosophical works, however, contained only a small selection of logical papers. It was not before the beginning of the 20th century that the majority of his logical fragments became generally accessible by the valuable edition of Louis Couturat.
+Since only few manuscripts were dated by Leibniz, his logical oeuvre shall not be described here in chronological order but from a merely systematic point of view by distinguishing four groups:
+
+Works on the Theory of the Syllogism
+Works on the Universal Calculus
+Works on Propositional Logic
+Works on Modal Logic.
+
+2. Works on the Theory of the Syllogism
+Leibniz’s innovations within the theory of the syllogism comprise at least three topics:
+(a)   An “Axiomatization” of the theory of the syllogism, that is, a reduction of the traditional inferences to a small number of basic laws which are sufficient to derive all other syllogisms.
+(b)   The development of the semantics of so-called “characteristic num­bers” for evaluating the logical validity of a syllogistic inference.
+(c)    The invention of two sorts of graphical devices, that is to say, linear diagrams and (later) so-called “Euler-circles,” as a heuristic for checking the validity of a syllogism.
+a. Axiomatization of the Theory of the Syllogism
+In the 17th century, logic was still strongly influenced, if not dominated, by syllogistic, that is, by the traditional theory of the four categorical forms:
+Universal affirmative proposition (UA)        Every S is P          SaP
+Universal negative proposition (UN)              No S is P               SeP
+Particular affirmative proposition (PA)         Some S is P          SiP
+Particular negative proposition (PN)              Some S isn’t P      SoP
+A typical textbook of that time is the famous “Logique de Port Royal” (Arnauld & Nicole (1683)) which, apart from an introductory investigation of ideas, concepts, and propositions in general, basically consists of:
+(i)       The theory of the so-called “simple” laws of subalternation, oppo­sition, and conversion;
+(ii)      The theory of the syllogistic “moods” which are classified into four different “figures” for which specific rules hold.
+As Leibniz defines it, a “subalternation takes place whenever a particular proposition is inferred from the corresponding universal proposition” (Cout, 80), that is:
+SUB 1            SaP → SiP
+SUB 2            SeP → SoP.
+According to the modern analysis of the categorical forms in terms of first order logic, these laws are not strictly valid but hold only under the assumption that the subject term S is not empty. This problem of “existential import” will be discussed below.
+The theory of opposition first has to determine which propositions are contradictories of each other in the sense that they can neither be together true nor be together false. Clearly, the PN is the contradictory, or negation, of the UA, while the PA is the negation of the UN:
+OPP 1            ¬SaP ↔ SoP
+OPP 2            ¬SeP ↔ SiP.
+The next task is to determine which propositions are contraries to each other in the sense that they cannot be together true, while they may well be together false. As Leibniz states in “Theorem 6: The universal affirmative and the universal negative are contrary to each other” (Cout, 82). Finally, two propositions are said to be subcontraries if they cannot be together false while it is possible that are together true. As Leibniz notes in another theorem, the two particular propositions, SiP and SoP, are logically related to each other in this way. The theory of subalternation and opposition is often summarized in the familiar “Square of Opposition”:
+
+In the paper “De formis syllogismorum Mathematice definiendis” written around 1682 (Cout, 410-416, and the text-critical edition in AE VI, 4, 496-505) Leibniz tackled the task of “axiomatizing” the theory of the syllogistic figures and moods by reducing them to a small number of basic principles. The “Fundamentum syllogisticum”, that is, the axiomatic basis of the theory of the syllogism, is the “Dictum de omni et nullo” (The saying of ‘all’ and ‘none’):
+If a total C falls within another total D, or if the total C falls outside D, then whatever is in C, also falls within D (in the former case) or outside D (in the latter case) (Cout, 410-411).
+These laws warrant the validity of the following “perfect” moods of the “First Figure”:
+BARBARA        CaD, BaC → BaD
+CELARENT      CeD, BaC → BeD
+DARII                 CaD, BiC → BiD
+FERIO                 CeD, BiC → BoD.
+On the one hand, if the second premise of the affirmative moods BARBARA and DARII is satisfied, that is, if B is either totally or partially contained in D, then, according to the “Dictum de Omni”, also B must be either totally or partially contained in D since, by the first premise, C is entirely contained in D. Similarly the negative moods CELARENT and FERIO follow from the “Dictum de Nullo”: “B is either totally or partially contained in C; but the entire C falls outside D; hence also B either totally or partially falls outside D” (Cout, 411).
+Next Leibniz derives the laws of subalternation from the syllogisms DARII and FERIO by substituting ‘B’ for ‘C’ and ‘C’ for ‘D’, respectively. This derivation (and hence also the validity of the laws of subalternation) tacitly presupposes the following principle which Leibniz considered as an “identity”:
+SOME             BiB.
+With the help of the laws of subalternation, BARBARA and CELARENT may be “weakened” into
+BARBARI      CaD, BaC → BiD
+CELARO        CeD, BaC → BoD.
+Thus the First Figure altogether has six valid moods, from which one obtains six moods of the Second and six of the Third Figure by means of a logical inference-scheme called “Regressus”:
+REGRESS      If a conclusion Q logically follows from premises P1, P2, but if Q is false, then one of the premises must be false.
+When Leibniz carefully carries out these derivations, he presupposes the laws of opposition, Opp 1, Opp 2. Finally, six valid moods of the Fourth Figure can be derived from corresponding moods of the First Figure with the help of the laws of conversions.According to traditional doctrines, the PA and the UN may be converted “simpliciter”, while the UA can only be converted “per accidens”:
+CONV 1          BiD → DiB
+CONV 2          BeD → DeB
+CONV 3          BaD → DiB.
+As Leibniz shows, these laws can in turn be derived from some previously proven syllogisms with the help of the “identical” proposition:
+ALL                BaB.
+Furthermore one easily obtains another law of conversion according to which the UN can also be converted “accidentally”:
+CONV 4          BeD → DoB.
+The announced derivation of the moods of the Fourth Figure was not carried out in the fragment “De formis syllogismorum Mathematice definiendis” which just breaks off with a reference to “Figura Quarta”. It may, however, be found in the manuscript LH IV, 6, 14, 3 which, unfortunately, was only partially edited in Cout, 204. At any rate, Leibniz managed to prove that all valid moods can be reduced to the “Fundamentum syllogisticum” in conjunction with the laws of opposition, the inference scheme “Regressus”, and the “identical” propositions SOME and ALL.
+Now while ALL is an identity or theorem of first order logic, ∀x(Bx → Bx), SOME is nowadays interpreted as ∃x(Bx ∧ Bx). This formula is equivalent to ∃x(Bx), that is, to the assumption that there “exists” at least one x such that x is B. Hence the laws of subalternation presuppose that each concept B (which can occupy the position of the subject of a categorical form) is “non-empty”. Leibniz discussed this problem of “existential import” in a paper entitled “Difficultates quaedam logicae” (GP 7, 211-217) where he distinguished two kinds of “existence”: Actual existence of the individuals inhabiting our real world vs. merely possible subsistence of individuals “in the region of ideas”. According to Leibniz, logical inferences should always be evaluated with reference to “the region of ideas”, that is, the larger set of all possible individuals. Therefore all that is required for the validity of subalternation is that the term B occupying the position of the subject of a categorical form has a non-empty extension within the domain of possible individuals. As will turn out below (compare the definition of an extensional interpretation of L1 in section 3.1), this weak condition of “existential import” becomes tantamount to the assumption that the respective concept B is self-consistent!
+b. The Semantics of “Characteristic Numbers”
+In a series of papers of April 1679, Leibniz elaborated the idea of assigning natural numbers to the subject and predicate of a proposition a in such a way that the truth of a can be “read off” from these numbers. Apparently Leibniz was hoping that mankind might once discover the “true” characteristic numbers which would enable one to determine the truth of arbitrary propositions just by mathematical calculations! In the essays of April 1679, however, he pursued only the much more modest goal of defining appropriate arithmetical conditions for determining whether a syllogistic inference is logically valid. This task was guided by the idea that a term composed of concepts A and B gets assigned the product of the numbers assigned to the components:
+For example, since ‘man’ is ‘rational animal’, if the number of ‘animal’, a, is 2, and the number of ‘rational’, r, is 3, then the number of ‘man’, m, will be the same as a*r, in this example 2*3 or 6. (LLP, 17).
+Now a UA like ‘All gold is metal’ can be understood as maintaining that the concept ‘gold’ contains the concept ‘metal’ (because ‘gold’ can be defined as ‘the heaviest metal’). Therefore it seems obvious to postulate that in general ‘Every S is P’ is true if and only if s, the characteristic number assigned to S, contains p, the number assigned to P, as a prime factor; or, in other words, s must be divisible by p. In a first approach, Leibniz thought that the truth-conditions for the particular proposition ‘Some S are P’ might be construed similarly by requiring that either s can be divided by p or conversely p can be divided by s. But this was mistaken. After some trials and errors, Leibniz found the following more complicated solution:
+(i)     To every term T, a pair of natural numbers <+t1;-t2> is assigned such that t1 and t2 are relatively prime, that is, they don’t have a common divisor.
+(ii)    The UA ‘Every S is P’ is true (relative to the assignment (i)) if and only if +s1 is divisible by +p1 and -s2 is divisible by -p2.
+(iii)   The UN ‘No S is P’ is true if and only if +s1 and -p2 have a common divisor or +p1 and -s2 have a common divisor.
+(iv)   The PA ‘Some S is P’ is true if and only if condition (iii) is not satisfied.
+(v)    The PN ‘Some S isn’t P’ is true if and only if condition (ii) is not satisfied.
+(vi)   An inference from premises P1, P2 to the conclusion C is logically valid if and only if for each assignment of numbers satisfying condition (i), C becomes true whenever both P1 and P2 are true.
+As was shown by Lukasiewicz (1951), this semantics satisfies the simple inferences of opposition, subalternation, and conversion, as well as all (and only) the syllogisms which are commonly regarded as valid. Leibniz tried to generalize this semantics for the entire algebra of concepts, but he never found a way to cope with negative concepts. This problem has only been solved by contemporary logicians; compare Sanchez-Mazas (1979), Sotirov (1999).
+c. Linear Diagrams and Euler-circles
+In the paper “De Formae Logicae Comprobatione per Linearum ductus” probably written after 1686 (Cout, 292-321), Leibniz elaborated two methods for representing the content of categorical propositions. The UA, for example, ‘Every man is an animal’, can be represented either by two nested circles or by two horizontal lines which symbolize that the extension of B is contained in the extension of C (the subsequent graphics are scans from Cout, 292-295):
+
+In the case of a UN like ‘No man is a stone’, one obtains the following diagrams which symbolize that the extension of B is set-theoretically disjoint from the extension of C:
+
+Similarly, the following circles and lines symbolize that, in the case of a PA like ‘Some men are wise’, the extensions of B and C overlap:
+
+Finally, in the case of a PN like ‘Some men are not ruffians’, the diagrams are meant to symbolize that the extension of B is partially disjoint from the extension of C,that is, that some elements of B are not elements of C:
+
+These diagrams may then be used to check whether a given inference is valid. Thus, for example, the validity of FERIO can be illustrated as follows:
+
+Here the conclusion ‘Some D is not B’ follows from the premises ‘No C is B’ and ‘Some D is C’ because the elements of D which are in C can’t be elements of B. On the other hand, invalid syllogisms as, for example, the mood “AOO” of the Fourth Figure, can be refuted as follows:
+
+As the diagram illustrates, the truth of the premises ‘Every B is C’ and ‘Some C is not D’ is compatible with a situation where the conclusion ‘Some D is not B’ is false, that is, where ‘Every D is B’ is true.
+Of course, Leibniz’s diagrams which were re-discovered in the 18th century among others by Euler (1768) are not without problems. In particular, the circles for the PA and the PN are somewhat inaccurate because they basic­ally visualize one and the same state of affairs, namely that (i) some B are C, and (ii) some B are not C, and also (iii) some C are not B. The need to distinguish between different situations such as ((i) & (ii)) in contrast to ((i) & not (ii)) led to improvements of the method of “Euler-circles” as suggested by Venn (1881), Hamilton (1861), and others. Note, incidentally, that, in the GI, Leibniz himself improved the linear diagrams for the UA, PA and PN by drawing perpendicular lines symbolizing the “maximum”,that is, “the limits beyond which the terms cannot, and within which they can, be extended”. At the same time he used a double horizontal line to symbolize “the minimum, that is, that which cannot be taken away without affecting the relation of the terms” (LLP, 73-4, fn. 2).
+3. Works on the Universal Calculus
+In the period between, roughly, 1679 and 1690, Leibniz spent much effort to generalize the traditional logic to a “Universal Calculus”. At least three different calculi may be distinguished:
+(a) The algebra of concepts which is provably equivalent to the Boolean algebra of sets;
+(b)   A fragmentary quantificational system in which the quantifiers range over concepts but in which quantification over individuals may be introduced by definition;
+(c) The so-called “Plus-Minus-calculus” which constitutes an abstract system of “real addition” and “subtraction”. When this calculus is applied to concepts, it yields a weaker logic than the full algebra (a).
+a. The Algebra of Concepts L1
+The algebra of concepts grows out of the syllogistic framework by three achievements. First, Leibniz drops the informal quantifier expression ‘every’ and formulates the UA simply as “A is B” or, equivalently, as “A contains B”. This fundamental proposition shall here be symbolized as A∈B while its negation will be abbreviated as A∉B. Second, Leibniz introduces an operator of conceptual conjunction which combines two concepts A and B into AB (sometimes also written as “A+B”). Third, Leibniz allows the unrestricted use of conceptual negation which shall here be symbolized as ~A (“Not-A”). Hence, in particular, one can form the inconsistent concept A~A (“A Not-A”) and its tautological counterpart ~(A~A).
+Identity or coincidence of concepts might be defined as mutual containment:
+DEF 1            (A = B) =df (A∈B) ∧ (B∈A).
+Alternatively, the algebra of concepts can be built up with ‘=’ as a primitive operator while ‘∈’ is defined by:
+DEF 2            (A∈B) =df (A = AB).
+Another important operator may be introduced by definition. Concept B is possible if B does not contain a contradiction like A~A:
+DEF 3            P(B) =df (B∉A~A).
+Leibniz uses many different locutions to express the self-consistency of a concept A. Instead of ‘A est possibile’ he often says ‘A est res’, ‘A est ens’; or simply ‘A est’. In the opposite case of an impossible concept he also calls A a “false term” (“terminus falsus”).
+Identity can be axiomatized by the law of reflexivity in conjunction with the rule of substitutivity:
+IDEN 1            A = A
+IDEN 2            If A = B, then α[A] ↔ α[B].
+By means of these principles, one easily derives the following corollaries:
+IDEN 3            A = B → B = A
+IDEN 4            A = B ∧ B = C → A = C
+IDEN 5            A = B → ~A = ~B
+IDEN 6            A = B → AC = BC.
+The following laws express the reflexivity and the transitivity of the containment relation:
+CONT 1          A∈A
+CONT 2          A∈B ∧ B∈C → A∈C.
+The most fundamental principle for the operator of conceptual conjunction says: “That A contains B and A contains C is the same as that A contains BC” (LLP, 58, fn. 4), that is,
+CONJ 1          A∈BC ↔ A∈B ∧ A∈C.
+Conjunction then satisfies the following laws:
+CONJ 2          AA = A
+CONJ 3          AB = BA
+CONJ 4          AB∈A
+CONJ 5          AB∈B.
+The next operator is conceptual negation, ‘not’. Leibniz had serious problems with finding the proper laws governing this operator. From the tradition, he knew little more than the “law of double negation”:
+NEG 1            ~~A = A
+One important step towards a complete theory of conceptual negation was to transform the informal principle of contraposition, ‘Every A is B, therefore Every Not-B is Not-A’ into the following principle:
+NEG 2            A∈B ↔ ~B∈~A.
+Furthermore Leibniz discovered various variants of the “law of consistency”:
+NEG 3            A ≠ ~A
+NEG 4            A = B → A ≠ ~B.
+NEG 5*           A∉~A
+NEG 6*           A∈B → A∉~B.
+In the GI, these principles are formulated as follows: “A proposition false in itself is ‘A coincides with Not-A’” (§ 11); “If A = B, then A ≠ Not-B” (§ 171); “It is false that B contains Not-B, that is, B doesn’t contain Not-B” (§ 43); and “A is B, therefore A isn’t Not-B” (§ 91).
+Principles NEG 5* and NEG 6* have been marked with a ‘*’ in order to indicate that the laws as stated by Leibniz are not absolutely valid but have to be restricted to self-consistent terms:
+NEG 5            P(A) → A∉~A
+NEG 6            P(A) → (A∈B → A∉~B).
+The following two laws describe some characteristic relations between the possibility-operator P and the other operators of L1:
+POSS 1           A∈B ∧ P(A) → P(B)
+POSS 2           A∈B ↔ ¬P(A~B).
+All these principles have been discovered by Leibniz himself who thus provided an almost complete axiomatization of L1. As a matter of fact, the “intensional” algebra of concept can be proven to be equivalent to Boole’s extensional algebra of sets provided that one adds the following counterpart of the “ex contradictorio quodlibet”:
+NEG 7            (A~A)∈B.
+As regards the relation of conceptual containment, A∈B, it is important to observe that Leibniz’s standard formulation ‘A contains B’ expresses the so-called “intensional” view of concepts as ideas, while we here want to develop an extensional interpretation in terms of the sets of individuals that fall under the concepts. Leibniz explained the mutual relationship between the “intensional” and the extensional point of view in the following passage from the “New Essays on Human understanding”:
+The common manner of statement concerns individuals, whereas Aristotle’s refers rather to ideas or universals. For when I say Every man is an animal I mean that all the men are included among all the animals; but at the same time I mean that the idea of animal is included in the idea of man. ‘Animal’ comprises more individuals than ‘man’ does, but ‘man’ comprises more ideas or more attributes: one has more instances, the other more degrees of reality; one has the greater extension, the other the greater intension. (NE, Book IV, ch. XVII, § 8; compare the original French version in GP 5, 469).
+If ‘Int(A)’ and ‘Ext(A)’ abbreviate the “intension” and the extension of a concept A, respectively, then the so-called law of reciprocity can be formalized as follows:
+RECI               Int(A) ⊆ Int (B) ↔ Ext(A) ⊇ Ext(B).
+From this it immediately follows that two concepts A, B have the same “intension” iff they have the same extension. This somewhat surprising result might seem to unveil an inadequacy of Leibniz’s conception. However, “intensionality” in the sense of traditional logic must not be mixed up with intensionality in the modern sense. Furthermore, in Leibniz’s view, the extension of a concept A is not just the set of actually existing individuals, but rather the set of all possible individuals that fall under concept A. Therefore one may define the concept of an extensional interpretation of L1 in accordance with Leibniz’s ideas as follows:
+DEF 4      Let U be a non-empty set (the domain of all possible indi­viduals), and let ϕ be a function such that ϕ(A) ⊆ U for each concept-letter A. Then ϕ is an extensional interpretation of L1 if and only if:
+(1) ϕ(A∈B) = true iff ϕ(A) ⊆ ϕ(B);
+(2) ϕ(A=B) = true iff ϕ(A) = ϕ(B);
+(3) ϕ(AB) = ϕ(A) ∩ ϕ(B);
+(4) ϕ(~A) = complement of ϕ(A);
+(5) ϕ(P(A)) = true iff ϕ(A) ≠ ∅.
+Conditions (1) and (2) are straightforward consequences of RECI. Condition (3) also is trivial since it expresses that an individual x belongs to the extension of AB just in case that x belongs to the extension of both concepts (and hence to their intersection). According to condition (4), the extension of the negative concept ~A is just the set of all individuals which do not fall under the concept A. Condition (5) says that a concept A is possible if and only if it has a non-empty extension.
+At first sight, this requirement appears inadequate, since there are certain concepts – such as that of a unicorn – which happen to be empty but which may nevertheless be regarded as possible, that is, not involving a contradiction. However, the universe of discourse underlying the extensional interpretation of L1 does not consist of actually existing objects only, but instead comprises all possible individuals. Therefore the non-emptiness of the extension of A is both necessary and sufficient for guaranteeing the self-consistency of A. Clearly, if A is possible, then there must be at least one possible individual x that falls under concept A.
+It has often been noted that Leibniz’s logic of concepts lacks the operator of disjunction. Although this is by and large correct, it doesn’t imply any defect or any incompleteness of the system L1 because the operator A∨B may simply be introduced by definition:
+DISJ 1            A∨B =df ~(~A ~B).
+On the background of the above axioms of negation and conjunction, the standard laws for disjunction, for example
+DISJ 2            A∈(A∨B)
+DISJ 3            B∈(A∨B)
+DISJ 4            A∈C ∧ B∈C → (A∨B)∈C,
+then become provable (Lenzen (1984)).
+b. The Quantificational System L2
+Leibniz’s quantifier logic L2 emerges from L1 by the introduction of so-called “indefinite concepts”. These concepts are symbolized by letters from the end of the alphabet X, Y, Z …, and they function as quantifiers ranging over concepts. Thus, in the GI, Leibniz explains:
+(16) An affirmative proposition is ‘A is B’ or ‘A contains B’ […]. That is, if we substitute the value for A, one obtains ‘A coincides with BY’. For example, ‘Man is an animal’, that is, ‘Man’ is the same as ‘a … animal’ (namely, ‘Man’ is ‘rational animal’). For by the sign ‘Y’ I mean something undetermined, so that ‘BY’ is the same as ‘Some B’, or ‘A … animal’ […], or ‘A certain animal’. So ‘A is B’ is the same as ‘A coincides with some B’, that is, ‘A = BY’.
+With the help of the modern symbol for the existential quantifier, the latter law can be expressed more precisely as follows:
+CONT 3          A∈B ↔ ∃Y(A = BY).
+As Leibniz himself noted, the formalization of the UA according to CONT 3 is provably equivalent to the simpler representation according to DEF 2:
+It is noteworthy that for ‘A = BY’ one can also say ‘A = AB’ so that there is no need to introduce a new letter. (Cout, 366; compare also LLP, 56, fn. 1.)
+On the one hand, according to the rule of existential generalization,
+EXIST 1          If α[A], then ∃Yα[Y],
+A = AB immediately entails ∃Y(A = YB). On the other hand, if there exists some Y such that A = YB, then according to IDEN 6, AB = YBB, that is, AB = YB and hence (by the premise A = YB) AB = A. (This proof incidentally was given by Leibniz himself in the important paper “Primaria Calculi Logic Fundamenta” of August 1690; Cout, 235).
+Next observe that Leibniz often used to formalize the PA ‘Some A is B’ by means of the indefinite concept Y as ‘YA∈B’. In view of CONT 3, this repre­sentation might be transformed into the (elliptic) equation YA = ZB. However, both formalizations are somewhat inadequate because they are easily seen to be theorems of L2! According to CONJ 4, BA contains B, hence by EXIST 1:
+CONJ 6          ∃Y(YA∈B).
+Similarly, since, according to CONJ 3, AB = BA, a twofold application of EXIST 1 yields:
+CONJ 7          ∃Y∃Z(YA = BZ).
+These tautologies, of course, cannot adequately represent the PA which for an appropriate choice of concepts A and B may become false! In order to resolve these difficulties, consider a draft of a calculus probably written between 1686 and 1690 (compare Cout, 259-261, and the text-critical edition in AE, VI, 4, # 171), where Leibniz proved principle:
+NEG 8*           A∉B ↔ ∃Y(YA∈~B).
+On the one hand, it is interesting to see that after first formulating the right hand side of the equivalence, “as usual”, in the elliptic way ‘YA is Not-B’, Leibniz later paraphrased it by means of the explicit quantifier expression “there exists a Y such that YA is Not-B”. On the other hand, Leibniz discovered that NEG 8* has to be improved by requiring more exactly that there exists a Y such that YA contains ~B and YA is possible, that is, Y must be compatible with A:
+NEG 8            A∉B ↔ ∃Y(P(YA) ∧ YA∈~B).
+Leibniz’s proof of this important law is quite remarkable:
+(18) […] to say ‘A isn’t B’ is the same as to say ‘there exists a Y such that YA is Not-B’. If ‘A is B’ is false, then ‘A Not-B’ is possible by [POSS 2]. ‘Not-B’ shall be called ‘Y’. Hence YA is possible. Hence YA is Not-B. Therefore we have shown that, if it is false that A is B, then QA is Not-B. Conversely, let us show that if QA is Not-B, ‘A is B’ is false. For if ‘A is B’ would be true, ‘B’ could be substituted for ‘A’ and we would obtain ‘QB is Not-B’ which is absurd. (Cout, 261)
+To conclude the sketch of L2, let us consider some of the rare passages where an indefinite concept functions as a universal quantifier. In the above quoted draft (Cout, 260), Leibniz put forward principle “(15) ‘A is B’ is the same as ‘If L is A, it follows that L is B’”:
+CONT 4          A∈B ↔ ∀Y(Y∈A → Y∈B).
+Furthermore, in § 32 GI, Leibniz at least vaguely recognized that just as A∈B (according to CONJ 6) is equivalent to ∃Y(A = YB), so the negation A∉B means that, for any indefinite concept Y, A ≠ BY:
+CONT 5          A∉B ↔ ∀Y(A ≠ YB).
+According to AE, VI, 4, 753, Leibniz had written: “(32) Propositio Negativa. A non continet B, seu A esse (continere) B falsum est, seu A non coincidit BY”. Unfortunately, the last passage ‘seu A non coincidit BY’ had been overlooked by Couturat and it is therefore also missing in Parkinson’s translation in LLP! Anyway, with the help of ‘∀’, one can formalize Leibniz’s conception of individual concepts as maximally-consistent concepts as follows:
+IND 1             Ind(A) ↔df P(A) ∧ ∀Y(P(AY) → A∈Y).
+Thus A is an individual concept iff A is “self-consistent and A contains every concept Y which is compatible with A. The underlying idea of the complete­ness of individual concepts had been formulated in § 72 GI as follows:
+So if BY is [“being”], and the indefinite term Y is superfluous, that is, in the way that ‘a certain Alexander the Great’ and ‘Alexander the Great’ are the same, then B is an individual. If the term BA is [“being”] and if B is an individual, then A will be superfluous; or if BA=C, then B=C (LLP 65, § 72 + fn. 1; for a closer interpretation of this idea, see Lenzen (2004c)).
+Note, incidentally, that IND 1 might be simplified by requiring that, for each concept Y, A either contains Y or contains ~Y:
+IND 2             Ind(A) ↔ ∀Y(A∈~Y ↔ A∉Y).
+As a corollary it follows that the invalid principle
+NEG 9*          A∉B → A∈~B,
+which Leibniz again and again had considered as valid, in fact holds only for individual concepts:
+NEG 9            Ind(A) → (A∉B → A∈~B).
+Already in the “Calculi Universalis Investigationes” of 1679, Leibniz had pointed out:
+…If two propositions are given with exactly the same singular [!] subject, where the predicate of the one is contradictory to the predicate of the other, then necessarily one proposition is true and the other is false. But I say: exactly the same [singular] subject, for example, ‘This gold is a metal’, ‘This gold is a not-metal.’ (AE VI, 4, 217-218).
+The crucial issue here is that NEG 9* holds only for an individual concept like, for example, ‘Apostle Peter’, but not for general concepts as, for example, ‘man’. The text-critical apparatus of AE reveals that Leibniz was somewhat diffident about this decisive point. He began to illustrate the above rule by the correct example “if I say ‘Apostle Peter was a Roman bishop’, and ‘Apostle Peter was not a Roman bishop’” and then went on, erroneously, to generalize this law for arbitrary terms: “or if I say ‘Every man is learned’ ‘Every man is not learned’.” Finally he noticed this error “Here it becomes evident that I am mistaken, for this rule is not valid.” The long story of Leibniz’s cardinal mistake of mixing up ‘A isn’t B’ and ‘A is not-B’ is analyzed in detail in Lenzen (1986).
+There are many different ways to represent the categorical forms by formulas of L1 or L2. The most straightforward formalization would be the following “homogenous” schema in terms of conceptual containment:
+UA   A∈B                                    UN   A∈~B
+PA   A∉~B                                  PN   A∉B.
+The “homogeneity” consists in two facts:
+(a)   The formula for the UN is obtained from that of the UA by replacing the predicate B with its negation, ~B. This is the formal counterpart of the traditional principle of obversion according to which, for example, ‘No A is B’ is equivalent to ‘Every A is not-B’.
+(b)  In accordance with the traditional laws of opposition, the formulas for the particular propositions are just taken as the negations of corresponding universal propositions.
+In view of DEF 2, the first schema may be transformed into
+UA   A = AB                                UN   A = A~B
+PA   A ≠ A~B                               PN   A ≠ AB.
+Similarly, by means of the fundamental law POSS 2, one obtains
+UA   ¬P(A~B)                              UN   ¬P(AB)
+PA   P(AB)                                   PN   P(A~B).
+Furthermore, with the help of indefinite concepts, one can formulate, for example,
+UA   ∃Y(A = YB)                          UN   ∃Y(A = Y~B)
+PA   ∀Y(A ≠ Y~B)                        PN   ∀Y(A ≠ YB).
+Leibniz used to work with various elements of these representations, often combining them into complicated inhomogeneous schemata such as:
+“A = YB           is the UA, where the adjunct Y is like an additional unknown term: ‘Every man’ is the same as ‘A certain animal’.
+YA = ZB           is the PA. ‘Some man’ or ‘Man of a certain kind’ is the same as ‘A certain learned’.
+A = Y not-B      [is the UN] No man is a stone, that is, Every man is a not-stone, that is, ‘Man’ and ‘A certain not-stone’ coincide.
+YA = Z not-B    [is the PN] A certain man isn’t learned or is not-learned, that is, ‘A certain man’ and ‘A certain not-learned’ coincide” (Cout, 233-234).
+But the representations of PA and PN of this schema are inadequate because the formulas ‘[∃Y∃Z](YA = ZB)’ and ‘[∃Y∃Z](YA = Z~B)’ are theorems of L2! These conditions may, however, easily be corrected by adding the require­ment that YA is self-consistent:
+UA   ∃Y(A = YB)                                  UN   ∃Y(A = Y~B)
+PA   ∃Y∃Z(P(YA) ∧ YA = ZB)        PN   ∃Y∃Z(P(YA) ∧ YA = Z~B).
+Already in the paper “De Formae Logicae Comprobatione per Linearum ductus”, Leibniz had made numerous attempts to prove the basic laws of syllogistic with the help of these schemata. He continued these efforts in two interesting fragments of August 1690 dealing with “The Primary Bases of a Logical Calculus” (LLP, 90 – 92 + 93-94; compare also the closely related essays “Principia Calculi rationalis” in Cout, 229-231 and the untitled fragments Cout, 259-261 + 261-264). In the end, however, Leibniz remained unsatisfied with his attempts.
+To be sure, a complete proof of the theory of the syllogism could easily be obtained by drawing upon the full list of “axioms” for L1 and L2 as stated above. But Leibniz more ambitiously tried to find proofs which presuppose only a small number of “self-evident” laws for identity. In particular, he was not willing to adopt principle
+(17) Not-B = not-B not-(AB), that is, Not-B contains Not-AB, or Not-B is not-AB
+as a fundamental axiom which therefore needs not itself be demonstrated. Although Leibniz realized that (17) is equivalent to the law of contraposition repeated in the subsequent §
+(19) ‘A = AB’ and ‘Not-B = Not-B Not-A’ are equivalent. This is conversion by contraposition (Cout, 422),
+he still thought it necessary to prove this “axiom”: “This remains to be demonstrated in our calculus”!
+c. The Plus-Minus-Calculus
+The so-called Plus-Minus-Calculus was mainly developed in the paper “Non inelegans specimen demonstrandi in abstractis” of around 1686/7 (compare GP 7, ## XIX, XX and the text-critical edition in AE VI, 4, ## 177, 178; English translations are provided in LLP, 122-130 + 131-144). Strictly speaking, the Plus-Minus-Calculus is not a logical calculus but rather a much more general calculus which admits of different applications and interpretations. In its abstract form, it should be regarded as a theory of set-theoretical containment, set-theoretical “addition”, and set-theoretical “subtraction”. Unlike modern systems of set-theory, however, Leibniz’s calculus has no counterpart of the relation ‘x is an element of A’; and it also lacks the operator of set-theoretical “negation”, that is, set-theoretical complement! The complement of set A might, though, be defined with the help of the subtraction operator as (U-A) where the constant ‘U’ designates the universe of discourse. But, in Leibniz’s calculus, this additional logical element is lacking.
+Leibniz’s drafts exhibit certain inconsistencies which result from the experi­mental character of developing the laws for “real” addition and subtraction in close analogy to the laws of arithmetical addition and subtraction. The genesis of this idea is described in detail in Lenzen (1989). The incon­sistencies might be removed basically in two ways. First, one might restrict A-B to the case where B is contained in A; such a conservative reconstruction of the Plus-Minus-Calculus has been developed in Dürr (1930). The second, more rewarding alternative consists in admitting the operation of “real subtraction” A-B also if B is not contained in A. In any case, however, one has to give up Leibniz’s idea that subtraction might yield “privative” entities which are “less than nothing”.
+In the following reconstruction, Leibniz’s symbols ‘+’ for the addition (that is, union) and ‘-’ for the subtraction of sets are adopted, while his informal expressions ‘Nothing’ (“nihil”) and ‘is in’ (“est in”) are replaced by the modern symbols ‘∅’ and ‘⊆’. Set-theoretical identity may be treated either as a primitive or as a defined operator. In the former case, inclusion can be defined either by A⊆B =df ∃Y(A+Y = B) or simpler as A⊆B =df (A+B = B). If, conversely, inclusion is taken as primitive, identity can be defined as mutual inclusion: A=B =df (A⊆B) ∧ (B⊆A) (see, for example, Definition 3, Propositions 13 +14 and Proposition 17 in LLP, 131-144).
+Set-theoretical addition is symmetric, or, as Leibniz puts it, “transposition makes no difference here” (LLP, 132):
+PLUS 1           A+B = B+A.
+The main difference between arithmetical addition and “real addition” is that the addition of one and the same “real” thing (or set of things) doesn’t yield anything new:
+PLUS 2           A+A = A.
+As Leibniz puts it (LLP, 132): “A+A = A […] that is, repetition changes nothing. (For although four coins and another four coins are eight coins, four coins and the same four already counted are not)”.
+The “real nothing”, that is, the empty set ∅, is characterized as follows: “It does not matter whether Nothing is put or not, that is, A+Nih. = A” (Cout, 267):
+NIHIL 1           A+∅ = A.
+In view of the relation (A⊆B) ↔ (A+B = B), this law can be transformed into:
+NIHIL 2           ∅⊆A.
+“Real” subtraction may be regarded as the converse operation of addition: “If the same is put and taken away […] it coincides with Nothing. That is, A […] – A […] = N” (LLP, 124, Axiom 2):
+MINUS 1         A-A = ∅.
+Leibniz also considered the following principles which in a stronger form express that subtraction is the converse of addition:
+MINUS 2*       (A+B)-B = A
+MINUS 3*       (A+B) = C → C-B = A.
+But he soon recognized that these laws do not hold in general but only in the special case where the sets A and B are “uncommunicating” (Cout, 267, # 29: “Therefore if A+B = C, then A = C-B […] but it is necessary that A and B have nothing in common”.) The new operator of “communicating” sets has to be understood as follows:
+If some term, M, is in A, and the same term is in B, this term is said to be ‘common’ to them, and they will be said to be ‘communicating’. (LLP, 123, Definition 4)
+Hence two sets A and B have something in common if and only if there exists some set Y such that Y⊆A and Y⊆B. Now since, trivially, the empty set is included in every set A (NIHIL 2), one has to add the qualification that Y is not empty:
+COMMON 1     Com(A,B) ↔df ∃Y(Y≠∅ ∧ Y⊆A ∧ Y⊆B).
+The necessary restriction of MINUS 2* and MINUS 3* can then be formalized as follows:
+MINUS 2         ¬Com(A,B) → ((A+B)-B = A)
+MINUS 3         ¬Com(A,B) ∧ (A+B = C) → (C-B = A).
+Similarly, Leibniz recognized (LLP, 130) that from an equation A+B = A+C, A may be subtracted on both sides provided that C is “uncommunicating” both with A and with B, that is,
+MINUS 4         ¬Com(A,B) ∧ ¬Com(A,C) → (A+B = A+C → B=C).
+Furthermore Leibniz discovered that the implication in MINUS 2 may be converted (and hence strengthened into a biconditional). Thus one obtains the following criterion: Two sets A, B are “uncommunicating” if and only if the result of first adding and then subtracting B coincides with A. Inserting negations on both sides of this equivalence one obtains:
+COMMON 2     Com(A,B) ↔ ((A+B)-B) ≠ A.
+Whenever two sets A, B are communicating or “have something in common”, the intersection of A and B, in modern symbols A∩B, is not empty (LLP, 127, Case 2 of Theorem IX: “Let us assume meanwhile that E is everything which A and G have in common – if they have something in common, so that if they have nothing in common, E = Nothing”), that is,
+COMMON 3     Com(A,B) ↔ A∩B ≠ ∅.
+Furthermore, “What has been subtracted and the remainder are un­communicating” (LLP, 128, Theorem X), that is,
+COMMON 4     ¬Com(A-B,B).
+Leibniz further discovered the following formula which allows one to “calculate” the intersection or “commune” of A and B by a series of additions and subtractions: A∩B = B-((A+B)-A). In a small fragment (Cout, 250) he explained:
+Suppose you have A and B and you want to know if there exists some M which is in both of them. Solution: combine those two into one, A+B, which shall be called L […] and from L one of the constituents, A, shall be subtracted […] let the rest be N; then, if N coincides with the other constituent, B, they have nothing in common. But if they do not coincide, they have something in common which can be found by subtracting the rest N […] from B […] and there remains M, the commune of A and B, which was looked for.
+4. Leibniz’s Calculus of Strict Implication
+It is a characteristic feature of Leibniz’s logic that when he states and proves the laws of concept logic, he takes the requisite rules and laws of propositional logic for granted. Once the former have been established, however, the latter can be obtained from the former by observing a strict analogy between concepts and propositions which allows one to re-interpret the conceptual connectives as propositional connectives. Note, incidentally, that in the 19th century George Boole in roughly the same way first presupposed propositional logic to develop his algebra of sets, and only afterwards derived the propositional calculus out of the set-theoretical calculus. While Boole thus arrived at the classical, two-valued propositional calculus, Leibniz’s approach instead yields a modal logic of strict implication.
+Leibniz outlined a simple, ingenious method to transform the algebra of concepts into an algebra of propositions. Already in the “Notationes Generales” written between 1683 and 1685 (AE VI, 4, # 131), he pointed out to the parallel between the containment relation among concepts and the implication relation among propositions. Just as the simple proposition ‘A is B’ is true, “when the predicate [A] is contained in the subject” B, so a conditional proposition ‘If A is B, then C is D’ is true, “when the consequent is contained in the antecedent” (AE VI, 4, 551). In later works Leibniz compressed this idea into formulations such as “a proposition is true whose predicate is contained in the subject or more generally whose consequent is contained in the antecedent” (Cout, 401). The most detailed explanation of this idea was given in §§ 75, 137 and 189 of the GI:
+If, as I hope, I can conceive all propositions as terms, and hypotheticals as categoricals and if I can treat all propositions universally, this promises a wonderful ease in my symbolism and analysis of concepts, and will be a discovery of the greatest importance […]
+We have, then, discovered many secrets of great importance for the analysis of all our thoughts and for the discovery and proof of truths. We have discovered […] how absolute and hypothetical truths have one and the same laws and are contained in the same general theorems […]
+Our principles, therefore, will be these […] Sixth, whatever is said of a term which contains a term can also be said of a proposition from which another proposition follows (LLP, 66, 78, and 85).
+To conceive all propositions in analogy to concepts means in particular that the conditional ‘If a then b’ will be logically treated like the containment relation between concepts, ‘A contains B’. Furthermore, as Leibniz explained elsewhere, negations and conjunctions of propositions are to be conceived just as negations and conjunctions of concepts. Thus one obtains the following mapping of the primitive formulas of the algebra of concepts into formulas of the algebra of propositions:
+A∈B              α → β
+A=B               α ↔ β
+~A                 ¬α
+AB                 α∧β
+P(A)              ◊α
+As Leibniz himself explained, the fundamental law POSS 2 does not only hold for the containment-relation between concepts but also for the entailment relation between propositions:
+‘A contains B’ is a true proposition if ‘A non-B’ entails a contradiction. This applies both to categorical and to hypothetical propositions (Cout, 407).
+Hence A∈B ↔ ¬P(A~B) may be “translated” into (α→β) ↔ ¬◊(α∧¬β). This formula unmistakably shows that Leibniz’s conditional is not a material but rather a strict implication. As Rescher already noted in (1954: 10), Leibniz’s account provides a definition of “entailment in terms of negation, conjunction, and the notion of possibility”, which coincides with the modern definition of strict implication put forward, for example, in Lewis & Langford (1932: 124): “The relation of strict implication can be defined in terms of negation, possibility, and product […] Thus ‘p implies q’ […] is to mean ‘It is false that it is possible that p should be true and q false’”. This definition is almost identical with Leibniz’s explanation in “Analysis Particularum”: “Thus if I say ‘If L is true it follows that M is true’, this means that one cannot suppose at the same time that L is true and that M is false” (AE VI, 4, 656).
+Given the above “translation”, the basic axioms and theorems of the algebra of concepts can be transformed into the following laws of the algebra of propositions:
+IMPL 1            α → α
+IMPL 2            (α → β) ∧ (β→γ) → (α→γ)
+IMPL 3            (α → β) ↔ (α ↔ α∧β)
+CONJ 1          (α → β∧γ) ↔ ((α→β) ∧ (α→γ))
+CONJ 2          α∧β → α
+CONJ 3          α∧β → β
+CONJ 4          α∧α ↔ α
+CONJ 5          α∧β ↔ β∧α
+NEG 1            ¬¬α ↔ α
+NEG 2            ¬(α ↔ ¬α)
+NEG 3            (α → β) ↔ (¬β→ ¬α)
+NEG 4            ¬α → ¬(α∧β)
+NEG 5            ◊α → ((α → β) → ¬(α → ¬β))
+NEG 6            (α ∧¬α) → β
+POSS 1           (α → β) ∧ ◊α → ◊β
+POSS 2           (α → β) ↔ ¬◊(α ∧ ¬β)
+POSS 3           ¬◊(α ∧ ¬α)
+5. Works on Modal Logic
+When people credit Leibniz with having anticipated “Possible-worlds-seman­tics”, they mostly refer to his philosophical writings, in particular to the “Nouveaux Essais sur l’entendement humain” (NE) and to the metaphysical speculations of the “Essais de theodicée” (Theo) of 1710. Leibniz argues there that while there are infinitely many ways how God might have created the world, the real world that God finally decided to create is the best of all possible worlds. As a matter of fact, however, Leibniz has much more to offer than this over-optimistic idea (which was rightly criticized by Voltaire and, for example, in part 2 of chapter 8 of Hume’s “An Enquiry concerning Human Under­standing”). In what follows we briefly consider some of Leibniz’s early logical works where
+(1)  the idea that a necessary proposition is true in each possible world (while a possible proposition is true in at least one possible world) is formally elaborated, and where
+(2)  the close relation between alethic and deontic modalities is unveiled.
+a. Possible-Worlds-Semantics for Alethic Modalities
+The fundamental logical relations between necessity, ☐, possibility, ◊, and impossibility can be expressed, for example, by:
+NEC 1            ☐(α) ↔ ¬◊(¬α)
+NEC 2            ¬◊(α) ↔ ☐(¬α).
+These laws were familiar already to logicians long before Leibniz. However, Leibniz “proved” these relations by means of an admirably clear analysis of modal operators in terms of “possible cases”, that is, possible worlds:
+Possible is whatever can happen or what is true in some cases
+Impossible is whatever cannot happen or what is true        in no […] case
+Necessary is whatever cannot not happen or what is true in every […] case
+Contingent is whatever can not happen or what is [not] true in some case. (AE VI, 1, 466).
+As this quotation shows, Leibniz uses the notion of contingency not in the modern sense of ‘neither necessary nor impossible’ but as the simple negation of ‘necessary’. The quoted analysis of the truth-conditions for modal propositions entails the validity not only of NEC 1, 2, but also of:
+NEC 3            ☐α → ◊(α)
+NEC 4            ¬◊(α) → ¬☐(α).
+Leibniz “proves” these laws by reducing them to corresponding laws for quantifiers such as: If α is true in each case, then α is true in at least one case. In the “Modalia et Elementa Juris Naturalis” of around 1679, Leibniz mentions NEC 3 and NEC 4 in passing: “Since everything which is necessary is possible, so everything that is impossible is contingent, that is, can fail to happen” (AE IV, 4, 2759). A very elliptic “proof” of these laws was already sketched in the “Elementa juris naturalis” of 1669/70 (AE VI, 1, 469).
+It cannot be overlooked, however, that Leibniz’s semi-formal truth conditions, even when combined with his later views on possible worlds, fail to come up to the standards of modern possible worlds semantics, since nothing in Leibniz’s considerations corresponds to an accessibility relation among worlds.
+b. Basic Principles of Deontic Logic
+As has already been pointed out by Schepers (1972) and Kalinowski (1974), Leibniz saw very clearly that the logical relations between the deontic modalities obligatory, permitted and forbidden exactly mirror the corresponding relations between necessary, possible and impossible, and that therefore all laws and rules of alethic modal logic may be applied to deontic logic as well.
+Just like ‘necessary’, ‘contingent’, ‘possible’ and ‘impossible’ are related to each other, so also are ‘obligatory’, ‘not obligatory’, ‘permitted’, and ‘forbidden’ (AE VI, 4, 2762).
+This structural analogy goes hand in hand with the important discovery that the deontic notions can be defined by means of the alethic notions plus the additional “logical” constant of a morally perfect man (“vir bonus”). Such a virtuous man is characterized by the requirements that he strictly obeys all laws, always acts in such a way that he does no harm to anybody, and is benevolent to all other people. Given this understanding of a “vir bonus”, Leibniz explains:
+Obligatory is what is necessary for the virtuous man as such.
+Not obligatory is what is contingent for the virtuous man as such.
+Permitted is what is possible for the virtuous man as such.
+Forbidden is what is impossible for the virtuous man as such (Grua, 605).
+If we express the restriction of the modal operators ☐ and ◊ to the virtuous man by means of a subscript ‘v’, these definitions can be formalized as follows (where the letter ‘E’ reminding of the German notion ‘erlaubt’ is taken instead of ‘P’ for ‘permitted’ in order to avoid confusions with the operator of possibility):
+DEON 1          O(α) ↔ ☐v(α)
+DEON 2          E(α) ↔ ◊v(α)
+DEON 3          F(α) ↔ ¬◊v(α).
+Now, as Leibniz mentioned in passing, all that is unconditionally necessary will also be necessary for the virtuous man:
+NEC 5             ☐(α) → ☐v(α).
+Hence (as was shown in more detail in Lenzen (2005)), Leibniz’s derivation of the fundamental laws for the deontic operators from corresponding laws of the alethic modal operators proceeds in much the same way as the modern reduction of deontic logic to alethic modal logic “rediscovered” almost 300 years after Leibniz by Anderson (1958).
+6. References and Further Reading
+a. Abbreviations for Leibniz’s works
+
+AE       German Academy of Science (ed.), G. W. Leibniz, Sämtliche Schriften und Briefe, Series VI, „Philosophische Schriften“, Darmstadt 1930, Berlin 1962 ff.
+Cout   Louis Couturat (ed.), Opuscules et fragments inédits de Leibniz, Paris (Presses universitaires de France) 1903, reprint Hildesheim (Olms) 1961.
+GI      Generales Inquisitiones de Analysi Notionum et Veritatum; first edited in Cout, 356-399; text-critical edition in A, VI 4, 739-788; English trans­lation in LLP, 47-87.
+GP     C. I. Gerhardt (ed.), Die philosophischen Schriften von G. W. Leibniz, seven volumes Berlin/Halle 1875-90, reprint Hildesheim (Olms) 1965.
+Grua   Gaston Grua (ed.), G. W. Leibniz – Textes Inédits, two Volumes, Paris (Presses Universitaires de France) 1948.
+LH       Eduard Bodemann (ed.), Die Leibniz-Handschriften der Königlichen Öffentlichen Bibliothek zu Hannover, Hannover 1895, reprint Hildesheim (Olms) 1966.
+LLP   G. H. R. Parkinson (ed.), Leibniz Logical Papers – A Selection, Oxford (Clarendon Press), 1966.
+NE      Nouveaux Essais sur l’entendement humain – Par l’Auteur du Système de l’Harmonie Preestablie, in GP 5, 41-509.
+Theo  Essais de Theodicée sur la Bonté de Dieu, la Liberté de l’Homme et l’Origine du Mal, in GP 6, 21-436.
+
+b. Secondary Literature
+
+Anderson, Alan Ross (1958): “A Reduction of Deontic Logic to Alethic Modal Logic”, in Mind LXVII, 100-103.
+Arnauld, Antoine & Nicole, Pierre (1683) : La Logique ou L’Art de Penser, 5th edition, reprint 1965 Paris (Presses universitaires de France).
+Burkhardt, Hans (1980): Logik und Semiotik in der Philosophie von Leibniz, München (Philosophia Verlag).
+Couturat, Louis (1901): La Logique de Leibniz d’après des documents inédits, Paris (Félix Alcan).
+Dürr, Karl (1930): Neue Beleuchtung einer Theorie von Leibniz – Grundzüge des Logikkalküls, Darmstadt.
+Euler, Leonhard (1768): Lettres à une princesse d’Allemagne sur quelques sujets de physique et de philosophie, St Petersburg, 1768–1772.
+Hamilton, William (1861): Lectures on Metaphysics and Logic, ed. by H.L. Mansel & J. Veitch, Edinburgh, London (William Blackwood); reprint Stuttgart Bad Cannstadt 1969.
+Ishiguro, Hidé (1972): Leibniz’s Philosophy of Logic and Language, London (Duckworth).
+Kalinowski, George (1974): “Un logicien déontique avant la lettre: Gottfried Wilhelm Leibniz”, in Archiv für Rechts- und Sozialphilosophie 60, 79-98.
+Kauppi, Raili (1960): Über die Leibnizsche Logik mit besonderer Berücksichti­gung des Problems der Intension und der Extension, Helsinki (Acta Philosophica Fennica).
+Kneale, William and Martha (1962): The Development of Logic, Oxford (Clarendon).
+Lenzen, Wolfgang (1984): “Leibniz und die Boolesche Algebra”, in Studia Leibnitiana 16, 187-203.
+Lenzen, Wolfgang (1986): “‘Non est’ non est ‘est non’ – Zu Leibnizens Theorie der Negation”, in Studia Leibnitiana 18, 1-37.
+Lenzen, Wolfgang (1989): “Arithmetical vs. ‘Real’ Addition – A Case Study of the Relation between Logic, Mathematics, and Metaphysics in Leibniz”, in N. Rescher (ed.), Leibnizian Inquiries – A Group of Essays, Lanham, 149-157.
+Lenzen, Wolfgang (1990): Das System der Leibnizschen Logik, Berlin (de Gruyter).
+Lenzen, Wolfgang (2004a): Calculus Universalis – Studien zur Logik von G. W. Leibniz, Paderborn (mentis).
+Lenzen, Wolfgang (2004b): “Leibniz’s Logic”, in D. Gabbay & J. Woods (eds.) The Rise of Modern Logic – From Leibniz to Frege (Handbook of the History of Logic, vol. 3), Amsterdam (Elsevier), 1-83.
+Lenzen, Wolfgang (2004c): “Logical Criteria for Individual(concept)s”, in M. Carrara, A. M. Nunziante & G. Tomasi (eds.), Individuals, Minds, and Bodies: Themes from Leibniz, Stuttgart (Steiner), 87-107.
+Lenzen, Wolfgang (2005): “Leibniz on Alethic and Deontic Modal Logic”. In D. Berlioz & F. Nef (eds.), Leibniz et les Puissances du Langage, Paris (Vrin), 2005, 341-362.
+Lewis, Clarence I. & Langford, Cooper H. (1932): Symbolic Logic, New York, 21959 (Dover Publications).
+Liske M.-Th. (1994): “Ist eine reine Inhaltslogik möglich? Zu Leibniz’ Begriffs­theorie”, in Studia Leibnitiana XXVI, 31-55.
+Lukasiewicz, Jan (1951): Aristotle’s Syllogistic – From the Standpoint of Modern Formal Logic, Oxford (Clarendon Press).
+Mugnai, Massimo (1992): Leibniz’s Theory of Relations, Stuttgart (Steiner).
+Poser, Hans (1969): Zur Theorie der Modalbegriffe bei G. W. Leibniz, Wiesbaden (Steiner).
+Rescher, Nicholas (1954): “Leibniz’s interpretation of his logical calculus”, in Journal of Symbolic Logic 19, 1-13.
+Rescher, Nicholas (1979): Leibniz – An Introduction to his Philosophy, London (Billing & Sons).
+Sanchez-Mazas, Miguel (1979): “Simplification de l’arithmétisation leibniti­enne de la syllogistique par l’expression arithmétique de la notion intensionelle du ‘non ens’”, in Studia Leibnitiana Sonderheft 8, 46-58.
+Schepers, Heinrich (1972): “Leibniz‘ Disputationen ‚De Conditionibus‘: An­sätze zu einer juristischen Aussagenlogik” in Studia Leibnitiana Supplementa XV, 1-17.
+Schupp, Franz (ed.) (1982): G. W. Leibniz, Allgemeine Untersuchungen über die Analyse der Begriffe und Wahrheiten, Hamburg (Meiner).
+Schupp, Franz (ed.) (2000): G. W. Leibniz, Die Grundlagen des logischen Kalküls, Hamburg (Meiner).
+Swoyer, Chris (1995): “Leibniz on Intension and Extension”, in Noûs 29, 96-114.
+Sotirov, Vladimir (1999): “Arithmetizations of Syllogistic à la Leibniz”, in Journal of Applied Non-Classical Logics 9, 387-405.
+Venn, John (1881): Symbolic Logic, London (MacMillan).
+
+ 
+Author Information
+Wolfgang Lenzen
+Email: lenzen@uos.de
+University of Osnabrück
+Germany
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

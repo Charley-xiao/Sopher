@@ -1,0 +1,531 @@
+
+
+
+
+
+
+
+
+
+Material Composition | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Material Composition
+A material composite object is an object composed of two or more material parts. The world, it seems, is simply awash with such things. The Eiffel Tower, for instance, is composed of iron girders, nuts and bolts, and so on. You and I, as human beings, are composed of flesh and bone, and various organs. Moreover, these parts themselves are composed of further parts, such as molecules, which themselves are composed of atoms, which are composed of sub-atomic particles. Material composite objects are, it seems, ubiquitous. However, despite their ubiquity, a little philosophical reflection on the matter, as is so often the case, reveals that they are also deeply puzzling.
+The question which has received most attention from philosophers interested in material composition is: under what circumstances do two or more material objects compose a further object? Why is it, for instance, that a collection of iron girders that are bolted together in the centre of Paris do compose an object (that is, the Eiffel Tower), but that there is no object composed of the Eiffel Tower and the Moon? What conditions are satisfied by the first set of objects, and not by the second set of objects, which make this the case? In short, what are the necessary and sufficient conditions for composition to occur?
+Since the 1980s, philosophers have devoted considerable attention to this question, and it has proved difficult to answer. This article provides a survey of the various answers that have been given to this question, plus the arguments that have been offered in their defence.
+Table of Contents
+
+Some Important Preliminaries
+
+Mereological Technicalities 
+Composition and Constitution
+
+
+The Special Composition Question
+
+Answering the Special Composition Question
+
+
+Compositional Restrictivism
+
+Simple Bonding Answers
+Series-Style Answers
+Sorites Paradoxes and Sharp Cut-Off Points
+Brutal Composition
+Concluding Remarks
+
+
+Compositional Universalism
+
+Arguments for Universalism
+
+The Argument from Elimination
+The Argument from CAI
+
+
+Arguments against Universalism
+
+The Gratuitousness of Universalism
+The Counter-Intuitiveness of Universalism
+The Argument from Primitive Cardinality
+The Identity Argument
+
+
+
+
+Compositional Nihilism
+
+Arguments for Nihilism
+
+The Causal Overdetermination Argument
+The Problem-Solving Argument
+The Argument from Ideological Parsimony
+
+
+Arguments against Nihilism
+
+The Common-Sense Argument
+The Argument from Emergence
+The Problem of Atomless Gunk
+
+
+
+
+Deflationism
+
+Hirsch and Quantifier Variance
+
+
+References and Further Reading
+
+1. Some Important Preliminaries
+a. Mereological Technicalities
+The topic of material composition falls under the wider purview of mereology, which is simply the study of parts and wholes. Much of the focus of mereology over the last hundred years or so has been on producing a formal theory of part–whole relations, that is, a formal theory of the logical relations that hold between parts and the wholes they compose (examples include Lesniewski, 1916; Leonard and Goodman, 1940; Simons, 1987). The current entry will overlook much of the formal side of the study of mereology, and will instead concentrate on some of the key metaphysical questions concerning the nature of material composite objects, such as whether there are any such things, and what criteria some things need to satisfy in order to compose a composite object. However, it will be useful in the first instance to define a few of the key technical terms and expressions that are peculiar to the field of mereology:
+
+Part:
+
+The term ‘part’ has a slightly different meaning in mereology to that which it has in ordinary language. In ordinary language, we use the term part to mean a portion or subsection of an object, for example, the Earth is part of the Solar System, the tail is part of the cat and so forth. In mereology, however, the term is used such that not only are an object’s subsections its parts (for example, the tail is part of the cat), but objects are also taken to be parts of themselves (for example, the cat is part of the cat). So if you were tasked with writing an exhaustive list of all the cat’s parts, on this understanding of the term, you should include the cat itself on the list.
+
+Proper Part:
+
+Philosophers have taken to distinguishing parts from what are called ‘proper parts’. ‘Proper part’ is the mereological term that would best tally up with our ordinary or common-sense use of the term ‘part’, in that an object’s proper parts exclude the object itself. Thus, if you were tasked with writing an exhaustive list of all the cat’s proper parts, the cat itself should not be included on the list.
+
+Plurally Referring Expressions:
+
+Following Peter van Inwagen (van Inwagen, 1990), it has become common to use the plurally referring expression, ‘the xs’, to refer to some plurality of material objects. This enables one to refer to a number of objects at a time in a neutral manner, without supposing that those objects do (or do not) compose a further object.
+
+Composition:
+
+Some xs compose a further object, y =df the xs are all parts of y, none of the xs overlap, and every part of y overlaps at least one of the xs.
+(The qualifications about ‘overlap’ in the above definition can make it sound a bit more complicated than it really is. They merely stipulate that one should not list overlapping parts of an object when listing the parts that compose it. For instance, suppose a necklace were made entirely of pearls. In that case, it would be correct to say that the pearls compose the necklace. But, given that the pearls themselves are made of atoms, it would also be correct to say that the atoms compose the necklace. However, it would be wrong to say that the pearls and the atoms compose the necklace, since the pearls overlap the atoms.)
+
+Fusion:
+
+y is a fusion of the xs =df the xs compose y 
+(Note: the term ‘sum’ is sometimes used instead of ‘fusion’.)
+
+Simple:
+
+x is simple =df x has no proper parts
+(Note: ‘simple’ is sometimes used as a noun, as well as an adjective, thus one might speak of, ‘a simple’, or ‘the simples’.)
+These are just a few of the many technical terms involved in formal mereology, and they are defined here quite informally, for ease of understanding. For those interested in formal mereology, Peter Simons’ 1987 book, Parts: A Study in Ontology, provides an excellent place to start.
+b. Composition and Constitution
+The debate over material composition should be distinguished from a related debate concerning material constitution. Material composition concerns the question of when two or more objects compose a further, composite object. (For instance, if you attach four wooden legs to a flat wooden surface, do those five objects now compose a new object: a table?) Those interested in material constitution, by contrast, are interested in the question of when one object (for example, a lump of bronze) constitutes another object (for example, a statue of Napoleon), and indeed, what the relation of constitution actually consists in. Material constitution presents some real puzzles of its own. For instance, is the lump of bronze a distinct object from the statue of Napoleon, or are they numerically identical? If we adopt the latter view, that is, that there is just a single object there, but one that can be called by different names (that is, ‘lump of bronze’ or ‘statue of Napoleon’), we seem to run into trouble. The trouble emerges when you consider what happens if you were to melt down the statue and form it into a shapeless lump. The lump of bronze, it seems, would still exist; but the statue would clearly not. By melting it down, you destroy the statue, but you do not destroy the lump. This might suggest, therefore, that the lump and the statue were not identical after all. Perhaps, then, we should adopt the former view, and say that the statue and the lump are not identical but, in fact, distinct objects. The problem with this, however, is that it now looks as though, before the melting down occurred, we had two distinct objects occupying exactly the same space at exactly the same time, which, one could plausibly argue, is impossible. This is the central problem of material constitution, and it has generated a considerable literature (see Rea, 1997).
+Although the debate over material constitution is certainly a puzzling one, it is quite distinct from the debate over material composition. However, the two are related in certain ways, and there are times at which adopting a view on one debate might well have an impact on one’s view concerning the other. The differences, and similarities, between these two distinct debates, and how they interrelate, will become clearer as the entry progresses.
+2. The Special Composition Question
+Questions concerning material composition have a long history in philosophy, but they have attracted increased attention over recent years thanks largely to the work of Peter van Inwagen. In a 1987 article, and at greater length in his 1990 book, Material Beings, van Inwagen posed what he called the Special Composition Question (SCQ from hereon). (It is only fair to note here that van Inwagen actually credits Hestevold, 1981, with originally formulating the SCQ, but it is van Inwagen who made it well known). This question can be phrased as follows:
+(SCQ): Under what conditions do two or more material objects compose a further, composite object?
+In other words: what is required in order for some objects to be parts of another object? Or as van Inwagen has put it, if you had two objects, what would you need to do to them in order to get them to compose something?
+It is perhaps worth noting here that van Inwagen called this the ‘Special’ Composition Question, in order to differentiate it from what he called the ‘General Composition Question’ (GCQ). The GCQ asks the broader question of what the composition relation actually is, in general. Van Inwagen was sceptical about the prospects of answering this question, stating he did not even know how to approach it, let alone answer it. It seems that most philosophers have followed suit, as there is not a great deal of literature on the GCQ. (However, see Hawley, 2006, for an attempt to shed some more light on the matter).
+a. Answering the Special Composition Question
+A satisfactory answer to this question should take something like the following form:
+(ANSWER): for any xs (where those xs are material objects), there is a further material object, y, composed of those xs if and only if _______________________________________.
+The task, therefore, is to fill in the right-hand side of the above biconditional. But as van Inwagen went on to show, this is no easy task. In particular, it seems very difficult to provide a principled and systematic answer to the SCQ that accommodates our common-sense intuitions about when composition does and does not occur. In the end, he concluded that it is impossible to provide such an answer. Instead, his own answer is radically counter-intuitive. Van Inwagen’s answer to the SCQ, which has come to be known as ‘organicism’, is:
+(ORGANICISM): for any xs (where those xs are material objects), there is a further material object, y, composed of those xs if and only if the collective activity of those xs constitutes a life.
+The reason that this answer is so counter-intuitive is that if it is true, it means that the only composite objects in existence are living beings. Inanimate composite objects, according to this view, do not exist. There are no cars or buildings, tables or chairs, planets or stars and so forth. Van Inwagen recognises just how radical this view is—indeed, he calls it ‘the denial’—but he insists that a thorough analysis of the SCQ leads inexorably and inevitably to it. Van Inwagen’s own answer to the SCQ has not proved to be all that popular. However, the SCQ itself has generated huge amounts of subsequent interest and swathes of further literature.
+It is important to note that any proposed answer to the SCQ will fall into one of the three following categories:
+
+Compositional Universalism:
+
+Whenever you have two or more material objects, there is always a further object that they compose.
+
+Compositional Nihilism:
+
+No objects compose, and no objects have parts. That is, there are no composite objects in existence.
+
+Compositional Restrictivism:
+
+Some collections of material objects compose further objects, but others do not.
+Each of these approaches to the SCQ comes with its own merits and demerits, and each has been defended (and attacked) in the contemporary literature. Van Inwagen’s own answer falls into the third category, as it says composition occurs sometimes, but only sometimes (specifically, when some xs partake in collective activity which constitutes a life). What follows will survey some of the central arguments that have been given for and against each of these three positions.
+3. Compositional Restrictivism
+There is one very compelling reason to think that some variety of compositional restrictivism must be true: common sense. On first inspection, it seems simply obvious that composition is restricted, that is, it occurs sometimes, but not all the time. After all, one does not need to engage in much serious reflection to realise that the Eiffel Tower, for instance, is composed of iron girders, and that the Great Pyramid of Giza is composed of limestone blocks. Yet equally obvious is the fact that there is no object which these two great edifices together compose (that is, there is no object which has just the Eiffel Tower and the Great Pyramid of Giza as parts). So, since it is plainly evident that there are some cases in which objects do compose and other cases in which they do not, it also seems plainly evident that composition must be restricted.
+The challenge for the restrictivist, however, is to formulate an answer to the SCQ that accommodates these common-sense intuitions. That is to say, she must specify the necessary and sufficient conditions under which composition occurs, such that they are satisfied by the iron girders in Paris (which compose the Eiffel Tower), and the limestone blocks in Giza (which compose a pyramid), but not satisfied by the girders and blocks taken together (so that we do not end up with some rather unusual composite pyramid-tower, or suchlike). The literature that has emerged on this topic shows that providing such an answer is no easy task.
+a. Simple Bonding Answers
+In Material Beings, Peter van Inwagen tried to formulate an answer to the SCQ that preserves some of our common-sense intuitions about composition. He noted that these intuitions very often seem to be based on certain facts about how objects are grouped or connected together. That is, we often seem to think that objects compose a further object if they are bonded together in some appropriate way. The reason that the iron girders in Paris compose a tower, for instance, is that they are fastened together with many millions of bolts and rivets, and what have you, to form a solid and rigid structure. Moreover, the reason that the Eiffel Tower and the Great Pyramid of Giza do not compose a material object is precisely because they lack any such bonding or unity; they are completely distinct and disconnected objects separated by well over a thousand miles. Perhaps, then, bonding could be the secret to unlocking the SCQ?
+Van Inwagen labelled his first attempt at a bonding-style answer to the SCQ, CONTACT. Very simply, it states that objects need to be physically touching one another if they are to compose a further object.
+(CONTACT): for any xs (where those xs are material objects), there is a further material object, y, composed of those xs if and only if the xs are in contact with one another.
+Although this answer certainly does give us the intuitive result that the collection of iron girders in Paris do compose a tower, and the limestone blocks in Giza do compose a pyramid, it also entails certain conclusions which simply fly in the face of common sense. As van Inwagen notes, if CONTACT were true, it would mean that every time you shook someone’s hand, a new material object would instantaneously pop into existence, only to vanish back into nothingness once the handshake ceased. The sheer absurdity of this consequence seems to suggest that CONTACT cannot possibly be the correct answer to the SCQ, particularly when you remember that what originally motivated it was a desire to preserve common sense.
+Van Inwagen went on to consider a number of other bonding-style answers to the SCQ, which he called FASTENING, COHESION, and FUSION. Each of these solutions involves a greater strength of bond than the last, culminating in FUSION, whereby for objects to compose, they must be fused together, which means they must be ‘melt[ed] into each other in a way that leaves no discernible boundary’ (Van Inwagen, 1990, 59).
+In light of the above comments, however, it should be fairly straightforward to see that none of these answers are going to work (at least, none of them will satisfy common sense). If we return to the example of two people shaking hands, it seems evident that even if you stick their hands together, even if you fuse them with an unbreakable adhesive, you will never make them compose a single object. You will simply have two objects—two distinct persons—in the rather unfortunate situation of being stuck.
+Moreover, all these bonding answers fail to account for the possibility of what are known as scattered composite objects—that is, composite objects whose parts are not in contact with one another. But common sense suggests that there are in fact such scattered objects. A bikini, for instance, seems to be an ordinary composite object, yet it is composed of two distinct, and spatially separated, parts. Or the USA, to give another example, seems to be a composite object, yet it is composed of spatially disconnected parts—the island of Hawaii is separated from the mainland by a considerable distance, as is Alaska. If any variety of bonding-style answer were correct, then it would turn out that there are not, in fact, any bikinis in existence, and even more worryingly, many Hawaiians and Alaskans would lose their country of residence! Bonding-style answers, therefore, have found very few supporters.
+b. Series-Style Answers
+Van Inwagen then went on to consider the idea that there is perhaps not a single, one-size-fits-all answer to the SCQ, but instead, that different criteria will apply to different types of objects, according to which they will compose or fail to compose. The thought is that the criteria that a bunch of cells need to satisfy in order to compose a human being, for instance, might be very different from the criteria that a bunch of bricks might need to satisfy in order to compose a house. If this is right, then perhaps when answering the SCQ, we need to set out the specific criteria of composition for different types of material object. Such answers have come to be known as series-style answers (SSAs), since they will consist of a long series of different criteria that different types of object must satisfy in order to compose. A SSA to the SCQ will look something like the following:
+(SSA): for any xs (where those xs are material objects), there is a further material object, y, composed of those xs if and only if the xs are F1s and stand in relation R1, or the xs are F2s and stand in relation R2, or …, the xs are Fns and stand in relation Rn.
+The attraction of this kind of answer is that it looks like it might accommodate certain intuitions we have about composition, such as the fact that by fastening bricks together with cement, you can compose a further object (for example, a house), but by fastening human beings together with cement, you cannot.
+Van Inwagen was fairly quick to dismiss the prospects of a satisfactory SSA to the SCQ, however, as he thought that they suffered from a number of difficulties. One of the main problems he foresaw was that a SSA to the SCQ would violate the transitivity of parthood, which he took to be an unacceptable consequence. It is clear to see why one might well assume that parthood is a transitive relation. For if x is a part of y, and y is a part of z, then it just seems evident that x must also be a part of y. For example, if the bearing is part of the wheel, and the wheel is part of the car, then the bearing must also be part of the car.
+Van Inwagen claimed, however, that SSAs to the SCQ would violate this transitivity. For instance, suppose we endorsed a SSA that included the fact that xs composed ys if and only if they were related by R1, and ys composed zs if and only if they were related by R2. In that case, an x could be a part of a y which was itself part of a z, yet x would not be part of z (because, as per the answer, xs cannot compose zs; zs can only be composed by ys related by R2).
+Since the publication of Material Beings, surprisingly, little attention has been paid to the possibility of SSAs. However, some recent work on the topic suggests that van Inwagen’s dismissal of such answers may have been a little hasty. Silva (2013) has responded to van Inwagen’s objections and shown that SSAs need not be inconsistent with the transitivity of parthood. Carmichael (2015) has gone one step further and formulated a clearly defined SSA to the SCQ—one which he claims satisfies our common-sense intuitions about composition and which overcomes van Inwagen’s objections.
+c. Sorites Paradoxes and Sharp Cut-Off Points
+A significant problem that affects all restrictivist positions (or, at least, virtually all of them—see the following section, 3d, for one exception to this) is that they are susceptible to sorites-style arguments. This style of argument takes its name from the ancient sorites paradox, or the paradox of the heap (Soros, from where the term ‘sorites’ derives, is Greek for ‘heap’). The paradox, which is usually accredited to the Greek philosopher, Eubulides, is simple to set up. First, consider a single grain of rice. It seems quite clear that a single grain of rice is not a heap of rice, and neither is two grains, nor three. But if we had ten thousand grains, we would most certainly have a heap. The paradox arises because it is difficult, if not impossible, to state the precise point at which the heap emerges. The crucial thought that drives the paradox is that a single grain of rice, it is supposed, is simply not significant enough to make the difference between a heap and a non-heap. Adding or removing just one grain of rice could never create or destroy a heap. But if this is right, it seems to follow that if you start off without a heap, then by adding grains one at a time, you will never be able to make a heap, no matter how many grains you add. Conversely, if you start off with a heap, then by removing grains one at a time, you will never get rid of the heap, even if you were to remove all the grains! Thus, the paradox ensues.
+The force of the sorites paradox strikes right at the heart of compositional restrictivism. To see why, just consider any ordinary composite object; let us say a chair. That chair will be composed of many billions of atoms, each one of which will be very small indeed. Now when you consider just how small a single atom actually is, it seems quite clear that the difference of a single atom could not possibly make the difference of there being a chair or there not being a chair. To suppose otherwise seems, frankly, preposterous. But, now suppose that, with some ultra-high-precision tweezers, you began the long and laborious task of removing atoms from the chair, one by one. Eventually, you would reach a stage at which you had removed all the atoms except one; at which point, you would clearly no longer have a chair in front of you. (A single atom doth not a chair make.) What seems to follow from all this is that there must be a cut-off point at some stage of the atom-removal process at which the removal of a particular atom makes the composite object—the chair—suddenly cease to exist. To many, however, this is a simply fantastical proposal! To suppose that a single, nugatory atom could make the difference between a chair’s existing and not existing is a very hard conclusion to swallow.
+These sorts of considerations, concerning sorites-style arguments and sharp cut-off points, have led many to believe that restricted composition, in any of its possible guises, is untenable. Peter Unger (1979; 1980) is perhaps the most notable advocate of using sorites-style arguments against the existence of ordinary objects.
+It remains to be said, however, that although these sorites-style arguments certainly have force, they are not without opposition. Both Korman (2015) and Carmichael (2011), for instance, have articulated responses to the arguments and maintain a resolute conviction that composition is restricted.
+d. Brutal Composition
+Ned Markosian is one of the few philosophers who has persevered with restrictivism. In a 1998 paper, he outlines and argues for a novel view which he calls ‘Brutal Composition’. According to this view, ‘there is no true, non-trivial, and finitely long answer to the SCQ’ (Markosian, 1998, 213).
+Instead, Markosian claims that whenever composition does or does not occur is simply a brute fact. That is to say, it is a fact, but it does not obtain in virtue of any other facts, and there can be no illuminating explanation of why it obtains. It is a fact, and that is just the way it is.
+On this view, then, the iron girders in Paris do compose the Eiffel Tower, and the limestone blocks in Giza do compose the pyramid. Likewise, it is also true that the Eiffel Tower and the Pyramid, taken together, do not compose any further object. These are just some of the facts about composition that obtain in the world. According to Markosian, however, there is no principled explanation of why these facts obtain. They just do.
+An advantage of Markosian’s view, he claims, is that it is capable of accommodating all of our common-sense intuitions about composition (although this could be resisted—see below). Ordinary composite objects really do exist, and exotic, gerrymandered composite objects (like the object composed of the Eiffel Tower and the Great Pyramid) do not.
+Likewise, brutal composition has a clear answer to the sorites-style arguments that we encountered above. There are sharp cut-off points between cases of composition and non-composition; a single atom really can make the difference between a chair’s existing and not existing. We do not know exactly where the cut-off points will lie, of course, but they will be there somewhere. And there is no pressure on the brute compositionalist to explain why a cut-off point lies where it does, precisely because compositional facts are brute; they admit of no further explanation. As Markosian notes, the brute compositionalist ‘can just shrug and say, “there is no reason. It is a brute fact”’ (Markosian, 1998, 37).
+However, there are a number of reasons one might be suspicious about brutal composition. The main reason is that Markosian’s only real motivation for endorsing the view is that it is meant to be the only theory capable of preserving our common-sense intuitions about composition. The problem is, however, that it is not at all clear that it actually does this.
+For instance, as James Van Cleve has pointed out, common sense may well point to the fact the composition is restricted, but it also surely points to the fact that there is a reason why it is restricted. (Van Cleve, 2008, 333). Yes, common sense suggests that the Eiffel Tower exists, and that it is composed of iron girders, but it also suggests that there is a reason it exists, namely, that it was purposely built, and that the parts are fixed together in an appropriate way, and so on and so forth. It is not by sheer arbitrary chance that these items compose a tower, or so common sense would have it.
+According to brutal composition, there is no reason why some objects compose; that is what it means to say that compositional facts are brute. It therefore follows that the arrangement of the iron girders, and the way they are fixed together, has nothing to do with the fact that they compose the Eiffel Tower. We could dismantle the tower completely, we could fire the girders into the furthest depths of the universe, but according to brutal composition, they would still compose an object. But this could hardly be said to be consistent with our intuitions about composition!
+It is for reasons such as this, as well as the more general concern that it seems just too ad hoc, that Brutal Composition has not proved at all popular among those philosophers who have worked on this topic.
+e. Concluding Remarks
+Because of the problems raised above, the majority of writers on this topic have concluded that compositional restrictivism, in any of its guises, is an untenable position. There are exceptions to this, of course, with van Inwagen, Markosian, and Korman, being notable among them, but these exceptions are undoubtedly in the minority. Our initial intuitions may well point to the fact that composition is restricted, but close philosophical analysis reveals that a principled theory that can accommodate such intuitions seems very difficult, if not impossible, to come by.
+But if this majority are correct, and material composition is not restricted, then it means that we are left only with what van Inwagen called the ‘extreme answers’ to the SCQ (van Inwagen, 1990, 72). That is, one must say that composition always occurs (that is, endorse compositional universalism) or say that composition never occurs (that is, endorse compositional nihilism). Of these two options, it is the former that has proved the most popular among contemporary philosophers; indeed, it would probably be fair to say that universalism is the default view. (Although this may be beginning to change: in very recent years, nihilism has begun to grow in popularity.)
+One of the main advantages that both universalism and nihilism wield over restrictivism, and one of the main reasons they are the most popular answers to the SCQ, is that they are completely unaffected by the sorites-style arguments articulated above, in section 3c. For neither answer has to state where the cut-off points will lie between cases of composition and cases of non-composition, because neither answer admits that there are such points. According to universalism, there are no cases of non-composition, and according to nihilism, there are no cases of composition, thus neither theory admits the existence of cut-off points.
+The following two sections will give an overview of both universalism and nihilism, and the main arguments that have been given for and against them.
+4. Compositional Universalism
+Compositional Universalism (CU) can be defined as follows:
+(CU): for any xs whatsoever (where those xs are material objects), there is a further material object, y, which those xs compose.
+For the reader unfamiliar with this debate, it may come as something of a surprise to learn that the view of the informed majority is that compositional universalism is true. The reason for this is that the truth of universalism implies the existence of a vast number of weird and wonderful composite objects. After all, if universalism is true, then for any collection of material objects whatsoever, there will be a further object that they compose. Thus, there will be a material object composed of your favourite shirt, Donald Trump’s hair, and the top half of the planet Mars. And it would turn out that there is, after all, an object composed of the Eiffel Tower and the Great Pyramid of Giza. Universalism is entirely indiscriminate. It matters not how disparate or incontiguous two objects may be; according to universalism, they will compose something. Despite this rather unusual fact, however, universalism remains a popular view.
+a. Arguments for Universalism
+i. The Argument from Elimination
+There is an argument for universalism which seems to hold considerable sway with a number of philosophers, even though it is rarely explicitly stated. It is an argument from elimination, and it consists of two claims. The first claim is that composition is not restricted (based on the type of consideration covered in the previous section), and second claim is that composition clearly occurs in some cases (for example, I exist, and I am composed of parts). The conjunction of these claims is taken to entail the truth of universalism:
+
+Composition is not restricted.
+Therefore, composition must either always occur or never occur.
+Composition definitely occurs in some cases.
+Therefore, composition must always occur.
+Therefore, compositional universalism is true.
+
+David Lewis has endorsed precisely this type of argument. He says: ‘no restrictions on composition can serve the intuitions that motivate it. So restriction would be gratuitous. Composition is unrestricted’ (Lewis, 1986, 213). Ted Sider has also advanced an argument similar to this (see Sider, 2001, 120–132. It is interesting to note, however, that Sider has now changed his view and endorses compositional nihilism).
+The argument appears clearly valid, but in premise 3, it includes a significant assumption. Many, like Lewis, think that premise 3 is obviously true. Indeed, you will note in the above quote from Lewis that he does not even state anything like premise 3. He jumps straight from the claim that composition is not restricted to the conclusion that it must be unrestricted. The truth of premise 3 must have been so obvious to Lewis as to be not worth mentioning.
+However, for many philosophers, premise 3 is not obviously true, and cannot simply be assumed. One reason to think this is that once we reject compositional restrictivism, then we seem to reject most (if not all) of our common-sense intuitions about composition along with it. As such, it looks questionable to make any assumptions about whether composition does or does not occur in any given case. If these assumptions are given up, then the above argument loses its force, and collapses into a mere restatement of the fact that composition is not restricted.
+ii. The Argument from CAI
+ It has been suggested that composite objects are identical to their parts taken together. That is to say, if a composite object, o, is composed of some parts, the xs, then o is not an additional object to the xs; it just is the xs, taken collectively. This thesis has come to be known as Composition as Identity (CAI), and has its most notable proponent in Donald Baxter, who has provided some compelling examples in its support. For instance:
+Someone with a six-pack of orange juice may reflect on how many items he has when entering a ‘six items or less’ line in a grocery store. He may think he has one item, or six, but he would be astonished if the cashier said ‘Go to the next line please, you have seven items’. We do not ordinarily think of a six-pack as seven items, six parts plus one whole. (Baxter, 1988, 579)
+The thought is, therefore, that composite objects are identical, in the strict sense of numerical identity, to the parts that compose them. The six-pack literally is the six bottles taken together—nothing more, and nothing less. (See Wallace, 2011, for a nice introduction to the topic of CAI, and Baxter and Cotnoir (eds.) 2014 for more in-depth discussion.)
+Moreover, it has also been suggested, by Trenton Merricks, that CAI entails universalism. That is, if CAI is true, then universalism must also be true. CAI, therefore, offers another potential line of argument in favour of universalism (albeit, a line of argument that is dependent on the truth of CAI).
+The thrust of the argument is that if composition is identity, then the fusion of any objects just is those objects taken together. So for any objects whatsoever, you automatically get their fusion, because their fusion just is those objects. Trenton Merricks forwards just such a proposal, making the seemingly plausible claim that ‘it seems nonsensical to deny the existence of something that would, if it existed, be (identical with) things whose existence one already affirms’ (Merricks, 2005, 629. It should be noted that Merricks does not endorse universalism, however. Although he does claim that CAI entails universalism, he does not believe that CAI is true). But that is precisely what someone would be doing if they endorsed CAI but did not endorse universalism, or so the argument goes. Therefore, we are led to conclude that if CAI is true, universalism must be true also. To illustrate, consider once more our six-pack of orange juice. First, suppose that you accept, unremittingly, the existence of the six individual bottles of juice. Now according to CAI, the six-pack (the whole) just is the six bottles taken together, nothing more, and nothing less. So given the fact that you accept the existence of the six bottles, you already accept the existence of the six-pack. And the same goes for any collection of objects you can think of. It is as simple as that: CAI entails universalism.
+There are two potential problems with the argument from CAI. First, as Ross Cameron has argued, there are reasons to think that the argument is not valid. Cameron’s central point is that CAI is a thesis about the nature of composition (that is, it tells us what composition is—identity), but it does not tell us when composition does and does not occur. For CAI tells us that when there is a composite object, that object is identical to its parts taken together. Furthermore, it tells us that when some objects are, taken together, identical to some single object, then they compose that object. Crucially, however, it does not tell us when some objects are identical to a single object and when they are not. As Cameron says: ‘[CAI] does not tell us whether, given some xs, they in fact compose; it only settles the biconditional: they compose iff there is some one to which they are identical’ (Cameron, 2012, 534). In order for CAI to entail universalism, one must already assume that given any xs whatsoever, there is a single object to which those xs are identical—in other words, that there is a single object which those xs compose. But that is just to beg the question in favour of universalism.
+The second problem with the argument is that CAI itself is a highly controversial thesis. Indeed, for many, CAI is not just controversial, but incoherent. The main problem with it is that it seems to twist and contort the standard understanding of the relation of identity to unacceptable extremes. For instance, it appears that CAI violates Leibniz’s law, which states that if x = y, then anything true of x must also be true of y, and vice versa. If CAI is true, then it seems that this principle no longer holds. To see why, consider again our six-pack of juice. CAI says the six-pack is identical to the six bottles of juice. But the six-pack is a single object, whereas the six bottles are six objects. Therefore, it looks like something is true of the six bottles (that is, they are six) which is not true of the six-pack (that is, it is one), which is a violation of Leibniz’s law.
+b. Arguments against Universalism
+i. The Gratuitousness of Universalism
+An often-noted drawback of universalism is that it posits the existence of too many objects. The ontology of the universalist is vast. The reason for this is that universalism states that for any collection of objects whatsoever, there will always be an object which those objects compose. It should be quite clear to see, therefore, that universalism implies the existence of a simply astronomical number of objects. For some, this objection is enough to reject universalism out of hand. Markosian, for instance, claims, ‘there is what seems to me to be a fatal objection to universalism: universalism entails that there are far more composite objects than common sense intuitions allow. […] On the basis of this objection, I reject universalism’ (Markosian, 1998, 22–23).
+There are two main strategies universalists employ to overcome this objection. The first, endorsed by the likes of David Lewis and David Armstrong, is to say that, although universalism does posit a vast number of composite objects, this should not count against the theory because these composite objects are taken to be ontologically innocent.
+The idea here is that composite objects do not contain any extra matter, over and above their constituent parts, and therefore they somehow come for free, ontologically speaking. Armstrong, for instance, tells us that ‘mereological wholes are not ontologically additional to their parts’ (Armstrong, 1997, 12), whilst Achille Varzi states, ‘the whole and the parts encompass the same amount of reality and should not, therefore, be listed separately in an inventory of the world’ (Varzi, 2000, 285). David Lewis, too, echoes these sentiments by saying ‘it would be double counting to list the cats and then list their fusion’ (Lewis, 1991, 81).
+The main problem with this strategy is that the notion of ontological innocence is somewhat mysterious; that is, it is not obviously clear what it is meant to consist in. If a table, for instance, is taken to be ontologically innocent, yet one of the atoms that composes it is not, then are these two entities supposed to exist in the very same sense? If so, then it is not clear why only one of them should ‘count’, ontologically speaking. But if not, then one might think that we need a clearer explanation of what this existential difference actually consists in. This suggests that the notion of ontological innocence is perhaps not informative to the degree really required.
+It is perhaps worth mentioning, however, that this objection to ontological innocence loses its force if the proponent of ontological innocence also endorses CAI. After all, if you already accept the existence of some parts, then accepting their fusion does not seem like an extra ontological commitment if it is identical to those very parts. Without the addition of CAI, however, the problem persists.
+The second strategy that has been proposed by universalists, in response to the charge of ontological gratuity, is to simply bite the bullet. That is, admit that universalism is not very parsimonious with respect to the number of composite objects it posits, but then deny that parsimony in that respect is particularly important. This line has been taken by Lewis, who makes a distinction between quantitative and qualitative parsimony. Qualitative parsimony is concerned only with the number of types of entity that a theory posits, whereas quantitative parsimony concerns the number of tokens of those types. Lewis has argued that only qualitative parsimony is an important theoretical virtue; once you have admitted a particular type of entity into your ontology (for example, composite objects), then it does not matter how many tokens of that type your ontology contains. Given that most of us already accept the existence of the type—material composite object—then it does not matter that universalism posits a lot of them; this should not count against the theory.
+There are two potential sticking points for this response. The first is that some thinkers, such as Daniel Nolan (1997), have argued that quantitative parsimony is in fact a theoretical virtue. If these thinkers are right, then Lewis’s response looks clearly flawed. The second thing to note is that compositional nihilists are likely to remind the universalist that they do not countenance material composite objects at all. Therefore, even if we ignore quantitative parsimony, nihilism has the advantage of being qualitatively more parsimonious than universalism, since it posits one fewer type of thing.
+ii. The Counter-Intuitiveness of Universalism
+A different objection that is sometimes levelled at universalism is that it flies in the face of common sense. The vast majority of the composite objects that universalism posits are just not the sort of object that common sense would countenance. Think of any collection of objects you like—no matter how random, how disparate, and how disconnected they may be, there will, according to universalism, be a further object they compose. As Lewis (1991, 7–8) reminds us, universalism admits the existence of trout-turkeys: entities composed of the undetached front half of a trout, and the undetached rear half of a turkey. Some may think, therefore, that these sorts of objects simply make universalism too counter-intuitive to be true.
+Lewis, however, has a solution ready at hand. He claims that in ordinary thought and talk we restrict the domain of our quantifiers such that they range only over the ordinary objects of common sense, and not over extraordinary, gerrymandered objects such as trout-turkeys. It is only because of this that universalism seems so counter-intuitive.
+In Lewis’s defence, we do often use quantifiers in a restricted sense in ordinary communication. For instance, if a mugger stole your wallet, you may tell the police that he stole all your money. But you would not literally mean all your money. (Presumably, the mugger did not empty your bank account and gather all the loose change from the back of your sofa.) What you would have meant, of course, is that the mugger stole all the money you had with you at the time. Thus, you would have been tacitly restricting the domain of your quantifiers such that they ranged only over the contents of your wallet, or perhaps over whatever you had on your person. Once this is recognised, it becomes clear that we actually employ restricted quantification all the time. (Note: that does not actually mean all the time.)
+Lewis suggests this is what happens when we talk about composite objects. We tacitly restrict our domain of quantification such that it includes only those composite objects recognised by common sense, and does not include exotic composites like trout-turkeys:
+Restrict quantifiers not composition. […] We have no name for the mereological sum of the right half of my left shoe plus the moon plus the sum of all her Majesty’s ear-rings, except for the long and clumsy name I just gave it; we have no predicates under which such entities fall, except for technical terms like ‘physical object’ (in a special sense known to philosophers) or blanket terms like ‘entity’ and maybe ‘thing’; we seldom admit it to our domains of restricted quantification. It is very sensible to ignore such a thing in our ordinary thought and language. But ignoring it won’t make it go away. (Lewis, 1986, 213)
+The restricted quantification strategy is quite popular among universalists, but it is not without its problems. A central problem with it is that it looks prima facie implausible (see Korman, 2007). Returning to our example of the mugger, imagine that a particularly meticulous police officer responded to your claim with an arched eyebrow and asked, ‘you really mean he stole all your money; every last penny you owned?’. You may well be exasperated by such a response, but you would probably understand what the officer meant. You would simply have to re-iterate more precisely that you meant the mugger stole all the money that was in your wallet.
+But now suppose, on telling the officer that there were precisely two items in the wallet—two twenty-pound notes, say—he were to respond, ‘only two items, you say? But what about the object that those two notes compose? And what about the object composed of the left half of one note and the right half of the other?’. Such a question would not exasperate, but completely befuddle! It seems highly implausible that one might casually respond, ‘Oh, sorry, I didn’t realise you were counting those types of object too’.
+What these observations suggest is that although we certainly do restrict our quantifiers in certain circumstances, it usually only takes minimal reflection (or perhaps for someone—like a fussy police officer—to point it out to us) for us to realise, and to accept, that we are doing so. But there is no controversy there—it is just something that we do. In contrast, it appears much more controversial to suggest that we regularly restrict our quantifiers to exclude exotic composite objects. For if you tried to point out to someone that they were doing that, it is unlikely that they would even understand what you were talking about, let alone accept that what you said was true. Moreover, once you had explained what you meant, it is still plausibly unlikely that they would accept what you have said. Much more likely is that they would simply insist that the exotic composites you were attempting to refer to did not exist. Seen in this light, some, like Korman, claim that it stretches the limits of credibility to suggest that, in ordinary thought and talk, we restrict our quantifiers so as to exclude exotic composites.
+iii. The Argument from Primitive Cardinality
+Juan Comesaña (2008) has presented an argument against universalism based on the grounds that it places unacceptable restrictions on the number of material objects that a world could contain. More technically, it conflicts with a principle that he calls primitive cardinality (PC).
+(PC): For any n, there could have been exactly n material things.
+PC simply states that there is a possible world containing just one material thing, a possible world containing just two material things, a possible world containing just three material things, and so on and so forth, for every positive integer. Comesaña makes the plausible claim that PC seems obviously true. After all, why could there not be a possible world with just seven material objects in it, for instance, or any other whole number? There seems no good reason to think that this could not be the case.
+However, according to universalism, PC is false. For instance, it is impossible, if universalism is true, to have a world in which there are just two material objects. For according to universalism, if you have two objects, you always get a further object that they compose. Thus, it is impossible to have a two-object world, because there will automatically be a third object at such a world: the mereological fusion of those two objects.
+Furthermore, universalism does not only rule out the possibility of two-thing worlds, but it also rules out the possibility of four-thing worlds, five-thing worlds, six-thing worlds, eight-thing worlds, and countless more. The reason for this is that with the addition of each individual simple, there will also be the automatic addition of numerous fusions composed of the previously existing simples and the newly added simple. More precisely, for any world with a particular number of simples, n, the total number of material things (that is, simples and fusions) at that world will be 2n-1. Therefore, universalism is incompatible with PC.
+How seriously one takes this argument will depend on the strength of one’s conviction in the truth of PC. Comesaña claims that intuition supports the truth of PC. He claims that we have ‘particular pre-theoretical judgments that there could have been exactly two things, and exactly three things, and…’, whereas universalism is supported only by abstract and theoretical principles. Moreover, he claims that it is ‘standard methodological procedure’ in many areas of philosophy to give precedence to pre-theoretical judgements over general theoretical principles, when they conflict. Because of this, he claims that this constitutes prima facie evidence in favour of PC (Comesaña, 2008).
+The argument from PC is unlikely to be considered as fatal to universalism. After all, the universalist can just bite the bullet and admit that it is simply a consequence of the theory that PC is rendered false. This may well violate an intuition we have, but it is not clear how strong an intuition that is in the first place. Moreover, if compositional restrictivism is false, we have already had to concede that many of our intuitions about material objects are false, so one further concession may not be that hard to take.
+Finally, the universalist can remind us that although her theory renders PC, as stated above, as false, it is perfectly compatible with a similar principle, that one could call the primitive cardinality of simples (PCS).
+(PCS): For any n, there could have been exactly n simples.
+Universalism is perfectly compatible with PCS, and, indeed, it may well be PCS, not PC, that our pre-theoretical judgements are driving at.
+iv. The Identity Argument
+One final argument against universalism suggests that the universalist owes us some answers to some particularly tricky questions concerning the identity of composite objects. The argument was originally proposed by van Inwagen (1990, 75), but the version presented below is a modified, somewhat more neutral, version than his.
+The argument rests on the fact that according to universalism, any collection of objects composes a further object, regardless of any facts concerning those objects’ nature, their locations, or the spatial or causal relations that hold between them. Indeed, according to universalism, it is enough that two objects merely exist, that they compose a further object. No other conditions need be satisfied.
+Given this fact, the argument can be set up as follows. Consider an ordinary composite object, let us say, a tree, and let us call this tree, ‘Spruce’. According to universalism, Spruce is a composite object and is composed of a large number of simples (sub-atomic particles, or what-have-you) that are arranged in a tree-like fashion. If we call the fusion of those simples, ‘F’, we can say that Spruce = F.
+Now suppose that a bolt of lightning were to strike Spruce and vaporise it. The force of the bolt was such that Spruce was completely destroyed, and all her constituent simple parts were scattered far and wide throughout the surrounding area.
+In this eventuality, it would seem quite clear that Spruce no longer exists. If you were to look at the exact spot of the incident, there would be no tree present. However, F does still exist. The simples that composed Spruce have not been destroyed but merely rearranged, scattered far and wide. But according to universalism, their spatial location does not affect their compositional status—they still compose the very same fusion they composed before. Thus, we now have a situation in which F exists, but Spruce does not. But this contradicts our earlier claim that Spruce = F. For if x = y, it is impossible for x to exist although y does not.
+The upshot of this argument is that although universalism does posit lots of mereological fusions (like F), these fusions are clearly not the ordinary objects of common sense (like Spruce). This is because these fusions are virtually indestructible—you can scatter their parts to the furthest corners of the known universe, and they will still exist. But the same cannot be said of trees, like Spruce, or indeed any ordinary objects of common sense. In light of all this, it looks like the universalist needs to answer two particularly difficult questions:
+
+What are ordinary objects, if not mereological fusions of simples?
+Why should we accept the existence of all these peculiar mereological fusions, if they do not include, after all, the ordinary objects of common sense we thought they did?
+
+There are a couple of ways in which the universalist could respond to this argument. The first is to endorse a relation of constitution, and the second is to endorse four-dimensionalism.
+On the first option, the universalist would deny the premise in the argument that states Spruce = F. Instead, ordinary objects are not taken to be identical to mereological fusions, but constituted by mereological fusions. (Recall the discussion of material constitution in section 1b). According to this view, one can say that F constitutes Spruce whilst its parts are arranged in a tree-like fashion, but when the parts are spread far and wide, after the lightning bolt, F no longer constitutes Spruce.
+Although this view certainly overcomes the argument, it leaves many questions unanswered. First and foremost, what is this relation of constitution meant to be? Moreover, if it is the case that F constitutes Spruce at some points of its existence but not others, it implies that constitution is restricted (in the same sense that composition was taken to be restricted in section 3). But this seems to leave the view open to the sorites-style arguments we encountered earlier, that is, where will the cut-off points lie between cases of constitution and cases of non-constitution? It also seems to invite a question similar to the SCQ, that we could call the Special Constitution Question; that is, under what conditions does some object, o, constitute an F? This question may well prove to be just as difficult to answer as the original SCQ.
+The second option for the universalist would be to endorse four-dimensionalism: the view which states that material objects are extended through time, in much the same way they are extended through space. Hence, material objects are four-dimensional (extended in the three dimensions of space, and the fourth dimension of time). As such, material objects have not only spatial parts, but also temporal parts.
+A consequence of this view is that objects are not wholly present at any particular moment of time. Rather, they merely have a temporal part that is wholly present. To illustrate, consider an analogy. The river Thames is not wholly present at London Bridge. Rather, only a part of the river exists there. The entire river stretches all the way from the Cotswolds to the North Sea. In the same way, four-dimensionalists would say that the river Thames is not wholly present at any given time. Rather, only a (temporal) part of it is. The whole river stretches (temporally) all the way from that moment of time at which it came in to existence, to that moment of time at which it will cease to be.
+Interestingly, just like the constitution theorist, the four-dimensionalist will deny the premise which claims Spruce = F, but for very different reasons. Instead, Spruce and F are taken to be distinct, four-dimensional objects that merely share some temporal parts (in the way that two distinct streets could share some spatial parts, at the region at which they cross one another). Specifically, they share the temporal part at which all the parts of F are arranged in a tree-like manner. So according to this view, there are not two distinct objects located in the same place at the same time. Rather, at t, there is a single object present, which is a (temporal) part of two distinct objects, Spruce and F.
+Each of these two responses does enough to overcome the identity argument, but they both represent a cost to the universalist. Thus, although it is not insurmountable, the identity argument seems to show that accepting universalism (which is already a controversial metaphysical thesis) forces one into accepting at least one other controversial metaphysical thesis: either the constitution view or four-dimensionalism. This is unlikely to be considered a fatal cost, but it is a cost that must be recognised nonetheless.
+5. Compositional Nihilism
+The remaining answer to the SCQ is compositional nihilism (CN):
+(CN): for any xs (where those xs are material objects), there is never a further material object which those xs compose.
+More simply put, according to nihilism, there are no material composite objects at all; all material objects in existence are mereologically simple.
+Nihilism, on the face of it at least, is even more radical than universalism. Think of any object at all that you consider to be composite, that is, to have parts. According to the nihilist, it does not exist. For the nihilist, there are no tables, there are no buildings, there are no planets or stars. There are not even any human beings. (That is, so long as you take such entities to be composite). For this reason, nihilism is often dismissed as obviously false. Any theory which entails the view that there are no human beings is obviously false, or so one might well be tempted to think. However, nihilism has recently been growing in popularity and has been defended in print by a number of philosophers (for instance, Cameron, 2010; Sider, 2013; Cornell, 2017). These philosophers tend to claim that these supposedly absurd consequences of the view (for example, that there are no human beings) are not, in fact, as absurd as they may seem. Once the view is properly understood, they maintain, these apparent absurdities can easily be explained away.
+a. Arguments for Nihilism
+i. The Causal Overdetermination Argument
+One type of argument that has proved to be quite influential in the debate over material composition is that which suggests we should reject the existence of composite objects because, if there were any such things, they would be causally redundant.
+Causal redundancy arguments of this ilk are probably more familiar within the philosophy of mind, as they have often been employed in support of physicalism. The idea is that we can give a full causal explanation of human action in terms of the physical states and processes that occur in the brain. As such, there is no need to posit any non-physical, mental entities, as such things would have no causal role to play; they would be causally redundant. (See Kim, 1993.) A similar type of argument can be formulated in support of nihilism. That is, we can give a full causal explanation of any physical event solely by appealing to the microphysical particles involved, their properties, and the relations in which they stand. Thus, there is no need to posit any macroscopic, composite objects, because such things would have no causal role to play; they would be causally redundant.
+Trenton Merricks has provided the clearest, and most forceful, version of this argument (Merricks, 2001). (Although it should be made clear that Merricks only uses the argument to support a quasi-nihilistic view rather than a full-blown compositional nihilism. He does, for instance, allow that human beings exist and are material composite objects. However, he rejects the existence of all inanimate composite objects). Central to Merricks’s argument is the notion of causal overdetermination. Causal overdetermination occurs when there are multiple, individually sufficient, causes for an event. That is, when an event has more than one cause, each of which would have been fully sufficient, on its own, to bring that event about. It is widely agreed that causal overdetermination is objectionable, and that we should avoid endorsing any theories which involve it (see, for instance, Bunzl, 1979; Loeb 1974; Kim, 1993). Merricks seizes on this claim and uses it to argue against inanimate material composite objects.
+To see how the argument works, consider Merricks’s example of a baseball smashing a window. The thought is that the activity of the atoms which are taken to compose the baseball is quite enough on its own to give a complete causal explanation of the shattering of the window. Therefore, if there exists a baseball in addition to the atoms, then that baseball cannot play any causal role in the shattering of the window—if it did, the shattering of the window would be causally overdetermined. Thus, we must therefore conclude that baseballs (and, by extension, all other material composite objects), if they were to exist, would have no causal powers at all.
+Merricks completes the argument by making the seemingly plausible claim that material composite objects, like baseballs, surely would have causal powers if they existed. A baseball, if it existed, would be a physical object, with physical properties such as mass and so on and so forth. Thus, it would be implausible to suggest that such a thing would be causally inert; indeed, such a suggestion may well contravene basic laws of physics. As such, he argues, we have no option but to conclude that material composite objects, like baseballs, do not in fact exist.
+There are ways in which the argument can be resisted. The most straightforward way of doing so is to simply allow that physical events (like the shattering of windows by baseballs) are in fact causally overdetermined, that is, that they are caused by composite objects and by the constituent parts of those objects. Allowing this would certainly undermine Merricks’s argument, but at the same time, it would also entail that there is widespread and systematic causal overdetermination in the world. For most, however, this conclusion is simply too unpalatable to accept.
+A more sophisticated response has been offered by Amie Thomasson, who suggests that the argument is flawed because it is based on the incorrect assumption that composite objects are separate and independent entities from the simple parts of which they are composed (Thomasson, 2006). Thomasson accepts that causal overdetermination is highly objectionable, but only in those cases in which the two overdetermining causes are completely separate and independent from one another. (To take a well-used example, consider a person executed by firing squad, who is hit by two bullets at exactly the same time, each one of which was fully sufficient to kill them.) Thomasson claims, however, that composite objects are clearly not separate and independent from their constituent parts, thus the worry about causal overdetermination is misplaced.
+Thomasson certainly has a point that there is a particularly intimate connection between a composite object and its parts. They are not separate and independent in the same way that the two bullets in the firing squad example are. It would be impossible to throw the baseball, for instance, without also throwing its constituent parts. However, providing that one does not endorse CAI, the baseball must be considered a distinct object from the parts that make it up. As a result, it is not obvious as to just how concerned we should be about the claim that both the baseball and its constituent parts have causal powers.
+ii. The Problem-Solving Argument
+Another point in favour of compositional nihilism is that it provides a straightforward solution to a number of long-standing problems generated by ordinary material objects. For instance, in section 1b, we considered the problem that arises when one considers a statue and the lump of bronze (or clay, or whatever) that it is made of. The puzzle emerges because it looks like we need to say that the statue and the lump of bronze are distinct objects, as they have different properties (for example, the lump existed before the statue did, and it would survive being squashed into a ball, whereas the statue would not). But this leads to the seemingly bizarre conclusion that we have two distinct objects (a statue and a lump of bronze) occupying exactly the same space at exactly the same time. Other recalcitrant problems which are similar include the Ship of Theseus, the case of Tibbles the cat (see Wiggins, 1968), and the problem of the many (see Unger, 1980).
+Various potential solutions have been offered to these problems, but most of them involve the acceptance of some controversial metaphysical thesis or other, such as four-dimensionalism, or the constitution view. The compositional nihilist, however, avoids all these problems in their entirety. This is because, according to the nihilist, there are no composite objects at all. There are no statues, and there are no lumps of bronze, thus the question of how these things relate to one another never arises. Likewise, the nihilist does not have to worry about the problems of the Ship of Theseus or of Tibbles the cat, because there are no such things as ships or cats.
+Compositional nihilists often point to this fact as providing support to their view: it offers a simple and elegant way of dissolving (or, rather, avoiding) all the problems generated by material constitution. Indeed, the nihilist could well go one step further and say that the only reason these puzzles have arisen at all is that we have been mistakenly assuming that statues/lumps/ships/cats/ and so forth exist in the first place. The puzzles are a direct product of a confused and fallacious understanding of the world. Once we understand the true nature of the world (that is, that there is no such thing as material composition), the puzzles never even get off the ground.
+The obvious counter-response to this argument, however, is that compositional nihilism is a far more extreme and controversial metaphysical thesis than any of those which are invoked to solve the problems of material constitution. On this view, therefore, the nihilist cuts off their nose to spite their face. Sure, nihilism might avoid these philosophically puzzling problems of material constitution, but it does so at the exorbitant cost of denying the existence of any ordinary material objects whatsoever. This, for some, is just far too high a cost to pay.
+iii. The Argument from Ideological Parsimony
+Ted Sider has recently put forward an argument for compositional nihilism based on what he calls ‘ideological parsimony’ (Sider, 2013). The argument appeals to a distinction, originally made by Quine, between a theory’s ‘ontology’ (which consists of the objects the theory posits) and its ‘ideology’ (which consists of the primitive, or unexplained, terms or notions the theory employs).
+Arguments that appeal to ontological parsimony (that is, arguments which suggest one theory is better than another because it posits fewer objects) are fairly commonplace in philosophy. But Sider claims that similar arguments can be made which appeal to ideological parsimony (that is, arguments which claim one theory is better than another because it employs fewer primitive terms). Sider’s claim is that nihilism is not only ontologically more parsimonious than universalism (it posits fewer objects—only simples, and no composites), but it is also more ideologically parsimonious, because it can completely do away with the notion of parthood and the related mereological terms and concepts that go with it. The general idea is that this makes nihilism an ideologically simpler theory than universalism (or, indeed, than any theory that accepts the existence of any composite objects), and this should count in its favour.
+One way to respond to Sider’s argument would be to accept it in spirit, but to question its strength. That is, it is not obvious how much weight one should afford the notion of ideological parsimony in the first place. If one was unconvinced, then it may seem that the advantage offered by nihilism in this regard was marginal at best. But for those who place great value on ideological parsimony, by contrast, the argument might have considerable power. The jury, it seems, is still out on this issue (although see Cowling, 2013, for a defence of the virtues of ideological parsimony). A final point worth considering here is that one may well think that any advantage that nihilism gains in ideological parsimony is going to be outweighed by the various costs it incurs, such as the fact it denies the existence of ordinary composite objects, like tables, chairs, and human beings.
+b. Arguments against Nihilism
+i. The Common-Sense Argument
+By far the most common objection to compositional nihilism in the extant literature is one that appeals to common sense. It is simply obvious that composite objects exist, thus it is simply obvious that nihilism is false, or so the argument goes. This view is shared by many eminent thinkers (such as Markosian, 1998, 221; Schaffer, 2009, 358), and is perhaps best summed up by Michael Rea, who says: ‘it is just obvious that there are tables, chairs, computers and cars. The fact that some philosophical arguments suggest otherwise seems simply an indication that something has gone wrong with those arguments’ (Rea, 1998, 348).
+This kind of argument shares many similarities with G. E. Moore’s famous, hand-raising, refutation of idealism. Essentially, the idea is that we can be far more certain of the common-sense fact that tables, chairs, and other composite objects exist, than we can of any of the abstract and theoretical premises employed in arguments for nihilism. Therefore, common sense should win out—we should accept the existence of ordinary composite objects and conclude that nihilism, regardless of any theoretical advantages it may offer, is false.
+Those attracted to compositional nihilism have employed a number of different strategies to combat this objection. A theme that is common to many of them is that the common-sense objection is simply misjudged. That is, it misunderstands, or misconstrues, precisely what nihilism actually states. The point, which has been made by a number of contemporary thinkers (for instance, Sider, 2013; Cornell, 2017), is that although nihilism does deny the existence of ordinary objects like tables and chairs, it does not deny the existence of the physical matter that allegedly composes those objects. Once this fact is recognised, nihilism does not, in fact, violate our common-sense intuitions in the objectionable way it is often claimed to.
+As an example, consider an ordinary composite object: a house. According to common sense, this house is made up of many parts. At base, these parts will be very small indeed, that is, some kind of sub-atomic particles or whatever our scientific theories tell us are the fundamental constituents of matter. The point is that the nihilist accepts the existence of all these sub-atomic particles. All she denies is that these particles compose some single, composite object: a house. When seen like this, the common-sense objection seems to lose some of its bite. As Cian Dorr has observed:
+If all the plates in my kitchen dresser were to cease to exist, but all the molecules in my dresser were to stay arranged exactly as they are, I wouldn’t care very much. My guests would have no new reason to worry about their food getting all over the tablecloth. In fact, they would never know unless I told them—but come to think of it, I would never know either. (Dorr, 2002, 42–43)
+In light of all this, there appears to be a question mark over just how much of a conflict there really is between compositional nihilism and common sense. Taken at face value, with its outright denial of all composite objects, nihilism seems about as controversial a theory as one could wish for, but once it is recognised that nihilism still acknowledges the matter that is taken to compose these composite objects, then the power of the common-sense objection seems to wane.
+ii. The Argument from Emergence
+A further argument against compositional nihilism is based on what has been called the problem of emergence. In its basic form, the argument begins with the claim that nihilism is incompatible with the existence of emergent properties. It then goes on to say that since there are very good reasons to believe that there are emergent properties, there are equally good reasons to think that nihilism must be false. The beginnings of an argument like this can be found in van Inwagen (1990) and Merricks (2001), but perhaps its clearest articulation is in Schaffer (2007).
+To appreciate the force of the argument, one first has to understand what emergent properties actually are. An emergent property is a property of an object or system that cannot be explained or accounted for solely by the properties of that objects parts. That is to say, emergent properties are taken to be things that are somehow over and above a mere combination of the properties and relations of their bearer’s base constituents. Most familiar properties are clearly not emergent in this sense. Take mass, for instance. Mass, like most properties, is reducible; one can explain the mass of an object or system reductively, in terms of the mass of each of its constituent parts. (For example, the mass of a 100kg pile of bricks can be explained or accounted for solely by the fact that each of the one hundred bricks in the pile has a mass of 1kg.)
+Emergent properties, by contrast, resist this kind of reduction. If a property, F, of an object or system is emergent, then it cannot be explained or accounted for solely by an appeal to the properties and relations of its constituent parts. To illustrate, consider the water in a swimming pool. It has the property of being wet. But none of the individual H2O molecules that make it up have that property (a single molecule is not wet). Thus, the property of wetness seems to emerge at the macro-level, and it cannot be reduced to a mere aggregation of properties and relations at the micro-level. (Note: this is just an illustration. It is far from clear whether wetness is, in fact, a genuinely emergent property.)
+The most common arena in which emergent properties are postulated is the philosophy of mind and consciousness. The thought is that mental states—something like an excruciating pain, or a sharp pang of guilt, for example—are so entirely distinct in character from the electro-chemical, neurological properties that are instantiated by parts of the brain, that they cannot be explicable purely in terms of those properties. (Just like a single molecule of water is not wet, a single cell in the brain does not feel pain/guilt/love/and so forth.) They may well be caused by activity in the brain, but they emerge holistically as being far greater than the sum of their causal beginnings.
+Another quite distinct field in which emergence plays a prominent role is quantum mechanics. Very roughly, the thought is that certain composite quantum objects or systems (often referred to as ‘entangled systems’) can exhibit properties that are quite inexplicable in terms of the object’s/system’s sub-atomic constituents alone (see Schaffer, 2007, for more details of emergence in quantum physics).
+With this understanding of emergent properties in hand, it is only a short step to see why they cause such a problem for the nihilist. The reason is that emergent properties seem to imply a stratified picture of the world, whereby reality is divided up into levels of mereological complexity. At the base level, you have the mereological simples, and then you have higher levels populated by the composite objects those simples compose. Emergent properties are those which emerge at higher levels than the base level—that is, which are instantiated by composite objects—and which cannot be explained purely by appealing to the objects and properties at the base level. The problem for the nihilist is that they deny this stratification of reality: there is the base level and nothing else. As such, there are no candidate objects in the nihilist’s ontology that could have emergent properties. Quite simply, there is nowhere for emergent properties to emerge.
+If this is right, and nihilism is incompatible with emergent properties, then given that there are good reasons to think that emergent properties do exist (and both quantum physics and philosophy of mind suggest that there are such reasons), these reasons also seem to suggest that nihilism is false.
+There appear to be three possible ways in which the nihilist could respond to this charge. The first strategy would be to simply reject the possibility of emergent properties. But since this would conflict with popular views in both quantum physics and philosophy of mind, it is not a particularly attractive route to take. The second strategy would be to endorse a fairly radical form of compositional nihilism—known in the literature as existence monism—which claims that there is only a single material object in existence, the world itself, and it is mereologically simple (that is, has no parts). Schaffer (2007) argues that this is the only way for the nihilist to overcome the problem of emergence (although it should be noted that Shaffer himself does not endorse existence monism). The problem with this strategy is that existence monism is considered by many as being even more extreme and implausible than standard nihilism. Shaffer himself, for instance, labels it a ‘crazy view’. However, see Horgan and Potrč (2008), or Cornell (2016), for recent defences of monism.
+The final, and most promising, strategy would be to argue that nihilism is in fact compatible with emergent properties. This strategy has been put forward by Caves (2018) and Cornell (2017), who both argue that simples can collectively instantiate emergent properties, even if none of them individually instantiate that property, and that no composite objects are required in order for this to be possible. Therefore, emergent properties (such as mental states) can still emerge at the macro-level, even though there are no composite objects at that level to instantiate them.
+iii. The Problem of Atomless Gunk
+According to our current scientific theories, physical matter bottoms out at a ‘base level’. For instance, an ordinary object, like a table, is made of molecules; those molecules are made of atoms, and those atoms are made of even smaller parts such as leptons and quarks. However, that, we are told, is as far as we can go. Leptons and quarks themselves have no smaller parts. They are fundamental particles; they are simple; they represent the ‘bottom layer’ of reality.
+But what if this view was wrong? What if the particles that we currently think to be fundamental are in fact made of even smaller parts? This is surely a live possibility. After all, before we discovered the existence of sub-atomic particles, it was presumed that atoms themselves were the smallest constituents of reality. (Indeed, the term ‘atom’ was used precisely because it is derived from the Greek for ‘indivisible’.) We were wrong then, so we could surely also be wrong now.
+Some have suggested, however, that it is possible that there may not be a ‘base level’ at all. That is, matter could be infinitely divisible. Another way of saying that is that for any bit of physical matter you choose, all of its parts will have further parts. This rather exotic type of physical matter was labelled by David Lewis as ‘atomless gunk’ (Lewis, 1991, 20), although it is more commonly referred to now as plain ‘gunk’.
+The possibility of gunk represents a threat to nihilism. The reason for this is that according to nihilism, the only material objects that exist are simples (that is, objects with no parts). But if matter were ‘gunky’, then it would turn out that there were no simples at all (because every part of gunky matter has further parts—there are no simple parts of gunk). Therefore, if matter were gunky, the nihilist would be committed to saying that there were, in fact, no material objects in existence at all.
+The most common response to this problem is to deny flat-out that gunk is a real possibility. It may seem as though it is possible, in the sense that we can conceive of such stuff without running into any obvious contradiction, but this appearance is illusory. Gunk is not possible, and matter must bottom out at some point, thus nihilism is preserved. See Williams (2006) for a defence of this approach.
+6. Deflationism
+So far, it has been suggested that all answers to the SCQ must fall into one of the three categories: restrictivism, universalism, or nihilism. However, there is in fact a fourth way in which one could respond to the question: to dismiss it altogether. This kind of response has been articulated by a number of philosophers, who have dismissed the SCQ for a variety of reasons. These views fall under the more general heading of ‘deflationism’, as they attempt to ‘deflate’ the importance of the debate over material composition.
+Some examples of such deflationist views include that of Amie Thomasson, who claims the SCQ to be an unanswerable question (Thomasson, 2006), and that of Jonathan Schaffer, who takes the existence of composite objects to be obvious and trivial (Schaffer, 2009). But the most influential deflationary account is that of Eli Hirsch, and is discussed below.
+a. Hirsch and Quantifier Variance
+Hirsch argues that the debate over material composition is not a genuinely ontological debate, but rather, merely a verbal dispute (see Hirsch, 2005). What this means is that when a compositional nihilist argues with a compositional universalist about whether there are any tables, for instance, they are merely talking past one another rather than having a genuine disagreement about what things exist. The source of confusion is that they are using the same words to mean different things. In slogan-like fashion: they agree about the facts, they disagree about the semantics.
+More specifically, Hirsch has proposed a theory—that has its roots in the thought of Rudolf Carnap—of ‘quantifier variance’, whereby different speakers use quantifiers (that is, quantificational expressions, such as ‘exists’, and ‘there is’) with different meanings. Thus, when a universalist says ‘tables exist’, and a nihilist responds, ‘tables do not exist’, they are both in fact speaking the truth, but merely taking the term, ’exist’, to mean different things. Central to Hirsch’s view, moreover, is that there is no correct or privileged way to use quantificational language. There are many different ways in which one can describe reality (for example, ways in which mereological fusions of the Eiffel Tower and the Great Pyramid at Giza are said to exist, and ways in which they are not), but none of these ways are any more correct than any other. The upshot is that disputes like that between the nihilist and the universalist arise because the two parties are speaking different (albeit similar) languages. They are, at base, disputes about the meaning of words, not about the nature of reality.
+There is strong opposition to Hirsch’s view, however, largely because it is often supposed to involve a radical anti-realism about the nature of reality. In short, if there is no correct way in which to describe reality, then it seems to follow that reality does not have an objective nature at all (for if it did, one could describe it rightly or wrongly). Many thinkers claim that reality does have an objective nature. What this means is that there is a correct way to describe the world, and that some descriptions are better (that is, more accurate) than others. Ted Sider, in his 2011 book, Writing the Book of the World, gives a comprehensive defence of this kind of view.
+This debate over the legitimacy, or substantiality, of the SCQ is just a small part of the larger debate between ontological realists and ontological anti-realists. The former camp, including the likes of Sider, maintain that the ontological questions that metaphysicians often concern themselves with (concerning disputed entities such as composite objects, temporal parts, possible objects, abstract objects, universals, and so on) are important and substantive, and need to be answered satisfactorily. The latter camp, by contrast, including the likes of Hirsch, argue that these disputes are, for a variety of reasons, either defective, or unimportant. This debate remains unresolved, and takes centre stage in the currently burgeoning field of metametaphysics. (see Chalmers, Manley, and Wasserman (eds.) 2009).
+7. References and Further Reading
+
+Armstrong, D. M. (1997) A World of States of Affairs (Cambridge: CUP).
+Baxter, D. (1988) ‘Identity in the Loose and Popular Sense’, Mind, 97, 388, pp.575–582.
+Baxter, D. and Cotnoir, A. (eds.) (2014) Composition as Identity (Oxford: OUP).
+Bunzl, M. (1979) ‘Causal Overdetermination’, The Journal of Philosophy, 76, 3, pp.134–150.
+Cameron, R. (2010) ‘How to Have a Radically Minimal Ontology’, Philosophical Studies, 151, 2, pp.249–264.
+Cameron, R. (2012) ‘CAI Doesn’t Settle the SCQ’, Philosophy and Phenomenological Research, 84, 3, pp.531–554.
+Carmichael, C. (2011) ‘Vague Composition Without Vague Existence’, Nous, 45, 2, pp.315–327.
+Carmichael, C. (2014) ‘Toward a Common Sense Answer to the Special Composition Question’, Australasian Journal of Philosophy, 93, 3, pp.475–490.
+Caves, R. (2018) ‘Emergence for Nihilists’, Pacific Philosophical Quarterly, 99, 2–28.
+Chalmers, D., Manley, D., and Wasserman, R. (2009) Metametaphysics: New Essays on the Foundations of Ontology (Oxford: OUP).
+Comesaña, J. (2008) ‘Could There Be Exactly Two Things?’, Synthese, 162, 1, pp.31–35.
+Cornell, D. (2016) ‘Taking Monism Seriously’, Philosophical Studies, 173, 9, pp.2397–2415.
+Cornell, D. (2017) ‘Mereological Nihilism and the Problem of Emergence’, American Philosophical Quarterly, 54, 1, pp.77–87.
+Cowling, S. (2013) ‘Ideological Parsimony’, Synthese, 190, 17, pp.3889–3908
+Dorr, C. (2002) The Simplicity of Everything, PhD Thesis, University of Oxford, England.
+Goldstein, L. (2012) ‘The Sorites Is a Nonsense Disguised by a Fallacy’, Analysis, 72, 1, pp.61–65.
+Hawley, K. (2006) ‘Principles of Composition and Criteria of Identity’, Australasian Journal of Philosophy, 84, 4, pp.481–493.
+Hestevold, S. (1981) ‘Conjoining’, Philosophy and Phenomenological Research, 41, 3, pp.371–385.
+Hirsch, E. (2005) ‘Physical-Object Ontology, Verbal Disputes, and Common Sense’, Philosophy and Phenomenological Research, 70, 1, pp.67–97.
+Horgan, T. and Potrč, M. (2008) Austere Realism (London: MIT Press).
+Kim, J. (1993) Supervenience and Mind (Cambridge: CUP).
+Korman, D. (2007) ‘Unrestricted Composition and Restricted Quantification’, Philosophical Studies, 140, 3, pp.319–344.
+Korman, D. (2015) Objects: Nothing Out of the Ordinary (Oxford: OUP).
+Leonard, H. S. and Goodman, N. (1940) ‘The Calculus of Individuals and Its Uses’, Journal of Symbolic Logic, 5, pp.45–55.
+Lesniewski, S. (1916), ‘Foundations of the General Theory of Sets’ in Lesniewski, S. Collected Works, eds. S. J. Surma, J. Srzednicki, D. I. Barnett, and F. V. Rickey, trans. D. I. Barnett (Dordrecht, Kluwer, 1992) vol. 1, pp.129–173.
+Lewis, D. (1986) On the Plurality of Worlds (Oxford: Basil Blackwell).
+Lewis, D. (1991) Parts of Classes (Oxford: Basil Blackwell).
+Loeb, L. E. (1974) ‘Causal Theories and Causal Overdetermination’, The Journal of Philosophy, 71, 15, pp.525–544.
+Markosian, N. (1998), ‘Brutal Composition’, Philosophical Studies, 92, 3, pp.211–249.
+Merricks, T. (2001) Objects and Persons (Oxford: OUP).
+Merricks, T. (2005) ‘Composition and Vagueness’, Mind, 114, 455, pp.615–637.
+Nolan, D. (1997) ‘Quantitative Parsimony’, The British Journal for the Philosophy of Science, 48, 3, pp.329–343.
+Rea, M. (1998) ‘In Defence of Mereological Universalism’, Philosophy and Phenomenological Research, 58, 2, pp.347–360.
+Rea, M. (ed.) (1997) Material Constitution: A Reader (Oxford: Rowman & Littlefield).
+Schaffer, J. (2007a) ‘From Nihilism to Monism’, Australasian Journal of Philosophy, 85, 2, pp.175–191.
+Schaffer, J. (2009) ‘On What Grounds What’ inMetametaphysics: New Essays on the Foundations of Ontology, edited by David J. Chalmers, David Manley and Ryan Wasserman. (Oxford: OUP), chapter 12.
+Sider, T. (2001) Four-Dimensionalism (Oxford: OUP).
+Sider, T. (2011) Writing the Book of the World (Oxford: OUP).
+Sider, T. (2013) ‘Against Parthood’, in Bennett, K. and Zimmerman, D. (eds.) Oxford Studies in Metaphysics, vol. 8. (Oxford: OUP), pp.237–293.
+Silva, P. (2013) ‘Ordinary Objects and Series-Style Answers to the Special Composition Question’, Pacific Philosophical Quarterly, 94, 1, pp.69–88.
+Simons, P. (1987) Parts: A Study in Ontology (Oxford: Clarendon).
+Thomasson, A. (2006) ‘Metaphysical Arguments against Ordinary Objects’, The Philosophical Quarterly, 56, 224, pp.340–360.
+Unger, P. (1979) ‘There Are No Ordinary Things’, Synthese, 41, pp.117–154.
+Unger, P. (1980) ‘The Problem of the Many’, Midwest Studies in Philosophy, 5, 1, pp.411–468.
+Van Cleve, J. (2008) ‘The Moon and Sixpence: A Defence of Mereological Universalism’, in Hawthorne, J., Sider, T., and Zimmerman, D. (eds.) Contemporary Debates in Metaphysics (Oxford: Blackwell), pp.321–340.
+Van Inwagen, P. (1987) ‘When Are Objects Parts?’ Philosophical Perspectives, 1, pp.21–47.
+Van Inwagen, P. (1990), Material Beings (Ithaca: Cornell UP).
+Varzi, A. (2000) ‘Mereological Commitments’, Dialectica, 54, pp.283–305.
+Wallace, M. (2011) ‘Composition as Identity’, parts I and II, Philosophy Compass, 6, 11, pp.804–827.
+Wiggins, D. (1968) ‘On Being in the Same Place at the Same Time’, Philosophical Review, 77, 1, pp.90–95.
+Williams, J.R.G. (2006) ‘Illusions of Gunk’, Philosophical Perspectives, 20, 1, pp.493–513
+
+ 
+Author Information
+David Cornell
+Email: DMCornell@uclan.ac.uk
+University of Central Lancashire
+United Kingdom
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

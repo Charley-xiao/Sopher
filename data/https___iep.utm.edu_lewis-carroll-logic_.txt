@@ -1,0 +1,475 @@
+
+
+
+
+
+
+
+
+
+Lewis Carroll: Logic | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lewis Carroll: Logic
+Charles L. Dodgson (also known as Lewis Carroll), 1832-1898, was a British mathematician, logician, and the author of the ‘Alice’ books, Alice’s Adventures in Wonderland and Through the Looking Glass and What Alice Found There. His fame derives principally from his literary works, but in the twentieth century some of his mathematical and logical ideas found important applications. His approach to them led him to invent various methods that lend themselves to mechanical reasoning. He was not a traditional mathematician. Rather, he applied mathematical and logical solutions to problems that interested him. As a natural logician at a time when logic was not considered to be a part of mathematics, he successfully worked in both fields. Everything he published in mathematics reflected a logical way of thinking, particularly his works on geometry. Dodgson held an abiding interest in Euclid’s geometry. Of the ten books on mathematics that he wrote, including his two logic books, five dealt with geometry. From his study of geometry, he developed a strong affinity for determining the validity of arguments not only in mathematics but in daily life too. Dodgson felt strongly about logic as a basis for cogent thought in all areas of life—yet he did not realize he had developed concepts that would be explored or expanded upon in the twentieth century. Dodgson’s approach to solving logic problems led him to invent various methods, particularly the method of diagrams and the method of trees. As a method for a large number of sets, Carroll diagrams are easier than Venn diagrams to draw because they are self-similar. His uncommon exposition of elementary logic has amused modern authors who continue to take quotations from his logic books. The mathematician and logician Hugh MacColl’s views on logic were influenced by reading Dodgson’s Symbolic Logic, Part I. Their exchanges show that both had a deep interest in the precise use of words. And both saw no harm in attributing arbitrary meanings to words, as long as that meaning is precise and the attribution agreed upon. Dodgson’s reputation as the author of the ‘Alice’ books cast him primarily as an author of children’s books and prevented his logic books from being treated seriously. The barrier created by the fame Carroll deservedly earned from his ‘Alice’ books combined with a writing style more literary than mathematical, prevented the community of British logicians from properly recognizing him as a significant logician during his lifetime.
+Table of Contents
+
+Dodgson’s Life
+The Logic Setting in His Time
+Logic and Geometry
+
+Syllogisms, Soriteses, and Puzzle Problems
+Venn and Carroll Diagrams
+Dodgson’s ‘Methods’
+
+
+The Automation of Deduction
+Dodgson’s Logic Circle
+
+The ‘Alice’ Effect
+
+
+Logic Paradoxes
+
+The Barbershop Paradox
+Achilles and the Tortoise
+
+
+Dodgson and Modern Mathematics
+Carroll as Popularizer
+Conclusion
+References and Further Reading
+
+Primary 
+Secondary
+
+
+
+1. Dodgson’s Life
+Charles Lutwidge Dodgson (1832-1898), better known by his pen name Lewis Carroll that he adopted in 1856, entered Christ Church, Oxford University in England in 1852. After passing Responsions, the first of the three required examinations and achieving a first Class in Mathematics and a Second Class in Classics in Moderations, the second required examination, he earned a bachelor’s degree in 1854, placing first on the list of First-Class Honours in Mathematics, and earning Third Class Honours in the required Classics. He received the Master of Arts degree in 1857. He remained at Christ Church College for the rest of his life.
+He began teaching individual students privately in differential calculus, conics, Euclidean geometry, algebra, and trigonometry. In 1856 the Dean of Christ Church, the Reverend Henry Liddell, appointed him the Mathematical Lecturer, a post he held for 25 years, before resigning it in 1881.
+In 1856 he took up photography, eventually taking about 3,000 photos, many of eminent people in government, science, the arts, and theatre. Prime Minister Salisbury, Michael Faraday, and John Ruskin were some of his subjects. He became one of the most eminent photographers of his time. He also was a prolific letter writer, keeping a register of the letters he received and sent, 98,721 of them, in the last thirty-five years of his life.
+Taking holy orders was a requirement for all faculty. He chose to be a deacon rather than a priest so that he could devote his time to teaching and continue to go to the theatre in London which was his favorite pastime. He was ordained a Deacon in 1861. Dodgson developed a deeply religious view in his life. His father, Archdeacon Charles Dodgson, had been considered a strong candidate for the post of Archbishop of Canterbury before he married.
+His first publications (pamphlets and books from 1860 to 1864) were designed to help students: A Syllabus of Plane Algebraic Geometry, Systematically Arranged with Formal Definitions, Postulates and Axioms; Notes on the First Two Books of Euclid; Notes on the First Part of Algebra; The Formulae of Plane Trigonometry; The Enunciations of Euclid I, II; General List of [Mathematical] Subjects, and Cycle for Working Examples; A Guide to the Mathematical Student.
+In the mid-1860s Dodgson became active in college life, writing humorous mathematical ‘screeds’ to argue on various issues at Christ Church, voting on the election of Students (Fellows), and on physical alterations to the College’s buildings and grounds. These activities piqued his interest in ranking and voting methods. He became a member of the Governing Board in 1867 and remained on it for his entire life. In 1868 he acquired an apartment in the NW corner of Tom Quad, part of Christ Church, where he constructed a studio for his photography on its roof. His apartment was the choicest, most expensive one in the College.
+Becoming active in political affairs outside the College in the 1880s, he sent many letters to the Editors of The St. James’s Gazette, the Pall Mall Gazette, and other newspapers presenting his position on various issues of national importance. Through his photography, he became friendly with Lord Salisbury, who became Prime Minister in 1881. Their social relationship, begun in 1870, lasted throughout Dodgson’s life and spurred him to consider the problem of fairness both in representation and apportionment, culminating in his pamphlet of 1884, The Principles of Parliamentary Representation.
+His publications, pamphlets and two books, during the remainder of the 1860s reflect these interests as well as those of mathematics, and those that provide evidence of his considerable literary abilities: The Dynamics of a Particle with an Excursus on the New Method of Evaluation as Applied to Π; Alice’s Adventures in Wonderland; An Elementary Treatise on Determinants with Their Applications to Simultaneous Linear Equations and Algebraical Geometry; The Fifth Book of Euclid Treated Algebraically, so Far as It Relates to Commensurable Magnitudes, with Notes; Algebraical formulae for the Use of Candidates for Responsions; Phantasmagoria and Other Poems.
+His publications in the 1870s continued in the same vein: Algebraical Formulae and Rules for the Use of Candidates for Responsions; Arithmetical Formulae and Rules for the Use of Candidates for Responsions; Through The looking-Glass, And What Alice Found There; The Enunciations of Euclid, Books I–VI; Examples in Arithmetic; A Discussion of The Various Methods Of Procedure in Conducting Elections; Suggestions As To The Best Method Of Taking Vote; Euclid Book V, Proved Algebraically So Far As It Relates To Commensurable Magnitudes, with Notes; The Hunting Of The Snark; A Method Of Taking Votes On More Than Two Issues; Euclid And His Modern Rivals.
+After resigning his position as Mathematical Lecturer, Dodgson now had more time for writing. In the first half of the 1880s Dodgson published Lawn Tennis Tournaments, The Principles of Parliamentary Representation, A Tangled Tale, Alice’s Adventures Underground (facsimile edition).
+But the second half of the 1880s saw a tectonic shift with his first book on logic: The Game of Logic, as well as his cipher, Memoria Technica, two more books, Curiosa Mathematica, Part I: A New Theory of Parallels, and Sylvie and Bruno. In 1887 he published the first of three articles in Nature, “To Find the Day of the Week for any Given date”.
+In the last decade of his life more books were published. The Nursery Alice appeared in 1890. Curiosa Mathematica, Part II: Pillow Problems, and Sylvie and Bruno Concluded appeared in 1893. His only other publications in logic came out between 1894 and 1896. These were the two articles in Mind, “A Logical Paradox”, “What the Tortoise Said to Achilles”, and a book, Symbolic Logic, Part I: Elementary. From 1892 to 1897 he worked on a chapter of a projected book on games and puzzles that was never published. It included his “Rule for Finding Easter-Day for Any Date till A. D. 2499”. His final publications were: “Brief Method of Dividing a Given Number By 9 Or 11”, (1897) and “Abridged Long Division” (1898). Both appeared in the journal Nature.
+2. The Logic Setting in His Time
+The treatment of logic in England began to fundamentally change when George Boole published a short book in 1847 called The Mathematical Analysis of Logic. In it he developed the notion that logical relations could be expressed by algebraic formulas. Boole, using his laws of calculation, was able to represent algebraically all of the methods of reasoning in traditional classical logic. And in a book that he published in 1854, An Investigation of the Laws of Thought, Boole set out for himself the goal of creating a completely general method in logic.
+Paralleling Boole’s work was that of De Morgan, whose book, Formal Logic, appeared at about the same time as Boole’s in 1847. De Morgan became interested in developing the logic of relations to complement Boole’s logic of classes. His purpose was to exhibit the most general form of a syllogism. His belief that the laws of algebra can be stated formally without giving a particular interpretation such as the number system, influenced Boole.
+Although Boole and his followers understood that they were just algebraizing logic, that is, rewriting syllogisms in a new notational system rather than inventing a new logical calculus, they correctly claimed that all valid arguments cannot be reduced to these forms. Venn understood this; he published an article in Mind in 1876 that included the following problem as an illustration of the inadequacies of Aristotelian forms of reasoning and the superiority of Boolean methods. Venn had given the problem whose conclusion is: no shareholders are bondholders, as a test question to Cambridge University undergraduates. He remarked that of the 150 or so students, only five or six were able to solve the following simple problem:
+A certain Company had a Board of Directors. Every Director held either Bonds or Shares; but no Director held both. Every Bondholder was on the Board. Deduce all that can logically be deduced, in as few propositions as possible.
+For Dodgson and his contemporaries, the central problem of the logic of classes, known as the elimination problem, was to determine the maximum amount of information obtainable from a given set of propositions. In his 1854 book, Boole made the solution to this problem considerably more complex when he provided the mechanism of a purely symbolic treatment which allowed propositions to have any number of terms, thereby introducing the possibility of an overwhelming number of computations.
+Logical arguments using rules of inference are a major component of both geometry and logic. To Dodgson, logic and geometry shared the characteristics of truth and certainty, qualities that held him in thrall. From the mid 1880s on, he shifted his focus from the truth given by geometrical theorems (true statements) to the validity of logical arguments, the rules that guarantee that only true conclusions can be inferred from true premises, and he pushed the envelope of the standard forms of the prevailing logic of his time, which was Aristotelian.
+Dodgson began writing explicitly about logic in the 1870s when he began his magnus opus, Symbolic Logic, the first part appearing in 1896. Dodgson’s formulation of formal logic came late in his life following his publications on Euclid’s geometry in the 1860s and 1870s. In mathematics generally, and in geometry particularly, one begins with a set of axioms and certain inference rules to infer that if one proposition is true, then so is another proposition. To Dodgson, geometry and logic shared the characteristic of certainty, a quality that always interested him. But by the early 1890s he had shifted his focus away from the truth given by geometrical theorems to the validity of logical arguments.
+Dodgson worked alone but he was not at all isolated from the community of logicians of his time. He corresponded with a number of British logicians  These include: James Welton, author of the two volume A Manual of Logic; John Cook Wilson, Professor of Logic at Oxford from 1889 until his death in 1915; Thomas Fowler, Wykeham Professor of Logic at Oxford (1873 to 1889) and author of The Elements of Deductive Logic; William Ernest Johnson, a collaborator of John Neville Keynes at Cambridge and author of “The Logical Calculus,” a series of three articles that appeared in Mind in 1892; Herbert William Blunt; Henry Sidgwick, Professor of Moral Philosophy at Cambridge; John Venn, author of the influential book, Symbolic Logic;  as well as F. H. Bradley, author of The Principles of Logic; and Stewart. He also cited the book, Studies in Logic, edited by Peirce and includes pieces by Peirce’s students: Marquand, Ladd – Franklin, Oscar Howard Mitchell, and B. I. Gilman. We know from Venn’s review of Studies in Logic appearing in the October 1883 edition of Mind, soon after Peirce’s book was published, that Peirce was well-known to the British symbolists, and that they were aware of Peirce’s publications.
+Marquand’s contributions, a short article, “A Machine for Producing Syllogistic Variations”, and his “Note on an Eight-Term Logic Machine”, contain ideas that Dodgson captured in his Register of Attributes, a tool he constructed to organize the premises when he applied his tree method to soriteses, (A soritesis an argument having many premises and a single conclusion. It can be resolved as a list of syllogisms, the conclusion of each becoming a premise of the next syllogism.) Dodgson had used ideas associated with a logic machine even earlier in The Game of Logic.
+The sale of Dodgson’s library at his death included works on logic by Boole, Venn, Allan Marquand, Mitchell, Ladd-Franklin, Benjamin Ives Gilman, Peirce, John Neville Keynes, Rudolph Hermann Lotze (in English translation by Bernard Bosanquet) James William Gilbart, De Morgan, Bernard Bosanquet, Francis H. Bradley, John Stuart Mill, William Stirling Hamilton, William Whewell, and Jevons, among others. Some of these works influenced his own writing and also provided material he needed in his dealings with Oxford adversaries,  
+3. Logic and Geometry
+On an implicit level, Dodgson wrote about logic throughout his entire professional career. Everything he published in mathematics reflected a logical way of thinking, particularly his works on geometry. Dodgson’s heightened concern with logic followed his publications on Euclid’s geometry from the 1860s and 1870s.
+From the mid -1880s on, he shifted his focus from the truth given by geometrical theorems (true statements) to the validity of logical arguments, the rules that guarantee that only true conclusions can be inferred from true premises. On p. xi of the preface to the third edition (1890) of his book about geometry, Curiosa Mathematica Part I: A New Theory of Parallels, he pointed out that the validity of a syllogism is independent of the truth of its premises. He gave this example:
+I have sent for you, my dear Ducks, said the worthy Mrs. Bond, ‘to enquire with what sauce you would like to be eaten?’ ‘But we don’t want to be killed!’ cried the Ducks. ‘You are wandering from the point’ was Mrs. Bond’s perfectly logical reply.
+Dodgson held an abiding interest in Euclid’s geometry. Of the ten books on mathematics that he wrote, including his two logic books, five dealt with geometry. From his study of geometry, he developed a strong affinity for determining the validity of arguments not only in mathematics but in daily life too. Arguably, Dodgson’s formulation of formal logic came late in his life as the culmination of his publications on Euclid’s geometry in the 1860s and 1870s. Exactly one month before he died, in an unpublished letter Dodgson wrote to Dugald Stewart criticizing a manuscript Stewart had given to him for his opinion, he commented:
+Logic, under that view, would become to me, a science of such uncertainty that I shd [should] take no further interest in it. It is its absolute certainty which at present fascinates me. (Dodgson, Berol Collection, New York University, 14 December 1897)
+We also know that Dodgson was proficient in proving theorems by the contradiction method in his many publications on geometry. Just as logic informed his geometric work, so geometry informed his logic writings. In his logic book, he used geometric notation and terms, for example, the reverse paragraph symbol for the main connective, a syllogism, the implication relation, and the corresponding symbol ∴ for ‘therefore.’
+a. Syllogisms, Soriteses, and Puzzle Problems
+In classical Aristotelian logic there are four forms of propositions:
+A: All x is y
+E: No x is y
+I: Some x is y
+O: some x is not y.
+These Boole wrote as:
+x(1 – y) = 0
+xy = 0
+xy ≠ 0
+x(1 – y) ≠ 0.
+The x, y, z symbols denote classes; and Boole used ordinary algebraic laws governing calculations with numbers to interpret his system of classes and the permissible operations on them. He assumed that each of these laws such as xy = yx, expresses a proposition that is true. Boole also developed rules to deal with elimination problems.  If the equation f(x) = 0 denotes the information available about a class x, and we want to find the relations that hold between x and the other classes (y, z, and so forth) to which x is related which is symbolized by the expression f(x), Boole, using his laws of calculation, was able to represent algebraically all of the methods of reasoning in traditional classical logic. For example, syllogistic reasoning involves reducing two class equations (premises) to one equation (conclusion), eliminating the middle term, and then solving the equation of the conclusion for the subject term. The mechanical nature of these steps is apparent.
+Dodgson, like most of his peers, used classical forms, such as the syllogism and sorites, to solve logical problems. These forms of traditional Aristotelian logic were the basis of the system of logical reasoning that prevailed in England up to the first quarter of the twentieth century. But Dodgson went much further, creating logical puzzle problems, some of which contained arguments intended to confuse the reader, while others could be described as paradoxical because they seemed to prove what was thought to be false. With these purposes in mind, he wanted to show that the classical syllogistic form, the prevailing logic system of his time, permits much more general reasoning than what was commonly believed.
+Medieval Aristotelian logicians had formulated classifications of either fifteen, nineteen, or twenty-four valid syllogisms, depending on a number of assumptions. And in part II of Symbolic Logic, Bartley includes three more valid syllogistic formulas that Dodgson had constructed primarily to handle syllogisms that contain “not-all” statements.
+Syllogistic reasoning, from the time of Aristotle until George Boole’s work in logic in the mid nineteenth century, was the essential method of all logical reasoning. In a syllogism, there are three terms (classes) in its three statements: subject, predicate (an expression that attributes properties), and the middle term which occurs once in each premise. There are several classification systems for syllogisms involving the relative position of the repeated middle term (which determines its figure, or case—there are four cases) and the way that a syllogism can be constructed within a figure (which determines its mood).
+Dodgson created the first part of his visual proof system, a diagrammatic system, beginning in 1887 in a small book titled The Game of Logic. His diagrammatic system could detect fallacies, a subject that greatly interested him. He defined a fallacy as an “argument which deceives us, by seeming to prove what it does not really prove….” (Bartley 1977, p. 129)
+The “game” employs two and three set diagrams only.  His diagrams can represent both universal and existential statements. This textbook, intended for young people, has many examples and their solutions.
+With a view to extending his proof method, Dodgson went on to expand his set of diagrams, eventually creating diagrams for eight sets (classes), and describing the construction of nine set and ten set diagrams.
+He believed that mental activities and mental recreations, like games and particularly puzzles, were enjoyable and conferred a sense of power to those who make the effort to solve them. In an advertisement for the fourth edition of Symbolic Logic, Part I. Elementary addressed to teachers he wrote:
+I claim, for Symbolic Logic, a very high place among recreations that have the nature of games or puzzles….Symbolic Logic has one unique feature, as compared with games and puzzles, which entitles it, I hold, to rank above them all….He may apply his skill to any and every subject of human thought; in every one of them it will help him to get clear ideas, to make orderly arrangement of his knowledge, and more important than all, to detect and unravel the fallacies he will meet with in every subject he may interest himself in. (Bartley 1977, p. 46)
+Dodgson felt strongly about logic as a basis for cogent thought in all areas of life – yet he did not realize he had developed concepts that would be explored or expanded upon in the twentieth century. Although he recognized his innovations as significant, the fact that he presented them primarily in a didactic context, as opposed to a research context, has affected how they were perceived and evaluated in his time and even after Bartley’s publication.
+Carroll’s idea of syllogistic construction differed from both the classical and the medieval as well as from his contemporaries. Some reasons he gave for consolidating the nineteen different forms appearing in current textbooks included the following: the syllogistic rules were too specialized; many conclusions were incomplete; and many legitimate syllogistic forms were ignored. Although Boole believed that the solutions that were found when his methods were used were complete, it has been shown this was not always the case.
+Carroll made several changes to syllogistic constructions compared to what was currently accepted in his time. The result is the fifteen valid syllogisms, although he did not actually list them, that Carroll recognized. A syllogism is an argument having two premises and a single conclusion, with each proposition being one of four kinds, A: ‘all…are…’; E: ‘no…is…’; I: ‘some…are…’; O: ‘some…are not…’. There are three terms (classes) in the three statements: subject, predicate (an expression that attributes properties) and the middle term which occurs once in each premise. The number of his valid syllogisms ranges between eighteen and twenty-four.
+In his earlier book, The Game of Logic, Carroll created a diagrammatic system to solve syllogisms. Ten years later, in Symbolic Logic, Part I, he extended the method of diagrams to handle the construction of up to ten classes (sets) depicting their relationships and the corresponding propositions. This visual logic method, which employs triliteral and biliteral diagrams, is a proof system for categorical syllogisms whose propositions are of the A, E, I type. He subsumed the O type under I, that is, ‘some x are not-y’ is equivalent to ‘some x are y and some x are not-y.’ But he did not use the method as a proof system beyond syllogisms. For the more complex soriteses, he settled on the ‘methods of barred premises and barred groups,’ and his final visual method, the method of trees, which remained unpublished until 1977 when it appeared in W. W. Bartley III’s book, Lewis Carroll’s Symbolic Logic. In Bartley’s construction of part II of Symbolic Logic, using Dodgson’s extant papers, letters, and manuscripts, the main topics in the eight books are: fallacies, logical charts, the two methods of barred premises and of trees, and puzzle problems. In part I of Symbolic Logic Dodgson used just three formulas, which he called Figures or Forms to designate the classical syllogisms. In the fourth edition of Symbolic Logic, Part I. Elementary, Dodgson pointed this out in an Appendix, Addressed to Teachers where he wrote:
+As to Syllogisms, I find their [in textbooks] nineteen forms, with about a score of others which they have ignored, can all be arranged under three forms, each with a very simple Rule of its own. (Bartley 1977, p. 250)
+In Symbolic Logic, Part I which appeared in four editions in 1896, Dodgson, represented syllogisms as in this example:
+No x are mʹ;
+All m are y.
+∴ No x are yʹ
+in the form of conditional statements using a subscript form that is written symbolically as: xmʹ0 † m1yʹ0 (reverse ¶) xyʹ0 (Bartley 1977, p. 122) with the reverse paragraph sign signifying the connecting implication relation, which he defined as: the propositions on the left side “would, if true, prove” the proposition on the right side. (Bartley 1977, p. 119) Dodgson’s algebraic notation is a modification of Boole’s which he thought was unwieldy.
+Why did Dodgson choose to write his logic books under his pseudonym? Bartley suggests a combination of motives: He wanted the material to appeal to a large general audience, particularly to young people, a task made easier using the wide acclaim accorded him as the writer, Lewis Carroll. Then too, there was the financial motive; books authored by Lewis Carroll could generate greater revenue than books by the mathematician Charles Dodgson. By 1896, Dodgson was very much concerned about his mortality and the responsibility he bore for the future care of his family, especially his unmarried sisters. But there were other reasons why he wanted the exposure his pseudonym would offer. A deeply religious man, Dodgson considered his mathematical abilities to be a gift that he should use in the service of God. In a letter to his mathematically talented sister, Louisa, dated 28 September 1896, he wrote:
+[W]hereas there is no living man who could (or at any rate would take the trouble to) & finish, & publish, the 2nd Part of the Logic. Also I have the Logic book in my head….So I have decided to get Part II finished first….The book will be a great novelty, & will help, I fully believe, to make the study of Logic far easier than it now is: & it will, I also believe, be a help to religious thoughts, by giving clearness of conception & of expression, which may enable many people to face, & conquer, many religious difficulties for themselves. So I do really regard it as work for God. (Bartley 1977, pp. 366-371)
+b. Venn and Carroll Diagrams
+In their diagrammatic methods, both Venn and Carroll used simple symmetric figures, and they valued visual clarity and ease of drawing as the most important attributes. Like Boole and Jevons, both were in the tradition of calculus ratiocinator, that is, mechanical deduction. Each of them used a system of symbolic forms isomorphic to their diagrammatic forms.
+Both Venn diagrams and Carroll diagrams are maximal, in the sense that no additional logic information like inclusive disjunctions is representable by them. But Carroll diagrams are easier to draw for a large number of sets because of their self-similarity and algorithmic construction. This regularity makes it simpler to locate and thereby erase cells corresponding to classes destroyed by the premises of an argument. Although both Venn and Carroll diagrams can represent existential statements, Carroll diagrams are capable of easily handling more complex problems than Venn’s system can without compromising the visual clarity of the diagram. Carroll only hinted at the superiority of his method when he compared his own solution to a syllogism with one that Venn had supplied.  (Carroll 1958, pp. 182-183)
+In both Dodgson’s and Venn’s systems, existential propositions can be represented. The use of a small plus sign, ‘+’ in a region to indicate that it is not empty did not appear until 1894, and Dodgson reported it in his symbolic logic book. However, Dodgson may have been the first to use it. A MS worksheet on logic problems, probably from 1885, contains a variant of a triliteral diagram that has a ‘+’ representing a nonempty region. But in his published work, Dodgson preferred the symbol ‘1′ for a nonempty region and the symbol ’0’ to designate an empty region.
+Both Venn and Carroll diagrams can represent exclusive disjunctions; neither can represent inclusive disjunctive statements like x + y when x and y have something in common. Exclusive disjunctions are important in syllogistic logic because existential statements like, ‘some x are y’ can be written as the disjunction, xyz or xyz¢; and the statement, ‘some y are z¢’ can be written as the disjunction, xyz¢ or x¢yz¢. Actually, it isn’t possible to represent general disjunctive information in a diagram without adding an arbitrary additional syntactic device, and that addition would result in a loss in the visual power of the diagram. Carroll also represented the universal set by enclosing the diagram, a feature Venn did not think important enough to bother with, but one that is essential in depicting the universe of discourse, a key concept in modern logic discussed by Boole and developed further by him.
+Carroll’s fifteen syllogisms can be represented by Venn and even Euler diagrams, but not with the visual clarity of Carroll Diagrams. Carroll himself showed this when he presented a solution to a syllogism by Euler’s method, one that involves eighteen diagrams, and a solution that Venn provided for the same syllogism where, possibly for the first time, since it does not appear in the second edition of his symbolic logic book, Venn used a small ‘+’ to indicate a non-empty region. (Carroll 1958, pp. 180-182)
+Anthony Macula constructed an iterative method to produce new Carroll diagrams, that he called (k+n)-grams where k > 4 and a multiple of four and n = 1, 2, 3, 4, by putting the 2k partitions of a k-gram into each of the partitions of an n-gram, respectively. The algorithm constructs a (k+n)-gram for any such k by iteration.  It’s now easy to see that Dodgson’s description in part I of Symbolic Logic of a 9-set diagram as composed of two 8-set diagrams, one for the inside and one for the outside of the eighth set, is the result of placing the partitions of an 8-gram into each of the two partitions of a 1-gram. And the 10-set diagram, that he described as an arrangement of four octo-literal diagrams in a square, is the result of putting the partitions of an 8-gram into each of the four partitions of a 2-gram. We observe that when k > 4, the construction of a new (k+n)-gram reverses the order of the insertion of the partitions because the insertions are multiples of 4-grams into n-grams. (Carroll 1958, pp. 178-9; Macula 1995, pp. 269-274)
+Although Venn’s system is isomorphic to Boole’s logic of classes, it is not isomorphic to a Boolean algebra  because there is no way to illustrate inclusive disjunctive statements, that is, statements other than those that can be expressed in terms of the removal of classes as in the previous example, and in other exclusive disjunctive expressions like: x’w(yz’ + y’z),that is to say what is not x but is w, and is also either, y but not z, or z but not y. (Venn 1881, p. 102) Existential statements can be represented in Venn diagrams, and he provided the mechanism in the second edition of Symbolic Logic (actually two different representations: horizontal line shading, integers). The choice of a small plus sign in a region ‘+’ to indicate that it is not empty appears to have been made after 1894 and was reported by Carroll in his symbolic logic book. (Venn 1971, pp.131-132; Carroll 1958, p. 174)
+In 1959, Trenchard More, Jr. proved what Venn knew to be true, that Venn diagrams can be constructed for any number of simply connected regions. His construction preserves the property Venn deemed essential, that each subregion is simply connected and represents a different combination of overlapping of all the simply connected regions bounded by the Jordan curves. But the diagrams resulting from More’s construction are quite complex and involve what More called a ‘weaving curve’. (More 1959, pp. 303-304)
+For a large number of sets, Carroll diagrams are easier to draw because they are self-similar, that is, each diagram remains invariant under a change of scale, discontinuous, and capable of being constructed algorithmically. Their regularity makes it simpler to locate and erase cells that must be destroyed by the premises of a syllogistic argument, a task that is difficult to accomplish in Venn diagrams for five or more classes. For example, a five-set diagram results from placing a vertical line segment in each of the sixteen partitions of a four-set diagram, and a six-set diagram is obtained by putting the 22 partitions of a suitably reduced two-set diagram into each of the sixteen partitions of a four-set diagram. Seven-set and eight-set diagrams are similarly constructed. We see that each k-gram (a k-set diagram) has 2k partitions, for example, a five-set diagram has thirty-two partitions, while an 8-set diagram has two hundred fifty-six.
+c. Dodgson’s ‘Methods’
+Dodgson’s approach to solving logic problems led him to invent various methods. In Symbolic Logic, Part I these are the method of underscoring, the method of subscripts, and the method of diagrams. In part II they are the methods of barred premises and barred groups, although he did not refer to them as ‘methods’, and, most importantly, the method of trees. In Book (chapter) XII of part two of Symbolic Logic, instead of just exhibiting the solution tree piecemeal for a particular problem he gives a “soliloquy” as he works it through, accompanied by “stage directions” showing what he is doing to enable the reader to construct the tree in an amusing way. Bartley provides many examples of sorites problems solved by the tree method in Book xii of part II of symbolic logic. And several intricate puzzle problems solved by the tree method appear in Book xiii of part II of Symbolic Logic.
+While his distinction as a logician relies on these visual innovations, Dodgson’s methods depend essentially on his idiosyncratic algebraic notation which he called the Method of Subscripts. He used letters for terms which can represent classes or attributes. (In part II of Symbolic Logic, letters are used to represent statements as well.) The subscript 0 on a letter denotes the negation of the existence of the object; the subscript 1 denotes the object’s existence. When there are two letters in an expression, it doesn’t matter which of them is first or which of them is subscripted because each subscript takes effect back to the beginning of the expression, that is, from right to left.
+Bartley observed that existential import is implicit in Dodgson’s Method of Subscripts. Using this notation, Dodgson had no other way to separate subject from predicate, for example, xy1z′0 which expresses all xy are z, implies that there are some xy. But we can interpret this as either no xy are not z, or all xy are z, which are equivalent in modern logic usage. However, Dodgson may not have held this idea as a philosophical belief.
+As George Englebretsen points out, “A good notation makes hidden things obvious…Carroll saw his own notation as at least simpler than Boole’s.” (Englebretsen 2007, p. 145)
+When did Dodgson first use his tree method? Certainly, earlier than 16 July 1894 when he wrote in his diary that he had worked a problem of forty premises. This is the date when he constructed his last formal method which he called the Method of Trees. The essential characteristic of this method is that it uses a reductio ad absurdum approach, a standard proof method in geometry, where in order to prove that a set of retinends (the terms in the conclusion) is a nullity (empty), we start by assuming instead that it is an entity, then by a process of deduction, arriving at a contradiction of this assumption which proves that the set of retinends is indeed a nullity. He needed the new formal method to solve these more complicated problems because he understood that his diagram method would no longer suffice. The essential feature of the tree method is that when a conclusion following from a set of premises is assumed to be false, then if reasoning from it together with all the premises results in a contradiction, the original argument is proved to be valid. This is the earliest modern use of a truth tree employed to reason efficiently in the logic of classes.
+On 4 August 1894 he connected his tree method with his Method of Underscoring, writing in his diary, “I have just discovered how to turn a genealogy into a scored Sorites.” (Abeles 1990, p. 30) It appears he planned to do further work with this method and its natural extensions, barred premises, and barred groups.
+Three months later, he recorded:
+Made a discovery in Logic,…the conversion of a “genealogical’ proof into a regular series of Sorites….Today I hit on the plan of working each column up to the junction – then begin anew with the Prem. just above and work into it the results of the columns, in whatever order works best….This is the only way I know for arranging, as Sorites, a No. of Prems much in excess of the No. of  Elims, where every Attribute appears 2 or 3 times in each column of the Table. My example was the last one in the new edition of Keynes. (Wakeling 2005, p.155)
+In another letter to Louisa Dodgson, dated 13 November 1896, in which he answered questions she had raised about one of his problems that she was attempting to solve, we again see that Dodgson’s use of his visual methods progressed from his method of diagrams to his method of trees. He wrote:
+As to your 4 questions,…The best way to look at the thing is to suppose the Retinends to be Attributes of the Univ. Then imagine a Diagram, assigned to that Univ., and divided, by repeated Dichotomy, for all the Attributes, so as to have 2n Cells, for n Attributes. (A cheerful Diagram to draw, with, say, 50 Attributes!
+(There would be about 1000,000,000,000 Cells.) If the Tree vanishes, it shows that every Cell is: empty. (Weaver Collection, reproduced in Abeles 2005, p. 40)
+Dodgson considered the tree method to be superior to the barred premises ‘method’. He wrote:
+We shall find that the Method of Trees saves us a great deal of the trouble entailed by the earlier process. In that earlier process we were obliged to keep a careful watch on all the Barred Premisses so as to be sure not to use any such premiss until all its “Bars” had appeared in that Sorites. In this new Method, the Barred Premises all take care of themselves. (Bartley 1977, p. 287)
+Before creating his tree method, Dodson used his ‘method’ of Barred Premises to guide the generation of the most promising (ordered) lists of the premises and partial conclusions to produce the complete conclusion of a sorites. He realized that too many of these lists would not lead to a proper conclusion, so he abandoned this approach in favor of his tree method. But modern automated reasoning programs can use a direct approach, suitably guided to prevent the proving of spurious partial results that are irrelevant to obtaining the complete result.
+When Dodgson used his ‘method’ of Barred Premises to verify a tree, he guided the generation of the ordered lists by employing an ordering strategy known now as unit preference which selects first the propositions with the fewest number of terms. In his own words:
+“[W]hen there are two Branches, of which one is headed by a single Letter, and the other by a Pair, to take the single Letter first, turn it into a Sorites, and record its Partial Conclusion: then take the double-Letter Branch: turn it also into a Sorites.” (Bartley 1977, p. 295)
+When verifying a tree, he also employed a rule to eliminate superfluous premises (those premises that don’t eliminate anything). His rule was to ignore such a premise, even if it caused a branching of the tree. But in the absence of more powerful inference rules and additional strategies first developed in the twentieth century, he had no way to approach the solution of these multiliteral problems more efficiently.
+The tree method is an extension of truth tables, migrating to trees from the tables is easy to do. (For a complete discussion of this topic, see Anellis 2004.) Using truth tables to verify inconsistency is straight forward, but very inefficient, as anyone who has worked with truth tables involving eight or more cases knows. Instead, the truth tree method examines sets of cases simultaneously, thereby making it efficient to test the validity of arguments involving a very large number of sentences by hand or with a computer. To test the validity of an argument consisting of two premises and a conclusion, equivalently determining whether the set of the two premise sentences and the denial of the conclusion sentence is inconsistent, by the method of truth tables involving say, three terms, requires calculating the truth values in eight cases to determine whether or not there is any case where the values of all three terms are true. But a finished closed tree establishes that validity of the argument by showing there are no cases in which the three sentences are true. However, if any path in a finished tree cannot be closed, the argument is invalid because an open path represents a set of counterexamples.
+The modern tree method, as a decision procedure for classical propositional logic and for first order logic, originates in Gentzen’s work on natural deduction, particularly his formulation of the sequent calculus known as LK. But the route is not a direct one; the chief contributors being Evert W. Beth, Jaakko Hintikka, Raymond Smullyan, and Richard Jeffrey.
+On 16 July 1894 Dodgson connected his tree method with his earlier work, the Method of Diagrams. He wrote, ‘It occurred to me to try a complex Sorites by the method I have been using for ascertaining what cells, if any, survive for possible occupation when certain nullities are given’ (Bartley 1977, p. 279)
+The Journal Editor, in a Note to the article, Lewis Carroll’s Method of Trees: Its Origins in ‘Studies in Logic,’ remarked:
+The trees developed by Carroll in 1894, which anticipate concepts later articulated by Beth in his development of deductive and semantic tableaux, have their roots in the work of Charles Peirce, Peirce’s students and colleagues, and in particular in Peirce’s own existential graphs.” (Anellis 1990, p. 22)
+In a comprehensive article of his own, he suggested that “Perhaps this valuable contribution to proof theory [Dodgson’s tree method] ought to be called the Hintikka-Smullyan tree method, or even the Dodgson-Hintikka-Smullyan tree….” (Anellis 1990, p. 62).
+In the eight books or chapters of Symbolic Logic, Part I. Elementary, Carroll introduces the concepts of things and their attributes, propositions and their types, diagrams and the diagrammatic method, syllogisms and their types, the more complex soriteses, and the two methods of subscripts and of underscoring.
+When Dodgson used ‘the method barred premises’ to verify a tree, he guided the generation of the ordered lists by employing an ordering strategy known now as unit preference which selects ﬁrst the propositions with the fewest number of terms. He also employed a rule to eliminate superﬂuous premises (those premises that do not eliminate anything) when verifying a tree. His rule was to ignore such a premise, even if it caused a branching of the tree. But in the absence of more powerful inference rules and additional strategies he had no way to approach the solution of these multi-literal problems more eﬃciently.
+While contemporaries such as Venn used diagrams for representing logical problems in logic, Dodgson took a visual approach to doing so to a new level with his Method of Trees. It was one of two additional methods of formal logic he presented in part II of Symbolic Logic. The first, a direct approach to the solution of multi-literal soriteses that he called barred premises, is an extension of his underscoring method. A barred premise is one in which a term t occurs in one premise and its negative tN occurs in two or more premises, and conversely. For example, if a premise contains the term a and the two eliminand terms bc, then abc is a nullity implying that a has the pair of attributes: bcN or bNc or bNcN, that is, a is barred by the nullity from having attributes bc.
+Dodgson extended this idea to what he called a barred group: when a term t occurs in two or more premises and tN also occurs in two or more premises. His rule for working with barred premises requires that all the premises barring a given premise be used first. Dodgson did not define this method explicitly, so we will call these definitions and the rule for working with them his Method of Barred Premises. It is an early formal technique to guide the order of use of the premises of a sorites to arrive at the conclusion.
+It appears he planned to do further work with his tree method and method of barred groups. In an unpublished letter whose first page is missing, probably from late in 1896 or early in 1897, he wrote, most probably to his sister Louisa:
+ I have been thinking of that matter of “Barred Groups”…. It belongs to a most fascinating branch of the Subject, which I mean to call “The Theory of Inference”:…. Here is one theorem. I believe that, if you construct a Sorites, which will eliminate all along, and will give the aggregate of the Retinends as a Nullity, and if you introduce in it the same letter, 2 or 3 times, as an Eliminand, and its Contradictory the same number of times, and eliminate it each time it occurs, you will find, if you solve it as a Tree, that you don’t use all the Premisses! (Weaver Collection, undated; reproduced Abeles 2005, p.40)
+An example, called the ‘The Pigs and Balloons Problem,’ is in Bartley on pp. 378-80. There Dodgson created a Register of Attributes showing the eliminands (a term that appears in both rows of the Register, that is, in positive and in negative form in two premises). When a term appears in both rows and in one row in more than two premises, we have the case of barred premises. All other terms are retinends.
+His almost obsessive concern with exactness introduced a certain stiffness into many of his serious mathematical writings, but the humor he uses is infectious and infuses these works, particularly those on logic, with an appealing lightness. That his use of humor set his work apart is apparent in reviews of Symbolic Logic, Part I. Elementary that appeared during his lifetime.
+An anonymous reviewer of the book wrote in The Educational Times that “[T]his very uncommon exposition of elementary logic appears to have tickled the fancy of folk.” (July 1, 1896, 316) The quotations that continue to be cited by modern authors, particularly from his logic books, reinforce this view. However, the reaction of the mathematician, Hugh MacColl, the anonymous reviewer of Symbolic Logic, Part I. Elementary in The Athenaeum, was mixed. He described Carroll’s diagrammatic method for solving logical problems as elegant, but he was critical of Carroll’s notation (subscript method) and use of existential import which asserts the existence of the subject in A propositions. For example, the proposition, “All philosophers are logical,” implies the existence of at least one philosopher. MacColl added, ‘[W]e cannot say what important surprises parts ii. and iii. of his system may have in store for us when they make their appearance.’ (October 17, 1896, pp. 520 – 521)
+Hugh MacColl’s views on logic were influenced by reading Dodgson’s Symbolic Logic, Part I. Both MacColl and Dodgson were active contributors to the ‘Mathematical Questions and Solutions’ section of The Educational Times. And at least once, they were concerned with the same question in probability. MacColl submitted a solution to Dodgson’s logical problem, Question 14122, a version of the Barbershop Paradox published posthumously.
+In addition to clear exposition and the unusual style that characterize his books, there seems to be one more essential affinity that supported MacColl’s attraction to Carroll’s work. Their exchanges show that both had a deep interest in the precise use of words. And both saw no harm in attributing arbitrary meanings to words, as long as the meaning is precise and the attribution agreed upon.
+It seems clear that between August and December of 1894, Dodgson  may have been considering a direction that was more formally developed later by Hugh MacColl as early as 1896-97, and expanded in his 1906 book, Symbolic Logic and Its Applications, where he defined strict implication, in which the content of the antecedent and consequent have a bearing on the validity of the conditional, twenty years before modal logic began to be placed on a modern footing beginning with the work of the American philosopher and logician, Clarence Irving Lewis.
+4. The Automation of Deduction
+The beginning of the automation of deduction goes back to the 1920s with the work of Thoralf Skolem who studied the problem of the existence of a model satisfying a given formula, and who introduced functions to handle universal and existential quantiﬁers. Other logicians such as David Hilbert, Wilhelm Ackermann, Leopold Löwenheim, Jacques Herbrand, Emil Post,  and a little   later, Alonzo Church, Kurt Gödel, and Alan Turing introduced additional  important ideas. One of the most important, a consequence of Hilbert’s metamathematical framework, was the notion that formalized logic systems can be the subject of mathematical investigation. But it was not until the 1950s that computer programs, using a tree as the essential data structure, were used to prove mathematical theorems.
+The focus of these early programs was on proofs of theorems of propositional and predicate logic. Describing the 1957 ‘logic machine’ of Newell, Shaw, and Simon, Martin Davis noted that a directed path in a tree gave the proof of a valid argument where its premises and conclusion were represented as nodes, and an edge joining two premise nodes represented a valid derivation according to a given set of rules for deriving the proofs.
+The modern tree method, as a decision procedure for classical propositional logic and for ﬁrst order logic, originated in Gerhard Gentzen’s work on natural deduction, particularly his formulation of the sequent calculus known as LK. But the route was not a direct one, the main contributors being Evert Beth, Richard Jeﬀrey, Jaakko Hintikka and Raymond Smullyan. In 1955, Beth presented a tableau method he had devised consisting of two trees that would enable a systematic search for a refutation of a given (true) sequent. A tree is a left-sided Beth tableau in which all the formulae are true. The rules for decomposing the tree, that is, the inference rules, are equivalent to Gentzen’s rules in his sequent calculus.
+Bartley had this to say about Dodgson’s tree method for reaching valid conclusions from sorites and puzzle problems:
+Carroll’s procedure bears a striking resemblance to the trees employed . . .according to a method of ‘Semantic Tableaux’ published in 1955 by the Dutch logician, E. W. Beth. The basic ideas are identical. (Bartley 1977, p. 32)
+Dodgson was the ﬁrst person in modern times to apply a mechanical procedure, his tree method, to demonstrate the validity of the conclusion of certain complex problems. The tree method is a direct extension of truth tables and Dodgson had worked with an incomplete truth table in one of the solutions he gave to his Barbershop Problem in September 1894. Bartley writes, “The matrix is used…for the components; but the analysis and assignment of truth values to the compounds are conducted in prose commentary on the table.” (Bartley 1977, p. 465n.)
+On 4 August, he connected the tree method with a scored sorites:
+I have just discovered how to turn a genealogy into a scored Sorites: the difficulty is to deal with forks. Say ‘all a is b or c’ = ‘all A is b’ and ‘all α is c,’ where the two sets A, α make up a. Then prove each column separately. (Wakeling, 2005, p. 158)
+On 30 October, using a problem from a new edition of Keynes book, Studies and Exercises in Formal Logic, he discovered how to navigate a tree representing a sorites with 21 premises having 10 attributes of which 8 are eliminated. (Wakeling 2005, p. 181)
+When an open branch is divided into two branches and a term, here bʹ, appears in one of the branches and its negation is added to the other branch, we have an example of the use of the cut rule. Dodgson has anticipated a method that was not fully worked out until the 1930s. He wrote:
+It is worthwhile to note that in each case, we tack on to one of the single Letters, the Contradictory of the other: this fact should be remembered as a rule….We have now got a Rule of Procedure, to be observed whenever we are obliged to divide our Tree into two Branches. (Bartley 1977, p. 287)
+He continued to discover new ways to improve his handling of trees, recording in his diary on November 12/13, 1896, “Discovered [a] method of combining 2 Trees, which prove abcʹ0 † abdʹ0, into one proving ab(cd)ʹ0, by using the Axiom cd(cd)ʹ0.” (Wakeling 2005, p. 279)
+In an exchange of letters in October and November of 1896 to John Cook Wilson, Wykeham Professor of Logic at Oxford, Dodgson modified an eighteen-premise version of a problem containing superfluous premises to one with fifteen premises. Bartley includes both versions as well as their solutions by the tree method.
+In an unpublished letter dated 25 September 1896 to the Cook Wilson, in connection with a sorites problem Dodgson wrote:
+What you say about ‘superﬂuous Premisses’ interests me very much. It is a matter that beats me, at present . . . &, if you can formulate any proof enabling you to say ‘all the Premises are certainly needed to prove the Conclusion,’ I shall be very glad to see it. (Dodgson, Sparrow Collection, 25 September 1896. Courtesy Morton N. Cohen)
+The diﬃculty of establishing a theorem to determine superﬂuous premises troubled him. It was a problem he was unable to solve.
+5. Dodgson’s Logic Circle
+John Venn was another English logician whose work Dodgson was familiar with and with whom he had contact. Venn, a supporter of Boole’s approach to logic, published the first edition of his Symbolic Logic in 1881. It included his now familiar diagrams to depict the relations between classes so that the truth or falsity of propositions employing them could be established.
+In 1892 William E. Johnson had published the first of three papers in Mind titled “The Logical Calculus” where he distinguished the term, conditional from the term, hypothetical. Dodgson, like most logicians of his time did not make this distinction, using the term hypothetical for both situations. Johnson’s view was that a conditional expresses a relation between two phenomena, while a hypothetical expresses a relation between two propositions of independent import. So, a conditional connects two terms, while a hypothetical connects two propositions. John Neville Keynes, with whose work Dodgson was quite familiar, agreed with Johnson’s view. Venn, however, although he, too, knew Johnson’s work, held a very different view of hypotheticals, contending that because they are of a non-formal nature, they really should not be considered part of symbolic logic.
+William Stanley Jevons was another supporter of Boole whose books, Pure Logic; or, the Logic of Quality Apart From Quantity (1864) and The Principles of Science: A Treatise on Logic and Scientific Method (1874) Dodgson owned. Jevons introduced a logical alphabet for class logic in 1869, and the following year he exhibited a machine that used it for solving problems in logic mechanically, which he called the logical piano, to the Royal Society in London
+Dodgson was very familiar with Keynes’ Studies and Exercises in Formal Logic in its second edition from 1887, quoting directly from it in chapter II of Book X in part II of Symbolic Logic. Keynes included Dodgson’s Barbershop Paradox as an exercise in chapter IX of the 1906 edition of his book.  (Keynes 1906, pp. 273 – 274)    
+a. The ‘Alice’ Effect
+ In an exchange of letters between Venn and Dodgson in 1894, and from the reviews that appeared soon after the publication of both The Game of Logic and Symbolic Logic, Part I, we see that Dodgson’s reputation as the author of the ‘Alice’ books cast him primarily as an author of children’s books and prevented his logic books from being treated seriously. The barrier created by the fame Carroll deservedly earned from his Alice books combined with a writing style more literary than mathematical, prevented the community of British logicians from properly recognizing him as a significant logician.
+His own more literary style of writing contributed to this impression. That this was his reputation is apparent in reviews of Symbolic Logic, Part I during his lifetime. Certainly, most of his contemporaries were unaware of the importance of his diagrammatic method for solving syllogisms that he first presented in The Game of Logic. In an unpublished letter to Venn dated 11 August 1894, he wrote:
+‘You are quite welcome to make any use you like of the problem I sent you, & (of course) to refer to the article in ‘Mind’ – [A Logical Paradox, N. S. v. 3, 1894, pp. 436-438 concerning an example of hypothetical propositions] Your letter has, I see crossed one from me, in which I sent you ‘Nemo’s algebraical illustration. I hope you may be able to find room for it in your next book. Perhaps you could add it, as a note, at the end of the book, & give it, at p. 442, a reference thereto? I shall be grateful if you will not mention to anyone my real name, in connection with my pseudonym. I look forward with pleasure to studying the new edition of your book.” (Venn Papers, Gonville and Caius Libraries, Cambridge University)
+And on p. 442 of the second revised edition of his Symbolic Logic Venn wrote:
+[T]hat the phrase ‘x implies y’ does not imply that the facts concerned are known to be connected, or that the one proposition is formally inferrible from the other. This particular aspect of the question will very likely be familiar to some of my readers from a problem recently circulated, for comparison of opinions, amongst logicians. As the proposer is, to the general reader, better known in a very different branch of literature, I will call it Alice’s Problem.
+6. Logic Paradoxes
+a. The Barbershop Paradox
+An appendix to Book XXI contains eight versions of Dodgson’s Barbershop Paradox, one of which was published in Mind as “A Logical Paradox”. In another appendix to this book Bartley discusses Carroll’s other contribution to Mind, “What the Tortoise said to Achilles.” These two appendices make the issues Carroll dealt with in these published articles—along with the commentaries they engendered from modern logicians and philosophers—much more accessible.
+The Barbershop problem was Dodgson’s first publication in the journal Mind. It is the transcription of a dispute which opposed him to John Cook Wilson. Bertrand Russell used the barber shop problem in his Principles of Mathematics to illustrate his principle that a false proposition implies all others. Venn was one of the first to discuss it in print, in the second edition of his Symbolic Logic. Bartley includes eight versions of Dodgson’s Barbershop Paradox, one of which was published in Mind, together with extensive commentary.
+In the Barbershop Paradox, there are two rules governing the movements of three barbers Allen, Brown, and Carr.  The first is that when Carr goes out, then if Allen goes out, Brown stays in. The second rule is that when Carr goes out, Brown goes out. The challenge is to use these rules to determine Carr’s possible movements. In a lively two-year correspondence from late 1892 preserved in the Bodleian Library, Dodgson and Cook Wilson honed their differing views on the Barbershop Paradox. Wilson believed that all propositions are categorical and therefore hypotheticals could not be propositions.
+The unsettled nature of the topic of hypotheticals during Dodgson’s lifetime is apparent at the beginning of the Note that Carroll wrote at the end of his article:
+This paradox…is, I have reason to believe, a very real difficulty in the Theory of Hypotheticals. The disputed point has been for some time under discussion by several practised logicians, to whom I have submitted it; and the various and conflicting opinions, which my correspondence with them has elicited, convince me that the subject needs further consideration, in order that logical teachers and writers may come to some agreement as to what Hypotheticals are, and how they ought to be treated. (Carroll 1894, p. 438)
+Bartley remarks in his book that the Barbershop Paradox is not a genuine logical paradox as is the Liar Paradox. Generally, a paradox is a statement that appears to be either self-contradictory or contrary to expectations.
+The many versions the Barbershop Paradox that Dodgson developed demonstrate an evolution of his thoughts on hypotheticals and material implication in which the connection between the antecedent and the consequent of the conditional (if (antecedent), then (consequent)) is formal, that is, it does not depend on their truth values. This is a result of Boole’s logic. Six versions of the Barbershop Paradox provide insight into Dodgson’s thinking about the problem as it evolved. Bartley published five of these six as well as three others, two of which are examples; one is almost the same as one of the others Bartley published. Additionally, there are three earlier versions that Bartley did not publish; all are from March 1894.
+Earlier versions of the “Barbershop Paradox” show the change in the way Dodgson represented conditionals. In the earlier versions, he expressed a hypothetical proposition in terms of classes, that is, if A is B, then C is D. Only later did he designate A, B, C, and D as propositions.
+A version of the Barbershop Paradox that was not recognized as such by Bartley, Question 14122, was published in February 1899 in The Educational Times after Dodgson’s death and reprinted in Mathematical Questions and Solutions the next year. Two different solutions appeared that same year, one by Harold Worthington Curjel, a member of the London Mathematical Society, the other by Hugh MacColl. (For a more detailed discussion of the Barbershop Paradox, see A. Moktefi’s publications.)
+An article titled, “A Logical Paradox”, published in 1894 in Mind, generated responses in the form of subsequent articles published in Mind by many of the eminent logicians of Dodgson’s time, including Hugh MacColl, E. E. Constance Jones, Lecturer in Logic at Girton, one of the Women’s colleges at Cambridge, Alfred Sidgwick, the author of Fallacies. A View of Logic from the Practical Side, as well as Johnson, Keynes, Cook Wilson, and Russell.
+A letter dated 11 August 1894 from Dodgson to John Venn resulted in Venn including a version of the Barbershop Paradox in the second edition (1884) of his book, Symbolic Logic. Keynes included a version of the Barbershop Paradox in his book, and Bradley discussed it in a book of Selected Correspondence.
+Bertrand Russell gave what is now the generally accepted conclusion to this problem in his 1903 book, The Principles of Mathematics. If p represents ”Carr is out’; q represents ‘Allen is out’; r represents ‘Brown is out,’ then the Barbershop Paradox can be written as (1) q implies r; (2) p implies that q implies not-r. Russell asserted that the only correct inference from (1) and (2) is: if p is true, q is false, that is, if Carr is out, Allen is in. (Russell 1903, p. 18)
+b. Achilles and the Tortoise
+ Dodgson published a more consequential paradox in Mind the following year: “What the Tortoise Said to Achilles.” Although it did not generate any responses during Dodgson’s lifetime, many responses were received after his death, and it remains an unsolved problem to the current day. (See Moktefi and Abeles 2016.)
+This is the paradox:
+
+
+
+Things that are equal to the same thing are equal to each other,
+The two sides of this triangle are things that are equal to the same.
+The two sides of this triangle are equal to each other.
+
+
+
+Dodgson was the first to recognize that when making a logical inference, the rule that permits drawing a conclusion from the premises cannot be considered to be a further premise without generating an infinite regress.
+Both the Barbershop and Achilles paradoxes involve conditionals and Dodgson employed material implication to argue them, but he was uncomfortable with it. He struggled with several additional issues surrounding hypotheticals. In the Note to the published version of the Barbershop Paradox in July 1894, Dodgson asked several questions, the first being whether a hypothetical can be legitimate when its premise is false; the second being whether two hypotheticals whose forms are ‘if A then B’ and ‘if A then not-B’ can be compatible.
+Bartley published a second edition of Symbolic Logic, Part II in 1986 in which he included solutions to some of Carroll’s more significant problems and puzzles, additional galley proof discoveries, and a new interpretation, by Mark R. Richards, of Carroll’s logical charts.
+By 1897, Dodgson may have been rethinking his use of existential import. Bartley cites a diary entry from 1896, and an undated letter to Cook Wilson as evidence (Bartley 1977, pp. 34–35.) However, there is even more evidence, incomplete in Bartley’s book, to support this break with the idea of existential import. Book (chapter) XXII contains Dodgson’s solutions to problems posed by other logicians. One of these solutions to a problem posed by Augustus De Morgan that concerns the existence of their subjects appears in an unaddressed letter dated 15 March 1897. (Bartley 1977, pp. 480–481) From Dodgson’s response to this letter six days later, we now know it was sent to his sister, Louisa, responding to her solution of the problem. In this unpublished letter, Dodgson suggested:
+[I]f you take into account the question of existence and assume that each Proposition implies the existence of its Subject, & therefore of its Predicate, then you certainly do get diﬀerences between them: each implies certain existences not implied by the others. But this complicates the matter: & I think it makes a neater problem to agree (as I shall propose to do in my solution of it) that the Propositions shall not be understood to imply existence of these relationships, but shall only be understood to assert that, if such & such relationships did exist, then certain results would follow. (Dodgson, Berol Collection, New York University, 21 March 1897)
+7. Dodgson and Modern Mathematics
+In part II of Symbolic Logic, Dodgson’s approach led him to invent various methods that lend themselves to mechanical reasoning. These are the ‘methods’ of barred premises and barred groups and, most importantly, the method of trees. Although Dodgson worked with a restricted form of the logic of classes and used rather awkward notation and odd names, the methods he introduced foreshadowed modern concepts and techniques in automated reasoning like truth trees, binary resolution, unit preference and set of support strategies, and refutation completeness.
+His system of logic diagrams is a sound and complete proof system for syllogisms. The soundness of a proof system ensures that only true conclusions can be deduced. (A proof system is sound if and only if the conclusions we can derive from the premises are logical consequences of them.)  Conversely, its completeness guarantees that all true conclusions can be deduced. (A proof system is complete if and only if whenever a set of premises logically implies a conclusion, we can derive that conclusion from those premises.)
+Several of the methods Dodgson used in his Symbolic Logic contain kernels of concepts and techniques that have been employed in automatic theorem proving beginning in the twentieth century. The focus of these early programs was on proofs of theorems of propositional and predicate logic.
+His only inference rule, underscoring, which takes two propositions, selects a term in each of the same subject or predicate having opposite signs, and yields another proposition, is an example of binary resolution, the most important of these early proof methods in automated deduction.
+Although Dodgson did not take the next step, attaching the idea of inconsistency to the set of premises and conclusion, this method for handling multi-literal syllogisms in the first figure is a formal test for inconsistency that qualifies as a finite refutation of the set of eliminands and retinends. His construction of a tree uses one inference rule (algorithm), binary resolution, and he guides the tree’s development with a restriction strategy, now known as a set of support, that applies binary resolution at each subsequent step of the deduction only if the preceding step has been deduced from a subset of the premises and denial of the conclusion, that is, from the set of retinends. This strategy improves the efficiency of reasoning by preventing the establishment of fruitless paths. And this tree test is both sound and complete, that is, if the initial set of the premises and conclusion is consistent, there will be an open path through the tree rendering it sound; if there is an open path in the finished tree, the initial set of the premises and conclusion is consistent, rendering it complete.
+A comparison of the two parts of Symbolic Logic reveals the progress Dodgson made toward an automated approach to the solution of multiply connected syllogistic problems (soriteses), and puzzle problems bearing intriguing names such as “The Problem of Grocers on Bicycles”, and “The Pigs and Balloons Problem”.
+Many modern automated reasoning programs employ a reductio ad absurdum argument, while other reasoning programs that are used to ﬁnd additional information do not seek to establish a contradiction. In 1985, one of Dodgson’s puzzle problems, the “Problem of the School Boys”, was modiﬁed by Ewing Lusk and Ross Overbeek to be compatible with the direct generation of statements (in clausal form) by an automated reasoning program. Their program ﬁrst produced a weaker conclusion before generating the same stronger conclusion Dodgson produced using his tree method. The solution by Lusk and Overbeek in 1985 to Dodgson’s ‘Salt and Mustard Problem’ and by A G. Cohn 1989 to the same problem ﬁve years later used a many sorted logic to illustrate the power of two of these programs.
+In computer science, a database has a state which is a value for each of its elements. A trigger can test a condition that can be specified by a when clause, that is, a certain action will be executed only if the rule is triggerred and the condition holds when the triggering event occurs.
+Dodgson defined the term, Cosmophase, as “[t]he state of the Universe at some particular moment: and I regard any Proposition, which is true at that moment, as an Attribute of that Cosmophase.” (Bartley 1977, p. 481) Curiously, Dodgson’s definition of a Cosmophase fits nicely into this modern framework.
+8. Carroll as Popularizer
+Dodgson was both a popularizer and an educator of both mathematics and logic. He began teaching mathematics at St. Aldate’s School across from Christ Church in 1856. He considered The Game of Logic and to a greater degree, Symbolic Logic, Part I. Elementary, to be far superior to those in current use, and to be useful in teaching students between the ages of twelve and fourteen. The objective of the game, played with a board and counters, was to solve syllogisms. He believed his entire Symbolic Logic book, including the projected parts II and III would appeal to pupils up to the age of twenty, and hence be useful at the university level.
+While he was the Mathematical Lecturer at Christ Church, he often gave free private instruction to family groups of parents, their children and their children’s friends in their private homes on such mathematical topics as ciphers, particularly his Memoria Technica cipher, arithmetical and algebraical puzzles, and an algorithmic method to find the day of the week for any given date. He originally created the Memoria Technica cipher in 1875 to calculate logarithms but found many more uses for it as a general aid for remembering, writing a simplified version of it for teaching purposes in 1888.
+The topics he chose to teach privately focused on memory aids, number tricks, computational shortcuts, and problems suited to rapid mental calculation, developing this last topic into a book, Curiosa Mathematica, Part 2: Pillow Problems Thought Out During Wakeful Hours (1894) that was published in 1893. He continued to provide instruction in this way on logic topics. He also gave logic lessons in his rooms at Christ Church. In June 1886 he gave lectures at Lady Margaret Hall, Oxford and in May 1887 at the Oxford High School for Girls. There he lectured to both students and, separately, their teachers. He gave lectures at St. Hugh’s Hall, another of the women’s colleges at Oxford, in May and June of 1894. In January 1897 he began a course of lectures on symbolic logic at Abbot’s Hospital in Guildford.
+He used material that he eventually incorporated into his book, The Game of Logic, a work he had essentially completed in July 1886, but that did not appear until November in an edition Dodgson rejected for being substandard. The second (published) edition came out in February of the following year. Dodgson hoped the book would appeal to young people as an amusing mental recreation. He found this book, and even more so, his Symbolic Logic, Part I. Elementary essential in teaching students. He believed his own book on symbolic logic was far superior to those in current use.
+On 21 August 1894, answering a letter from a former child friend, Mary Brown, now aged thirty-two, he wrote:
+You ask what books I have done…. At present I’m hard at work (and have been for months) on my Logic-book. (It really has been on hand for a dozen years: the “months” refer to preparing for the Press.) It is Symbolic Logic, in 3 Parts – and Part I is to be easy enough for boys and girls of (say) 12 or 14. I greatly hope it will get into High Schools, etc. I’ve been teaching it at Oxford to a class of girls at the High School, another class of the mistresses(!), and another class of girls at one of the Ladies’ Colleges. (Cohen 1979, p. 1031)
+In a letter dated 25 November 1894 to his sister, Elizabeth, he wrote:
+One great use of the study of Logic (which I am doing my best to popularise) would be to help people who have religious difficulties to deal with, by making them see the absolute necessity of having clear definitions, so that, before entering on the discussion of any of these puzzling matters, they may have a clear idea what it is they are talking about. (Cohen 1979, p. 1041)
+The statements of almost all the problems in both parts of his symbolic logic books are amusing to read. This attribute derives from the announced purpose of the books, to popularize the subject. But Dodgson naturally incorporated humor into much of his serious mathematical writing, infusing this work with the mark of his literary genius.
+Edward Wakeling notes that his logic teaching took three forms: a series of lessons in a school, lessons to a small group of friends or families he knew or teaching a single confident, intelligent and alert child-friend. This last method was his favorite. Edith Rix, to whom he dedicated A Tangled Tale (1885) in the form of an eight-line acrostic poem in which the second letter of each line spells her name, was his first logic pupil.  Dodgson wrote many letters to her concerning problems in logic. She was, it is reported he said, the cleverest woman he ever knew.
+In the Appendix Addressed to Teachers from part I of Symbolic Logic, fourth edition, Carroll indicated some of the topics he planned for part II. These include “[T]he very puzzling subjects of Hypotheticals, Dilemmas, and Paradoxes.” (Bartley 1977, p. 229) Dodgson was generally interested in the quality of arguments, particularly those that could confuse. Paradoxes fall in this category because they appear to prove what is known to be false. And paradoxes certainly challenged him to create ingenious methods to solve them, such as his tree method.
+Dodgson expressed his thoughts about how best to teach logic to young people in “A Fascinating Mental Recreation for the Young” when he wrote:
+As to the first popular idea – that Logic is much too hard for ordinary folk, and specially for children, I can only say that I have taught the method of Symbolic Logic to many children, with entire success…High-School girls take to it readily. I have had classes of such girls, and also of the mistresses,….As to Symbolic Logic being dry, and uninteresting, I can only say, try it! I have amused myself with various scientific pursuits for some forty years and have found none to rival it for sustained and entrancing attractiveness. (Carroll 1896, reproduced in Abeles 2010, pp. 96-97)
+9. Conclusion
+The inspiration for much of what Dodgson wrote about logic came from his contacts with faculty members at other colleges in Oxford, in Cambridge and elsewhere. He communicated his work within a circle of colleagues and solicited their opinions. Unlike most of them, he did not seek membership in the professional mathematical and philosophical societies, nor did he attend their meetings or give lectures, with few exceptions. He was not a traditional mathematician. Rather, he applied mathematical and logical solutions to problems that interested him. As a natural logician at a time when logic was not considered to be a part of mathematics, he successfully worked in both fields.
+Although the ingenuity of the puzzles and examples Dodgson created were generally applauded, Bartley’s claims about the significance of Dodgson’s work were questioned, so that its value in the development of logic was not fully appreciated when the book was first published. But subsequently, other scholars working on Carroll’s logic and mathematical writings such as Duncan Black, George Englebretsen, Amirouche Moktefi, Adrian Rice, Mark Richards, Eugene Seneta, Edward Wakeling and Robin Wilson have made important discoveries that have greatly enhanced Carroll’s reputation.
+Why did scholars become interested in Dodgson’s serious work only in the second half of the twentieth century? In addition to Bartley’s publication of Carroll’s Symbolic Logic book, there are several more reasons. One of the most important is the role certain publishers played in making his work available. These include: Clarkson N. Potter, and Dover Press in the USA, and Kluwer in the Netherlands whose books were distributed both in the USA and in the UK. The articles in Martin Gardner’s popular ‘Mathematical Games’ section of Scientific American magazine also included several of Dodgson’s mathematical ideas and were invaluable sources of information for scholars. Another important reason is that only in the twentieth century did some of his mathematical and logical ideas find application, in the sense that his work foreshadowed their use. Dodgson’s mathematical and logical work was broadly based, but his influence on important developments in the twentieth century occurred primarily after his death.
+10. References and Further Reading
+a. Primary
+
+Boole, G. An Investigation of the Laws of Thought. London, Macmillan, 1854.
+Boole, G. The Mathematical Analysis of Logic. London, Macmillan, 1847.
+Bradley, F.H. The Principles of Logic, London, Oxford University Press, 1883.
+Carroll, C.L. The Game of Logic. Macmillan, London, 1887.
+Carroll, C.L. Symbolic logic: Part I. London, Macmillan, 1896.
+Carroll, C. L. The Game of Logic. Published with Symbolic Logic, Part I, as The Mathematical Recreations of Lewis Carroll, New York, Dover, 1958.
+Carroll, L. “A Logical Paradox.” Mind v.3, n.11, 1894, pp. 436-438.
+Carroll, L. What the Tortoise said to Achilles.” Mind, v.4, n.14, 1895, pp. 278-280.
+Cohen, M. N. The Letters of Lewis Carroll. 2 vols. New York, Oxford University Press, 1979.
+De Morgan, A. Formal Logic. London, Taylor & Walton, 1847.
+De Morgan, A. On the Syllogism and Other Logical Writings. London, Routledge & Kegan Paul, 1966.
+Dodgson, C. L. Euclid and his Modern Rivals. London, Macmillan, 1879.
+Dodgson, C. L. Curiosa Mathematica. Part I: A New Theory of Parallels. London, Macmillan, 1888.
+Dodgson, C. L. Curiosa Mathematica. Part II: Pillow Problems. London, Macmillan, 1893.
+Jevons, W. S. Pure Logic, or the Logic of Quality Apart from Quantity, London, E. Stanford, 1864.
+Johnson, W. E. “The Logical Calculus I, II, III”, Mind 1, pp. 3-30; II, pp. 235-250; III, pp. 340-357, 1892.
+Keynes, J. N.  Studies and Exercises in Formal Logic, 3rd ed.. London, Macmillan, 1894.
+Russell, B. Principles of Mathematics. Cambridge, Cambridge University Press, 1903.
+Sidgwick, A. Fallacies: A View of Logic from the Practical Side. London, Kegan, Paul, Trench, 1883.
+Venn, J. Symbolic Logic. London, Macmillan, 1881.
+Venn, J. Symbolic Logic, 2nd revised ed. London, Macmillan, 1894.
+Wakeling, E., ed. Lewis Carroll’s Diaries. v. 6. Clifford, Herefordshire, The Lewis Carroll Society, 2001.
+Wakeling, E., ed. Lewis Carroll’s Diaries. v. 8. Clifford, Herefordshire, The Lewis Carroll Society, 2004.
+Wakeling, E., ed. Lewis Carroll’s Diaries. v. 9. Clifford, Herefordshire, The Lewis Carroll Society, 2005.
+
+b. Secondary
+
+Abeles, F.F. “Lewis Carroll’s Method of Trees: Its Origins in Studies in Logic.” Modern Logic, v. 1, n. 1, 1990, pp. 25-35.
+Abeles, F. F., ed. The Mathematical Pamphlets of Charles Lutwidge Dodgson and Related Pieces. New York, Lewis Carroll Society of North America,1994.
+Abeles, F. F. “Lewis Carroll’s Formal Logic.” History and Philosophy of Logic v. 26, 2005, pp.33-46.
+Abeles, F. F. “From the Tree Method in Modern Logic to the Beginning of Automated Theorem Proving.” In: Shell-Gellash, A. and Jardine, D., eds. From Calculus to Computers. Washington DC, Mathematical Association of America, 2005, pp. 149-160.
+Abeles, F. F. “Lewis Carroll’s Visual Logic.” History and Philosophy of Logic v. 28, 2007, pp. 1-17.
+Abeles, F. F., ed. The Logic Pamphlets of Charles Lutwidge Dodgson and Related Pieces.  New York, Lewis Carroll Society of North America, 2010.
+Abeles, F. F. “Toward a Visual Proof System: Lewis Carroll’s Method of Trees.” Logica Universalis, v. 6, n. 3/4, 2012, pp. 521-534.
+Abeles, F. F. “Mathematical Legacy.” In: Wilson, R. and Moktefi, A. eds. The Mathematical World of Charles L. Dodgson (Lewis Carroll). Oxford, Oxford University Press, 2019, pp. 177-215.
+Anellis, Irving. “From Semantic Tableaux to Smullyan Trees: the History of the Falsifiability Tree Method.” Modern Logic, v. 1, n. 1, 1990, pp. 36- 69.
+Corcoron, J. “Information-Theoretic Logic.” In Martinez, C. et al. eds. Truth in Perspective, Aldershot, Ashgate, 1998, pp.113-135.
+Englebretsen, G. “The Tortoise, the Turtle and Deductive Logic.” Jabberwocky, v. 3, 1974, pp.11-13.
+Englebretsen, G. “The Properly Victorian Tortoise.” Jabberwocky, v. 23, 1993/1994, pp.12-13.
+Englebretsen, G., “The Dodo and the DO: Lewis Carroll and the Dictum de Omni.” Proceedings of the Canadian Society for the History and Philosophy of Mathematics, v. 20, 2008, pp. 142-148.
+Macula, A. “Lewis Carroll and the Enumeration of Minimal Covers.” Mathematics Magazine, v. 69, 1995, pp. 269-274.
+MacColl, H. “Review of Symbolic Logic, Part I, by Lewis Carroll.” The Athenaeum, 17 October 1896, pp. 520-521.
+Marion, M. and Moktefi, A. “La Logique Symbolique en Sébat à Oxford à la Fin du XIXe Siècle : Les Disputes Logiques de Lewis Carroll et John Cook Wilson.” Revue d’Histoire des Sciences, v. 67 n. 2, 2014, pp. 185-205.
+Moktefi, A. “Beyond Syllogisms: Carroll’s (Marked) Quadriliteral Diagram.” In: Moktefi, A., Shin, S.-J.,eds. Visual Reasoning with Diagrams, Basel, Birkhäuser, 2013, pp. 55-72.
+Moktefi, A. ”On the Social Utility of Symbolic Logic: Lewis Carroll against ‘The Logicians’.” Studia Metodologiczne 35, 2015, pp.133-150.
+Moktefi, A., “Are Other People’s Books Difficult to Read? The Logic Books in Lewis Carroll’s Private Library.” Acta Baltica Historiae et Philosophiae Scientiarum, v. 5, n. 1, 2017, pp.28-49.
+Moktefi, A. “Logic.” In: Wilson, R. J., Moktefi, A., eds. The Mathematical World of Charles L. Dodgson (Lewis Carroll), Oxford, Oxford University Press, 2019, pp. 87-119.
+Moktefi, A. and Abeles, F. F. “The Making of ‘What the Tortoise Said to Achilles’: Lewis Carroll’s Logical Investigations toward a Workable Theory of Hypotheticals.” The Carrollian, v. 28, 2016, pp. 14-47.
+Moktefi, A. “Why Make Things Simple When You Can Make Them Complicated? An Appreciation of Lewis Carroll’s Symbolic Logic”, Logica Universalis, volume 15 (2021), pages359–379.
+More, T., Jr. “On the Construction of Venn Diagrams.” J. of Symbolic Logic v. 24,  n.4 , 1959, pp. 303-304.
+Rice, Adrian.  “Algebra.”  In: Wilson, R. J., Moktefi, A., eds. The Mathematical World of Charles L. Dodgson (Lewis Carroll), Oxford, Oxford University Press, 2019, pp. 57- 85.
+Richards, M. Game of Logic. https://lewiscarrollresources.net/gameoflogic/.
+Seneta, E. “Lewis Carroll as a Probabilist and Mathematician.” Mathematical Scientist, v. 9, 1984, pp. 79-84.
+Seneta, E. “Victorian Probability and Lewis Carroll.” Journal of the Royal Statistical Society Series A-Statistics in Society, v. 175, n. 2, 2012, pp. 435-451.
+Van Evra, J. “The Development of Logic as Reflected in the Fate of the Syllogism 1600-1900.” History and Philosophy of Logic, v. 21, 2000, pp. 115-134.
+Wilson, R. “Geometry.” In: Wilson, R. and Moktefi, A. eds. The Mathematical World of Charles L. Dodgson (Lewis Carroll). Oxford, Oxford University Press, 2019, pp. 31-55
+Wilson, R. and Moktefi, A. eds. The Mathematical World of Charles L. Dodgson (Lewis Carroll). Oxford, Oxford University Press, 2019.
+
+ 
+Author Information
+Francine F. Abeles
+Email: fabeles@kean.edu
+Kean University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+
+
+Wilfrid Sellars: Philosophy of Mind | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wilfrid Sellars: Philosophy of Mind
+The twentieth century philosophy of mind of Wilfrid Sellars (1912 – 1989) retains much from the traditional, Cartesian perspective. It endorses a realm of inner, private episodes of which we may have direct knowledge. However, Sellars rejects Cartesian substance dualism and the thesis that mental states are fully knowable simply by introspection. As an alternative, Sellars conceives of mental states by analogy with the postulation of microentities of theoretical physics, where thoughts and sensations are introduced to explain people’s behavior, including their use of language. Although thoughts and sensations are theoretical posits, direct or immediate knowledge of one’s own thoughts and sensations is possible, as are well-grounded judgments about others’ inner states. Concepts of thoughts are modeled on concepts of overt linguistic activity, and our knowledge of the nature of thinking is thus dependent upon the semantic categories and features appropriate to a public language. In this way, the traditional Cartesian view is retained to a certain extent, but also inverted. Thoughts and other inner episodes are genuine, private episodes, but knowledge of them is not the ground from which public facts are inferred. Instead, knowledge of thoughts, even our own, presupposes a language and knowledge of public matters. In fact, this is part of Sellars famous account of the Myth of the Given. A further important break from the Cartesian tradition comes in the distinct accounts Sellars provides for thoughts on the one hand, and sensations on the other. In this way Sellars is far more Kantian than Cartesian. Sellars’ theory of thinking is a proto-functionalist one, but is combined with a distinct account of sensation, one which stresses the intrinsic character of sensory experience. Mental episodes of thoughts and sensation are held by him to be reconcilable with a broadly naturalistic metaphysics.
+Table of Contents
+
+The Cartesian Background 
+ Requirements for a Theory of Mind 
+ The Challenge of Mental Episodes 
+ Sellars’ Positive Account: The Myth of Jones, I 
+ Sellars’ Positive Account: The Myth of Jones, II 
+ The Nature of Thinking and Sensing 
+ References for Further Reading 
+
+ Primary Texts 
+ Secondary Texts 
+
+
+
+ 1. The Cartesian Background
+Wilfrid Sellars (b.1912 – d.1989) was a systematic philosopher par excellence. As a consequence, attempts to understand his views on mind lead towards other areas of philosophy. In particular, Sellars’ theory of mind is intertwined with his views on language, epistemology, science, and metaphysics. This entry focuses on his account of mind and draws on these other areas only to the extent needed to shed light.
+In keeping with his belief that philosophy is an ongoing dialogue, Sellars often develops his views in response to key historical figures. When it comes to the mind, Sellars finds himself often in dialogue with Descartes and it is here that we can begin to appreciate Sellars’ multi-faceted position. In particular, we might take Sellars’ point of departure to be Descartes’ belief that the mind is better known than the body. Sellars seeks to preserve the degree of truth it contains, while jettisoning components and presuppositions he views as problematic.
+According to Descartes, our minds are better known than physical bodies in that nothing mental is in principle hidden from sight: knowledge we have of the mental realm is complete, direct, immediate, and not subject to doubt. While we may doubt whether we are seeing a tomato, we cannot doubt that we are sensing what seems to be a tomato. Nor can we doubt that we are thinking that there seems to be a tomato before us. Our awareness of the thought that there is a tomato before us is direct and infallible. Importantly for Descartes, all mental occurrences just are different kinds of thinking; the category of thinking includes such diverse mental events as sensings, wishings, imaginings, believings, hopings, willings, etc. and all will receive a similar treatment. Descartes is thereby said to endorse a sensory-cognitive continuum, something that Sellars (following Kant) will reject. Finally, and famously, Descartes held that such thinking cannot occur in material substance (res extensa), and so requires the existence of a distinct, independent type of substance, what he calls res cogitans. Special properties of thinking, such as immunity from doubt, are due to the special nature of this mental substance.
+As we ponder Descartes’ views, we may find the claim that the mind is better known than the body quite plausible: while we can doubt whether our thoughts are accurate, we don’t seem able to doubt that we are having a certain thought. Further, we seem to know what is going on “inside” us better than anyone else could. Let us call this ability to know our own mental occurrences better than anyone else could the thesis of “First Person Authority.” It would be contrary to commonsense, it seems, to deny this First Person Authority and that alone gives us one good reason to maintain it. However, there are potential costs of doing so. First, in placing our thoughts within a privileged arena in which we know our own better than others do, we run the risk of generating skepticism about other people’s thoughts. We can begin to worry whether there are grounds for knowing what someone else is really thinking, and even whether there are other minds at all besides our own. If the mental is distinct from the behaviors of the body and knowable directly only by the subject of experience, can we be sure we are correct in our judgments about other people’s mental states? Can we be sure that there is anything “behind” the observable behavior of a person’s body? Second, many contemporary, scientifically inclined philosophers find Descartes’ reliance on an independent, mental substance troubling. It is by no means clear how to accomodate such a substance within a scientific, materialistic framework. How then are we to make use of Descartes’ apparent insights into the nature of the mind? We can understand Sellars as seeking to do just that—find a way to capture the intuition behind this First Person Authority, but in a way that is both scientifically respectable, and which doesn’t raise those skeptical worries. In what follows, we will see the complex account of mind that Sellars presents as an attempt to satisfy these various desiderata (and others as well).
+ 2. Requirements for a Theory of Mind
+Let us now explore more thoroughly and precisely the various elements Sellars believes a viable theory of mind requires. This will put us in a better position to understand the goals and objectives of the long story Sellars tells about minds, including what emerges in the famous “Myth of Jones.”
+Now while Descartes assimilates all mental occurrences to the category thinking, it is worth noting that some mental events have a feature that others don’t. Let us consider for starters that class of mental episodes we call “beliefs.” One distinctive feature of beliefs is that they are about something. Our beliefs have a content, we might say, a subject matter. In contemporary terms, this is the intentionality of beliefs. Some of our mental occurrences are about something: they refer to something beyond themselves. We have beliefs about tables, about distant stars, about abstract states of affairs, about our own minds, and so on. In fact we might say, as some have, that the very mark of the mental is this intentionality. A theory of mind must, it seems, explain this intentionality. Let us henceforth reserve the term “thoughts” for that class of mental episodes which, like beliefs, have this property of intentionality. In that category of thoughts we can now include beliefs, but also wishes, hopes, judgments, and in general, anything mental that it makes sense to append with a that-clause. (For example, we believe that 2+2=4; we hope that it doesn’t rain; we think that summer is too short.) How is such intentionality possible?
+Historically, some have taken this special property of the mental, intentionality, to be another reason to invoke a non-material substance into our worldview. Tables and chairs, it seems, can’t be said to be about anything. They don’t refer to anything. Nor does it seem that anything physical could be up to the job in a fundamental, non-derivative manner, as that just doesn’t seem like the right type of stuff. A philosophy of mind that seeks to be compatible with the dictates of science about the nature of reality will have to explain the intentionality of the mental, but again without reliance on something unscientific. This forms another part of the background of Sellars’ philosophy of mind.
+Another feature of the mental that philosophers have focused on, something that has tempted philosophers to think of the mental realm as something importantly distinct from the physical realm, is the nature of conscious experience itself. So far we’ve focused on what we can do with our minds, our ability to think. But we are also subjects of rich experiences. We are conscious beings, and while that sometimes involves our reasoning, judging, believing, and the like, other times we simply take in the robust experiences we have. We listen to a poignant piece of music, we gaze upon a beautiful sunset, we savor a good drink. When we attend to these experiences, we find they have a unique, intrinsic character or quality. There is something it is like to hear a violin, a quality that isn’t present when we are just, say, thinking of how lovely a violin is. A theory of mind, it seems, must find a way to account for the existence and nature of these subjective, rich experiences.
+Putting this all together, we might summarize as follows: a theory of mind should explain the existence of a broad class of episodes, ones we can lump together under the broad heading mental episodes. These seem to come in two types, what I’ll call cognitive and experiential. Cognitive mental episodes include believings, hopings, wishings, and so on. A mark of this class is their intentionality. Experiential mental episodes, on the other hand, include a sensation of warmth, a feeling of sadness, an experience of a blue patch. They have instead a qualitative character and dimension in a way that the cognitive episodes do not. Both cognitive and experiential mental episodes occupy a special place in our cognitive lives. In addition to the more obvious ways we care about their existence, many of them can be objects of immediate knowledge or awareness. Many of our thoughts and experiences are knowable in a direct, immediate manner, without reliance on inference, just as Descartes held. Let us call this immediate knowledge of mental episodes “non-inferential knowledge,” distinguishing such potential knowledge of mental episodes from the type of knowledge we have, for instance, about how things are on the far side of the moon. That is, our knowledge of these inner episodes often doesn’t have to be the product of any reasoning or inference. It is often just direct and immediate. And as we have seen, such episodes may also be the objects of First Person Authority. We seem to be in a position to somehow know our own better than others can. (Descartes goes even further, claiming that these episodes are incorrigible—our knowledge of them is so certain that we can’t even doubt their existence. But that is an extra step, one we need not take, even if we agree with Descartes on other points.)
+As we proceed, we will explore Sellars’ attempt to explain all these features. One point is worth highlighting now, however. That we’ve divided these mental episodes into two types, cognitive and experiential, signals an important rejection of Descartes already. As mentioned, Descartes considers all mental occurrences to be thoughts, while Sellars, in contrast, believes it essential to distinguish these episodes. In short, while Descartes speaks of the mind-body problem, Sellars seeks to solve two mind-body problems; one concerning the nature of thinking, the other concerning the nature of sensing or experiencing.
+ 3. The Challenge of Mental Episodes
+We’ve noted that mental episodes are traditionally thought of as best known by the person who has them: they are private and known directly. Other people, in contrast it seems, can have at best indirect knowledge of our own. Why? Because traditionally conceived, such mental episodes exist within the private, inner realm of one’s mind and are only sometimes the cause of publicly observable behavior. I might grimace when my foot hurts, thereby giving evidence to others that I am in pain. But I might also stoically bear the pain. In this case I would be well aware of the inner episode of pain, but others may not be at all. This can generate skepticism about the existence of mental states, and of minds altogether. One radical solution to these skeptical worries was to simply equate the mental states with the behavior itself. In this way we need not worry, it was argued, about knowing someone’s mental states, for the mental states just are the various behaviors and dispositions to behave. On that view, to be in pain just is to grimace and yelp (and to have the disposition to do so, which sometimes might not be actualized). Importantly, Sellars rejects this strategy, known as Behaviorism. In contrast, Sellars holds that it is possible in principle to maintain the privacy of mental states, but in a way that doesn’t generate the skepticism that motivates the draconian Behaviorism. Showing how this is possible is the onus of Sellars’ positive account, which we will get to below. However, the problem of knowing mental states, even our own, is actually more complicated on Sellars’ view than we’ve seen so far. We need to now bring in other elements of Sellars’ philosophy, ones which both make knowledge of our own mental episodes more complicated but which also invite Sellars’ distinctive solution. Along the way we’ll discover the extent to which Sellars really is a systematic philosopher.
+The additional complications and complexity arise when we consider another role mental episodes were traditionally called on to play. We’ve stressed Descartes’ view that the mind is better known than the body. By implication, Descartes holds that what we are actually in primary cognitive contact with is only our own inner states, our thoughts, feelings, beliefs, sensations, and so on. We have direct, immediate knowledge of these thoughts, and only of these thoughts. Our knowledge of the external, physical world, in contrast, is only by inference. For Descartes, our inferentially based knowledge of the material world is secured only if there exists a benevolent God who doesn’t allow certain of our thoughts, our clear and distinct ideas, to be in error. And although subsequent philosophers ceased to follow this theological grounding of our beliefs in the external, physical world, many did follow Descartes in holding that it is our private thoughts and sensations that are the only objects of direct, immediate knowledge. Our knowledge of the physical world, in contrast, is derived or inferentially dependent upon our more basic knowledge of these inner states.
+Following Descartes, philosophers often speak of the “structure of knowledge”: highly theoretical knowledge is seen as resting on the (justified) foundation of more basic knowledge, and that on even more basic knowledge, and so on. But empirical knowledge is possible only if there is ultimately a stratum of most basic knowledge, which in some way involves our making cognitive contact with the world. It is natural to think that this most basic contact with the world involves our having sensory experiences. We can know the world, ultimately, because in some manner the world reveals itself to us through sensation. Or better yet, the world gives itself to us, in a form we can understand. If it didn’t, it would be hard to understand how we ever know anything. For Descartes, and for centuries of philosophers since, the basic knowledge which forms the foundation of knowledge is just the knowledge of our own inner states, our own thoughts, feelings, and sensations that we have from being in sensory contact with the world.
+As for these inner states themselves, we both have them and also know them just by being in sensory contact with the world. In short, sensing the world was held, from Descartes on, to be sufficient for the production of inner states which we in turn know about just because of that sensory contact. For instance, simply sensing a red patch would be sufficient for knowing that we are sensing a red patch. We may doubt whether there really is a red patch there (maybe it is blue and the lighting misleads us), but our knowledge of the sensation of a red patch itself is immediate, direct, and a result simply of that sensing. The knowledge that we gain is, again, knowledge of our own sensations or thoughts.
+As plausible as this picture seems, Sellars takes issue with it, referring to it as the Myth of the Given: that there are such sensory episodes that by their mere occurrence give us knowledge of themselves, is a myth to be dispelled, one to be replaced by a better account of the nature of sensing, thinking, and knowing. Of course, our aim here isn’t to explore Sellars’ reasons for thinking such episodes are mythological, nor to pursue his views on the nature of knowledge. Instead, we’ll address only what Sellars thinks is missing in this traditional account of knowledge of our inner, private episodes. Doing so will help explain why, according to Sellars, knowledge of even our own private episodes is itself much more complicated than the tradition held. Paradoxically, however, though knowledge of our own inner states is more complicated, explaining how it is possible will make our knowledge of other peoples’ inner episodes less complicated, less vulnerable to skepticism than traditionally thought.
+What then is required for knowledge of our own inner, private episodes, say knowledge that I’m having a sensation of a red triangle, if it isn’t just that I am sensing a red triangle? What else is required besides the actual sensation? In short, knowledge requires concepts, and since concepts are linguistic entities, we can say that knowledge requires a language. To know something as simple as that the patch is red requires an ability to classify that patch, and Sellars thinks the only resource for such rich categorization as adult humans are capable of comes from a public language. Knowledge, and in fact all awareness, according to Sellars, is a linguistic affair. There is no such thing, accordingly, as preconceptual awareness or prelinguistic awareness or knowledge. Sellars calls this the thesis of “Psychological Nominalism,” and it is at the heart of his epistemology and theory of mind. We don’t know the world just by sensing it. We don’t even know our own sensations just by having them. We need a language for any awareness, including of our own sensations.
+Importantly, this also creates a serious problem. Remember that Sellars is sympathetic to the claim of First Person Authority (even if it is to be modified or revised in some manner). Sellars does think that we can know our own thoughts better than others can. But his Psychological Nominalism threatens this, and threatens our claim to be able to know our thoughts at all. Consider how we could ever come to be aware of our thoughts and the like in the first place. Relying on the mythical Given would have helped, for we would be aware of such episodes just by having them. But we’ve rejected that account.
+Instead, any awareness, even of our own thoughts, requires the concept of that of which we are to be aware. So, to be aware of a private, inner episode requires the concept of a private, mental episode. But how can I have the concept of something which is in me in a way that you can’t see? I can’t get it by noticing my own private sensations (as we’ve seen, that presupposes we already have the concept and the source of the concept is now what is in question!). Nor can I get the concept of a private episode by noticing yours, for it is private to you. And of course, you can’t notice yours, nor mine either! How do we, or anyone for that matter, get the concept of something hidden, inner, and private, in the first place? (Compare this with becoming aware of something public: I can learn the concept, cow, by, for starters having you point cows out to me. But that is because we have common, shared access to that object, which isn’t the case for private episodes).
+Sellars has now forced us to confront the difficult question of the source and nature of the concept of an inner episode. What is the status of that concept? And how do speakers of a language come to have it, given that possession of it seems to be a condition for anyone noticing their own private episodes?
+ 4. Sellars’ Positive Account: The Myth of Jones, I
+This puzzle, and subsequent resolution, makes for one of the most famous planks in Sellars’ philosophy, spelled out in his landmark article, “Empiricism and the Philosophy of Mind.” The answer, ironically, comes in the form of a myth; the Myth of the Given is now replaced by Sellars’s own, Myth of Jones. This new myth has two parts: how we come to have the concept of inner episodes which are thoughts; and how we come to have the concept of inner episodes which are sensations. (Recall that Sellars takes issue with Descartes’ monolithic account of the mental). Common to both parts, however, is the telling of a story in which a group of people begin without a concept of certain inner, mental episodes, but gradually come to have both the concept and then direct awareness of the respective episodes. The myth, that is, takes seriously Sellars’ view that all awareness presupposes a language, and in the end, articulates the relationships between such concepts as public, private, thought, sensation, and so on.
+Sellars begins the myth by having us imagine a group of beings who can talk and act just like we do, but who lack any vocabulary of the inner. They have no concepts or notions of thoughts, sensations, feelings, wants, desires, though their language is otherwise rich and complete, even having the resources for (proto)scientific theorizing. We now introduce the hero of the story, Jones, who himself proposes a theory. Importantly, like many theories designed to explain, this one posits the existence of a new class of entities. In this instance, Jones seeks to explain some of the behavior of his peers, and relying on an analogy with the method of postulation in physics (from our perspective), the entities Jones’ theory postulates of are, initially, unobservable. (To anticipate the end of the story, the entities Jones introduces, first thoughts, then sensations, are not in principle unobservable. His peers will eventually be able to direct, non-inferential knowledge of many of them).
+What behavior, then, is Jones seeking to explain by the postulation of something he calls, “thoughts” and “thinking”? Namely that people sometimes engage in purposive, intelligent behavior when silent. Sometimes, that is, people engage in what we call, “thinking out loud,” where they speak about the intelligent behavior they are engaged in. But sometimes the behavior itself is present, with no accompanying verbal commentary, as it were. (Imagine someone changing the faucet in their kitchen, with instructions before them, sometimes reading aloud the instructions, sometimes declaring an intention to do something next, followed by periods of silence). What exactly, Jones wonders, is going on when people engage in such intelligent behavior when they are completely silent?
+According to his theory, during all these occasions of intelligent behavior there is something going on “inside” people, in their heads if you like, some of which gets verbalized, some of which doesn’t. The way to explain such intelligent behavior is to see it as the culmination of a silent, inner type of reasoning, an “inner speaking” going on inside of people. Jones reasons that this intelligent behavior involves the occurrence of hidden episodes which are similar to the activity of talking. Jones says, in essence, “Let’s call it ‘thinking,’ and though it is like talking, it is silent, or covert inner speech. Thinking is what is going on in us, which lies behind and explains our intelligent behavior and our intelligent talking.”
+Importantly, the episodes Jones postulates may turn out to be neuro-physiological events, but Jones’ theory is noncommittal on this point, and doesn’t require a specification of their intrinsic nature. The salient point is that episodes of thinking are modeled on a public language, and an understanding of these inner episodes will involve the use of categories that are in the first instance applicable to a public language.
+Returning to this myth, we note that at the culmination of this first stage, Jones has only postulated the existence of these inner episodes—“inner” in being under the skin. In the second stage, Jones teaches his peers to use the theory to explain people’s behavior, in the absence of their “thinking out-loud.” Finally, and here is the crucial transition, Jones teaches people to apply the theory to themselves.
+Having mastered the theory for third-person use, that is, people begin making inferences about themselves: “I just uttered such and such, so I must have been thinking such and such, (though I was not aware of it).” Eventually, by training and reinforcement from the community, people come to be able to actually report not just that they are thinking, but also what they are thinking, in a direct, non-inferential manner. Just as people can be trained to make immediate, non-inferential judgments about the nature of public objects, Jones’ pupils come to be able to issue non-inferential reports of their own thoughts, what is going on inside them, in a way that others aren’t. They can report directly about what is happening in their own minds, though according to Sellars, this has proceeded entirely within the constraints of Psychological Nominalism. Jones’ peers developed awareness of their own thoughts only after, or at least concurrently with, mastery of the public concepts (i.e. words) of “thinking”, “believing”, “wishing”, and so on, that comes with the learning of Jones’ theory itself.
+Stepping back from the Myth of Jones, here are some of the significant points. The thesis of Psychological Nominalism claims that to be aware of something, x, one must have a concept for x. But there is a flip side to this. If one has a concept of x, one can be aware of x’s. With the concept of x in hand, that is, you can notice all sorts of things you didn’t notice before you had that concept. For instance, a physicist looks at a puff of smoke in a cloud chamber and sees an electron discharged. She comes to have non-inferential knowledge of something we might not, as she has certain concepts we don’t as laypeople, as well as an ability to apply them directly to her experience. In other words, perception is concept-laden, and depending on what concepts you have, you can perceive different things. (Sellars wasn’t the first to articulate this connection, but his development of it made for a revolutionary understanding of thinking and perception).
+As a result, once we acquire the concept of an inner episode (as we saw for Jones’s peers), we can come to experience those episodes directly, though we were unaware of them before we had the concept. Non-inferential knowledge of the private is now possible, and so provides for a first person authority, as we sought. We are simply in a better position to report on our own thoughts (and sensations) than others. We can report on our own thoughts, for instance, because we have the concept of thinking. But others have that concept too—it is a public concept after all—and as such are in a position to also make judgments about our thinking. We may be in a better position than others, but others aren’t precluded from knowing our inner states. The skepticism that gave rise to Behaviorism can be avoided.
+Yet while we do have an authority about our own inner states, it doesn’t follow that we are incorrigible about them, as Descartes held. All things being equal, you are in a better epistemic position to judge your own states than others are. There are times, however, when we aren’t the best judge of our inner episodes, of what we are feeling, for instance, as is well documented by psychotherapy. This weakening of the Cartesian view, however, affords retention of what Sellars sees as viable and valuable in Descartes’ philosophy.
+Returning to the Myth of Jones, what he does for thoughts, Jones now does for sensations: recall Sellars’ view that sensations are importantly different from mental episodes that are thoughts. Though both are private, sensations differ in that they have an intrinsic, qualitative element in a way that thoughts and beliefs don’t. Further, sensations aren’t intentional: they aren’t about anything. Their postulation will have to be modeled, therefore, on something different than what was used for thoughts.
+ 5. Sellars’ Positive Account: The Myth of Jones, II
+Sellars’ account of sensations, the final chapter in the Myth of Jones, is designed to capture another important element in an overall theory of mind, namely that some of our private, mental episodes are a result of our sensory encounters with the world. By interacting with the world we are caused to have sensations, which vary from pain and pleasure, to sensations of blue triangles and pink ice cubes. As before, Jones offers a theory to explain public, observable behavior of his peers. In this case, Jones seeks to explain the fact that a person might utter “Red triangle there!” in cases both where there is one and in cases where there is not. Jones seeks to explain both veridical and non-veridical perceptual experiences, and how it is possible for people to have experiences that are qualitatively alike even though one may be an accurate representation and one not.
+Jones theorizes that when a subject senses the physical world, something internal is registered, and this internal state has a qualitative element to it, one that can be caused by both genuine and illusory causes, to have the same qualitative element. Sensations, in other words, are postulated entities too, and are held to be the internal effects of outer, physical causes. Subjects are effected by these sensations, leading them to judge that there is, say a red triangle before them, both when there is one, but also, perhaps, even if there is only a white one in red light, for instance.
+As before, these inner episodes are modeled on something public and observable—namely things like red triangles—and the inner episodes are said to be similar to these public objects, to be replicas, if you like, though of the sort that aren’t literally little triangles in minds. In this way, the public language of color and other qualities is used to characterize the nature of these episodes, and people learn to report, non-inferentially, on their own subjective experiences. As before, because individual reports of what is inner make use of a public language, the concepts employed in such reports are gained only once one has mastered that public language.
+Considered in total, Jones’ theory of mental episodes has allowed Sellars to maintain our commonsense belief that there is a realm of experience, the inner, that is private and knowable by the subject of experience in a way that others can’t know it. At the same time, this has been done without reliance on a mysterious, unexplained power to access the inner realm, and has also allowed us to avoid the skepticism traditional accounts were faced with. The resources for describing and reporting on these episodes are the same resources available for describing public objects and events, and thus learnable by all. The Myth is anthropological fiction, of course, but if successful, it demonstrates the conceptual relations between such terms “thinking,” “language,” “private,” “public,” and so on. And it allows Sellars to critique the traditional account of the nature of these.
+Importantly, Sellars has inverted the Cartesian order of knowledge discussed above. We saw that for Descartes, the inner is known first, and is the starting point for any knowledge of the outer, the physical world. Sellars has argued, in essence, that our ability to be aware of the inner in fact requires an antecedent command of the language of public states of affairs. A subject must be able to speak of red objects before speaking of red sensations; more generally, a subject must have command of the public language before being able to report on her own inner events. Crucially, though, we have given this account without sacrificing the inner. We can still talk meaningfully about how things are within us (our thoughts and sensations) and we can still have the direct, unmediated knowledge Descartes and others spoke of, but without violating any strictures on the public character of concepts and knowledge. To summarize all this into something tidy, we might say that Cartesians hold the inner to be knowable better and prior to the outer, while Sellars claims just the reverse. We can know and be aware of the inner only by first understanding and knowing the outer. Sellars has flipped the Cartesian picture on its head.
+ 6. The Nature of Thinking and Sensing
+Much ground has been covered so far. But students of contemporary analytic philosophy of mind may still find themselves unsatisfied. Though an account has been given that preserves the inner nature of mental episodes, while keeping with certain demands on the nature of knowledge and awareness, one may still find themselves with such questions as: “What, though, are thoughts? What are sensations?” Much of contemporary philosophy has been devoted to these questions, and we have seemingly yet to address them.
+We are now, however, in a position to do so. The key lies in the models that were used by Jones in the postulation of his theoretical entities: thoughts and sensations. When it came to the postulation of thoughts, which were posited to explain purposive, intelligent but silent behavior, Jones used overt speech as the model for these thoughts. Thinking is like speaking, he claimed, though of course doesn’t involve a hidden wagging tongue. The important point is that the concepts and categories we use to articulate the nature of thinking are grounded in the semantic concepts and categories appropriate to the characterization of the nature of speaking and writing; in other words, our public language. For it is this public language that is being used to characterize the nature of thinking itself. In particular, it is the semantic properties of linguistic acts that are used to characterize thoughts, not their phonological or graphic properties. (Compare the historical use of macroscopic objects such as billiard balls, plum pudding, rubber bands, springs, and so on as models in the development of the modern conception of the atom. Some features of each of these objects are used for the analogy, and some are not. Protons were said to be hard and round, like a billiard ball, but of course don’t come in stripes and solids).
+To answer the question “What is thinking?” therefore requires an answer to the question, “What is language?” since the only understanding we have of the former is going to be parasitic on our understanding of the latter. Here Sellars’ systematic philosophy makes its presence felt again, for Sellars does have an account of the nature of language. Though it warrants an entry on its own, the short answer is that for Sellars, the meaning of linguistic terms is given by the functional role those terms play in inferences, in reasoning. The famous analogy used here is that a word’s meaning is akin to a chess piece, where what makes a particular chess piece the one it is, say a pawn versus a bishop, is what can be done with it, how it can be used. Words, in turn, are used to help make inferences, to reason. The contributing role a word makes to such reasoning gives us its functional role, and thus its meaning. With this as the model, we can now say that thinking is done with “inner elements”, where the functional role these elements play in inferences made in thinking parallels the patterns of use of their public linguistic counterparts. Since what matters is the functional role played by these elements, not by what they are made of (as is the case with chess pieces), Sellars emerges as an early (if not the earliest contemporary) functionalist in the philosophy of mind. Thinking is understood as the counterpart to overt linguistic behavior, which for Sellars means the use of linguistic items in the service of inferences, the meanings of the items given by the role they play in those inferences.
+Early in this entry, the issue of intentionality was raised, where this feature was taken to be a sign of the mental. Sellars’ relation to that traditional view is complicated, but the essence of his position can now be stated. In some sense, we are able to talk about things because we have thoughts about things. But in a deep sense, our understanding of those thoughts, and of thinking itself, is dependent upon our ability to understand and use a language. It is unhelpful, therefore, to seek to explain the intentionality of language by appeal to the intentionality of thinking, as is traditionally done. For as we’ve seen, our understanding of thinking itself requires the use of categories and concepts, which in their primary use categorize and explain language itself. In this way, we may say that in the deep sense we can’t think unless we can use a language, though there is another, causal sense, in which we can’t speak unless we can think. That is, our thoughts may cause us to speak, but saying that sheds little light on what thinking is, since our understanding of thinking itself, as seen in the Myth of Jones, requires using language itself as a model. And according to Sellars, the intentionality of language is fundamental, and can be explained by talking about just how language itself works. We need not, in other words, explain how language can be about the world, or how it can represent, by having to smuggle in a more basic layer according to which it is the intentionality of thinking that really does the explanatory work. A fully developed philosophy of language can articulate the intentionality of language in its own right.
+While we’ve characterized thoughts and their intentionality in terms of functional role and inferential patterns of reasoning, Sellars’ account of sensations is importantly different. For while what matters in thinking is the function or organization of the elements, not what they are made of, for sensations, it is essential that they have an intrinsic nature and not merely a structure or organization. In this way, Sellars’ theory of sensations, what he calls sense-impressions, resembles what are historically known as sense-data, sensory items that have an intrinsic quality and which can be sensed directly. But the connection with sense-data ends there, at least as sense-data were developed by philosophers in the early parts of the twentieth century. Though Sellars holds sense-impressions to have an intrinsic quality, he seeks to deny them the status of foundationally known items, as we’ve seen, and also to deny their status as particulars or individuals. Instead, sense-impressions are said to be ways a perceiver may be. Sometimes known as an “adverbial analysis,” Sellars aims to show that a sentence such as:
+1) Jones has a sensation of a red triangle.
+is really to be analyzed and understood as
+2) Jones senses-red-triangularly.
+where the point of this awkward way of speaking is to illustrate that the only individual or particular that exists is Jones himself. Sense-impression, or sensations, might be thought of as belonging to the metaphysical category of states or conditions. Compare a similar treatment where instead of speaking of a person and an additional unusual object, one that comes and goes out of existence, we might understand the sentence
+3) Smith grimaced a frown
+to really be saying something metaphysically simpler, requiring only reference to a person and a condition or state they are in:
+4) Smith grimaced unhappily.
+This element of Sellars’ philosophy is likely the most complicated and controversial, for here Sellars locates his beliefs about the nature of color (color is a sense-impression, for instance), which in turn raises Sellars’ views about the nature of science and the struggle to reconcile our commonsense views of the world with a developing scientific one. Enough has been said so far, however, to bring out the significance of Sellars distinguishing an account of thinking from an account of sensing. As we’ve noted, distinguishing these is a rejection of Descartes, and an acceptance of a crucial theme in Kant’s philosophy. For reasons of length, the tremendous influence of Kant on Sellars’ philosophy has been downplayed, although much of Sellars’ writing is devoted to working out and defending deep, difficult Kantian themes. We’ve also neglected a discussion of the significant influence Sellars himself has had on contemporary philosophy. Contemporary writers such John McDowell, Jerry Fodor, Paul Churchland, and Daniel Dennett have all been influenced in important ways by Sellars’ thinking. That isn’t to say they all agree with him. But the very framework many philosophers work with today has been shaped and molded by Sellars.
+In summation, Sellars has a complex philosophy of mind, one that is connected in essential places with his views about knowledge, language, metaphysics, and science. This is not surprising, considering Sellars’ often cited claim about the nature of philosophy itself:
+The aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term. Under “things in the broadest possible sense” I include such radically different items as not only “cabbages and kings,” but numbers and duties, possibilities and finger snaps, aesthetic experience and death. To achieve success in Philosophy would be, to use a contemporary turn of phrase, to “know one’s way around” with respect to all these things, not in that unreflective way in which the centipede of the story knew its way around before it faced the question, “how do I walk?”, but in that reflective way which means that no intellectual holds are barred.
+ 7. References for Further Reading
+ a. Primary Texts
+
+Sellars, Wilfrid. “Empiricism and the Philosophy of Mind,” in Science, Perception and Reality. (Atascadero: Ridgeview Publishing Co, 1991).
+
+This paper is a philosophical classic, and is widely held to be one of the most important essays of twentieth century philosophy. It contains Sellars’ discussion of both the Myth of the Given and the Myth of Jones. The essay has been republished in book form, with a helpful study guide, as:
+
+
+Sellars, Wilfrid. Empiricism and the Philosophy of Mind (Harvard: Harvard University Press, 1997).
+Sellars, Wilfrid. “Intentionality and the Mental” (Chisholm-Sellars Correspondence on Intentionality). In Minnesota Studies in the Philosophy of Science, Vol. II, (Minneapolis: University of Minnesota Press, 1956). pp 521-539.
+
+An extended correspondence between Sellars and a defender of a classic conception of mind, as discussed above, on the nature of intentionality. A difficult but important piece of philosophy.
+
+
+Sellars, Wilfrid. “Mental Events” in Philosophical Studies. vol. 39 (1981), pp.325-45.
+Sellars, Wilfrid.  Science and Metaphysics: Variations on Kantian Themes (London: Routledge and Kegan Paul, 1968).
+Sellars, Wilfrid, “The Structure of Knowledge: (1) Perception; (2) Minds; (3) Epistemic Principles,” in Action, Knowledge, and Reality: Studies in Honor of Wilfrid Sellars. Ed. by H.N. Castaneda. (New York: Bobbs-Merrill, 1975).
+
+The second portion, on minds, gives a clear statement of Sellars’ views and provides a good overview of the connections between his philosophy of mind and other areas of philosophy. The volume contains a series of critical essays on Sellars’ philosophy as well.
+
+
+
+ b. Secondary Texts
+
+deVries, Willem A., and Timm Triplett. Knowledge, Mind, and the Given: Reading Wilfrid Sellars’ “Empiricism and the Philosophy of Mind”. (Indianapolis: Hackett Publishing Co., 2000). A book length discussion and commentary of Sellars’, “Empiricism and the Philosophy of Mind”.
+
+Includes the text of the essay as well.
+
+
+Delaney, C.F., Michael J. Loux, Gary Gutting, and W. David Solomon. eds. The Synoptic Vision: Essays on the Philosophy of Wilfrid Sellars (Notre Dame: University of Notre Dame Press, 1977).
+
+A collection of essays designed to provide overview and introduction to different areas of Sellars’ philosophy.
+
+
+deVries, Willem A. Wilfrid Sellars. Philosophy Now Series. (London: Acumen Publishing and Montreal: McGill-Queen’s University Press: 2005).
+O’Shea, James. Wilfrid Sellars. (London: Routledge Press) Forthcoming.
+Pitt, Joseph C., ed., The Philosophy of Wilfrid Sellars: Queries and Extensions. (Dordrecht, Holland: D. Reidel Publishing Co, 1978).
+
+A collection of critical essays, on various areas of Sellars’ work.
+
+
+Rosenberg, Jay F. “Wilfrid Sellars’ Philosophy of Mind” in Contemporary Philosophy, 4: Philosophy of Mind, ed. by Guttorm Floistad (1983) pp. 417-39.
+
+Author Information
+Eric M. Rubenstein
+Email: erubenst@iup.edu 
+Indiana University of Pennsylvania
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

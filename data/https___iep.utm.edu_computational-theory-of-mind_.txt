@@ -1,0 +1,369 @@
+
+
+
+
+
+
+
+
+
+Computational Theory of Mind | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Computational Theory of Mind
+The Computational Theory of Mind (CTM) claims that the mind is a computer, so the theory is also known as computationalism. It is generally assumed that CTM is the main working hypothesis of cognitive science.
+CTM is often understood as a specific variant of the Representational Theory of Mind (RTM), which claims that cognition is manipulation of representation. The most popular variant of CTM, classical CTM, or simply CTM without any qualification, is related to the Language of Thought Hypothesis (LOTH), that has been forcefully defended by Jerry Fodor. However, there are several other computational accounts of the mind that either reject LOTH—notably connectionism and several accounts in contemporary computational neuroscience—or do not subscribe to RTM at all. In addition, some authors explicitly disentangle the question of whether the mind is computational from the question of whether it manipulates representations. It seems that there is no inconsistency in maintaining that cognition requires computation without subscribing to representationalism, although most proponents of CTM agree that the account of cognition in terms of computation over representation is the most cogent. (But this need not mean that representation is reducible to computation.)
+One of the basic philosophical arguments for CTM is that it can make clear how thought and content are causally relevant in the physical world. It does this by saying thoughts are syntactic entities that are computed over: their form makes them causally relevant in just the same way that the form makes fragments of source code in a computer causally relevant. This basic argument may be made more specific in various ways. For example, Allen Newell couched it in terms of the physical symbol hypothesis, according to which being a physical symbol system (a physical computer) is a necessary and sufficient condition of thinking. Haugeland framed the claim in formalist terms: if you take care of the syntax, the semantics will take care of itself. Daniel Dennett, in a slightly different vein, claims that while semantic engines are impossible, syntactic engines can approximate them quite satisfactorily.
+This article focuses only on specific problems with the Computation Theory of Mind (CTM), while for the most part leaving RTM aside. There are four main sections. In the first section, the three most important variants of CTM are introduced: classical CTM, connectionism, and computational neuroscience. The second section discusses the most important conceptions of computational explanation in cognitive science, which are functionalism and mechanism. The third section introduces the skeptical arguments against CTM raised by Hilary Putnam, and presents several accounts of implementation (or physical realization) of computation. Common objections to CTM are listed in the fourth section.
+Table of Contents
+
+Variants of Computationalism
+
+Classical CTM
+Connectionism
+Computational Neuroscience
+
+
+Computational Explanation
+
+Functionalism
+Mechanism
+
+
+Implementation
+
+Putnam and Searle against CTM
+Semantic Account
+Causal Account
+Mechanistic Account
+
+
+Other objections to CTM
+Conclusion
+References and Further Reading
+
+1. Variants of Computationalism
+The generic claim that the mind is a computer may be understood in various ways, depending on how the basic terms are understood. In particular, some theorists claimed that only cognition is computation, while emotional processes are not computational (Harnish 2002, 6), yet some theorists explain neither motor nor sensory processes in computational terms (Newell and Simon 1972). These differences are relatively minor compared to the variety of ways in which “computation” is understood.
+The main question here is just how much of the mind’s functioning is computational. The crux of this question comes with trying to understand exactly what computation is. In its most generic reading, computation is equated with information processing; but in stronger versions, it is explicated in terms of digital effective computation, which is assumed in the classical version of CTM; in some other versions, analog or hybrid computation is admissible. Although Alan Turing defined effective computation using his notion of a machine (later called a ‘Turing machine’, see below section 1.a), there is a lively debate in philosophy of mathematics as to whether all physical computation is Turing-equivalent. Even if all mathematical theories of effective computation that we know of right now (for example, lambda calculus, Markoff algorithms, and partial recursive functions) turn out to be equivalent to Turing-machine computation, it is an open question whether they are adequate formalizations of the intuitive notion of computation. Some theorists, for example, claim that it is physically possible that hypercomputational processes (that is, processes that compute functions that a Turing machine cannot compute) exist (Copeland 2004). For this reason, the assumption that CTM has to assume Turing computation, frequently made in the debates over computationalism, is controversial.
+One can distinguish several basic kinds of computation, such as digital, analog, and hybrid. As they are traditionally assumed in the most popular variants of CTM, they will be explicated in the following format: classical CTM assumes digital computation; connectionism may also involve analog computation; and in several theories in computational neuroscience, hybrid analog/digital processing is assumed.
+a. Classical CTM
+Classical CTM is understood as the conjunction of RTM (and, in particular, LOTH) and the claim that cognition is digital effective computation. The best-known account of digital, effective computation was given by Alan Turing in terms of abstract machines (which were originally intended to be conceptual tools rather than physical entities, though sometimes they are built physically simply for fun). Such abstract machines can only do what a human computer would do mechanically, given a potentially indefinite amount of paper, a pencil, and a list of rote rules. More specifically, a Turing machine (TM) has at least one tape, on which symbols from a finite alphabet can appear; the tape is read and written (and erased) by a machine head, and can also move left or right. The functioning of the machine is described by the machine table instructions, which  include five pieces of information: (1) the current state of the TM; (2) the symbol read from the tape; (3) the symbol written on the tape; (4) left or right movement of the head; (5) the next state of the TM. The machine table has to be finite; the number of states is also finite. In contrast, the length of tape is potentially unbounded.
+As it turns out, all known effective (that is, halting, or necessarily ending their functioning with the expected result) algorithms can be encoded as a list of instructions for a Turing machine. For  example, a basic Turing machine can be built to perform logical negation of the input propositional letter. The alphabet may consist of all 26 Latin letters, a blank symbol and a tilde. Now, the machine table instructions need to specify the following operations: if the head scanner is at the tilde, erase the tilde (this effectively realizes the double negation rule); if the head scanner is at the letter and the state of the machine is not “1”, move the head left and change the state of the machine to 1; if the state is “1” and the head is at the blank symbol, write the tilde (note: This list of instructions is vastly simplified for presentation purposes. In reality, it would be necessary to rewrite symbols on the tape when inserting the tilde and decide when to stop operation. B—ased on the current list, it would simply cycle infinitely). Writing Turing machine programs is actually rather time-consuming and useful only for purely theoretical purposes, but all other digital effective computational formalisms are essentially similar in requiring  (1) a finite number of different symbols in what corresponds to a Turing machine alphabet (digitality); (2) that there are a finite number of steps from the beginning to the end of operation (effectiveness). (Correspondingly, one can introduce hypercomputation by positing an infinite number of symbols in the alphabet, infinite number of states or steps in the operation, or by introducing randomness in the execution of operations.) Note that digitality is not equivalent to binary code, it is just technologically easier to produce physical systems responsive to two states rather than ten. Early computers operated, for example, on decimal code, rather than binary code (Von Neumann 1958).
+There is a particularly important variant of the Turing machine, which played a seminal role in justifying the CTM. This is the universal Turing machine. A Turing machine is a formally defined, mathematical entity. Hence, it has a unique description, which can identify a given TM. Since we can encode these descriptions on the tape of another TM, they can be operated upon, and one can make these operations conform to the definition of the first TM. This way, a TM that has the encoding of any other TM on its input tape will act accordingly, and will faithfully simulate the other TM. This machine  is then called universal. The notion of universality is very important in the mathematical theory of computability, as the universal TM is hypothesized to be able to compute all effectively computable mathematical functions. In addition, the idea of using a description of a TM to determine the functioning of another TM gave rise to the idea of programmable computers. At the same time, flexibility is supposed to be the hallmark of general intelligence, and many theorists supposed that this flexibility can be explained with universality (Newell 1980). This gave the universal TM a special role in the CTM; one that motivated an analogy between the mind and the computer: both were supposed to solve problems whose nature cannot be exactly predicted (Apter 1970).
+These points notwithstanding, the analogy between the universal TM and the mind is not necessary to prove classical CTM true. For example, it may turn out that human memory is essentially much more bounded than the tape of the TM. In addition, the significance of the TM in modeling cognition is not obvious: the universal TM was never used directly to write computational models of cognitive tasks, and its role may be seen as merely instrumental in analyzing the computational complexity of algorithms posited to explain these tasks. Some theorists question whether anything at all hinges upon the notion of equivalence between the mind’s information-processing capabilities and the Turing machine (Sloman 1996) ——the CTM may leave the question whether all physical computation is Turing-equivalent open, or it might even embrace hypercomputation.
+The first digital model of the mind was (probably) presented by Warren McCulloch and Walter Pitts (1943), who suggested that the brain’s neuron operation essentially corresponds to logical connectives (in other words, neurons were equated with what later was called ‘logical gates’ —the basic building blocks of contemporary digital integrated circuits). In philosophy, the first avowal of CTM is usually linked with Hilary Putnam (1960), even if the latter paper does not explicitly assert that the mind is equivalent to a Turing machine but rather uses the concept to defend his functionalism. The classical CTM also became influential in early cognitive science (Miller, Galanter, and Pribram 1967).
+In 1975, Jerry Fodor linked CTM with LOTH. He argued that cognitive representations are tokens of the Language of Thought and that the mind is a digital computer that operates on these tokens. Fodor’s forceful defense of LOTH and CTM as inextricably linked prompted many cognitive scientists and philosophers to equate LOTH and CTM. In Fodor’s version, CTM furnishes psychology with the proper means for dealing with the question of how thought, framed in terms of propositional attitudes, is possible. Propositional attitudes are understood as relations of the cognitive agent to the tokens in its LOT, and the operations on these tokens are syntactic, or computational. In other words, the symbols of LOT are transformed by computational rules, which are usually supposed to be inferential. For this reason, classical CTM is also dubbed symbolic CTM, and the existence of symbol transformation rules is supposed to be a feature of this approach. However, the very notion of the symbol is used differently by various authors: some mean entities equivalent to symbols on the tape of the TM, some think of physically distinguishable states, as in Newell’s physical symbol hypothesis (Newell’s symbols, roughly speaking, point to the values of some variables), whereas others frame them as tokens in LOT. For this reason, major confusion over the notion of symbol is prevalent in current debate (Steels 2008).
+The most compelling case for classical CTM can be made by showing its aptitude for dealing with abstract thinking, rational reasoning, and language processing. For example, Fodor argued that productivity of language (the capacity to produce indefinitely many different sentences) can be explained only with compositionality, and compositionality is a feature of rich symbol systems, similar to natural language. (Another argument is related to systematicity; see (Aizawa 2003).) Classical systems, such as production systems, excel in simulating human performance in logical and mathematical domains. Production systems contain production rules, which are, roughly speaking, rules of the form “if a condition X is satisfied, do Y”. Usually there are thousands of concurrently active rules in production systems (for more information on production systems, see (Newell 1990; Anderson 1983).)
+In his later writings, however, Fodor (2001) argued that only peripheral (that is, mostly perceptual and modular) processes are computational, in contradistinction to central cognitive processes, which, owing to their holism, cannot be explained computationally (or in any other way, really). This pessimism about classical CTM seems to contrast with the successes of the classical approach in its traditional domains.
+Classical CTM is silent about the neural realization of symbol systems, and for this reason it has been criticized by connectionists as biologically implausible. For example, Miller et al. (1967) supposed that there is a specific cognitive level which is best described as corresponding to reasoning and thinking, rather than to any lower-level neural processing. Similar claims have been framed in terms of an analogy between the software/hardware distinction and the mind/brain distinction. Critics stress that the analogy is relatively weak, and neurally quite implausible. In addition, perceptual and motor functioning does not seem to fit the symbolic paradigm of cognitive science.
+b. Connectionism
+In contrast to classical CTM, connectionism is usually presented as a more biologically plausible variant of computation. Although some artificial neural networks (ANNs) are vastly idealized (for an evaluation of neural plausibility of typical ANNs, see (Bechtel and Abrahamsen 2002, sec. 2.3)), many researchers consider them to be much more realistic than rule-based production systems. The connectionist systems do well in modeling perceptual and motor processes, which are much harder to model symbolically.
+Some early ANNs are clearly digital (for example, the early proposal of McCulloch and Pitts, see section 1.a above, is both a neural network and a digital system), while some modern networks are supposed to be analog. In particular, the connection weights are continuous values, and even if these networks are usually simulated on digital computers, they are supposed to implement analog computation. Here an interesting epistemological problem is evident: because all measurement is of finite precision, we cannot ever be sure whether the measured value is actually continuous or discrete. The discreteness may just be a feature of the measuring apparatus. For this reason, continuous values are always theoretically posited rather than empirically discovered, as there is no way to empirically decide whether a given value is actually discrete or not. Having said that, there might be compelling reasons in some domains of science to assume that measurement values should be mathematically described as real numbers, rather than approximated digitally. (Note that a Turing machine cannot compute all real numbers but it can approximate any given real number to any desired degree, as the Nyquist-Shannon sampling theorem shows).
+Importantly, the relationship between connectionism and RTM is more debatable here than in classical CTM. Some proponents of connectionist models are anti-representationalists or eliminativists: the notion of representation, according to them, can be discarded in connectionist cognitive science. Others claim that the mention of representation in connectionism is at best honorific (for an extended argument, see (Ramsey 2007)). Nevertheless, the position that connectionist networks are representational as a whole, by being homomorphic to their subject domain, has been forcefully defended (O’Brien and Opie 2006; O’Brien and Opie 2009). It seems that there are important and serious differences among various connectionist models in the way that they explain cognition.
+In simpler models, the nodes of artificial neural networks may be treated as atomic representations (for example, as individual concepts). They are usually called ‘symbolic’ for that very reason. However, these representations represent only by fiat: it is the modeler who decides what they represent. For this reason, they do not seem to be biologically plausible, though some might argue that, at least in principle, individual neurons may represent complex features: in biological brains, so-called grandmother cells do exactly that (Bowers 2009; Gross 2002; Konorski 1967). More complex connectionist models do not represent individual representations as individual nodes; instead, the representation is distributed into multiple nodes that may be activated to a different degree. These models may plausibly implement the prototype theory of concepts (Wittgenstein 1953; Rosch and Mervis 1975). The distributed representation seems, therefore, to be much more biologically and psychologically plausible for proponents of the prototype theory (though this theory is also debated ——see (Machery 2009) for a critical review of theories of concepts in psychology).
+The proponents of classical CTM have objected to connectionism by pointing out that distributed representations do not seem to explain productivity and systematicity of cognition, as these representations are not compositional (Fodor and Pylyshyn 1988). Fodor and Pylyshyn present connectionists with the following dilemma: If representations in ANNs are compositional, then ANNs are mere implementations of classical systems; if not, they are not plausible models of higher cognition. Obviously, both horns of the dilemma are unattractive for connectionism. This has sparked a lively debate. (For a review, see Connectionism and (Bechtel and Abrahamsen 2002, chap. 6)). In short, some reject the premise that higher cognition is actually as systematic and productive as Fodor and Pylyshyn assume, while others defend the view that implementing a compositional symbolic system by an ANN does not simply render it uninteresting technical gadgetry, because further aspects of cognitive processes can be explained this way.
+In contemporary cognitive modeling, ANNs have become major standard tools. (See for example (Lewandowsky and Farrell 2011)). They are also prevalent in computational neuroscience, but there are some important hybrid digital/analog systems in the latter discipline that deserve separate treatment.
+c. Computational Neuroscience
+Computational neuroscience employs many diverse methods and it is hard to find modeling techniques applicable to a wide range of task domains. Yet it has been argued that, in general, computation in the brain is neither completely analog nor completely digital (Piccinini and Bahar 2013). This is because neurons, on one hand, seem to be digital, since they spike only when the input signal exceeds a certain threshold (hence, the continuous input value becomes discrete), but their spiking forms continuous patterns in time. For this reason, it is customary to describe the functioning of spiking neurons both as dynamical systems, which means that they are represented in terms of continuous parameters evolving in time in a multi-dimensional space (the mathematical representation takes the form of differential equations in this case), and as networks of information-processing elements (usually in a way similar to connectionism). Hybrid analog/digital systems are also often postulated as situated in different parts of the brain. For example, the prefrontal cortex is said to manifest bi-stable behavior and gating (O’Reilly 2006), which is typical of digital systems.
+Unifying frameworks in computational neuroscience are relatively rare. Of special interest might be the Bayesian brain theory and the Neural Engineering Framework (Eliasmith and Anderson 2003). The Bayesian brain theory has become one of the major theories of brain functioning——here it is assumed that the brain’s main function is to predict probable outcomes (for example, causes of sensory stimulation) based on its earlier sensory input. One major theory of this kind is the free-energy theory (Friston, Kilner, and Harrison 2006; Friston and Kiebel 2011). This theory presupposes that the brain uses hierarchical predictive coding, which is an efficient way to deal with probabilistic reasoning (which is known to be computationally hard; this is one of the major criticisms of this approach ——it may even turn out that predictive coding is not Bayesian at all, compare (Blokpoel, Kwisthout, and Van Rooij 2012)). The predictive coding (also called predictive processing) is thought by Andy Clark to be a unifying theory of the brain (Clark 2013), where brains predict future (or causes of) sensory input in a top-down fashion and minimize the error of such predictions either by changing predictions about sensory input or by acting upon the world. However, as critics of this line of research have noted, such predictive coding models lack plausible neural implementation (usually they lack any implementation and remain sketchy, compare (Rasmussen and Eliasmith 2013)). Some suggest that a lack of implementation is true of the Bayesian models in general (Jones and Love 2011).
+The Neural Engineering Framework (NEF) differs from the predictive brain approach in two respects: it does not posit a single function for the brain, and it offers detailed, biologically-plausible models of cognitive capacities. In a recent version (Eliasmith 2013) features the world’s largest functional brain model. The main principles of the NEF are: (1) Neural representations are understood as combinations of nonlinear encoding and optimal linear decoding (this includes temporal and population representations); (2) transformations of neural representations are functions of variables represented by a population; and (3) neural dynamics are described with neural representations as control-theoretic state variables. (‘Transformation’ is the term given for what would traditionally be called computation.) The NEF models are at the same time representational, computational, dynamical, and use the control theory (which is mathematically equivalent to dynamic systems theory). Of special interest is that the NEF enables the building of plausible architectures that tackle symbolic problems. For example, a 2.5-million neuron model of the brain (called ‘Spaun’) has been built, which is able to perform eight diverse tasks (Eliasmith et al. 2012). Spaun features so-called semantic pointers, which can be seen as elements of compressed neural vector space, and which enable the execution of higher cognition tasks. At the same time, the NEF models are usually less idealizing than classical CTM models, and they do not presuppose that the brain is as systematic and compositional as Fodor and Pylyshyn claim. The NEF models deliver the required performance but without positing an architecture that is entirely reducible to a classical production system.
+2. Computational Explanation
+The main aim of computational modeling in cognitive science is to explain and predict mental phenomena. (In neuroscience and psychiatry, therapeutic intervention is another major aim of the inquiry.) There are two main competing theories of computational explanation: functionalism, in particular David Marr’s account; and mechanism. Although some argue for the Deductive-Nomological account in cognitive science, especially proponents of dynamicism (Walmsley 2008), the dynamical models in question are contrasted with computational ones. What’s more, the relation between mechanical and dynamical explanation is a matter of a lively debate (Zednik 2011; Kaplan and Craver 2011; Kaplan and Bechtel 2011).
+a. Functionalism
+One of the most prominent views of functional explanation (for a general overview see Causal Theories of Functional Explanation) was developed by Robert Cummins (Cummins 1975; Cummins 1983; Cummins 2000). Cummins rejects the idea that explanation in psychology is subsumption under a law. For him, psychology and other special sciences are interested in various effects, understood as exercises of various capacities. A given capacity is to be analyzed functionally, by decomposing it into a number of less problematic capacities, or dispositions, that jointly manifest themselves as the effect in question. In cognitive science and psychology, this joint manifestation is best understood in terms of flowcharts or computer programs. Cummins claims that computational explanations are just top-down explanations of a system’s capacity.
+A specific problem with Cummins’ account is that the explanation is considered to be correct if dispositions are merely sufficient for the joint manifestation of the effect to be displayed. For example, a computer program that has the same output as a human subject, given the same input, is held to be explanatory of the subject’s performance. This seems problematic, given that computer simulations have been traditionally evaluated not only at the level of their inputs and outputs (in which case they would be merely ‘weakly equivalent’ in Fodor’s terminology, see (Fodor 1968)), but also at the level of the process that transforms the input data into the output data (in which case they are ‘strongly equivalent’ and genuinely explanatory, according to Fodor). Note, for example, that it is sufficient to kill U. S. President John F. Kennedy with an atomic bomb, but this fact is not explanatory of his actual assassination. In short, critics of functional explanation stress that it is too liberal and that it should require causal relevance as well. They argue that functional analyses devoid of causal relevance are in the best case incomplete, and in the worst case they may be explanatorily irrelevant (Piccinini and Craver 2011).
+One way to make the functional account more robust is to introduce a hierarchy of explanatory levels. In the context of cognitive science, the most influential proposal for such a hierarchy comes from David Marr (1982), who proposes a three-leveled model of explanation. This model introduces several additional constraints that have since been widely accepted in modeling practice. In particular, Marr argued that the complete explanation of a computational system should feature the following levels: (1) The computational level; (2) the level of representation and algorithm; and (3) the level of hardware implementation.
+At the computational level, the modeler is supposed to ask what operations the system performs and why it performs them. Interestingly, the term Marr proposed for this level has proved confusing to some. For this reason, it is usually characterized in semantic terms, such as knowledge or representation, but this may be also somewhat misleading. At this level, the modeler is supposed to assume that a device performs a task by carrying out a series of operations. She needs to identify the task in question and justify her explanatory strategy by ensuring that her specification mirrors the performance of the machine, and that the performance is appropriate in the given environment. Marrian “computation” refers to computational tasks and not to the manipulation of particular semantic representations. No wonder that other terms for this level have been put forth to prevent misunderstanding, perhaps the most appropriate of which is Sterelny’s (1990) “ecological level.” Sterelny makes it clear that the justification of why the task is performed includes the relevant physical conditions of the machine’s environment.
+The level of representation and algorithm concerns the following questions: How can the computational task be performed? What is the representation of the input and output? And what is the algorithm for the transformation? The focus is on the formal features of the representation———which are required to develop an algorithm in a programming language —rather than on whether the inputs really represent anything. The algorithm is correct when it performs the specified task, given the same input as the computational system in question. The distinction between the computational level and the level of representation and algorithm amounts to the difference between what and how (Marr 1982, 28).
+The level of hardware implementation refers to the physical machinery realizing the computation; in neuroscience, of course, this will be the brain. Marr’s methodological account is based on his own modeling in computational neuroscience, but stresses the relative autonomy of the levels, which are also levels of realization. There are multiple realizations of a given task (see Mind and Multiple Realizability), so Marr endorses the classical functionalist claim of relative autonomy of levels, which is supposed to underwrite antireductionism (Fodor 1974). Most functionalists subsequently embraced Marr’s levels as well (for example, Zenon Pylyshyn (1984) and Daniel Dennett (1987)).
+Although Marr introduces more constraints than Cummins, because he requires the description of three different levels of realization, his theory also suffers from the abovementioned problems. That is, it does not require the causal relevance of the algorithm and representation level; sufficiency is all that is required. Moreover, it remains relatively unclear why exactly there are three, and not, say, five levels in the proper explanation (note that some philosophers proposed the introduction of intermediary levels). For these reasons, mechanists have criticized Marr’s approach (Miłkowski 2013).
+b. Mechanism
+According to mechanism, to explain a phenomenon is to explain its underlying mechanism. Mechanistic explanation is a species of causal explanation, and explaining a mechanism involves the discovery of its causal structure. While mechanisms are defined variously, the core idea is that they are organized systems, comprising causally relevant component parts and operations (or activities) thereof (Bechtel 2008; Craver 2007; Glennan 2002; Machamer, Darden, and Craver 2000). Parts of the mechanism interact and their orchestrated operation contributes to the capacity of the mechanism. Mechanistic explanations abound in special sciences, and it is hoped that an adequate description of the principles implied in explanations (those that are generally accepted as sound) will also furnish researchers with normative guidance. The idea that computational explanation is best understood as mechanistic has been defended by (Piccinini 2007b; Piccinini 2008) and (Miłkowski 2013). It is closely linked to causal accounts of computational explanation, too (Chalmers 2011).
+Constitutive mechanistic explanation is the dominant form of computational explanation in cognitive science. This kind of explanation includes at least three levels of mechanism: a constitutive (-1) level, which is the lowest level in the given analysis; an isolated (0) level, where the parts of the mechanism are specified, along with their interactions (activities or operations); and the contextual (+1) level, where the function of the mechanism is seen in a broader context (for example, the context for human vision includes lighting conditions). In contrast to how Marr (1982) or Dennett (1987) understand them, levels here are not just levels of abstraction; they are levels of composition. They are tightly integrated, but not entirely reducible to the lowest level.
+Computational models explain how the computational capacity of a mechanism is generated by the orchestrated operation of its component parts. To say that a mechanism implements a computation is to claim that the causal organization of the mechanism is such that the input and output information streams are causally linked and that this link, along with the specific structure of information processing, is completely described. Note that the link is sometimes cyclical and can be very complex.
+In some respects, the mechanistic account of computational explanation may be viewed as a causally-constrained version of functional explanation. Developments in the theory of mechanistic explanation, which is now one of the most active fields in the philosophy of science, make it, however, much more sensitive to the actual scientific practice of modelers.
+3. Implementation
+One of the most difficult questions for proponents of CTM is how to determine whether a given physical system is an implementation of a formal computation. Note that computer science does not offer any theory of implementation, and the intuitive view that one can decide whether a system implements a computation by finding a one-to-one correspondence between physical states and the states of a computation may lead to serious problems. In what follows, I will sketch out some objections to the objectivity of the notion of computation, formulated by John Searle and Hilary Putnam, and examine various answers to their objections.
+a. Putnam and Searle against CTM
+Putnam and Searle’s objection may be summarized as follows. There is nothing objective about physical computation; computation is ascribed to physical systems by human observers merely for convenience. For this reason, there are no genuine computational explanations. Needless to say, such an objection invalidates most research that has been done in cognitive science.
+In particular, Putnam (1991, 121–125) has constructed a proof that any open physical system implements any finite automaton (which is a model of computation that has lower computational power than a Turing machine; note that the proof can be easily extended to Turing machines as well). The purpose of Putnam’s argument is to demonstrate that functionalism, were it true, would imply behaviorism; for functionalism, the internal structure is completely irrelevant to deciding what function is actually realized. The idea of the proof is as follows. Any physical system has at least one state. This state obtains for some time, and the duration can be measured by an external clock. By an appeal to the clock, one can identify as many states as one wishes, especially if the states can be constructed by set-theoretic operations (or their logical equivalent, which is the disjunction operator). For this reason, one can always find as many states in the physical system as the finite machine requires (it has, after all, a finite number of states). Also, its evolution in time may be easily mapped onto a physical system thanks to disjunctions and the clock. For this reason, there is nothing explanatory about the notion of computation.
+Searle’s argument is similar. He argues that being a digital computer is a matter of ascribing 0s and 1s to a physical system, and that for any program and any sufficiently complex object there is a description of the object under which it realizes the program (Searle 1992, 207–208). On this view, even an ordinary wall would be a computer. In essence, both objections are similar in making the point that given enough freedom, one can always map physical states —whose number can be adjusted by logical means or by simply making more measurements —to the formal system. If we talk of both systems in terms of sets, then all that matters is cardinality of both sets (in essence, these arguments are similar to the objection once made against Russell’s structuralism, compare (Newman 1928)). As the arguments are similar, the replies to these objections usually address both at the same time, and try to limit the admissible ways of carving physical reality. The view is that somehow reality should be carved at its joints, and then made to correspond with the formal model.
+b. Semantic Account
+The semantic account of implementation is by far the most popular among philosophers. It simply requires that there is no computation without representation (Fodor 1975). But the semantic account seems to beg the question, given that some computational models require no representation, notably in connectionism. Besides, other objections to CTM (in particular the arguments based on the Chinese Room experiment question the assumption that computer programs ever represent anything by themselves. For this reason, at least in this debate, one can only assume that programs represent just because they are ascribed meaning by external observers. But in such a case, the observer may just as easily ascribe meaning to a wall. Thus, the semantic account has no resources to deal with these objections.
+I do not meant to suggest that the semantic account is completely wrong; indeed, the intuitive appeal of CTM is based on its close links with RTM. Yet the assumption that computation always represents has been repeatedly questioned (Fresco 2010; Piccinini 2006; Miłkowski 2013). For example, it seems that an ordinary logical gate (the computational entity that corresponds to a logical connective), for example an AND gate, does not represent anything. At least, it does not seem to refer to anything. Yet it is a simple computational device.
+c. Causal Account
+The causal account requires that the physical states taken to correspond to the mathematical description of computation are causally linked (Chalmers 2011). This means that there have to be counterfactual dependencies to satisfy (this requirement has been proposed by (Copeland 1996), but without requiring that the states be causally relevant) and that the methodological principles of causal explanations have to be followed. They include theoretical parsimony (used already by Fodor in his constraints of his semantic account of computation) and the causal Markov condition. In particular, states that are not related causally, be it in Searle’s wall, or Putnam’s logical constructs, are automatically discarded.
+There are two open questions for the causal account, however. First, for any causal system, there will be a corresponding computational description. This means that even if it is no longer true that all physical systems implement all possible computations, they still implement at least one computation (if there are multiple causal models of a given system, the number of corresponding computations of course grows). Causal theorists usually bite the bullet by replying that this does not make computational explanation void; it just allows a weak form of pancomputationalism (which is the claim that everything is computational (Müller 2009; Piccinini 2007a)). The second question is how the boundaries of causal systems are to be drawn. Should we try to model a computer’s distal causes (including the operations at the production site of its electronic components) in the causal model brought into correspondence with the formal model of computation? This seems absurd, but there is no explicit reply to this problem in the causal account.
+d. Mechanistic Account
+The mechanistic account is a specific version of the causal account, defended by Piccinini and Miłkowski. The first move made by both is to take into account only functional mechanisms, which excludes weak pancomputationalisms. (The requirement that the systems should have the function —in some robust sense —of computing has also been defended by other authors, compare (Lycan 1987; Sterelny 1990)). Another is to argue that computational systems should be understood as multi-level systems, which fits naturally with the mechanistic account of computational explanation. Note that mechanists in the philosophy of science have already faced the difficult question of how to draw a boundary around systems, for example by including only components constitutively relevant to the capacity of the mechanism; compare (Craver 2007). For this reason, the mechanistic account is supposed to deliver a satisfactory approach to delineating computational mechanisms from their environment.
+Another specific feature of the mechanistic account of computation is that it makes clear how the formal account of computation corresponds to the physical mechanism. Namely, the isolated level of the mechanism (level 0, see section 2.c above) is supposed to be described by a mechanistically adequate model of computation. The description of the model usually comprises two parts: (1) an abstract specification of a computation, which should include all the causally relevant variables (a formal model of the mechanism); (2) a complete blueprint of the mechanism at this level of its organization.
+Even if one remains skeptical about causation or physical mechanisms, Putnam and Searle’s objections can be rejected in the mechanistic account of implementation, to the extent that these theoretical posits are admissible in special sciences. What is clear from this discussion is that implementation is not a matter of any simple mapping but of satisfying a number of additional constraints usually required by causal modeling in science.
+4. Other objections to CTM
+The objection discussed in section 3 is by no means the only objection discussed in philosophy, but it is special because of its potential to completely trivialize CTM. Another very influential objection against CTM (and against the very possibility of creating genuine artificial intelligence) stems from Searle’s Chinese Room thought experiment. The debate over this thought experiment is, at best, inconclusive, so it does not show that CTM is doomed (for more discussion on Chinese Room, see also (Preston and Bishop 2002)). Similarly, all arguments that purport to show that artificial intelligence (AI) is in principle impossible seem to be equally unconvincing, even if they were cogent at some point in time when related to some domains of human competence (for example, for a long time it has been thought that decent machine translation is impossible; it has been even argued that funding research into machine speech recognition is morally wrong, compare (Weizenbaum 1976, 176)). The relationship between AI and CTM is complex: even if non-human AI is impossible, it does not imply that CTM is wrong, as it may turn out that only biologically-inspired AI is possible.
+One group of objections against CTM focuses on its alleged reliance on the claim that cognition should be explained merely in terms of computation. This motivates, for example, claims that CTM ignores emotional or bodily processes (see Embodied Cognition). Such claims are, however, unsubstantiated: proponents of CTM more often than not ignore emotions (though even early computer simulations focused on motivation and emotion; compare (Tomkins and Messick 1963; Colby and Gilbert 1964; Loehlin 1968)) or embodiment, though this is not at the core of their claims. Furthermore, according to the most successful theories of implementation, both causal and mechanistic, a physical computation always has properties that are over and above its computational features. It is these physical features that make this computation possible in the first place, and ignoring them (for example, ignoring the physical constitution of neurons) simply leaves the implementation unexplained. For this reason, it seems quite clear that CTM cannot really involve a rejection of all other explanations; the causal relevance of computation implies causal relevance of other physical features, which means that embodied cognition is implied by CTM, rather than excluded.
+Jerry Fodor has argued that it is central cognition that cannot be explained computationally, in particular in the symbolic way (and that no other explanation is forthcoming). This claim seems to fly in the face of the success of production systems in such domains as reasoning and problem solving. Fodor justifies his claim by pointing out that central cognitive processes are cognitively impenetrable, which means that an agent’s knowledge and beliefs may influence any other of his other beliefs (which also means that beliefs are strongly holistic). But even if one accepts the claim that there is a substantial (and computational) difference between cognitively penetrable and impenetrable processes, this still wouldn’t rule out a scientific account of both (Boden 1988, 172).
+Arguments against the possibility of a computational account of common sense (Dreyfus 1972) also appeal to Holism. Some also claim that it leads to the frame problem in AI, though this has been debated; while the meaning of the frame problem for CTM is unclear (Pylyshyn 1987; Shanahan 1997; Shanahan and Baars 2005).
+A specific group of arguments against CTM is directed against the claim that cognition is digital effective computation: some propose that the mind is hypercomputational and try to prove this with reference to Gödel’s proof of undecidability (Lucas 1961; Penrose 1989). These arguments are not satisfactory because they assume without justification that human beliefs are not contradictory (Putnam 1960; Krajewski 2007). Even if they are genuinely contradictory, the claim that the mind is not a computational mechanism cannot be proven this way, as Krajewski has argued, showing that the proof leads to a contradiction.
+5. Conclusion
+The Computational Theory of Mind (CTM) is the working assumption of the vast majority of modeling efforts in cognitive science, though there are important differences among various computational accounts of mental processes. With the growing sophistication of modeling and testing techniques, computational neuroscience offers more and more refined versions of CTM, which are more complex than early attempts to model mind as a single computational device ( such as a Turing machine). What is much more plausible, at least biologically, is a complex organization of various computational mechanisms, some permanent and some ephemeral, in a structure that does not form a strict hierarchy. The general agreement in cognitive science is, however, that the generic claim that minds process information, even if it is an empirical hypothesis that might prove wrong, is highly unlikely to turn out false. Yet it is far from clear what kind of processing is involved.
+6. References and Further Reading
+
+Aizawa, Kenneth. 2003. The Systematicity Arguments. Boston: Kluwer Academic.
+Anderson, John R. 1983. The Architecture of Cognition. Cambridge, Mass.: Harvard University Press.
+Apter, Michael. 1970. The Computer Simulation of Behaviour. London: Hutchinson.
+Arbib, Michael, Carl Lee Baker, Joan Bresnan, Roy G. D’Andrade, Ronald Kaplan, Samuel Jay Keyser, Donald A. Norman, et al. 1978. Cognitive Science, 1978.
+Bechtel, William. 2008. Mental Mechanisms. New York: Routledge (Taylor & Francis Group).
+Bechtel, William, and Adele Abrahamsen. 2002. Connectionism and the Mind. Blackwell.
+Blokpoel, Mark, Johan Kwisthout, and Iris van Rooij. 2012. “When Can Predictive Brains Be Truly Bayesian?” Frontiers in Psychology 3 (November): 1–3.
+Boden, Margaret A. 1988. Computer Models of Mind: Computational Approaches in Theoretical Psychology. Cambridge [England]; New York: Cambridge University Press.
+Bowers, Jeffrey S. 2009. “On the Biological Plausibility of Grandmother Cells: Implications for Neural Network Theories in Psychology and Neuroscience.” Psychological Review 116 (1) (January): 220–51.
+Chalmers, David J. 2011. “A Computational Foundation for the Study of Cognition.” Journal of Cognitive Science (12): 325–359.
+Clark, Andy. 2013. “Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science.” The Behavioral and Brain Sciences 36 (3) (June 10): 181–204.
+Colby, Kenneth Mark, and John P Gilbert. 1964. “Programming a Computer Model of Neurosis.” Journal of Mathematical Psychology 1 (2) (July): 405–417.
+Copeland, B. Jack. 1996. “What Is Computation?” Synthese 108 (3): 335–359.
+Copeland, B. 2004. “Hypercomputation: Philosophical Issues.” Theoretical Computer Science 317 (1-3) (June): 251–267.
+Craver, Carl F. 2007. Explaining the Brain. Mechanisms and the Mosaic Unity of Neuroscience. Oxford: Oxford University Press.
+Cummins, Robert. 1975. “Functional Analysis.” The Journal of Philosophy 72 (20): 741–765.
+Cummins, Robert. 1983. The Nature of Psychological Explanation. Cambridge, Mass.: MIT Press.
+Cummins, Robert. 2000. “‘How Does It Work’ Versus ‘What Are the Laws?’: Two Conceptions of Psychological Explanation.” In Explanation and Cognition, ed. F Keil and Robert A Wilson, 117–145. Cambridge, Mass.: MIT Press.
+Dennett, Daniel C. 1983. “Beyond Belief.” In Thought and Object, ed. Andrew Woodfield. Oxford University Press.
+Dennett, Daniel C. 1987. The Intentional Stance. Cambridge, Mass.: MIT Press.
+Dreyfus, Hubert. 1972. What Computers Can’t Do: A Critique of Artificial Reason. New York: Harper & Row, Publishers.
+Eliasmith, Chris. 2013. How to Build the Brain: a Neural Architecture for Biological Cognition. New York: Oxford University Press.
+Eliasmith, Chris, and Charles H. Anderson. 2003. Neural Engineering. Computation, Representation, and Dynamics in Neurobiological Systems. Cambridge, Mass.: MIT Press.
+Eliasmith, Chris, Terrence C Stewart, Xuan Choo, Trevor Bekolay, Travis DeWolf, Yichuan Tang, Charlie Tang, and Daniel Rasmussen. 2012. “A Large-scale Model of the Functioning Brain.” Science (New York, N.Y.) 338 (6111) (November 30): 1202–5.
+Fodor, Jerry A. 1968. Psychological Explanation: An Introduction to the Philosophy of Psychology. New York: Random House.
+Fodor, Jerry A. 1974. “Special Sciences (or: The Disunity of Science as a Working Hypothesis).” Synthese 28 (2) (October): 97–115.
+Fodor, Jerry A. 1975. The Language of Thought. 1st ed. New York: Thomas Y. Crowell Company.
+Fodor, Jerry A. 2001. The Mind Doesn’t Work That Way. Cambridge, Mass.: MIT Press.
+Fodor, Jerry A., and Zenon W. Pylyshyn. 1988. “Connectionism and Cognitive Architecture: a Critical Analysis.” Cognition 28 (1-2) (March): 3–71.
+Fresco, Nir. 2010. “Explaining Computation Without Semantics: Keeping It Simple.” Minds and Machines 20 (2) (June): 165–181.
+Friston, Karl, and Stefan Kiebel. 2011. “Predictive Coding: A Free-Energy Formulation.” In Predictions in the Brain: Using Our Past to Generate a Future, ed. Moshe Bar, 231–246. Oxford: Oxford University Press.
+Friston, Karl, James Kilner, and Lee Harrison. 2006. “A Free Energy Principle for the Brain.” Journal of Physiology, Paris 100 (1-3): 70–87.
+Glennan, Stuart. 2002. “Rethinking Mechanistic Explanation.” Philosophy of Science 69 (S3) (September): S342–S353.
+Gross, Charles G. 2002. “Genealogy of the ‘Grandmother Cell’.” The Neuroscientist 8 (5) (October 1): 512–518.
+Harnish, Robert M. 2002. Minds, Brains, Computers : an Historical Introduction to the Foundations of Cognitive Science. Malden, MA: Blackwell Publishers.
+Haugeland, John. 1985. Artificial Intelligence: The Very Idea. Cambridge, Mass.: MIT Press.
+Jones, Matt, and Bradley C. Love. 2011. “Bayesian Fundamentalism or Enlightenment? On the Explanatory Status and Theoretical Contributions of Bayesian Models of Cognition.” Behavioral and Brain Sciences 34 (04) (August 25): 169–188.
+Kaplan, David Michael, and William Bechtel. 2011. “Dynamical Models: An Alternative or Complement to Mechanistic Explanations?” Topics in Cognitive Science 3 (2) (April 6): 438–444.
+Kaplan, David Michael, and Carl F Craver. 2011. “The Explanatory Force of Dynamical and Mathematical Models in Neuroscience: A Mechanistic Perspective*.” Philosophy of Science 78 (4) (October): 601–627.
+Konorski, Jerzy. 1967. Integrative Activity of the Brain; an Interdisciplinary Approach. Chicago: University of Chicago Press.
+Krajewski, Stanisław. 2007. “On Gödel’s Theorem and Mechanism: Inconsistency or Unsoundness Is Unavoidable in Any Attempt to ‘Out-Gödel’ the Mechanist.” Fundamenta Informaticae 81 (1) (January 1): 173–181.
+Lewandowsky, Stephan, and Simon Farrell. 2011. Computational Modeling in Cognition: Principles and Practice. Thousand Oaks: Sage Publications.
+Loehlin, John. 1968. Computer Models of Personality. New York: Random House.
+Lucas, JR. 1961. “Minds, Machines and Gödel.” Philosophy 9 (3) (April): 219–227.
+Lycan, William G. 1987. Consciousness. Cambridge, Mass.: MIT Press.
+Machamer, Peter, Lindley Darden, and Carl F Craver. 2000. “Thinking About Mechanisms.” Philosophy of Science 67 (1): 1–25.
+Machery, Edouard. 2009. Doing Without Concepts. Oxford: Oxford University Press, USA.
+Marr, David. 1982. Vision. A Computational Investigation into the Human Representation and Processing of Visual Information. New York: W. H. Freeman and Company.
+McCulloch, Warren S., and Walter Pitts. 1943. “A Logical Calculus of the Ideas Immanent in Nervous Activity.” Bulletin of Mathematical Biophysics 5: 115–133.
+Miller, George A., Eugene Galanter, and Karl H. Pribram. 1967. Plans and the Structure of Behavior. New York: Holt.
+Miłkowski, Marcin. 2013. Explaining the Computational Mind. Cambridge, Mass.: MIT Press.
+Müller, Vincent C. 2009. “Pancomputationalism: Theory or Metaphor?” In The Relevance of Philosophy for Information Science, ed. Ruth Hagengruber. Berlin: Springer.
+Von Neumann, John. 1958. The Computer and the Brain. New Haven: Yale University Press.
+Newell, Allen. 1980. “Physical Symbol Systems.” Cognitive Science: A Multidisciplinary Journal 4 (2): 135–183.
+Newell, Allen. 1990. Unified Theories of Cognition. Cambridge, Mass. and London: Harvard University Press.
+Newell, Allen, and Herbert A Simon. 1972. Human Problem Solving. Englewood Cliffs, NJ: Prentice-Hall.
+Newman, M H A. 1928. “Mr. Russell’s ‘Causal Theory of Perception’.” Mind 37 (146) (April 1): 137–148.
+O’Brien, Gerard, and Jon Opie. 2006. “How Do Connectionist Networks Compute?” Cognitive Processing 7 (1) (March): 30–41.
+O’Brien, Gerard, and Jon Opie. 2009. “The Role of Representation in Computation.” Cognitive Processing 10 (1) (February): 53–62.
+O’Reilly, Randall C. 2006. “Biologically Based Computational Models of High-level Cognition.” Science 314 (5796) (October 6): 91–4.
+Penrose, Roger. 1989. The Emperor’s New Mind. Quantum. London: Oxford University Press.
+Piccinini, Gualtiero. 2006. “Computation Without Representation.” Philosophical Studies 137 (2) (September): 205–241.
+Piccinini, Gualtiero. 2007a. “Computational Modelling Vs. Computational Explanation: Is Everything a Turing Machine, and Does It Matter to the Philosophy of Mind?” Australasian Journal of Philosophy 85 (1): 93–115.
+Piccinini, Gualtiero. 2007b. “Computing Mechanisms.” Philosophy of Science 74 (4) (October): 501–526.
+Piccinini, Gualtiero. 2008. “Computers.” Pacific Philosophical Quarterly 89 (1) (March): 32–73.
+Piccinini, Gualtiero, and Sonya Bahar. 2013. “Neural Computation and the Computational Theory of Cognition.” Cognitive Science 37 (3) (April 5): 453–88.
+Piccinini, Gualtiero, and Carl Craver. 2011. “Integrating Psychology and Neuroscience: Functional Analyses as Mechanism Sketches.” Synthese 183 (3) (March 11): 283–311.
+Preston, John, and Mark Bishop. 2002. Views into the Chinese Room: New Essays on Searle and Artificial Intelligence. Oxford; New York: Clarendon Press.
+Putnam, Hilary. 1960. “Minds and Machines.” In Dimensions of Mind, ed. Sidney Hook. New York University Press.
+Putnam, Hilary. 1991. Representation and Reality. Cambridge, Mass.: The MIT Press.
+Pylyshyn, Zenon W. 1984. Computation and Cognition: Toward a Foundation for Cognitive Science. Cambridge, Mass.: MIT Press.
+Pylyshyn, Zenon W. 1987. Robot’s Dilemma: The Frame Problem in Artificial Intelligence. Norwood, New Jersey: Ablex Publishing Corporation.
+Ramsey, William M. 2007. Representation Reconsidered. Cambridge: Cambridge University Press.
+Rasmussen, Daniel, and Chris Eliasmith. 2013. “God, the Devil, and the Details: Fleshing Out the Predictive Processing Framework.” The Behavioral and Brain Sciences 36 (3) (June 1): 223–4.
+Rosch, Eleanor, and Carolyn B Mervis. 1975. “Family Resemblances: Studies in the Internal Structure of Categories.” Cognitive Psychology 7 (4) (October): 573–605.
+Searle, John R. 1992. The Rediscovery of the Mind. Cambridge, Mass.: MIT Press.
+Shanahan, Murray, and Bernard Baars. 2005. “Applying Global Workspace Theory to the Frame Problem.” Cognition 98 (2) (December): 157–76.
+Shanahan, Murray. 1997. Solving the Frame Problem: a Mathematical Investigation of the Common Sense Law of Inertia. Cambridge, Mass.: MIT Press.
+Sloman, A. 1996. “Beyond Turing Equivalence.” In Machines and Thought: The Legacy of Alan Turing, ed. Peter Millican, 1:179–219. New York: Oxford University Press, USA.
+Steels, Luc. 2008. “The Symbol Grounding Problem Has Been Solved, so What’ s Next?” In Symbols and Embodiment: Debates on Meaning and Cognition, ed. Manuel de Vega, Arthur M. Glenberg, and Arthur C. Graesser, 223–244. Oxford: Oxford University Press.
+Sterelny, Kim. 1990. The Representational Theory of Mind: An Introduction. Oxford, OX, UK; Cambridge, Mass., USA: B. Blackwell.
+Tomkins, Silvan, and Samuel Messick. 1963. Computer Simulation of Personality, Frontier of Psychological Theory,. New York: Wiley.
+Walmsley, Joel. 2008. “Explanation in Dynamical Cognitive Science.” Minds and Machines 18 (3) (July 2): 331–348.
+Weizenbaum, Joseph. 1976. Computer Power and Human Reason: From Judgment to Calculation. San Francisco: W.H. Freeman.
+Wittgenstein, Ludwig. 1953. Philosophical Investigations. New York: Macmillan.
+Zednik, Carlos. 2011. “The Nature of Dynamical Explanation.” Philosophy of Science 78 (2): 238–263.
+
+ 
+Author Information
+Marcin Milkowski
+Email:  marcin.milkowski@gmail.com
+Institute of Philosophy and Sociology
+Polish Academy of Sciences
+Poland
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

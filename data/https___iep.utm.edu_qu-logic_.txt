@@ -1,0 +1,593 @@
+
+
+
+
+
+
+
+
+
+Quantum Logic | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum Logic in Historical and Philosophical Perspective
+Quantum Logic (QL) was developed as an attempt to construct a propositional structure that would allow for describing the events of interest in Quantum Mechanics (QM). QL replaced the Boolean structure, which, although suitable for the discourse of classical physics, was inadequate for representing the atomic realm. The mathematical structure of the propositional language about classical systems is a power set, partially ordered by set inclusion, with a pair of operations that represent conjunction and disjunction. This algebra is consistent with the discourse about both classical and relativistic phenomena, but inconsistent in a theory that prohibits, for example, giving simultaneous truth values to the following propositions: “The system possesses this velocity” and “The system is in this place.” The proposal of the founding fathers of QL was to replace the Boolean structure of classical logic by a weaker structure which relaxed the distributive properties of conjunction and disjunction.
+During its development, QL started to refer not only to a logic, but also to the multiple lines of research that attempted to understand QM from a logical perspective. This article provides a map of these multiple approaches in order to introduce the very different strategies and problems discussed in the QL literature. When possible, unnecessary formulas are avoided in order to give an intuitive grasp of the concepts before deriving or introducing the associated mathematics. However, for those readers who wish to engage more profoundly with the subject of QL, the article provides an extensive bibliography.
+Table of Contents
+
+Logic and Physics
+The Logical Structure of Quantum Mechanics
+The Origin of Quantum Logic
+Quantum Logic in Historical and Philosophical Perspective
+
+The Neo-Kantian Logical Path
+Quantum Logical Operationalism 
+Is Quantum Logic Empirical? 
+Modal Interpretations 
+The Czech-Slovakian and Italian Schools 
+The Brazilian School 
+
+
+Ongoing Developments and Debates 
+
+New Quantum Structures 
+Dynamical Logics, Category Theory and Quantum Computation
+Paraconsistency and Quantum Superpositions 
+Contradiction and Modality in the Square of Opposition
+Quantum Probability 
+Potentiality and Actuality 
+
+
+Final Remarks
+References and Further Reading
+
+1. Logic and Physics
+QL relates the two seemingly different disciplines of physics and logic. These disciplines have been intimately related since their origin. It was Aristotle who created classical logic and used it in order to develop his own physical and metaphysical scheme, providing an answer to the problem of movement and knowledge set down by the Heraclitean and Eleatic schools of thought. Movement was then regarded by Aristotle in terms of his hylomorphic scheme, as the path from a potential (undetermined, contradictory and non-identical) realm to an actual (determined, non-contradictory and identical) realm of existence. The notion of entity was then characterized by three main logical and ontological principles: The Principle of Existence (PE), which allowed Aristotle to claim existence about that which is predicated, the Principle of Non-Contradiction (PNC), which permitted him to argue that which exists possesses non-contradictory properties, and the Principle of Identity (PI), which allowed him to claim that the predicated existent is “the same,” or remains identical to itself, through time. Aristotle’s architectonic determined the fate of both classical and medieval physics, as well as metaphysics. The transformation from medieval to modern science coincides with the abolition of the Aristotelian hylomorphic metaphysical scheme as the foundation of knowledge. However, the basic structure of his metaphysical scheme and his logic still remained the basis for correct reasoning. As noted by Karin Verelst and Bob Coecke:
+Dropping Aristotelian metaphysics, while at the same time continuing to use Aristotelian logic as an empty ‘reasoning apparatus’ implies therefore losing the possibility to account for change and motion in whatever description of the world that is based on it. The fact that Aristotelian logic transformed during the twentieth century into different formal, axiomatic logical systems used in today’s philosophy and science doesn’t really matter, because the fundamental principle, and therefore the fundamental ontology, remained the same ([40], p. xix). This ‘emptied’ logic actually contains an Eleatic ontology, that allows only for static descriptions of the world. [231, p. 173]
+It was Isaac Newton who was able to translate into a closed mathematical formalism both the ontological presuppositions present in Aristotelian (Eleatic) logic, and the materialistic ideal of ‘res extensa’ together with actuality as its mode of existence. The term ‘actual’ refers here to preexistence (within the transcendent representation) and not to the observation hic et nunc. Every physical system may be described exclusively by means of its actual properties. The change of the system may be accounted for by the change of its actual properties. Potential or possible properties are then only considered as the points to which the system might arrive in a future instant of time. As Dennis Dieks states: “In classical physics the most fundamental description of a physical system (a point in phase space) reflects only the actual, and nothing that is merely possible. It is true that sometimes states involving probabilities occur in classical physics: think of the probability distributions ρ in statistical mechanics. But the occurrence of possibilities in such cases merely reflects our ignorance about what is actual. The statistical states do not correspond to features of the actual system, but quantify our lack of knowledge of those actual features.” [98, p. 124-125] In QM however, the different structure of the physical properties of the system determines a change of nature regarding the meaning of possibility and potentiality. Indeed, QM has been related to modality since 1926 when Max Born interpreted the quantum wave function Ψ in terms of a density of probability. However, it was clear from the very beginning that this new quantum possibility was something completely different from that considered in classical theories.
+[The] concept of the probability wave [in quantum mechanics] was something entirely new in theoretical physics since Newton. Probability in mathematics or in statistical mechanics means a statement about our degree of knowledge of the actual situation. In throwing dice we do not know the fine details of the motion of our hands which determine the fall of the dice and therefore we say that the probability for throwing a special number is just one in six. The probability wave function, however, meant more than that; it meant a tendency for something. [152, p. 42]
+According to Werner Heisenberg, the concept of the probability wave “was a quantitative version of the old concept of ‘potentia’ in Aristotelian philosophy. It introduced something standing in the middle between the idea of an event and the actual event, a strange kind of physical reality just in the middle between possibility and reality.” [152, p. 42] Indeed, contrary to classical possibility which only refers to our incomplete knowledge of an actual state of affairs, quantum possibilities interact between each other. This fact, completely foreign to classical theories, is exploited by present technological developments in quantum information processing for example, quantum computation, quantum cryptography, quantum teleportation. However, apart from this very fundamental question regarding the realm of existence which the logical structure of QM forces us to consider, there are many other aspects which have been a subject of discussion in the literature since the origin of QM. As a matter of fact, the interpretation of Planck’s quantum postulate, the superposition principle, the non-commutativity of observables or the identity of quantum particles—just to mention a few—pose important problems which help us to coherently consider what QM is talking about. QL has been an important tool for discussing all these fascinating subjects.
+2. The Logical Structure of Quantum Mechanics
+In logical terms, Newtonian mechanics may be described through “the logic of an omniscient mind in a deterministic universe” [54] because in such a universe any assertion is semantically decided. That is, either proposition p or its negation ¬p is true (excluded middle principle), both assertions p and ¬p cannot be simultaneously true (PNC), meanings are sharp and unambiguous, and the meaning of a compound expression is determined by the meanings of its parts. From a mathematical perspective, both the syntactic and the semantic aspects of classical propositional logic can be described completely in terms of Boolean algebra. However, the structure of QM does not fit these features. The main reason for this is that in physical theories the information about the state of affairs is encoded in what is called “the physical state.” Both in classical and QM there are states of maximal knowledge, but the logical implications that may be grasped from each situation are not the same. While in classical mechanics maximal information about a situation implies logical completeness, meaning that every assertion about the situation represented by the state is either true or false, in QM a state cannot decide the truth or falsity of all propositions about events. This is because there are states related with both a property and its negation called “superposition states.”
+In classical physics every system can be described by specifying its actual properties. Mathematically, this happens by representing the state of a system of mass m by a point (p, q) in its corresponding phase space Γ of positions q and momenta p. Newton’s law tells us how this point moves along the path determined by the initial conditions. Physical magnitudes are represented by real functions over Γ. These functions commute between each other and can be interpreted as all possessing definite values at any time, independently of physical observations. Physical events are represented by subsets of Γ. The power set ℘ of Γ endowed with set theoretical operations: intersection (∩), union (∪) and set-complement gives rise to a Boolean algebra. Interpreting these operations as the logical connectives, they represent and (∧), or (∨) and not (¬). The link between the algebraic structure of classical mechanics and classical logic is obvious. When dealing with many degrees of freedom, a statistical description is useful. The logical-algebraic structure associated with classical mechanics admits the definition of a probability measure over it with its elements considered as events. The resulting probability is a classical Kolmogorovian probability.
+According to John von Neumann’s axiomatization of QM, the mathematical interpretation of a physical system is a complex separable Hilbert space H, and a pure state is represented by a ray in H. Differently from the classical scheme, physical magnitudes are represented by self-adjoint operators on H that, in general, do not commute under multiplication. The values that any magnitude may take are the eigenvalues of the corresponding operator, each one of which comes with its associated eigenstate. The non-commutativity of operators has problematic interpretational consequences, for it is then difficult to affirm that the quantum magnitudes thus represented are simultaneously pre-existent to observation. The evolution of the state is given by the Schrödinger equation that, due to its linearity, implies the formal existence of quantum superpositions of states. The fact that states may be linearly combined forbids the use of mere subsets as representatives of propositions, they are instead well represented by closed subspaces of H.
+Historically, the first approach to an idea of QL is in Chapter 3 of von Neumann’s book on the mathematical formulation of QM [234] where he relates linear operators, namely the projections on state space H, with the representatives of “experimental propositions” affiliated with the system: “[…] the relation between the properties of a physical system on the one hand, and the projections on the other, makes possible a sort of logical calculus with these.” In fact, closed subspaces are in one-to-one correspondence with the projectors over them: “If we introduce, along with the projections E, the closed linear manifold R belonging to them (E = PR), then the closed linear manifolds correspond equally to the properties of S [S is the system].” [234, p. 250] The set of closed subspaces of H, ordered by inclusion and equipped with adequate definitions of algebraic operations, gives rise to a lattice [180], namely a partially ordered set (L,∨,∧) in which every pair of elements has a supremum called join (∨) and an infimum called meet (∧) that satisfy:
+
+commutative laws for the meet and join operations: x∨y = y∨x, x∧y = y ∧ x
+absorption laws: x ∨ (x ∧ y) = x, x ∧ (x ∨ y) = x
+associative laws: x ∨ (y ∨ z) = (x ∨ y) ∨ z, x ∧ (y ∧ z) = (x ∧ y) ∧ z
+
+The lattice may have a maximum (or top) 1, which is the identity for the ∧ operation, and a minimum (or bottom) 0, the identity for the ∨ operation. A lattice (L,∨,∧,1,0) is said to be modular when for all elements x, y and z, if x ≤ z, then
+x ∨ (y ∧ z) = (x ∨ y) ∧ z
+An orthocomplement x⊥ of the element x is defined in such a way that they satisfy:
+
+the complement law: x⊥ ∨ x = 1 and x⊥ ∧ x = 0
+the involution law: x⊥⊥ = x
+the order-reversing law: if x ≤ y then y⊥ ≤ x.
+
+The modular lattice is called orthomodular if it is equipped with an orthocomplementation. The lattice of subspaces of H, denoted by L(H), is called the Hilbert lattice associated to H and motivates the standard QL [41].
+This is the proposal of Garret Birkhoff and J. von Neumann for the algebraic structure that organizes the propositions of the language of QM. This is a quite different structure than the classical one. In fact, as mentioned above, in classical logic the propositions organize themselves in the power set with operations ∧, ∨ and ¬ representing the classical language connectives and, or and not. This structure constitutes a Boolean algebra that satisfies the distributive laws of and and or:
+(x ∧ y) ∨ z = (x ∧ z) ∨ (y ∧ z)
+(x ∨ y) ∧ z = (x ∨ z) ∧ (y ∨ z)
+Closed subspaces of Hilbert space H form an algebra called a Hilbert lattice denoted as L(H). In any Hilbert lattice the meet operation ∧ corresponds to set theoretical intersection between subspaces, and the join operation ∨ corresponds to the smallest closed subspace of H containing the set theoretical union of subspaces. In this way, the ordering relation ≤ associated to the lattice corresponds to the set-theoretical inclusion of subspaces. Note that L(H) is a bounded lattice where H is the maximum, denoted by 1, and the empty subspace is the minimum, denoted by 0. This lattice equipped with the relation of orthogonal complement ⊥ can be described as an ortholattice [162].
+3. The Origin of Quantum Logic
+The official birth of QL was produced with the 1936 seminal paper “The logic of quantum mechanics,” where Birkhoff and von Neumann made the proposal of a non-classical logic for the theory, arguing that the problem of whether the Hilbert space formalism displayed a logical structure could prove useful to the understanding of QM. In the introduction to the paper they make the point:
+One of the aspects of quantum theory which has attracted the most general attention is the novelty of the logical notions it presupposes. It asserts that even a complete mathematical description of a physical system S does not in general enable one to to predict with certainty the result of an experiment on S, and that in particular one can never predict with certainty both the position and the momentum of S (Heisenberg’s uncertainty principle). It further asserts that most pairs of observations cannot be made on S simultaneously (Principle of Non-commutativity of Observations). […] The object of the present paper is to discover what logical structure one may hope to find in physical theories which, like quantum mechanics, do not conform to classical logic. [41]
+As said above, the propositional structure that gave rise to QL was the ortholattice <L(H), ∨, ∧, ⊥, 1, 0>. The different characters proposed for the representatives of the logical connectives completely changes the meaning of these connectives. A relevant feature of ∨ is that, differently from the case in classical semantics, a quantum disjunction may be true even if neither of it members is true. This reflects, for example, the case in which we are dealing with a state such as that of a spin 1/2 system which is in a linear combination of states up and down. Both propositions, “the state is up” and “the state is down,” may have no definite truth value (the excluded middle principle is violated), but the disjunction “the state is up or the state is down” is a tautology. The distinguishing character of the structure is the failure of the distributive law, a law that holds in classical logic. This means that if p, q and r are propositions,
+x ∧ (y ∨ z) ≠ (x ∧ y) ∨ (x ∧ z)
+Birkhoff and von Neumann remarked on this fact in their paper: “[…] whereas logicians have usually assumed that properties of negation were the ones least able to withstand a critical analysis, the study of mechanics points to the distributive identities as the weakest link in the algebra of logic.” And concluded that “the propositional calculus of quantum mechanics has the same structure as an abstract projective geometry.” However, L(H) satisfies a kind of weak distributivity. In case of a finite-dimensional Hilbert space H, the ortholattice L(H) is modular, that is, satisfies the following condition known as the modular law:
+x ≤ y ⟹ x ∨ (y ∧ z) = y ∧ (x ∨ z)
+The modular law is equivalent to the identity (x∧y)∨(y∧z) = y∧((x∧y)∨z). In the case of an infinite-dimensional Hilbert space the modular law is not satisfied. In 1937, Kodi Husimi [156] showed that a weaker law, the so called orthomodular law is satisfied in the ortholattice L(H). The orthomodular law says:
+x ≤ y ⟹ x ∨ (x⊥ ∧ y) = y
+and it is equivalent to the identity x ∨ y = ((x ∨ y) ∧ y⊥) ∨ y [180]. This is an important point for the purpose of defining a probability measure that could be interpreted in terms of relative frequencies (see for example [210, ch. 7]). But, when taking the lattice elements as events, this is not possible. Josef Maria Jauch’s remarked that:
+Birkhoff and von Neumann […] have tried to justify modularity by pointing out that on finite modular lattices one can define a dimension function […] Such a function has the characteristic properties of a probability measure, and d(a) would represent the a priori probability for finding the system with property a when nothing is specified as to its preparation. It is known that there are systems for which such a finite a priori probability does not exist. [159, p. 83]
+Since the lattice of subspaces (or projection operators) L(H) was not in general a modular one—precluding a nice definition of probability (see for example [210, Ch. 7] and [212])—von Neumann abandoned the Hilbert space structure for the formulation of QM and turned to the study of rings of operators, that in turn gave rise to von Neumann’s algebras [235].
+Before discussing the historical development it has to be said that the name “quantum logic” is somewhat misleading. As Dalla Chiara et al. remark: “by standard quantum logic one usually means the complete orthomodular lattice based on the closed subspaces in a Hilbert space. Needless to observe, such a terminology that identifies a logic with a particular example of an algebraic structure turns out to be somewhat misleading from the strict logical point of view.” [78] Different forms of QL may be constructed by building algebraic or Kripkean semantics over the algebraic structure of the Hilbert space (see for example [81]).
+4. Quantum Logic in Historical and Philosophical Perspective
+QL has been a field of debate in philosophy as well as Quantum Physics. Within QL many different philosophical approaches and lines of research have been developed, discussed and addressed. From neo-Kantism to empiricism and Aristotelian realism, quantum logical research has opened the door to one of the most interesting debates in both physics and philosophy of physics in the second half of the last century. However, even though there are many different perspectives regarding QL, one might characterize its most general interpretational characteristic in terms of a strategically subversive attitude towards classical logic and the very foundations of metaphysical understanding. In this respect, in order to clarify the vast map of interpretations about QM and to discover the physical meaning of the theory, one can consider the strategies that different interpreters have taken. While the first group started from a set of (classical) metaphysical presuppositions and intended to change the formalism in order to fit QM into their desired metaphysical picture [for example, Bohmian mechanics, Ghirardi-Rimini-Weber theory], a second group concentrated their efforts—taking as a standpoint the orthodox formalism—on trying to understand the symmetries and characteristics of the formalism in order to derive a suitable interpretation of the theory. Much more open to an original metaphysical development that would allow us to understand what the world is like according to QM, QL—apart from some minor exceptions—is clearly part of the latter group.
+a. The Neo-Kantian Logical Path
+As recalled by Heisenberg in Physics and Philosophy [152], the concern about objectivity and the use of ordinary language for quantum concepts was an important focus of discussion during the development of the theory:
+The most difficult problem, however, concerning the use of language arises in quantum theory. Here we have at first no simple guide for correlating the mathematical symbols with concepts of ordinary language: and the only thing we know from the start is the fact that our common concepts cannot be applied to the structure of the atoms. […] The analysis can now be carried further in two entirely different ways. We can either ask which language concerning the atoms has actually developed among physicists in the thirty years that have elapsed since the formulation of QM. Or we can describe the attempts for defining a precise scientific language that corresponds to the mathematical scheme. In answer to the first question one may say that the concept of complementarity introduced by Bohr into the interpretation of quantum theory has encouraged physicists to use an ambiguous language rather than an unambiguous language. [152, p. 153]
+Formulating critics to this use Heisenberg argues that: “it seems rather doubtful whether an expectation [referring to the use of classical concepts] should be called objective.” A different approach, initiated by Birkhoff and von Neumann and continued by Carl Friedrich von Weizsäcker in the fifties, would be “to define a different precise language which follows definite logical patterns in conformity with the mathematical scheme.” Carl Friedrich von Weizsäcker, as well as Hans Reichenbach [208], did so by modifying the principle of excluded middle. As this principle is used in everyday conversation, von Weizsäcker proposed to distinguish different levels of language: one level referring to objects, a second level to statements about objects, a third level to statements about statements about objects and so on. The modification of classical logic has to refer, first of all, to the level of objects. As the state of a system allows us to predict with some probability the different properties it could possess, von Weizsäcker introduced the concept of “degrees of truth.” For each pair of properties, the question about its truth is not decided. But ‘not decided’ is by no means equivalent to ‘not known’. This kind of many valued logic may be extended to the successive levels of language.
+As Heisenberg remarks, it is not clear at first sight which kind of ontology would underpin these modified logical patterns; the main concern in the project of finding a logical system associated to the algebraic structure of the theory. Von Weizsäcker advanced this approach from the idea of reconstructing physics in terms of yes-no-alternatives, called ur-alternatives (from the German prefix ‘Ur’: original) and establishing a connection between quantum structures and the structure of space-time. These ur-alternatives are considered the fundamental objects in physics from which, in principle, any physical object can be built. Thus, from a notion related to information a turn is made to the notion of physical object: objects are reduced or even “made out of” information [178]. Later on, also Holger Lyre would argue in favor of this possibility:
+In quantum theory in particular, this view has a lot of plausibility. Quantum objects are represented in terms of their Hilbert state spaces, their quantum states correspond to empirically decidable alternatives. Any quantum object may further be de-composed or embedded into the tensor product of two objects, nowadays called quantum bits or qubits. Urs, therefore, are in fact nothing but qubits. [178]
+In the seventies, Pieter Mittelstäedt, a student of Heisenberg and von Weizsäcker, continued QL research framed within the neo-Kantian tradition [48]. Contrary to classical physics, where all propositions about a system can be predicated together, quantum properties may be assigned values only in a contextual manner [167], thus forbidding an interpretation in terms of substance. According to this view, the category of substance can be only applied to compatible observables; that is, in the case in which the state of the system is such that these observables may be assigned definite values. Classical logic, in turn, allows truth values for all propositions and thus it is not adequate for propositions about a quantum system, where the empirical content of propositions is relevant when applying the rules of logic. With the assumption that the laws of logic ought to be universally valid, Mittelstäedt turned to search for a different foundation of logic that could allow proofs to be independent of the empirical content of statements. First, he called attention to the fact that commensurability between any two propositions is implicit in classical logic. Then, starting from elementary propositions that assert that a system has a certain property, which can be valued by testing the property in an experiment, the concept of dialog-game was introduced. Several kinds of compound propositions may be defined by specifying the dialog-game. By adding a commensurability relation to the Hilbert lattice before constructing a formal propositional logic, Mittelstäedt  was able to complete a calculus that is a model of L. By means of this concept of commensurability, the dialog-game gives a complete frame for argumentation [185, Ch. 4]. Then he introduced modalities and probability as metalinguistic concepts [186, 187, 188] as well as establishing that only by employing adequate notions of ‘temporal identity’ and ‘transworld identity’ might a Kripke-like semantics be formulated in QL [189, 190].
+During the eighties and nineties, in line with the neo-Kantian QL line of research, the French philosopher Michel Bitbol analyzed the different alternatives of the language of physical properties and their role in objectivity. Although he admitted that Kant’s reasoning had to be greatly altered to become applicable to QM, he nevertheless outlined a derivation of QL from transcendental arguments [43]. First, contextuality is pointed to as the main characteristic that has to be focused on when applying the program. In the classical case:
+[…] a phenomenon is usually (or even always) relative to a certain context which defines the range of possible phenomena to which it belongs. […] As long as the context can be combined, or at least as long as the phenomena can be made indifferent to the order and chronology of use of the contexts, nothing prevents one from merging the distinct of possible phenomena relative to each context into a single range of possible conjunctions of phenomena. This being done, one may consider that the new range of possible compound phenomena is relative to a single ubiquitous context which is not even worth mentioning. [43]
+In classical physics, the rules of classical logic hold in every context, but they also hold when merging the contexts. This is not the case in QM. Although Boolean algebra and the corresponding laws of classical logic may be used to deal with propositions about qualities in each context, when considering them all together the structure is that of L(H). To manifestly show how the different languages link together, classical languages using classical connectives are implemented in each context, then a meta-language is constructed using a relation of implication, that is, one language implies another one if and only if every sentence in the first is also a sentence in the other. This implication is broader than the mere ‘union’ of both languages because it contains not only the propositions of each contextual language, their conjunctions and disjunctions but also new ones. The combination of contexts has more consequences than the ones that occur when they are used separately. This construction is shown to be nothing but an orthocomplemented non-distributive lattice [42, Annexe I]. Thus, Bitbol [43] concludes that “the specific structure of QL is unavoidable when unification of contextual languages at a meta-linguistic level is demanded. In this sense, one can say that QL has been derived by means of a transcendental argument: it is a condition of possibility of a meta-language able to unify context-dependent experimental languages.” For a complete revision of the neo-Kantian line of research within QM we refer to [163].
+b. Quantum Logical Operationalism
+The Birkhoff-von Neumann paper initiated the search for an axiomatic theory where the, physically non-justified, Hilbert space structure would be derived from a set of physically motivated axioms, giving particular importance to the concept of experimental propositions. Following this line of thought, George Mackey published in 1963 a monograph [179] in which he recovered von Neumann’s idea of “projections as propositions” [234, p. 247]. As projections have only two eigenvalues, 0 and 1, one may think of the proposition associated to a projection as the answer “yes” or “no” to the corresponding question. Thus, Mackey referred to the propositions affiliated with a physical system as questions [179, p. 64] and, under a reasonable axiomatization, Mackey showed that the questions form an orthomodular lattice. In this frame, the question of “which measures on questions are to be regarded as states?” [179, p. 85] was answered by Mackey’s student Andrew Gleason:
+A measure on the closed subspaces means a function µ which assigns to every closed subspace a nonnegative real number, such that if {Ai} is a countable collection of mutually orthogonal subspaces having closed linear spam B, then µ(B) = Σµ(Ai). It is easy to see that such a measure can be obtained by selecting a vector v and, for each closed subspace A, taking µ(A) as the square of the norm of the projection of v on A. Positive linear combinations of such measures lead to more examples and, passing to the limit, one finds that, for every positive semi-definite self-adjoint operator T of the trace class µ(A) = tr(TPA), where PA denotes the orthogonal projection on A, defines a measure on the closed subspaces. It is the purpose of this paper to show that, in any separable Hilbert space of dimension at least three, whether real or complex, every measure on the closed subspaces is derived in this fashion. [144]
+In some sense, Mackey’s program is a reconstruction of QM as non-classical probability calculus. Mackey’s investigations on the foundations of QM renewed interest in the somewhat forgotten subject of QL, and also in its connection with the study of orthomodular lattices. Varadarajan’s and Jauch’s books [230, 159] follow from this. For example, some mathematical aspects of the notion of probability involved by the density operator have been studied by Veeravalli Varadarajan [229]. But it was the representation theorem of Constantin Piron [194] which clarified the field. The theorem states that if L is a complete orthocomplemented atomic lattice which is weakly modular and satisfies the covering law, then each irreducible component of the lattice L can be represented as the lattice of all biorthogonal subspaces of a vector space V over a division ring K. The Solèr theorem then proves that an infinite dimensional orthomodular space over a division ring which is the real or complex numbers or the quaternions, is a Hilbert space [219].
+In the sixties, Jauch and Piron [194, 159] also aimed at reconstructing the formalism of QM from first principles with special interest in the relation between concepts and real physical operations that can be performed in the laboratory. For example, states are defined as “the result of a series of physical manipulations on the system which constitute the preparation of the state.” And it is emphasized that “[t]wo states are identical if the relevant conditions in the preparation of the state are identical. (The distinction between the system and its states cannot be maintained under all circumstances with the precision implied by this definition. The reason is that systems which we regard under normal circumstances as different may be considered as two different states of the same system. An example is a positronium and a system of two photons.)” [159, p. 92] The same prescriptions follow for propositions: “the composed proposition a ∧ b denotes the measurement of a and b.” [159, Sect. 5.3] Due to the prescription that every notion should be defined in terms of operations, this line of research is called operationalism. Operational QL involves the fact that the yes-no answers to the elementary questions, or the “experimental propositions” of Birkhoff and von Neumann, may be regarded as the propositions of a non-classical logic. Moreover, its purpose is to attempt to give an independent motivation to the general program to understand QM [58]. According to [12], the main operationalist lines of research are the following: The Geneva school commanded by Jauch and Piron [159, 195, 197] in Geneva, and continued by Piron’s student, Diederik Aerts [7, 9, 10, 11], in Brussels; the Amherst approach which in words of David Foulis and Charles Randall should be called “empirical logic” [122, 123, 124, 127]; and finally the Marburg approach directed by Günter Ludwig [176, 177].
+One of the main results of the operational line of research is due to Aerts in 1981. Orthodox QL faces a deep problem for treating composite systems. In fact, when considering two classical systems, it is meaningful to organize the whole set of propositions about them in the corresponding Boolean lattice built up as the Cartesian product of the individual lattices. Informally one may say that each factor lattice corresponds to the properties of each physical system. But the quantum case is completely different. When two or more systems are considered together, the state space of their pure states is taken to be the tensor product of their Hilbert spaces. Given the Hilbert state spaces H1 and H2 as representatives of two systems, the pure states of the compound system are given by rays in the tensor product space H = H1⊗ H2. But it is not true, as a naive classical analogy would suggest, that any pure state of the compound system factorizes after the interaction in pure states of the subsystems, and that they evolve with their own Hamiltonian operators. It was shown, in a non-separability theorem by Aerts [7], that when trying to repeat the classical procedure of taking the tensor product of the lattices of the properties of two systems, to obtain the lattice of the properties of the composite, the procedure fails [5, 6, 8, 57, 125, 126]. Attempts to vary the conditions that define the product of lattices have been made but in all cases it results that the Hilbert lattice factorizes only in the case in which one of the factors is a Boolean lattice, or when the systems have never interacted. Using the operationalist approach two Belgian students of Aerts, Bob Coecke and Sonja Smets, outlined a research program on dynamic QL. [62, 60, 218] (see Section 5.2).
+c. Is Quantum Logic Empirical?
+During the late sixties and beginning of the seventies there was a radical philosophical view initiated by David Finkelstein [120, 121] and Hilary Putnam [202, 203] arguing that logic is in a certain sense empirical.
+Finkelstein highlighted the abstractions we make in passing from mechanics to geometry to logic, and suggested that the dynamical processes of fracture and flow already observed at the first two levels should also arise at the third. Putnam, on the other hand, argued that the metaphysical pathologies of superposition and complementarity are nothing more than artifacts of logical contradictions generated by an indiscriminate use of the distributive law. [58]
+According to Putnam’s famous paper [202]: “Logic is as empirical as geometry. We live in a world with a non-classical logic.” For Putnam in that specific period, the elements of L(H) represent categorical properties that an object does or does not possess, independently of whether or not we look. Inasmuch as this picture of physical properties is confirmed by the empirical success of QM, this view means we must accept that the way in which physical properties actually hang together is not Boolean. Since logic is, for Putnam, very much the study of how physical properties actually hang together, he concludes that classical logic is simply mistaken: the distributive law is not universally valid.
+d. Modal Interpretations
+The study of the modal character of QM was explicitly formalized in the seventies and eighties by a group of physicists and philosophers of science. Bas van Fraassen was the first to formally include the reasoning of modal logic in QM. He presented a modal interpretation (MI) of QL in terms of its semantical analysis [224, 225, 226, 227]. The purpose of which was to clarify which properties among those of the complete set structured in the lattice of subspaces of Hilbert space pertain to the system. Van Fraassen’s position remains close to the tradition introduced by Niels Bohr and his interpretation of QM. Indeed, the relation of van Fraassen’s interpretation to the orthodox view can be seen as a consequence of maintaining a “conservative” position regarding the values of definite properties [228, p. 280].
+In 1985, Simon Kochen presented his own modal version [166] at one of the famous conferences on the foundations of QM organized by Kalervo Laurikainen in Finland. This interpretation of QM also has a direct link to the discussions between the founding fathers of the theory. Von Weizsäcker and Thomas Görnitz referred specifically to it in a paper entitled “Remarks on S. Kochen’s Interpretation of Quantum Mechanics”:
+We consider it is an illuminating clarification of the mathematical structure of the theory, especially apt to describe the measuring process. We would, however feel that it means not an alternative but a continuation to the Copenhagen interpretation (Bohr and, to some extent, Heisenberg). [236, p. 357]
+Dennis Dieks’ interpretation can be considered as a continuation and a formal account of Bohr’s ideas on complementarity and measurement. Taking as a standpoint the work done by van Fraassen, Dieks went further in relation to the metaphysical presuppositions involved, making explicit the idea that MIs [94, 95, 96, 97] could be also considered from a realist stance as describing systems with properties. If considered from this perspective, MIs face the problem of finding an objective reading of the accepted mathematical formalism of the theory, a reading “in terms of properties possessed by physical systems, independently of consciousness and measurements (in the sense of human interventions).” [97] Thus the main problem they must face is the determination of the set of definite valued properties possessed by a physical system, avoiding the constraints imposed by the Kochen-Specker (KS) theorem [167] (for a discussion see [220]). Of course, the way in which MIs attack the problem rests on the distinction between the realms of possibility and actuality.
+As noted by Dirac in the first chapter of his famous book [99], the existence of superpositions is responsible for the striking difference between quantum and classical behavior. Superpositions are also central when dealing with the measurement process, where the various terms associated with the possible outcomes of a measurement must be assumed to be present together in the description. This fact leads van Fraassen to the distinction between value-attributing propositions and state-attributing propositions, between value-states and dynamic-states:
+[…] a state, which is in the scope of quantum mechanics, gives us only probabilities for actual occurrence of events which are outside that scope. They can’t be entirely outside the scope, since the events are surely described if they are assigned probabilities; but at least they are not the same things as the states which assign the probability.
+In other words, the state delimits what can and cannot occur, and how likely it is—it delimits possibility, impossibility, and probability of occurrence—but does not say what actually occurs. [228, p. 279]
+So, van Fraassen distinguishes propositions about events and propositions about states. Propositions about events are value-attributing propositions < A,σ >, they say that ‘observable A has a certain value belonging to a set σ.’ Propositions about states are of the form ‘the system is in a state of this or that type (in a pure state, in some mixture of pure states, in a state such that…).’ A state-attribution proposition [A,σ] gives a probability of the value-attribution proposition, it states that A will have a value in σ, with a certain probability. Value-states are specified by stating which observables have values and what these values are. Dynamic-states state how the system will develop. This is endowed with the following interpretation:
+The interpretation says that, if a system X has dynamic state ρ at t, then the state-attributions [A,σ] which are true are those that Tr(ρPσA) = 1 [have probability equal to one]. [PσA is the projector over the corresponding subspace.] About the value-attributions, it says that they cannot be deduced from the dynamic state, but are constrained in three ways:
+
+If [A,σ] is true then so is the value-attribution < A,σ >: observable A has value in σ.
+All the true value-attributions should have Born probability 1 together.
+The set of true value-attributions is maximal with respect to the feature (2.) [228, p. 281]
+
+This interpretation informs the consideration of possibility in the realm of QL [228, chapter 9]. In fact, the probabilities are of events, each describable as ‘an observable having a certain value’, corresponding to value states. If w is a physical situation in which system X exists, then X has both a dynamic state ϕ and a value state λ, that is, w =< ϕ,λ >. A value state λ is a map of observable A into non-empty Borel sets σ such that it assigns {1} to 1σA. 1σ is the characteristic function of the set σ of values. So, if the observable 1σA has value 1, then it is impossible that A has a value outside σ. The proposition < A,σ >= {w : λ(w)(A) ⊆ σ} assigns values to physical magnitudes. This is a value-attribution proposition and is read as ‘A (actually) has value in σ’. V is called the set of value attributions V = {< A,σ >: A an observable and σ a Borel set}. The logic operations among value-attribution propositions are defined as:
+<A,σ >⊥=< A, − σ >, < A,σ > ∧ < A,θ >=< A,σ ∩ θ >, < A,σ > ∨ < A,θ >=< A,σ∪θ > and ∧{< A,σi >: i ∈ N} =< A,∩{σi : i ∈ N} >.
+With all this, V is the union of a family of Boolean sigma algebras < A > with common unit and zero equal to < A,S(A) > and < A,∧ > respectively. The Law of Excluded Middle is satisfied: every situation w belongs to q ∨ q⊥, but not the Law of Bivalence: situation w may belong neither to q nor to q⊥.
+A dynamic state ϕ is a function from V into [0, 1], whose restriction to each Boolean sigma algebra < A > is a probability measure. The relation between dynamic and value states is the following: ϕ and λ are a dynamic state and a value state respectively, only if there exists possible situations w and w‘ such that ϕ = ϕ(w), λ = λ(w’). Here, ϕ is an eigenstate of A, with corresponding eigenvalue a, exactly if ϕ(< A,{a} >) = 1. The state-attribution proposition [A,σ] is defined as: [A,σ] = {w : ϕ(w)(< A,σ >) = 1} and means ‘A must have value in σ’. P denotes the set of state-attribution propositions: P = {[A,σ] : A an observable, σ a Borel set}. Partial order between them is given by [A,σ] ⊆ [A’ ,σ’ ] only if, for all dynamical states ϕ, ϕ(< A,σ >) ≤ ϕ(< A’,σ‘>) and the logic operations are (well) defined as: [A,σ]⊥ = [A, − σ], [A,σ][A,θ] = [A,σ∪θ] and [A,σ]∩[A,θ] = [A,σ∩θ]. With all this, < P,⊆,⊥ > is an orthoposet. The orthoposet is formed by ‘pasting together’ a family of Boolean algebras in which whole operations coincide in overlapping areas. It may be enriched to approach the lattice of subspaces of Hilbert space.
+One may recognize a modal relation between both kind of propositions. For example, one starts denying the collapse in the measurement process and recognizing that the observable has one of the possible eigenvalues. Then it may be asked what may be inferred with respect to those values when one knows the dynamic state. The answer van Fraassen gives is that, in the case that ϕ(w) is an eigenstate of the observable A with eigenvalue a, then A actually does have value a. This means that in this case, the measurement ‘reveals’ the value the observable already had. He generalizes this idea and postulates that [A,σ] implies < A,σ >. With this assumption and the rejection of an ignorance interpretation of the uncertainty principle, he is able to prove that [A,σ] = □< A,σ >. The necessity operator □ is defined by □Q = {w : for all w‘, if wRw‘ then w‘ ∈ Q}, where Q is any proposition and R is the relative possibility relation: w‘ is possibly relative to w exactly if, for all Q in V, if w is in Q then w‘ is in Q. So, [A,σ] may be read as ‘necessarily, < A,σ >’. This says that the dynamic state assigns 1 to < A,σ > if and only if the value state that accompanies any relatively possible dynamic state makes < A,σ > true. Instead of the transitive possibility relation R, one may use an equivalence relation to define □’, the negated necessity operator. In this case, van Fraassen maintains that the map [A,σ] →< A,σ > is an isomorphism of posets < P,⊆> and < V,⊆> and, when orthocomplementation is defined, it becomes an isomorphism between the orthoposets. Thus, the logic of V is that of P, that is, QL. Endowed with these tools, van Fraassen gives an interpretation of the probabilities of the measurement outcomes which is in agreement with the Born rule.
+The MI proposed by Kochen and Dieks (K-D, for short), proposes to use the so called biorthogonal decomposition theorem (also called Schmidt theorem) in order to describe the correlations between the quantum system and the apparatus in the measurement process. From a realistic perspective, an interpretational issue which MIs need to take into account is the assignment of definite values to properties. But if we try to interpret eigenvalues which pertain to different sets of observables as the actual (pre-existent) values of the physical properties of a system, we are faced with all kind of no-go theorems that preclude this possibility. Regarding the specific scheme of the MI, Bacciagaluppi and Clifton were able to derive KS-type contradictions in the K-D interpretation which showed that one cannot extend the set of definite valued properties to non-disjoint sub-systems [26, 56]. In order to escape KS type contradictions, Jeffrey Bub’s modal version recalls David Bohm’s interpretation and proposes to take some observable, R, as always possessing a definite value. In this way one can avoid KS contradictions and maintain a consistent discourse about statements which pertain to the sublattice determined by the preferred observable R. As with van Fraassen’s and Vermaas and Dieks’ interpretations, Bub’s proposal distinguishes between dynamical states and property or value states, in his case with the purpose of interpreting the wave function as defining a Kolmogorovian probability measure over a restricted sub-algebra of the lattice L(H) of projection operations (corresponding to yes-no experiments) over the state space. It is this distinction between property states and dynamical states which according to Bub provides the modal character to the interpretation:
+The idea behind a ‘modal’ interpretation of quantum mechanics is that quantum states, unlike classical states, constrain possibilities rather than actualities—which leaves open the question of whether one can introduce property states […] that attribute values to (some) observables of the theory, or equivalently, truth values to the corresponding propositions. [47, p. 173]
+In precise terms, as L(H) does not admit a global family of compatible valuations, and thus not all propositions about the system are determinately true or false, probabilities defined by the (pure) state cannot be interpreted epistemically [47] (p. 119). But, if one chooses, for a given state |e>, a preferred observable R, these properties can be taken as determinate since the propositions associated with R, that is, with the projectors in which R decomposes, generate a Boolean algebra. Bub constructs the maximal sublattices D(|e>, R) ⊆ L(H) to which truth values can be assigned via a 2-valued homomorphism and demonstrates a uniqueness theorem that allows the construction of the preferred observable.
+In Bub’s proposal, a property state is a maximal specification of the properties of the system at a particular time, defined by a Boolean homomorphism from the determined sublattice to the Boolean algebra of two elements. On the other hand, a dynamical state is an atom of L(H) that evolves unitarily in time following the Schrödinger equation. So, dynamical states do not coincide with property states. Given a dynamical state represented by the atom |e> ∈ L(H), one constructs the sublattice D(|e>, R) with Kolmogorovian probabilities defined over alternative subsets of properties in the sublattice. They are the properties of the system, and the probabilities defined by |e> evolve (via the evolution of |e>) in time. If the preferred observable is the identity operator I, the atoms in D(|e>, I) may be pictured as a ‘fan’ of its projectors generated by the ‘handle’ |e> [46, p. 751] or an ‘umbrella’ with state |e> again as the handle and the rays in (|e>)⊥ as the spines. When observable R ≠ I, there is a set of handles {|eri>,i = 1…k} given by the nonzero projections of |e> onto the eigenspaces of R and the spines represented by all the rays in the orthogonal complement of the subspace generated by the handles. When dim(H) > 2, there are k 2-valued homomorphisms which map each of the handles onto 1 and the remaining atoms onto 0. The determinate sublattice, which changes with the dynamics of the system, is a partial Boolean algebra, that is, the union of a family of Boolean algebras pasted together in such a way that the maximum and minimum elements of each one, and eventually other elements, are identified and, for every n-tuple of pair-wise compatible elements, there exists a Boolean algebra in the family containing the n elements. The possibility of constructing a probability space with respect to which the Born probabilities generated by |e> can be thought of as measures over subsets of property states, depends on the existence of sufficiently many property states defined as 2-valued homomorphisms over D(|e>, R). This is guaranteed by a uniqueness theorem that characterizes D(|e>, R) [47, p. 126]. Thus constructed, the structure avoids KS-type theorems. Then, given a system S and a measuring apparatus M,
+[…] if some quantity R of M is designated as always determinate, and M interacts with S via an interaction that sets up a correlation between the values of R and the values of some quantity A of S, then A becomes determinate in the interaction. Moreover, the quantum state can be interpreted as assigning probabilities to the different possible ways in which the set of determinate quantities can have values, where one particular set of values represents the actual but unknown values of these quantities. [46, p. 750]
+The problem with this interpretation is that, in the case of an isolated system, there is no single element in the formalism of QM that allows us to choose an observable R, rather than another. This is why the move seems flagrantly ad hoc. Were we dealing with an apparatus, there would be a preferred observable, namely the pointer position, but the quantum wave function contains in itself mutually incompatible representations (choices of apparatuses) each of which provides non-trivial information about the state of affairs. The Bohmian proposal of Bub, has been extended by Guido Bacciagaluppi and Michael Dickson in their atomic version of the MI [27].
+The authors of this work have also contributed to the understanding of modality in the context of orthodox QL [102, 103, 104, 105]. From our investigation there are several conclusions which can be drawn. We started our analysis with a question regarding the contextual aspect of possibility. As it is well known, the KS theorem does not talk about probabilities, but rather about the constraints of the formalism to actual definite valued properties considered from multiple contexts. What we found via the analysis of possible families of valuations is that a theorem which we called, for obvious reasons, the Modal KS (MKS) theorem can be derived which proves that quantum possibility, contrary to classical possibility, is also contextually constrained [102]. This means that, regardless of its use in the literature, quantum possibility is not classical possibility. In a paper written in 2014 [88], we concentrated on the analysis of actualization within the orthodox frame and interpreted, following the structure, the logical realm of possibility in terms of ontological potentiality.
+e. The Czech-Slovakian and Italian Schools
+The study of the structure of tensor products [57, 199, 112, 113, 114] motivated a fruitful development of different algebraic structures that could represent quantum propositions, which in turn became a line of investigation by itself. Beginning with the proposal of test spaces by Foulis and Randall [122, 123, 124, 204, 205, 206, 207], which are related to orthoalgebras, the theory of structures as orthomodular lattices, partial Boolean algebras, orthomodular posets, effect algebras, quantum MV-algebras and the like became widely discussed. The Czech school led by Pavel Ptak, the Slovak school initiated by Anatolij Dvurečenskij and Sylvia Pulmannová and the Italian school organized by Enrico Beltrametti and Maria Luisa Dalla Chiara and continued by Roberto Giuntini were pioneers in the subject, see for example [32, 33, 36, 37, 52, 51, 54, 78, 79, 81, 115, 113, 130, 128, 129, 145, 141, 142, 148, 147, 168, 162, 169, 198, 200, 237, 238]. The weakened structures allow consideration of unsharp propositions related, not to projections, but to the elements of the more general set of linear bounded operators—called effects—over which the probability measure given by the Born rule may be defined. And this in turn gave rise to the consideration of paraconsistent QL, partial QL and Łukasiewickz QL [79].
+An important line of research in the subject of quantum structures is the application of QL methods to languages of information processing and, more specifically, to quantum computational logic (QCL) [53, 80, 101, 82, 135, 136, 138, 143, 149, 193, 192]. In this way several logical systems associated to quantum computation were developed. They provide a new form of quantum logic strongly connected with the fuzzy logic of continuous t-norms [151]. The groups in Firenze directed by Dalla Chiara, and Cagliari directed by Giuntini, have also developed different languages for quantum computation. A sentence in QL may be interpreted as a closed subspace of H. Instead, the meaning of an elementary sentence in QCL is a quantum information quantity encoded in a collection of qbits—unit vectors pertaining to the tensorial product of two dimensional complex Hilbert spaces—or qmixes—positive semi-definite Hermitian operators of trace one over Hilbert space. Conjunction and disjunction are not associated to the join and meet lattice operations. Instead, the number of conjunctions and disjunctions involved in a sentence determines the dimension of the space of its ‘meanings’, the dimension varying with the number and nature of the logical connectives, thus the ‘meaning’ of the sentence reflects the logical form of the sentence itself (for a complete discussion see [80]).
+f. The Brazilian School
+Newton da Costa and Décio Krause at Florianópolis have begun investigations on Non-Reflexive Logics (NRL) and Paraconsistent Logics (PL) related to several foundational issues regarding QM. On the one hand, NRL is, in a wide sense, a logic in which the relation of identity (or equality) is restricted, eliminated, replaced, at least in part, by a weaker relation, or employed together with a new non-reflexive implication or equivalence relation. In classical logic, one of the basic principles is the Principle of Identity (PI), expressing the reflexive property of identity, whose usual formulation is x = x or ∀ x (x = x), where x is a first order variable. There are other versions in higher-order logic, in which higher order variables appear. There are also propositional formulations of the principle: p → p (p implies p) or p ↔ p (p is equivalent to p), where p is a propositional variable. If propositional quantification is allowed, then we have other forms of the principle: ∀p (p → p) as well as: ∀p (p ↔ p). Some of the above principles are not in general valid in non-reflexive logics. They are total or partially eliminated, restricted, or not applied to the relation that is employed instead of identity. Several of these principles are the motivations for the development of non-reflexive logics. The application of the PI is controversial in the quantum domain not only due to the so called “indistinguishability of quantum particles” but, more deeply, when applying it to “something” that does not respect the classical definition of object. In particular, the search for a set theory that could be adequate to QM goes as far back as the 1974 Congress of the American Mathematical Society, which was devoted to the evaluation of the status of Hilbert’s problems for the century, posed in Paris in 1900. In the 1974 Congress, Manin proposed as one of the new set of problems for the next century:
+[…] we should consider possibilities of developing a totally new language to speak about infinity. […] I would like to point out that this [the concept of set] is rather an extrapolation of common-place physics, where we can distinguish things, count them, put them in order, etc. New quantum physics has shown us models of entities with quite different behaviour. Even ‘sets’ of photons in a looking-glass box, or electrons in a nickel piece are much less Cantorian that the ‘set’ of grains of sand. [181]
+The “new language to speak about infinity” is obviously a new ‘set’ theory, since set theory is usually known as “the theory of the (actual) infinite.” For a discussion about the necessity of a new set theory see for example [171, 134, 170, 77]. Within this context, the weakening of the concept of identity—substituted by that of indiscernibility—allows the development of non-reflexive logics which, in a wide sense, are logics in which the relation of identity (or equality) is restricted, eliminated, replaced, at least in part, by a weaker relation, or employed together with a new non-reflexive implication or equivalence relation [68, 73, 172, 75]. There are also different approaches to the logic related to quantum set theories. Gaisi Takeuti proposed a quantum set theory developed in the lattice of projections-valued universe [221, 222] and Satoko Titani formulated a lattice valued logic corresponding to general complete lattices developed in the classical set theory based on the classical logic [223].
+On the other hand, PL are the logics of inconsistent but non-trivial theories. The origins of PL go back to the first systematic studies dealing with the possibility of rejecting the PNC. PL was elaborated, independently, by Stanislaw Jaskowski in Poland, and by Newton da Costa in Brazil, around the middle of the last century (on PL, see, for example: [72]). A theory T founded on the logic L, which contains a symbol for negation, is called inconsistent if it has among its theorems a sentence A and its negation ¬A; otherwise, it is said to be consistent. T is called trivial if any sentence of its language is also a theorem of T; otherwise, T is said to be non-trivial. In classical logics and in most usual logics, a theory is inconsistent if, and only if, it is trivial. L is paraconsistent when it can be the underlying logic of inconsistent but non-trivial theories. Clearly, no classical logic is paraconsistent. In the context of QM, da Costa and Krause have put forward [71] a PL in order to provide a suitable formal scheme to consider the notion of complementarity introduced in 1927 by Niels Bohr during his famous ‘Como Lecture’. The notion of complementarity was developed by Bohr in order to consider the contradictory representations of wave representation and corpuscular representation found in the double-slit experiment (see for example [174]). According to Bohr: “We must, in general, be prepared to accept the fact that a complete elucidation of one and the same object may require diverse points of view which defy a unique description.” The proposal of da Costa and Krause has been further analyzed by Jean-Yves Béziau [39, 40] taking into account the Square of Opposition (see section 6.4 below).
+5. Ongoing Developments and Debates
+There is a great amount of work in progress in QL from new quantum structures, to the use of non-reflexive logics, paraconsistent logics, dynamical logics, etc. In the following section we shall review some of these advancements that have taken place in relation to QM.
+a. New Quantum Structures
+The importance of quantum structures as a field of research gave rise to its own association: The International Quantum Structures Association (IQSA). As Dvurečenskij relates in the Foreword to the Handbook of Quantum Logic and Quantum Structures:
+[…] in the early nineties, a new organization called International Quantum Structures Association (IQSA) was founded. IQSA gathers experts on quantum logic and quantum structures from all over the world under its umbrella. It organisms regular biannual meetings: Castiglioncello 1992, Prague 1994, Berlin 1996, Liptovsky Mikulas 1998, Cesenatico 2001, Vienna 2002, Denver 2004, Malta 2006. In spring 2005, Dov Gabbay, Kurt Engesser, Daniel Lehmann and Jane Spurr had an excellent idea—to ask experts on quantum logic and quantum structures to write long chapters for the Handbook of Quantum Logic and Quantum Structures. [117, p. viii]
+In fact, in the subject of quantum structures, MV-algebras, effect algebras, pseudo-effect algebras and related structures are being developed in relation to their use in QM. See [55, 116, 131, 132, 133, 184, 201], just to cite a few examples.
+b. Dynamical Logics, Category Theory and Quantum Computation
+As mentioned above (see Section 4.2), Smets and Coecke initiated a line of research that considers the possibility of regarding QL in a dynamical manner. This research is connected to the tradition of computer science, interested in the semantic notion of process, and thinks about the quantum realm in terms of change, instead of taking concepts like ‘particle’, ‘system’, ‘property’ and so on as fundamental. The standpoint of this approach is the observation that QL is essentially a dynamical logic, that it is about actions rather than propositions [30]. It is also connected to the interpretation of the ‘Sasaki hook’—namely, the quantum implication that is the closest to the classical one—which may be understood in terms of a dynamic modality instead of in terms of deduction—in fact, it does not satisfy the deduction theorem [60]. Smets together with Alexandru Baltag have proposed two axiomatizations of the logic of quantum actions [218]. One of them takes the notion of action as fundamental and axiomatizes the underlying algebra, giving a quantale [22, 59]. The other takes the notion of state as fundamental and represents actions as relations between states. Contrary to orthomodular QL [78], these axiomatizations fulfill completeness with respect to infinite dimensional Hilbert spaces and have applications in computational science [28]. In fact, the application to computational science and more broadly to information processing needs to manage composite systems, one of the profound difficulties that faces orthodox QL.
+Also, the relation between category theory and QL is being explored from different perspectives. On the one side, there is a line of investigation initiated by Chris Isham and continued by Andreas Döring with Chris Heunen, Klaas Landsman and Bas Spitters among others, whose main interest is to link the construction of a physical theory and its representation in a topos [146] of the formal language attached to the theory [107, 108, 109, 110, 157, 111, 154, 50]. They make claims about the necessity of reviewing the basic suppositions that are taken from granted, for example, the nature of space-time, the use of real numbers as values of physical quantities and the meaning of probability. From a logical point of view, contrary to the intractable QL, any topos in which the physical theory is represented comes with an intrinsic intuitionistic logic that is obviously more tractable. Moreover, compound systems also find their place in the topos approach [111]. Classical theories are included in this new formalization and for all of them the corresponding topos is that of sets endowed with classical logic as a trivial intuitionistic one. Also Elias Zafiris and Vassilios Karakostas are making new research in categorial semantics [239].
+On the other side, the line of investigation initiated at Oxford by Samson Abramsky and continued by Coecke among others proposed an axiomatization which may be useful for managing the formal language of physical processes involved in new quantum technologies as quantum computation and teleportation. Quantum computers exploit the existence of superpositions to drastically decrease the time and recourses required to deal with certain problems such as triangle-finding, integer factorization or the searching of an entry in an unordered list [164, 191]. Teleportation uses non-separability to safely transmit information from one place to another by means of an entangled state and a classical communication channel [45]. The categorical approach of the Oxford group uses monoidal categories [1, 2, 3, 4, 67, 165] and simple diagrams to view quantum processes and composite systems in a consistent manner. They apply these tools to research in the subject of computing semantics [63, 64, 65], in particular in the subject of linear logic [140] which is essential for computing science. Also Cristina and Amilcar Sernadas in Lisbon are working on the connection of category theory and linear logic [182, 183, 49].
+Research on computational semantics is being developed in connection with epistemic logics by members of the Italian group. For example, they model operators such as “to understand” or “to know” by irreversible quantum operations, thus allowing us to reflect on characteristic limitations in the process of acquiring information [34, 35]. The relation between quantum structures and epistemic logics is also being studied by a group in Amsterdam. They are applying a modal dynamic-epistemic QL for reasoning about quantum algorithms and, in general, for considering quantum systems as codifying actions of information production and processing [29, 30, 31].
+Dynamics of concepts as studied by cognitive science are also being considered with the aid of quantum structures. In fact, D. Aerts and co-workers have applied the formalism of QM for modeling the combination of concepts, showing the indeterministic and holistic characters of this process [13, 16, 17, 20, 21]. This approach has technological applications in connection with quantum computation and robotics [18, 19].
+c. Paraconsistency and Quantum Superpositions
+As remarked by Coecke the meaning of the superposition principle might be the key to understand QM:
+Birkhoff and von Neumann crafted quantum logic in order to emphasize the notion of quantum superposition. In terms of states of a physical system and properties of that system, superposition means that the strongest property which is true for two distinct states is also true for states other than the two given ones. In order-theoretic terms this means, representing states by the atoms of a lattice of properties, that the join p ∨ q of two atoms p and q is also above other atoms. From this it easily follows that the distributive law breaks down: given atom r ≠ p,q with r < p ∨ q we have r ∧(p ∨ q) = r while (r ∧ p)∨(r ∧ q) = 0∨0 = 0. Birkhoff and von Neumann as well as many others believed that understanding the deep structure of superposition is the key to obtaining a better understanding of quantum theory as a whole. [66]
+In line with this intuition, in [74], one of the authors of this paper together with N. da Costa argued in favor of the possibility of considering quantum superpositions in terms of a PL approach. It was claimed that, even though most interpretations of QM attempt to escape contradictions, there are many hints—coming mainly from present technical and experimental developments in QM—that indicate it could be worthwhile to engage in a research of this kind. Arenhart and Krause [23, 24, 25] have raised several arguments against the paraconsistent approach to quantum superpositions which have been further analyzed in [86]. Recently, some new proposals to consider quantum superpositions from a logical perspective have been put forward [76, 173].
+d. Contradiction and Modality in the Square of Opposition
+In Aristotelian classical logic, categorical propositions are divided in Universal Affirmative, Universal Negative, Particular Affirmative and Particular Negative. Possible relations between two of the mentioned types of propositions are encoded in the square of opposition. The square expresses the essential properties of monadic first order quantification which, in an algebraic approach may be represented by taking into account monadic Boolean algebras. The square of opposition has been considered, in relation to QL, as a useful tool to identify paraconsistent negations [38, 40]. The square also expresses the essential properties of the monadic first order quantifiers ∃ and ∀ that, in an algebraic approach, can be represented within the frame of monadic Boolean algebras by considering quantifiers as modal operators acting on a Boolean algebra [150]. This representation is called the modal square of opposition. An extension of the square to a case in which the underlying structure is replaced by the algebra of QL has been provided in [137] and it may be useful to identify paraconsistent negations in the structure of QM (see also for discussion [89]).
+The square of opposition has also recently been considered in relation to the meaning of quantum superpositions and the interpretation of the terms that compose it (Section 5.3). On the one hand, according to [74], it has been argued that one might consider some of the terms that compose the superposition as contradictory. On the other hand, Arenhart and Krause [23, 24, 25] have defended the idea that, taking into account the square of opposition, contrariety is a more suitable notion to describe the physical meaning of superpositions (see also [85, 86, 87]).
+e. Quantum Probability
+The subject of probability in QM appears in the early discussions and analysis provided by the founding fathers of the theory. On the one hand, there is the question about its interpretation, already stressed by Schrödinger in a letter to Einstein: “It seems to me that the concept of probability is terribly mishandled these days. Probability surely has as its substance a statement as to whether something is or is not the case—of an uncertain statement, to be sure. But nevertheless it has meaning only if one is indeed convinced that the something in question quite definitely is or is not the case. A probabilistic assertion presupposes the full reality of its subject.” [47, p. 115]. On the other hand, one faces the problem of its very definition: The Born rule was incorporated in the axiomatization of QM as a noncommutative measure over the lattice of events by von Neumann in the early thirties, but this measure needs a modular lattice to be well posed, while L(H) is an orthomodular one. As Miklos Rédei states:
+To see why von Neumann insisted on the modularity of quantum logic, one has to understand that he wanted quantum logic to be not only the propositional calculus of a quantum mechanical system but also wanted it to serve as the event structure in the sense of probability theory. In other words, what von Neumann aimed at was establishing the quantum analogue of the classical situation, where a Boolean algebra can be interpreted both as the Tarski-Lindenbaum algebra of a classical propositional logic and as the algebraic structure representing the random events of a classical probability theory, with probability being an additive normalized measure on the Boolean algebra. [212, p. 157]
+In fact, the difficulties with a rigorous definition of probability were well known to von Neumann [212]. When he was invited to the 1954 Congress of Mathematicians held in Amsterdam, dedicated to unsolved problems in mathematics—in a similar flavor to the 1900 Paris meeting in which Hilbert gave his famous lecture—von Neumann sketched his (ungiven) conference on the role of continuous rings of operators for a better understanding of QM, QL and quantum probability [211]. The difficulties with the definition of a “good measure” over the Hilbert lattice made von Neumann abandon the orthodox formalism of QM in Hilbert space, to which he himself had contributed a great deal, and face the classification of the factors and their dimension functions which led to the subject of von Neumann’s algebras.
+Nowadays, the definition of probability still faces various challenges and the subject is under debate. On the one hand, type II1 factor (the one whose projection lattice is a continuous geometry, and thus an orthomodular modular lattice as required by the definition of measure of probability) is not an adequate structure to represent quantum events. On the other hand, there exists different candidates for defining conditional probability and there is not a unique criterion for choosing among them [81, 209]. With respect to interpretation, the frequency interpretation is untenable for all non-commutative probabilities [213]. As Rédei remarks, “yet, a satisfactory interpretation of non-commutative measure as probability and the relation of this non-commutative (quantum) probability to (quantum) logic is still lacking.” [211]
+f. Potentiality and Actuality
+As we have discussed above, QL has been related to actuality since its origin. The operationalist perspective of Birkhoff and von Neumann was implicitly related to the measurement problem (MP). In QM “a complete mathematical description of a physical system S does not in general enable one to predict with certainty the result of an experiment.” [41] As a matter of fact, QM describes mathematically the state in terms of a superposition, thus the question raises: why do we observe a single result (that corresponds to a single eigenstate) instead of something related to a superposition of them? Although the MP accepts the fact that there is something very weird about quantum superpositions, leaving aside its problematic meaning, it focuses on the justification of the actualization process. Taking as a standpoint the single outcome it asks how we get to the actual result from the multiplicity of possible states. The MP is thus an attempt to justify why, regardless of QM, we only observe actuality. The problem places the result in the origin, what needs to be justified is the already known answer.
+QL distinguishes in general between ‘actual’ properties and ‘possible’ or ‘potential’ ones, opening the door to discuss a realm of existence beyond actuality. The notion of potentiality was introduced by Heisenberg in QM, and later developed and related through the operationalist approach to QL by Piron in [196] and more recently by Aerts in [14, 15] (see also for discussion [217]). Within such interpretations the collapse is accepted, and potentialities are defined in terms of their “becoming actual.” A different notion of potentiality which attempts to escape the limits of actuality has been also developed in [83, 84]. According to this approach one should turn things upside-down; we do not need to explain the actual via the potential but rather, we need to use the actual in order to develop the potential.
+From different perspectives, the development of the notion of potentiality in QM is related to an attempt to provide a realistic physical representation of the theory going beyond the discourse about mere “actual results.” Such proposals are in line with trying to understand what is a quantum superposition, which is the main theoretical tool which has opened the door to the most outstanding technological developments and experiments in early 21st century physics.
+6. Final Remarks
+Quantum logic has deeply influenced our understanding of the formal structure of QM. It has also played an important role within the foundational debates about the theory. In the early 21st century, the rise of a new technological era grounded on the processing of quantum information is posing original questions and challenges to all researchers close to the field. In this respect, the ongoing research in QL (section 6) can prove to be an important guide to try to advance our comprehension of the phenomena implied by these technologies.
+7. References and Further Reading
+[1] Abramsky, S., 1996, “Retracing some paths in process algebra”, in Proceedings of CONCUR 96, Lecture Notes in Computer Science, vol. 1119, 1-17, Springer-Verlag, Berlin.
+[2] Abramsky, S. and Coecke, B., 2008, “Categorical Quantum Mechanics”, in Handbook of Quantum Logic and Quantum Structures, vol. II, K. Engesser, D. M. Gabbay and D. Lehmann (Eds.) Elsevier, Amsterdam.
+[3] Abramsky, S. and Coecke, B., 2004, “A Categorical Semantics of Quantum Protocols”, in LICS Proceedings, 415-425.
+[4] Abramsky, S. and Duncan, R.W., 2006, “A Categorical Quantum Logic”, Mathematical Structures in Computer Science, 16, 469-489.
+[5] Aerts, D. and Daubechies, I., 1979 “A characterization of subsystems in physics”, Letters in Mathematical Physics, 3, 11-17.
+[6] Aerts, D. and Daubechies, I., 1979, “A mathematical condition for a sublattice of a propositional system to represent a physical subsystem, with a physical interpretation”, Letters in Mathematical Physics, 3 19-27.
+[7] Aerts, D., 1981, The One and the Many: Towards a Unification of the Quantum and Classical Description of One and Many Physical Entities, Doctoral dissertation, Brussels Free University, Belgium.
+[8] Aerts, D., 1981, “Description of compound physical syste ms and logical interaction of physical systems”, in Current Issues on Quantum Logic, E.G. Beltrametti and B.C. van Fraassen (Eds.), pp. 381-405, Kluwer Academic Publishers, Dordrecht.
+[9] Aerts, D., 1982, “Description of many physical entities without the paradoxes encountered in quantum mechanics”, Foundations of Physics, 12, 1131-1170.
+[10] Aerts, D., 1983, “Classical theories and non-classical theories as a spetial case of a more general theory”, Journal of Mathematical Physics, 24, 24412453.
+[11] Aerts, D., 1984, “Construction of a structure which makes it possible to describe the joint system of a classical and a quantum system”, Reports in Mathematical Physics, 20, 421-428.
+[12] Aerts, D., 1999, “Foundations of Quantum physics: a general realistic and operational approach”, International Journal of Theoretical Physics, 38, 289-358.
+[13] Aerts, D., 2009, “Quantum structure in cognition”, Journal of Mathematical Psychology, 53, 314-348.
+[14] Aerts, D., 2009, “Quantum particles as conceptual entities: a possible explanatory framework for quantum theory”, Foundations of Science, 14, 361-411.
+[15] Aerts, D., 2010, “A Potentiality and conceptuality interpretation of quantum mechanics”, Philosophica, 83, 15-52.
+[16] Aerts, D., 2011, “Quantum interference and superposition in cognition. Development of a theory for the disjunction of concepts”, in Worldviews, Science and Us: Bridging Knowledge and its Implications for Our Perspectives of the World, D. Aerts, J. Broekaert, B. D’Hooghe and N. Note (Eds.), pp. 169-211, World Scientific, Singapore.
+[17] Aerts, D., Broekaert, J. and Gabora, L., 2011, “A case for applying an abstracted quantum formalism to cognition”, New Ideas in Psychology, 29, 136-146.
+[18] Aerts, D., Czachor, M and Sozzo, S., 2011, “Quantum interaction approach in cognition, artificial intelligence and robotics” in Proceedings of the Fifth International Conference on Quantum, Nano and Micro Technologies, V. Privman and V. Ovchinnikov (Eds.), pp. 35-40, 2011
+[19] Aerts, D. and Sozzo, S., 2011, “Quantum structures in cognition: why and how concepts are entangled”, in Quantum Interaction Lecture Notes in Computer Science, 7052, 116-127.
+[20] Aerts, D. Gabora, L. and Sozzo, S., 2013, “Concepts and their dynamics: a quantum-theoretic modeling of human thought”, Topics in Cognitive Science, 5, 737-772.
+[21] Aerts, D. and Sozzo, S., 2014, “Quantum entanglement in concept combination”, International Journal of Theoretical Physics, 53, 3587-3603.
+[22] Amira, H., Coecke, B. and Stubbe, I., 1998, “How quantales emerge by introducing induction within the operational approach”, Helvetica Physica Acta, 71, 554-572.
+[23] Arenhart, J. R. and Krause, D., 2014, “Oppositions in Quantum Mechanics”, in New Dimensions of the Square of Opposition, J.-Y. Béziau and K. Gan-Krzywoszynska (Eds.), pp. 337-356, Philosophia Verlag, Munich.
+[24] Arenhart, J. R. and Krause, D., 2014, “Contradiction, Quantum Mechanics, and the Square of Opposition”, Logique et Analyse.
+[25] Arenhart, J. R. and Krause, D., 2015, “Potentiality and Contradiction in Quantum Mechanics”, in The Road to Universal Logic (volume II), A. Koslow and A. Buchsbaum (Eds.), pp. 201-211, Springer, Berlin.
+[26] Bacciagaluppi, G., 1995, “A Kochen Specker Theorem in the Modal Interpretation of Quantum Mechanics”, Internal Journal of Theoretical Physics, 34, 1205-1216.
+[27] Bacciagaluppi, G. and Dickson, W. M., 1997, “Dynamics for Density Operator Interpretations of Quantum Theory”, Preprint. (quantph/arXiv:9711048)
+[28] Baltag, A. and Smets, S., 2004, “The logic of quantum programs”, in Proceedings of the 2nd International Workshop on Quantum Programming Languages, P. Selinger (Ed.), pp. 39-56, TUCS General Publication.
+[29] Baltag, A. and Smets, S., 2010, “Correlated knowledge: an epistemic-logic view on quantum entanglement”, Internal Journal of Theoretical Physics, 49, 3005-3021.
+[30] Baltag, A. and Smets, S., 2012, “The dynamic turn in quantum logic”, Synthese, 186, 753-773.
+[31] Baltag, A., Bergfeld, J., Kishida, K., Sack, J., Smets, S. and Zhong, S., 2014, “PLQP and company: decidable logics for quantum algorithms”, Internal Journal of Theoretical Physics, 53, 3628-3647.
+[32] Beltrametti, E.G. and Cassinelli, J., 1981, The Logic of Quantum Mechanics, Addison-Wesley, Reading, New York.
+[33] Beltrametti, E.G. and van Fraassen, B.C. (Eds.), 1981, Current Issues in Quantum Logic, Plenum, New York.
+[34] Beltrametti, E., Dalla Chiara, M.L., Giuntini, R., Leporini, R. and Sergioli, G., 2014, “A quantum computational semantics for epistemic logical operators. Part I: epistemic structures”, Internal Journal of Theoretical Physics, 53, 3279-3292.
+[35] Beltrametti, E., Dalla Chiara, M.L., Giuntini, R., Leporini, R. and Sergioli, G., 2014, “A quantum computational semantics for epistemic logical operators. Part II: semantics”, Internal Journal of Theoretical Physics, 53, 3293-3307.
+[36] Bennett, M.K. and Foulis, D.J., 1995, “Phi-symmetric effect algebras”, Foundations of Physics, 25, 1699-1722.
+[37] Bennett, M.K. and Foulis, D.J., 1997, “Interval algebras and unsharp quantum logics”, Advances in Mathematics, 19, 200-215.
+[38] Béziau, J.-Y., 2003, “New light on the square of opposition and its nameless corner”, Logical Investigations, 10, 218-232.
+[39] Béziau, J.-Y., 2012, “The Power of the Hexagon”, Logica Universalis, 6, 1-43.
+[40] Béziau, J.-Y., 2014, “Paraconsistent logic and contradictory viewpoint”, Revista Brasileira de Filosofia.
+[41] Birkhoff, G. and von Neumann, J., 1936, “The logic of quantum mechanics”, Annals of Mathematics 37, 823-843.
+[42] Bitbol, M., 1996, Mécanique Quantique, Flamarion, Paris.
+[43] Bitbol, M., 1998, “Some steps towards a trascendental deduction of quantum mechanics”, Philosophia Naturalis, 35, 253-280.
+[44] Bohr, N., 1985, Collected Works, vol. 6, I. Kolckar (Ed.), North-Holland, Amsterdam.
+[45] Brouwmeester, D., Ekert, A.K. and Zeilinger, A., 2001, The Physics of Quantum Information: Quantum Criptography, Quantum Teleportation, Quantum Computation, Springer, Berlin.
+[46] Bub, J., 1992, “Quantum Mechanics Without the Projection Postulate”, Foundations of Physics, 22, 737-754.
+[47] Bub, J., 1997, Interpreting the Quantum World, Cambridge University Press, Cambridge.
+[48] Bush, P., Pfarr, J., Ristig, M. and Stachow, E.-W., 2010, “QuantumMatter-Spacetime: Peter Mittelstaedt’s Contributions to Physics and Its Foundations”, Foundations of Physics, 40, 1163-1170.
+[49] Caleiro, C., Mateus, P., Sernadas, A. and Sernadas, C., 2006, “Quantum Institutions”, in Algebra, Meaning, and Computation: Essays Dedicated to Joseph A. Goguen on the Occasion of His 65th Birthday, K. Futatsugi, J.-P. Jouannaud, and J. Meseguer (Eds.), 50-64, Springer-Verlag, Berlin.
+[50] Caspers, M., Heunen, C., Landsman, N. and Spitters, B., 2009, “Intuitionistic quantum logic of an n-level system”, Foundations of Physics, 39, 731-759.
+[51] Cattaneo, G. and Nisticò, G.,1986, “Brower-Zadeh posets and three-valued ?ukasiewicz posets”, Fuzzy Sets and Systems, 33, 165-190.
+[52] Cattaneo, G. and Laudisa, F., 1994, “Axiomatic unsharp quantum theory (from Mackey to Ludwig and Piron)”, Foundations of Physics, 24, 631-683.
+[53] Cattaneo, G., Dalla Chiara, M.L., Giuntini, R. and Leporini, R., 2004, “An unsharp logic from quantum computation”, International Journal of Theoretical Physics, 43, 1803-1817.
+[54] Cattaneo, G., Dalla Chiara, M.L., Giuntini, R. and Paoli, F., 2009, “Quantum Logic and Nonclassical Logics”, in Handbook of Quantum Logic and Quantum Structures, K. Engesser, D. Gabbay and D. Lehmann (Eds), pp. 127-226, Elsevier, Amsterdam.
+[55] Chajda, I. and Kühr, J., 2012, “A generalization of effect algebras and ortholattices”, Mathematica Slovaca, 62, 1045-1062.
+[56] Clifton, R.K., 1996, “The Properties of Modal Interpretations of Quantum Mechanics”, British Journal for the Philosophy of Science, 47, 371-398.
+[57] Coecke, B., 2000, “Structural characterization of compoundness”, International Journal of Theoretical Physics, 39, 581-590.
+[58] Coecke, B., Moore, D.J. and Wilce, A., 2000, “Operational Quantum Logic: An Overview”, in Current Research in Operational Quantum Logic: Algebras, Categories, Languages, B. Coecke, D.J. Moore and A. Wilce (Eds.), pp. 1-36, Kluwer Academic Publishers, Dordrecht.
+[59] Coecke, B., Moore, D.J. and Stubbe, I., 2001, “Quantaloids describing causation and propagation of physical properties”, Foundation of Physics Letters, 14, 357-367.
+[60] Coecke, B. and Smets, S., 2004, “The Sasaki-hook is not a [static] implicative connective but induces a backward [in time] dynamic one that assigns causes”, International Journal of Theoretical Physics, 43, 1705-1736.
+[61] Coecke, B., Moore D.J. and Wilce A. (Eds.), 2000, Current Research in Operational Quantum Logic: Algebras Categories, Languages, Kluwer Academic Publishers, Dordrecht.
+[62] Coecke, B., Moore, D.J. and Smets, S., 2004, “Logic of dynamics & dynamics of logic”, in Logic, Epistemology and the Unit of Science, S. Rahman, J. Symons (Eds.), pp. 527-555, Kluwer Academic Publisher, Dordrecht.
+[63] Coecke, B., 2005, “Kindergarten Quantum Mechanics”, in Proceedings of QTRF-III, G. Adenier, A.Yu Khrennikov and T.M. Nieuwenhuizen (Eds.), pp. 81-98, AIP Proceedings, New York.
+[64] Coecke, B., 2010, “Quantum Picturalism”, Contemporary Physics, 51, 5983.
+[65] Coecke, B., Duncan, R., Kissinger, A. and Wang, Q., 2012, “Strong Complementarity and Non-locality in Categorical Quantum Mechanics”, in Proceedings of the 27th Annual IEEE Symposium on Logic in Computer Science LiCS 2012, pp. 245-254, IEEE Publisher.
+[66] Coecke, B., 2012, “The Logic of Quantum Mechanics – Take II”, Preprint. (quant-ph/arXiv:1204.3458)
+[67] Coecke, B., Heunen, C. and Kissinger, A., 2013, “Compositional Quantum Logic”, Computation, Logic, Games, and Quantum Foundations, 21-36.
+[68] da Costa, N.C.A., 1997, Logique Classique et Non-Classique, Masson, Paris.
+[69] da Costa, N. C. A. and French, S., 2003, Partial Truth: A Unitary Approach to Models and Scientific Reasoning, Oxford University Press, Oxford.
+[70] da Costa, N.C.A., Krause, D. and Bueno, O., 2006, “Paraconsistent Logics and Paraconsistence”, in Philosophy of logic, D.M. Gabbay, P. Thagard and J. Woods (Eds.), pp. 655-781, Elsevier, Amsterdam.
+[71] da Costa, N.C.A. and Krause, D., 2006, “The Logic of Complementarity”, in The Age of Alternative Logics: Assessing Philosophy of Logic and Mathematics Today, J. van Benthem, G. Heinzmann, M. Rebushi and H. Visser (Eds.), pp. 103-120, Springer, Berlin.
+[72] da Costa, N. C. A., Krause, D., and Bueno, O., 2007, “Paraconsistent Logics and Paraconsistency”, in Handbook of the Philosophy of Science (Philosophy of Logic), D. Jacquette (Ed.), pp. 791-911, Elsevier, Amsterdam.
+[73] da Costa, N.C.A. and Bueno, O., 2009, “Non Reflexive Logics”, Revista Brasilera de Filosofía, 232, 181-196.
+[74] da Costa, N. and de Ronde, C., 2013, “The Paraconsistent Logic of Quantum Superpositions”, Foundations of Physics, 43, 845-858.
+[75] da Costa, N.C.A. and de Ronde, C., 2014, “Non-Reflexive Logical Foundation for Quantum Mechanics”, Foundations of Physics, 44, 1369-1380.
+[76] da Costa, N.C.A. and de Ronde, C., 2014, “The Paraconsistent Approach to Quantum Superpositions Reloaded”, Preprint. (quantph/arXiv:1507.02706)
+[77] Dalla Chiara, M.L., Giuntini, R. and Krause, D., 1998, “Quasi set theories for microobjects: a comparison”, in Interpreting Bodies: Classical and Quantum Objects in Modern Physics, E. Castellani (Ed.), Princeton University Press, Princeton.
+[78] Dalla Chiara, M. and Giuntini, R., 2002, “Quantum Logics”, in Handbook of Philosophical Logic, Vol 6, D. Gabbay and F. Guenthner, (Eds.), Kluwer Academic Publishers, Dordrecht.
+[79] Dalla Chiara, M. and Giuntini, R., 2000, “Paraconsistent Ideas in Quantum Logic”, Synthese, 125, 55-68.
+[80] Dalla Chiara, M.L., Giuntini, R. and Leporini, R., 2003, “Quantum Computational Logic. A Survey”, Preprint. (quant-ph/arXiv:030529).
+[81] Dalla Chiara, M., Giuntini, R. and Greechie, R., 2004, Reasoning in Quantum Theory, Kluwer Academic Publishers, Dordrecht.
+[82] Dalla Chiara, M.L., Giuntini, R., Freytes, H., Ledda, A. and Sergioli, G., 2009, “The Algebraic Structure of an Approximately Universal System of Quantum Computational Gates”, Foundation of Physics, 39, 559-572.
+[83] de Ronde, C., 2011, The Contextual and Modal Character of Quantum Mechanics: A Formal and Philosophical Analysis in the Foundations of Physics, Doctoral dissertation, Utrecht University, Utrecht.
+[84] de Ronde, C., 2013, “Quantum Superpositions and Causality: On the Multiple Paths to the Measurement Result”, Preprint. (quantph/arXiv:1310.4534)
+[85] de Ronde, C., 2013, “Representing Quantum Superpositions: Powers, Potentia and Potential Effectuations”, Preprint. (quant-ph/arXiv:1312.7322)
+[86] de Ronde, C., 2015, “Modality, Potentiality and Contradiction in Quantum Mechanics”, New Directions in Paraconsistent Logic, pp. 249-265, J.-Y. Beziau, M. Chakraborty and S. Dutta (Eds.), Springer, Berlin.
+[87] de Ronde, C., 2016, “Representational Realism, Closed Theories and the Quantum to Classical Limit”, in R. E. Kastner, J. Jeknic-Dugic and G. Jaroszkiewicz (Eds.), Quantum Structural Studies, World Scientific, Singapore.
+[88] de Ronde, C., Freytes, H. and Domenech, G., 2014, “Interpreting the Modal Kochen-Specker Theorem: Possibility and Many Worlds in Quantum Mechanics”, Studies in History and Philosophy of Modern Physics, 45, pp. 11-18.
+[89] de Ronde, C., Freytes, H. and Domenech, G., 2014, “Quantum Mechanics and the Interpretation of the Orthomodular Square of Opposition”, in New Dimensions of the Square of Opposition, Jean-Yves Béziau and Katarzyna Gan-Krzywoszynska (Eds.), pp. 223-242, Philosophia Verlag, Munich.
+[90] DeWitt, B., 1973, “The Many-Universes Interpretation of Quantum Mechanics”, In Foundations of Quantum Mechanics, 167-218, Academic Press, New York.
+[91] DeWitt, B. and Graham, N., 1973, The Many-Worlds Interpretation of Quantum Mechanics, Princeton University Press, Princeton.
+[92] Dickson, W. M., 2001, “Quantum logic is alive ? (It is true ? It is false)”, Proceedings of the Philosophy of Science Association 2001, 3, S274-S287.
+[93] Dickson, W. M., 1998, Quantum Chance and Nonlocality: Probability and Nonlocality in the Interpretations of Quantum Mechanics, Cambridge University Press, Cambridge.
+[94] Dickson, M. and Dieks, D., 2002, “Modal Interpretations of Quantum Mechanics”, The Stanford Encyclopedia of Philosophy (Winter 2002 Edition), E. N. Zalta (Ed.), URL: http://plato.stanford.edu/archives/win2002/entries/qm-modal/.
+[95] Dieks, D., 1988, “The Formalism of Quantum Theory: An Objective Description of Reality”, Annalen der Physik, 7, 174-190.
+[96] Dieks, D., 1989, “Quantum Mechanics Without the Projection Postulate and Its Realistic Interpretation”, Foundations of Physics, 19, 1397-1423.
+[97] Dieks, D., 2007, “Probability in the modal Interpretation of quantum mechanics”, Studies in History and Philosophy of Modern Physics, 38, 292310.
+[98] Dieks, D., 2010, “Quantum Mechanics, Chance and Modality”, Philosophica, 83, 117-137.
+[99] Dirac, P. A. M., 1974, The Principles of Quantum Mechanics, 4th Edition, Oxford University Press, London.
+[100] Domenech, G. and Freytes, H., 2005, “Contextual logic for quantum systems”, Journal of Mathematical Physics, 46, 012102-1 – 012102-9.
+[101] Domenech, G. and Freytes, H., 2005, “Fuzzy propositional logic associated with quantum computational gates”, International Journal of Theoretical Physics, 45, 228-261.
+[102] Domenech, G., Freytes, H. and de Ronde, C., 2006, “Scopes and limits of modality in quantum mechanics”, Annalen der Physik, 15, 853-860.
+[103] Domenech, G., Freytes, H. and de Ronde, C., 2008, “A topological study of contextuality and modality in quantum mechanics”, International Journal of Theoretical Physics, 47, 168-174.
+[104] Domenech, G., Freytes, H. and de Ronde, C., 2009, “Modal-type orthomodular logic”, Mathematical Logic Quarterly, 3, 307-319.
+[105] Domenech, G., Freytes, H. and de Ronde, C., 2009, “Many worlds and modality in the interpretation of quantum mechanics: an algebraic approach”, Journal of Mathematical Physics, 50, 072108.
+[106] Domenech, G., Holik, F and Massri, C., 2010, “A quantum logical and geometrical approach to the study of improper mixtures”, Journal of Mathematical Physics, 51, 052108.
+[107] Döring, A. and Isham, C. J., 2008, “A topos foundation for theories of physics: I. Formal languages for physics”, Journal of Mathematical Physics, 49, 053515.
+[108] Döring, A. and Isham, C. J., 2008, “A topos foundation for theories of physics: II. Daseinisation and the liberation of quantum theory”, Journal of Mathematical Physics, 49, 053516.
+[109] Döring, A. and Isham, C. J., 2008, “A topos foundation for theories of physics: III. The representation of physical quantities with arrows”, Journal of Mathematical Physics, 49, 053517.
+[110] Döring, A. and Isham, C. J., 2008, “A topos foundation for theories of physics: VI. Categories of systems”, Journal of Mathematical Physics, 49, 053518.
+[111] Döring, A. and Isham, C. J., 2011, “What is a thing’ Topos theory in the foundations of physics”, in New structures in physics, B. Coecke (Ed.), 753-940, Springer, Berlin.
+[112] Dvure?enskij, A. and Pulmannová, S., 1994, “Difference posets, effects, and quantum measurements”, International Journal of Theoretical Physics, 33, 819-850.
+[113] Dvure?enskij, A. and Pulmannová, S., 1994, “Tensor products of D-posets and D-test spaces”, Reports in Mathematical Physics, 34, 251-275.
+[114] Dvure?enskij, A., 1995, “Tensor product of difference posets and effect algebras”, International Journal of Theoretical Physics, 34, 1337-1348.
+[115] Dvure?enskij A. and Pulmannova, S., 2000, New Trends in Quantum Structures, Kluwer Academic Publishers, Dordrecht.
+[116] Dvure?enskij, A. and Xie, Y., 2014, “N-Perfect and Q-Perfect Pseudo Effect Algebras”, International Journal of Theoretical Physics, 53, 33803390.
+[117] Engesser, K., Gabbay, D.M. and Lehman, D. (Eds.), 2009, Handbook of Quantum Logic and Quantum Structures, Elsevier, Amsterdam.
+[118] Everett, H., 1957, “‘Relative State’ Formulation of Quantum Mechanics”, Reviews of Modern Physics, 29, 454-462.
+[119] Everett, H., 1973, “The Theory of the Universal Wave Function”, In The Many-Worlds Interpretation of Quantum Mechanics, DeWitt and Graham (Eds.), Princeton University Press, Princeton.
+[120] Finkelstein, D., “Matter, space and logic”, in Boston Studies in the Philosophy of Science V, R.S. Cohen and M.W. Wartofsky (Eds.), D. Reidel, Dordrecht.
+[121] Finkelstein, D., “The physics of logic”, in Paradigms and Paradoxes: The Philosophical Challenge of the Quantum Domain, R.G. Colodny (Ed.), University of Pittsburg Press, Pittsburg.
+[122] Foulis, D.J. and Randall, C.H., 1972, “Operational statistics, I. Basic concepts”,Journal of Mathematical Physics, 13, 1667-1675.
+[123] Foulis, D.J. and Randall, C.H., 1974, “Empirical logic and quantum mechanics”, Synthese, 29, 81-111.
+[124] Foulis, D.J. and Randall, C.H., 1978, “Manuals, morphisms and quantum mechanics”, in Mathematical Foundations of Quantum Theory, A. Marlow (Ed.), Academic Press, New York.
+[125] Foulis, D.J. and Randall, C.H., 1979, “Tensor products of quantum logics do not exist”, Noticies of the American Mathematical Society, 26, 557.
+[126] Foulis, D.J. and Randall, C.H., 1981, “Empirical logic and tensor products”, in Interpretations and Foundations of Quantum Theory, H. Neumann (ed.), B. I. Wissenschaft, Mannheim.
+[127] Foulis, D.J., Piron, C. and Randall, C.H., 1983, “Realism, Operationalism, and Quantum Mechanics”, Foundations of Physics, 13, 813-841.
+[128] Foulis, D.J. and Bennett, M.K., 1994, “Effect algebras and unsharp quantum logics”, Foundations of Physics, 24, 1331-1352.
+[129] Foulis, D.J., Bennett, M.K. and Greechie, R.J., 1996, “Test groups and effect algebras”, International Journal of Theoretical Physics, 35, 11171140.
+[130] Foulis, D.J., 2000, “Representations on unigroups”, in Current Research in Operational Quantum Logic: Algebras Categories, Languages, B. Coecke, D.J. Moore and A. Wilce (Eds.), Kluwer Academic Publishers, Dordrecht.
+[131] Foulis, D.J., Pulmannová, S. and Vinceková, E., 2011, “Lattice pseudoeffect algebras as double residuated structures”, Soft Computing, 15, 24792488.
+[132] Foulis, D.J. and Pulmannová, S., 2013, “Dimension theory for generalized effect algebras”, Algebra Universalis, 69, 357-386.
+[133] Foulis, D.J. and Pulmannová, S., 2014, “Symmetries in synaptic algebras”, Mathematica Slovaca, 64, 751-776.
+[134] French, S. and Krause, D., 2006, Identity in Physics: A Historical, Philosophical and Formal Analysis, Oxford University Press, Oxford.
+[135] Freytes, H. and Ledda, A., 2009, “Categories of semigroups in quantum computational structures”, Mathematica Slovaca, 59, 413-432
+[136] Freytes, H., 2010, “Quantum computational structures: categorical equivalence for square roots QMV-algebras”, Studia Logica, 95, 63-80.
+[137] Freytes, H., de Ronde, C. and Domenech, G., 2012, “The Square of Opposition in Orthomodular Logic”, in Around and Beyond the Square of Opposition: Studies in Universal Logic, J.-Y. Béziau and D. Jacquette (Eds.), pp. 193-201, Springer, Basel.
+[138] Freytes, H. and Domenech, G., 2013, “Quantum computational logic with mixed states”, Mathematical Logic Quarterly, 59, 27-50.
+[139] Friedman, M. and Putnam, H., 1978, “Quantum Logic, Conditional Probability and Inference”, Dialectica, 32, 305-315.
+[140] Girard, J-Y, “Linear logic”, 1987, Theoretical Computational Science, 50, 1-102.
+[141] Giuntini, R. and Greuling, H., 1989, “Toward a formal language for unsharp properties”, Foundations of Physics, 19, 931-945.
+[142] Giuntini, R., 1996, “Quantum MV-Algebras”, Studia Logica, 56, 393-417.
+[143] Giuntini, R., Freytes, H,. Ledda, A. and Paoli, F., 2009, “A discriminator variety of Gödel algebras with operators arising from quantum computation”, Fuzzy Sets and Systems, 160, 1082-1098.
+[144] Gleason, A.M., 1957, “Measures on the closed subspaces of a Hilbert space”, Journal Mathematical Mechanics, 6, 885-893.
+[145] Goldblatt, R.I., 1974, “Semantic analysis of orthologic”, Journal of Philosophical Logic, 3, 19-35.
+[146] Goldblatt, R.I., 1984, Topoi: The Categorial Analysis of Logic, Elsevier, Amsterdam.
+[147] Greechie, R.J., Foulis, D.J. and Pulmannová, S., 1995, “The center of an effect algebra”, Order, 12, 910-106.
+[148] Gudder, S.P., “Effect test spaces”, 1997, International Journal of Theoretical Physics, 36, 2681-2705.
+[149] Gudder, S., 2002, “Quantum Computational Logic”, International Journal of Theoretical Physics, 42, 39-47.
+[150] Halmos, P., 1995, “Algebraic Logic I, Monadic Boolean algebras”, Compositio Mathematica, 12, 217-249.
+[151] Hajek, P., 1998, Metamathematics of Fuzzy Logic, Kluwer Academic Publishers, Dordrecht.
+[152] Heisenberg, W., 1958, Physics and Philosophy, Ruskin House, London.
+[153] Heisenberg, W., 1973, “Development of Concepts in the History of Quantum Theory”, in The Physicist’s Conception of Nature, 264-275, J. Mehra (Ed.), Reidel, Dordrecht.
+[154] Heunen, C. and Spitters, B., 2009, “A Topos for Algebraic Quantum Theory”, Communications in Mathematical Physics, 291, 63-110.
+[155] Hooker, C.A. (Ed.), 1979, The Logico-Algebraic Approach to Quantum Mechanics II, D. Reidel, Dordrecht.
+[156] Husimi, K., 1937, “Studies on the foundations of quantum mechanics I”, Proceedings of the Physico-Mathematical Society Japan, 9, 766-778.
+[157] Isham, C. J., 2011, “Topos Methods in the Foundations of Physics”, in Deep Beauty, H. Halvorson (Ed.), 187-206, Cambridge University Press.
+[158] Jammer, M., 1974, Philosophy of Quantum Mechanics, Wiley, New York.
+[159] Jauch, J.M., 1968, Foundations of Quantum Mechanics, Addison-Wesley, Reading.
+[160] Jauch, J.M. and Piron, C., 1969, “On the structure of quantal proposition systems”, Helvetica Physica Acta, 42, 842-848.
+[161] Kalman, J. A., 1958, “Lattices with involution”, Transactions of the American Mathematical Society, 87, 485-491.
+[162] Kalmbach, G., 1983, Ortomodular Lattices, Academic Press, London.
+[163] Kauark-Leite, P., 2004, The Transcendental Approach and the Problem of Language and Reality in Quantum Mechanics, Doctoral dissertation, Centre de Recherche en Epistémologie Appliquée – École Polytechnique, Paris.
+[164] Kaye, P., Laflamme, R. and Mosca, M., 2007, An Introduction to Quantum Computing, Oxford University Press, New York.
+[165] Kissinger, A., 2014, “Abstract Tensor Systems as Monoidal Categories”, in Categories and Types in Logic, Language, and Physics, 235-252.
+[166] Kochen, S., 1985, “A New Interpretation of Quantum Mechanics”, In Symposium on the foundations of Modern Physics 1985, P. Lathi and P. Mittelslaedt (Eds.), pp. 151-169, World Scientific, Johensuu.
+[167] Kochen, S. and Specker, E., 1967, “On the problem of Hidden Variables in Quantum Mechanics”, Journal of Mathematics and Mechanics, 17, 59-87. Reprinted in Hooker, 1975, 293-328.
+[168] Köhler, P., 1981, “Brouwerian semilattices”, Transactions of the American Mathematical Society, 268, 103-126.
+[169] Kôpka, F., 1992, “D-posets of fuzzy sets”, Tatra Mountains Mathematical Publications, 1, 83-87.
+[170] Krause, K., 1992, “On a quasi-set theory”, Notre Dame Journal of Formal Logic, 33, 402-411.
+[171] Krause, D., 2002, “Why quasi-sets?”, Boletim da Sociedade Paranaense de Matemática, 20, 73-92.
+[172] Krause, D., 2014, “The problem of identity and a justification for a nonreflexive quantum mechanics,” Logic Journal of the IGLP, 22, 186-205.
+[173] Krause, D. and Arenhart, J., 2016, “A Logic of Quantum Superpositions”, in Probing the Meaning of Quantum Mechanics, D. Aerts, C. de Ronde, H. Freytes and R. Giuntini (Eds.), World Scientific, Singapore.
+[174] Lahti, P., 1980, “Uncertainty and Complementarity in Axiomatic Quantum Mechanics”, International Journal of Theoretical Physics, 19, 789-842.
+[175] Lewis, D., 1986, On the Plurality of Worlds, Blackwell Publishers, Harvard.
+[176] Ludwig, G., An Axiomatic Basis of Quantum Mechanics 1. Derivation of Hilbert Space, Springer-Verlag, Berlin, 1985
+[177] Ludwig, G., 1987, An Axiomatic Foundation of Quantum Mechanics 2. Quantum Mechanics and Macrosystems, Springer-Verlag, Berlin.
+[178] Lyre, H., 2003, “C. F. von Weizsäcker’s Reconstruction of Physics: Yesterday, Today, Tomorrow”, in Time, Quantum and Information (Essays in Honor of C. F. von Weizsäcker), L. Castell and O. Ischebeck (Eds.), Springer, Berlin.
+[179] Mackey, G.W., 1963, The Mathematical Foundations of Quantum Mechanics, Benjamin, Amsterdam.
+[180] Maeda, F. and Maeda, S., 1970, Theory of Symmetric Lattices, SpringerVerlag, Berlin.
+[181] Manin, Yu.I., 1976, “Mathematical Problems I: Foundations”, in Mathematical Problems Arising from Hilbert Problems, F.E. Browder (Ed.), p. 36, American Mathematical Society, Providence.
+[182] Mateus P. and Sernadas, A., 2004, “Reasoning About Quantum Systems”, in Logics in Artificial Intelligence, Ninth European Conference, JELIA-04, 239-251, J. Alferes and J. Leite (Eds), Springer-Verlag.
+[183] Mateus P. and Sernadas, A., 2006, “Weakly complete axiomatization of exogenous quantum propositional logic”, Information and Computation, 204, 771-794.
+[184] Matoušek, M. and Pták, P., 2014, “Orthomodular posets related to Zvalued states”, International Journal of Theoretical Physics, 53, 3323-3332 [185] Mittelstäedt; P., 1978, Quantum logic, Reidel, Dordrecht.
+[186] Mittelstäedt; P., 1979, “The modal logic of quantum logic”, Journal Philosophical Logic, 8, 479-504.
+[187] Mittelstäedt; P., 1981, “The concepts of truth, possibility an probability in the language of quantum physics”, in Interpretations and Foundations of Quantum Theory, H. Neumann (Ed.), pp. 70-94, Bibliographisches Institut, Mannheim.
+[188] Mittelstäedt; P., 1981, “The dialogic approach to modalities in the language of quantum physics”, in Current Issues in Quantum Logic, E. Beltrametti and B.C. van Fraassen (Eds.), pp. 259-281, Plenum Publication Co, New York.
+[189] Mittelstäedt; P., 1985, “Constituting, Naming and Identity in Quantum Logic”, in Recent Developments in Quantum Logic, P. Mittelstäedt and E.-W. Statchow (Eds.), pp. 215-234, BI-Wissenschaftsverlag, Mannheim.
+[190] Mittelstäedt; P., 1986, “Naming and Identity in Quantum Logic”, in Foundations of physics, P. Weingartner and G. Dorn (Eds.), pp. 139-161, Vienna.
+[191] Nielsen, M.A. and Chuang, I.L., 2010, Quantum Computation and Quantum Information: 10th Anniversary Edition, Cambridge University Press, Cambridge.
+[192] Paoli, F., Ledda, A., Giuntini, R. and Freytes, H., 2009, “On some properties of quasi-MV algebras and sqrt quasi-MV algebras”, Reports on Mathematical Logic, 44, 31-63.
+[193] Paoli, F., Ledda, A., Spinks, Freytes, H. and Giuntini, R., 2011, “Logics from sqrt MV-algebras”, International Journal of Theoretical Physics, 50, 3882-3902.
+[194] Piron, C., 1964, “Axiomatique Quantique”, Helvetica Physica Acta, 37, 439-468.
+[195] Piron, C., 1976, Foundations of Quantum Mechanics, W.A. Benjamin, Inc., Reading.
+[196] Piron, C., 1983, “Le realisme en physique quantique: une approche selon Aristote”, In The Concept of Physical Reality. Proceedings of a Conference Organized by the Interdisciplinary Research Group, University of Athens, Athens.
+[197] Piron, C., 1989, “Recent Developments in Quantum Mechanics”, Helvetica Physica Acta, 62, 82-90.
+[198] Pták, P. and Pulmannová, S., 1991, Orthomodular Structures as Quantum Logics, Kluwer Academic Publishers, Dordrecht.
+[199] Pulmannová, S., 1985, “Tensor Product of Quantum Logics”, Journal of Mathematical Physics, 26, 1-5.
+[200] Pulmannová, S. and Wilce, A., 1995, “Representations of D-posets”, International Journal of Theoretical Physics, 34, 1689-1696.
+[201] Pulmannová, S. and Vincenková, E., 2007, “Remarks on the order for quantum observables”, Mathematica Slovaca, 57, 589-600.
+[202] Putnam, H., 1968, “Is Logic Empirical?”, Boston Studies in the Philosophy of Science V, 5, 199-215.
+[203] Putnam, H., 1974, “How To Think Quantum Logically”, Synthese, 29, 55-61.
+[204] Randall C.H. and Foulis, D.J., 1970, “An approach to empirical logic”, American Mathematicl Monthly, 77, 363-374.
+[205] Randall C.H. and Foulis, D.J., 1973, “Operational statistics II. Manuals of operations and their logics”, Journal Mathematical Physics, 14, 1472-1480.
+[206] Randall C.H. and Foulis, D.J., 1983, “A mathematical language for quantum physics”, in Les fondements de la mécanique quantique, C. Gruber, C. piron, T.M. Tâm and R. Weil (Eds), AVCP, Lausanne.
+[207] Randall, C.H. and Foulis, D.J., 1983, “Properties and operational propositions in quantum mechanics”, Foundations of Physics, 13, 843-857.
+[208] Reichenbach, H., 1975, “Three valued logic and the interpretation of quantum mechanics”, in The Logico-Algebraic Approach to Quantum Mechanics – Vol I, C.A. Hooker (Ed.), Reidel, Dordrecht.
+[209] Rédei, M., 1989, “Quantum conditional probabilities are not probabilities of quantum conditional”, Physics Letters, A 139, 287-290.
+[210] Rédei, M., 1998, Quantum Logic in Algebraic Approach, Kluwer Academic Publishers, Dordrecht.
+[211] Rédei, M., 1999, “ ‘Unsolved Problems of Mathematics’ J. von Neumann’s address to the International Congress of Mathematicians, Amsterdam, September 2-9, 1954”, The Mathematical Intelligencer, 21, 7-12.
+[212] Rédei, M., 2001, “Von Neumann’s concept of quantum logic and quantum probability”, in John von Neumann and the Foundations of Quantum Physics, M. Rédei and M. Stötzner (Eds.), pp. 153-172, Kluwer Academic Publishers, Dordrecht.
+[213] Rédei, M. and Summers, S.J., 2007, “Quantum probability theory”, Studies in the History and Philosophy of Modern Physics, 38, 390-417.
+[214] Sakurai, J. J. and Napolitano, J., 2010, Modern Quantum Mechanics, Addison-Wesley, London.
+[215] Smets, S., 2000, “In Defense of Operational Quantum Logic”, Logic and Logical Philosophy.
+[216] Smets, S., 2001, The Logic of Physical Properties in Static and Dynamic Perspective, Doctoral dissertation, Brussels Free University, Brussels.
+[217] Smets, S., 2005, “The Modes of Physical Properties in the Logical Foundations of Physics”, Logic and Logical Philosophy, 14, 37-53.
+[218] Smets, S., 2010, “Logic and quantum physics”, Journal of the Indian Council of Philosophical Research Spetial Issue XXVIII, N2.
+[219] Solèr, M.P., 1995, “Characterization of Hilbert spaces by orthomodular spaces”, Communcations in Algebra, 23, 219-243.
+[220] Svozil, K., 1998, Quantum Logic, Springer, Singapore.
+[221] Takeuti, G., 1978, Two Applications of Logic to Mathematics, Iwanami and Princeton University Press, Tokyo and Princeton.
+[222] Takeuti, G., 1981, “Quantum Set Theory”, in Current Issues in Quantum Logic, E. Beltrametti and B.C. van Frassen (Eds.), pp. 303-322, Plenum, New York.
+[223] Titani, S., 1999, “Lattice Valued Set Theory”, Archive for Mathematical Logic, 38, 395-421.
+[224] Van Fraassen, B.C., 1972, “A formal approach to the philosophy of science”, in Paradigms and Paradoxes: The Philosophical Challenge of the Quantum Domain, R. Colodny (Ed.), pp. 303-366, University of Pittsburgh Press, Pittsburgh.
+[225] Van Fraassen, B.C., 1973, “Semantic Analysis of Quantum Logic”, In Contemporary Research in the Foundations and Philosophy of Quantum Theory, C. A. Hooker (Ed.), pp. 80-113, Reidel, Dordrecht.
+[226] Van Fraassen, B.C., 1974, “The Einstein-Podolsky-Rosen paradox”, Synthese, 29, 291-309.
+[227] Van Fraassen, B.C., 1981, “A modal Interpretation of Quantum Mechanics”, in Current Issues in Quantum Logic, 229-258, E. G. Beltrametti and B. C. van Fraassen (Eds.), Plenum, New York.
+[228] Van Fraassen, B.C., 1991, Quantum Mechanics: An Empiricist View, Clarendon, Oxford.
+[229] Varadarajan, V.S., 1962, “Probability in Physics and a Theorem on Simultaneous Observability”, Communication of Pure and Applied Mathematics, XV, 189-217.
+[230] Varadarajan, V.S., 1985, Geometry of Quantum Theory, Springer, Berlin.
+[231] Verelst, K. and Coecke, B., 1999, “Early Greek Thought and Perspectives for the Interpretation of Quantum Mechanics: Preliminaries to an Ontological Approach”, in The Blue Book of Einstein Meets Magritte,  Gustaaf C. Cornelis, Sonja Smets, Jean-Paul van Bendegem (Eds.), pp. 163-196, Kluwer Academic Publishers, Dordrecht.
+[232] Vermaas, P.E., 1999, A Philosophers Understanding of Quantum Mechanics, Cambridge University Press, Cambridge.
+[233] Vermaas, P.E. and Dieks, D., 1995, “The Modal Interpretation of Quantum Mechanics and Its Generalization to Density Operators”, Foundations of Physics, 25, 145-158.
+[234] Von Neumann, J., 1996, Mathematical Foundations of Quantum Mechanics, Princeton University Press (12th. edition), Princeton.
+[235] Von Neumann, J., 1961, Collected Works Vol III: Rings of Operators, A. H. Taub (Ed.), Pergamon Press.
+[236] Von Weizsäcker, C. F., 1985, “Heisenberg’s Philosophy”, In Symposium on the Foundations of Modern Physics 1985, P. Lathi and P. Mittelslaedt (Eds.), pp. 277-293, World Scientific, Singapore.
+[237] Wilce, A., 1995, “Partial Abelian Semigroups”, International Journal of Theoretical Physics, 34, 1807-1812.
+[238] Wilce, A., 1998, “Perspectivity and Congruence in Partial Abelian Semigroups”, Mathematica Slovaca, 48, 117-135.
+[239] Zafiris, E. and Karakostas, V., 2013, “A categorial semantics representation of quantum events”, Foundations of Physics, 43, 1090-1123.
+Author Information
+C. de Ronde
+Email: cderonde@gmail.com
+University of Buenos Aires
+Argentina
+and
+G. Domenech
+Email: gradomenech@gmail.com
+Vrije Universiteit Brussel
+Belgium
+and
+H. Freytes
+Email: hfreytes@gmail.com
+Cagliari University
+Italy
+University of Rosario
+Argentina
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

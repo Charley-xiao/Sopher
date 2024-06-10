@@ -1,0 +1,407 @@
+
+
+
+
+
+
+
+
+
+Coherentism in Epistemology | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coherentism in Epistemology
+Coherentism is a theory of epistemic justification. It implies that for a belief to be justified it must belong to a coherent system of beliefs. For a system of beliefs to be coherent, the beliefs that make up that system must “cohere” with one another. Typically, this coherence is taken to involve three components: logical consistency, explanatory relations, and various inductive (non-explanatory) relations. Rival versions of coherentism spell out these relations in different ways. They also differ on the exact role of coherence in justifying beliefs: in some versions, coherence is necessary and sufficient for justification, but in others it is only necessary.
+This article reviews coherentism’s history beginning in the last quarter of the twentieth century, and it marks off coherentism from other theses. The regress argument is the dominant anti-coherentist argument, and it bears on whether coherentism or its chief rival, foundationalism, is correct. Several coherentist responses to this argument will be examined. A taxonomy of the many versions of coherentism is presented and followed by the main arguments for and against coherentism. After these arguments, which make up the main body of the article, a final section considers the future prospects of coherentism.
+Table of Contents
+
+Introduction 
+
+History 
+Describing Coherentism 
+
+
+The Regress Argument 
+
+The Argument 
+Coherentist Responses 
+
+
+Taxonomy of Coherentist Positions 
+
+What is it to Belong to a Belief System? 
+What is the Makeup of the Coherence Relation? 
+
+The Propositional Relation: Deductive Relations 
+The Propositional Relation: Inductive Relations 
+The Propositional Relation: Explanatory Relations 
+The Psychological Realization Condition 
+
+
+
+
+Arguments for Coherentism 
+
+For Sufficiency: The Argument from Increased Probability 
+For Necessity: Only Beliefs can Justify Other Beliefs 
+For Necessity: The Need for Justified Background Beliefs 
+For Necessity: The Need for Meta-Beliefs 
+
+
+Arguments Against Coherentism 
+
+Against Sufficiency: The Input and Isolation Arguments 
+Against Sufficiency: The Alternative Coherent Systems Argument 
+Against Necessity: Feasibility Problems 
+Against Necessity: The Preface Paradox 
+Against Necessity: Counterexamples 
+
+
+Looking Ahead 
+References and Further Reading 
+
+ 1. Introduction
+ a. History
+British Idealists such as F.H. Bradley (1846-1924) and Bernard Bosanquet (1848-1923) championed coherentism. So, too, did the philosophers of science Otto Neurath (1882-1945), Carl Hempel (1905-1997), and W.V. Quine (1908-2000). However, it is a group of contemporary epistemologists that has done the most to develop and defend coherentism: most notably Laurence BonJour in The Structure of Empirical Knowledge (1985) and Keith Lehrer in Knowledge (1974) and Theory of Knowledge (1990), but also Gilbert Harman, William Lycan, Nicholas Rescher, and Wilfrid Sellars. Despite this long list of names, coherentism is a minority position among epistemologists. It is probably only in moral epistemology that coherentism enjoys wide acceptance. Under the influence of a prominent interpretation of John Rawls’s model of wide reflective equilibrium, many moral philosophers have opted for a coherentist view of what justifies moral beliefs.
+ b. Describing Coherentism
+Epistemological coherentism (or simply “coherentism”) needs to be distinguished from several other theses. Because it is not a theory of truth, coherentism is not the coherence theory of truth. That theory says that a proposition is true just in case it coheres with a set of propositions. This theory of truth has fallen out of favor in large part because it is thought to be too permissive – an obviously false proposition such as I am a coffee cup coheres with this set of propositions: I am not a human, I am in the kitchen cupboard, I weigh 7 ounces. Even contemporary defenders of coherentism are usually quick to distance themselves from this theory of truth.
+Coherentism is also distinct from a thesis about concepts that sometimes goes under the name “concept holism.” Roughly, this thesis says that possessing a particular concept requires possessing a number of other concepts: for example, possessing the concept of assassination requires also having the concepts of killing and death. Concepts, according to the thesis of holism, do not come individually, but in packages. What is crucial here is that neither concept holism nor the coherence theory of truth say anything about the conditions under which a belief is justified.
+So exactly what does coherentism have to say regarding when our beliefs are justified? The strongest form of coherentism says that belonging to a coherent system of beliefs is
+
+necessary for a belief to be justified and
+by itself sufficient for a belief to be justified.
+
+This view—call it strong coherentism—can be contrasted with two weaker varieties of coherentism. Necessity coherentism just makes the necessity claim at (1). It imposes coherence as what is often called “a structural condition” on justification. Structural conditions just tell us how beliefs must be related to one another if they are to be justified. However, being related to one another in the required way may not suffice for justification, since there might be additional non-structural conditions on justified belief. A particularly lucid statement of necessity coherentism can be found in the 1992 paper by Kvanvig and Riggs. By contrast, strong coherentism can be thought of as denying that there are any non-structural conditions.
+When thinking about strong coherentism, it is important to appreciate the by itself qualification in (2). This qualification sets coherentism off from one of its most important rivals. The rival view is typically classified as non-coherentist, but it still gives coherence a supplemental role in justifying beliefs. This view claims that coherence can boost the justification of a belief as long as that belief is already independently justified in some way that is not due to coherence. On this sort of view, coherence is sufficient to boost beliefs that are independently justified. This, however, is not thought to be strong enough to deserve the “coherentist” label. To make coherence sufficient for justification in a way that deserves the label, one must claim that coherence is sufficient, by itself, to generate justification – in other words, coherence must generate justification from scratch. Call this sufficiency coherentism. Notice, also, that sufficiency coherentism allows other factors besides coherence to be sufficient for justification.
+Another role that non-coherentists sometimes give to coherence comes in a negative condition on epistemic justification. This condition says that incoherent beliefs fail to be justified. It might seem that on this view, coherence is necessary for justification. But this only follows if coherence and incoherence are contradictories. Below, we will see reasons to think that they are not contradictories, but instead contraries. This explains why a view that says that incoherence disqualifies beliefs from being justified is not classified as a coherentist view. More is required to get the claim that coherence is necessary for justification.
+There are real difficulties for circumscribing self-styled coherentists. Not every self-styled coherentist subscribes to either (1) or (2). For example, BonJour, in his 1985 book, held that meeting the coherence condition is not sufficient for justification, since he claimed that, in addition, justified beliefs must meet a distinctive internalist condition. Moreover, since BonJour also held (and still holds) that coherence is not necessary for the justification of a priori beliefs, strictly speaking he did not hold that coherence is necessary for epistemic justification either. Still his early view should be classified as coherentist, since he claimed that coherence is a necessary condition on a wide class of beliefs’ being justified, namely empirical beliefs.
+In what follows, each argument for coherentism will be classified according to whether it aims to show necessity coherentism, or sufficiency coherentism (this will also cover arguments for strong coherentism, since it is simply the conjunction of necessity coherentism and sufficiency coherentism). Similarly, each argument against coherentism will be classified according to whether it targets necessity coherentism, or sufficiency coherentism (since an argument that targets either of these views is also an argument against strong coherentism, this will cover arguments against strong coherentism). Following BonJour and much of the recent literature, the focus will be on our empirical beliefs and whether there is a coherence condition on the justification of these beliefs.
+One more preliminary point is in order. Since necessity coherentism just makes a claim about the structure that our justified beliefs must take, it is neutral on whether coherence must be introspectively accessible if it is to function as a justifier. In other words, it is neutral on the debate between epistemic internalism and epistemic externalism. So while the most important recent coherentists – namely Laurence BonJour (1985) and Keith Lehrer (1974 and 1990) – have also espoused epistemological internalism, this commitment is over and above that of structural coherentism. This makes their views incompatible with strong coherentism, since the internalist commitment is an additional condition over and above that of structural coherentism.
+ 2. The Regress Argument
+The Regress Argument goes back at least as far as Aristotle’s Prior Analytics, Book 1. Like many others, Aristotle takes it to support coherentism’s chief rival, foundationalism. The argument has two stages: one that identifies all of the candidate structural conditions; and one that rules against the coherentist candidate.
+ a. The Argument
+The argument opens with the claim that some of a person’s justified beliefs are justified because they derive their justification from other beliefs. For example, take my justified belief that tomorrow is Wednesday. That belief is justified by two other beliefs: my belief that today is Tuesday and my belief that Tuesday is immediately followed by Wednesday. But, if my belief that tomorrow is Wednesday derives its justification from these other beliefs, then my belief that tomorrow is Wednesday is justified only if these other beliefs are justified. Consider these other beliefs. One possibility is that they derive their justification from yet further beliefs, in which case they are dependent for their justification on those further beliefs – if it is, we can shift our attention to these further beliefs. The other possibility is that these beliefs are justified, but their justification does not derive from some other justified beliefs.
+Three options emerge. According to the foundationalist option, the series of beliefs terminates with special justified beliefs called “basic beliefs”: these beliefs do not owe their justification to any other beliefs from which they are inferred. According to the infinitist option, the series of relations wherein one belief derives its justification from one or more other beliefs goes on without either terminating or circling back on itself. According to one construal of the coherentist option, the series of beliefs does circle back on itself, so that it includes, once again, previous beliefs in the series.
+Standard presentations of the Regress Argument are used to establish foundationalism; to this end, they include further arguments against the infinitist and coherentist options. These arguments are the focus of the second stage. Let’s focus on the two most popular arguments against coherentism which figure into the Regress Argument; and let’s continue to construe coherentism as saying that beliefs are justified in virtue of forming a circle. The first argument makes a circularity charge. By opting for a closed loop, the charge is that coherentism certifies circular reasoning. A necessity coherentist will be charged with making circular reasoning necessary for justified belief. A sufficiency coherentist will be charged with making circular reasoning part of something (namely, coherence) that is sufficient for justified belief. But circular reasoning is an epistemic flaw, not an epistemic virtue. It is neither necessary, nor part of what is sufficient, for justified belief; in fact, it precludes justified belief.
+The second argument takes aim at the claim that coherence is necessary for justification. Since a belief is justified only if, through a chain of other beliefs, we ultimately return to the original belief, coherentism is committed, despite the initial appearance, to the claim that the original belief is justified, at least in part, by itself. This is supposed to follow from the coherentist corollary that if the chain of supporting beliefs did not eventually double back on the original belief, then the original belief would not be justified. But the claim that my belief that tomorrow is Wednesday is justified (even in part) by itself is mistaken – after all, it is derived, via inference, from other beliefs. Call this, the self-support charge.
+ b. Coherentist Responses
+Coherentists need not resist the first stage of the regress argument since that stage, recall, just generated the candidate views. Their responses focus on the second stage. That coherentism is the best of the three candidates is argued for in several ways: by highlighting shortcomings with infinitism and foundationalism, by giving positive arguments for coherentism (we will look at these later in Section 4), and by responding to objections against coherentism. Let’s continue with the two objections that have already been tabled, the circularity and self-support objections, and examine some coherentist responses to these objections.
+Some coherentists have responded to the circularity charge by suggesting that reasoning in a circle is not a problem as long as the circle is large enough. This suggestion has not found much favor. What is worrisome about circular reasoning, for example, that it is overly permissive since it allows one to easily construct reasons for any claim whatsoever, applies just as well to large circles of beliefs.
+According to a more instructive reply, the circularity charge and the self-support charge rest on a misconception about coherentism. Often coherentists point out that their view is that systems of beliefs are what is, in the first place, justified (or unjustified). Individual beliefs are not the items that are primarily justified (or unjustified). Put in this light, the whole approach of the regress argument is question begging. For notice the argument had us begin with an individual belief that was justified, though conditionally so. Then we went in search of what justifies that belief. This “linear” approach to justification led to the circularity and self-support charges. Coherentism, however, proposes a “holistic” view of justification. On this kind of view, the primary bearer of epistemic justification is a system of beliefs. Seen in this light, both charges seem to be question begging.
+Some have argued that the move to holistic justification fails to really answer the circularity and self-support charges. For even granting that it is a system of beliefs that is primarily justified, it is still true that a system of beliefs is justified in virtue of the fact that the individual beliefs that make up the system relate to one another in a circular fashion. And it is still true that a belief must support itself if it is to be justified, since this is needed if the relevant system of beliefs (and hence the individual belief) is to be justified. It is not so clear, then, that the reply which highlights the holistic nature of justification is successful.
+However, by conjoining the appeal to epistemic holism with another appeal, a coherentist might have a fully satisfactory reply. This second appeal identifies another misconception about coherentism that might lie behind the circularity charge and the self-support charge. This misconception has to do with the variety of ways in which our beliefs can support one another so that they come out justified. Coherentists are fond of metaphors like rafts, webs, and bricks in an arch. These things stay together because their parts support one another. Each part both supports, and is supported by, other specific parts. So too with justified beliefs: each is both supported by, and supports, other beliefs. This means that among support relations, there are symmetrical support relations: one belief can support a second (perhaps mediately through other beliefs), while the second also supports the first (again, perhaps, mediately). Beliefs that stand in sufficiently strong support relations to one another are coherent, and therefore justified.
+This contrasts with foundationalism’s trademark bifurcation of beliefs into basic beliefs and non-basic beliefs. Basic beliefs do the supporting; non-basic beliefs are what they support. According to foundationalists, there are no symmetrical support relations. This much is clear enough. The delicate issue that it raises is this: do the circularity and self-support charges rest on an assumption that beliefs cannot be justified in virtue of standing in symmetrical support relations to one another? If the charges require this assumption, then they might beg the question.
+Consider the circularity charge first. To simply assert that circular reasoning is epistemically defective and therefore cannot generate justified beliefs seems very close to simply asserting that beliefs cannot be justified in virtue of standing in symmetrical support relations. What the opponent of coherentism must do is tell us more precisely why circular reasoning is epistemically defective. While the considerations they call on might well imply that symmetrical support relations do not justify, they will be ineffective if they simply assume this.
+We are now in a position to see that the self-support charge is importantly different from the circularity charge. Where the circularity charge targets the coherentist claim that beliefs are justified by standing in support relations that are mediated by other beliefs but ultimately return to themselves, the self-support charge focuses on an alleged implication of this, namely that beliefs are therefore justified at least in part because they stand in support relations to themselves. In slogan form: reflexive relations justify.
+So what about the self-support charge? Does making this charge require assuming that symmetrical support relations cannot justify? We need to be careful. While the claim that the support relation is transitive and the claim that supporting relations link back to a previously linked belief implies that the relevant belief supports itself, coherentists are not thereby stuck with the claim that this belief is justified in virtue of supporting itself. Arguably, it is open to the coherentist to hold, instead, that this belief is justified in virtue of the circular structure of the support relations, while denying that it is justified in virtue of supporting itself. Still, this may not be enough, since the coherentist might still have to maintain that justified belief is compatible with self-support.
+ 3. Taxonomy of Coherentist Positions
+Recall that strong coherentism says S’s belief that p is justified if and only if it belongs, and coheres with, a system of S’s beliefs, and this system is coherent. Central to this formulation are three notions: the notion of a system of beliefs, the notion of belonging to a system of beliefs, and the notion of a coherent system of beliefs. Let’s look at these in order. As we will see, each can be spelled out in different ways. The result is that coherentism covers a wide variety of views.
+ a. What is it to Belong to a Belief System?
+What qualifies a set of beliefs as a system of beliefs? Partly, it is the number of beliefs that make it up. Minimally, a system of beliefs must consist in at least two beliefs. In a moment, we will see that two is probably not enough. The other extreme – that the size of the relevant system is one’s entire corpus of beliefs – must be rejected, on the grounds that any sufficiently strong incoherence would make all of one’s beliefs unjustified. This is implausible, since incoherence in one’s outlook on one topic, say set theory, should not affect the epistemic status of one’s outlook on an unconnected topic, say whether one is presently in pain. Between these two extremes lie a number of importantly different intermediate positions. There are a few general approaches to carving out distinct systems of beliefs in a belief corpus. Let’s look at four.
+One way of individuating systems of beliefs is by reference to their subject-matters. For example, your beliefs about mathematical matters might form one system of beliefs, while your beliefs about tonight’s dinner might form another. Alternatively, systems of beliefs might be individuated by the sources that produced them: visual beliefs might form one system, auditory beliefs another, memorial beliefs another, and so forth. The third possibility involves individuating systems phenomenologically. Beliefs themselves, or perhaps key episodes that come with acquiring them, might have phenomenological markers. If these markers stand in similarity relations to one another, this would lead to grouping beliefs into distinct systems. A final possibility, perhaps the most plausible one, involves individuating systems of beliefs according to whether the beliefs that belong to a particular system stand in some dependency relations of a psychological sort to one another – for example, a psychological relation like that involved in inference. We will return to this fourth possibility below.
+Let’s turn to the second notion, that of belonging to a system of beliefs. According to straightforward accounts of this notion, for a belief to belong to a system of beliefs, it must relate to the beliefs that make up that system in just the same way that the beliefs relate to one another if they are to constitute a system of beliefs. This will involve one of the four possibilities that were just surveyed.
+ b. What is the Makeup of the Coherence Relation?
+Coherence relations can hold among a set of beliefs that constitute a system. Arguably, coherence relations can also hold between systems of beliefs. On the simplest view, the latter occurs when the individual beliefs that are members of the respective systems cohere with one another across systems. As a result, the beliefs belonging to the respective systems gain in justification. Here, I will focus on the easier case in which a set of beliefs constitute a single coherent system of beliefs.
+A coherent system of beliefs has two basic marks. First, the beliefs have to have propositional contents which relate to one another in some specified way. Call this the propositional relation. Additionally, it is plausible to think that the relevant beliefs must be related to one another in one’s psychology in some way, for example by being inferred from one another. Let’s look at the specifics, starting with the propositional relation.
+ i. The Propositional Relation: Deductive Relations
+We need to consider two relations from deductive logic: logical consistency and mutual derivability. At a minimum, coherence requires logical consistency. So a set of belief contents, p1, …. pn, is coherent only if p1, …. pn neither includes, nor logically entails, a contradiction. Logical consistency is far from sufficient, though, since a set of beliefs in a scattered array of propositions can be logically consistent without being justified. Consider, for example, my belief that Joan is sitting, my belief that 2+2=4, and my belief that tomorrow is Wednesday. While these beliefs are logically consistent with one another, more needs to be in place if they are to be justified.
+This last set of beliefs illustrates another important point. While coherentists will claim that this set of beliefs does not exhibit coherence, it is at the same time implausible to claim that this set is incoherent. It is not incoherent, since no one of the beliefs is in direct conflict with, that is, contradicts, any of the others. It follows that coherence and incoherence are contraries, not contradictories. If a set of beliefs is coherent, then it is not incoherent; if a set of beliefs is incoherent, then it is not coherent; but as this last case illustrates, there are sets of beliefs that fail to be coherent, but are not incoherent either. The fact that coherence and incoherence are contraries explains the earlier point about why deeming incoherent beliefs unjustified is not enough to make one a coherentist. Just because a theory disqualifies incoherent beliefs from being justified, it is not thereby committed to holding that coherence is necessary for justification.
+Consider, next, mutual derivability. Though it is plausible that logical consistency is necessary for coherence, it is too much to require that each believed proposition entail each of the other believed propositions in the system. In fact, it is even too much to require that each believed proposition entail at least one of the other believed propositions. To see why these requirements are too strong, consider these four beliefs: the belief that Moe is wincing, the belief that Moe is squealing, the belief that Moe is yelling “that hurts”, and the belief that Moe is in pain. None of these beliefs logically implies any of the others. Nor does the conjunction of any three of them imply the fourth. Despite the lack of entailments, though, the beliefs together seem to constitute a system of beliefs that is intuitively quite coherent. So coherence can be earned by relations weaker than entailment.
+ ii. The Propositional Relation: Inductive Relations
+Many coherentists have required, in addition to logical consistency, probabilistic consistency. So if one believes that p is 0.9 likely to be true, then one would be required to believe that not-p is 0.1 likely to be true. Here probability assignments appear in the content of what is believed. Alternatively, a theory of probability might generate consistency constraints by imposing constraints on the degrees of confidence with which we believe things. So take a person who believes p, but is not fully confident that p is correct; she believes p to a degree of 0.9. Here 0.9 is not part of the content of what she believes; it measures her confidence in believing p. Consistency might then require that she believe not-p to a degree of 0.1. In one of these two ways, the axioms of probability might help set coherence constraints.
+Besides being probabilistically consistent with one another, coherent beliefs gain in justification from being inferred from one another in conformity with the canons of cogent inductive reasoning. Foundationalists, at least moderate foundationalists, have just as much at stake in the project of identifying these canons. It is common to identify distinct branches of inductive reasoning, each with their own respective canons: for example, inference to the best explanation, enumerative induction, and various forms of statistical reasoning. For present purposes, what is crucial in all of this is that beliefs inferred from one another in conformity with the identified canons (whatever the exact canons are) boost coherence, and therefore justification.
+ iii. The Propositional Relation: Explanatory Relations
+To supplement the requirements of logical, and probabilistic, consistency, coherentists often introduce explanatory relations. This allows them to concur that the system consisting in the beliefs that Moe is wincing, Moe is squealing, and Moe is yelling “that hurts” coheres with the belief that Moe is in pain. In addition, it allows us to disqualify the set consisting in my beliefs that Joan is sitting, 2+2=4, and tomorrow is Wednesday on the grounds that these propositions do not in any way explain one another.
+There are two ways that a proposition can be involved in an explanatory relation: as being what is explained, or as being what does the explaining. These are not exclusive. The fact there are toxic fumes in the room is explained by the fact that the cap is off the bottle of toxic liquid. The fact that there are toxic fumes in the room, in turn, explains the fact that I am feeling sick. So I might believe that I am feeling sick, draw an explanatory inference and believe that there must be toxic fumes in the air, and then from that belief draw a second explanatory inference and believe that the cap must be off the bottle. In this case, that there are toxic fumes in the air serves to both explain why I am sick and in turn serves as the explanatory basis for the cap being off the bottle. Often what drives coherentists to think that a coherent set of beliefs must consist in more than two beliefs is that the needed explanatory richness requires more than two beliefs.
+Disagreement enters when coherentists say exactly what makes one thing a good explanation of another. Among the determinants of good explanation are predictive power, simplicity, fit with other claims that one is justified in believing, and fecundity in answering questions. The nature and relative weight of these, and other, determinants is quite controversial. At this level of detail, coherentists, even so-called explanationists who stress the central played by explanatory considerations, frequently diverge.
+Not all coherentists include explanatory relations among the determinants of coherence. See Lehrer (1990) for example. Those that do include them usually give one of two kinds of accounts for why believed propositions that do a good job of explaining one another increase coherence and hence boost justification. One kind of account claims that when beliefs do this, they make each other more likely to be true. On this kind of account, explanatory relations are construed as ultimately being inductive probabilifying relations. On an alterative account, explanatory relations are irreducible ingredients of coherence, ingredients that are simply obvious parts of what contributes to coherence.
+ iv. The Psychological Realization Condition
+It is not enough that the contents of a person’s beliefs happen to cohere with one another. Another condition is needed. In the cognizer’s mind, these beliefs must stand in some relation to one another. This extra condition might be incorporated into an account of a belief system. Let’s consider another way of incorporating the condition. Suppose some coherentist elects to individuate belief systems by the subject-matter of the belief contents. Such a coherentist might then introduce a distinct psychological realization condition, one that figures into an account of the coherence relation rather than into an account of a system of beliefs. If the beliefs in some system are to cohere with one another, they must interact with one another – for example, by being inferred from one another.
+On the inferential approach a belief coheres with the rest of the beliefs in some system of beliefs only if it stands in one of two inferential relations to beliefs in that system of beliefs: it might be inferred from one, or more, beliefs in the system; or, it might be a belief from which one, or more, beliefs in the system have been inferred.
+But inference is just one option. Arguably, another option would be to impose a counterfactual condition. Roughly, this kind of condition says that a belief coheres with other beliefs in the system to which it belongs only if the following counterfactual conditional claim is true: if the rest of the system were markedly different, in some specified way, then the person would not hold that belief.
+ 4. Arguments for Coherentism
+Let’s now survey some of the main arguments for, and against, coherentism. This section reviews four arguments for coherentism. The first attempts to show that coherence is sufficient for justification. Three more attempt to show that it is necessary.
+ a. For Sufficiency: The Argument from Increased Probability
+In An Analysis of Knowledge and Valuation, C.I. Lewis (1883-1964) introduced a case that has been widely discussed. A number of witnesses report the same thing about some event – for example, that Nancy was at last night’s party. However, the witnesses are unreliable about this sort of thing. Moreover, their reports are made completely independently of one another – in other words, the report of any one witness was in no way influenced by the report of any of the other witnesses. According to Lewis, the “congruence of the reports establishes a high probability of what they agree upon.” (p. 246) The point is meant to generalize: whenever a number of unreliable sources operate independently of one another, and they converge with the same finding, this boosts the probability that that finding is correct. This is so regardless of whether the sources are individual testifiers, various sensory modalities, or any combination of sources. Items that individually are quite unreliable and would not justify belief, when taken together under conditions of independent operation and convergence, produce justified beliefs.
+This argument has been charged with several shortcomings. For one, it is not clear that the argument, even if sound, establishes coherentism. The argument appears to rest on an inference to the best explanation, one that can be construed along foundationalist lines. So, for each source, S1 . . . Sn, I am justified in believing S1 reports p, S2 reports p . . . Sn reports p. According to foundationalists, these beliefs are justified without being inferred from any other beliefs; they are basic beliefs. Then, inferring to the best explanation, I come to believe p. This belief-that-p is a non-basic belief, but since it rests on basic beliefs, the overall picture is a foundationalist one, not a coherentist one.
+Second, even on standard coherence views, it is not clear that the reports-that-p cohere with one another. Logical coherence, both in the sense of logical consistency and in the sense of mutual derivability, is in place; but the explanatory relations that coherentists so often emphasize are not.
+Third, it is controversial whether the argument is cogent. One issue here concerns whether each source, taken individually, provides justification for believing p. If each independently confers some justification, then one of coherentism’s rivals – namely, a version of foundationalism which says that coherence can boost overall justification, but cannot generate justification from scratch – can agree. On the other hand, if each source fails on its own to confer any justification whatsoever, then the question remains: does this kind of case show that coherence can create justification from scratch? If the argument is to establish that coherence is by itself sufficient to generate justification, we need to take each individual source as, on its own, providing no justification whatsoever for believing p. Recently Bayesian proofs have been offered to show that the convergence of such sources does not increase the probability of p (see Huemer 1997 and Olson 2005). Their convergence would have been just as likely had p been false.
+ b. For Necessity: Only Beliefs can Justify Other Beliefs
+The next coherentist argument traces to work by Wilfrid Sellars (1973) and Donald Davidson (1986). Often this argument is put forth as an anti-foundationalist argument. However, if successful, it establishes the stronger positive claim of necessity coherentism. According to this argument, only beliefs are suited to justify beliefs. As Davidson puts it, “nothing can count as a reason for holding a belief except another belief” (1986, p.126). Consider the obvious alternative – what justifies our empirical beliefs about the external world are perceptual states. But perceptual states are either states that have propositions as their objects, or they don’t. If they have propositions as their objects, then we need to be aware of these propositions in the sense that we need to believe these propositions in order for the initial belief to be justified. But it is these further beliefs that are really doing the justifying. On the other hand, if they do not have propositions as objects, then, no logical relations can hold between their objects and the propositional contents of the beliefs that they are supposed to justify. That seems to leave perceptual states standing in only causal relations to the relevant empirical beliefs. But, Davidson claims, the mere fact that a belief is caused by a perceptual state implies nothing about whether that belief is justified.
+Foundationalists have replied in a number of ways. First, suppose perceptual states do not take propositions as their objects. It is not clear why there needs to be a logical relation between the objects of perceptual states, and the contents of the beliefs that they are supposed to justify. Non-perceptual states can figure into statements of conditional probability, so that on their obtaining, a given belief is likely to be true to some degree or other. Alternatively, they can bear explanatory relations to the beliefs that they are alleged to justify. Second, suppose the relevant perceptual states do take propositions as their objects. It is not at all obvious that one needs to be aware of them for them to justify, though perhaps one does need to be aware of them if one is to show that one’s belief is justified. Here, the coherentist argument is often charged with conflating the notion of a justified belief with the notion of being in a position to show that one’s belief is justified.
+ c. For Necessity: The Need for Justified Background Beliefs
+Coherentists sometimes argue in the following way. First, they invoke a prosaic justified belief about the external world – say my present belief that there is a computer in front of me. Then they claim that this belief is justified only if I am justified in believing that the lighting is normal, that my eyes are functioning properly, that no tricks are being played on me, and so forth. For if I am not justified in making these assumptions, then my belief that there is a computer in front of me would not be justified. Generalizing, the claim is that our beliefs about the external world are justified only if some set of justified background beliefs is in place.
+This argument has also been challenged. The key claim–that my belief that there is a computer in front of me is justified only if I am justified in believing these other things–is not obvious. A young child, for example, might believe there is a computer in front of her, and this belief might be justified, even though she is not yet justified in believing anything about the lighting, her visual processes, and so forth. If this is correct, then the most the argument can show is that if someone has a justified belief that there is a computer in front of them and if they believe that the lighting is normal, that their eyes are functioning well, and so forth, then these latter beliefs had better be justified. This, however, is consistent with foundationalism. Moreover, some epistemologists argue that the psychological realization condition might not be met. For it is implausible to think that I infer that there is a computer in front of me from one or more of my beliefs about the lighting, my eyes, and absence of tricksters. Nor do I infer any of these latter beliefs from my belief that there is a computer in front of me. Maybe this non-content requirement will do instead: my computer belief is counterfactually dependent on my beliefs about the lighting, my eyes, and so forth, so that if I did not have any of the latter beliefs, then I would not have the computer belief either. This is far from obvious, though. Perhaps, in the imagined counterfactual situation, my state is like the child’s. So even a relation of counterfactual dependence might not be needed.
+ d. For Necessity: The Need for Meta-Beliefs
+There is another argument that begins from a prosaic justified belief about the external world. Consider, again, my empirically justified belief that there is a computer in front of me. For this belief to be justified, I must possess some reason for holding it. But to possess a reason is to believe that reason. Since the reason presumably needs to be a good one, I must believe it in such a way that my belief in that reason is a justified belief. This yields a second justified belief. This second justified belief can then be subjected to the same argument, an argument that will yield some third justified belief. And so on.
+Foundationalists have charged that this argument is psychologically unrealistic. Surely, having a justified belief that there is a computer in front of me does not require having an infinite number of justified beliefs. Coherentists have a good reason to avoid being committed to this kind of result: it is much more psychologically realistic to posit coherent systems of beliefs that are finite. If this is right, the argument is best thought of as a reductio ad absurdum of one, or more, of the claims that lead to the result – either the claim that justified belief requires possessing a reason, the claim that possessing a reason requires believing that reason, or the claim that possessing a reason requires believing it with justification.
+Moreover, this argument does not clearly support coherentism. Instead, it seems to support infinitism. Plus, the demand that it makes is a demand for linear justification: my computer belief relies for its justification on my having a second justified belief; in turn, this second justified belief relies for its justification on my having some third justified belief. These dependency relations are asymmetric one-way relations, the hallmark of linear justification, not coherence justification.
+ 5. Arguments Against Coherentism
+This section takes up five arguments against coherentism. These are in addition to the circularity and self-support charges that that were discussed earlier.
+ a. Against Sufficiency: The Input and Isolation Arguments
+One argument against sufficiency coherentism says that it fails to recognize the indispensable role that experience plays in justifying our beliefs about the external world. That sufficiency coherentism gives no essential role to experience follows from the fact that the states that suffice to justify our beliefs are, on this view, limited to other beliefs. That this is grounds for rejecting sufficiency coherentism is spelled out in several different ways. One way appeals to a lack of connection to the truth: since the view does not give any essential role to the central source of input from the external world, namely experience, there is no reason to expect a coherent system of beliefs to accurately reflect the external world. This line of attack is often referred to as the isolation objection. Alternatively, an opponent of sufficiency coherentism might not appeal to truth-conductivity. Instead, she might simply claim that it is implausible to deny that part of what justifies my present belief that there is a computer in front of me is the nature of my present visual and tactile experiences. So even if my experience is not reflective of the truth, perhaps because I am a deceived brain-in-a-vat, my perceptual beliefs will be justified only if they suitably fit with what my perceptual states are reporting.
+Of course, proponents of necessity coherentism are free to impose other necessary conditions on justified belief, conditions that can include things about experience. But what about proponents of sufficiency coherentism? How can they respond? Let’s look at three ways. The first is from Laurence BonJour (1985, chapters 6 and 7). BonJour identifies a class of beliefs that he calls cognitively spontaneous beliefs. Roughly, these are non-inferential beliefs that arise in us in a non-voluntary way. A subset of these beliefs can be justified from within one’s system of beliefs by appeal to two other beliefs: the belief that these first-order beliefs occur spontaneously, plus the belief that first-order spontaneous beliefs of a specific kind (a kind individuated by its characteristic subject matter, or by its “apparent mode of sensory production”) tend to be true. According to BonJour, invoking cognitively spontaneous beliefs in this way explains how experience can make a difference to the justificatory status of our beliefs – experiences do this via their being reflected in a subset of our beliefs. BonJour contends that in addition a coherentist must give an account of how experiences must make a difference to the justification of some of our beliefs. Here, he introduces the Observation Requirement: roughly, any system of beliefs that contains empirically justified beliefs must include the belief that a significant likelihood of truth attaches to a reasonable variety of cognitively spontaneous beliefs.
+Alternatively, Keith Lehrer (see chapter 6 of his 1990 book) calls on the fact that a human’s typical body of beliefs is going to include beliefs about the conditions under which she reliably forms beliefs. Lehrer points out that this belief is either true or false. If it is true, then in tandem with beliefs about the conditions under which one formed some beliefs, plus the beliefs themselves, the truth of the beliefs, and their being justified, follows. On the other hand, if a belief about the conditions under which one reliably forms beliefs is false, then the justification for the relevant belief is defeated (this entails that one fails to know, though the belief still enjoys what Lehrer calls “personal justification”).
+Third, a coherentist might challenge the assumption that experiences and beliefs are distinct. On some views of perceptual states (for example, the view that Armstrong defends in chapter 10 of his 1968 book), perceptual states, or at least a significant class of perceptual states, involve, and entail, believing. On these views, when one of the relevant perceptual states supplies input from the external world, one’s corpus of beliefs is provided with input from the external world. The viability of this response turns on the case for thinking that perceiving is believing.
+ b. Against Sufficiency: The Alternative Coherent Systems Argument
+A second argument against sufficiency coherentism connects in some ways with the last argument. According to this second argument, for each system of coherent beliefs, there are multiple alternative systems – alternative because they include beliefs with different, logically incompatible, contents – that are just as coherent. However, if there are plenty of highly, equally coherent, but incompatible, systems, and if few of these systems do an adequate job of faithfully representing reality, then coherentism is not a good indicator of truth. Since this line of reasoning is readily knowable, beliefs that coherently fit together are not, at least by virtue of their coherence alone, justified.
+The exact number of alternative systems that are equally coherent depends on the exact details of what constitutes coherence. But like most of the standard arguments for, and against, coherentism, the soundness of this argument is not thought to turn on these details. Nor is it clear that coherentists can reply by denying the view of epistemic justification invoked in the argument. Even if one were to deny the externalist thesis which says that the mark of justified beliefs is that they are likely to be true, in some objective non-epistemic sense of “likely,” epistemic internalism might not provide refuge. For BonJour, Lehrer, and other internalists, beliefs that are not likely, in the same externalist sense, to be true can be justified: for example, my belief that there is a computer in front of me would be justified even if I were a lifelong deceived brain-in-a-vat. But it is not clear that it is reasonable, by internalist lights, to hold a coherent system of beliefs just because they are coherent, while it is reasonable to believe that there are plenty of alternative equally coherent, but incompatible, belief systems. So, this objection might go through whether one weds coherentism to epistemic externalism or internalism.
+A sufficiency coherentist might try to respond to this argument in the same way that she responds to the input problem. She might claim, for example, that a sufficient bulk of a person’s beliefs are cognitively spontaneous beliefs. Since these beliefs are involuntarily acquired, they will constrain the number, and nature, of alternative equally coherent systems that one could have. Alternatively, a large bulk of our beliefs will be firmly in place if perceiving is believing.
+ c. Against Necessity: Feasibility Problems
+Let’s turn to some arguments against necessity coherentism. It is highly plausible that humans have plenty of justified beliefs. So, if justification requires coherence, it must be psychologically realistic to think that each of us has coherent systems of beliefs. How psychologically realistic is this?
+Again, the answer depends, in part, on the make up of the coherence relation. As we saw, coherence at a minimum requires logical consistency. Christopher Cherniak (see Cherniak 1984) considers using a truth-table to determine whether a system of 138 beliefs is logically consistent. If one were so quick that one could check each line of the truth table for this long conjunction in the time it takes a light ray to traverse the diameter of a proton, it would still take more than twenty billion years to work through the entire table. Since 138 beliefs is hardly an inordinate number of beliefs for a system to have, it appears that coherence cannot be checked for in any humanly feasible way.
+While this sort of consideration might pose a problem for a position that couples coherentism with internalism (as BonJour and Lehrer do), coherentism itself does not require a person to verify that it is logically consistent. It does not even require that a person be able to verify this. It just requires that the system in fact be logically consistent. Still, there might be problems in the neighborhood. One is that Cherniak’s point might well imply that we do not form, or sustain, our beliefs in virtue of their coherence, since any cognitive mechanism that could do this would need to be much more powerful than any mechanisms we have. Second, it is highly plausible to think that we are often in a position to show that our beliefs are justified; but Cherniak’s point suggests that if coherentism were right, this would often be beyond our abilities.
+ d. Against Necessity: The Preface Paradox
+Another argument questions whether logical inconsistency, an obvious mark of incoherence, really entails a lack of justification. Imagine an historian who has just completed her lifelong book project. She has double and triple checked each claim that she makes in the book, and each has checked out. For each of the claims she makes, c1, ….. cn, she has a justified belief that it is true: she has the justified belief that c1 is true, the justified belief that c2 is true, … , and the justified belief that cn is true. At the same time, she is fully aware of the fact that historians make mistakes. In all likelihood, her book contains at least one mistake. For this reason, she is justified in believing that at least one of the claims that she makes in her book is false. But this yields a set of beliefs that is not logically consistent, since it includes the belief that c1 is true, the belief that c2 is true, … , the belief that cn is true, and the belief that at least one of c1 through cn is false. Some epistemologists, for example, Foley 1992, have argued that the historian is justified in believing this set of logically inconsistent claims. And, all of these beliefs remain justified even if she knows they are logically inconsistent.
+In response, the coherentist might appropriate any of a number of views on this Preface Paradox. For example, John Pollock (1986) has suggested a simple reason for thinking that the historian’s beliefs cannot be both logically inconsistent and justified. Since a set of inconsistent propositions logically implies anything whatsoever, adding a widely accepted principle concerning justification will yield the result that one can be justified in believing anything whatsoever. The principle is the closure principle: roughly, it says that if one is justified in believing some set of propositions and one is justified in believing that those propositions logically imply some other proposition, then upon deducing this other proposition from the set that one starts from, one is justified in believing that proposition.
+A second set of cases involve beliefs that are logically inconsistent, although this is unknown to the person who holds them. For example, while Frege had good reason to believe that the axioms of arithmetic that he came up with were consistent, Russell showed that in fact they were not consistent. It is quite plausible that Frege’s beliefs in each of the axioms were, though logically inconsistent, nonetheless justified (see Kornblith 1989). BonJour (1989) responded to this case, as well as the Preface Paradox, by agreeing that both Frege’s, and the historian’s beliefs, are justified. He claimed that logical consistency is overrated; it is, in fact, not an essential component of coherence.
+ e. Against Necessity: Counterexamples
+There appear to be straightforward counterexamples to coherentism. Introspective beliefs constitute an important class of such cases. On a broad interpretation of “empirical” that encompasses sources of belief in addition to the sensory modalities (one that contrasts with the a priori), introspective beliefs count as empirical. Consider, then, my introspective belief that I am in pain, or my introspective belief that something looks red to me. These beliefs are not inferred from any other beliefs – I did not arrive at either of them by inference from premises. They are not based on any other beliefs.
+In response, Lehrer (1990, p. 89) has suggested that a coherentist might identify one, or more, background beliefs, and claim that, though the introspective belief is not inferred from these background belief, the introspective belief is justified because it coheres with the background beliefs. For example, to handle the introspective belief that something looks red to me, Lehrer points to the background belief that if I believe something looks red to me then, unless something untoward is going on, the best explanation is that there is something that does look red to me.
+It is not clear that this response works. Let R be the proposition that something looks red to me. Lehrer’s suggestion requires that coherence holds between (i) R and (ii) if I believe R, then R. It is not clear, though, that coherence does hold between these. Though they are logically consistent, neither entails the other; moreover, they need not be inductively related to one another; nor is it clear that either explains the other.
+ 6. Looking Ahead
+Intense discussion of coherentism has been intermittent. Two recent defenses of the position, Laurence BonJour’s 1985 The Structure of Empirical Knowledge and Keith Lehrer’s 1990 version of Knowledge, significantly advanced the issues and triggered substantial literatures, which mostly attacked coherentism. But undoubtedly, work on coherentism has suffered from the fact that so few philosophers are coherentists. Even BonJour, who did so much to reinvigorate the discussion, has abandoned coherentism. See his 1999 paper for his renunciation. With the exception of work being done by Bayesians, few epistemologists are presently working on coherentism.
+Epistemology would be better off if this were not so. For even if coherentism falls to some objection, it would be nice if we had a better idea of exactly what range of positions fall. Moreover, when it comes to the task of clarifying the nature of coherence, an appeal can be made to many foundationalists. While there might not be much motivation to develop a position that one rejects, there is this: many foundationalists want to incorporate considerations about coherence. As we saw, they usually do this in one of two ways, either by allowing coherence to boost the level of justification enjoyed by beliefs that are independently justified in some non-coherentist fashion, or by stamping incoherent beliefs as unjustified. Defending these conditions on justification requires clarifying the nature of coherence. So, it is not just coherentists that have a stake in clarifying coherence.
+ 7. References and Further Reading
+
+Akiba, Ken. (2000) “Shogenji’s Probabilistic Measure of Coherence is Incoherent.” Analysis 60: 356-359.
+Aristotle. (1989) Posteriori Analytics. Trans. Robin Smith. Indianapolis, IN: Hackett Publishing Company.
+Armstrong, David. (1968) A Materialist Theory of the Mind. New York: Routledge.
+Audi, Robert. (1993) The Structure of Justification. New York: Cambridge University Press.
+Aune, Bruce. (1967) Knowledge, Mind, and Nature. New York: Random House.
+Blanshard, Brand. (1939) The Nature of Thought. New York: G. Allen and Unwin Ltd.
+BonJour, Laurence. (1985) The Structure of Empirical Knowledge. Cambridge, MA: Harvard University Press.
+BonJour, Laurence. (1989) “Replies and Clarificiations.” In John Bender, ed., The Current State of the Coherence Theory. Dordrecht: Kluwer.
+BonJour, Laurence. (1999) “The Dialectic of Foundationalism and Coherentism.” In John Greco and Ernest Sosa, eds., The Blackwell Guide to Epistemology. Malden, MA: Blackwell.
+Cherniak, Christopher. (1984) “Computational Complexity and the Universal Acceptance of Logic.” Journal of Philosophy 81: 739-758.
+Chisholm, Roderick. (1982) The Foundations of Knowing. Minneapolis, MN: University of Minnesota Press.
+Chisholm, Roderick (1989) Theory of Knowledge 3rd edition. Englewood Cliffs, CA: Prentice Hall.
+Cross, Charles. (1999) “Coherence and Truth Conducive Justification.” Analysis 59: 186-193.
+Daniels, Norman. (1996) Justice and Justification: Reflective Equilibrium in Theory and Practice. Cambridge, MA: Cambridge University Press.
+Davidson, Donald. (1986) “A Coherence Theory of Truth and Knowledge.” In Ernest LePore, ed., Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson. New York: Blackwell.
+Earman, John. (1992) Bayes or Bust? Cambridge, MA: MIT Press.
+Elgin, Catherine. (2005) “Non-foundationalist Epistemology: Holism, Coherence, and Tenability.” In Matthias Steup and Ernest Sosa, eds., Contemporary Debates in Epistemology. Malden, MA: Blackwell.
+Foley, Richard. (1978) “Inferential Justification and the Infinite Regress.” American Philosophical Quarterly 15: 311-316.
+Foley, Richard. (1987) The Theory of Epistemic Rationality. Cambridge, MA: Harvard University Press.
+Foley, Richard. (1992) “Being Knowingly Incoherent.” Nous 26: 181-203.
+Goldman, Alan. (1988) Empirical Knowledge. Berkeley, CA: University of California Press.
+Goodman, Nelson. (1951) The Structure of Appearance. Cambridge, MA: Harvard University Press.
+Haack, Susan. (1993) Evidence and Inquiry. Cambridge, MA: Blackwell.
+Hansson, S.O. and Erik Olsson (1999) “Providing Foundations for Coherentism.” Erkenntnis 51: 243-265.
+Harman, Gilbert. (1973) Thought. Princeton, NJ: Princeton University Press.
+Harman, Gilbert. (1986) Change in View. Cambridge, MA: MIT Press.
+Horwich, Paul. (1982) Probability and Evidence. New York: Cambridge University Press.
+Huemer, Michael. (1997) “Probability and Coherence Justification.” Southern Journal of Philosophy 35: 463-472.
+Jeffrey, Richard. (1983) The Logic of Decision 2nd edition. Chicago: University of Chicago Press.
+Klein, Peter. (1985) “The Virtues of Inconsistency.” The Monist 68: 105-135.
+Klein, Peter. (1999) “Human Knowledge and the Infinite Regress of Reasons.” Philosophical Perspectives 13: 297-325.
+Klein, Peter and Ted Warfield. (1994) “What Price Coherence?” Analysis 54: 129-132.
+Klein, Peter and Ted Warfield. (1996) “No Help for the Coherentist.” Analysis 56: 118-121.
+Kornblith, Hilary. (1989). “The Unattainability of Coherence.” In John Bender, ed., The Current State of the Coherence Theory. Dordrecht: Kluwer.
+Kvanvig, Jonathan. (1995) “Coherentists’ Distractions.” Philosophical Topics 23: 257-75.
+Kvanvig, Jonathan. (2003) “Coherentist Theories of Epistemic Justification, Stanford Encyclopedia of Philosophy.
+Kvanvig, Jonathan. (2003) The Value of Knowledge and the Pursuit of Understanding. New York: Cambridge University Press.
+Kvanvig, Jonathan and Wayne Riggs. (1992) “Can a Coherence Theory Appeal to Appearance States?” Philosophical Studies 67: 197-217.
+Lehrer, Keith. (1974) Knowledge. New York: Oxford University Press.
+Lehrer, Keith. (1997) “Justification, Coherence, and Knowledge.” Erkenntnis 50: 243-257.
+Lehrer, Keith. (1990) Theory of Knowledge. Boulder, CO: Westview Press.
+Lewis, C.I. (1946) An Analysis of Knowledge and Valuation. LaSalle, IL: Open Court.
+Lycan, William. (1988) Judgment and Justification. New York: Cambridge University Press.
+Lycan, William. (1996) “Plantinga and Coherentisms.” In Jonathan Kvanvig, ed., Warrant in Contemporary Epistemology. Totowa, N.J.: Rowman and Littlefield.
+Makinson, David. (1965) “The Paradox of the Preface.” Analysis 25: 205-207.
+Merricks, Trenton. (1995) “On Behalf of the Coherentist.” Analysis 55: 306-309.
+Olsson, Erik. (1999) “Cohering With.” Erkenntnis 50: 273-291.
+Olsson, Erik. (2001) “Why Coherence is not Truth-Conducive.” Analysis 61: 236-241.
+Olsson, Erik. (2002) “What is the Problem of Coherence and Truth?” Journal of Philosophy 99: 246-272.
+Olsson, Erik. (2005) Against Coherence: Truth, Probability, and Justification. New York: Oxford University Press.
+Plantinga, Alvin. (1993) Warrant: The Current Debate. New York: Oxford University Press.
+Pollock, John. (1979) “A Plethora of Epistemological Theories.” In George Pappas ed., Justification and Knowledge. Dordrecht: Kluwer.
+Pollock, John. (1986) “The Paradox of the Preface.” Philosophy of Science 53: 246-258.
+Pollock, John. (1986) Contemporary Theories of Knowledge. Totowa, N.J.: Rowman and Littlefield.
+Post, John. (1980) “Infinite Regresses of Justification and Explanation.” Philosophical Studies 38: 31-52.
+Pryor, James. (2005) “There Is Immediate Justification.” In Matthias Steup and Ernest Sosa eds., Contemporary Debates in Epistemology. Malden, MA: Blackwell.
+Quine, W. and J. Ullian. (1970) The Web of Belief. New York: Random House.
+Ramsey, F.P. (1931) “Truth and Probability.” In R.B. Braithwaite, ed., The Foundations of Mathematics and Other Logical Essays. London: Routledge & Keegan Paul.
+Rawls, John. (1971) A Theory of Justice. Boston, MA: Harvard University Press.
+Rescher, Nicholas. (1973) The Coherence Theory of Truth. Oxford: Oxford University Press.
+Sellars, Wilfrid. (1963) Science, Perception and Reality. New York: Humanities Press.
+Sellars, Wilfrid. (1973) “Givenness and Explanatory Coherence.” Journal of Philosophy 70: 612-624.
+Shogenji, Tomoji. (1999) “Is Coherence Truth-Conducive?” Analysis 59: 338-345.
+Shogenji, Tomoji. (2001) “Reply to Akiba on the Probabilistic Measure of Coherence.” Analysis 61: 147-150.
+Shogenji, Tomoji. (2005) “Justification by Coherence from Scratch.” Philosophical Studies 125: 305-325.
+Sosa, Ernest. (1991) Knowledge in Perspective: Essays in Epistemology. New York: Cambridge University Press.
+Swain, Marshell. (1989) “BonJour’s Coherence Theory of Justification.” In John Bender, ed., The Current State of the Coherence Theory. Dordrecht: Kluwer.
+Thagard, Paul. (2000) Coherence in Thought and Action. Cambridge, MA: MIT Press.
+Van Cleve, James. (2005) “Why Coherence Is Not Enough: A Defense of Moderate Foundationalism.” In Mathias Steup and Ernest Sosa, eds., Contemporary Debates in Epistemology. Malden, MA: Blackwell.
+van Fraassen, Bas. (1989) Laws and Symmetry. New York: Oxford University Press.
+
+Author Information
+Peter Murphy
+Email: pjmurphy469@yahoo.com
+University of Indianapolis
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

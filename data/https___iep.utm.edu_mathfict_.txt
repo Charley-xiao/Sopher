@@ -1,0 +1,323 @@
+
+
+
+
+
+
+
+
+
+Fictionalism in the Philosophy of Mathematics | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fictionalism in the Philosophy of Mathematics 
+The distinctive character of fictionalism about any discourse is (a) recognition of some valuable purpose to that discourse, and (b) the claim that that purpose can be served even if sentences uttered in the context of that discourse are not literally true. Regarding (b), if the discourse in question involves mathematics, either pure or applied, the core of the mathematical fictionalist’s view about such discourse is that the purpose of engaging in that discourse can be served even if the mathematical utterances one makes in the context of that discourse are not true (or, in the case of negative existentials such as ‘There are no square prime numbers’, are only trivially true).
+Regarding (a), in developing mathematical fictionalism, then, mathematical fictionalists must add to this core view at the very least an account of the value of mathematical inquiry and an explanation of why this value can be expected to be served if we do not assume the literal or face-value truth of mathematics.
+The label ‘fictionalism’ suggests a comparison of mathematics with literary fiction, and although the fictionalist may wish to draw only the minimal comparison that both mathematics and fiction can be good without being true, fictionalists may also wish to develop this analogy in further dimensions, for example by drawing on discussions of the semantics of fiction, or on how fiction can represent. Before turning to these issues, though, this article considers what the literal truth of a sentence uttered in the context of mathematical inquiry would amount to, so as to understand the position that fictionalists wish to reject.
+Table of Contents
+
+Face-value Semantics, Platonism, and its Competitors
+The Fictionalist’s Attitude: Acceptance without Belief
+Preface or Prefix Fictionalism?
+Mathematical Fictionalism and Empirical Theorizing
+
+Mathematical Fictionalism + Scientific Realism
+Mathematical Fictionalism + Nominalistic Scientific Realism
+Mathematical Fictionalism + Constructive Empiricism  (Bueno)
+
+
+Hermeneutic or Revolutionary Fictionalism
+References and Further Reading
+
+1.  Face-value Semantics, Platonism, and its Competitors
+In the context of quite ordinary mathematical theorizing we find ourselves uttering sentences whose literal or ‘face-value’ truth would seem to require the existence of mathematical objects such as numbers, functions, or sets.  Thus: ‘2 is an even number’ appears to be of subject-predicate form, with the singular term ‘2’ purporting to stand for an object which is said to have the property of being an even number.  ‘The empty set has no members’ uses a definite description, and at least since Russell presented his theory of definite descriptions it has standardly been assumed that the truth of such sentences requires, at a minimum, the existence and uniqueness of something satisfying the indefinite descriptive phrase ‘is an empty set’.  Most stark, though, is the use of the existential quantifier in the sentences used to express our mathematical theories.  Euclid proved a theorem whose content we would express by means of the sentence ‘There are infinitely many prime numbers’.  One would have to make some very fancy manoeuvres indeed to construe this sentence as requiring anything less than the existence of numbers – infinitely many of them. (For an argument against the ‘ontologically committing’ reading of ‘there is’, see Jody Azzouni (2004: 67), according to which ‘there is’ in English functions as an ‘ontologically neutral anaphora’.  Azzouni’s position on ontological commitments is discussed helpfully in Joseph Melia’s (2005) online review of Azzouni’s book.  For the remainder of this article, though, we will assume, contrary to Azzouni’s position, that the literal truth of sentences of the form ‘there are Fs’ requires the existence of Fs.)
+Similar points about the ‘face-value’ commitments of our ordinary utterances can be made if we move outside of the context of pure mathematics to sentences uttered in the context of ordinary day-to-day reasoning, or in the context of empirical science.  As Hilary Putnam (1971) famously pointed out, in stating the laws of our scientific theories we make use of sentences that, at face value, are dripping with commitments to mathematical objects.  Thus, Newton’s law of universal gravitation says that, between any two massive objects a and b there is a force whose magnitude F is directly proportional to the product of the masses ma and mb of those objects and inversely proportional to the square of the distance d between them (F = Gmamb/d2).  Unpacking this statement a little bit we see that it requires that, corresponding to any massive object o there is a real number mo representing its mass as a multiple of some unit of mass; corresponding to any distance between two objects there is a real number d representing that distance as a multiple of some unit of distance; and corresponding to any force there is a real number F representing the magnitude of that force as a multiple of some unit of force.  So, conjoined with the familiar truth that there are massive objects, the literal truth of Newton’s law requires not only that there be forces acting on these objects, and distances separating them, but that there be real numbers corresponding appropriately to masses, forces, and distances, and related in such a way that F = Gmamb/d2.  So Newton’s law taken literally requires the existence of real numbers and of correspondences of objects with real numbers (i.e., functions).
+These examples show that, on a literal or face-value reading, some of the sentences used to express our mathematical and scientific theories imply the existence of mathematical objects.  The theories that are expressed by means of such sentences are thus said to be ontologically committed to mathematical objects.  Furthermore, if we interpret these sentences at face value, and if we endorse those sentences when so interpreted (accepting them as expressing truths on that face value interpretation), then it seems that we too, by our acceptance of the truth of such sentences, are committed to an ontology that includes such things as numbers, functions, and sets.
+Mathematical realists standardly endorse a face-value reading of those sentences used to express our mathematical and scientific theories, and accept that such sentences so interpreted express truths.  They therefore commit themselves to accepting the existence of mathematical objects.  In inquiring into the nature of the objects to which they are thereby committed, mathematical platonists typically go on to state that the objects to which they are committed are abstract, where this is understood negatively to mean, at a minimum, non-spatiotemporal, acausal, and mind-independent.  But many philosophers are wary of accepting the existence of objects of this sort, not least because (as Benacerraf  (1973) points out) their negative characterization renders it difficult, if not impossible, to account for our ability to have knowledge of such things.  And even without such specific epistemological worries, general ‘Ockhamist’ tendencies warn that we should be wary of accepting the existence of abstract mathematical objects unless the assumption that there are such things proves to be unavoidable.  For many philosophers then, fictionalists included, mathematical platonism presents itself as a last resort – a view to be adopted only if no viable alternative that does not require belief in the existence of abstract mathematical objects presents itself.
+What, then, are the alternatives to platonism?  One might reject the face-value interpretation of mathematical sentences, holding that these sentences are true, but that their truth does not (despite surface appearances) require the existence of mathematical objects.  Defenders of such an alternative must provide a method for reinterpreting those sentences of mathematical and empirical discourse that appear to imply the existence of abstract mathematical objects so that, when so-interpreted, these implications disappear.  Alternatively, one might accept the face-value semantics, but reject the truth of the sentences used to express our mathematical theories.  Assuming that it is an advantage of standard platonism that it provides a standard semantics for the sentences used to express our mathematical theories, and that it preserves our intuition that many of these sentences assert truths, each of these options preserves one advantage at the expense of another.  A final alternative is to reject both the face-value interpretation of mathematical sentences and to reject the truth of mathematical sentences once reinterpreted.  This apparently more drastic response is behind at least one position in the philosophy of mathematics that reasonably calls itself fictionalist (Hoffman (2004), building on Kitcher (1984); Hoffman’s claim is that ordinary mathematical utterances are best interpreted as making claims about the collecting and segregating abilities of a (fictional) ideal mathematician.   These claims are not literally true, since the ideal mathematician does not really exist, but there is a standard for correctness for such claims, given by the ‘story’ provided of the ideal agent and his abilities).  However, the label ‘fictionalism’ in the philosophy of mathematics is generally used to pick out positions of the second kind, and that convention will be adhered to in what follows.  That is, according to mathematical fictionalists, sentences of mathematical and mathematically-infused empirical discourse should be interpreted at face value as implying the existence of mathematical objects, but we should not accept that such sentences so-interpreted express truths.  As such, mathematical fictionalism is an error theory with respect to ordinary mathematical and empirical discourse.
+2.  The Fictionalist’s Attitude: Acceptance without Belief
+At a minimum, then, mathematical fictionalists accept a face-value reading of sentences uttered in the context of mathematical and ordinary empirical theorizing, but when those sentences are, on that reading, committed to the existence of mathematical objects, mathematical fictionalists do not accept those sentences to be true.   Some fictionalists, e.g., Field (1989, 45) will go further than this and say that we ought to reject such sentences as false, taking it to be undue epistemic caution to maintain agnosticism rather than rejecting the existence of mathematical objects once it is recognized that we have no reason to believe that there are such things.  Whether one follows Field in rejecting the existence of mathematical objects will depend on one’s motivation for fictionalism.  A broadly naturalist motivation, according to which we should accept the existence of all and only those objects whose existence is confirmed according to our best scientific standards, would seem to counsel disbelief.  On the other hand, fictionalists who reach that position from a starting point of constructive empiricism will take the agnosticism about the unobservable endorsed by that position to apply also in the mathematical case.  Either way, though, fictionalists will agree that one ought not accept the truth of sentences that, on a literal reading, are committed to the existence of mathematical objects.
+But simply refusing to accept the truth of sentences of a discourse does not amount to fictionalism with respect to that discourse: one may, for example, refuse to accept the truth-at-face-value of sentences uttered by homeopaths in the context of their discourse concerning homeopathic medicine, but doing so would be indicative of a healthy scepticism rather than a fictionalist approach to the claims of homeopathy.  What is distinctive about fictionalism is that fictionalists place some value on mathematical theorizing: they think that there is some valuable purpose to engaging in discourse apparently about numbers, functions, sets, and so on, and that that purpose is not lost if we do not think that the utterances of our discourse express truths.
+Mathematical fictionalists, while refusing to accept the truth of mathematics, do not reject mathematical discourse.  They do not want mathematicians to stop doing mathematics, or empirical scientists to stop doing mathematically-infused empirical science. Rather, they advocate taking an attitude sometimes called acceptance to the utterances of ordinary mathematical discourse.  That is, they advocate making full use of those utterances in one’s theorizing without holding those utterances to be true (an attitude aptly described by Chris Daly (2008, 426) as exploitation). It is, therefore, rather misleading that the locus classicus of mathematical fictionalism is entitled Science without Numbers.  As we will see below, much of Field’s efforts in Science without Numbers are focussed on explaining why scientists can carry on exploiting the mathematically-infused theories they have always used, without committing themselves to the truth of the mathematics assumed by those theories.
+The reasonableness of an attitude of acceptance or exploitation rather than belief will depend on the mathematical fictionalist’s analysis of the purpose of mathematical theorizing: what advantages are gained by speaking as if mathematical sentences are true, and are these advantages ones that we can reasonably expect to remain if the sentences of mathematical discourse are not in fact true?  But even prior to consideration of this question, it has been questioned (e.g., by Horwich (1991), and O’Leary-Hawthorne (1994)) whether adopting the proposed attitude of mere acceptance without belief is even possible, given that, plausibly, one’s belief states are indicated by one’s propensities to behave in a particular way, and fictionalists advocate behaving ‘as if’ they are believers, when engaging in a discourse they purport to accept. (These objections are aimed at Bas van Fraassen’s constructive empiricism (van Fraassen 1980), but apply equally well to fictionalists who do not believe our standard mathematical and scientific theories but similarly wish to continue to immerse themselves in ordinary mathematical and scientific activity, despite their reservations.)  Daly (2008) responds to this objection on the fictionalist’s behalf.
+3.  Preface or Prefix Fictionalism?
+Mathematical fictionalists choose to speak ‘as if’ there are numbers, even though they do not believe that there are such things.  How should we understand their ‘disavowal’?  As David Lewis (2005: 315) points out, “There are prefixes or prefaces (explicit or implicit) that rob all that comes after of assertoric force.  They disown or cancel what follows, no matter what that may be.”, and we might imagine mathematical fictionalists as implicitly employing a prefix or preface that stops them from asserting, when doing mathematics, what they readily deny as metaphysicians.  The difference between a prefix and a preface is that “When the assertoric force of what follows is cancelled by a prefix, straightaway some other assertion takes place… Not so for prefaces.”  (ibid. 315)  Thus, preceding the sentence ‘Holmes lived at 221B Baker Street)’ with the prefix ‘According to the Sherlock Holmes stories…’ produces another sentence with assertoric force, whose force is not disowned.  On the other hand, preceding that very same sentence with the preface ‘Let’s make believe the Holmes stories are true, though they aren’t.’ one is not making a further assertion, but rather indicating that one is stepping back from the business of making assertions.
+When mathematical fictionalists speak ‘as if’ there are numbers, can we, then, read them as implicitly employing a disowning prefix or preface?  When they utter the sentence ‘There are infinitely many prime numbers’, should we ‘hear’ them as really having begun under their breath with the prefix ‘According to standard mathematics…’, or as having prefaced their utterance with a mumbled: ‘Let’s make believe that the claims of standard mathematics are true, though they aren’t’?  Either reading is possible, but a prefix fictionalism would make the mathematical fictionalist’s insistence on a standard semantics for ordinary mathematical utterances rather less distinctive.  The claim that we have no reason to believe that ordinary mathematical utterances taken at face-value are true, but that the addition of an appropriate prefix transforms them into true claims may be correct, but does not sufficiently distinguish fictionalism so-construed from those reinterpretive anti-Platonist views that simply hold that that ordinary mathematical sentences should be given a non-standard semantics according to which they assert truths.  For example, Geoffrey Hellman’s modal structuralism holds that a mathematical sentence S uttered in the context of a mathematical theory T should be read as essentially ‘saying’: ‘T is consistent and it follows from the axioms of T that S’ (or, in other words, ‘According to (the consistent axioms of) a standard mathematical theory, S’, which is the result of applying a plausible fictionalist prefix to S).  Whether or not one reads this prefix into the semantics of mathematical claims or advocates a standard semantics but places all the value of ‘speaking as if’ there are mathematical objects on the possibility of construing one’s utterances as so-prefixed is arguably a matter of taste.
+To take seriously the mathematical fictionalist’s insistence on a standard semantics, then, it is perhaps better to view mathematical fictionalists as implicitly or explicitly preceding their mathematical utterances with a disavowing preface which excuses them from the business of making assertions when they utter sentences whose literal truth would require the existence of mathematical objects.  But this, of course, raises the question of what they think they are doing when they engage, as fictionalists, in mathematical theorizing (both in the context of pure mathematics and in the context of empirical science). Pure mathematics does not present a major difficulty here – fictionalists may, for example, view the purpose of speaking as if the assumptions of our mathematical theories as true to be to enable us easily to consider what follows from those assumptions.  Pure mathematical inquiry can then be considered as speculative inquiry into what would be true if our mathematical assumptions were true, without concern about the question of whether those assumptions are in fact true, and it is perfectly reasonable to carry out such inquiry as one would a conditional proof, taking mathematical axioms as undischarged assumptions.  But in the context of empirical science this answer is not enough.  In empirical scientific theorizing we require that at least some of our theoretical utterances (minimally, those that report or predict observations) to be true, and part of the purpose of engaging in empirical scientific theorizing is to justify our unconditional assertion of the empirical consequences of our theories.  Despite the mathematical fictionalist’s disavowing preface, insulating them from the business of making assertions when they utter mathematical sentences in the context of their empirical theorizing, they are not, and would not want to be, entirely excused from the business of assertion.  The most pressing problem for mathematical fictionalists is to explain why they are licensed to endorse the truth of some, and only some, utterances made in the context of ordinary, mathematically-infused, empirical theorizing.
+4.  Mathematical Fictionalism and Empirical Theorizing
+As we have already noted, our ordinary empirical theorizing is mathematical through and through.  We use mathematics in stating the laws of our scientific theories, in describing and organising the data to which those theories are applied, and in drawing out the consequences of our theoretical assumptions.  If we believe that the mathematical assumptions utilized by those theories are true, and also believe any non-mathematical assumptions we make use of, then we have no difficulty justifying our belief in any empirical consequences we validly derive from those assumptions: if the premises of our arguments are true then the truth of the conclusions we derive will be guaranteed as a matter of logic.  On the other hand, though, if we do not believe the mathematical premises in our empirical arguments, what reason have we to believe their conclusions?
+Different versions of mathematical fictionalism take different approaches to answer this question, depending on how realist they wish to be about our scientific theories.  In particular, mathematical fictionalism can be combined with scientific realism (Hartry Field); with ‘nominalistic scientific realism’, or entity realism (Mark Balaguer, Mary Leng); and with constructive empiricism (Otávio Bueno).  We will consider these combinations separately.
+a. Mathematical Fictionalism + Scientific Realism
+I will here reserve the label ‘scientific realism’ for the Putnam-Boyd formulation of the view.  In Putnam’s words (1975: 73), scientific realists in this sense hold “that terms typically refer… that the theories accepted in mature science are typically approximately true, [and] that the same terms can refer to the same even when they occur in different theories”.  It is the first two parts of Putnam’s tripartite characterization that are particularly problematic for mathematical fictionalists, the first suggesting a standard semantics and the second a commitment to the truth of scientific theories.  If our mature scientific theories include, as Putnam himself contends that they do, statements whose (approximate) truth would require the existence of mathematical objects, then the combination of scientific realism with mathematical fictionalism seems impossible.
+If one accepts scientific realism so-formulated, then what prospects are there for mathematical fictionalism?  The only room for manoeuvre comes with the notion of a mature scientific theory.  Certainly, in formulating the claims of our ordinary scientific theories we make use of sentences whose literal truth would require the existence of mathematical objects.  But we also make use of sentences whose literal truth would require the existence of ideal objects such as point masses or continuous fluids, and we generally do not take our use of such sentences to commit us to the existence of such objects.  Quine’s view is that, in our best, most careful expressions of mature scientific theories, sentences making apparent commitments to such objects will disappear in favour of literally true alternatives that carry with them no such commitments.  That is, we are not committed to point masses or continuous fluids because these theoretical fictions can be dispensed with in our best formulation of these mature theories.  Hartry Field, who wishes to combine scientific realism with mathematical fictionalism, thinks that the same can be said for the mathematical objects to which our ordinary scientific theories appear to be committed: in our best expressions of those theories, sentences whose literal truth would require the existence of such objects can be dispensed with.
+Hence, the so-called ‘indispensability argument’ for mathematical platonism, and Field’s scientific realist response to this argument:
+P1 (Scientific Realism): We ought to believe that the sentences used to express our best (mature) scientific theories, when taken at face value, are true or approximately true.
+P2 (Indispensability):  Sentences whose literal truth would require the existence of mathematical objects are indispensable to our best formulations of our best scientific theories.
+Therefore:
+ 
+C (Mathematical Platonism): We ought to believe in the existence of mathematical objects.
+(For an alternative formulation of the argument, and defence, see Colyvan (2001).)  In his defence of mathematical fictionalism, Field rejects P2, arguing that we can dispense with commitments to mathematical objects in our best formulations of our scientific theories.  In Science without Numbers (1980) Field makes the case for the dispensability of mathematics in Newtonian science, sketching how to formulate the claims of Newtonian gravitational theory without quantifying over mathematical objects.
+But Field is a fictionalist about mathematics, not a mere skeptic about mathematically-stated theories.  That is, Field thinks that there is some value to speaking ‘as if’ there are mathematical objects, even though he does not accept that there really are such things.  The claim that we can dispense with mathematics in formulating the laws of our best scientific theories is, therefore, only the beginning of the story for Field: he also wishes to explain why it is safe for us to use our ordinary mathematical formulations of our scientific theories in our day-to-day theorizing about the world.
+Field’s answer to this question is that our ordinary (mathematically-stated) scientific theories are conservative extensions of the literally true non-mathematical theories that we come to once we dispense with mathematics in our theoretical formulations.  A mathematically-stated empirical theory P is a conservative extension of a nominalistically stated theory N just in case any nominalistically stated consequence A of P is also a consequence of the nominalistic theory N.  Or, put another way, suppose we have an ordinary (mathematically-expressed, and therefore platonistic) scientific theory P and a nominalistically acceptable reformulation of that theory, N.  The nominalistically acceptable reformulation will aim to preserve P’s picture of the nonmathematical realm while avoiding positing the existence of any mathematical objects.  If this reformulation is successful, then every nonmathematical fact about the nonmathematical realm implied by P will also be implied by N.  In fact, typically, P will be identical to N + S: the combination of the nominalistic theory N with a mathematical theory S, such as set theory with nonmathematical urelements, that allows one to combine mathematical and nonmathematical vocabulary, e.g., by allowing nonmathematical vocabulary to figure in its comprehension schema.  In the case of Newtonian gravitational theory, Field makes the case for having found the appropriate theory N by sketching a proof of a ‘representation theorem’ which links up nonmathematical laws of N with laws of P that, against the backdrop of N + S, are materially equivalent to the nonmathematical laws.
+Why, if we have a pair of such theories, N and P, does this give us license to believe the nonmathematical consequences of P, a theory whose truth we do not accept?  Simply because those consequences are already consequences of the preferred nominalistic theory N, which as scientific realists we take to be true or approximately true.  Our confidence in the truth of the nonmathematical consequences we draw from our mathematically stated scientific theories piggy backs on our confidence in the truth of the nonmathematical theories those theories conservatively extend.
+But why, we may ask, should we bother with the mathematically-infused versions of our scientific theories if these theories simply extend our literally believed nominalistic theories by adding a body of falsehoods?  Field’s answer is that mathematics is an incredibly useful, practically (and sometimes even theoretically) indispensable tool that enables us to draw out the consequences of our nominalistic theories.  Nominalistically stated theories are unwieldy, and arguments from nominalistically stated premises to nominalistically stated conclusions, even when available, can be difficult to find and impractically long to write down.   With the help of mathematics, though, such problems can become tractable.  If we want to draw out the consequences of a body of nominalistically stated claims, we can use a ‘representation theorem’ to enable us to ascend to their platonistically stated counterparts, give a quick mathematical argument to some platonistically stated conclusions, then descend, again via the representation theorem, to nominalistic counterparts of those conclusions.  In short, following Carl G. Hempel’s image, mathematics has the function of a ‘theoretical juice extractor’ when applied to the nominalistic theory N:
+Thus, in the establishment of empirical knowledge, mathematics (as well as logic) has, so to speak, the function of a theoretical juice extractor: the techniques of mathematical and logical theory can produce no more juice of factual information than is contained in the assumptions to which they are applied; but they may produce a great deal more juice of this kind than might have been anticipated upon a first intuitive inspection of those assumptions which form the raw material for the extractor. — C. G. Hempel (1945): 391
+Extracting the consequences of our nominalistically stated theories ‘by hand’ is extremely time consuming (so much so as to make this procedure humanly impracticable without mathematics, as Ketland (2005) has pointed out).  Furthermore, if our nominalistic theories employ second-order logic in their formulation, some of these consequences can only be extracted with the help of mathematics (as noted by Field (1980: 115n. 30; 1985), Urquhart (1990: 151), and discussed in detail by Shapiro (1983)).  Nevertheless, despite being practically and even potentially theoretically indispensable in extracting the juice of factual information from our nominalistically stated theories, the indispensability of mathematics in this sense does not conflict with Field’s rejection of P2 of the indispensability argument as we have presented it, which requires only that we can state the assumptions of our best scientific theories in nonmathematical terms, not that we dispense with all uses of mathematics, for example in drawing out the consequences of those assumptions.
+Field’s defense of fictionalism, though admirable, has its problems.  There are concerns both about Field’s dispensability claim and his conservativeness claim.  On the latter point, Shapiro objects that if our nominalistic scientific theories employ second-order logic, then the fact that mathematics is indispensable in drawing out some of the (semantic) consequences of those theories speaks against Field’s claim to have dispensed with mathematics.  As we have noted, indispensability in this sense does not affect Field’s ability to reject P2 of the original indispensability argument.  However, it does suggest a further indispensability argument that questions our license to use mathematics in drawing inferences if we do not believe that mathematics to be true.  Michael D. Resnik (1995: 169-70) expresses an argument of this form in his ‘Pragmatic Indispensability Argument’ as follows:
+
+In stating its laws and conducting its derivations science assumes the existence of many mathematical objects and the truth of much mathematics.
+These assumptions are indispensable to the pursuit of science; moreover, many of the important conclusions drawn from and within science could not be drawn without taking mathematical claims to be true.
+So we are justified in drawing conclusions from and within science only if we are justified in taking the mathematics used in science to be true.
+
+Even if Field can dispense with mathematics in stating the laws of our scientific theories, the focus this argument places on the indispensability of mathematics in derivations, i.e., in drawing out the consequences of our scientific theories, presents a new challenge to Field’s program.
+If we stick with second-order formulations of our nominalistic theories, then premise 2 of this argument is right in claiming that mathematics is indispensable to drawing out some of the consequences of these theories (in the sense that, for any consistent such theory and any sound derivation system for such a theory there will be semantic consequences of those theories that are not derivable within those theories relative to that derivation system).  But does the use of mathematics in uncovering the consequences of our theories require belief in the truth of the mathematics used?  Arguably, our reliance on, e.g., model theory in working out what follows from our nominalistic assumptions requires only that we believe in the consistency of our set theoretic models, not in the actual existence of those sets, so perhaps this form of the indispensability argument (based on the indispensability of mathematics in metalogic rather than in empirical science) can be responded to without dispensing with mathematics in such cases.  (See, e.g., Field (1984); Leng (2007).)
+Field (1985: 255), though, has expressed some concerns about the second-order version of Newtonian gravitational theory developed in Science without Numbers.  Aside from the worry about the need to rely on set theory to discover the consequences of our second-order theories, there are more general concerns about the nominalistic acceptability of second-order quantification (with Quine (1970: 66), most famously, complaining that second-order logic is simply ‘set theory in sheep’s clothing’).  While there are various defences of the nominalistic cogency of second order logic available, Field’s own considered view is that second-order quantification is best avoided by nominalists.  This, however, rather complicates the account of applications given in Science without Numbers, since Field can no longer claim that our ordinary (mathematically stated) scientific theories conservatively extend their nominalistically stated counterparts.  In the equation above, what we can say is that for a first-order nominalistic theory N, and a mathematical theory S such as set theory with nonmathematical urelements, N+ S will be a conservative extension of N.  But for our ordinary mathematically stated scientific theory P, we will not be able to find an N such that N + S = P.  In fact, P will in general have ‘greater’ nominalistic content than any proposed counterpart first-order theory N does, by virtue of ruling out some ‘non-standard’ models that N will allow (effectively, because P will imply the existence in spacetime of a standard model for the natural numbers, whereas N will always admit of non-standard models).  We thus do not have the neat representation theorems that allow us to move from claims of N to equivalent claims of P that the machinery of Field’s ‘theoretical juice extractor’ requires.  As Field (2005) concedes, at best we can have partial representation theorems that allow for some match between our mathematical and nonmathematical claims, without straightforward equivalence.
+Setting aside the logical machinery required by Field’s account of applications, there are also concerns about the prospects for finding genuinely nominalistic alternatives to our current scientific theories.  Field’s sketched nominalization of Newtonian gravitational theory is meant to show the way for further nominalizations of contemporary theories.  But even if Field has succeeded in making the case for there being a genuinely nominalistic alternative to standard Newtonian science (something that has been questioned by those who are concerned about Field’s postulation of the existence of spacetime points with a structure isomorphic to the 4-dimensional real space R4), many have remained pessimistic about the prospect for extending Field’s technique to further theories, for various reasons.  As Alasdair Urquhart (1990) points out, Newtonian science is very convenient in that, since it assumes that spacetime has the structure of R4, it becomes easy to find claims about relations between spacetime points that correspond to mathematical claims expressed in terms of real numbers.  But contemporary science takes spacetime to have non-constant curvature, and with the lack of an isomorphism between spacetime and R4, the prospects for finding suitable representation theorems to match mathematical claims with claims expressed solely in terms of qualitative relations between spacetime points are less clear.  Furthermore, as David Malament (1982) notes, Newtonian science is likewise convenient in that its laws primarily concern spacetime points and their properties (the mass concentrated at a point, the distance between points, etc.).  But many of our best scientific theories (such as classical Hamiltonian mechanics or quantum mechanics) are standardly expressed as phase space theories, with their laws expressing relations between the possible states of a physical system.  An analogous approach to that of Science without Numbers would dispense with mathematical expressions of these relations in favour of nonmathematical expressions of the same – but this would still leave us with an ontology of possibilia, something that would presumably be at least as problematic as an ontology of abstract mathematical objects.  As Malament (1982: 533) points out, ‘Even a generous nominalist like Field cannot feel entitled to quantify over possible dynamical states.’  And finally, as Malament further notes, the case of quantum mechanics presents even more problems, since, as well as being a phase space theory, the Hilbert space formulation represents the quantum mechanical state of a physical system as an assignment of probabilities to measurement events.  What is given a mathematical measure is a proposition or eventuality (the proposition that ‘A measurement of observable A yields a value within the set Δ’ is assigned a probability’).  But if propositions are the basic ‘objects’ whose properties are represented by the mathematical theory of Hilbert spaces, then applying an analogous approach to that of Science without Numbers would still throw up nominalistically unacceptable commitments.  For, Malament (1982: 534) asks, ‘What could be worse than propositions or eventualities’ for a nominalist such as Field?
+These objections, while not conclusive, make clear just how much hard work remains for a full defense of Field’s dispensability claim.  It is not enough to rely on the sketch provided by Science without Numbers: mathematical fictionalists who wish to remain scientific realists in the Putnam-Boyd sense must show how they plan to dispense with mathematics in those cases where the analogy with Newtonian science breaks down (at a minimum, explaining how to deal with spacetime of non-constant curvature, phase space theories, and the probabilistic properties of quantum mechanics).  Mark Balaguer (1996) attempts the third of these challenges, arguing that we can dispense with quantum events just as long as we assume that there are physically real propensity properties of physical systems, an assumption that he claims to be ‘compatible with all interpretations of quantum mechanics except for hidden variables interpretations’ (Balaguer 1996, p. 217).  But there clearly remains much to be done to show that mathematical assumptions can be dispensed with in favour of nominalistically acceptable alternatives.
+b. Mathematical Fictionalism + Nominalistic Scientific Realism
+Despair about the prospects of completing Field’s project, as well as attention to the explanation of the applicability of mathematics that Field provides, has led some fictionalists (who, with a nod to Colyvan, I will label ‘Easy Road’ fictionalists), to wonder whether there isn’t an easier way to defend their position against the challenge of explaining why it is appropriate to trust the predictions of our mathematically-stated scientific theories if we do not believe those theories to be true.  Look again at Field’s explanation of the applicability of mathematics.  Field’s claim is, effectively, that our mathematically stated theories are predictively successful because they have a true ‘nominalistic’ core (as expressed, for theories for which we have dispensed with mathematics, by the claims of a nominalistic theory N).  What accounts for the trustworthiness of those theories is not that they are true (in their mathematical and nonmathematical parts), but that they are correct in the picture they paint of the nonmathematical realm.  Easy Road fictionalists then ask, doesn’t this explanation of the predictive success of a false theory undermine the case for scientific realism as on the Putnam/Boyd formulation?
+Realists typically claim that we have to believe that our scientific theories are true or approximately true, otherwise their predictive success would be miraculous (thus, according to Putnam (1975: 73), realism ‘is the only philosophy that doesn’t make the success of science a miracle’).  But Field’s explanation of the predictive success of ordinary (mathematically stated) Newtonian science shows how that success does not depend on the truth or approximate truth of that theory, only on its having a true ‘nominalistic content’ (as expressed in the nominalistic version of the theory).  Mightn’t we use this as evidence against taking the predictive success of even those theories for which we do not have a neat nominalistic alternative to be indicative of their truth?  Perhaps those, too, may be successful not because they are true in all their parts, but simply because they are correct in the picture they paint of the nonmathematical world?  The contribution mathematical assumptions might be making to our theoretical success would then not depend on the truth of those assumptions, but merely on their ability to enable us to represent systems of nonmathematical objects.  Mathematics provides us with an extremely rich language to describe such systems; maybe it is even indispensable to this purpose.  But if all that the mathematics is doing in our scientific theories is enabling us to form theoretically amenable descriptions of physical systems, then why take the indispensable presence of mathematical assumptions used for this purpose as indicative of their truth?
+Thus, Mark Balaguer (1998: 131) suggests that fictionalists should not be scientific realists in the Putnam-Boyd sense, but should instead adopt ‘Nominalistic Scientific Realism’:
+the view that the nominalistic content of empirical science—that is, what empirical science entails about the physical world—is true (or mostly true—there may be some mistakes scattered through it), while its platonistic content—that is, what it entails “about” an abstract mathematical realm—is fictional.
+This view depends on holding that there is a nominalistic content to our empirical theories (even if this content cannot be expressed in nominalistic terms), and that it is reasonable to believe just this content (believing that, as we might say, our empirical theories are nominalistically adequate, not that they are true).    Similar claims (about the value of our mathematically stated scientific theories residing in their accurate nominalistic content rather than in their truth) can be found in the work of Joseph Melia (2000), Stephen Yablo (2005) and Mary Leng (2010), though of these only Leng explicitly endorses fictionalism. Difficulties arise in characterising exactly what is meant by the nominalistic content of an empirical theory (or the claim that such a theory is nominalistically adequate).  Yablo compares the nominalistic content of a mathematical utterance with the ‘metaphorical content’ of figurative speech, and as with metaphorical content, it is perhaps easier to make a case for our mathematically stated empirical theories having such content than to give a formal account of what that content is (we are assuming, of course, that mathematics may be indispensable to expressing the nominalistic content of our theories, so that we cannot in general expect to be able to identify the nominalistic content of a mathematically stated empirical theory with the literal content of some related theory).
+As Leng (2010) argues, the case for the combination of mathematical fictionalism with nominalistic scientific realism depends crucially on showing that the fictionalist’s proposal, to continue to speak with the vulgar in doing science, remains reasonable on the assumption that there are no mathematical objects.  That is, fictionalists must explain why they can reasonably rely on our ordinary scientific theories in meeting standard scientific goals such as the goals of providing predictions and explanations, if they do not believe in the mathematical objects posited by those theories.  Balaguer attempts such an explanation by means of his principal of causal isolation, the claim that there are no causally efficacious mathematical objects.  According to Balaguer (1998: 133),
+Empirical science knows, so to speak, that mathematical objects are causally inert.  That is, it does not assign any causal role to any mathematical entity.  Thus, it seems that empirical science predicts that the behaviour of the physical world is not dependent in any way on the existence of mathematical objects.  But this suggests that what empirical science says about the physical world—that is, its complete picture of the physical world—could be true even if there aren’t any mathematical objects.
+But while causal inefficacy goes a long way to explaining why the existence of mathematical objects is not required for the empirical success of our scientific theories, and especially in drawing a line between unobservable mathematical and physical posits (such as electrons), by itself the principle of causal isolation doesn’t show mathematical posits to be an idle wheel.  Not all predictions predict by identifying a cause of the phenomenon predicted, and, perhaps more crucially, not all explanations explain causally.  Balaguer suggests that, were there no mathematical objects at all, physical objects in the physical world could still be configured in just the ways our theories claim.  But if there were no mathematical objects, would that mean that we would lose any means of explaining why the world is configured the way it is?  If mathematical posits are essential to some of our explanations of the behaviour of physical systems, and if explanations have to be true in order to explain, then a fictionalist who does not believe in mathematical objects cannot reasonably endorse the kinds of explanations usually provided by empirical science.
+Hence yet another indispensability argument has been developed to press ‘nominalistic scientific realists’ on this issue (see, particularly, Colyvan (2002); Baker (2005)).  Alan Baker (2009: 613) summarises the argument as follows:
+The Enhanced Indispensability Argument
+(1)   We ought rationally to believe in the existence of any entity that places an indispensable explanatory role in our best scientific theories.
+(2)   Mathematical objects play an indispensable explanatory role in science.
+(3)   Hence, we ought rationally to believe in the existence of mathematical objects.
+What the fictionalist should make of this argument depends on what is meant by mathematical objects playing an ‘indispensable explanatory role’.  Let us suppose that this means that sentences whose literal truth would require the existence of mathematical objects are present amongst the explanandans of some explanations that we take to be genuinely explanatory.  Two lines of response suggest themselves: first, we may challenge the explanatoriness of such explanations, arguing that candidate such explanations are merely acting as placeholders for more basic explanations that do not assume any mathematics (effectively rejecting (2); Melia (2000, 2002) may be interpreted as taking this line; Bangu (2008) does so more explicitly).  On the other hand, we may accept that some such explanations are genuinely explanatory, but argue that the explanatoriness of the mathematics in these cases does not depend on its truth (effectively rejecting (1); this line is taken by Leng (2005), who argues that explaining the behaviour of a physical system by appeal to the mathematical features of a mathematical model of that system does not require belief in the existence of the mathematical model in question, only that the features that the model is imagined to have are appropriately tied to the actual features of the physical system in question).  Causal inefficacy does make a difference here, but in a slightly more nuanced way than Balaguer’s discussion suggests: it is hard to see how a causal explanation remains in any way explanatory for one who does not believe in the existence of the object posited as cause.  On the other hand, though, it is less clear that an explanation that appeals to the mathematically described structure of a physical system loses its explanatory efficacy if one is merely pretending or imagining that there are mathematical objects that relate appropriately to them.  As Nancy Cartwright (1983) suggests, causal explanations may be special in this regard – to the extent that nominalistic scientific realists agree with Cartwright on the limitations of inference to the best explanation, we may consider nominalistic scientific realism to be most naturally allied to ‘entity realism’, rather than realism about theories, in the philosophy of science.
+c.  Mathematical Fictionalism + Constructive Empiricism  (Bueno)
+What makes ‘nominalistic scientific realism’ a broadly ‘realist’ approach to our scientific theories is that, although its proponents do not believe such theories to be true or even approximately true (due to their mathematical commitments), in holding that our best scientific theories are broadly correct in their presentation of the nonmathematical world, they take it that we have reason to believe in the unobservable physical objects that those theories posit.  An alternative fictionalist option is the combination of mathematical fictionalism with constructive empiricism, according to which we should only believe that our best scientific theories are empirically adequate, correct in their picture of the observable world, remaining agnostic about the claims that those theories make about unobservables.  The combination of mathematical fictionalism with constructive empiricism has been defended by Otávio Bueno (2009).
+While Bas van Fraassen is standardly viewed as presenting constructive empiricism as agnosticism about the unobservable physical world, it would seem straightforward that any reason for epistemic caution about theories positing unobservable physical entities should immediately transfer to a caution about theories positing unobservable mathematical entities.  As Gideon Rosen (194: 164) puts the point, abstract entities
+are unobservable if anything is.  Experience cannot tell us whether they exist or what they are like.  The theorist who believes what his theories say about the abstract must therefore treat something other than experience as a source of information about what there is.  The empiricist makes it his business to resist this. So it would seem that just as he suspends judgment on what his theory says about unobservable physical objects, he should suspend judgment on what they say about the abstract domain.
+This would suggest that constructive empiricism already encompasses, or at least should encompass, mathematical fictionalism, simply extending the fictionalist’s attitude to mathematical posits further to cover the unobservable physical entities posited by our theories.
+Despite their natural affinity, the combination of mathematical fictionalism with constructive empiricism is not as straightforward as it may at first seem.  This is because, in characterising the constructive empiricist’s attitude of acceptance, van Fraassen appears to commit the constructive empiricist scientist to beliefs about mathematical objects.  Van Fraassen (1980: 64) adopts the semantic view of theories, and holds that a
+theory is empirically adequate if it has some model such that all appearances are isomorphic to empirical substructures of that model.
+To accept a theory is, for van Fraassen, to believe it to be empirically adequate, and to believe it to be empirically adequate is to believe something about an abstract mathematical model.  Thus, as Rosen (1994: 165) points out, for the constructive empiricist so-characterized,
+The very act of acceptance involves the theorist in a commitment to at least one abstract object.
+Bueno (2009: 66) suggests two options for the fictionalist in responding to this challenge: either reformulate the notion of empirical adequacy so that it does not presuppose abstract entities, or adopt a ‘truly fictionalist strategy’ which takes mathematical entities seriously as fictional entities, which Bueno takes (following Thomasson 1999) to be abstract artifacts, created by the act of theorizing.  This latter strategy effectively reintroduces commitment to mathematical objects, albeit as ‘non-existent things’ (Bueno 2009: 74), a move which is hard to reconcile with the fictionalist’s insistence on a uniform semantics (where ‘exists’ is held to mean exists).
+5.  Hermeneutic or Revolutionary Fictionalism 
+Each of these three versions of mathematical fictionalism can be viewed in one of two ways: as a hermeneutic account of the attitude mathematicians and scientists actually take to their theories, or as a potentially revolutionary proposal concerning the attitude one ought to take once one sees the fictionalist light.  Each version of fictionalism faces its own challenges (see, e.g., Burgess (2004) for objections to both versions, and, e.g., Leng (2005) and Balaguer (2009) for responses).  The question of whether fictionalism ought to be a hermeneutic or a revolutionary project is an interesting one, and has led at least one theorist with fictionalist leanings to hold back from wholeheartedly endorsing fictionalism.  From a broadly Quinean, naturalistic starting point, Stephen Yablo (1998) has argued that ontological questions should be answered, if at all, by considering the content of our best confirmed scientific theories.  However, Yablo notes, the sentences we use to express those theories can have a dual content – a ‘metaphorical’ content (such as the ‘nominalistic’ content of a mathematically stated empirical claim), as well as a literal content.  Working out what our best confirmed theories say involves us, Yablo thinks, in the hermeneutic project of working out what theorists mean by their theoretical utterances.  But for the more controversial cases, Yablo (1998: 257) argues, there may be no fact of the matter about whether theorists mean to assert the literal content or some metaphorical alternative.   We will often, he points out, utter a sentence S in a ‘make-the-most-of-it spirit’:
+I want to be understood as meaning what I literally say if my statement is literally true… and meaning whatever my statement projects onto… if my statement is literally false.  It is thus indeterminate from my point of view whether I am advancing S’s literal content or not.
+If answering ontological questions requires the possibility of completing the hermeneutic project of interpreting what theorists themselves mean by their mathematical utterances, and if (as Yablo (1998: 259) worries), the controversial mathematical utterances are permanently ‘equipoised between literal and metaphorical’ then there may be no principled way of choosing between mathematical fictionalism and platonism. Hence we have Yablo’s own reticence, in some incarnations, in endorsing mathematical fictionalism, even in the light of the acknowledged possibility of providing a fictionalist interpretation of our theoretical utterances.
+6. References and Further Reading
+
+Azzouni, J., (2004): Deflating Existential Consequence: A Case for Nominalism (Oxford: Oxford University Press)
+Baker, A., (2005): ‘Are There Genuine Mathematical Explanations of Physical Phenomena?’, Mind 114: 223-38
+Baker, A., (2009): ‘Mathematical Explanation in Science’, British Journal for the Philosophy of Science 60: 611-633
+Balaguer, M. (1996): ‘Towards a Nominalization of Quantum Mechanics’, Mind105: 209-26.
+Balaguer, M., (1998): Platonism and Anti-Platonism in Mathematics (Oxford: Oxford University Press)
+Balaguer, M. (2009): ‘Fictionalism, Theft, and the Story of Mathematics’, Philosophia Mathematica 17: 131-162
+Bangu, S., (2008): ‘Inference to the Best Explanation and Mathematical Realism’, Synthese 160: 13-20
+Benacerraf, P., (1973): ‘Mathematical Truth’, The Journal of Philosophy 70: 661-679
+Bueno, O., (2009): ‘Mathematical Fictionalism’, in Bueno, O. and Linnebo, Ø., eds., New Waves in Philosophy of Mathematics (Hampshire: Palgrave MacMillan): 59-79
+Cartwright, N., (1983): How the Laws of Physics Lie (Oxford: Oxford University Press)
+Colyvan, M., (2001): The Indispensability of Mathematics (Oxford: Oxford University Press)
+Colyvan, M., (2002): ‘Mathematics and Aesthetic Considerations in Science’, Mind 111: 69-74
+Daly, C., (2008): ‘Fictionalism and the Attitudes’, Philosophical Studies 139: 423-440
+Field, H., (1980): Science without Numbers (Princeton, NJ: Princeton University Press)
+Field, H., (1984): ‘Is Mathematical Knowledge Just Logical Knowledge?’, Philosophical Review 93: 509-52.  Reprinted with a postscript in Field (1989): 79-124.
+Field, H. (1985): ‘On Conservativeness and Incompleteness’, Journal of Philosophy 81: 239-60. Reprinted with a postscript in Field (1989): 125-46
+Field, H., (1989): Realism, Mathematics and Modality (Oxford: Blackwell)
+Hellman, G. (1989): Mathematics without Numbers: Towards a Modal-Structural Interpretation (Oxford: Oxford University Press)
+Hempel, C. G. (1945): ‘On the Nature of Mathematical Truth’, American Mathematical Monthly 52: 543-56.  Reprinted in P. Benacerraf and H. Putnam, eds. (1983): Philosophy of Mathematics: Selected Readings (Cambridge: Cambridge University Press): 377-93
+Hoffman, S. (2004): ‘Kitcher, Ideal Agents, and Fictionalism’, Philosophia Mathematica 12: 3-17
+Horwich, P. (1991): ‘On the Nature and Norms of Theoretical Commitment’, Philosophy of Science 58: 1-14
+Kalderon, M. E. (ed.), (2005): Fictionalism in Metaphysics (Oxford: Oxford University Press)
+Ketland, J. (2005): ‘Some more curious inferences’, Analysis 65: 18-24
+Kitcher, P. (1984):  The Nature of Mathematical Knowledge (Oxford: Oxford University Press)
+Leng, M. (2005a): ‘Mathematical Explanation’, in C. Cellucci and D. Gillies, eds., Mathematical Reasoning, Heuristics and the Development of Mathematics (London: King’s College Publications); 167-89
+Leng, M. (2005b): ‘Revolutionary Fictionalism: A Call to Arms’, Philosophia Mathematica 13: 277-293
+Leng, M., (2010): Mathematics and Reality (Oxford: Oxford University Press)
+Lewis, D., (2005): ‘Quasi-Realism is Fictionalism’, in Kalderon (2005): 314-321
+Melia, J. (2000): ‘Weaseling Away the Indispensability Argument’, Mind 109: 455-79
+Melia, J. (2002): ‘Response to Colyvan’, Mind 111: 75-79
+Melia, J. (2004): ‘Review of Jody Azzouni, Deflating Existential Consequence: A Case for Nominalism’,  Notre Dame Philosophical Reviews 2005/08/15
+O’Leary-Hawthorne, J. (1994): ‘What does van Fraassen’s critique of scientific realism show?’, The Monist 77: 128-145
+Putnam, H. (1971): Philosophy of Logic (New York: Harper and Row).  Reprinted in Putnam (1979): 323-57
+Putnam, H. (1975): ‘What is Mathematical Truth?’, Historia Mathematica 2: 529-43.  Reprinted in Putnam (1979): 60-78
+Putnam, H. (1979): Mathematics, Matter and Method: Philosophical Papers Vol. II (Cambridge: Cambridge University Press, 2nd ed.)
+Quine, W. V. (1970): Philosophy of Logic (Cambridge: MA, Harvard University Press, 2nd ed., 1986)
+Resnik, M. D. (1995): ‘Scientific vs. Mathematical Realism: The Indispensability Argument, Philosophia Mathematica 3: 166-74
+Rosen, G. (1984): ‘What is Constructive Empiricism?’, Philosophical Studies 74: 143-78
+Shapiro, S. (1983): ‘Conservativeness and Incompleteness’, Journal of Philosophy 80: 521-31
+Thomas, R. (2000): ‘Mathematics and Fiction I: Identification’, Logique et Analyse 171-172: 301-340
+Thomas, R. (2002): ‘Mathematics and Fiction II: Analogy’, Logique et Analyse 177-178: 185-228
+Urquhart, A. (1990): ‘The Logic of Physical Theory’, in A. D. Irvine, ed., (1990): Physicalism in Mathematics (Dordrecht: Kluwer): 145-54
+Van Fraassen, B. (1980): The Scientific Image (Oxford: Clarendon Press)
+Yablo, S. (1998): ‘Does Ontology Rest on a Mistake?’, Aristotelian Society, Supplementary Volume 72: 228-61
+Yablo, S. (2005): ‘The Myth of the Seven’, in Kalderon (2005): 88-115
+
+Author Information
+Mary Leng
+Email: mcleng@liv.ac.uk
+University of Liverpool
+United Kingdom
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

@@ -1,0 +1,527 @@
+
+
+
+
+
+
+
+
+
+Concepts | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concepts
+Concepts are of central importance to an overall theory of cognition and the mind. Our thoughts, especially those that express or involve propositions, are analyzed and distinguished from one another by appeal to various facts involving concepts and our grasp of them. Similarly, our linguistic utterances that express propositions also express concepts, since concepts are normally thought to be closely related to, or even identified with, the meanings of entities like predicates, adjectives, and the like. Our understanding and interaction with the world also involves concepts and our grasp of them. Our understanding that a given thing is a member of a given category is at least partly in virtue of our grasp of concepts, and so are our acts of categorizing. Such capacities involve our knowledge in an essential way, and thus such philosophical issues regarding our epistemic capacities are tied to issues about concepts and their nature. There may be some features and capacities of the mind that do not involve concepts, but certainly the vast number of them do, and thus the task of identifying the correct general theory of concepts is significant to the philosophy of mind,  philosophy of language, cognitive science, and psychology.
+After an introduction listing many of the more significant philosophical questions concerning concepts, the article provides a detailed list of goals for an overall or complete theory of concepts, sorted according to tasks related to the metaphysics, analysis, and epistemology of concepts. The article also gives a detailed exposition of the main theories of concepts that have been proposed, along with some of the more important objections that have been raised in criticism of each. An annotated bibliography is at the end.
+Table of Contents
+
+Introduction 
+Tasks for an Overall Theory of Concepts 
+
+The Metaphysics of Concepts 
+Analysis of Concepts 
+The Epistemology of Concepts 
+
+
+Theories of Concepts 
+
+The Classical Theory, or Definitionism 
+Neoclassical Theories 
+Prototype/Exemplar Theories 
+Theory-theories 
+Atomistic Theories 
+
+
+Conclusion 
+References and Further Reading
+
+ 1. Introduction
+What is a concept? When one utters the sentence “Polaris is a star,” the meaning of that sentence is the proposition that Polaris is a star. Alternatively, one’s utterance of that sentence expresses the proposition that Polaris is a star. But in doing so, one also expresses the concept of being a star, the reason being that the predicate ‘is a star’ expresses that concept. Similarly, my belief that Polaris is a star in some sense involves the proposition that Polaris is a star, and part of the content of that proposition is the concept [star] (where the notation ‘[F]’ in what follows signifies the concept of being (an) F). But what is the concept of being a star? This general question raises a host of other questions. For instance: Is there just one concept of being a star, or do individual agents have their own concepts of being a star that might be distinct from one another? Is a concept a mental particular, such as a particular idea in one’s mind? Or are concepts not mental entities at all? Might the concept of being a star instead be something such as the predicate ‘is a star’? Or perhaps the set of stars themselves? Or is the concept of being a star an abstract entity in some sense? And if so, what sort of abstract entity is it? And what makes the concept of being a star distinct from other concepts?
+These are metaphysical questions. But there are epistemological questions about concepts as well. For instance, concepts seem to be the sorts of things that get grasped, possessed, or understood in coming to have beliefs (and ultimately knowledge) about the world. But the nature of concept possession is itself a bit mysterious. Is there just one way to possess a given concept, or might there be many such ways? Does possession of the concept of being a star require some sort of complete understanding of that concept or not? And how does one first come to grasp the concept of being a star? Finally, various sorts of behavior seem to be explained in terms of one’s grasp of concepts. For instance, one can consider Polaris, the sun, Jupiter, and the Andromeda galaxy, and one can categorize those things as being stars or not. Performing such sorting behavior accurately is a prerequisite for various sorts of knowledge, thus categorization is of interest to philosophers working in epistemology, and explaining how such behavior happens is of interest to psychologists. Categorization seems to have something to do with one’s grasp of the concept of being a star, but what is the relationship between that ability, the grasping of that concept, and the nature of that concept in itself?
+ 2. Tasks for an Overall Theory of Concepts
+As the preceding questions imply, there are a wide variety of tasks for an overall theory of concepts to accomplish. Various theories of concepts handle some of them, but few claim to handle them all. But what should such an overall theory of concepts provide? The question is a useful one for three reasons: First, answering it will make as clear as possible just what issues about concepts a given view addresses and which it does not. Thus it will be clearer what else must be added to the view in question in order to provide a complete account of concepts. Second, the demands on a theory of concepts are logically related to each other, and such relationships themselves serve to raise problems for various candidate theories of concepts. For instance, a Platonistic view of the metaphysics of concepts takes concepts to be abstract entities that are neither physical nor spatiotemporal. But such a metaphysical commitment as to the nature of concepts has consequences with respect to the right conditions on concept possession. For instance, one sort of objection faced by a Platonist is that Platonism about concepts would render concepts unpossessible. That is, if concepts are nonspatiotemporal, it is difficult to see how beings like ourselves could ever be related to concepts in such a way as to possess or understand them. So identifying at least some of the requirements on an overall theory of concepts makes the task of evaluating a given view of concepts easier. If a view of concepts is such that it would then be impossible to satisfy one or more of the other requirements of an overall theory of concepts, then the view fails. Finally, if there are candidate requirements on an overall theory of concepts that turn out on further inspection not to be requirements of such a theory at all, then no theory of concepts should be faulted for failing to satisfy that requirement.
+At least some of the following general requirements have been proposed (and see also Rey 1983/1999 and Prinz 2002, Ch. 1 for similar lists). A complete theory of concepts should provide:
+An account of the metaphysics of concepts
+
+An answer to the problem of universals, treating the problem of what concepts are as a special case
+An account of concepts as universals with concepts distinguished from other sorts of universals
+An account of the identity conditions for concepts
+An account of the distinction between simple and complex concepts
+
+An account of analysis for concepts
+
+An account of the satisfaction conditions for being in the possible-worlds extension of a given concept
+An account of logical constitution for concepts
+An account of the distinction between primitive and complex concepts
+Specific conditions on correct analyses
+
+An account of the epistemology of concepts
+
+An account of concept possession
+An account of concept acquisition
+An account of categorization
+
+The following sections are devoted to a more detailed discussion of the requirements themselves.
+ a. The Metaphysics of Concepts
+Metaphysical issues involving concepts include what their status is as universals (and also as distinct from other sorts of universals), whether they are mind-dependent or mind-independent entities, what their identity conditions are, and whether they are metaphysically simple or complex.
+First, concepts are universals. Distinct verbal expressions (such as distinct predicates, for instance) may nevertheless express the same concept. For instance, ‘is red’ in English and ‘ist Rot’ in German are distinct predicates that express the same concept. Similarly, ‘is the author of The Firm’ and ‘is The Firm’s author’ seem to express the same concept. Predicates that necessarily refer to all of the same things, such as ‘is an equiangular triangle’ and ‘is an equilateral triangle’, are more controversial examples. So are pairs of expressions related by the analysis relation, such as ‘brother’ and ‘male sibling’. The public character of concepts is further evidence that concepts are universals. That is, concepts can be understood by different agents, so it seems that the very same concept can be represented in many different minds at once, much as pain (a type of mental state) can be had by many different agents at the same time. Even if each agent has a pain that is her own, there is still something that all of those agents share—they all are in pain. Similarly for concepts—there is something we all share in virtue of possessing the concept of being a star, for instance, even if precisely speaking, what is present in each of our minds may not be exactly the same. Finally, concepts typically may have multiple “exemplifications” or “instances” across possible worlds, and this is also evidence that concepts are universals. There are many instances of the concept of being a star, for instance, since there are many stars. Hence the so-called “problem of universals” applies to concepts, and a complete account of concepts must defend some theory of universals with respect to them. (It is noteworthy that some authors, e.g., Prinz 2002, reject the notion that concepts serve as linguistic meanings, focusing instead on other functions that concepts have been invoked to serve. Yet even if concepts are not identical to linguistic meanings of some kind, the publicity and multiple-exemplifiability of concepts serves as evidence that they are universals.)
+As with other universals (such as properties, relations, and propositions), the available theories include various versions of realism and nominalism. Realism about concepts is the view that concepts are distinct from their instances, and nominalism is the view that concepts are nothing over and above, or distinct from, their instances. Ante rem realism (or Platonism) about concepts is the view that concepts are ontologically prior to their instances—that is, concepts exist whether they have instances or not. In re realism about concepts is the view that concepts are in some sense “in” their instances, and thus are not ontologically prior to their instances. Conceptualism with respect to concepts holds that concepts are mental entities, being either immanent in the mind itself as a sort of idea, as constituents of complete thoughts, or somehow dependent on the mind for their existence (perhaps by being possessed by an agent or by being possessible by an agent). Conceptualist views also include imagism, the view (dating from Locke and others) that concepts are a sort of mental image. Finally, nominalist views of concepts might identify concepts with classes or sets of particular things (with the concept [star] identified with the set of all stars, or perhaps the set of all possible stars). Linguistic nominalism identifies concepts with the linguistic expressions used to express them (with the concept [star] identified with the predicate ‘is a star’, perhaps). Type linguistic nominalism identifies concepts with types of verbal expressions (with the concept [star] identified with the type of verbal expression exemplified by the predicate ‘is a star’). (Platonists about concepts would of course include Plato himself, and modern Platonists include both Chisholm 1996 and Bealer 1993. Aristotle is the most well-known in re realist, though it is somewhat unclear what his view of concepts, construed as linguistic meanings, would be. Most of the early moderns, including Locke, Berkeley, and Hume, seem to espouse some version of conceptualism, and the views of most contemporary cognitive scientists and psychologists imply a commitment to either conceptualism or some sort of nominalism. Quine 1953, 1960 is one of the more recognizable nominalists about universals, though he is also a skeptic about linguistic meaning generally.)
+The different options as to the metaphysical status of concepts can also be sorted out depending on the view’s take on the question of whether concepts are mind-dependent or not. On many views, and in fact according to nearly all views held in psychology and cognitive science, concepts are things that are “in” the mind, or “part of” the mind, or at least are dependent for their existence on the mind in some sense. Other views deny such claims, holding instead that concepts are mind-independent entities. Conceptualist views are examples of the former view, and Platonistic and some nominalistic views are examples of the latter view. The issue of the mind-dependence of concepts carries a great deal of importance with respect to which (if any) of the currently available views of concepts is correct. For instance, if concepts are immanent in the mind as particular mental representations of some category or other, and if those representations can be shown not to be analyzed in terms of necessary and sufficient defining conditions, then the classical view of concepts (or definitionism) is undermined; yet if concepts exist independently of one’s ideas, beliefs, capacities for categorizing objects, and so on, then empirical evidence concerning our categorization behavior, early childhood mental development, etc. is of much less consequence with respect to the question of what concepts themselves are. Such evidence might be of great importance to theorizing about our grasp or understanding of concepts, but not as important to the metaphysics of concepts themselves.
+The distinctions above can cut across one another. For instance, one might borrow Fodor’s (1975) idea that there is a “language of thought” whereby thoughts are structured just as sentences are, and follow the very same sorts of grammatical rules that spoken languages do, and treat concepts accordingly. One could take concepts to be “in the mind,” and also as being identical to types of linguistic representations. The resulting view would be an example of type linguistic nominalism that nevertheless treats concepts as in the mind, and thus as essentially mind-dependent.
+Still another task for an overall theory of concepts is to distinguish concepts from other sorts of universals, and the most straightforward way of doing this is to provide an account of the identity conditions for concepts. For example, if it turns out that concepts and properties have different identity conditions, then they must be distinct sorts of entities. And providing an account of the identity conditions for concepts is necessary for another reason too. If concepts are taken to be linguistic meanings, then some account must be given for what holds true when two distinct verbal expressions express the same concept, as well as what holds true when two verbal expressions do not express the same concept. An account of the identity conditions for concepts would be of great assistance here. As a final matter of significance with respect to the metaphysics of concepts, it might be wondered whether concepts are themselves simple or complex. Are concepts “unstructured” entities without proper parts, or are they complexes of simpler entities? As with the other metaphysical requirements on an overall theory of concepts, there are a number of options to pursue. The distinction is considered further below.
+ b. Analysis of Concepts
+Concepts also seem to be the targets of analysis. One of the traditional tasks of analytic philosophy is that of providing analyses of concepts, but an important question is that of what an analysis itself is, and whether or not there are such things.
+At the very least, an analysis of a concept should specify the conditions satisfied by those things that are instances of that concept—an analysis of [star] should say what makes a star a star. One might call such conditions the metaphysical satisfaction conditions for concepts, where such conditions specify all possible conditions on which the concept being analyzed would apply. Such conditions specify the “possible-worlds extension” of a concept, namely a set of things, ranging across all possible circumstances, to which that concept would apply. (Note that such a set of conditions might differ from what an agent believes the satisfaction conditions of a given concept to be, and both sets of conditions might vary from what an agent might use to sort or categorize things as being instances of that concept or not.) Specification of such metaphysical satisfaction conditions is necessary for providing an account of the identity conditions for concepts. For example, if two predicate expressions differ in their possible-worlds extension, then the concepts expressed by those predicates must be distinct. And in order for two predicate expressions to express the same concept, they must share the same possible-worlds extension. So analyses should provide the metaphysical satisfaction conditions for the concept being analyzed. There may be many ways of accomplishing such a task. For one might provide such conditions in terms of lists of necessary conditions (as the classical theory of concepts does), in terms of lists of “weighted” typical features (as prototype views of concepts seem to do), in terms of lists of individually necessary conditions that are not jointly sufficient (as neoclassical views do), etc.
+Another way of putting this general point about analyses is that analyses specify a logical constitution for the concept being analyzed. For instance, a classical analysis accomplishes this in virtue of specifying a number of concepts related by entailment or logical consequence to the concept being analyzed, and that collection of concepts is a logical constitution for the concept being analyzed. To say that concepts are related by entailment is just to say the following: For the concepts expressed by the predicate expressions ‘is an F’ and ‘is a G’, if the sentence “For all x, if x is an F then x is a G” is a necessary truth, then the concept of being an F entails the concept of being a G. The classical view is committed to this sort of relation holding between a concept to be analyzed and individual concepts included in a logical constitution for that concept—for instance, if a correct analysis of [star] includes being a celestial body as a necessary condition, then something’s being a star logically entails that it is a celestial body.
+Do other views of concepts share the classical view’s claim that concepts have logical constitutions? Certainly neoclassical views do, for so long as a given neoclassical view holds that concepts have necessary conditions (no matter what they say about sufficient conditions), such a view claims that there are entailment relations between something’s being an instance of a given concept and that thing’s satisfying the necessary conditions for being an instance of that concept. What of prototype views? Such theorists usually speak fairly strongly against concepts having conceptual analyses, but in the classical sense. But such views could hold a different view of analysis, where such a view holds that concepts have logical constitutions, but the logical relationship between the concept being analyzed and the concepts in its constitution is a statistical relation, rather than entailment. Finally, atomistic views of concepts have a thesis with respect to the logical constitution of concepts: Such views claim that there are no such logical relations among concepts at all. But even so, one still faces the task of defending a thesis with respect to whether complex concepts have logical constitutions or not. And if one does claim that concepts have logical constitutions, one must defend a claim as to the nature of those logical relations between complex concepts and the members of their logical constitutions.
+If at least some concepts have logical constituents, then there must be some stock of concepts that are such that they have no logical constituents themselves. That is, there must be some stock of concepts that might appear in the analyses of various complex concepts, but have no analyses themselves. One then wonders what sort of character such primitive concepts have. Various empiricist philosophers (such as Locke and Hume, for instance) have held that primitive concepts are derived immediately from sensation, and thus that all complex concepts are such that their full analyses (all the way down to the primitives) are in terms of sense impressions only. Other views might include such a story for some concepts, but add that there are other primitive concepts not derived from sense impressions. For instance, the concepts of justice and goodness may well be analyzable, but not fully in terms of sense impressions. Various other concepts in philosophy and mathematics have been offered as other candidates, such as the concepts of belief, mind, free action, truth, inference, set, function, and number. What primitive concepts such complex concepts might ultimately be analyzable in terms of, if not in terms of sense impressions, remains something of a mystery. Also mysterious is how one might grasp such primitive concepts initially, especially if one seeks to avoid commitments to innate possession of such concepts.
+There are thus two different distinctions having to do with conceptual “complexity,” one being a metaphysical distinction and the other being a logical one. For there is a difference between claiming that a given concept has proper parts (or literal constituents) and claiming that a given concept has logical constituents (or that there are other concepts logically related to that concept). For a view taking concepts to be mental particulars, such a view might hold that even primitive concepts (that is, those having no analyses) nevertheless have proper parts. For instance, physicalists about such mental particulars might nevertheless hold that primitive concepts nevertheless have physical parts that are not themselves concepts. Such concepts would be complex in the metaphysical sense, but not in the logical sense. In contrast, other theories of concepts might take all concepts to be metaphysically simple (with no proper parts), while still taking some concepts to have logical constitutions and some not. Views taking concepts to be abstract, Platonistic entities seem to fall into this category. So there are two different distinctions here that need not coincide. For lack of a better term, one might use ‘complex’ in both distinctions: A concept may be complex in the metaphysical sense (as opposed to its being metaphysically simple), and/or it may be complex in the sense that it has logical constituents (as opposed to its being primitive, or its having no logical constituents). A complete theory of concepts would provide clear accounts of both distinctions, along with which concepts fall into which category.
+One final issue concerning analysis is that no matter what view of analysis one holds, one must specify what it is for a candidate analysis to be a correct analysis. But what are the truth-conditions for analyses? For instance, the classical theory of concepts holds that correct classical analyses will have no possible counterexamples. Other views of analysis might share this basic idea, but defenders of such other views would need to give some account of the truth-conditions of analyses in order to state their position in a complete way. On a prototype view of concepts, one would deny that concepts have classical-style analyses, but perhaps “analyze” a given complex concept in terms of features likely to be had by instances of that concept instead. A correct analysis of the concept [bird], then, would include features that really are typical of, or likely to be had by, instances of that concept.
+ c. The Epistemology of Concepts
+Various views on the nature of concepts have been invoked in order to answer a host of questions in epistemology, where such questions are epistemic in the sense that they are tied to questions ultimately about knowledge, belief, and justification. For instance, what propositional knowledge one is capable of attaining seems dependent on what concepts one possesses—one cannot know that the sun is a star unless one can have the thought that the sun is a star, and one cannot have that thought unless one possesses the concept [star]. Moreover, one’s abilities to sort things into different categories seem dependent on what concepts one possesses. One cannot reliably sort red things from yellow things, in the sense of doing so on the basis of knowing the difference between them, unless one possesses the concepts [red] and [yellow]. But in order to provide complete and correct accounts of the contents of one’s thoughts, as well as accounting for cognitive abilities relevant to having knowledge, one needs an account of concept possession, or an account of what it is to grasp, understand, or at least have some understanding of a given concept. Furthermore, a complete account of concept possession should have something to say about how concepts are acquired or “learned” for the first time. For if learning new things about the world at least in some cases involves acquiring new concepts, some account of concept acquisition is necessary for giving a proper account of knowledge acquisition as a whole. So what is desirable of a complete theory of concepts is not only an account of what concepts are in themselves but also an account of what it is to possess or understand them. (See Rey 1983; Peacocke 1989a, 1989b, and 1992; and Bealer 1998 for discussion by philosophers about concept possession, and Rosch 1999, Smith and Medin 1981, and Murphy 2002 for discussion by psychologists.)
+ 3. Theories of Concepts
+At least five general theories of concepts have been proposed: The classical theory, which takes concepts to be analyzed in terms of necessary and jointly sufficient conditions; neoclassical theories, which hold that concepts have necessary conditions, but denies that all concepts have individually necessary conditions that are jointly sufficient; prototype theories, which take concepts to be accounted for in terms of lists of typical features (instead of metaphysically necessary conditions) or in terms of paradigm cases or exemplars; theory-theories, which take concepts to be entities individuated by the roles they play in internally represented “mental” theories (where such a theory is immanent in the mind and of some category or other); and atomistic theories, which take most concepts to be primitive unanalyzable entities.
+It should be stressed that the theories presently available have not been put forth as purporting to be complete theories of concepts, in the sense that none of them aim to answer all of the questions listed earlier under the heading of tasks for an overall theory of concepts. For instance, prototype views seem focused most sharply on epistemic concerns related to concept possession more than the task of answering questions about the metaphysics of concepts or about the analysis of them. Classical views of concepts give an account of conceptual analysis primarily, and do not usually include accounts of concept possession as well, though some theorists sympathetic to the classical view (such as Peacocke 1992) espouse a theory of concept possession too. The material below contains summaries of the basic tenets of each view, along with some of the more significant objections to each. Possible replies to the objections have been omitted on the grounds of keeping the presentation brief, though they may be found in the materials listed in the references at the end of the article.
+ a. The Classical Theory, or Definitionism
+The classical theory of concepts holds that complex concepts have classical analyses, where such an analysis is a proposition that gives a set of individually necessary and jointly sufficient conditions for being in the possible-worlds extension of the concept being analyzed. To put the matter a slightly different way, the classical view holds that concepts have logical constitutions, which are collections of concepts that are related by entailment to the concept being analyzed. For instance, the concept of being unmarried belongs to a logical constitution of the concept of being a bachelor, in part because something’s being a bachelor entails its being unmarried. To speak of a logical constitution rather than the logical constitution seems necessary since there may be many different analyses of the same concept—e.g., correct analyses of [square] are expressed by “A square is a closed four-sided figure, with sides of equal lengths and neighboring sides orthogonal to each other” and “A square is a four-sided regular figure.” A classical analysis is then a proposition that specifies such a logical constitution by specifying individually necessary and jointly sufficient conditions. Some would call such a proposition a definition, though one might use a more refined term and call them classical definitions, since there seem to be many sorts of definitions (e.g., partial definitions, ostensive definitions, procedural definitions, etc.).
+One discovers such analyses by the method most famously used by Socrates in Platonic dialogues like the Euthyphro, Lysis and Laches, which seek to find the nature of piety, friendship, and courage, respectively. The method is to consider a candidate analysis of a given concept, with the intent of seeking counterexamples to that analysis. If there are such counterexamples, then the candidate analysis is false, and if there are no possible counterexamples to that analysis, then it is correct. For instance, take the following candidate analysis of the concept of being a square: A square is a four-sided figure. This analysis is inadequate (it is too broad), since a rectangle with neighboring sides of different lengths is a four-sided figure, and yet not a square. Such a figure is a counterexample to the candidate analysis under consideration. Counterexamples can also show a candidate analysis to be too narrow. For instance, take the candidate analysis expressed by “A bachelor is an unmarried male under age 70.” Surely there are some octogenarians who are bachelors, and any of them would count as a counterexample to the candidate analysis. It is the seeking of both sorts of counterexamples that characterizes the seeking of classical analyses.
+The quest for classical-style analyses is common in the philosophical literature of the past two and a half millennia, and the classical theory of concepts was in fact the dominant view up to the last half of the Twentieth Century. Examples of classical analyses include Aristotle’s account of definitions themselves as “an account [or logos] that signifies the essence (Topics I),” where “the essence” of something is given in terms of essential or necessary features. Other well-known examples of classical analyses include Descartes’ definition of body as that which is extended in both space and time, Locke’s definition of being free with respect to a given action as being such that one performs that action, chooses or wills that action, and that had one chosen not to do that action, then one wouldn’t have done it. Hume’s definition of a miracle as (1) an event caused by God’s will that (2) violates the laws of nature is yet another example from the early modern period. Gottlob Frege, Bertrand Russell, and G. E. Moore seemed to support the classical theory, and the view was taken more or less as a presumption in Twentieth-Century philosophy until the 1970s at least (Ludwig Wittgenstein 1958, being a notable exception). Contemporary defenders of the classical view include Jackson 1994, 1998, Pitt 1999, Peacocke 1992, and Earl 2002.
+Objection (1): Plato’s problem. One perspicuous problem with the classical theory, according to its critics, is that few if any classical-style analyses have ever been widely agreed upon to be correct, especially for philosophically interesting concepts like [justice], [knowledge], and [free action]. This is termed Plato’s problem (by Laurence and Margolis 1999) since in many of Plato’s dialogues where Socrates searches for what we would call a conceptual analysis of some important concept (such as in the Lysis [friendship], Laches [courage], Euthyphro [piety], and Theatetus [knowledge]), the inquiry in the dialogue fails (or, more precisely, is presented as failing). One would think, however, that if the classical theory were correct, then at least some philosophically interesting concepts would have been analyzed successfully by now. Yet they have not, and there are hardly any widely agreed-upon classical analyses either, except perhaps in logic and mathematics. Such evidence might suggest that the classical theory is false, especially if other competing theories of concepts generate correct and widely agreed-upon analyses for concepts.
+Objection (2): Problems involving typicality effects. Another problem for the classical theory involves a large body of empirical evidence concerning how humans sort objects into various categories. There is substantial evidence (summarized in Smith and Medin 1981, Rey 1983, Laurence and Margolis 1999, Murphy 2002, and Prinz 2002) that agents sort objects differently (in terms of speed of sorting, reliability of sorting, etc.) depending on how typical those objects are by way of being typical instances of the category in question. For instance, robins are sorted more quickly into the bird category than eagles, penguins, or ostriches, and some birds (e.g., ostriches and penguins) are more likely to be categorized incorrectly as not being in the bird category.
+Such so-called typicality effects are the basis for a critical worry about the classical theory. For one might think that typicality effects suggest that what agents actually employ in acts of categorization are not lists of necessary and jointly sufficient defining conditions, but something else (perhaps lists of typical, but not defining features, as suggested by prototype theories of concepts, or perhaps some representation of a paradigmatic or most exemplary instance of that concept, as claimed by exemplar theories of concepts). But if what agents use in acts of categorization are not lists of defining features, this seems not in keeping with the classical theory. At the very least, if some other general theory of concepts accounts for typicality effects while at the same time addresses as many of the overall tasks for a theory of concepts to meet, then it would seem that theory ought to be preferred over the classical view. For instance, adherents of prototype/exemplar views of concepts (to be discussed below) take the empirical evidence concerning typicality effects as strong evidence in favor of their view, since such views analyze complex concepts in terms of the typical features that the empirical evidence seems to identify.
+Objection (3): A general worry stemming from Quine’s attack on the analytic/synthetic distinction. If Quine’s (1953, 1960) famous critique of the analytic/synthetic distinction is successful, then the result generates apparently insuperable difficulties for the classical theory. For if Quine is right, then either there is no meaningful distinction between analytic and synthetic propositions, or the distinction does no meaningful philosophical work. Yet according to standard versions of the classical theory of concepts, classical analyses are analytic propositions (though see Ackerman 1981, 1986, and 1992 for the opposing view). In fact analyses and partial analyses such as A square is a four-sided regular figure and bachelors are unmarried males are usually considered to be paradigmatic examples of analytic propositions. But if there are no identifiable analytic propositions as such, then there are no identifiable classical analyses as such. Thus, it would seem that the classical theory is bankrupt if Quine is correct, for there would be no robust distinction between the analyses and the non-analyses, and there should be such a distinction if the classical theory is correct.
+ b. Neoclassical Theories
+Another theory of concepts to consider is the neoclassical view (for further discussion, see Laurence and Margolis 1999 and Earl 2002). Neoclassical views all share a thesis common to the classical theory:
+(NC) For every complex concept [C], [C] has individually necessary conditions for something to fall into its extension.
+Alternatively, all neoclassical views hold the thesis that complex concepts have neoclassical analyses, where those analyses include (at least) a specification of necessary conditions for something to fall into the extension of the concept being analyzed. Neoclassical views differ from each other, and from the classical view, in terms of what further thesis is held with respect to sufficient conditions for something to fall into the extension of a given complex concept. For instance, one sort of neoclassical view might hold (NC) but hold that there are no concepts that have at least one sufficient condition. Another might hold (NC) but hold that at least some concepts have at least one sufficient condition. Furthermore, neoclassical views differ from one another in terms of what sort of sufficient conditions they posit all, some, or no complex concepts to have. For sufficient conditions themselves seem to come in two types: (1) sufficient conditions that have the form of a conjunction of individually necessary conditions, and (2) sufficient conditions that do not have such form. So there is a wide range of possible neoclassical views, corresponding to whether one holds that all complex concepts have at least one sufficient condition, or that some complex concepts have at least one sufficient condition, or that no complex concepts have at least one sufficient condition. And among these options, the views divide again with respect to what may be held with respect to what sort of sufficient conditions complex concepts have, or may have, or that some have, etc.
+But despite this variety of neoclassical views, for expository and critical purposes only two neoclassical views need to be examined closely, and they can be stated as follows:
+(NCV1) All complex concepts have individually necessary conditions, but at least one complex concept has no sufficient conditions of either sort.
+(NCV2) All complex concepts have individually necessary conditions, but at least one complex concept has only at least one sufficient condition that does not have the form of a conjunction of individually necessary conditions.
+The reason for examining only (NCV1) and (NCV2) is that eliminating them as possible views of concepts should suffice to eliminate all other varieties of neoclassical views, since other neoclassical views would seem to include either (NCV1), (NCV2), or both.
+An objection: The problem of reference determination (and see also Laurence and Margolis 1999, 54-55; and Earl 2002, Ch. 5). One objection to consider is that neoclassical analyses fail to specify the extensions of concepts in a way that is adequate from the standpoint of accounting for concept individuation. That is, neoclassical views hold (at least) that some concepts have only neoclassical analyses (and not classical analyses) either in terms of only individually necessary conditions, or in terms of individually necessary conditions together with at least one sufficient condition not in the form of a conjunction of individually necessary conditions. The consequence is that distinct concepts could nevertheless share the same neoclassical analyses, and thus the neoclassical view is left with no adequate account of concept identity.
+Consider the neoclassical views (NCV1) and (NCV2) once more. In order to evaluate these two views, one need only consider test cases for each view. Call those cases type 1 and type 2 cases:
+Type 1: Concepts with individually necessary conditions, but with no sufficientconditions of either sort.
+Type 2: Concepts with individually necessary conditions, and with no sufficient conditions that take the form of a conjunction of individually necessary conditions, but with at least one sufficient condition that does not take the form of a conjunction of individually necessary conditions.
+Now take the cases in turn. Consider a test case of type 1, and (NCV1) claims that there are at least some concepts of this type. Let this concept be [C]. A neoclassical analysis of [C] solely in terms of necessary conditions will fail to specify the extension of [C] in an adequate way, it seems, for it would be possible for there to be another, distinct concept [D] with the very same neoclassical analysis. So holding that concepts only have analyses in terms of necessary conditions is insufficient for handling concept individuation.
+The point is illustrated most perspicuously with two concepts known to be distinct, and yet share some necessary conditions. Take [parallelogram] and [rhombus], and suppose one offers the following neoclassical analyses for them:
+A parallelogram is (1) a closed plane figure (2) with four sides, and (3) with opposing sides parallel to each other.
+A rhombus is (1) a closed plane figure (2) with four sides, and (3) with opposing sides parallel to each other.
+These two analyses specify the very same possible-worlds extension; i.e., they specify the very same reference for [parallelogram] and [rhombus]. But with such analyses only in terms of necessary conditions, neither concept’s extension has been adequately specified. For specifying [parallelogram] and [rhombus]’s extensions in this way leaves it open for them to be distinct concepts.
+And they are distinct concepts, in this case, since not all parallelograms are rhombuses. So neither neoclassical analysis specifies the extensions of [parallelogram] and [rhombus] adequately, for while they entail that [parallelogram] and [rhombus]’s extensions overlap, they leave open the possibility that the extensions of [parallelogram] and [rhombus] do not coincide. But if their extensions do not coincide, this would entail that they are distinct concepts. So this sort of neoclassical analysis fails to provide an adequate account of reference determination, and thus (NCV1) fails.
+Now consider a test case of type 2, and (NCV2) claims that there are at least some concepts of this type. Once more, neoclassical analyses along the lines of (NCV2) will be in terms of (i) some set of individually necessary conditions that are neither individually nor jointly sufficient; and (ii) some individually sufficient condition not having the form of a conjunction of necessary conditions. Such an account still fails to give an adequate account of reference determination.
+For take [parallelogram] and [rhombus] again. Something’s being a square is sufficient for its being a parallelogram as well as for its being a rhombus. So include this sufficient condition in some neoclassical analyses for [parallelogram] and [rhombus]:
+A parallelogram is (1) a closed plane figure (2) with four sides, and a square is a parallelogram.
+A rhombus is (1) a closed plane figure (2) with four sides, and a square is a rhombus.
+Such neoclassical analyses leave it open for [parallelogram] and [rhombus] to be distinct concepts, despite their having the same neoclassical analyses. For while squares are in the possible-worlds extension of [parallelogram], and also in the possible-worlds extension of [rhombus], the extension of [square] fails to match that of either [parallelogram] or [rhombus]. But [parallelogram] and [rhombus] share a common neoclassical analysis along the lines of (NCV2), and thus they would be identical if (NCV2) were correct, thus (NCV2) has failed to distinguish [parallelogram] from [rhombus]. The same predicament arises for any concepts sharing some necessary conditions and at least one sufficient condition. So (NCV2) fails, the critic might conclude.
+The common problem claimed to exist with both sorts of neoclassical analysis is that such analyses fail to specify a complete possible-worlds extension for their analysanda (those concepts being analyzed), and the lesson here seems to be that analyses (of any sort) must do this if one is to distinguish concepts by means of their analyses. For an analysis solely in terms of necessary conditions (which are not jointly sufficient) specifies an extension larger than that of the analysandum (the concept doing the analyzing). But while adding a sufficient condition (not in terms of a conjunction of necessary conditions) to the analysis might capture all of the analysandum’s extension, it nevertheless might specify an extension smaller than the analysandum’s extension. And given that concepts not sharing the same possible-worlds extension are distinct, both neoclassical views’ take on analysis leaves the question of accounting for concept individuation unresolved.
+ c. Prototype/Exemplar Theories
+Prototype theories of concepts come in two versions, and both claim to receive strong support from the existence of typicality effects for acts of categorization. One sort of prototype view holds that concepts should be analyzed in terms of a set of typical features of members of that concept’s extension. For a prototype view that analyzes a concept [C] in terms of lists of typical features, then for each typical feature there is merely some probability that x will have that feature given that x lies in the extension of [C]. So on this sort of prototype view (which is sometimes termed the probabilistic or the statistical view of concepts), the relationship between a concept and the concepts used to analyze it is a statistical relation, rather than an entailment relation (as in the classical theory).
+The other sort of prototype view analyzes a concept in terms of a particular exemplary instance (or instances) of that concept, and for this reason is sometimes called the exemplar view of concepts. Whether or not some particular is in a given concept’s extension is then accounted for in terms of the degree of resemblance between that particular and the exemplar for that concept. The exemplar for [apple] might be colored a particular shade of red, have a particular rounded shape, have a particular taste, etc., and whether a particular greenish red thing counts as an apple depends on whether it sufficiently resembles the exemplar (or exemplars) for [apple]. (See Smith and Medin 1981, 1999; Fodor 1998; and Murphy 2002 for general discussion of the two prototype theories. Smith and Medin defend the view in their 1981.)
+Objection (1): The problem of typicality effects for definitional concepts. A number of objections have been raised against prototype views, but three have been pressed most often by the critics. The first objection to consider is that there are some concepts that seem definitely not to follow the prototype view, yet are still such that typicality effects have been observed for them. A basic thesis of prototype theories seems to be that when typicality effects are present for a given concept, then the proper analysis for that concept will be in terms of lists of weighted features (on a probabilistic view) or in terms of exemplars (on an exemplar view). If it turns out that concepts that do not have prototypical analyses (e.g., if they have classical analyses) nevertheless are such that there are typicality effects for them, then this would be deeply problematic for prototype theories. Now, take [odd number], which is a concept that does indeed have a classical analysis. Armstrong, Gleitman, and Gleitman 1999 put the matter this way:
+Are there definitional concepts? Of course. For example, consider the superordinate concept [odd number]. This seems to have a clear definition, a precise description; namely, an integer not divisible by two without remainder. No integer seems to sit on the fence, undecided as to whether it is quite even, or perhaps a bit odd…. But if so, then experimental paradigms that purport to show [bird] is prototypic in structure in virtue of the fact that responses to ‘ostrich’ and ‘robin’ are unequal should fail, on the same reasoning, to yield differential responses to ‘five’ and ‘seven’, as examples of [odd number] (234, notation for concepts adjusted).
+So the idea is that if typicality effects for a concept [C] are intended by prototype theorists to show that [C] follows the prototype view, then for concepts that follow the definitional (or classical) view, there should not be any typicality effects for them.
+But for [odd number], typicality effects have been observed for that concept: The number 3 has been found to be more “typical” of the odd numbers than 7, and 7 more “typical” than 501 and 447 (Armstrong, Gleitman, and Gleitman 1999, 232). But as far as the extension of [odd number] is concerned, no odd number is “more of” an odd number than any other, since all odd numbers are odd numbers to the same degree. But given the experimental evidence, the prototype view seems to predict that falling into the extension of [odd number] would be a matter of degree. But this prediction is false, and so it cannot be the case that the prototype view is correct for all concepts. What looks even more damaging is that the empirical results for [odd number] cuts the tie that prototype theorists hold to exist between empirical evidence concerning typicality effects and the proper analysis of concepts. That is, if typicality effects do not support a prototype analysis for [odd number], then it is doubtful that typicality effects support prototype analyses for [bird], [fruit], [sport], or any other concept.
+Objection (2): The [pet fish] problem. Two other objections to be considered concern concepts with conjunctive logical form (like [pet fish]) and “negative concepts” (like [not a cat]). Fodor (1998, Ch. 5) has pressed the objection in a particularly clear way, and what follows here keeps closely to Fodor’s presentation. Both objections take as a basic premise the principle of compositionality, which can be stated as follows: “[T]he syntax and the content of a complex concept is normally determined by the syntax and the content of its constituents (Fodor 1998, 94).” That is, the content of an expression of a complex concept is normally determined by the logical constituents of that concept. For instance, in the sentence “Goldberg is a pet fish,” the predicate ‘is a pet fish’ expresses the concept of being a pet fish. The principle of compositionality then suggests that if one were to give an analysis of [pet fish], there should be an analysis of [pet fish] in terms of [pet] and [fish]. Similarly, in the sentence “Goldberg is not a cat,” ‘is not a cat’ expresses the concept of being not a cat, and there should be an analysis of [not a cat] in terms of [cat].
+Aside from the intuitive appeal of the principle of compositionality, there are two compelling arguments in favor of it: One (paraphrased from Fodor 1998, 94-95) is that compositionality explains why our cognitive capacities are productive with respect to concepts. There are an infinite number of concept-expressing verbal expressions such that we can understand them, yet since the mind is finite the capacity for such understanding must be “finitely representable.” And since the principle of compositionality explains how such an infinite capacity can be had by a finite mind, one should accept the principle.
+Another argument is that the principle of compositionality explains how our cognitive capacities are systematic with respect to concepts (and again see Fodor 1998, 97-99). One example should suffice to illustrate the explanatory tie between compositionality and systematicity: Provided that an agent can grasp what is meant by ‘John’ and ‘Mary’, and that she grasps what is expressed by the predicate ‘is loved by John and Mary’, then she can grasp what is expressed by ‘is loved by Mary and John’. The explanation for why the content of the latter expression can be grasped by an agent given that she grasps the content of the former expression is this. The content of both expressions is compositional, and is composed of the same logical constituents. Compositionality thus explains systematicity, and so the principle of compositionality should be accepted.
+The so-called [pet fish] problem is this. For a complex concept like [pet fish] (which in this case has conjunctive logical form), its logical constituents include [pet] and [fish]. Given that the principle of compositionality holds, there should be an analysis of [pet fish] in terms of [pet] and [fish]. But consider the prototype theorist’s analysis of [pet], [fish], and [pet fish]. On a probabilistic view, each of these concepts would be analyzed in terms of lists of weighted typical features. But the list of weighted features for [pet fish] would not be the union of the lists of weighted features for [pet] and [fish]. For instance, the feature of being a dog might be weighted quite high in a prototypical analysis for [pet] (since dogs are typical pets), while being a dog would have to be weighted quite low (zero, in fact) in a prototypical analysis for [pet fish]. But these weights would have to be the same, it seems, if the principle of compositionality holds good. The problem is also perspicuous on an exemplar view’s analysis of [pet fish]: The exemplar for [pet] might be a dog, and the exemplar for [fish] might be a salmon. But if the exemplar for [pet fish] is a goldfish, it is hard to see how this kind of analysis for [pet fish] could ever be a decompositional analysis in terms of the exemplars for [pet fish]’s logical constituents. So prototype theories of concepts fail, the critic concludes. (See Fodor 1998, 102-103; Rey 1983, 260; 1985, 301-302; and Laurence and Margolis 1999, 37-43).
+Objection (3): The problem of negative concepts. The third objection to prototype theories concerns what is expressed by negative predicates, such as the predicate of the sentence “Goldberg is not a cat.” It appears to be [not a cat], and according to the principle of compositionality this concept should have an analysis in terms of [cat]. But on a prototype view, [not a cat] seems not to have any prototype analysis at all, much less in terms of the prototypical analysis of [cat]. On a probabilistic view, the analysis of [not a cat] would be a list of weighted typical features of those things that are not cats. But it looks like there are no typical features shared by those things that are not cats. On an exemplar view, [not a cat] would be analyzed in terms of the prototypical thing (or type of thing) that is not a cat. But there is no such exemplar, it seems. So not only is it the case that “negative” concepts like [not a cat] have no prototype analyses in terms of their logical constituents, but they simply have no prototype analyses at all. And so prototype theories fail to account for an important class of concepts, and so the critics conclude that prototype theories fail.
+ d. Theory-theories
+Two such views of concepts receive the name theory-theory, so-called due to the emphasis on general theories of a given category in accounting for various concepts of that category. One sort of theory-theory takes concepts to be structured representations analogous to theoretical terms in science, hence as constituents of propositions, and concepts are individuated in virtue of the roles they play in a “mental theory” an agent has with respect to some thing or category of thing. For instance, an agent might have a mental theory about dogs, and the concept she expresses by ‘is a dog’ in “Fido is a dog” is determined by the role(s) that concept plays in her overall theory of dogs. A mental theory in this sense is analogous to a scientific theory, represented in the mind, where such theories are sets of propositions (or representations of them) that are believed by an agent having that mental theory. Such a mental theory is also used to ground an agent’s inferences (such as explanations and predictions) with respect to what that theory happens to be about. The other sort of theory-theory identifies concepts with such internally represented theories themselves, and thus treats concepts as sets of represented propositions. There is obviously a tension here (as pointed out by Laurence and Margolis 1999, 44). One view treats concepts as being on the same ontological and semantic level (as has this article so far), namely as being entities in terms of which whole propositions are analyzed. Yet the other view treats concepts as being on the same ontological and semantic level as propositions (or sets of them). As this latter sort of theory-theory seems to require some means by which to individuate the various propositions that compose a mental theory, and this would require appeal to the very entities that have been called ‘concepts’ throughout this article, the sort of theory more in line with the other theories of concepts is the first sort of theory-theory. (Carey 1985, 1999 defends a version of the theory-theory, as do Murphy and Medin 1999.)
+An objection: The problem of stability. The theory-theory’s view of concept individuation that emerges from its theory of meaning (which is holistic) seems to run contrary to the fairly obvious fact that different agents can possess the same concept. For let the content of a concept be determined by its inferential relations to other concepts as specified by a mental theory. Then two concepts [C] and [D] differ if there is any difference in [C] and [D]’s inferential relations to other concepts as specified by the respective mental theories that include [C] and [D]. But if theories determine the content of the concepts included in them, then any difference in theory seems to entail a difference in concept. Now the problem of stability arises: It is difficult to see how on the theory-theory agents holding different theories could ever possess the same concept. The problem also arises for the same individual if her own theory changes over time. In rejecting one theory in favor of another, the concepts “included” in that theory would change as well.
+For instance, a person whose theory included the proposition (or a representation of the proposition) that arthritis was a disease of the muscles as well as the joints would presumably possess a different concept than a person who did not think arthritis was a disease of the muscles. For the first agent’s theory specifies an inferential relation between something’s being a case of arthritis and its being a disease of the muscles, while the other agent’s theory does not. So what the agents express by ‘arthritis’ fail to play the same roles in their respective mental theories, and so those two individuals do not possess the same concept: They express distinct concepts with their respective uses of ‘arthritis’.
+This would be a minor problem except for the fact that such differences in mental theories would seem to be ubiquitous. If the theory-theory were right, then any difference in beliefs about arthritis entails a difference in mental theory, and thus there would be a difference between what such agents express by ‘arthritis’. Similarly, a child who believes that something looking like a dog but with no bones is nevertheless a dog would possess a distinct concept from a child who does not have such a belief. And in the general case, agents differ quite often in what they believe about members of a given category, and agents change their minds over time as to what they believe about members of a given category.
+The difficulty is even worse if the theory-theorist adopts a global holism. For if one holds that all of one’s mental theories are interconnected by means of further inferential connections, then it seems that agents differing in any belief in any respect would thus possess none of the same concepts. This would clearly be counterintuitive, for surely at least some concepts are shared among different agents irrespective of the difference in the totality of their beliefs.
+ e. Atomistic Theories
+The last theory of concepts to consider is conceptual atomism, or what Fodor (1998) calls informational atomism. Atomism differs from the classical, neoclassical, and prototype views in that while those views take concepts to have logical constitutions, atomism denies this. According to atomism, all or most concepts are such that they have no proper analyses in terms of any kind of “constituent” structure construed as a set of either proper-part containment, entailment, or statistical relations, and thus atomism takes all or most concepts to be primitive. Call strong atomism the thesis that all concepts are primitive in this sense, and moderate atomism the thesis that most concepts are primitive, but at least some concepts are complex.
+Objection (1): The problem of radical nativism. The objection is an argument for the following claim: If atomism is right, then so-called radical nativism about concepts is true. Depending on what sort of atomism is at issue, then all or nearly all concepts turn out to be innate. Since this is counterintuitive, the critics conclude that there is good reason to reject conceptual atomism.
+One note: What is meant by ‘innate’ in this context could mean a number of different things. A concept might be innate if it is “part of one’s nature,” or “hard-wired” into one’s mind from the start. The notion is reminiscent of Descartes’ position that some ideas are innate, such as the idea of God, of infinity, etc. This would indeed make for a counterintuitive result if most or all concepts turned out to be innate in this sense. Intuitively, the possession of [doorknob] (Fodor’s example) is not part of my nature, and nor is it a concept that I have always possessed. Alternatively, a concept might be innate if one has an innate capacity to grasp that particular concept (perhaps given the proper stimuli). It would be counterintuitive if most or all concepts turned out to be innate in this sense as well—[doorknob] seems not to be innate in this sense either. A still more general sense of ‘innate’ seems most adequate here. Take ‘innate’ to mean roughly the same thing as ‘unlearned’ and “unlearned” concepts are those concepts not acquired on any of the models of concept acquisition to be discussed below. And this more general sense of ‘innate’ is consistent with either of the two senses mentioned above: Such a concept could either always be grasped (in the sense of being part of one’s nature) or it could be graspable via some innate faculty tailored for that concept. (See also Fodor 1981 on different senses of ‘innate’ with respect to both innate ideas/concepts and innate cognitive capacities.)
+The argument that atomism implies radical nativism runs as follows (from Fodor 1998, Ch. 6). According to conceptual atomism, all (or nearly all, or most) concepts are primitive, in the sense given in section 2b above. That is, atomism holds that all (or nearly all, or most) concepts have no analyses in terms of other, more basic concepts. But primitive concepts are unlearned, or innate, and so conceptual atomism is committed to the thesis that all (or nearly all, or most) concepts are innate. The conclusion is counterintuitive. What of the support for the premise that primitive concepts are innate? Why think that primitive concepts have to be unlearned?
+There are two lines of thought to consider, the first given by Fodor (1998, 123-124). Acquiring or learning a concept (or the process of grasping a concept for the first time) is an inductive process, one might think. In acquiring a complex concept, one does so by testing various hypotheses about what properties are shared by all things in the extension of that concept. Succeeding in this process, or arriving at the right hypothesis about what properties are shared by all things falling under a concept, means that one has acquired that concept. However, not all concepts can be acquired in this way, and the concepts not acquired by the inductive model of concept acquisition are the primitive concepts. But we still possess or grasp such primitive concepts even if they are not learned, and so the stock of primitive concepts (however large this stock of primitives is taken to be) are all innate.
+The general point seems to be this. If concept acquisition requires some process of hypothesis testing, then acquiring a new concept requires that some concepts already be possessed. For a hypothesis is a proposition, and grasping a proposition indeed seems to require at least some grasp of the concepts expressed in an expression of that proposition. So if hypotheses are tested in acquiring new concepts, and this is the only way to acquire or learn new concepts, then at least some concepts have to be unlearned. So some concepts have to be innate. Since atomists claim that most or all concepts are primitive, the stock of primitives is of course quite large, and thus radical nativism seems to follow.
+Laurence and Margolis (1999, 62-63) consider a somewhat different argument for the same conclusion: Complex concepts are initially grasped by “assembling” them from their constituents, and such constituent concepts would have to already be grasped in order for such an assembly procedure to take place. For instance, suppose I grasp [bachelor] for the first time. On the “assembly” model, this occurs in virtue of combining tokens of [unmarried] and [male] by some capacity of conceptual combination, and I could not acquire [bachelor] in this way unless I already had some grasp of [unmarried] and [male]. Yet this sort of process cannot proceed unless there are some concepts not initially grasped by “assembling” them from their constituents. For instance, I might have acquired [male] in virtue of its being assembled from its constituents, and whatever [male]’s constituents are, I acquired them in virtue of their being assembled from their constituents. But this process had to begin with some concepts not initially acquired by this sort of assembly procedure. And these concepts will be the stock of primitives, since primitive concepts have no constituents to “assemble” them from. So if this model of acquiring complex concepts is right, and it is the only way in which concepts in general can be learned, then the consequence seems to be that primitive concepts are innate.
+Objection (2): The problem of individuating coextensive and empty concepts. Another objection to atomism claims that since concepts have no structure (according to atomism, that is), atomists seem committed to a view of concept identity that distinguishes concepts from one another solely by their extensions (or possible-worlds extensions). This seems to entail that according to atomism, concepts with the same extension will be identical. But then the concepts [closed triangular figure] and [closed trilateral figure] would be identical, since they share the same possible-worlds extension. Furthermore, according to such an extensionalist view of concept identity, all concepts with no possible-worlds extension at all would be identical, such as [round square] and [round triangle]. However, [triangular closed plane figure] and [trilateral closed plane figure] seem distinct, since being three-angled is distinct from being three-sided, and so do [round square] and [round triangle]. The concepts [water] and [H2O] look to be distinct as well, since “This is a sample of water” and “This is a sample of H2O” seem to have distinct meanings. So the objection is that atomism is committed to a view of concept identity that is incorrect, and so atomism is false. (For Fodor’s replies see his 1998).
+ 4. Conclusion
+Research into the nature of concepts is ongoing, in both philosophy and psychology, and there is no general consensus in either field as to the preferred theory of concepts. The theories above primarily address the tasks of answering questions about the analysis of concepts, along with the broadly epistemic questions about them listed at the outset, while not always addressing the metaphysical questions directly. Yet the metaphysical issues do bear on the plausibility of one theory over another. As mentioned earlier, if concepts are abstract Platonistic entities, and not internal mental representations that are “in the head,” then the classical view might escape some of the objections raised by prototype theorists. Alternatively, if concepts are “in the head” as mental representations of some sort, and are structured in terms of the conditions one uses in sorting things as falling under that concept or not, then the classical theory looks bankrupt and the prototype theory looks superior to the rest. Whether the nature of a concept is to have such structure, as opposed to classical structure, a structure more along the lines of the theory-theory, some other structure entirely, or no structure at all, is a thoroughly unresolved matter.
+ 5. References and Further Reading
+
+Ackerman, D. F. 1981. “The Informativeness of Philosophical Analysis.” In P. French, et al. (Eds.), Midwest Studies in Philosophy, vol. 6. Minneapolis, Minnesota: University of Minnesota Press, 313-320.
+
+Ackerman’s articles address the question of the nature of classical analysis, referencing G. E. Moore’s early work on the subject, and also C. H. Langford’s criticisms of Moore.
+
+
+Ackerman, D. F. 1986. “Essential Properties and Philosophical Analysis.” In P. French, et al. (Eds.), Midwest Studies in Philosophy, vol. 11. Minneapolis, Minnesota: University of Minnesota Press, 304-313.
+Ackerman, D. F. 1992. “Analysis and Its Paradoxes.” In E. Ullman-Margalit (Ed.), The Scientific Enterprise: The Israel Colloquium Studies in History, Philosophy, and Sociology of Science, vol. 4. Norwell, Massachusetts: Kluwer.
+Armstrong, S. L., Gleitman, L. R., and Gleitman, H. 1999. “What Some Concepts Might Not Be.” In Margolis and Laurence 1999, 225-259.
+
+Reports on typicality effects occurring for concepts with classical analyses, such as [odd number], and argues that the prototype theory is thus flawed.
+
+
+Bealer, G. 1982. Quality and Concept. Oxford: Clarendon Press.
+Bealer, G. 1993. “Universals.” Journal of Philosophy 90 (1), 5-32.
+
+A defense of a Platonistic view of universals.
+
+
+Bealer, G. 1998. “A Theory of Concepts and Concept Possession.” Philosophical Issues 9, 241-301.
+Carey, Susan. 1985. Conceptual Change in Childhood. Cambridge: M.I.T. Press.
+
+An example of a view of concepts falling under the theory-theory.
+
+
+Carey, Susan. 1999. “Knowledge Acquisition: Enrichment or Conceptual Change.” In Margolis and Laurence 1999, 459-487.
+Chisholm, Roderick. 1996. A Realistic Theory of Categories: An Essay on Ontology. Cambridge: Cambridge University Press.
+
+A defense of Platonism about universals.
+
+
+DePaul, Michael and Ramsey, William (Eds.). 1998. Rethinking Intuition: The Psychology of Intuition and Its Role in Philosophical Inquiry. Lanham, Maryland: Rowman and Littlefield.
+Earl, Dennis. 2002. A Defense of the Classical View of Concepts (Doctoral dissertation, University of Colorado, Boulder, 2002). Dissertation Abstracts International, 63, 06A.
+
+As the title suggests, a defense of the classical theory.
+
+
+Earl, Dennis. 2006. “Concepts and Properties.” Metaphysica 7(1), 67-85.
+
+A defense of the view that concepts and properties are one and the same sort of entity.
+
+
+Fodor, Jerry A. 1975. The Language of Thought. Cambridge: M.I.T. Press.
+
+A seminal work by Fodor defending the view that thought has linguistic structure. Also includes discussion of innateness, both for concepts and for cognitive capacities.
+
+
+Fodor, Jerry. 1981. “The Present Status of the Innateness Controversy.” In RePresentations: Philosophical Essays on the Foundations of Cognitive Science. Cambridge: M.I.T. Press, 257-316.
+
+Distinguishes different senses of innateness, and considers different arguments and issues concerning the issue of innateness.
+
+
+Fodor, Jerry. 1998. Concepts: Where Cognitive Science Went Wrong. Oxford: Clarendon Press.
+
+Fodor’s defense of conceptual atomism, with discussion and criticism of the other views of concepts as well, especially the prototype theory.
+
+
+Fodor, J., Garrett, M. F., Walker, E. C. T., and Parkes, C. H. 1980/1999. “Against Definitions.” In Margolis and Laurence 1999, 491-512.
+
+An influential article defending the thesis that most concepts have no classical-style definitions.
+
+
+Greig, Gordon. 1970. “Moore and Analysis.” In A. Ambrose and M. Lazerowitz, G. E. Moore: Essays in Retrospect. London: Humanities Press, 242-268.
+
+On G. E. Moore on classical conceptual analysis.
+
+
+Harman, Gilbert. 1999. “Doubts About Conceptual Analysis.” In Gilbert Harman, Reasoning, Meaning, and Mind. Oxford: Oxford University Press, 139-143.
+
+Contains criticism of classical-style analyses.
+
+
+Jackson, Frank. 1994. “Armchair Metaphysics.” In M. Michael and J. O’Leary-Hawthorne (Eds.), Philosophy in Mind. Dordrecht: Kluwer.
+Jackson, Frank. 1998. From Metaphysics to Ethics: A Defence of Conceptual Analysis. Oxford: Clarendon Press.
+
+A defense of classical conceptual analysis.
+
+
+Kamp, H. and Partee, B. 1995. “Prototype Theory and Compositionality.” Cognition 57, 129-191.
+Lakoff, George. 1989. “Some Empirical Results About the Nature of Concepts.” Mind and Language 4 (1, 2), 103-129.
+Langford, C. H. 1968. “The Notion of Analysis in Moore’s Philosophy.” In Schlipp 1968, 321-342.
+Laurence, Stephen and Margolis, Eric. 1999. “Concepts and Cognitive Science.” In Margolis and Laurence 1999, 3-81.
+
+An introduction to the issue of the nature of concepts, with extensive discussion of the available views on concepts, with consideration of both support and criticism of each. The article is the introduction to Margolis and Laurence 1999.
+
+
+Margolis, Eric. 1994. “A Reassessment of the Shift from Classical Theories of Concepts to Prototype Theory.” Cognition 51, 73-89.
+Margolis, Eric and Laurence, Stephen (Eds.). 1999. Concepts: Core Readings. M.I.T. Press.
+
+An anthology of historical and contemporary articles on concepts, by both philosophers and psychologists, with an expansive and useful introduction by the editors.
+
+
+Millar, Alan. 1991. “Concepts, Experience, and Inference.” Mind C (4), 495-505.
+
+A review of Peacocke 1992.
+
+
+Millar, Alan. 1994. “Possessing Concepts.” Mind 103 (409), 73-81.
+Moore, G. E. 1966. Lectures on Philosophy. Ed. C. Lewy. London: Humanities Press.
+
+Section I, entitled “What is Analysis?” concerns the nature of classical conceptual analysis.
+
+
+Moore, G. E. 1968. “A Reply to My Critics.” In Schlipp 1968, 660-677.
+
+Includes more on Moore’s account of classical analysis.
+
+
+Murphy, Gregory. 2002. The Big Book of Concepts. Cambridge: M.I.T. Press.
+
+A monograph on theories of concepts, by one of the more important contemporary psychologists in the field.
+
+
+Murphy, Gregory and Medin, Douglas. 1999. “The Role of Theories in Conceptual Coherence.” In Margolis and Laurence 1999, 425-458.
+
+Considers various issues concerning the theory-theory of concepts.
+
+
+Peacocke, Christopher. 1989a. “Possession Conditions: A Focal Point for Theories of Concepts.” Mind and Language 4 (1, 2), 51-56.
+Peacocke, Christopher. 1989b. “What Are Concepts?” In Peter French, Theodore Uehling, and Howard Wettstein, (Eds.), Contemporary Perspectives in the Philosophy of Language II. Midwest Studies in Philosophy, Vol. XIV (Notre Dame, Indiana: University of Notre Dame Press), 1-28.
+Peacocke, Christopher. 1991. “The Metaphysics of Concepts.” Mind C (4), 525-546.
+Peacocke, Christopher. 1992. A Study of Concepts. Cambridge: M.I.T. Press.
+
+Peacocke’s primary and most detailed work on concepts, with the focus on possession conditions for concepts as the basic issue by way of understanding the nature of concepts.
+
+
+Peacocke, Christopher. 2000. “Theories of Concepts: A Wider Task.” European Journal of Philosophy 8 (3), 298-321.
+Pitt, David. 1999. “In Defense of Definitions.” Philosophical Psychology 12 (2), 139-156.
+
+A defense of a classical-style view of concepts.
+
+
+Plato. 1961a. The Collected Dialogues of Plato. Ed. Edith Hamilton and Huntington Cairns. Princeton, New Jersey: Princeton University Press.
+Plato. 1961b. Euthyphro. Trans. L. Cooper. In Plato 1961a, 169-185.
+
+An early dialogue where the focus is on analyzing [piety].
+
+
+Plato. 1961c. Laches. Trans. L. Cooper. In Plato 1961a, 123-144.
+
+A dialogue where the participants attempt to analyze [courage].
+
+
+Plato. 1961d. Lysis. Trans. L. Cooper. In Plato 1961a, 145-168.
+
+A dialogue considering various analyses of [friendship].
+
+
+Plato. 1961e. Theatetus. Trans. L. Cooper. In Plato 1961a, 845-919.
+
+A dialogue on the proper analysis of [knowledge], defending the traditional analysis of knowledge as justified true belief.
+
+
+Prinz, Jesse J. 2002. Furnishing the Mind: Concepts and Their Perceptual Basis. Cambridge: M.I.T. Press.
+Putnam, Hilary. 1966. “The Analytic and the Synthetic.” In H. Feigl and G. Maxwell, eds., Minnesota Studies in the Philosophy of Science, vol. III. Minneapolis, Minnesota: University of Minnesota Press, 358-397.
+
+An influential article attempting to undermine, among other things, the analytic/synthetic distinction, and with it the classical view’s commitment to analyses as analytic truths.
+
+
+Putnam, Hilary. 1983. “‘Two Dogmas’ Revisited.” In Hilary Putnam, Realism and Reason: Philosophical Papers, Volume 3. Cambridge: Cambridge University Press, 87-97.
+Quine, W. V. O. 1953/1999. “Two Dogmas of Empiricism.” In Margolis and Laurence 1999, 153-170.
+Quine, W. V. O. 1960. Word and Object. Cambridge: The M.I.T. Press.
+Ramsey, William. 1992. “Prototypes and Conceptual Analysis.” Topoi 11, 59-70.
+
+A defense of the prototype view, by way of criticizing the classical theory.
+
+
+Rey, Georges. 1983. “Concepts and Stereotypes.” Cognition 15, 237-262.
+
+A criticism of Smith and Medin 1981’s defense of the prototype theory, with exposition on general tasks for theories of concepts to accomplish.
+
+
+Rey, Georges. 1985. “Concepts and Conceptions: A Reply to Smith, Medin and Rips.” Cognition 19, 297-303.
+
+Further criticism of the prototype theory.
+
+
+Rey, Georges. 1995. “Concepts.” In Samuel Guttenplan, (Ed.), A Companion to the Philosophy of Mind (Oxford: Blackwell Publishers), 185-193.
+
+An encyclopedia entry on concepts.
+
+
+Rosch, Eleanor. 1999. “Principles of Categorization.” In Margolis and Laurence 1999, 189-206.
+
+An exposition of Rosch’s famous work from the 1970s illuminating typicality effects for various concepts.
+
+
+Schlipp, P. (Ed.). 1968. The Philosophy of G. E. Moore. LaSalle, Illinois: Open Court.
+Sibley, Frank. 1966. “Aesthetic Concepts.” In Cyril Barrett, Ed., Collected Papers on Aesthetics. New York: Barnes and Noble, 61-89.
+
+This and the following reference defend a view of aesthetic concepts committed to a neoclassical treatment of them.
+
+
+Sibley, Frank. 1973. “Is Art an Open Concept? An Unsettled Question.” In Matthew Lipman (Ed.), Contemporary Aesthetics (Boston: Allyn and Bacon, Inc.), 114-117.
+Smith, Edward E. 1989. “Three Distinctions About Concepts and Categorization.” Mind and Language 4 (1, 2), 57-61.
+Smith, Edward, E. and Medin, Douglas L. 1981. Categories and Concepts. Cambridge: Harvard University Press.
+
+Contains general discussion of research on theories of concepts up to 1981, with a defense of the prototype theory.
+
+
+Smith, Edward, E. 1999. “The Exemplar View.” In Margolis and Laurence 1999, 207-221.
+
+Chapter 7 of Smith and Medin 1981.
+
+
+Wittgenstein, Ludwig. 1958. Philosophical Investigations. 3rd Ed. New York: MacMillan.
+
+Sections 65-78 include Wittgenstein’s critique of classical-style definitions.
+
+
+
+Author Information
+Dennis Earl
+Email: dearl@coastal.edu
+Coastal Carolina University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+
