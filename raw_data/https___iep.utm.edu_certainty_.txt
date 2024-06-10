@@ -1,0 +1,512 @@
+
+
+
+
+
+
+
+
+
+Certainty | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certainty
+The following article provides an overview of the philosophical debate surrounding certainty. It does so in light of distinctions that can be drawn between objective, psychological, and epistemic certainty. Certainty consists of a valuable cognitive standing, which is often seen as an ideal. It is indeed natural to evaluate lesser cognitive standings, in particular beliefs and opinions, in light of one’s intuitions regarding what is certain. Providing an account of what certainty is has however proven extremely difficult; in one part because certainty comes in varieties that may easily be conflated, and in another part because of looming skeptical challenges.
+Is certainty possible in the domain of the contingent? Or is it restricted, as Plato and Aristotle thought, to the realm of essential truths? The answer to this question depends heavily on whether or not a distinction can be drawn between the notion of objective certainty and the notion of epistemic certainty. How are we to characterize the epistemic position of a subject for whom a particular proposition is certain? Intuitively, if a proposition is epistemically certain for a subject, that subject is entitled to be psychologically certain of that proposition. Yet, as outlined by philosophers such as Unger, depending on how psychological certainty is conceived of, skeptical implications are looming. Depending on how psychological certainty is conceived of, it is not clear that a subject can be entitled in being psychological certain of a proposition. Generally, it has proven challenging to articulate a notion of epistemic certainty that preserves core intuitions regarding what one is entitled to think and regarding what characterizes, psychologically, the attitude of certainty.
+Table of Contents
+
+Varieties of Certainty
+
+Objective, Epistemic and Psychological Certainty
+Certainty and Knowledge
+
+
+Psychological Certainty
+
+Certainty and Belief
+A Feeling of Conviction
+The Operational Model
+
+
+Epistemic Certainty
+
+The Problem of Epistemic Certainty
+Skeptical Theories of Epistemic Certainty
+
+Radical Infallibilism
+Invariantist Maximalism
+Classical Infallibilism
+A Worry for Skeptical Theories of Certainty
+
+
+Moderate Theories of Epistemic Certainty
+
+Moderate Infallibilism
+Fallibilism
+Epistemic Immunity and Incorrigibility
+
+
+Weak Theories of Epistemic Certainty
+
+The Relativity of Certainty
+Contextualism
+Pragmatic Encroachment
+
+
+
+
+Connections to Other Topics in Epistemology
+References and Further Readings
+
+1. Varieties of Certainty
+a. Objective, Epistemic and Psychological Certainty
+As a property, certainty can be attributed to a proposition or a subject. When attributed to a proposition, certainty can be understood metaphysically (objectively) or relative to a subject’s epistemic position (Moore 1959, DeRose 1998). Objective certainties consist of propositions that are necessarily true. The relevant types of necessities are logical, metaphysical and physical. For instance, the proposition “It rains in Paris”, even if true, cannot be regarded as objectively certain. This is because it is possible that it does not rain in Paris. On the other hand, the proposition “All bachelors are unmarried” can be regarded as objectively certain, for it is logically impossible that this proposition be false.
+Epistemic certainties are propositions that are certain relative to the epistemic position of a subject and the notion of epistemic certainty ought to be distinguished from that of psychological certainty, which denotes a property attributed to a subject relative to a given proposition (Moore 1959, Unger 1975: 62sq, Klein 1981: 177sq, 1998, Audi 2003: 224 sq, Stanley 2008, DeRose 2009, Littlejohn 2011, Reed 2008, Petersen 2019, Beddor 2020a, 2020b, Vollet 2020). Consider the statement “It is certain for Peter that John is not sick”. Note that this statement is ambiguous, as, “for Peter” could refer to Peter’s epistemic position, for example, the evidence Peter possesses. If Peter states “It is certain that John is not sick, because the doctor told me so”, he can be understood as stating that “John is not sick” is certain given his epistemic position which comprises what the doctor told him. But “for Peter” can also denote an attitude adopted by Peter toward the proposition “John is not sick”. The attitude at issue is the type of attitude that falls under the concept of psychological certainty.
+Epistemic certainty or epistemic uncertainty are often expressed by the use of modals such as “may” or “impossible” which are understood in an epistemic sense (see Moore 1959, DeRose 1998: 69, Littlejohn 2011, Petersen 2019, Beddor 2020b: sect. 5). To express epistemic certainty one can say, for instance, “It is impossible that John is sick, because the doctor said he wasn’t”. Likewise, to express epistemic uncertainty, one can say “John may be sick, as his temperature is high”. Used in such a way, these modals describe the epistemic position of a subject relative to a proposition toward which she may or may not adopt an attitude of certainty.
+Even if it is intuitively correct that the epistemic position of a subject for whom some proposition is certain consists of a favorable epistemic position, it is an open question if a proposition being epistemically certain for a subject entails that that proposition is true. Depending on how the epistemic position relative to which a proposition that is epistemically certain for a subject is conceived of, epistemic certainty may not turn out to be factive (DeRose 1998 Hawthorne 2004: 28, Huemer 2007, von Fintel et Gillies 2007, Littlejohn 2011, Petersen 2019, Beddor 2020b, Vollet 2020).
+Psychological certainty, for its part, is generally regarded as a being non-factive. For example, John can be psychologically certain that it is raining in Paris even if it is not raining in Paris. In addition, psychological certainty does not require that a subject be in a favorable epistemic position. It is possible for John to have no reason to believe that it is raining in Paris, and yet, be psychologically certain that it is raining in Paris.
+Despite being conceptually distinct, the notions of objective, epistemic and psychological certainty are significantly related. From Antiquity to the end of the Middle Ages, the idea that true science (epistémè) – that is, epistemic certainty – could only pertain to necessary truths  whose object was either intelligible forms or essences seemed to be widely accepted. In The Republic books V, VI and VII, Plato endorses the view that sensible reality is merely an imperfect and mutable copy of an ideal, perfect and immutable realm of existence. As a result, sensible reality can only be the object of uncertain opinions (doxa). For his part, Aristotle defines epistemic certainty, or “scientific knowledge,” as the syllogistic demonstration of essential truths. It is through such syllogisms that one can comprehend what belongs essentially to objects of knowledge (Aristotle Organon IV. Posterior Analytics, I, 2, Metaphysics VII.2, 1027a20). It is during the Scientific Revolution that emerges the idea of a science of the contingent and of the possibility of distinguishing epistemic certainty from objective certainty.
+In addition, epistemic certainty has an important normative relationship to psychological certainty (Klein 1998). For instance, Descartes states that one should not adopt an attitude of certainty toward propositions that are not entirely certain and indubitable (Descartes Meditations on First Philosophy § 2). Similarly, Locke’s evidentialist principle prescribes that a subject should proportionate her opinion to the evidence she possesses (Locke Essay, IV, 15 §5). Indeed, it seems that if a proposition is not epistemically certain for a subject, that subject is not justified in being certain that that proposition is true (Ayer 1956: 40, Unger 1975).
+b. Certainty and Knowledge
+According to several philosophers, the notions of psychological and epistemic certainty are closely connected to the notion of knowledge. One could regard the propositional attitude involved in knowing something to be the case as consisting of the attitude of psychological certainty and therefore take epistemic certainty to be a condition on knowledge. (Ayer 1956, Moore 1959, Unger 1975, Klein 1981). Such a view would explain why concessive knowledge attributions such as, “I know that I have hands, but I might be a handless brain in a vat” appear to be inconsistent (Lewis 1996).
+However, there are reasons to draw a more substantial distinction between certainty and knowledge. First, as epistemic certainty is intuitively very demanding, taking it as a condition on knowledge could easily lead to the conclusion that ordinary knowledge is beyond one’s reach (Unger 1975). Second, there seem to be cases where some knowledge is attributed to a particular subject without that subject being described as psychologically certain (Stanley 2008, McGlynn 2014, Petersen 2019, Beddor 2020b, Vollet 2020). For instance, consider the statements, “I know that p for certain” or, “I know that p with certainty”. These statements are not redundant, and express something stronger than “I know that p” (Malcolm 1952, Beddor 2020b, Vollet 2020, Descartes distinguishes, for his part, cognitio and scientia: see Pasnau 2013).
+In addition, concessive knowledge attributions can be explained by other means. According to some philosophers, a pragmatic implicature in tension with the attribution of knowledge is communicated whenever an epistemic possibility is explicitly considered during  a conversation. For instance, that this possibility is relevant when it comes to determining whether the subject knows that p (Rysiew 2001, Fantl and MacGrath 2009, Dougherty and Rysiew 2009, 2011, for difficulties raised by this type of explanation see Dodd 2010). Other philosophers explain the apparent inconsistency of concessive knowledge attributions by claiming that epistemic certainty is the norm of assertion (Stanley 2008, Pertersen 2019, Beddor 2020b, Vollet 2020).
+Whether or not knowledge can be conceived of in terms certainty, because of the close connection between these notions and the centrality of questions pertaining to knowledge in epistemology, the philosophical discussion has been primarily focused on the notions of psychological and epistemic certainty. Therefore, the primary aim of this entry is to present the different ways in which these notions have been understood by philosophers. Note that the question of the relationship between epistemic and objective certainty will nevertheless be addressed in relation to infaillibilist conceptions of epistemic certainty.
+2. Psychological Certainty
+a. Certainty and Belief
+There is an intuitive connection between psychological certainty and belief. Whenever a subject is certain of p, she takes p to be true which is characteristic of the attitude of belief. Yet, one can believe that p without being certain of p. One can reasonably state, “I believe that it will rain tomorrow, but I am not certain that it will” (Hawthorne, Rothschild and Spectre 2016, Rothshild 2020). Thus, being certain of p does not (merely) amount to believing that p (for versions of the claim that believing that p involves being certain that p, see Finetti 1990, Roorda 1995, Wedgwood 2012, Clarke 2013, Greco 2015, Dodd 2017 and Kauss 2020).
+One way to conceive of the relationship between psychological certainty and belief is to introduce a “graded” notion of belief. Traditionally, philosophical discussion has relied on a binary notion of belief: either a subject believes a proposition, or she does not. But a subject can also be said to have a certain degree of belief in a proposition and given a graded notion of belief, psychological certainty can plausibly be conceived as the maximum degree of belief one could have in a proposition. For its part, the attitude of belief or outright belief is conceivable as a high, yet non-maximal degree of belief in a proposition (Foley 1992, Ganson 2008, Weatherson 2005, Sturgeon 2008: 154–160 and Leitgeb 2013, 2014, 2017).
+Such a conception of psychological certainty raises, however, three important questions. First, what does it mean for a subject to have a particular degree of belief in a proposition? Second, how should degrees of belief be quantified? Third, what does it take for a subject to have the maximum degree of belief in a proposition?
+b. A Feeling of Conviction
+ 
+A first possibility is to consider that a subject’s degree of belief in p consists of an internally discernable feeling of conviction toward p’s truth (for a discussion of certainty as a metacognitive or epistemic feeling, see Dokic 2012, 2014; Vazard 2019; Vollet 2022). For example, consider the propositions “2+2=4” and “It will rain tomorrow.” Presumably, there is a discernable difference in one’s feeling of conviction toward the truth of each proposition. One’s conviction toward the truth of “2+2=4” is stronger than one’s conviction toward “It will rain tomorrow” and, given the view under examination, one’s degree of belief in “2+2=4” is thereby higher than one’s degree of belief in “it will rain tomorrow”. This is the case even if one believes that both “2+2=4” and “It will rain tomorrow” are true. Such a conception seems to prevail among philosophers such as Descartes and If a subject’s degree of belief in p consists of a certain feeling of conviction toward p’s truth, then psychological certainty is naturally conceived of a maximally strong feeling of conviction toward the truth of a proposition (see also Locke Essay, and Hume Enquiry).
+Such a conception of psychological certainty is problemmatic however. First, many propositions which a particular subject is certain of at a given time may not be associated with a discernable feeling of conviction. One might be absolutely certain that 2+2=4 at t without having any particular feeling toward that proposition, for example, if one is not entertaining the thought that 2+2=4 at t. Second, it is not clear that the type of feeling that is supposed to illuminate the notion of psychological certainty has the required structure. In particular, it is not clear that such a feeling has upper and lower bounds. In light of these complications, it might be preferable, in order to explicate the notion of psychological certainty, to exploit the intuitive connection there is between that notion and the notion of doubt.
+It is intuitively correct that if a subject is absolutely convinced that a proposition is true, her attitude toward that proposition leaves no room for doubt. The proposition, for that subject, is indubitable. For instance, one may have that degree of conviction toward the proposition, “I think, therefore I am ” because one finds it difficult—perhaps even impossible—to doubt it (see Ayer 1956: 44-45 for discussion). Note, however, that this characterization of psychological certainty remains ambiguous. It can be understood either synchronically or diachronically (Reed 2008); assuming that one distinguishes the degree of belief a subject can have in a proposition from the stability of this degree of belief (see Levi 1983: 165; Gärdenfors et Makinson 1988: 87, Skyrms 1980: 11f., Leitgeb 2013: 1348, 1359, Moon 2017 and Kauss 2020). From a synchronic perspective, it follows from this characterization that if a subject is certain that p at t, that subject has absolutely no doubt regarding p’s truth at t. However, it does not follow that the subject who is certain that p at t could not doubt that p at a later time t’. In contrast, from a diachronic perspective, it follows from this characterization of psychological certainty that if a subject is certain that p at t, then p is indubitable in the sense that any doubt concerning p’s truth is excluded for that subject, both at t, and at a later time t’.
+Understood diachronically, this characterization of psychological certainty under examination is thus stronger and possibly better suited to explicate this type of attitude.  As a matter of fact, according to the synchronic reading, a belief very easily revisable could qualify as a psychological certainty. Yet, it seems that psychological certainty consists of something stronger than this. If a subject is absolutely convinced that p is true, one expects her attitude toward p to be stable.
+Several ways of understanding what it takes for a proposition to be indubitable for a subject have been put forward. According to Peirce, the notion of doubt is not related to the mere contemplation of the possibility of a proposition being false (Peirce 1877 and 2011). Instead, doubt is characterized as a “mental irritation” resulting from the acquisition of unforeseen information which provides motivation to investigate a proposition’s truth further. According to this pragmatic conception of doubt, the exclusion of doubt regarding p’s truth is the result of a rational inquiry into the question of p’s truth and does not simply consist of a psychological impossibility to contemplate the possibility of p being false (Vazard 2019) .
+In contrast, Malcolm and Unger adopt a Cartesian conception of doubt (Malcolm 1963 67-68, Unger 1975  30-31, 105 sq). For them, doubt regarding p’s truth is excluded for a subject at a time t whenever her attitude toward p at t is such that no information or experiences will lead her to change her mind regarding p. When a subject is certain that p and doubt regarding p’s truth is excluded for her, her attitude toward p is such that, for her, any consideration in favor of the conclusion that p is false is misleading. This means, for instance, that if a subject is certain that there is an ink bottle in front of her at t, her attitude toward the proposition “There is an ink bottle in front of me” is such that, at t, if she felt or had a visual experience as of her hand passing through that ink-bottle, this would not provide reason for her to think that there is not an ink bottle in front of her. Rather, it would provide reason for the subject to think that such sensory experiences are illusory.
+For other philosophers, if a subject is certain that p, no data or experience could lead her to doubt that p is true without putting the totality of her beliefs into question, including beliefs concerning the data or experience prompting her to doubt that p is true in the first place (Miller 1978). That is, if a subject is certain that p, then any reason to doubt that p is true would constitute, for her, a reason to doubt absolutely anything, including the very existence of that reason.
+This characterization of psychological certainty manages to capture the idea that this attitude differs from the attitude of belief in that it is not revisable. Note, however, that this characterization does not entail that no psychological event could alter one’s attitude of certainty. Even if any doubt regarding p’s truth is excluded for a subject at t, circumstances could lead her to doubt p’s truth. In addition, this characterization does not exclude the possibility of the subject acquiring, at a later time t’, evidence supporting the conclusion that p is false, and of losing, as a result, her conviction regarding p’s truth.
+Additionally, the exclusion of doubt regarding p’s truth is not only related to the attitude adopted by a subject who is certain of p toward what counts as a reason to think that p is false. As noted by Unger, a subject’s absolute conviction that p is true manifests itself in the subject’s readiness to use p as a premise of practical or theoretical reasoning without hesitation (Unger 1975: 116). Of course, this aspect of psychological certainty is not in conflict with the characterization of this attitude outlined above. As a matter of fact, if any doubt regarding p’s truth is excluded for a subject, it is plausible that she is ready to use p as a premise of reasoning without hesitation.
+While the characterization of psychological certainty just outlined capture central features of this attitude, it also faces certain difficulties. Given such a characterization of psychological certainty, one could be led to think, following Unger, that psychological certainty is a fundamentally dogmatic attitude which should not be adopted (Unger 1975). Yet, philosophers such as Dicker, Carrier, Douven and Olders reject the idea that psychological certainty consists of a dogmatic attitude (Dicker 1974: 166, 168, Carrier 1983, Douven and Olders 2008: 248) and philosophers such as Miller argue that psychological certainty is in fact compatible with a feeling of doubt (Miller 1978: 48, 53-54).
+c. The Operational Model
+As noted in the previous section, explicating the notion of psychological certainty in terms of an internally discernable feeling of conviction raises serious problems. This has led several philosophers to favor an operationalist or functionalist approach of psychological certainty. According to De Finetti, an operational definition of a subject’s degree of belief can be given in terms of her betting behavior (De Finetti 1937 and 1990). More precisely, a subject’s degree of belief in p can be conceived of as the odd that a subject regards as fair for a bet on p’s truth that would be rewarded with one monetary unit if p was true. For instance, suppose one is offered a bet on whether or not the proposition “Berlin is the capital of the Federal Republic of Germany” is true. Suppose, in addition, that if one were to be right concerning that proposition, one would be rewarded $1. If one is ready to pay $.80 to bet on the truth of that proposition, then, given De Finetti’s model, one’s degree of belief in the proposition “Berlin is the capital of the Federal Republic of Germany” can be represented as a function which assigns the value .8 to that proposition.
+Ramsey generalizes the relationship between a subject’s expectations—her degree of belief regarding the truth of a set of propositions—and her behavior to any type of preferences (Ramsey 1929). According to him, whenever a subject determines whether she prefers to do A or B, she relies on her degree of belief in the propositions representing the states of affairs which the possible results of each option depends on. Thus, a subject’s expectations allow her to determine the value she can expect from each option and to rationally determine whether or not she prefers to do A or B.
+Several representation theorems have been formulated to show that if a subject’s preferences satisfy a set of intuitively acceptable constraints, they can be represented by a probability function corresponding to both the subject’s expectations and a utility function which, in conjunction, maximize the expected utility of each possible option (Ramsey 1926, Savage 1954, Jeffrey 1965, Joyce 1999). This formalization of the relationship between rational expectations and rational preferences is central to both Bayesian Epistemology and Bayesian Decision Theory as it lays the groundwork for an analysis of epistemic rationality in light of the assumption that rational expectations can be represented as a probability distribution over a given set of propositions.
+The connection between a subject’s degree of belief and her preferences suggests that psychological certainty can be conceived of as a subject’s propensity to act in a certain way. If one relies on betting behavior to explicate degree of belief, psychological certainty could be conceived of as a subject’s readiness to accept any bet concerning p’s truth as long as the bet at issue can result in potential gains. Such a conception would be similar to the one presented in the previous section; viewing psychological certainty as an attitude toward p characterized by the exclusion of doubt regarding p’s truth. If doubt regarding p’s truth is excluded for a subject, what reason could that subject have to refuse a bet on p’s truth that could result in potential gains? If any doubt regarding p’s truth is excluded for her, then nothing could lead her to doubt that p is true; not even the stakes involved in a particular bet concerning p’s truth.
+But, of course, we are not certain of many propositions in that sense. If the stakes related to a bet that is offered to us concerning the truth of a proposition we regard as being certain are high, we hesitate. Additionally, it seems that we are right not to be certain of many propositions in that sense, for the evidence we normally have access to does not warrant adopting such an attitude. This is not perceived, however, as being fundamentally problemmatic by the proponents of Bayesian conceptions of epistemic and practical rationality as such conceptions purport to model epistemic and practical rationality in a context of generalized uncertainty. If such conceptions fundamentally aim at showing how it can be reasonable for a subject to think or act in certain way in a context of generalized uncertainty, the fact that given these conceptions there is almost nothing which we are certain and can reasonably be certain of can hardly count as a drawback. This is true as long as one is ready to concede that this construal of psychological certainty is not necessarily equivalent to our ordinary concept of psychological certainty (Jeffrey 1970: 161).
+3. Epistemic Certainty
+a. The Problem of Epistemic Certainty
+According to the Lockean principle, which requires that one proportions one’s degree of belief to the evidence, a subject is justified in being psychologically certain of a proposition if, and only if, this proposition is epistemically certain. This principle is widely accepted as it explains why statements such as “It is certain that p, but I’m not certain that p” sound incoherent (Stanley 2008, Beddor 2020b, Vollet 2020). The main question being: are there epistemically certain propositions, and if so, what grounds their epistemic certainty?
+To tackle this question, let us consider the following propositions:
+(1)   It will rain in Paris in exactly one month at 5 p.m.
+(2)   The lottery ticket I’ve just bought is a losing ticket (Context: It only has a chance of one in a million to win).
+(3)   My car is currently parked in the parking lot (Context: I parked my car in the parking lot five minutes ago.)
+(4)   The world was not created five minutes ago.
+(5)   It hurts. (Context: I just dropped a hammer on my foot)
+(6)   All bachelors are unmarried men.
+As previously mentioned, epistemic certainty is relative to the epistemic position of a particular subject. Considering the six propositions above, the question at hand is therefore whether or not a subject’s epistemic position can be such that these propositions are certain for her. One can reasonably doubt that a subject can be in an epistemic position such that (1) is certain for her. Considering the evidence a subject normally has access to, it seems that (1) can be, at best, highly probable, but not certain. Likewise, (2) appears to constitute a typical example of uncertain propositions; the sort that tends to illustrate the difference between certainty and high probability.
+On the other hand, it is intuitive to think that propositions such as (3), (4), (5) or (6) can be epistemically certain. In a typical situation, if a subject comes to doubt that her car is still parked in the spot she left it five minutes ago, that the world was not created five minutes ago, that it hurts when she drops a hammer on her foot, or that all bachelors are unmarried, one would presumably consider this doubt as ill-founded and absurd. Yet, one might think it is possible that one’s car was stolen two minutes ago, or that the world was created five minutes ago. In fact, it is unclear if the evidence one possesses allows dismissing such scenarios. What about propositions such as (5) and (6)? Some philosophers suggest that it is reasonable to doubt the truth of such propositions in cases where one is offered a bet with extremely high stakes, for example a bet in which, if the proposition is false, one’s family is tortured to death. In such cases, it seems reasonable to decline the bet. Now, given the Lockean principle mentioned above, this may be interpreted as providing good evidence to think that even these kinds of propositions are not actually certain.
+These considerations show how problemmatic the notion of epistemic certainty can be. We easily admit that, given the evidence normally available to a subject, propositions such as (1) and (2) are uncertain. In contrast, we are inclined to think that propositions such as (3), (4), (5) and (6) are, or can be, epistemically certain. Yet, minimal reflection suffices to put this inclination into question. This has been highlighted by Hume; when one does not pay specific enough attention, one considers many propositions to be certain (Hume Treatise III, 1. 1. 1.). However, minimal philosophical reflection suffices to shake this conviction which reappears as soon as one comes back to one’s daily life. The question of the nature, possibility and extension of epistemic certainty is in fact nothing other than the problem of skepticism, which rests at the heart of important debates in epistemology (Firth 1967).
+The challenge, then, consists in articulating and defending a criterion for epistemic certainty, while also explaining the problemmatic cases which arise from this criterion. If we consider the propositions (1)-(6), three families of theories of epistemic certainty can be distinguished.
+In the following list, the term “skeptical” is used with respect to epistemic certainty, rather than knowledge:
+  Skeptical:
+o        Radically skeptical: none of the considered propositions are, or can be, certain.
+o        Strongly skeptical: only propositions such as (6) are, or can be, certain.
+o        Moderately skeptical: only propositions such as (5) or (6) are, or can be, certain.
+Moderate:
+o        Strong moderate: only propositions such as (4), (5) and (6) are, or can be, certain.
+o        Weak moderate: only propositions such as (3), (4), (5) and (6) are, or can be, certain.
+Weak:
+o        Propositions such as  (2), (3), (4), (5) and (6) are, or can be, certain.
+In the remaining sections, the focus is on the theories listed above, with radically skeptical theories considered as opponents that these theories are designed to respond to.
+b. Skeptical Theories of Epistemic Certainty
+i. Radical Infallibilism
+One way of explaining epistemic certainty appeals to infallibility. In general, one is infallible with regard to p if and only if it is impossible for one to be mistaken about p’s truth (Audi 2003: 301 sq):
+Certainty-RI: p is certain for S if, and only if, S can believe that p, and it is absolutely impossible for S to believe that p and to be mistaken about p’s truth.
+According to this definition, at least two kinds of propositions can be certain. First, there are necessarily true propositions such as (6). Indeed, if a proposition is necessarily true, it is impossible for a subject to believe that this proposition is true and, at the same time, to be mistaken about that proposition’s truth. Second, there are propositions that are true in virtue of being believed to be so by a subject. For example, a subject cannot believe the propositions, “I have a belief” or, “I think, therefore I am” to be true and, at the same time, be mistaken concerning their truth. This is because, these propositions are true in virtue of being believed to be so by the subject.
+As it should be clear, this conception of epistemic certainty excludes propositions such as (1), (2), (3), (4) and (5). Indeed, these propositions are contingent, and their truth is independent of whether or not they are believed to be true by a subject (Ayer 1956: 19). Certainty-RI is therefore a strongly skeptical conception of epistemic certainty. Given that conception, very few informative propositions can be certain or even known if one maintains that knowledge requires epistemic certainty.
+A major difficulty raised by this conception of epistemic certainty is, however, that it entails that any logically or metaphysically necessary proposition is epistemically certain. For instance, a mathematical conjecture such as Goldbach’s, if it is true, is necessarily true. As a result, according to this conception of epistemic certainty, any mathematical conjecture, if it is true, is epistemically certain. Yet, it seems clear that one can have reasons to doubt the truth of a mathematical conjecture (Plantinga 1993: ch. 8).For example, a recognized expert might wrongly assert that a given conjecture is false. A related worry is the well-known problem of logical omniscience: since we are not logically omniscient, it is implausible to consider that every logical or metaphysical truth is certain for us (Hintikka 1962, Stalnaker 1991). In order for a logical or metaphysical necessity to be epistemically certain for a subject, it seems that the subject should at least grasp the nature of that necessity.
+One crucial aspect that this conception of epistemic certainty fails to capture is related to the absence of good reasons to doubt. Intuitively, what makes a logical or metaphysical truth epistemically certain is not the fact that it is necessarily true, but that we have very strong reasons to regard it as necessarily true.
+ii. Invariantist Maximalism
+The above considerations suggest that epistemic certainty should rather be explicated in terms of the absence of good reasons to doubt:
+Certainty-IND: p is certain for S if and only if p is epistemically indubitable for S. That is, if and only if it is impossible for S to have a good reason to doubt that p.
+According to a first version of Certainty-IND, epistemic certainty depends on a subject having the highest possible degree of justification for believing a proposition (Russell 1948, Firth 1967: 8-12). If a subject’s justification is absolutely maximal with respect to p, no proposition q can be more justified than p. It follows that if p is certain, no proposition can provide a good reason to doubt that p, as any consideration q speaking against the truth of p would have a lower degree of justification. Let us label this conception “Invariantist Maximalism.”
+Certainty-IM: p is epistemically certain for S if and only if there is no proposition q which can be more justified, for S, than p.
+Invariantist Maximalism relies on the thought that the term “certain” is an absolute term which applies in light of an invariant and maximal criterion: if p is certain for S, nothing can be more certain than p, no matter the context of epistemic appraisal (Unger 1975. For criticisms, see Barnes 1973, Cargile 1972, Klein 1981, Stanley 2008, and Vollet 2020). An advantage of this view is that it does not entail that all necessary truths are epistemically certain. Even if one assumes that if a proposition is maximally justified for a subject, the subject is then infallible with respect to it, infallibility, on its own, is not sufficient for epistemic certainty. (Fantl and McGrath 2009: ch. 1, Firth 1967: 9). For example, someone cannot incorrectly believe that water is H2O, though one’s justification for believing that water is H2O need not be maximal.
+Nonetheless, Invariantist Maximalism easily leads to radical skepticism. A first reason for this is that one might think it is impossible to identify a maximal threshold of justification. Indeed, it always seems possible to raise the degree of justification one has for believing that a given proposition is true, either by acquiring new evidence from a different source, or by acquiring higher-order justification (Brown 2011; 2018, Fantl 2003). Taking this into account, the invariantist Maximalist conception of epistemic certainty predicts that no proposition is epistemically certain.
+Furthermore, this approach leads one to classify as epistemically uncertain any proposition less justified than those such as, “I exist.” This is the case even with propositions that can be logically deduced from such propositions. For, it is plausible that the degree of justification one has for believing logically stronger propositions than “I exist” is slightly lower than the degree of justification one has for believing the proposition “I exist”.
+One way of avoiding these skeptical consequences is to restrict the set of propositions that constitute the comparison class. That is, the set of propositions which p is compared to in determining its epistemic certainty (see Firth 1967: 12 for a presentation of various possibilities). However, the difficulty is to propose a criterion for restricting this set that is neither too strong nor too weak. For instance, Chisholm proposes to restrict the comparison class to the propositions that a subject, at a given time t, can reasonably believe (Chisolm 1976: 27):
+Certainty-Chisholm 1: p is certain for S at t if and only if
+(i) Accepting p is more reasonable for S at t than withholding p, and
+(ii) there is no q such that accepting q is more reasonable for S at t than accepting q.
+Yet, this criterion seems too weak. If no proposition is justified to a high degree, some propositions with a very low degree of justification could be said to be epistemically certain given Certainty-Chisholm 1 (Reed 2008).
+Consequently, consider the criterion proposed by Chisholm (1989: 12):
+Certainty-Chisholm 2: p is epistemically certain for S if and only if, for any proposition q:
+(i) believing p is more justified for S than withholding judgement concerning q, and
+(ii) believing p is at least as justified for S as is believing q.
+Even if this criterion is stronger, the problem is that there are many propositions which one has absolutely no evidence for, and, accordingly, concerning which one is absolutely justified to suspend judgement. For instance, it does not seem more reasonable to believe the proposition, “I think, therefore I am” than it is to withhold judgement concerning the proposition, “There are an even number of planets.” As a result, according to Certainty-Chisholm 2, “I think, therefore I am” is not epistemically certain (Reed 2008).
+iii. Classical Infallibilism
+According to another version of Certainty-IND, epistemic certainty does not require having a maximal justification for believing a proposition (in contrast to Certainty-IM) or being infallible regarding a proposition’s truth in the sense of Certainty-RI. Instead, epistemic certainty requires that one’s justification be infallible. To say that the justification S has for p is infallible is to say that it is impossible, logically or metaphysically, for S to have this justification and that p is false. In addition, this requirement is traditionally understood along internalist lines in such a way that whenever a subject possesses an infallible justification for p she is in a position, because of the access she has to the justifiers, to rule out, herself, the possibility of p being false. Thus, consider the following formulation of the classical infallibilist conception of epistemic certainty:
+Certainty-CI: p is certain for S if and only if S has (internal) access to a justification for p which implies p.
+According to this conception, epistemic certainty requires an infallible guarantee that is (reflexively) accessible to the subject (Dutant 2015). For instance, Descartes maintains that clear and distinct ideas are guaranteed to be true, and they are therefore epistemically indubitable (Meditations II). Russell states that through introspection, one can directly access one’s sense data, and that thereby, one’s introspective beliefs are guaranteed to be true (Russell 1912).
+This kind of approach can avoid the problem of propositions that are necessarily true, but epistemically uncertain. This is the case if one maintains that one consideration can justify another only if what makes the first consideration true also (in part) makes the other consideration true (Fumerton 2005: sec. 2.2). Alternatively, one can think of an infallible guarantee as a ground or method of belief formation which cannot produce false beliefs (Dutant 2016). Note that this conception can allow propositions of type (5) to be certain if it is assumed, for example, that what justifies my belief that “My foot hurts” is the fact that my foot itself hurts, which is accessible via introspection.
+The Bayesian approach, on a standard interpretation, can be considered as a formalized version of such a conception. One of its main tenets is that a subject’s expectations regarding a set of propositions can be, if rational, represented as a probability distribution over this set. In other words, a subject’s expectations relative to the truth of a set of propositions can be, if rational, represented as a function assigning to each of these propositions a numerical value which satisfies the definition of a probability function given by Kolmogorov (Kolmogorov 1956). If a subject’s rational expectations regarding a set of propositions are represented as such, the expectations a subject should have, given the evidence she possesses, can be represented in terms of conditional probability, whose definition is provided by Bayes’ theorem. Epistemic certainty is thus conceived of as the maximal probability (probability 1) that a proposition can have, given the available evidence:
+Certainty-Prob: p is epistemically certain for S if and only if Pr(p|E) = 1
+This conception of certainty can be viewed as a version of classical infallibilism if it is assumed that no false proposition can be evidence, that evidence is always accessible as such to the subject, and that whatever constitutes the evidence possessed by a subject is itself epistemically certain. This is a strongly skeptical conception if, following orthodox Bayesians like Jeffrey, one thinks that only logically necessary propositions should receive maximal probability (Jeffrey 2004). If, on the other hand, some contingent propositions, in particular about our own mental states, can be considered as evidence in this sense, then this conception can be regarded as moderately skeptical. The main advantage of this kind of approach is that it offers a way of accounting for practical and epistemic rationality in absence of epistemic certainty (and knowledge) of a great number of propositions.
+Still, we may think we can have reasons to doubt the evidence we have and what our evidence does or does not entail (Lasonen-Aanio 2020). For example, one may have reason to doubt the infallible character of clear and distinct perceptions, or doubt what qualifies as clear and distinct (Descartes Meditations I, Ayer 1956: 42-44). Furthermore, the standard Bayesian conception has it that it is rational to take a bet on any logical truth, no matter the stakes or the odds. According to this framework, it would be irrational (probabilistically incoherent) to assign a non-maximal probability to a logical truth. Yet, it seems that it is sometimes irrational to take such a bet (Fantl and McGrath 2009: ch. 1, Hawthorne 2004). As previously demonstrated, it is plausible to think that some logical truths can be epistemically uncertain.
+iv. A Worry for Skeptical Theories of Certainty
+Whether or not a satisfactory skeptical account of certainty can be offered, it is in tension with our intuitive judgements and the ordinary way in which we use the word ‘certainty’ and epistemic modals (Huemer 2007, Beddor 2020b, Vollet 2020). Suppose that it is epistemically certain that p if and only if it is epistemically impossible that not-p (DeRose 1998). According to Invariantist Maximalism, for example, if I lost my wallet this morning and my wife tells me, “It might be in the restaurant” and I answer “No, that’s impossible, I didn’t go to the restaurant.” then, my wife says something which is, strictly speaking, true, and I say something which is, strictly speaking, false. Indeed, I do not satisfy the absolutely maximal criteria of justification with respect to the proposition, “My wallet is not in the restaurant.” Similarly, if my evidence does not logically exclude this possibility, then the probability of that proposition on my evidence is lower than 1. Even more surprisingly, we should admit that my wife would, strictly speaking, say something true were she to say “Your wallet might be on the Moon.” (Huemer 2007).
+A pragmatic explanation of the (in)appropriateness of these utterances might be advanced. One might say that, in the above context, it is (practically) appropriate to ignore the epistemic possibilities in question (see the treatment of concessive knowledge attributions above). Still, explaining the intuitive (in)appropriateness of an utterance does not amount to accounting for its intuitive truth value. Another option is to rely on the distinction between epistemic and moral or practical certainty (Descartes Principles of philosophy, IV, § 205, Wedgwood 2012, Locke 2015). The latter can be understood as a degree of epistemic justification sufficiently high to treat the proposition as certain in one’s actions and practical decisions. One may suggest that the ordinary way in which people use ‘certain’ and the associated epistemic modals, as well as our intuitions, primarily tracks certainty as understood in the latter sense (Kattsoff 1965: 264).
+The Bayesian approach has the advantage of providing a general framework in which practical and epistemic rationality in a context of generalized uncertainty can be modeled in a precise way. The claim that the subject’s expectations, if rational, can be represented as a probabilistic distribution allows formulating conditionalization rules describing exactly how a subject should adapt her expectations to the evidence in the absence of certainties. That said, either the concept of certainty that this approach uses is a technical one, in that it does not correspond to our ordinary concept of certainty, or this approach must provide an explanation of the way in which we ordinarily use this concept and the associated epistemic modals.
+c. Moderate Theories of Epistemic Certainty
+i. Moderate Infallibilism
+It is often thought that requiring an infallible justification leads to skepticism about certainty (and knowledge). However, a non-skeptical and infallibilist account can be offered if one rejects the (internalist) accessibility requirement of Certainty-CI (Dutant 2016). For example, one could say that infallibility should not be cashed out in terms of the evidence possessed by a subject but instead in terms of a modal relation between the belief and the truth of its propositional content, such as the sensitivity of a belief or its safety (Dretske 1971, Nozick 1981, Williamson 2000). A reliabilist could also maintain that epistemic certainty requires that the belief-forming processes be maximally reliable (in the circumstances in which the belief is formed). Such approaches are infallibilist in the sense that they state it is impossible for a belief to be false if the guarantee (sensitivity, safety or maximal reliability) required for a proposition to be certain holds.
+Another option consists in maintaining that infallibility depends on the subject’s evidence, while also opting for a more generous view of evidence. One may hold that propositions such as (4) can be certain if one thinks that the set of evidence a subject possesses can include any propositions about the external world (see Brown 2018 ch. 3 for further discussion). This option will typically exclude propositions such as (2), whose epistemic probability, although high, is not maximal. It can be declined in a stronger or weaker version, depending on whether propositions such as (3) can receive a maximal probability on the evidence.
+Williamson defends a weak version of moderate infallibilism about knowledge, according to which one can know a proposition such as (3) (Williamson 2000). In addition to a safety condition allowing for a margin of error — in which a subject knows that p only if p is true in relevantly close situations — Williamson proposes that the evidence of a subject is only constituted by what she knows (see also McDowell 1982). If epistemic certainty is evidential probability 1, it follows that:
+Certainty-Prob/K: p is epistemically certain for S if and only if Pr(p|K) = 1, where K stands for the set of propositions known by S.
+This view is part of a broader “knowledge-first” research program in which Williamson assumes that (the concept of) knowledge is primitive. If this approach is correct, it can provide a reductive analysis of epistemic certainty in terms of knowledge by considering that all and only known propositions (or all and only propositions one is in a position to know) are epistemic certainties. This fits well with the traditional view of epistemic modals, according to which “It is impossible that p” (and, therefore, “It is certain that not-p”) is true if and only if p is incompatible with what the subject (or a potentially contextually determined relevant group of subjects) knows, or is in a position to know (DeRose 1991).
+However, one can subscribe to a moderately infallibilist view of certainty without subscribing to the claim that knowledge entails certainty. As a matter of fact, the very idea that knowledge is moderately infallible is controversial. According to a widespread view, often called “logical fallibilism about knowledge,” S can know that p even if S’ evidence does not entail that p, or even if prob(p|E) is less than one (Cohen 1988, Rysiew 2001, Reed 2002, Brown 2011, 2018, Fantl and McGrath 2009: chap. 1). In some versions, this kind of fallibilism concedes that knowing that p requires having entailing evidence for p, but rejects that all evidence must be maximally probable (Dougherty 2011: 140). According to this fallibilist view of knowledge, propositions such as (2) can typically be known. However, proponents of this view generally deny that propositions such as (2), — and, even, propositions such as (3), (4), (5) or (6) — can be certain. Therefore, logical fallibilism about knowledge is compatible with a moderately infallibilist conception of epistemic certainty, in which epistemic certainty requires that a subject’s evidence entails that p, or that p’s epistemic probability be maximal (Reed 2008, Dougherty 2011). In brief, logical fallibilism about knowledge states that p can be known even if p is not epistemically certain, even in the sense of the moderate infallibilist view of certainty.
+Regardless of if one endorses logical fallibilism about knowledge, a moderate infallibilist view of certainty which relies on a generous account of evidence accepts that p is epistemically certain for S if and only if S’ evidence rules out all the possibilities in which p is false, where a possibility is “ruled out” by evidence when it is logically incompatible with it (or with the fact that S has this evidence: Lewis 1996). According to this approach, the certainty conferring evidence must have probability 1 and be true, otherwise, the entailed proposition could be false and receive a probability lower than 1 (Brown 2018: 28). If one endorses logical fallibilism about knowledge, then epistemic certainties are a subset of what the subject knows, or is in a position to know (Littlejohn 2011, Petersen 2019, Beddor 2020b, Vollet 2020).
+A general concern for this type of approach is that it can seem circular or insufficient. Indeed, the propositions (evidence) that grant epistemic certainty must themselves be epistemically certain. If not, what can be deduced from them will not be certain. Therefore, according to such approaches, one must assume that there are primitive epistemic certainties, that is, propositions whose prior probability is 1 (Russell 1948, Van Cleve 1977). However, the question remains: in virtue of what do these propositions have such a high probability? In addition, as logical truths are logically entailed by any set of evidence, this approach fails to account for the fact that logical truths can be epistemically uncertain.
+ii. Fallibilism
+According to other philosophers, while epistemic certainty depends on the evidence a subject has, that evidence does not need to entail that p in order for p to be certain. To express that claim in terms of epistemic probability: the probability of p being true conditional on the evidence possessed by a subject does not need to be maximal for p to be epistemically certain for that subject (see Reed 2002: 145-146 for further discussion).
+According to Moore, if S knows that p, then it is epistemically impossible for S that p is false (Moore 1959). In other words, p is epistemically certain for S. However, in Moore’s view, one can know that p based on evidence that does not entail p’s truth. For instance, a subject can know that she has hands based on a visual experience of her hands so that it is epistemically impossible for her, given that experience, that she does not have hands. Yet, it is logically possible for the subject to undergo that visual experience without having hands. The logical possibility of undergoing that experience without having hands is simply conceived of by Moore as being compatible with the epistemic certainty regarding the fact that she has hands (see also DeRose 1991, Stanley 2005b). Thus, Moore offers a fallibilist conception of certainty based on a fallibilist conception of knowledge.
+According to Moore’s conception of epistemic certainty, propositions such as (3) or (4) can be certain provided that their negation is incompatible with what a subject knows and propositions such as (5) can be uncertain if their negation is compatible with what a subject knows. In addition, this framework opens up the possibility of a weak conception of epistemic certainty, according to which propositions such as (2) can be epistemically certain.
+In Moore’s approach, epistemic certainty is identified with knowledge. Nevertheless, Moore himself acknowledges that one may want to draw a distinction between knowledge and certainty (see also Firth 1967: 10, Miller 1978: 46n3, Lehrer, 1974, Stanley 2008). As previously noted, it is common to draw such a distinction by endorsing a logical fallibilist conception of knowledge, while also maintaining an infallibilist (either moderate or skeptical) conception of certainty. But is it possible to endorse, with Moore, a fallibilist conception of epistemic certainty and still draw a distinction between knowledge and epistemic certainty?
+That is possible if one endorses another version of fallibilism with respect to knowledge, which is known as epistemic fallibilism. According to epistemic fallibilism, S can know that p even if S cannot rule out every possibility of p being false, where a possibility of p being false is “ruled out” whenever it is logically incompatible with what S knows to be true (Dretske 1981: 371). Endorsing such a conception of knowledge involves rejecting epistemic closure in that it involves accepting that S can know that p, and that p entails q, without thereby knowing (or being in a position to know) whether q is true. It involves accepting that S can know that she has hands, and that her having hands entails that she is not a handless brain in a vat, without thereby being in a position to know whether she is a handless brain in a vat (Nozick 1981, Dretske 1970).
+Thus, even if one endorses a logical fallibilist conception of epistemic certainty, one can maintain that, in contrast to knowledge, certainty requires epistemic infallibility in this sense. That is, epistemic certainty requires having a justification for p such that every possibility of p being false is ruled out. This can be seen by the fallibilist conception of epistemic certainty in terms of immunity, as presented below. Given this approach, it is possible to claim that propositions such as (2) can be known, while also claiming that they cannot be epistemically certain. Though a subject can know that her lottery ticket is a losing one, it is not certain to her that it is a losing ticket. Indeed, the justification that the subject has for her belief does not rule out any possibility that her ticket is a winning one.
+Another way to draw a distinction between knowledge and epistemic certainty which is compatible with a fallibilist conception of epistemic certainty is to argue that certainty involves, in addition to knowing a particular proposition to be true, having a specific epistemic perspective on that knowledge. For instance, Descartes acknowledges the fact that an atheist mathematician can possess a cognitio of mathematical truths but claims that she could not possess a scientia of that domain (Descartes Meditations on First Philosophy, second answer to objections). As such, an atheist mathematician does not recognize the divine guarantee that anything which is conceived of clearly and distinctly is thereby true. Thus, whenever she conceives mathematical truths clearly and distinctly, she cannot know that she knows. Accordingly, her knowledge of mathematical truths remains uncertain (Carrier 1993). Likewise, Williamson endorses the idea that a form of epistemic uncertainty can result from a lack of second-order knowledge (Williamson 2005; 2009, Rysiew 2007: 636-37, 657–58, n. 13, Turri 2010).
+iii. Epistemic Immunity and Incorrigibility
+According to moderate conceptions of epistemic certainty, propositions such as (3) or (4) can be certain for a subject. This is because either these propositions can be deduced from other propositions which are themselves certain, or the justification one has for these propositions is, although fallible, sufficient for certainty. Yet, if certainty depends on neither complete infallibility, nor on maximal justification, what does it depend on, precisely? What makes propositions such as (3) and (4), or the propositions from which they can be deduced from, certain for a subject?
+The plausibility of strong conceptions of epistemic certainty results, at least partly, from the fact that they attribute a type of epistemic immunity to propositions which are certain. As previously noted, if a proposition p is maximally justified for a subject, then that proposition is immune to refutation. This is because there is no proposition q, such that q is incompatible with p, which can defeat or diminish p’s justification. A proposition also seems to be immune to refutation so long as the evidence one has for that proposition is itself infallible. One aim of moderate conceptions of epistemic certainty is therefore to offer a conception of epistemic certainty that attributes a form of epistemic immunity to propositions which are considered certain, without making this immunity dependent on complete infallibility or maximal justification.
+Incorrigibility consists of a type of epistemic immunity that depends neither on complete infallibility, nor on maximal justification. The justification one has for p is considered incorrigible if it constitutes an ultimate authority on the question as to whether p and it cannot be defeated (Ayer 1963: 70-73, Firth 1967: 21, Alston 1992, Reed 2002: 144). Propositions concerning one’s mental states– such as one’s intentions, feelings, thoughts and immediate experiences– are typical examples of propositions for which one can have an incorrigible justification (Malcolm 1963: 77-86; Ayer 1963: 68-73, Firth 1967: 21). For instance, if a subject sincerely asserts that she undergoes an experience of something as of being red, this assertion seems to provide an incorrigible justification for the proposition “That subject undergoes an experience of something being red” (see Armstrong 1963 for a critical discussion).
+However, that the justification one has for such a proposition is incorrigible does not entail that the proposition which is thus justified is true (Ayer 1963: 71-73). For, incorrigibility does not require infallibility (Firth 1967: 25). Some philosophers suggest that with respect to our own mental states, the incorrigibility of the justification we have for a proposition such as ‘I am in pain’ depends on the fact that we are infallible regarding our mental states (Malcolm 1963: 85). On the contrary, one can suppose that incorrigibility results from enjoying a privileged, yet fallible access to our mental states. For example, if I consider two lines of similar length, I can wonder which line appears to be the longest. If I can doubt this particular appearance, then I can consider being wrong about it. I can also falsely believe that the second line appears to be longer than the first one (Ayer 1956: 65). Additionally, incorrigible justification does not require maximal justification. In a world where no one can be wrong about their mental states, propositions concerning one’s mental states would be better justified if asserted sincerely. This suggests that, in the actual world, the incorrigible justification one has for such propositions is not maximal.
+According to this approach, propositions about the external world such as (4) are considered epistemically certain. This is because it seems unreasonable to question the truth of propositions such as ”The world was not created five minutes ago”, “The external world exists” or “I have hands.” According to hinge theorists following Wittgenstein, the position of such propositions within one’s conceptual scheme is what makes them immune or incorrigible, and thereby certain (Wittgenstein 1969, Coliva 2015, Pritchard 2016). The truth of these propositions must be assumed in order to be able to operate with the notions of doubt and justification. Outside of very specific contexts, such as those involving someone who lost her hands in an accident, attempting to justify or doubt the truth of having hands is simply nonsensical. In Wittgenstein’s view, this incorrigibility is what distinguishes knowable propositions from certain propositions; the former can be the object of doubt and justification, while the latter cannot.
+Another approach proposes that propositions about the external world can be certain even if all their logical consequences have not been verified, so long as their justification is sufficiently immune (contra C. I. Lewis 1946: 80, 180). A specification of sufficient immunity relies on the concept of ideal irrefutability. A proposition p is ideally irrefutable at a time t for a subject S if and only if there is no conceivable event such that if at t S is justified in believing that this event will occur, S is also justified in believing that p is false at t (Firth 1967: 16). In other words, a proposition p is certain if and only if one is justified in believing that p and, for all future tests which one is justified in believing that they will happen (or that one could imagine), they are such that they would not provide a justification for believing that p is false (Malcolm 1963: 68).
+For example, suppose I see that there is an ink bottle here. This is compatible with the possibility of me having the future sensation of my hand passing through the ink bottle. I may even be justified in believing I will undergo such a sensation (suppose, for example, that a reliable prediction has been made). Yet, there is a way in which the present sensation of there being an ink bottle here justifies treating, at the moment of my seeing, any future sensation indicating that there is not an ink bottle here as misleading. After all, for any future such sensation, there exists a possible explanation that is compatible with the claim ”There is an ink bottle here.” For example, a future sensation of my hand passing through the ink bottle might be explained as a hallucination. If I am, at the moment of my seeing, justified in believing that there is actually an ink bottle here, it seems that, at that very moment, I am also justified in believing that any future sensation is explainable in a way that is compatible with the claim ”There is an ink-bottle here”. If so, at the moment of my seeing, the proposition that there is an ink-bottle here can be said to be ideally irrefutable and, according to the view of epistemic certainty under examination, epistemically certain for me.
+Note that this does not mean the propositions that are epistemically certain for S in the present will remain epistemically certain for S in the future. If, in the future, S has the sensation that her hand passes through the ink bottle and her vision of the ink bottle is different, the proposition “There is, or was, an ink-bottle here” can become epistemically uncertain for S (Klein 1981: 91). What matters here is that, at the moment of S’s seeing that there is an ink bottle, S is justified in believing any future sensation can be explained as compatible  with the claim ”There is an ink bottle here.”
+In comparison, Miller defends a weaker account of immunity and certainty. According to him, the justification possessed by S makes p certain only if there can be no other proposition q which is justified enough to show that S should not believe p, in spite of S’ current reasons to believe p (Miller 1978). In other words, p is certain for S if it is always permissible for S to believe p in light of S’s current and future evidence. According to this view, it does not matter if the new evidence will make the belief that not-p permissible, or if the hypothesis that not-p will constitute the best available explanation for the new set of evidence. For example, suppose that a scientist and everyone around me say that there have never been cars, and that I’m just waking from a dream caused by drugs. If I add this experience to my memories of cars, it still seems permissible for me to believe that there are cars, and to doubt the testimony of the people telling me the contrary– even if I can find no good explanation for my new experience.
+According to a stronger characterization of immunity, certainty requires the proposition p be ideally immune to any decrease in justification. In this sense, it is not clear that the proposition “There is an ink bottle here” is certain. For, it seems that if I was justified in believing that my hand will pass over the supposed ink bottle, my justification for believing that there is an ink bottle would diminish (Firth 1967: 17, Miller 1978, contra Malcolm 1963: 93).
+A slightly different approach proposed by Klein also requires immunity against a decrease in justification (Klein 1981; 1992). According to him, p is absolutely certain for S if and only if (a) p is warranted for S, (b) S is warranted in denying every proposition q such that if q was added to S‘s beliefs, the warrant for p would be reduced (subjective immunity) and (c) there is no true proposition d, such that if d was added to S‘s true beliefs the warrant for p would be reduced (objective immunity).The satisfaction of condition (a) does not entail that p is true, for the set of justified beliefs can include false beliefs, but condition (c) can be satisfied only if p is true.
+This approach proposes that epistemic certainty requires immunity against all attacks in the actual world, but not immunity against all attacks in all possible worlds (in particular, in the worlds in which the considered proposition is false). The fact that it is not certain (for S) that a proposition is certain, or the fact that this proposition is not certain in all possible worlds, does not make this proposition uncertain in the actual world (Klein 1981: 181-189).
+One can apprehend the distinction between certainty in the actual world and certainty in all possible worlds with the notion of relative certainty. When speaking of relative certainty, one may want to characterize a degree of justification more or less close to absolute certainty in the actual world, which implies some uncertainty for the proposition in the actual world. But one may also want to designate a degree of justification more or less close to absolute certainty in all possible worlds. If, in this second sense, relative certainty implies uncertainty for the proposition in some possible worlds, it does not imply uncertainty for the proposition in the actual world (Klein 1981: 189).
+Most theories of certainty based on the notion of epistemic immunity are strong moderate theories. They take p to be epistemically certain for S only if, for any contrary proposition q (which implies not-p or decreases the justification for p), S is permitted to deny q. Hence, these theories exclude that propositions such as (3) are certain, for it is not difficult to imagine a situation in which the police call you to say that your car was stolen. In such a situation, it does not seem that you are allowed to deny that your car has been stolen.
+However, a question remains regarding the kind of certainty this approach assigns to propositions such as (4). In virtue of what would S be allowed to deny a contrary proposition q, for example, the proposition that the world was created five minutes ago and we were born two minutes ago with false memories? If it is in virtue of the fact that p is certain, it appears that immunity is a logical consequence of epistemic certainty, rather than its grounds (Klein 1981: 30, Reed 2008). If it is in virtue of the fact that p occupies a specific place in our conceptual or linguistic scheme (Wittgenstein 1969), or that one cannot imagine or conceive of a possible refutation or invalidation for p, it is not clear that the certainty attached to propositions such as (4) is epistemic, rather than merely psychological.
+d. Weak Theories of Epistemic Certainty
+i. The Relativity of Certainty
+According to weak theories of certainty, propositions such as (2) can be certain. As outlined in the previous section, one may understand the notion of certainty in relation to a class of propositions justified or true in the actual world or in relation to a class of propositions justified or true in all possible worlds. Yet, there are many other ways of relativising the notion of certainty (Firth 1967: 10-12). For example, there are Chisholm’s views previously mentioned (Chisholm 1976, 1989). Malcolm suggests that there are various kinds of justification associated with different kinds of propositions, which can give rise to various criteria for certainty (Malcolm 1963). For instance, to see in full light that a given object is a plate seems to provide one with a maximally strong justification for believing that the object is a plate. That is because, according to Malcolm, no one “has any conception of what would be a better proof that it is a plate”  (Malcolm 1963: 92). Still, as Firth (1967: 19-20) notes, that depends on the criterion used to define “better.” (Firth 1967: 19-20) According to a Cartesian criterion, we would have a better justification in a world in which vision is infallible and our senses are never misleading. Although it is possible to defend a weak invariantist account of epistemic certainty, the fact that various criteria of epistemic certainty can be conceived of may suggest that these criteria are, in fact, shifty.
+ii. Contextualism
+A first way of elaborating the thought that the standards of certainty are shifty consists in suggesting that ascriptions of certainty are, with respect to their truth-conditions, context-sensitive (Lewis 1976: 353-354, Stanley 2008, Petersen 2019, Beddor 2020a, b, Vollet 2020). A theory of this kind has notably been defended regarding ascriptions of knowledge. On this view, the epistemic standards that a subject S must satisfy with respect to a proposition p for a statement such as “S knows that p” to be true, depends on the conversational context (Cohen 1988, Lewis 1996, DeRose 2009). Some relevant features of the context are the salience of various error possibilities, as well as possibilities that one must take into account given the stakes related to being wrong about p. In the same way as the question of whether S is tall cannot be answered without (implicitly) invoking a reference class, relative to which a standard is fixed (for instance, tall “for a basketball player” or “for a child”), the question of whether or not a proposition is certain might not be answerable independently of the context in which the word ‘certain’ is used. There could be contexts in which the statement, “It is certain that my lottery ticket is a losing ticket” is true, for example a context in which we are discussing the opportunity of making an important financial investment – and contexts where that statement is false, even if the evidential situation remains the same – for example a context where we are discussing the fact that at least one lottery ticket will be the winning one.
+However, adopting a contextualist view of certainty does not suffice to vindicate a weak theory of certainty. For example, Beddor proposes that the ascription “It is (epistemically) certain for S that p” is true if and only if p is true in all the contextually relevant worlds compatible with S’s epistemic situation, where the space of contextually relevant worlds includes all worlds nearby the actual world. Under the assumption that there is always a nearby world where one’s ticket wins, (2) cannot, given such a view, qualify as certain (see also Lewis’ rule of resemblance, 1996: 557).
+iii. Pragmatic Encroachment
+Some authors claim that the epistemic standards a subject must satisfy to know a proposition are partially determined by the question as to whether it is rational for this subject to act on the proposition’s truth given her overall practical situation (Stanley 2005a, Hawthorne 2004, Fantl and McGrath 2009). One may suggest that this “pragmatic encroachment” concerns also, or rather, epistemic certainty. For example, Stanley argues for the existence of a pragmatic encroachment on knowledge and maintains that knowledge determines epistemic certainties, that is, the epistemic possibilities relative to which a proposition can be considered to be epistemically certain (Stanley 2005a). Fantl and McGrath, for their part, defend the existence of a pragmatic encroachment on knowledge-level justification but reject the claim that knowledge-level justification determines epistemic certainties (Fantl and McGrath 2009). A third option would be to reject pragmatic encroachment on knowledge as well as the idea that knowledge determines epistemic certainties, while allowing pragmatic encroachment on epistemic certainties.
+The conceptions according to which the criteria of epistemic certainty shifts with the conversational context or the practical cost of error, are compatible with a weak conception of epistemic certainty. Indeed, they can easily grant that there are contexts in which one says something true when one says of a proposition like (2) that it is certain for S.
+4. Connections to Other Topics in Epistemology
+The notion of certainty is connected to various epistemological debates. In particular, it is connected to philosophical issues concerning norms of assertions, actions, beliefs and credences. It also concerns central questions regarding the nature of evidence, evidential probability, and the current debate regarding epistemic modals (Beddor 2020b).
+For example, some philosophers distinguish knowledge and certainty and propose to deal with concessive knowledge attributions by embracing the view that certainty is the epistemic norm of assertion (Stanley 2008, Pertersen 2019, Beddor 2020b, Vollet 2020). A prominent argument for such a certainty norm of assertion comes from the infelicity of Moorean assertions involving certainty, such as, “p, but it’s not / I’m not certain that p.” In a similar vein, some philosophers defend a certainty norm of action and practical reasoning (Beddor 2020a, Vollet 2020). This is in part because such a norm can easily handle some of the counterexamples raised against competing knowledge norms (for such counterexamples, see Brown 2008, Reed 2010 and Roebert 2018; for an overview on knowledge norms, see Benton 2014).
+For instance, Beddor argues that, with respect to the nature of evidence and evidential probability, we should analyze evidence in terms of epistemic certainty (Beddor 2020b). Such a view is supported by the oddity of the utterance, “It is certain that smoking causes cancer, but the evidence leaves open the possibility that smoking does not cause cancer.” This suggests that if p is epistemically certain, then p is entailed by the available evidence. In addition, the oddity of the utterance, “The medical evidence entails that smoking causes cancer, but it isn’t certain that smoking causes cancer” suggests that p is entailed by the available evidence only if p is epistemically certain.
+Thus, given the relations it bears to other important philosophical notions, it is clear that certainty is central to epistemological theorizing. The difficulty of providing a fully satisfactory analysis of this notion might then suggest that certainty should, in fact, be treated as primitive.
+5. References and Further Readings
+
+Alston, W. (1992). Incorrigibility. In Dancy, Jonathan & Sosa, Ernest (Eds.), A Companion to Epistemology. Wiley-Blackwell.
+Aristotle (1984). The Complete Works of Aristotle, Volumes I and II, ed. and tr. J. Barnes, Princeton: Princeton University Press..
+Armstrong, D. M. (1963). Is Introspective Knowledge Incorrigible? Philosophical Review 72 (4): 417.
+Armstrong, D. M. (1981). The Nature of Mind and Other Essays. Ithaca: Cornell University Press.
+Audi, R. (2003). Epistemology: A Contemporary Introduction to the Theory of Knowledge. Routledge.
+Ayer, A.J. (1956). The Problem of Knowledge. London: Penguin.
+Ayer, A. J. (1963). The Concept of a Person and Other Essays. New York: St. Martin’s Press.
+Barnes, G. W. (1973). Unger’s Defense of Skepticism. Philosophical Studies 24 (2): 119-124.
+Beddor, B. (2020a). Certainty in Action. Philosophical Quarterly 70 (281): 711-737.
+Beddor, B. (2020b). New Work for Certainty. Philosophers’ Imprint 20 (8).
+Benton, M. A. (2014). Knowledge Norms. Internet Encyclopedia of Philosophy
+Brown, J. (2008). Subject‐Sensitive Invariantism and the Knowledge Norm for Practical Reasoning. Noûs 42 (2):167-189.
+Brown, J. (2011). Fallibilism and the Knowledge Norm for Assertion and Practical Reasoning. In Brown, J. & Cappelen, H. (Eds.), Assertion: New Philosophical Essays. Oxford University Press.
+Brown, J. (2018). Fallibilism: Evidence and Knowledge. Oxford University Press.
+Cargile, J. (1972). In Reply to A Defense of Skepticism. Philosophical Review 81 (2): 229-236.
+Carnap, R. (1947). Meaning and Necessity. University of Chicago Press.
+Carrier, L. S. (1983). Skepticism Disarmed. Canadian Journal of Philosophy. 13 (1): 107-114.
+Carrier, L. S. (1993). How to Define a Nonskeptical Fallibilism. Philosophia 22 (3-4): 361-372.
+Chisholm, R. (1976). Person and Object. La Salle, IL: Open Court.
+Chisholm, R. (1989). Theory of Knowledge. 3rd. ed. Englewood Cliffs. NJ: Prentice-Hall.
+Clarke, R. (2013). Belief Is Credence One (in Context). Philosophers’ Imprint 13:1-18.
+Cohen, S. (1988). How to Be a Fallibilist. Philosophical Perspectives 2: 91-123
+Coliva, A. (2015). Extended Rationality: A Hinge Epistemology. Palgrave-Macmillan.
+DeRose, K. (1991). Epistemic Possibilities. Philosophical Review 100 (4): 581-605.
+DeRose, K. (1998). Simple ‘might’s, indicative possibilities and the open future. Philosophical Quarterly 48 (190): 67-82.
+DeRose, K. (2009). The Case for Contextualism: Knowledge, Skepticism, and Context, Vol. 1. Oxford University Press.
+Descartes, R. (1999). Rules for the Direction of the Natural Intelligence: A Bilingual Edition of the Cartesian Treatise on Method, ed. and tr. George Heffernan. Amsterdam: Editions Rodopi.
+Descartes, R. (2008). Meditations on First Philosophy: With Selections from the Objections and Replies, trans. Michael Moriarty. Oxford: Oxford University Press
+Dicker, G. (1974). Certainty without Dogmatism: a Reply to Unger’s ‘An Argument for Skepticism’. Philosophic Exchange 5 (1): 161-170.
+Dodd, D. (2010). Confusion about concessive knowledge attributions. Synthese 172 (3): 381 – 396.
+Dodd, D. (2017). Belief and certainty. Synthese 194 (11): 4597-4621.
+Dokic, J. (2012). Seeds of self-knowledge: noetic feelings and metacognition. Foundations of metacognition 6: 302–321.
+Dokic, J. (2014). Feelings of (un)certainty and margins for error. Philosophical Inquiries 2(1): 123–144.
+Dokic, J. et Engel, P. (2001). Frank Ramsey: Truth and Success. London: Routledge.
+Dougherty, T. & Rysiew, P. (2009). Fallibilism, Epistemic Possibility, and Concessive Knowledge Attributions. Philosophy and Phenomenological Research 78 (1):123-132.
+Dougherty, T. & Rysiew, P. (2011). Clarity about concessive knowledge attributions: reply to Dodd. Synthese 181 (3): 395-403.
+Dougherty, T. (2011). Fallibilism. In Duncan Pritchard & Sven Bernecker (eds.), The Routledge Companion to Epistemology. Routledge.
+Douven, I. & Olders, D. (2008). Unger’s Argument for Skepticism Revisited. Theoria 74 (3): 239-250.
+Dretske, F. (1970). Epistemic Operators. Journal of Philosophy 67: 1007-1023.
+Dretske, F. (1971). Conclusive reasons. Australasian Journal of Philosophy 49 (1):1-22.
+Dretske, F. (1981). The Pragmatic Dimension of Knowledge. Philosophical Studies 40: 363-378
+Dutant, J. (2015). The legend of the justified true belief analysis. Philosophical Perspectives 29 (1): 95-145.
+Dutant, J. (2016). How to be an Infallibilist. Philosophical Issues 26 (1): 148-171.
+Fantl, J. (2003). Modest Infinitism. Canadian Journal of Philosophy 33 (4): 537- 562.
+Fantl, J. & McGrath, M. (2009). Knowledge in an Uncertain World. Oxford University Press.
+de Finetti, B. (1937). La Prévision: Ses Lois Logiques, Ses Sources Subjectives. Annales de l’Institut Henri Poincaré 7: 1–68.
+de Finetti, B. (1990). Theory of Probability (Volume I). New York: John Wiley.
+Firth, R. (1967). The Anatomy of Certainty. Philosophical Review 76: 3-27.
+Foley, R. (1992). Working Without a Net: A Study of Egocentric Epistemology. New York: Oxford University Press.
+Fumerton, R. (2005). Theories of justification. In Paul K. Moser (Ed.), The Oxford Handbook of Epistemology. Oxford University Press: 204–233.
+Ganson, D. (2008). Evidentialism and pragmatic constraints on outright belief. Philosophical Studies 139 (3): 441- 458.
+Gärdenfors, P. and D. Makinson (1988). Revisions of Knowledge Systems Using Epistemic Entrenchment. In Theoretical Aspects of Reasoning About Knowledge, Moshe Verde (Ed.) (Morgan Kaufmann): 83–95.
+Greco, D. (2015). How I learned to stop worrying and love probability 1. Philosophical Perspectives 29 (1): 179-201.
+Hawthorne, J. (2004). Knowledge and Lotteries. Oxford University Press.
+Hawthorne, J., Rothschild, D. & Spectre, L. (2016). Belief is weak. Philosophical Studies 173 (5): 1393-1404.
+Hintikka, J. (1962). Knowledge and Belief: An Introduction to the Logic of the Two Notions. V. Hendriks and J. Symons (Eds.). London: College Publications.
+Huemer, M. (2007). Epistemic Possibility. Synthese 156 (1): 119-142.
+Hume, D. (1975). A Treatise of Human Nature. ed. by L. A. Selby-Bigge, 2nd ed. rev. by P. H. Nidditch. Oxford: Clarendon Press.
+Hume, D. (1993). An Enquiry Concerning Human Understanding. ed. Eric Steinberg. Indianapolis: Hackett Publishing Co.
+Jeffrey, R. (1965). The Logic of Decision. New York: McGraw-Hill.
+Jeffrey, R. (1970). Dracula meets Wolfman: Acceptance vs. Partial Belief’. In Induction, Acceptance, and Rational Belief. Marshall Swain (Ed.) Dordrecht: D. Reidel Publishing Company: 157-85.
+Jeffrey, R. (2004). Subjective Probability. The Real Thing. Cambridge: Cambridge University Press.
+Joyce, J. M. (1999). The Foundations of Causal Decision Theory. New York: Cambridge University Press
+Kattsoff, L. O. (1965). Malcolm on knowledge and certainty. Philosophy and Phenomenological Research 26 (2): 263-267.
+Kauss, D. (2020). Credence as doxastic tendency. Synthese 197 (10): 4495-4518.
+Klein, P. (1981). Certainty: A Refutation of Scepticism. Minneapolis: University of Minnesota Press.
+Klein, P. (1992). Certainty. In J. Dancy and E. Sosa (Eds.), A Companion to Epistemology. Oxford: Blackwell: 61-4.
+Kolmogorov, A. N. (1956). Foundations of the Theory of Probability. New York: Chelsea Publishing Company.
+Lasonen-Aarnio, M. (2020). Enkrasia or evidentialism? Learning to love mismatch. Philosophical Studies 177 (3): 597-632.
+Lehrer, K. (1974). Knowledge. Oxford: Clarendon Press.
+Leitgeb, H. (2013). Reducing belief simpliciter to degrees of belief. Annals of Pure and Applied Logic 164 (12): 1338-1389.
+Leitgeb, H. (2014). The Stability Theory of Belief. Philosophical Review 123 (2): 131-171.
+Leitgeb, H. (2017). The Stability of Belief: How Rational Belief Coheres with Probability. Oxford University Press
+Levi, I. (1983). Truth, fallibility and the growth of knowledge. In R. S. Cohen & M. W. Wartofsky (Eds.), Boston studies in the philosophy of science (Vol. 31, pp. 153–174). Dordrecht: Springer
+Lewis, C.I. (1929). Mind and the World Order. New York: Dover.
+Lewis, C. I. (1946). An Analysis of Knowledge and Valuation. Open Court.
+Lewis, D. (1979). Scorekeeping in a Language Game. Journal of Philosophical Logic 8 (1): 339-359.
+Lewis, D. (1996). Elusive Knowledge. Australasian Journal of Philosophy 74 (4: 549—567.
+Littlejohn, C. (2011). Concessive Knowledge Attributions and Fallibilism. Philosophy and Phenomenological Research 83 (3): 603-619.
+Locke, D. (2015). Practical Certainty. Philosophy and Phenomenological Research 90 (1): 72-95.
+Locke, J. (1975). An Essay Concerning Human Understanding, Peter H. Nidditch (Ed.), Oxford: Clarendon Press.
+Malcolm, N. (1952). Knowledge and belief. Mind 61 (242): 178-189.
+Malcolm, N. (1963). Knowledge and Certainty. Englewood Cliffs, NJ: Prentice-Hall.
+McDowell, J. H. (1982). Criteria, Defeasibility, and Knowledge. Proceedings of the British Academy, 68: 455–479.
+Miller, R. W. (1978). Absolute certainty. Mind 87 (345): 46-65.
+Moore G.E. (1959). Certainty. In Philosophical Papers. London: George Allen & Unwin, 227-251.
+Nozick, R. (1981). Philosophical Explanations. Cambridge: Cambridge University Press.
+Pasnau, R. (2013). Epistemology Idealized. Mind 122 (488): 987-1021.
+Peirce, C. (1877/2011). The Fixation of Belief. In R. Talisse & S. Aikin (Eds.). The Pragmatism Reader: From Peirce Through the Present. Princeton University Press: 37-49.
+Petersen, E. (2019). A case for a certainty norm of assertion. Synthese 196 (11): 4691-4710.
+Plantinga, A. (1993). Warrant and Proper Function. Oxford University Press.
+Plato (1997). Republic. In J. M. Cooper (Ed.). Plato: Complete Works. Indianapolis: Hackett.
+Pritchard, D. (2008). Certainty and Scepticism. Philosophical Issues 18 (1): 58-67.
+Pritchard, D. (2016). Epistemic Angst. Radical Scepticism and the Groundlessness of Our Believing, Princeton University Press.
+Ramsey, F. P. (1926). Truth and Probability. In R. B. Braithwaite (Ed.). Foundations of Mathematics and Other Logical Essays. London: Kegan, Paul, Trench, Trubner & Co., New York: Harcourt, Brace and Company: 156–198.
+Reed, B. (2002). How to Think about Fallibilism. Philosophical Studies 107: 143-57.
+Reed, B. (2008). Certainty. Stanford Encyclopedia of Philosophy.
+Reed, B. (2010). A defense of stable invariantism. Noûs 44 (2): 224-244.
+Roeber, B. (2018). The Pragmatic Encroachment Debate. Noûs 52 (1): 171-195.
+Roorda, J. (1997). Fallibilism, Ambivalence, and Belief. Journal of Philosophy 94 (3): 126.
+Rothschild, D. (2020). What it takes to believe. Philosophical Studies 177 (5): 1345-1362.
+Russell, B. (1912). The Problems of Philosophy, Londres, Williams & Norgate
+Russell, B. (1948). Human Knowledge: Its Scope and Limits. New York: Simon and Schuster.
+Rysiew, P. (2001). The Context-sensitivity of Knowledge Attributions. Noûs 35 (4): 477–514.
+Rysiew, P. (2007). Speaking of Knowledge. Noûs 41: 627–62.
+Savage, L. J. (1954). The Foundations of Statistics. New York: John Wiley.
+Skyrms, B. (1980). Causal Necessity: A Pragmatic Investigation of the Necessity of Laws. Yale University Press.
+Stalnaker, R. (1991). The problem of logical omniscience, I. Synthese 89 (3): 425–440.
+Stanley, J. (2005a). Knowledge and Practical Interests. Oxford University Press.
+Stanley, J. (2005b). Fallibilism and concessive knowledge attributions. Analysis 65 (2): 126-131.
+Stanley, J. (2008). Knowledge and Certainty. Philosophical Issues 18 (1): 35-57.
+Sturgeon, S. (2008). Reason and the grain of belief. Noûs 42 (1): 139–165.
+Turri, J. (2010). Prompting Challenges. Analysis 70 (3): 456-462.
+Unger, P. (1975). Ignorance: A Case for Scepticism. Oxford: Clarendon Press.
+Van Cleve, J. (1977). Probability and Certainty: A Reexamination of the Lewis-Reichenbach Debate. Philosophical Studies 32: 323-34.
+Vazard, J. (2019). Reasonable doubt as affective experience: Obsessive–compulsive disorder, epistemic anxiety and the feeling of uncertainty. Synthese https://doi.org/10.1007/s11229-019-02497-y
+Vollet, J.-H. (2020). Certainty and Assertion. Dialectica, 74 (3).
+Vollet, J.-H. (2022). Epistemic Excuses and the Feeling of Certainty, Analysis.
+von Fintel, K. and A. Gillies (2007). An Opinionated Guide to Epistemic Modality. In T. Gendler and J. Hawthorne (ed.), Oxford Studies in Epistemology, Volume 2. New York: Oxford University Press.
+Weatherson, B. (2005). Can we do without pragmatic encroachment. Philosophical Perspectives 19 (1): 417–443.
+Wedgwood, R. (2012). Outright Belief. Dialectica 66 (3): 309–329.
+Williamson, T. (2000). Knowledge and Its Limits. Oxford University Press.
+Williamson, T. (2009). Reply to Mark Kaplan. In Pritchard, D. and Greenough, P. (ed.) Williamson on Knowledge. Oxford: Oxford University Press .
+Wittgenstein, L. (1969). On Certainty. G.E.M. Anscombe & G.H. von Wright (Eds.). New York: Harper & Row.
+
+ 
+Author Information
+Miloud Belkoniene
+Email: miloud@belkoniene.org
+University of Glasgow
+United Kingdom
+and
+Jacques-Henri Vollet
+Email: jacquesvollet@yahoo.fr
+University Paris-Est Créteil
+France
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

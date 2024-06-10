@@ -1,0 +1,428 @@
+
+
+
+
+
+
+
+
+
+Molyneux’s Question | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Molyneux’s Question
+Molyneux’s question, also known as Molyneux’s problem, concerns the possibility that a person born blind might immediately identify a shape previously familiar to them only by touch if they were made to see. Through personal correspondence, William Molyneux initially presented this query to John Locke in 1688. Locke then interposed the question within the Second edition of his An Essay Concerning Human Understanding:
+“Suppose a Man born blind, and now adult, and taught by his touch to distinguish between a Cube, and a Sphere of the same metal, and nighly of the same bigness, so as to tell, when he felt one and t’other, which is the Cube, which the Sphere.  Suppose then the Cube and Sphere placed on a Table, and the Blind Man to be made to see.  Quære, Whether by his sight, before he touched them, he could now distinguish, and tell, which is the Globe, which the Cube (Locke 1694/1979).”
+Molyneux’s question soon became a fulcrum for early research in the epistemology of concepts, challenging common nativist intuitions about concept acquisition; asking whether sensory features distinguish concepts and how concepts may be applied in novel experiences. The question was reprinted and discussed by a wide range of early modern philosophers, including Gottfried Leibniz, George Berkeley, and Adam Smith, and was perhaps the most important problem in the burgeoning discipline of psychology of the 18th century.
+The question has since undergone various stages of development, both as a mental exercise and as an experimental paradigm, garnering a variety of both affirmative and negative replies during three centuries of debate and deliberation. A renewed interest has been sparked by very recent empirical work on subjects recently healed of cataracts who failed to identify the shapes at first sight, but were soon re-tested with successful results.
+Should we answer Molyneux’s question with a “no,” as was the common response of the 18th century, or “yes,” as some philosophers today claim? How should the success of these answers be decided? Is the question theoretical or empirical? Can the question be sufficiently answered by science? What is its philosophical importance?
+Table of Contents
+
+A Complex of Questions
+Negative Replies
+Affirmative Replies
+Development as a Thought Experiment
+Development as an Empirical Problem
+Conclusion
+References and Further Reading
+
+1. A Complex of Questions
+Molyneux’s question prompts a number of perplexing issues in both the psychology and philosophy of perception. It links these fields of study with a variety of questions:
+
+Does sensory experience individuate the senses?
+Does sensory experience individuate sensory concepts?
+Are sensory-specific concepts, if there are such, accessible to conscious reflection or perceptual learning as to make them immediately usable for recognition tasks by other senses?
+Is our sensory knowledge of the external world indirect?
+
+The first two of these questions represent a central consideration for answering Molyneux’s question with a “no.” In the traditional view, which is much less prominent today (see Macpherson 2011), sensory experience is the principal basis for individuating both the senses and concepts. Berkeley (1709), for instance, held to the strongest form of sensory individuation: the senses are metaphysically distinct, some being portals to spatial dimensions (touch) and others non-spatial (vision). In consequence, he infamously defended a metaphysical individuation or heterogeneity between concepts acquired from different senses. A concept of a seen line and a touched line do not together constitute a longer perceived line, existing on distinct axes of existence.
+Others embraced a weak epistemological difference between the senses, and hence between sensory concepts; in this view, translation of their content is possible but learning their common meaning requires rational thought (Leibniz) or time and experience (Locke). Just as rational exertion or time and experience are needed to train the use of one sense—one must “teach” one’s own sight to see 3-D figures when viewing “3-D Magic Eye” photos, for instance—visually presented shapes require a degree of perceptual training before they can be recognized correctly as those previously touched. Others held to a stronger distinction between sensory formats, claiming that they are too incompatible to be translated, though the same “meaning” is shared between them, offering a strong epistemological difference between sensory concepts (Lotze). At best, such concepts become correlated, but are never known to correspond to the same objects.
+If concepts are heterogeneous (weakly, strongly, or metaphysically), then direct knowledge of objects in the external world is problematic. For instance, if our knowledge of a tomato is acquired from vision and later from touch, then these two different presentations of a tomato might amount to two different concepts of tomato altogether, not to mention the soon-to-be smelled and tasted tomato. This invites the possibility that our knowledge of the external world is indirect, being affected by the peculiarities of our sensory organs and processing mechanisms. By contrast, others have argued that because we have direct knowledge of only one tomato, any phenomenal difference between the senses is circumstantial, like an accent rather than a distinct language, a view defended by John Campbell (1996).
+The issues prompted by Molyneux’s question lead to a complex of answers in response. Answers can be neatly (perhaps too neatly) categorized into “no” and “yes,” but they are negations and affirmations of different questions, determined by the basis on which these answers are given. Hence, we find some philosophers answering “yes” for one reason, “no” for another, others claiming that there is no possible answer, and yet others claiming that a plurality of answers is agreeable. In addition, a number of purposed modifications, both empirical and theoretical, further attempt to isolate specific queries within the general question. Given its complexity, we should judge the success of Molyneux’s question based not on its answerability but on its productivity.
+2. Negative Replies
+The two central reasons for answering Molyneux’s question “no” concern the heterogeneous nature of concepts, either as metaphysically or epistemologically distinct, and the involvement of perceptual learning—the inferring of connections in otherwise disparate sensory representations, involving one or multiple senses. Though these reasons are interrelated, as perceptual learning presumes heterogeneity, they are differentiated by emphasis of the philosopher. These views have evolved in various ways, as new empirical discoveries suggest that unconscious neurological learning processes should be considered separately from conscious “conceptual” processes. The diagram below provides a map of these negative replies.
+
+Molyneux himself stressed the issue of perceptual learning, replying that the felt corner of a cube would not at first appear to the eye in the same way as the seen corner of the cube. Time and experience are the means for acquiring knowledge of the associations between seen and felt properties of shape. Locke agreed to Molyneux’s negative reply, but based on his own reasoning on perceptual learning within the sense of sight alone, claiming that sight initially produces primitive sensations later altered by practice; the first appearance of a sphere is as a “circle variously colored” but is judged after time and experience to be a sphere singularly colored. Those considering Locke’s reply have observed that this description of first sight is pure conjecture, as Locke had no access to his own memory of first sight. Others have argued that were two-dimensional shapes presented to the once-blind, Locke would have replied to Molyneux’s question in the affirmative. But, Locke’s example may (like Berkeley) express the idea that the primitive visual sensations of a sphere are non-spatial altogether, and thus a two-dimensional shape would not help the once-blind identify the shapes.
+The question of first sight and perceptual learning, however, has become an empirical issue of late. Current research on neural plasticity, or how adept our brains are at changing in response to novel information, informs Shaun Gallagher’s negative reply. He considers the numerous reports of subjects who fail to recognize shapes after their cataracts are removed, and attributes their recognitional inability to the significant deterioration of their visual cortex. Gallager’s reply is based on a degenerative case of perceptual learning within the visual sense; with disuse the faculty of vision “unlearns” its ability to see. By way of contrast, Marjolein Degenaar argues from this same set of data that cataract surgeries show Molyneux’s question not to be testable; she concludes that there is “no answer” to Molyneux’s question. She follows Julien Offray de La Mettrie who contests the applicability of the cataract operations to Molyneux’s question because of the physiological distress involved, but Degenaar adds that no other experimental paradigm will better suited to testing Molyneux’s question.
+Perceptual learning, however, is ineffective if sensory formats are thought to be completely distinct. Berkeley’s argument for the heterogeneity of the senses was based on observations that vision is a non-spatial sense: retinal images are inverted, double images can be generated from two eyes, and distance is inaccessible to sight. Sight depends on correlations with touch so that the body can use sight to interact with spatial features of objects. (Followers of this thought, such as Comte de Buffon, misread these ideas as entailing that infants and the once-blind initially see the world as inverted, doubled, and without distance. Because of this, the basis of Buffon’s own negative reply falls to the “psychologist’s fallacy” that we actually see our retinal images, images known only by an anatomy lesson.)
+Consideration of the non-spatiality of the sensations produced by the senses at first sight led Étienne Bonnet de Condillac to retract an earlier affirmative reply. He based his newfound intuition on imagining himself as an eyeless statue, confined to mere tactile knowledge of objects, only able to understand the size, distance, and orientation of objects at a distance by use of rigid sticks that, when crossed like a drafting compass, provided him with the information to calculate their true size/distance ratios. Postulating that sight alone would independently produce the same knowledge (by rays of light replacing the tactile sticks to calculate the size, distance, and shape of objects around him), he could account for common meaning between the senses. With his emphasis on the heterogeneity of the senses, Condillac claimed that the once-blind would be entirely confused by the initial visual appearance of color patch sensations. In 1887, Hermann Lotze argued that all sensations are non-spatial, but soon are correlated with learned “local signs”—representations of behavioral interactions with the spatial features of the external world. Lotze maintained that it takes much time and effort to learn to perceive a spatial world. Since the blind perceive space by touch alone, which is a very different mode than sight, the local signs of the once-blind would be inapplicable to both the new visual sensations and the local signs that they would later produce, leading him to conclude a negative reply to Molyneux’s question.
+3. Affirmative Replies
+The viability of an affirmative reply to Molyneux’s question is a recent development, spurred largely by a mix of supportive studies in developmental science and neuroscience, and the increased popularity of direct realism in epistemology. Some philosophers are on record as answering on nativist grounds, that either an inborn spatial schemata is required for integrated sensory perception or that inborn mechanisms are necessary for matching otherwise heterogeneous concepts. Common sensibles, representations that are not tied to any sensory format, also ground an important response strategy, but vary with respect to the kind of commonality achieved─whether common concepts of shape properties, common behavioral responses to shapes, or common concepts of shapes. Finally, the use of geometry is viewed as crucial to how the once-blind reason, and directly perceive the external world. These categories of reply are presented below in the diagram.
+
+Though Immanuel Kant himself never explicitly considered Molyneux’s question in writing, his contemporaries considered the question an important test for Kant’s theory that a unified spatial organization is a prerequisite for having any perceptual experience. It seems at first that Kant’s view predicts that the visual perception of the once-blind is ordered in the same way as their tactile perception of the shapes—that is, that both experiences employ the same spatial concepts. Kant’s contemporaries’ speculation of an affirmative reply, however, fails to consider that further time and experience might be required to coordinate the unification of visual and tactile perception. For more discussion, see the work of Sassen (2004).
+Rather than employing a conceptual commonality, Adam Smith argued in his essay “On the External Senses” that inborn mechanisms automatically generate correlations between touch and the other senses. Like the rules of perspective that visual artists employ to render depth in paintings, this mechanism must utilize innately known rules for purposes of recognition, a mechanism Smith called “instinctive suggestion.” In a similar vein, Jesse Prinz argued that innately synchronized processing of heterogeneous visual and tactile content creates “convergence zones,” areas that bind input from multiple sensory specific cortexes and project the bound input back to these processors in recall tasks such that each sense-specific representation gets activated at the same time.
+Not all philosophers view the heterogeneity of the senses as entailing a heterogeneous conceptual repertoire. Edward Synge, an acquaintance of Molynuex, presented his own affirmative reply, which hinged on distinguishing between “images” which are heterogeneous in the mind and “notions” or “ideas” which allow those at first sight to cognize common features in the tactile and visual images, such as the smooth surface of the sphere and the cornered appearance of the cube. Judith Jarvis Thompson imagines a similar answer, but her argument involves an indirect strategy; she argues that, metaphysically, there is no possible world in which the properties of felt cubes would appear to sight as the properties of spheres, a possibility she took to be entailed by a negative answer, all things being equal.
+Gareth Evans’ influential paper of 1985 considered the proposal that the commonality between seeing and touching shapes had to be an ability to egocentrically localize the parts of shape—to know where the parts of a shape are with respect to the subject’s locus of action. In other words, for Evans we perceive shape by where we find parts of shapes to be in egocentric space. To perceive a square, for instance, there must be an internal representation of a corner that is felt “to the right” and then along the edge “to the left,” another corner felt “down,” and then another “to the right.” Our perception of a felt square must be based on the same egocentric relations gained from perception of the seen square. Since the same egocentric relations must be used, our perception of the square is the same for touch and sight. This intuition provides a behavioral basis for an affirmative answer to Molyneux’s question, one which Alva Noë takes as a test case for his enactivist account of perception: the claim that we perceive with our bodily activity, not with our brain.
+Francis Hutcheson’s affirmative reply in 1727 to Molyneux’s question was based on the existence of homogeneous shape concepts that are unconnected to the senses by which they are acquired. Shapes can be perceptually characterized in a number of ways, such as bounded colors or collections of textures. However, shape concepts are themselves distinct from these sensory representations. Hutcheson demonstrated this intuition with a set of creative (though by no means persuasive) thought experiments: would a blind, paralytic (and presumably deaf) man, whose sense of reality is based on smell, understand number and its application in geometrical reasoning? Would a blind man unacquainted with the feel of a stringed instrument be able to derive its musical scale upon only hearing its sounds? Hutcheson’s intuitions suggested a “yes” answer to both of these scenarios, and by extension, an affirmative reply to Molyneux’s question.
+Like Synge, Leibniz argued for a distinction between images and ideas, claiming that the latter are homogeneous across the senses because of their geometrical content. The importance of rational thought is emphasized by Leibniz’s modifications that the newly sighted be told the names of the shapes presented to them and be acquainted with their new visual experiences so as to be able to apply geometrical inferences to them.
+Thomas Reid agreed with Locke that at first sight, shapes would look flat, appearing like a painting lacking perspective. This led him to claim that the once-blind could immediately recognize two-dimensional shapes. If, however, the shapes of seen objects have volume—are three-dimensional—they would look different from how they felt, and would be unrecognizable. But since these differences can be represented geometrically, a blind mathematician would be able to calculate which visible shapes correlate with which tactile shapes. For more discussion, see (Van Cleve, 2007).
+John Campbell argued that since our senses achieve a direct relationship to the external world, sensory experience must parallel external features rather than those of particular sense modalities. In particular, the geometrical properties of objects constitute one’s sensory experience. This guarantees that the perception of shape by sight and touch will be uniform in structure because perception provides one with a direct, unmediated relationship to objects in the world. If the external object itself provides the character of the experience, then experiences of objects by sight and touch must have the same character, resulting in the once-blind’s immediate recognition of the shapes at first sight.
+John Campbell argued that since our senses achieve a direct relationship to the external world, sensory experience must parallel external features rather than those of particular sense modalities. In particular, the geometrical properties of objects constitute one’s sensory experience. This guarantees that the perception of shape by sight and touch will be uniform in structure because perception provides one with a direct relationship to objects in the world with no mediation. If the external object itself provides the character of the experience, then experiences of objects by sight and touch must have the same character, resulting in the once-blind’s immediate recognition of the shapes at first sight.
+4. Development as a Thought Experiment
+The diversity of answers to Molyneux’s question further indicates a lack of specificity and the need to carefully articulate precise issues of interest within the question itself. This pressure has thus provoked a number of philosophers to retool the question and control variables in an attempt to isolate specific issues. These developments can be organized around changes made to three crucial features of the experiment: simplifying the three-dimensional shape stimuli, stipulating aspects of the subject engaged in the task, and modifying the experimental procedure.
+Furthermore, this focused treatment follows the more traditional view that Molyneux’s question is a thought experiment, though many philosophers invoke experimental paradigms for inclusion into the query being posed. These developments are represented in the diagram below.
+
+Denis Diderot argued in 1749 that if the stimulus shapes were simplified from three-dimensional cubes and spheres to two-dimensional squares and circles, an affirmative answer would not require accounting for Locke’s preoccupation with perceptual learning within the sense of sight. Gareth Evans suggested a further simplification to account for the possibility that the organs of sight might themselves remain ineffective: the once-blind subject may view four internal visual points (phosphenes) configured in a square shape generated by direct neural stimulation of the visual cortex. Evans’ development has generated an entirely new approach to the problem of making Molyneux’s question amenable to empirical experimentation, one that has produced results that are favorable (though not conclusive) to his affirmative reply.
+James Van Cleve developed a less invasive strategy for testing the once-blind. He suggested using a single raised Braille dot in proximity to a pair of raised dots for visual presentation to the once-blind, who should then be able to immediately identify which is the single and which the paired dots. This strategy of simplifying shapes, however, comes at the cost of decreasing the amount of available information for recognizing the shapes, increasing the ambiguity of which shape is being represented for the subject. This is a problem that future modifications may address.
+Subject Stipulation
+Given the ambiguity problem of simplifying shapes, it may seem ironic that Diderot also took the level of intellectual aptitude of the subject to be determinative of recognitional ability. A “dullard”—presumably a subject with cognitive disabilities—would not identify two-dimensional shapes, whereas subjects with normal cognitive ability would, though they would lack reasons for how and would be generally uncertain of their visual judgment. By contrast, a “metaphysician” trained in philosophy would recognize the shapes with certainty but would be unable to articulate common features of the seen and touched shapes. A “geometer” would not only have certainty in his identification but also knowledge of the geometrical features common to sight and touch. Thomas Reid took kindly to this latter stipulation, and in 1764 added detail that included the precise mathematical strategies the geometer might employ.
+Physical constraints have also been suggested for Molyneux’s hypothetical subject. Condillac’s “statue” modification required that when considering Molyneux’s question, individual sense modalities should be deployed one at a time without considering those of previous or future experience. This helped express Condillac’s intuition that each mode of sensation contributes to one’s sense of the spatiality of the external world, though the sensations of each sense are entirely distinct. H. P. Grice, by contrast, imagined sensory organs entirely alien to humans; by describing the unique experiences of color-type properties that these organs would produce, he was able to demonstrate just how unfamiliar colors are to the blind, and thereby the distinctiveness of experience for the once-blind at first sight.
+Gallagher’s concern with the neurophysiological differences between the once-blind and always-sighted led him to suggest a hypothetical Molyneux subject with no neural degeneration from their blindness so as to compensate for a central variable: all visually deprived subjects face neural deterioration of visual processing centers. Such a subject would be similar to an infant, another subject suggested for inclusion by Gallagher and anticipated by Adam Smith, but distinct in that infants’ neural organization would be primed for sensory integration whereas the hypothetical subject would be neutral in this regard.
+Procedural Modification
+Though developments to the stimuli and subjects directly influence how the test itself proceeds, independent procedural developments are worth noting for their ability to constrain features left ambiguous by Molyneux’s own rendering of the question. Six years prior to the publication of his famous question, Molyneux raised a related query, “Whether he Could know by his sight, before he stretchd out his Hand, whether he Could not Reach them, tho they were Removed 20 or 1000 feet from him?” (Locke 1688/1978). Molyneux presumably would have also answered the distance variant of his question negatively. More importantly, this helps to qualify Molyneux’s popularized question to indicate that the presentation of shapes is proximate to the subject. Another implicit feature of the question was expressed by Leibniz, who stipulated that the once-blind should be told the names of the shapes being presented for recognition. This gives the subject a hint, so that recognizing the shapes is merely a matter of determining which shape was which, and also indicates that the stimuli are not simply paintings, but real bodies accessible to touch.
+Leibniz also added an epistemic condition that the once-blind be allowed a familiarity of the experience of sight and an inferential ability on par with the normally sighted. These additional constraints would prevent circumstantial factors from affecting the test; the once-blind would not be “dazzled and confused by the strangenesss” of seeing. A further constraint by van Cleve emphasized this worry by advocating that that the primary stimuli be the visual appearances of the shapes rather than the presented shapes themselves. This condition controls for the possibility that the processing of visual information is systematically distorted such that to the once-blind, shape corners appear smooth, and smooth sides appear cornered.
+Janet Levin recommended a further modification regarding the temporal immediacy with which the once-blind must be tested. We need not satisfy Molyneux’s requirement that the identification of the shapes occur “at first sight” if we can otherwise establish “epistemic immediacy” — knowing something without applying inference or other rational strategies. Levin suggested that epistemic immediacy might be assured by using shape stimuli that are more similar to one another than a cube and sphere. Identifying a square from a square-like shape with convex sides may control for simple inferences, a control that provides novel prospects for future modifications.
+5. Development as an Empirical Problem
+Experimental considerations of Molyneux’s question quickly followed its publication. However, as no immediate cure of blindness has been forthcoming, two provisos are required to make the question more amenable to empirical investigation: sight is achievable by a slow process of visual restoration, and subjects need not be congenitally blind adult males. In lieu of these conditions, three central developments have been in use: ocular and neural surgery, adaptation to Sensory Substitution Devices, and developmental experiments on infants. The diagram below charts these developments by kind.
+
+Surgery
+Thirty-six years after the publication of Molyneux’s question, the English surgeon William Cheselden published a report of his successful cataract operation that was so persuasive George Berkeley  considered it confirmation of his negative reply, as did many French philosophers, such as Voltaire. Cheselden’s young subject, who was only partially blind (he was able to distinguish night from day), was not able to recognize objects at first sight, though he knew them by touch. Similar experiments throughout the 18th, 19th, and 20th centuries confirmed Cheselden’s findings for many scientists.
+Twenty-first century research reveals more nuanced results. Visual deprivation results in deterioration of the visual cortex. (For instance, one carefully studied patient who was blind for 40 years until undergoing cataract surgery at the age of 43 was able to appreciate the distance and size of objects after about five months of recovery, but remained unable to recognize people by their facial features or to appreciate depth such as line drawings of cubes. See Fine, 2003). This indicates that the areas of the brain dedicated to processing some spatial information remain in a deteriorated state, and that therefore, analysis of the experiences of individuals who once had cataracts may be less relevant to the query posed by Molyneux’s question, which concerns the nature of ideas acquired by sensory perception rather than the separate issue of visual impairment.
+Held et al. (2011) re-tooled the cataract paradigm by given newly sighted subjects’ a second chance to identify shapes a few days after their initial failed tests; in the second test, each subject succeeded. The authors conclude a more nuanced answer of “initially no but subsequently yes.” In other words, visual deprivation causes transfer failure rather than preventing the creation of cross-modal representations: “The rapidity of acquisition suggests that the neuronal substrates responsible for cross-modal interaction might already be in place before they become behaviorally manifest (Held 2011: 552).” Their summary conclusion is that the neuronal structure for cross-modal transfer is available, but not utilizable due to its degenerated state caused by visual deprivation. This modified cataract paradigm is in support of an affirmative reply if one’s concern is cross-modal transfer. However, if one’s interest in the question concerns the effects of long-term visual deprivation, the modified paradigm supports a negative answer.
+Cataract surgery is not the only surgical paradigm that has been applied to Molyneux’s question. Evans suggested using visual prostheses to directly stimulate the visual cortex, or areas along lower visual pathways such as the optic nerve and retina. This invasive technique has the novel and shocking result of producing “phosphenes”—lightning-like flashes produced in the mind’s eye. Blind subjects reportedly are able to spatially organize phosphenes, recognizing motion and simple shapes. After significant training, they are even able to integrate these mental percepts into their behavior: they can localize, identify, and even grasp the corresponding tactile objects presented to them. Such techniques, however, have yet to undergo clinical trial and so remain merely suggestive of an affirmative reply.
+A related theoretical observation concerns whether areas of the brain functionally reserved for processing information from one sense modality like touch can process information from another, like sight. Mriganka Sur found that surgically rerouting information from the retina of ferrets to both their auditory cortex and somotosensory cortex elicited responses in both when the subject was visually stimulated. This provides evidence for “crossmodal plasticity,” the claim that senses are functionally organized to process certain kinds of information such as spatially or temporally organized stimuli, rather than organized solely by inborn connections to sensory organs. Crossmodal plasticity is also supported by the observation that when blind subjects process auditory information, the visual cortex is active; this suggests that cortical rewiring is a natural occurrence. Further support comes from the phenomenon known as “synesthesia,” in which perception by one sensory modality includes the experiential character of another sensory modality—where, for instance, one “hears” colors. Surgical research influenced by Molyneux’s question has significantly advanced our understanding of both the long-term negative effects of sensory deprivation and the cortical plasticity of the brain, allowing for improved visual restoration of the once-blind.
+Sensory Substitution Devices (SSDs)
+Bach-y-Rita’s invention of a device created to simulate sensory experiences of one sensory modality in another has generated a number of experiments related to Molyneux’s question. One such device, the “BrainPort,” transfers visual information from a mobile camera to an electrode array placed on the tongue. Using BrainPorts, blind subjects are able to recognize objects from a distance by the electric stimulations that they feel on their tongue. Aside from anecdotal reports from SSD users, who say that after practice with the BrainPort they no longer feel the stimulation on their tongue but rather simply “see” the objects before them, there is evidence that when congenitally blind individuals use the device, areas in the brain reserved for visual processing are recruited. In the same study, a control group of sighted subjects were not found to have activation in the visual cortex after practiced use of the device, a result that provides intriguing insight into crossmodal plasticity. The use of SSDs seems to be a kind of Molyneux experiment, one that shows that the blind might recognize tactually familiar shapes by using augmentation device. See (Reich et al., 2012.) The use of these devices, however, is an experimental analogue to Molyneux’s question only to the degree that the device presents information visually—an unlikely claim as they more closely approximate an extension of the sensory modality being used.
+Developmental Science
+Newborn infants offer a unique window into the development of sensory concepts of shape. Like Molyneux’s question, Andrew Meltzoff’s imitation studies involve testing whether stimuli familiar to touch (such as, in his research, the familiarity of feeling one’s own facial expressions or facial proprioception) transfer to the recognition ability of what is seen at first sight. He demonstrated that infants a few weeks old imitate another person’s facial expressions, such as tongue protrusion and mouth opening, suggesting evidence in support of an affirmative reply. These results, however, have been contested by further research that has not been able to replicate Meltzoff’s findings. In another experiment testing Molyneux’s question, Meltzoff shows that oral tactile familiarity of pacifier textures, whether “bumpy” or “smooth,” influences visual recognition of these shapes, suggesting an affirmative reply. Infants who were orally habituated to the feel of a bumpy pacifier attended to the visually presented bumpy shape more often than to the smoothly textured pacifier, and vice-versa.
+These results are consistent with Arlette Streri’s experiments, which involved habituating newborns to the feel of shapes in their right hand while preventing them from seeing them. Both shapes were then presented visually to the infants while their length of gaze and number of gazes were recorded. The shapes that were not held were looked at longer and more often, suggesting that shape concepts acquired by touch were communicated from touch to sight. A control group of infants who were not tactually habituated to shapes looked at the visually presented shapes for equal amounts of time, suggesting that prior tactile experience guided the infant’s attention. These results are consistent with an affirmative reply to Molyneux’s question.
+6. Conclusion
+A philosopher’s muse, Molyneux’s question continues to inspire insight and direct understanding about the mind and its contents. Future prospects of an empirical solution continually remain just beyond the reach of the cognitive sciences, stretching its methodology while extending the question’s application to novel experimental paradigms. The philosophical rewards from such future work promises to be as rich as those of the past and present.
+7. References and Further Reading
+
+Berkeley, George. 1709/1975. “An Essay Toward a New Theory of Vision.” Philosophical Works, Including the Works on Vision. (Edited by Michael R. Ayers.) London: J. M. Dent.
+
+Defends a negative answer to Molyneux’s question in sections 132-159.
+
+
+Berman, D. 1974/2009. “Francis Hutcheson on Berkeley and the Molyneux Problem.” Berkeley and Irish Philosophy. New York: Continuum Books: 138–148.
+
+Interprets Hutcheson’s affirmative answer to Molyneux’s question.
+
+
+Bruno, M., Mandelbaum, E. 2010. “Locke’s Answer to Molyneux’s Thought Experiment.” History of Philosophy Quarterly 27: 165–180.
+
+Interprets Locke’s negative answer to Molyneux’s question.
+
+
+Buffon C. 1749/1971. De l’homme. (Translated by M. Duchet) Paris: Masparo.
+
+Defends a negative answer to Molyneux’s question in the chapter, “Du sens de la vue.”
+
+
+Campbell J. 1996. “Molyneux’s Question.” Perception: Philosophical Issues 7. (Edited by Enrique Villanueva.) Atascadero, California: Ridgeview Publishing Company: 301–318.
+
+Defends direct realism with an affirmation of Molyneux’s question.
+
+
+Cheseldon, W. 1728. “An Account of Some Observations Made by a Young Gentleman, Who Was Born Blind, or Lost His Sight so Early, That He Had no Remembrance of Ever Having Seen, and Was Couch’d between 13 and 14 Years of Age.” Philosophical Transactions 35: 447–50.
+
+Presents a famous case of a patient healed of cataracts.
+
+
+Condillac, E. B. 1754/1930. Condillac’s Treatise on the Sensations. (Translated by Geraldine Carr.) London: Favil Press.
+
+Defends a negative answer to Molyneux’s question using the famous statue example.
+
+
+Degenaar, M. 1996. Molyneux’s Problem: Three Centuries of Discussion on the Perception of Forms. (Translated by Michael J. Collins) Boston: Kluwer Academic Publishers.
+
+Summarizes a history of answers to Molyneux’s Question.
+
+
+Diderot, D. 1749/1972. “Letter on the Blind for the Use of Those who See.” Diderot’s Early Philosophical Works. (Translated by Margaret Jourdain.) New York: Burt Franklin.
+
+Recounts the life of Nicolas Saunderson, a blind mathematician, with a variety of proposed changes to Molyneux’s question.
+
+
+Evans, G. 1985. “Molyneux’s Question.” Collected Papers. (Edited by John McDowell.) New York: Oxford UP.
+
+Defends an affirmative answer to Molyneux’s question.
+
+
+Fine, I., Wade, A., Brewer, A., May, M., Goodman, D., Boynton, G., Wandell, B., MacLeod, D. 2003. “Long-term Deprivation Affects Visual Perception and Cortex.” Nature Neuroscience 6 (9): 909–10.
+
+Describes long-term effects of blindness after sight is restored by cataract surgery.
+
+
+Gallagher, S. 2005. “Neurons and Neonates: Reflections on the Molyneux System.” How the Body Shapes the Mind. Oxford: Clarendon Press: 153–172.
+
+Defends an affirmative answer to Molyneux’s question.
+
+
+Glenney, B. 2013. “Philosophical Problems, Cluster Concepts and the Many Lives of Molyneux’s Question.” Biology and Philosophy 28 3: 541–558. DOI 10.1007/s10539-012-9355x
+
+Defends a pluralist answer to Molyneux’s question.
+
+
+Glenney, B. 2012. “Leibniz on Molyneux’s Question.” History of Philosophy Quarterly 29 3: 247–264.
+
+Interprets Leibniz’s affirmative answer to Molyneux’s question.
+
+
+Glenney, B. 2011. “Adam Smith and the Problem of the External World.” Journal of Scottish Philosophy 9 2: 205–223.
+
+Interprets Smith’s affirmative answer to Molyneux’s question.
+
+
+Grice, H. P. 1962/2011. “Some Remarks About the Senses.” The Senses: Classical and Contemporary Philosophical Perspectives. New York: Oxford UP: 83–100.
+
+Defends the individuation of the senses based on experience.
+
+
+Held, R., Ostrovsky, Y., deGelder, B., Gandhi, T., Ganesh, S., Mathur, U. and Sinha, P. 2011.  Newly Sighted Cannot Match Seen with Felt. Nature Neuroscience 14: 551–553.
+
+Describes a new paradigm for testing visual identification of tactilely-familiar shapes by subjects recently cured of cataracts.
+
+
+Levin, J. 2008. “Molyneux’s Question and the Individuation of Perceptual Concepts.” Philosophical Studies 139 1: 1–28.
+
+Defends the claim that the same concepts are deployed when seeing and touching shapes.
+
+
+Liu, Z., Kersten, D., Knill, D. 1999. “Dissociating Stimulus Information from Internal Representation—A Case Study in Object Recognition.” Vision Research 39: 603–612.
+
+Describes a modification to Molyneux’s question using phosphenes with results that support an affirmative answer.
+
+
+Locke, J., 1688/1978. The Correspondence of John Locke 3. (Edited by E. S. De Beer.) Oxford: Clarendon Press: 482–3.
+
+Molyneux first poses his question in Letter 1064 (7 July, 1688).
+
+
+Locke, J. 1694/1979. An Essay Concerning Human Understanding. (Edited by Peter H. Nidditch.) Oxford: Clarendon Press.
+
+Defends a negative answer to Molyneux’s question in II.ix.
+
+
+Lotze, H. 1887. Metaphysic. (Edited by Bernard Mosanquet.) Oxford: Clarendon Press. Vol. II.
+
+Defends a negative answer to Molyneux’s question.
+
+
+Macpherson, F. 2011. The Senses: Classical and Contemporary Philosophical Perspectives. New York: Oxford University Press.
+
+Presents theories on how the senses are to be individuated.
+
+
+Meltzoff, A. N. 1993. “Molyneux’s Babies: Cross-modal Perception, Imitation, and the Mind of the Preverbal Infant.” Spatial Representation. Cambridge: Blackwell: 219–235.
+
+Describes visual identification of tactilely familiar shapes by infants.
+
+
+Morgan, Michael J. 1977. Molyneux’s question: vision, touch, and the philosophy of perception. New York: Cambridge UP.
+
+Summarizes a history of answers to Molyneux’s Question.
+
+
+Noë, A. 2004. Action in Perception. Cambridge, Massachusetts.: MIT Press.
+
+Defends an affirmative answer to Molyneux’s question.
+
+
+Prinz, J. 2002. Furnishing the Mind: Concepts and Their Perceptual Basis. Cambridge, Massachusetts: MIT Press.
+
+Defends an affirmative answer to Molyneux’s question in Chapter 5.
+
+
+Reich, L., Maidenbaum, S., Amedi, A. “The Brain as a Flexible Task Machine: Implications for Visual Rehabilitation using Noninvasive vs. Invasive Approaches. Current Opinion in Neurology 25 1 2012: 86-95.
+
+Describes uses and implications of Sensory Substitution Devices.
+
+
+Sassen, B. 2004, “Kant on Molyneux’s Problem.” British Journal for the History of Philosophy 12, 3: 471–485.
+
+Interprets Kant’s possible answer to Molyneux’s question.
+
+
+Streri, A., Gentaz, E. 2003. “Cross-modal Recognition of Shape from Hand to Eyes and Handedness in Human Newborns.” Somatosensory & Motor Research 20 1: 11–16.
+
+Describes visual identification of tactilely-familiar shapes by infants.
+
+
+Sur, M., Pallas, S., Roe, A. 1990. “Cross-modal Plasticity in Cortical Development: Differentiation and Specification of Sensory Neocortex.” Trends in Neurosciences 13 6: 227–233.
+
+Describes an experiment re-routing sensory information from vision to audition and touch in ferrets.
+
+
+Thomson, J. 1974. “Molyneux’s Problem.” The Journal of Philosophy 71 18: 637–650.
+
+Defends an affirmative answer to Molyneux’s question.
+
+
+Van Cleve, J. 2007. “Reid’s Answer to Molyneux’s Question.” The Monist 90 2: 251–270.
+
+Interprets Reid’s answer to Molyneux’s question.
+
+
+
+ 
+Author Information
+Brian Glenney
+Email: brian.glenney@gordon.edu
+Gordon College
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

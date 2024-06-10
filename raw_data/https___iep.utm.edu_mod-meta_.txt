@@ -1,0 +1,425 @@
+
+
+
+
+
+
+
+
+
+Modal Metaphysics | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modal Metaphysics
+Modal metaphysics concerns the metaphysical underpinning of our modal statements. These are statements about what is possible or what is necessarily so. We can construe the primary question of modal metaphysics as, “When we make a statement about what is possible or necessary, what determines the truth or falsity of the statement?” As an illustration, consider the statement “It is possible for me to be a dentist.” This says that one possibility for me is to enter the dentistry profession. That seems true enough. But if so, what determines its truth? Normally, a statement is true because it represents a situation that actually obtains, but in the present case, the statement represents a situation which does not actually obtain. So, why is the statement true?
+Some philosophers, such as W.V.O Quine, dismiss this question by rejecting the coherence of modal notions. More typically, though, metaphysicians will answer that modal statements are not evaluated by how things actually are, but rather by how things might be or must be. Following Saul Kripke (1959; 1963), modal facts are construed as facts about possible worlds, where the actual world is just one among the many worlds that are possible. Kripke’s modal logic first defines each possible world by a maximally consistent set of statements, a consistent set such that for any statement p, either p or ~p is a member. Once these worlds are defined, a statement with the normal form “Possibly, p” is said  [in the most elementary kind of Kripkean logic]  to be true if, and only if, there is at least one possible world in which the state-of-affairs p obtains. Similarly, “Necessarily, p” is true precisely when p obtains in every possible world. So, the sentence “It is possible for me to become a dentist” is true because there is at least one possible world, so defined, where I am a dentist. Note that the above concerns metaphysical possibilities, specifically. The article will not discuss epistemic possibilities.
+The  Kripkean apparatus was a great advance in logic, but it did not resolve the distinctly metaphysical issue. If our question was roughly, “What determines the truth or falsity of modal statements?,” then Kripke’s logic just seems to replace this question with “What are these ‘possible worlds’ that determine their truth or falsity?” Yet due to the influence of Kripke’s system, the latter question is often the one pursued in the literature and not the former question. So, this article reviews five kinds of answer to the question about possible worlds: (1) Meinong’s Realism, (2) David Lewis’ Realism, (3) Ersatzism, (4) Fictionalism, and (5) David Armstrong’s hybrid of (3) and (4). The last section considers Quine’s skepticism about the issue and about modality in general.
+Table of Contents
+
+Meinong’s Realism
+Lewis’ Realism
+Ersatzism
+
+Sententialism
+Propositionalism and Property Ersatzism
+Pictorial Ersatzism
+Combinatorialism
+Non-Reductivism
+
+
+Fictionalism
+Armstrong’s Hybrid 
+Quine’s Skepticism 
+References and Further Reading
+
+1. Meinong’s Realism
+Meinong’s Realism, also called Meinongian Realism, is the contemporary Meinongian view which starts with Kripke’s possible worlds and attempts to make metaphysical sense of non-actual worlds and their denizens. The label ‘Meinongian,’ however, is anachronistic since Alexius Meinong was writing years before the advent of Kripkean worlds. Yet Meinong’s view of non-actual objects is one position to take regarding non-actual worlds. And indeed, the most important figure in modal metaphysics—David Lewis—was initially construed as a Meinongian about these worlds (see, for example, Plantinga 1976, Lycan 1979). Though Lewis’ (1986) view is clearly not a Meinongian one, as we shall see in the next section.
+According to the Meinongian, it is intuitively evident that there are non-existent objects, such as Pegasus, unicorns, and the like. Even impossible objects, such as round squares, are counted among the things that there are. Infamously, Meinong once expressed this in the slogan “there are objects such that it is true to say of them that there are no such objects” (1904, p. 83). Despite the air of paradox, however, the idea that non-existent objects somehow “exist” can claim several advantages. For one, it is eminently faithful to ordinary language use, where apparently speakers refer freely to non-existents. For another, the view naturally extends the commonsense semantics of ordinary names to empty names such as ‘Pegasus.’ Unlike the descriptivist, say, the Meinongian simply regards ‘Pegasus’ labeling an object (albeit a non-existing one), just in the way that people commonly regard ‘Tony Blair’ as a label for a person. And besides this straightforward linguistic account, the Meinongian view also delivers objects to thoughts which might otherwise seem void. Thus, the Meinongian can say (for example) that physicists who hypothesized Vulcan were not literally thinking of no object; rather, they were thinking of a bona fide object, albeit a non-existent one.
+Yet the reader may already sense one urgent objection for Meinongianism, namely, that it just dresses up something contradictory. On this line, once all the obfuscation is cleared away, Meinong is committed to the absurdity that non-existents exist. Meinong, however, anticipated this reaction and suggested that his intent was not to place non-existent objects in the categories of both being and non-being. Rather, they are to be placed in neither category, and instead lie “beyond being and non-being” (op. cit., p. 86).
+Alternatively, some Meinongians respond to the charge by distinguishing two kinds of being, that is to say, the usual kind of being, and the sort of the “being” that Pegasus has (with scare quotes). This would allow us to reconstrue Meinong’s slogan as the claim that “there are” objects of which it is true to say that there are no such objects. However, these Meinongians often do not provide much explication of “being” in the scare-quoted sense, and critics have thus doubted its intelligibility.
+Relatedly, there is Russell’s objection that Meinong’s commitment to the existence of round squares lands in contradiction.  In “On Denoting,” Russell generally objects to Meinong’s lack of a “robust sense of reality;” however, Russell regards  impossibilia (that is, objects which are neither actual nor possible) as especially problematic. Nonetheless, our concern here is with possibilia only, and Meinong’s view of impossibilia can be bracketted,
+Regardless, even if the Meinongian view is intelligible, it faces additional difficulties. For instance, it appears Occam’s Razor would have us shave off Meinongian objects from our ontology (Quine 1948). A second concern is that some Meinongian objects seem incomplete or gappy. For instance, does Sherlock Holmes have a mole on his left knee? Even though “there is” such a person, Meinongianism apparently does not determine a fact of the matter. (Though again, a Meinongian view of possibilia, specifically, might just reject incomplete objects.) Quine protested that Meinongian objects have no clear individuation-conditions. Imagine first a non-existent bald man in a doorway, and then imagine a non-existent fat man in the doorway. Now ask yourself: Have you imagined the same man or not? The Meinongian seems to lack the resources to determine a fact of the matter.
+2. Lewis’ Realism
+The Meinongian view could be seen as Realist view about possible objects, since it holds that all possible objects (possibilia) are “real” in an important sense. A more robust kind of Realism, however, is expounded by David Lewis (1969; 1973; 1986). Unlike Meinongians who identify different kinds of “being” (or a realm “beyond being and non-being”), Lewis makes clear that there is only one kind of being, and that all possibilia (that is, all actual and non-actual possible objects) have it. Thus Lewis’ provocatively suggests that non-actual possibles exist in just the same way that you and I do (1986, pp. 2-3) Despite the prima facie implausibility, however, there is a type of indispensability argument which may speak in favor of the view. The idea is that talk of “possible worlds” is too useful to modal semantics to see it as a mere façon de parler (way of speaking). In the hard sciences, moreover, if an unobservable entity is theoretically useful, that is often seen as a reason to think it exists. In like manner, says Lewis, the theoretical utility of possible worlds provides at least some reason to believe that these objects exist (in the only sense of ‘exist’ that there is).
+Now even if we are inclined to posit possibilia, it may seem that Lewis goes too far in declaring that possible worlds exist “in just the same way” that you and I do. After all, you and I are actual whereas Pegasus and his world are not. However, it is crucial that when Lewis calls a possible object “actual,” he is not attributing it any ontological status beyond the fact that it exists. For when Lewis says we are “actual” (and Pegasus is not), he only means that we are actual relative to this world. In contrast, relative to a world of Greek mythology, he will say it is Pegasus who is actual and we who are not. This should not suggest that there is a special property of “actuality” that is being passed around. Rather, it illustrates that Lewis uses ‘actual’ as an indexical term vis-à-vis worlds: Just as the pronoun ‘I’ picks out different people on different occasions (depending on the speaker), ‘actual’ can denote the objects of different worlds, depending on which world is relevant. Accordingly, Lewis’ use of ‘actual’ only serves to locate an object in the world of concern, among the myriad of worlds that exist. But consequently, there is no non-relative sense in which we (but not Pegasus) are “actual.”
+So again, anything possible exists (in the only sense of ‘exists’ that there is); nonetheless, some objects are also actual though this merely serves to locate them in a contextually relevant world. But this talk of “locating” should not suggest that possible worlds exist in a shared space, where each world has a “location” in that space. For Lewis denies that spatio-temporal relations hold between worlds. Worlds are spatio-temporally isolated on his view; we cannot speak of events occurring at the same time in different worlds, nor can we speak of distances between worlds. As a corollary, there cannot be causal relations between worlds either (assuming causes bear some temporal relation to their effects). So oddly, even though alternate worlds exist just as much as we do, they do not exist anywhere in relation to us.
+This could mislead, however, in suggesting that Lewisian worlds are a type of abstract object, akin to universals or sets. Realists about abstracta sometimes say that their objects lack a location, despite the fact they exist. However, Lewis concedes at least three senses in which his worlds qualify as “concrete.” First, note that if sets and universals are counted as abstract, then a contrast can be with individuals or particulars. In that case, Lewisian worlds qualify as non-abstract or “concrete,” since they are particulars. (But, note that a concrete world can be home to abstract objects all the same.) Second, the abstract/concrete distinction sometimes concerns whether an object has spatio-temporal dimensions. Yet here too, since Lewis’ worlds are spatio-temporal kinds of entities, they qualify as “concrete.” Finally, Lewis recognizes that some things might be abstract in the sense of being an “abstraction,” that is, they might be the kind of entity represented by an incomplete or gappy description. (An example would be “the Average American”). In line with Kripke, however, Lewis accepts that each possible world is described by the sentences in some maximally consistent set—and the set would describe the world completely. So worlds are concrete by this criterion also.
+However, in talking of maximally consistent sets, Lewis would seem to utilize the modal notion of “consistency.” Note that consistency is indeed modal; a set of sentences is consistent if and only if it is possible for those sentences to be jointly true. So at first, it may seem that Lewis’ theory simply helps itself to one of the modal notions it was supposed to account for. But this is misleading. Although Lewis accepts Kripke’s way of characterizing worlds, it is ultimately unnecessary to his metaphysics. Since Lewis’ worlds genuinely exist, he can say instead that worlds are non-gappy by simply appealing to the non-gappy facts of such worlds.
+Not only is each world “gapless,” he also thinks there is no gap in the collective of worlds. That is to say, absolutely every way that a world could possibly be is the way that some world is. But oddly, this last statement looks truistic given Lewis’ Realism. For if robust facts about worlds determine what is possible, then trivially the worlds exhaust the possibilities—even if there are only 17 worlds or 1 (or even none)! To secure the “plentitude” of worlds, then, Lewis makes use of a certain Recombination Principle. In its most basic form, this principle states that any object can co-exist with any other object. However, Lewis eventually revises this in considering two objects from different worlds. Objects from different worlds cannot co-exist, since Lewis presumes that worlds cannot “overlap” in any way. So in the end, Lewis achieves the plentitude of worlds with a modified Recombination Principle; this says that if x ¹ y, then in some possible world, x or a duplicate of x co-exists with y or a duplicate of y (assuming the spacetime of some world is large enough to contain the two).
+Lewis’ “no overlap” intuition brings us to an important feature of his modal metaphysics. Consider that, according to this intuition, you are part of the actual world and only the actual world. There is no sense in which you inhabit some genuinely existing alternative universe. Nonetheless, if we follow Kripke’s logic to the letter, the statement “It is possible for me to be a dentist” is true (if uttered by you), in virtue of some alternate world where you yourself exist and are a dentist. Occupying more than one world may be fine as concerns pure logic, but when taken as a metaphysical thesis, Lewis finds it intolerable. So in the end, he denies that in alternate worlds, you make true the modal statements about you.
+But if not you, who else could do this job? Lewis (1973) responds with the idea of a counterpart: Even though you only occupy the actual world, you have counterparts in other possible worlds that determine the truth of ‘It is possible for me to be a dentist.’ In general, a counterpart will be a non-actual object that is “sufficiently similar” to you in certain worlds. But when is an object “sufficiently similar?”  Lewis in fact thinks there are no absolute conditions on this. In some contexts ‘It is possible for me to be a dentist’ (uttered by you) is true in virtue of a non-actual dentist that, say, merely looks like you. Whereas in other contexts, perhaps the only thing that will do is a dentist who is a strict molecule-for-molecule duplicate of you.
+Counterpart theory, even independent of Lewisian Realism, has several objections to reckon with. For instance, simply as a logical point, it has the strange consequence that “Necessarily, I am myself” is true only in virtue of objects that are neither identical to me nor to one another. (Technical aside: Lewis thinks there is nothing strange here if we think of a counterpart as a “deferred referent.”) Regardless, let us now turn to criticisms of Lewis’ Realism itself.
+As Lewis is aware, the most glaring issue is that the view just ignores the Principle of Parsimony, which demands that entities should not be multiplied beyond necessity. According to this objection, the uncountable worlds that Lewis’ posits are just ontologically gratuitous, akin to Ptolemy’s epicycles-upon-epicycles for the planetary orbits. Lewis (1973), however, distinguishes so-called quantitative parsimony from qualitative parsimony. He grants that his Realism may well violate quantitative parsimony, given the number of entities in his ontology, yet he suggests it is only qualitative parsimony that really matters. The latter just concerns the number of kinds that a theory acknowledges, rather than the raw number of entities themselves—and Lewis claims his Realism is indeed qualitatively parsimonious. After all, we already believe in the actual world, and Lewis is merely asking us to believe in more entities of that kind. In contrast, Meinongian Realism increases the kinds that entities exist. For Meinongian objects have “being” in a different kind of way than ordinary objects (or worse, they belong to a sui generis kind that lies “beyond being and non-being”).
+A different issue that Lewis acknowledges concerns the epistemology of worlds. It is natural to think that causal interaction with x is required in order to know about x, as when the senses causally interact with the world. Yet for Lewis, there is no causal interaction between us and other worlds, and so knowledge of other worlds looks problematic. (The issue here is analogous to Benacerraf’s dilemma for Mathematical Realism.)
+Lewis’ solution here is to say that knowledge of non-actual worlds does not require causal interaction. But if not, how do we acquire modal knowledge? His reply is that for the most part, our modal knowledge follows from our (tacit) knowledge of the Recombination Principle. Though typically, we do not strictly derive modal truths from the Principle; instead, we imagine some state-of-affairs and “test” it against the Principle. Yet even if we grant all this, Lewis may need to explain further how we know that this Principle accords precisely with the real modal facts.
+Further worries about Lewis’ view concern the individuation of worlds. He contends that a continuous region of space-time is necessary and sufficient to individuate a world. More exactly, objects constitute a possible world just in case all the parts of the objects bear spatio-temporal relations to each other. (When they do, the objects are called “worldmates.”)  This, in conjunction with the spatio-temporal isolation of worlds, blocks the consequence that all possible worlds form one Big Possible World. Yet in this, Lewis is forced to say that no possible world contains isolated space-time regions. And as Lewis admits, it is counter-intuitive to say that. Still, he claims that such a possibility is “no central part of our modal thinking,” so he prefers to bite the bullet instead of rejecting his definitions of ‘worldmate’ and ‘world’ (1986, p. 71).
+Another important critique of Lewis, expressed by Plantinga (1987), runs as follows. Suppose that physicists really did discover uncountably many alternative universes, each different from the others. Why, asks Plantinga, would we suppose that these have anything to do with modality? After all, intuitively, what is possible for me does not depend on facts about any “maximal objects” that exist; it is not as if facts about these spatiotemporally removed objects are what make it possible for me to be a dentist. Yet it is unclear how much force the point has; Lewis might reply that Plantinga’s “intuition” on this is merely a bias against his view.
+Here is one further issue for Lewis’ account. One of its biggest advantages is supposedly that it avoids circularity—that is, it does not explicate our modal notions by utilizing a modal notion. (In contrast, circularity is a recurring problem for Lewis’ competitors, as we shall see.) However, Lycan (1994) has objected that Lewis’ analysis indeed employs a modal notion. Namely, ‘world’ in Lewis’ mouth means possible world, in contrast to the impossible worlds whose existence Lewis rejects. To be sure, if Lewis’ possible worlds genuinely exist, the facts about those worlds might metaphysically determine the modal facts unproblematically. But the issue is whether Lewis’ theory understands modal talk in completely nonmodal terms. Lycan’s point is that it does not, given that the theory rests on the distinction between “possible” and “impossible” worlds.
+If Lewis were to surrender this distinction, so that ‘world’ denotes any kind of world whatsover, then ‘world’ could be a nonmodal term in Lewis’ primitive vocabulary. Indeed, many have said that Lewis should admit impossible worlds anyway, for the same kind of indispensability reasons in favor of possible worlds. (Impossible worlds facilitate the semantics of, for example, “Some round squares are round” or “Crazy people believe that some round squares exist.”) However, Lewis resists impossibilia, since he takes it as axiomatic that we can never assert a truth about an object by uttering a contradiction. Yet if Lewis’ worlds do not include impossible worlds, then his use of ‘world’ may indeed express a modal notion, meaning that circularity would again be a worry.
+There is one final objection to Lewis we should note. Suppose for the sake of argument that Lewis has adequately answered the objections raised thus far. Still, the claim that the plentitude of worlds genuinely exists seems ridiculously, outrageously implausible by commonsense standards. This kind of reaction is what Lewis calls “The Incredulous Stare.” Lewis acknowledges that his view violates commonsense, even “to an extreme extent,” and that this is a liability for the theory. Nevertheless, he emphasizes that commonsense is not the final arbiter on what is philosophically best, and that the theoretical advantages of his Realism ultimately outweigh the disadvantages. Though, as he grants, this may be somewhat open to debate.
+3. Ersatzism
+We now come to the primary alternative to Modal Realism, the Ersatz approach. Most basically, the Ersatzer construes talk about a possible world as talk about some ersatz object. (‘Ersatz’ is German for ‘replacement’ or ‘substitute.’) Thus the truth or falsity of a modal statement is explained by appeal to surrogates or proxies for possible worlds, rather than to genuinely existing worlds themselves. Thus, “It is possible for me to be a dentist” is true not because of a concretely existing alternate world, but rather because there is some ersatz world, according to which I am a dentist.
+Different writers take different entities as their ersatz worlds, but the common idea is to use objects that are just plain actual, thus avoiding a Realist commitment to non-actuals. Yet to be clear, even though ersatz worlds are all actual, only one is actualized. This indicates another shared feature of worlds among Ersatzers; a world-surrogate is in some sense representational. After all, besides implying that some ersatz world “corresponds” to our world, the Ersatzers generally speak of what is true “according to a world.” Nevertheless, Ersatzers diverge on which actual representational objects should be the world-surrogate. The abstract objects recruited for this purpose include (a) sets of sentences, (b) sets of propositions or properties/relations, (c) pictorial objects, (d) combinations of matter and empty space (defined set-theoretically), and (e) objects that lack any specification beyond “abstract.” Let us review these options in turn.
+a. Sententialism
+ 
+ 
+One of the first Ersatz views was Rudolf Carnap’s (1947) Sententialism, where maximally consistent sets of sentences took the place of possible worlds. Writing before Kripke, however, Carnap did not speak of these sets as “ersatze” for worlds. He just utilized the sets as they were, referring to them as “state descriptions.” Still, posterior to Kripke’s modal logic, one might naturally assimilate state descriptions to ersatz worlds, since state descriptions fulfill the semantic role that is otherwise played by worlds.
+According to Sententialism, then, truth or falsity of a sentence “Possibly, p” is ultimately a matter of whether some maximally consistent set contains the sentence “p” as a member. In similar fashion, “Necessarily, p” is true or false depending on whether all such sets contain “p.” Naturally, such a view requires an ontological commitment to sets, but such abstract objects might be required anyway (perhaps due to Quine-Putnam indispensability arguments). And a commitment to sets and the like may not seem quite as objectionable as a Realist’s commitment to nonactual objects.
+Still, there are other issues. For one, the sets cannot just contain sentence-tokens (individual sentences that have actually been spoken or uttered), since there have only been finitely many tokens in the history of the world. (In contrast, every maximally consistent set patently contains infinitely many sentences.) Charitably speaking, then, Sententialism instead holds that ersatz worlds are sets of linguistic (or possibly mental) sentence-types. (Though, note, Lewis thinks that there are still cardinality problems unless the sentences are “Lagadonian,” where objects themselves are used as their own names). And so besides sets, the Ersatzer now may incur an ontological commitment to a further kind of abstract object, “types.”
+Finally, the Sententialist faces a circularity worry. In utilizing maximally consistent sets, the Sententialist account depends on the modal notion of “consistency.” And unlike Lewis, the Sententialist cannot try to eliminate this notion by instead depending on robust facts about concrete possible worlds. So the Sententialist apparently takes as given one of the notions it wants to explicate.
+b. Propositionalism and Property Ersatzism
+It is notable that similar worries persist if the Ersatzer opts instead for maximally consistent sets of propositions, as in Plantinga (1972) and Adams (1974). This is obvious enough if propositions are identified with linguistic (or mental) sentence-types. And if propositions are construed as a different kind of abstract object, the number of ontological commitments seems to increase unnecessarily. Nonetheless, the Ersatzer might insist that the ontological cost here is not as high as it is with Lewisian worlds. (Though the problem remains that the Ersatzer apparently presupposes a modal notion of “consistency”)
+Typically, a proposition is a complex of objects and properties/relations (or representations thereof). For instance, the proposition that I am a dentist would often be seen as composed of (representations of) myself and the property of being a dentist. But as noted in Lycan (1994), an Ersatzer can instead follow Parsons (1980), who individuates objects in terms of properties. (Unlike Parsons, however, the Ersatzer would regard the property-bundles as actual abstracta rather than Meinongian nonexistents.) In more detail, the Property Ersatzer identifies objects with bundles of properties (intuitively, the properties that the object has). And from these, worlds are built by describing relations between the property-groupings. One advantage of such an Ersatzism is that the property-groupings and their interrelations are all stipulated, meaning that unlike Lewis, the Ersatzer need not explain how knowledge of spatiotemporally isolated, concrete worlds is possible. Though again, the property-groupings must be “consistent,” meaning that circularity may be an issue here as well.
+In fact, Property Ersatzers as well as Propositionalists have even more circularity worries when it comes to the metaphysics of the propositions or properties themselves. Many times, a proposition is defined by a set of possible worlds (intuitively, the worlds where the proposition is true)—whereas a property is often defined by a set of possible objects (intuitively, the objects that have the property in question). But both accounts depend on the notion of “possibility”, so they apparently cannot underwrite the Ersatzer’s propositions or properties, on pain of circularity.
+Lewis gives two further objections to these Ersatz views. One is that if ersatz worlds are defined via properties, then it will be impossible to have distinct yet indiscernible objects. After all, for this Ersatzer, possible objects are individuated only by their properties—so if x and y are objects that have exactly the same properties, it would follow on this view that x = y. In addition, Lewis holds that such Ersatz accounts cannot allow other “alien” (that is, non-actual) properties, even though such properties seem possible. The intuition is that there might have been other properties than the properties we encounter in the actual world. But Property Ersatzers seem unable to accommodate this intuition. For they wish to limit themselves to actual abstracta when building the ersatz world. And that means non-actual abstracta, which would include non-actual properties, would not characterize any ersatz world.
+Nevertheless, one could reply in typical Ersatz fashion that all properties, including alien properties, are actual abstract objects—it’s just that the alien properties are not actualized. Even so, Lewis replies that the Ersatzer should still provide individuation-conditions for alien properties. (Otherwise, the view would not secure the possibility of two objects differing only in alien properties.) But, says Lewis, since the Ersatzer denies the existence of alien properties, their individuation-conditions would presumably be supplied by some general theory of properties. Yet as we saw, the standard theory of properties would only create circularity in the Ersatzer’s account.
+c. Pictorial Ersatzism
+However, perhaps an Ersatzer can accommodate the possibility of alien properties in a different way. On this, Lewis considers a “Pictorial Ersatzer,” an Ersatzer who holds that all possible properties (including alien properties) are actually instantiated on abstract pictures. But to understand this properly, some further set-up is needed.
+In general, the pictorial objects would act as ersatz worlds, representing the possible ways the world might be. Lewis suggests that the pictures would be representative, specifically, by isomorphism, by a mirroring between parts of the picture and parts of what is represented.  Strictly speaking, however, “isomorphism” is achieved by parts of the picture instantiating the very same properties and relations instantiated by the objects. Thus, a splotch of the picture would be isomorphic to the cat by having the very same shape and the very same color as the cat.
+But of course, real pictures do not represent by such strict isomorphism. Yet the reason an oil paining can still represent a cat is because there are various conventions in place for us to associate cat-esque parts of the painting with real cats. Lewis thinks, however, that if Pictorial Ersatzism is meant to be a genuine alternative to Sententialism, such conventional elements must be absent from the pictorial ersatz worlds. Thus, Lewis proposes that these abstract pictorial objects should be idealized pictures which represent by a complete isomorphism (in as much as this is possible).
+When it comes to alien properties, however, this idealization would prove helpful. The Ersatzer would hold that the alien properties are actually instantiated by abstract pictures (though they remain “alien” in being uninstantiated concretely.) And in brief, Lewis thinks this might allow the Ersatzer to individuate the alien properties. If so, then unlike the Property Ersatzer, the Pictorial Ersatzer could meet Lewis’ demand to individuate alien properties. She would do so, moreover, without invoking the standard general theory of properties (which, recall, would create circularity).
+Regardless, Lewis identifies (at least) three difficulties for Pictorial Ersatzism. One is that the view presupposes rather than explicates the notion of “possible,” since the isomorphisms are each understood to hold between a picture and a possible scenario. Another is that the isomorphisms would fail, since an abstract ersatz cat is not a cat—an abstract object is not the sort of thing that can instantiate felinehood. Finally, it is dubious whether an ontological commitment to these world-pictures is better than a commitment to concrete worlds. For although every Ersatzer is committed to abstract objects, the Pictorial Ersatzer’s objects are not “abstract” in the usual senses of the term. Most notably, an abstract object is prototypically one that does not enter into spatio-temporal relations. Yet the isomorphism between the picture of the cat on the mat required a certain spatial arrangement of the parts. (Note that there are other ways to construe ‘abstract,’ but Lewis finds these no better.)
+d. Combinatorialism
+Combinatorialism is yet another view which prefers abstract surrogates over concrete possible worlds. The view has roots in the Ludwig Wittgenstein’s Tractatus, but interestingly it was Quine, our modal skeptic, who first developed it in some detail. Yet it was Creswell 1972 who first accepted and defended the view. According to the Combinatorialist, an ersatz world is roughly a set-theoretic construction of some distribution of matter throughout a space-time region. As an illustration, a Combinatorialist might start with a co-ordinate system in a four-dimensional Newtonian spacetime, and identify the position of each space-time point in the usual manner, using numerical values along the x-axis, the y-axis, and the z-axis. Next, we can assign a time t to each point, so that the spatial-temporal location of a point is completely defined by an ordered quadruple <x, y, z, t>. Finally, for each point in the co-ordinate system, we stipulate that the point either is filled with matter or is empty space, by assigning it the number 1 or 0, respectively. The result then represents a four-dimensional space-time where matter is distributed according to the 1s and 0s.  (Technical addendum: Since a space can be mapped by more than one co-ordinate system, a world is ultimately defined by an equivalence class of such systems.)
+The example of course utilizes a Newtonian spacetime, but a Combinatorialist can identify other space-times, describe them by co-ordinate systems, and assign 1s and 0s as before. Regardless, there is always the chance that some possible space-time remains unidentified, leaving the combinatorial possibilities incomplete. Moreover, as Lewis highlights, our modal intuitions can be infirm about whether certain space-times are possible. For instance, is it possible to have entities which are temporally but not spatially located? In contrast, Lewis believes he has no need to answer this since he can just let the concrete modal facts fall where they may.
+As might be expected, circularity is also a worry for this brand of Ersatzism. Perhaps the best way to levy the charge is by considering how a distribution of simples relates to macro states-of-affairs. In the first instance, the set-theoretic constructions determine the position of a world’s mereological atoms (that is, indivisible parts making up a whole), yet the assumption is that this also determines all the goings-on in the world at the macro-level. But in what sense “determines?” This would seem to concern the micro-facts metaphysically necessitating the macro-facts in a world. Yet metaphysical necessitation is of course a modal notion. So as before, it appears the Ersatzer has a circular analysis on her hands.
+On a different note, the Combinatorialist should be concerned that her worlds only contain matter. After all, this implies that materialism is necessarily true—even though spiritual entities like Cartesian souls would seem to be at least possible. Now the Combinatorialist may simply bite the bullet here; after all, the fact that people believe in spiritual entities does not show their possibility (although, if propositions are sets of worlds, then it is harder to characterize those beliefs without worlds containing such entities). Or, a Combinatorialist might instead propose a kind of “neutral monism” whereby arrangements of atoms can result in either material or immaterial objects. Admittedly, however, it is hard to see how immaterial objects could be composed of “atoms,” much less the same type of “atoms” as material objects.
+There is a further concern about the metaphysics of the atoms. Since the Combinatorialists wants to avoid non-actual objects, it seems her set-theoretic constructions must include only actual atoms. This is unfortunate, however, since limiting ourselves to actual matter rules out possible worlds with more matter than in our world, as well as worlds with different matter.
+Nevertheless, a Combinatorialist may try to avoid both this problem and the problem about immaterial possibilia by recruiting (say) numbers as substitutes for non-actual substances. Yet it is unclear whether this is satisfactory, since numbers do not literally represent anything (much less represent nonactual matter); hence, the numbers will apparently be chosen arbitrarily. Consequently, once we have a set-theoretic construction using these numbers, we may be strained to believe that this specific construction really is what determines the truth of our modal statements. For why should this particular construction earn this status, over a structurally identical one that uses different numbers?
+e. Non-Reductivism
+A rather different approach is that of Stalnaker (1984) and (on one reading) Plantinga (1972). As in other Ersatz views, concrete possible worlds are replaced with actual abstract objects. But these ersatz worlds are simply identified as “maximal states-of-affairs” or “ways the world might have been” without further analysis in terms of sentences, propositions, universals, or anything else. Non-Reductionist Ersatzism may very well have some appeal, especially in light of the perceived failures of other Ersatz accounts, though talk of “maximal” states-of-affairs alone may be enough to make the account circular.
+Note that even if the ersatz worlds are ontologically basic, they can nonetheless have structure. In line with Kripke’s logic, the Non-Reductivist can say that her worlds consist of states-of-affairs, which in turn are comprised of individuals and their properties/relations. Interestingly, Plantinga includes individual essences as well, sometimes called “hacceities”; such a thing is possessed by an individual necessarily, and is necessarily unique to the individual.
+But at the most basic level, the Non-Reductivist simply interprets Kripke’s logic with respect to a domain of abstract objects, which are not analyzed in terms of anything more ontologically fundamental. Lewis thus calls the view “non-descript” Ersatzism, complaining that the theory is not much of a theory at all. (Lewis levies this criticism against a view he calls “Magical Ersatzism,” where ersatz worlds are structureless, mereological atoms. But he thinks the point carries over.) In fact, since Non-Reductivism is simply silent on reductive matters, it thus seems compatible with any of the reductions given by other Ersatzers. Lewis even suggests it compatible with reducing possible states-of-affairs to sets of Lewisian concrete worlds (if the sets are actual abstracta).
+The Non-Reductivist can respond, however, by explicitly denying such reductions. But in that case, her ersatz worlds start to look like abstract objects that cannot be given any further reduction. Yet this would not put her at a disadvantage, says the Non-Reductivist, since Lewis’ Realism apparently cannot reduce concrete possibilia into more basic facts either.
+Still, Lewis thinks the Ersatzer owes us more about what makes the modal truths true, if not concrete facts. And apparently, the Non-Reductivist is simply taking as primitive the crucial explanatory notions like “states-of-affairs,” “properties,” and so forth. What’s more, recall that the ersatz worlds are supposed to be representational, since certain things are true “according to a world.” Yet Non-Reductivism just leaves this representational feature as mysterious. (In contrast, Sententialism can explain the representational nature of its ersatz worlds by the representational nature of sentences.)
+4. Fictionalism
+A later approach to come on the scene is the Fictionalist view of possibilia. Fictionalism proper was first developed by Gideon Rosen (1990), although Armstrong’s (1989) view is expressly Fictionalist in part, as we shall see in the next section. Notably, Rosen does not always identify himself as a Fictionalist, and similarly with Daniel Nolan (who is arguably the leading expert on Fictionalism in the early 21st century). Nonetheless, the Fictionalist strategy has garnered a lot of attention, since at the least, it may be no more problematic than the Ersatz views. Plus, it can be applied to other problematic objects besides possible worlds, “moral facts” for example.
+As concerns possible worlds, the Fictionalist says that a statement about such worlds should be understood as analogous to a statement like “According to Arthur Conan Doyle’s stories, Sherlock Holmes lives at 221B Baker Street in London.” Note first that Holmes-statement is false if we leave off the clause “According to the…stories,” also known as the “story-prefix.” After all, it’s not literally true that Sherlock Holmes lives in London. Yet when the story-prefix is added, the assertion is indeed literally true. For there literally are sentences in the Doyle stories which specify this as the location of Holmes’ home.
+In an analogous manner, the Fictionalist suggests that “There is some possible world with a talking donkey” is false strictly speaking, since (with all due respect to David Lewis) there are no such worlds. Nonetheless, it is entirely true to say “According to Lewis’ theory, there is some possible world with a talking donkey.” Taking this as her cue, the Fictionalist says that for any modal statement p, the statement is true if and only if, according to Lewis’ view, p.
+One advantage that Fictionalism has over Lewis’ Realism is that the view is not as apt to provoke the “Incredulous Stare” by ignoring commonsense. A second advantage is that the Fictionalist does not have the same troubles with the epistemology of worlds. Recall: Lewis’ difficulty was that we bear no causal relationships to non-actual worlds, meaning that our epistemic access to these worlds seems problematic. Lewis responded by explaining modal knowledge via “imaginative tests,” where we judge whether an imaginary scenario is possible using the Principle of Recombination. One complaint against Lewis, then, is that these tests provide knowledge of the concrete existing worlds only if we antecedently know that the Recombination Principle provides for exactly the possibilities found in those worlds. However, the Fictionalist does not face this problem. Since she denies the concrete existence of the worlds, she can hold that the “imaginative tests” are enough for modal knowledge. After all, on her view, what Lewis’ Recombination Principle says (in conjunction with the rest of Lewis’ view) wholly determines what is possible. And to know what Lewis’ theory says, one does not need knowledge of any correspondence with concretely existing worlds.
+Yet Fictionalism of course is not without its problems. One is that in talking of stories such as the PWF (Possible World Fiction), the Fictionalist would seem committed to a certain kind of abstract object, namely, “stories.” Rosen nonetheless sees this commitment as less severe than the Lewisian commitment to worlds. However, if the Fictionalist accepts that the PWF exists as an abstract story, understood as a set of sentences, then it may not be entirely clear how her view differs from Sententialist Ersatzism.
+A second difficulty is that, according to Lewis’ Realism, Modal Realism is necessarily true—that is, Modal Realism is true at every world. And the Fictionalist holds that the truth of “Necessarily, p” is determined by whether Lewis’ Realism says “Necessarily, p.” Hence, if Lewis’ Realism says that Realism is necessary, the Fictionalist is then committed to the truth of “Necessarily, Lewis’ Realism is true,” and thereby surrenders her Fictionalism in favor of Modal Realism.
+However, it has been subsequently argued that Lewis’ (1969) Realism does not entail the necessity of the view. It is key that Lewis’ early version of Modal Realism holds that “‘There are x’ is true at a world iff x exists in that world,” that is, as a spatio-temporal part of that world. But if so, then ‘There are multiple worlds’ will be true in no possible world. For within the space-time of a world W, there will only be one world that exists as an (improper) part, namely W itself.
+A separate obstacle for Fictionalism is that Lewis is agnostic on certain modal matters, for example, the possible sizes of space-time. Such agnosticism is no threat to Lewis’ own metaphysics, since real concrete facts will determine whichever space-times are possible. But how does Fictionalist fix the facts here? In such a case, a Fictionalist might say that it is literally false that, for example, there is a possible spacetime that houses uncountably many donkeys. After all, it is false to say “According to the PWF, there is a possible world containing uncountably many donkeys,” for Lewis never says if space-time could contain that many donkeys. Yet Rosen points out that, given Lewis’ silence, the contrary statement “no possible spacetime houses uncountably many donkeys” would also come out false. And so, contrary statements would have the same truth-value. Consequently, Rosen instead advises the Fictionalist to leave such statements without a truth-value.
+Another glaring issue for the Fictionalist is to give an adequate semantics of her story-prefix.  A standard sort of semantics would say that a statement of the form “According to the PWF, p” means “In a possible world where the PWF is true, p.” Yet if the Fictionalist analyzes possible-worlds statements in terms of story-prefixed statements, she cannot also analyze the latter in terms of the former, on pain of circularity. Of course, one might forego the possible-worlds analysis of the story-prefix and give a Meinongian account instead. But the typical Fictionalist is aiming for a slim ontology. As a final option, then, the Fictionalist might simply take her story-prefix as primitive. Though as Rosen says, this is hard to stomach especially if the story-prefixed statements occasionally lack a truth-value (in accordance with Rosen’s advice above). Besides, says Rosen, story-prefixes seem to have a compound structure that should be analyzable into more basic terms.
+On a related matter, the Fictionalist seems to face a dilemma. Since PWF is a fiction, the claims it makes are false—yet is the PWF contingently or necessarily false? It is natural to understand “According to PWF, p” as saying that “if PWF were true, then p would be true.” Yet if the PWF is necessarily false, then the antecedent of this conditional is necessarily false. And that means the conditional will be true, even if p is an impossible proposition. On the other horn of the dilemma, if PWF is contingently false, then Fictionalism is inadequate to explicate the truth of “the PWF is contingently false.” For the Fictionalist would construe this as entailing “According to the PWF, there is a possible world where the PWF is true.” And per the schema above, that is equivalent to the truism “If the PWF were true, then the truth of the PWF would be possible.” Yet this is not equivalent to the claim that the PWF might have been true, since the latter is entirely nontrivial.
+Nolan raises yet another objection concerning the “artificiality” of fiction. It seems we can create fictional states-of-affairs at whim, but modal matters do not seem so arbitrary. It thus seems we need to specify which fiction is the “right” fiction for possible worlds. Yet what would make the PWF the “right” fiction? Since the Fictionalist is not a Realist, she cannot say that the right fiction is the one that corresponds to the real possible worlds. But then, what would “rightness” consist in?
+Finally, the Fictionalist also faces a more general circularity worry. Even if we ignore cases where Lewis is agnostic, the PWF will have gaps since it does not explicitly list every modal statement. So it seems that for the Fictionalist, some modal truths are true because they are entailed by the PWF. Yet entailment is a modal notion; a conjunction of statements entails a statement just in case it is impossible for the conjunction to be true and the latter false. So once again, our analysis of possible worlds seems to use one of the modal notions it was supposed to explicate.
+5. Armstrong’s Hybrid
+David Armstrong offers us a different type of modal metaphysics which is Ersatzist in part, but also partly Fictionalist. Most basically, however, Armstrong wants a “Naturalist” metaphysics, a metaphysics where anything that exists (i) has a location in actual space-time, and also (ii) enters into causal relations. This is in opposition to the Ersatz views which seem only to swap Lewis’ worlds for other ontologically dubious entities, namely, actual yet non-locatable abstracta. The Naturalism that drives Armstrong’s project will thus result in several notable modifications to both the Ersatzist and Fictionalist aspects of his view.
+In general, it is fair to say that Armstrong adopts the Combinatorialist strategy of using combinatorial possibilities as ersatz worlds. But in line with Naturalism, Armstrong rejects the abstract set-theoretic constructions which the typical Combinatorialist posits. Instead, a possible world is construed as an ungrouped plurality or “heap” of elements.
+As a further departure from the usual Combinatorialism, Armstrong’s elements are not mereological simples (that is, indivisible parts)—rather, they are whole states-of-affairs (which may or may not involve simples). The reason is that Armstrong sees states-of-affairs as more ontologically basic than particulars and their properties/relations, since those have no existence apart from states-of-affairs. He grants, however, that we may consider particulars and properties/relations in abstraction from states-of-affairs. So in some epistemic sense, it is true that Armstrong recombines particulars and their properties/relations, similar to other Combinatorialists. But from the more relevant, ontological angle, Armstrong’s combinations have states-of-affairs as the combinatorial elements, since nothing is more ontologically fundamental than these.
+Armstrong’s worlds thus exist as “heaps” of states-of-affairs. However, only one heap is actual, so it may seem that Armstrong needs to posit non-actuals anyway, against his Naturalism. Yet Armstrong believes this conflict is resolvable if we think of non-actual heaps as fictional objects akin to “ideal” scientific entities, for example, ideal gasses, frictionless planes, perfect vacuums, and so forth. For although ideal scientific entities seem to be fictitious, our tendency is nonetheless to view, for example, the ideal gas laws as literally true. That is, we do not see the ideal gas laws as simply “true in fiction” in the way that we regard “Sherlock Holmes lives at 221B Baker Street” as merely true in fiction. But if we view these laws as literally true, it that would mean the ideal entities literally enter into causal relations and occupy space-time. And if so, then such fictitious entities would meet the constraints imposed by Naturalism.
+Of course, not everyone is happy with Armstrong’s picture. The most important objection is that Armstrong does not describe the metaphysics of his fictions, beyond comparing them to frictionless surfaces and perfect vacuums. And it is not clear what account he could give. Naturalism of course precludes a Meinongian view of such objects, but also, the standard counterfactual analysis of fiction would result in circularity. As with other Fictionalists, Armstrong could not analyze worlds using fiction, and also analyze fictional discourse using counterfactual worlds.
+Another point of contention is the anti-essentialism which is part of Armstrong’s view. Many philosophers follow Kripke (1972) in holding that at least some individuals have essential properties, properties that they necessarily exhibit. (So for instance, Bertrand Russell is essentially a member of homo sapiens.) However, Armstrong puts no constraints on what properties a possible individual might instantiate. Consequently, the view entails that it is possible (say) for Bertrand Russell to be a poached egg—though the current philosophical trends at the beginning of the 21st century are against such a thing.
+6. Quine’s Skepticism
+So far the views here have all assumed Realism about modal truths, even though most refuse Realism about possible worlds. That is, they all assume that a statement like “I might have been a dentist” can be literally true, even though what makes it true may be something other than a concretely existing alternative world. Yet the reader can verify that Lewis’ Realism, Ersatzism, Fictionalism, the Armstrong Hybrid, and Conventionalism face circularity worries; each seems to implicitly deploy a modal notion in the analysis of modal notions. But to W.V.O. Quine, this would hardly come as a surprise. Quine argues that such circularity is in fact ineliminable, and that our modal notions are therefore defective. If so, the implication seems to be an Anti-Realism about modal truth or that modal notions cannot be used in expressing legitimate truths.
+Quine’s argument here is found in his “Two Dogmas of Empiricism” (one of the most celebrated philosophical article of the twentieth century). In the main, the paper concerns whether the terms ‘analytic’ and ‘synthetic’ can be properly defined, even provided the stock examples of analytic statements, for example, ‘Bachelors are unmarried men.’ Yet Quine’s investigation bears on modal terms as well, since he presumes that a statement would be analytic if and only if it is necessary. (Against the philosophical lore, Quine is aware that this is contentious; see Quine 1960, p. 66; see below as well.) The upshot is that, for Quine, if one could appropriately define ‘analytic’, this would bring us closer to understanding modal terms.
+A traditional definition of analyticity (from Kant) is dismissed as metaphorical, since it simply says that in an analytic statement, the predicate is “contained” in the subject. A different suggestion is that analytic statements are either logical truths or “true by definition.” The latter kind of truth would be a statement with a predicate that is synonymous with the subject-term, where synonyms could be listed by dictionary definitions. But for Quine, this just pushes back the question onto “synonymy.” When do terms count as synonymous?
+One of the main proposals here is that synonyms are terms that can replace each other in the statements they occur, without altering the truth-values of those statements. (Quotational contexts and propositional attitude reports will be exceptions, but they could be catalogued as such.) Yet Quine worries that ‘creature with a heart’ and ‘creature with a kidney’ might pass this substitutivity test, since they supposedly co-refer, despite being non-synonymous. But in fact, these phrases do not intersubstitute, in a sentence like “Necessarily, a creature with a heart is a creature with a heart.” For while this statement is true, it is false that “Necessarily, a creature with a heart is a creature with a kidney.”
+However, Quine protests that our definition of synonymy cannot rest on the notion of necessity, for otherwise we will have gone in a small definitional circle. Recall that Quine presumes necessity would be definable in terms of analyticity, but the present suggestion ultimately explicates analyticity in terms of necessity (via the notion of synonymy). So at best, the result is a rather tight circle of definitions.
+Regardless, if we are presently unable to define these notions adequately, it does not follow that we will never be able to. But this is partly why, at the end of “Two Dogmas,” Quine provides a very general picture of the relations between statements, where the analytic/synthetic distinction (and the necessary/possible distinction) apparently can have no application. The picture, known as the “web of belief,” is one which (in the first instance) jettisons the idea that an individual hypothesis can be confirmed or disconfirmed by experience. Instead, a statement must first be embedded in an entire network of statements. Without going into the details, however, a consequence of this confirmation holism is that a disconfirming experience can motivate a revision of any statement in the network. Hence, Quine thinks it could conceivably be rational to revise even logical truths such as the Law of Excluded Middle in light of experimental results from quantum physics. More generally, since experience may prompt any statement to be revised, Quine sees it as folly to speak of statements that are analytic or necessarily true—that is, true no matter what.
+A number of objections have been raised against Quine. Kripke (1972) suggests that there is a tendency to conflate notions of analyticity, necessity, and the a priori. Yet these notions are clearly different: As Kripke says, analyticity is a semantic notion, necessity is a metaphysical notion, and the apriori is an epistemic one. Kripke then argues further that some necessities are aposteriori, such as ‘Hesperus = Phosphorus’, (and as a lesser point, that some contingencies seem apriori, such as ‘I am here now’). However, charitably Quine recognizes that different concepts are in play here. (It would be odd for him to speak of a definitional circle if he thought only one concept was in play.)
+Even so, Quine apparently assumes that these concepts are co-extensional, and Kripke’s aposteriori necessities would discredit that. Yet Quine could reply that his concern is mainly with analyticity and necessity, and not the apriori. (It is notable that ‘apriori’ only occurs once in “Two Dogmas of Empiricism,” and merely as a rhetorical flourish.) Thus if Quine merely assumes that the necessities = the analyticities, Kripke’s examples of aposteriori truths have no immediate relevance. Still, many assume that Kripke’s aposteriori necessities are also synthetic truths. And if that is so, then Quine is wrong to assume that all necessities would be analytic. (But note, since “aposteriori” and “synthetic” are different notions, it may remain a bit unclear why aposteriori necessities must be synthetic.)
+As concerns the “web of belief,” Grice & Strawson (1956) argue that this picture does not in fact preclude an analytic/synthetic distinction. For it is possible to distinguish cases where we revise a statement’s truth-value, from cases where we revise a statement’s meaning. As a simple example, suppose you believe that all swans are white (along with suitable auxiliary hypotheses). Yet suppose you see a black swan while traveling in Australia. Then, Grice & Strawson would say that you could either revise your belief about swans, or you could revise what you mean by ‘swan.’ In the latter case, you might revise ‘swan’ to mean “white swan” specifically. And then it would seem that “All swans are white” is analytic, since it simply amounts to the logical truth that “All white swans are white.”
+For Quine, however, reducing “All swans are white” to a logical truth does not show it to be analytic or necessary, since even logical truths are revisable (as quantum physics seems to illustrate). Still, Quine’s views are radically at odds with the current philosophical orthodoxies, and so many philosophers remain unconvinced. One clear sign of this is the recent revival of conventionalism. This is the view that truths about what is possible or what is necessary are determined by linguistic convention, rather than by possible worlds, ersatz worlds, or the like. Such a view states that, pace Quine, logical truths are necessarily true, since linguistic conventions (more or less) stipulate them to be such. In earlier work, Quine (1936) more directly attacks such “truth by convention;” the reader is referred to Sider (2003), section 4, for an introduction to this debate. But interestingly, the conventionalist and Quine apparently would agree that facts about concrete or ersatz worlds do not ground modal statements. So regardless of whether Quine or the conventionalist is right, the primary lesson of this section stands, namely, that metaphysical accounts of possible worlds might be mistaken not just in detail, but in their most basic assumptions.
+7. References and Further Reading
+
+Armstrong, D. (1989). A Combinatorial Theory of Possibility, Cambridge: Cambridge UP
+
+Presents Armstrong’s hybrid of Combinatorialism and Fictionalism, putatively in line with Naturalist ontology.
+
+
+Carnap, R. (1947). Meaning and Necessity, Chicago: U of Chicago Press.
+
+Historically the first articulation of the Sententialist view.
+
+
+Cresswell, M. J. (1972). “The World is Everything that is the Case,” Australasian Journal of Philosophy, vol. 50, pp. 113.
+
+The first defense of a Combinatorialist view akin to that of Quine (1968).
+
+
+de Rosset, L. (2009a). Possible Worlds I: Modal Realism, Philosophy Compass, 4(6), 998-1008.
+
+This, along with Part II below, provide a useful overview of the latest developments in the debate regarding Modal Realism vs. its competitors.
+
+
+de Rosset, L. (2009b). Possible Worlds II:  Nonreductive Theories of Possible Worlds, Philosophy Compass, 4(6), 1009-1021.
+Divers, J. (2002). Possible Worlds, London: Routledge.
+
+An detailed introduction  to the dialectic between Modal Realists and Ersatzers.
+
+
+Grice, H. P. & P. F. Strawson (1956). “In Defense of a Dogma,” Philosophical Review, vol. 65, pp. 141-158.
+
+Contains some of the most important criticisms of Quine (1953).
+
+
+Kripke, S.A. (1959). A Completeness Theorem in Modal Logic, Journal of Symbolic Logic, 24(1), pp. 1–14.
+
+This is where it all started; it presents Kripke’s logic for modal statements.
+
+
+Kripke, S.A.  (1972). “Naming and Necessity,” in Davidson, D. & Harman, G., (eds.) Semantics of Natural Language, Dordrecht: Reidel, 253-355 & 763-769.    Reprinted as Naming and Necessity, Cambridge, MA: Harvard UP, 1980.
+
+Provides an extremely influential theory of names and their behavior in modal statements. Also, it is cited when accusing Quine of conflating analyticity, necessity, and the a priori.
+
+
+Lewis, D. (1969). Convention: A Philosophical Study, Cambridge, MA: Harvard UP.
+
+Contains Lewis’ first statement of his Realism, also includes a noteworthy preface by Quine.
+
+
+Lewis, D. (1973). Counterfactuals, Cambridge, MA: Harvard UP.
+
+Another articulation of Lewis’ Realism; this is also the main source for Lewis on counterparts.
+
+
+Lewis, D. (1986). On the Plurality of Worlds, Cambridge, MA: Blackwell.
+
+A sustained defense of Lewis’ Realism, and an attack on the alternative, Ersatz views. The most important primary source in modal metaphysics.
+
+
+Lewis, D. (1999). Papers in Metaphysics and Epistemology, Cambridge: Cambridge UP.
+
+Contains several relevant papers on modal metaphysics, including Lewis’ criticisms of Routley (a contemporary Meinongian) and of Armstrong.
+
+
+Lycan, W. (1979). The Trouble with Possible Worlds, in Loux, M. (ed.), The Possible and the Actual, Ithaca, NY: Cornell University Press, pp. 274-316.
+
+Contains some historically important criticisms of Lewis’ Realism. Also sketches a Propositionalist/Property Ersatz view.
+
+
+Lycan, W. (1994). Modality and Meaning, Dordrecht: Kluwer Academic Publishers.
+
+Chapter 1-4 revise and expand the material from Lycan (1979). The book is a highly effective overview and response to the literature on modal metaphysics. Deserves to be widely read.
+
+
+Meinong, A. (1904). “The Theory of Objects,” in Realism and the Background of Phenomenology, trans. I. Levi, D. B. Terrell, and R. Chisholm. Free Press, 1960.
+
+Contains the slogan “There are objects of which it is true to say that there are no such objects.” One of the few pieces by Meinong widely available in English.
+
+
+Melia, J. (2003). Modality, Montreal: McGill-Queen’s University Press.
+
+An excellent introduction to many of the issues presented in this article.
+
+
+Nolan, D. (2002). Topics in the Philosophy of Possible Worlds, New York: Routledge.
+
+Nolan’s dissertation, contains several useful reflections on Fictionalism.
+
+
+Plantinga, A. (1974) The Nature of Necessity, Oxford: Clarendon Press.
+
+Plantinga’s magnum opus on modality. Highlights include the discussion of counterpart theory and trans-world identity in Chapter 6, and the treatment of fictional objects in Chapter 8. Also, Plantinga’s modal version of Anselm’s ontological argument is not to be missed (Chapter 10).
+
+
+Plantinga, A. (2003). Essays on the Metaphysics of Modality, M. Davidson (ed.), Oxford: Oxford UP.
+
+A handy collection of Plantinga’s work in the area, including Chapter 8 of Plantinga (1974). It also has Plantinga’s (1972) modal metaphysics, as well as his (1987) relevance objection to Lewis’ Realism.
+
+
+Quine, W. V. (1936). Truth by Convention, Reprinted in The Ways of Paradox and Other Essays, Revised edition, Cambridge, MA: Harvard UP, (1976), pp. 77-106.
+
+Contains Quine’s best-known critique of the idea of “truth by convention.”
+
+
+Quine, W.V. (1953). Two Dogmas of Empiricism, Reprinted in From a Logical Point of View, 2nd edition (pp. 20-46). Cambridge, MA: Harvard UP.
+
+Presents Quine’s arguments against the analytic/synthetic distinction, and the necessary/possible distinction. Required reading for any student of philosophy.
+
+
+Quine, W.V. (1968). “Propositional Objects,” in Ontological Relativity and Other Essays, Cambridge, MA: Harvard UP, (pp. 139-160)
+
+Provides the first developed version of Combinatorialism, though Quine ultimately rejects the view.
+
+
+Rosen, G. (1990). Modal Fictionalism, Mind 99 (395), pp. 327-354.
+
+The first place where Fictionalism is developed in detail, as a modal metaphysics in its own right.
+
+
+Sider, T. (2003). Reductive Theories of Modality, in Loux & Zimmerman (eds.), The Oxford Handbook of Metaphysics, New York: Oxford UP, pp. 180-208.
+
+Section 4 is a very useful introduction to conventionalism about modality; other sections are helpful as well regarding Modal Realism, Fictionalism, and the various Ersatzisms.
+
+
+Stalnaker, R. (1984). Inquiry, Cambridge, MA: MIT Press.
+
+Presents a Non-Reductivist metaphysics, the last chapter is explicitly devoted to comparing Non-Reductivism to Reductivism.
+
+
+
+ 
+Author Information
+Ted Parent
+Email: parentt@vt.edu
+Virginia Polytechnic Institute and State University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

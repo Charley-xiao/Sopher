@@ -1,0 +1,383 @@
+
+
+
+
+
+
+
+
+
+Imagery and Imagination | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Imagery and Imagination
+Both imagery and imagination play an important part in our mental lives.  This article, which has three main sections, discusses both of these phenomena, and the connection between them. The first part discusses mental images and, in particular, the dispute about their representational nature that has become known as the imagery debate.  The second part turns to the faculty of the imagination, discussing the long philosophical tradition linking mental imagery and the imagination—a tradition that came under attack in the early part of the twentieth century with the rise of behaviorism.  Finally, the third part of this article examines modal epistemology, where the imagination has been thought to serve an important philosophical function, namely, as a guide to possibility.
+Table of Contents
+
+ The Imagery Debate 
+
+ Two Views About Mental Images: Pictorialism vs. Descriptionalism 
+ The Argument from Introspection 
+ Objections to Pictorialism 
+ A Remaining Question About Pictorial vs. Descriptional Representation 
+
+
+ Accounts of Imagination 
+
+ Image-Based Theories 
+ Non-Image-Based Theories 
+
+
+ Imagination and Possibility 
+ References and Further Reading 
+
+ 1. The Imagery Debate
+Consider the following list of questions:
+
+What shape are a beagle’s ears?
+How many windows are in your bedroom?
+Which is a darker shade of green, a pine tree or a frozen pea?
+When a person stands up straight, which is higher, her navel or her wrist?
+If the letter D is turned on its back and put on top of a J, what does the combination remind you of?
+
+When attempting to answer these questions, which are adapted from Pinker (1997) and Kosslyn (1995), you undoubtedly produced mental imagery—images of beagles, of windows, and of peas.  For some of these questions, you probably had to produce two different images to compare to one another, while for some of the other questions, you probably had to rotate the image you produced from the orientation at which it started.  These tasks probably also seemed routine—the production and manipulation of mental images are common aspects of our mental lives.  But what are these mental images?  What role do they play in our mental life?  In attempting to answer these questions, philosophers and cognitive scientists have given two very different sorts of answer.
+ a. Two Views About Mental Images: Pictorialism vs. Descriptionalism
+We are naturally inclined to think of mental images as analogous to non-mental images.  Consider, for example, my mental image of the Grand Canyon and a photograph of the Grand Canyon.  Intuitively, the two are similar sorts of representations.  Both are pictures—only the latter is in a frame while the former is in my head.
+This view of mental images, commonly referred to as pictorialism, is defended most prominently by Fodor (1975) and Kosslyn (1980).  (See also Kosslyn and Pomerantz 1977.)  In addition to its intuitive attractiveness, pictorialism derives support from various empirical experiments concerning mental image rotation and scanning (Shepard and Metzler 1971; Kosslyn 1973; Shepard and Cooper 1982).  In one such experiment, subjects were asked to identify whether a pair of figures, such as letters, digits, or block formations, were identical or different.  In each pair, the second figure had been rotated to an orientation different from the first.  The experimenters discovered that subjects’ response times varied directly with the degree of rotation between the figures, a finding that suggests that the subjects were mentally rotating images of the objects.
+Despite this intuitive and empirical support, however, pictorialism runs into trouble in its attempt to account for the mental pictures (or, at least, the quasi-pictures—see Kosslyn 1980) that it posits.  If such pictures are non-physical, then they are not made of the right sort of “stuff” for use in a scientific conception of the mind.  In order to avoid dualism, then, the pictorialist seems forced to suppose that these pictures in the head are located in the brain.  Unfortunately, this supposition is also problematic, as it is not clear that there are any structures in the brain that could plausibly be construed as these physical pictures.
+Motivated in large part by such worries, many philosophers and other researchers in contemporary cognitive science advocate an alternative view called descriptionalism.  Among its most prominent defenders are Dennett (1969, 1979) and Pylyshyn (1973, 1978).  While pictorialists claim that mental images represent roughly in the way that pictures represent, descriptionalists claim that they represent roughly in the way that language represents.  Consider a state of affairs where George W. Bush is seated to the right of Dick Cheney.  One way to represent this situation is by drawing a picture of Bush and Cheney with Bush sitting to Cheney’s right.  As we have seen, pictorialists claim that this provides us with a model for the way that mental images represent.  But another way to represent the same state of affairs is with a sentence such as, “George W. Bush is sitting to the right of Dick Cheney.”  Descriptionalists claim that this provides a better model for the way that mental images represent.
+Natural language descriptions, however, are by no means the only kind of representations that count as descriptional in the sense intended by descriptionalists.  In fact, for the descriptionalists, a representation can count as descriptional even if it is not literally descriptive of the states of affairs represented.  Consider one such representation:  the binary language of a computer.  In a computational system, a particular string of 0s and 1s might represent the above state of affairs.  Alternatively, consider a representation of this state of affairs that proceeds by defining a certain operator, the “RIGHT-OF” operator, that takes an ordered argument pair: RIGHT-OF(George W. Bush, Dick Cheney).  Like the sentence “George W. Bush is sitting to the right of Dick Cheney,” the binary representation and the operator representation are clearly not pictorial in nature.  One important reason is that these representations do not look like what they represent.  What sets pictorial representations apart from other representations is that they represent in virtue of having at least one visual characteristic (e.g., form, shape, or color) in common with what they represent.  So, for example, though a black-and-white photograph can represent a pumpkin pictorially, a drawing of a purple triangle cannot.
+The dispute between the pictorialists and the descriptionalists, known as the imagery debate, has generated considerable controversy and discussion in the last thirty years.  As we have seen, the imagery debate concerns the representative nature of mental images.  The descriptionalists challenge the pictorialists’ claim that mental images represent in a pictorial way.  Unfortunately, the imagery debate is commonly mischaracterized as a debate over the existence of mental images.  Descriptionalists are often taken to be denying the existence of mental images, while pictorialists are often taken to be defending their existence.  (See Block 1981a for discussion of this mischaracterization.)  The situation is exacerbated by the very participants in the debate, who themselves often obfuscate the issue between them.  Dennett (1979) describes the debate as “a war between the believers and the skeptics, the lovers of mental images … and those who decry or deny them,” and he frequently puts his own position in terms of “abandoning” mental images.  Likewise, Fodor (1975) cites empirical studies in an effort to “argue forcibly for the psychological reality of images.”   The pictorialist, however, should really be seen as arguing for the psychological reality of pictorial representation, which is also what the descriptionalist should be seen as abandoning.
+ b. The Argument from Introspection
+It is also important to note that the imagery debate is not a debate over whether we “think in words” or “think in images.”  To see this, it will be useful to consider the argument from introspection that is directed at descriptionalism.  When we introspect, it seems to us that our mental images look like what they represent.  This introspective judgment is often taken as definitive support for pictorialism, since pictorial representations look like what they represent while descriptional representations do not.
+Block (1983) and Tye (1991) each argue persuasively that this argument should be rejected.  Properly understood, the evidence from introspection can be seen to be neutral with respect to the imagery debate.  To see this, we need to distinguish the experience of imaging from the representation that underlies or accounts for this experience.  Consider the following analogy:  Suppose you were to come across a box on whose surface was displayed a crude black and white image of a rabbit in a meadow.  You might then ask:  What is going on inside this box to account for the rabbit-image?  One possibility is that some sort of slide projector inside the box projects the rabbit-image onto the box’s surface.  If this were the case, then what underlies the image would be a pictorial process.  But another possibility is that a computer inside the box produces the rabbit-image by way of binary code – strings of 0s and 1s that turn certain pixels on the surface of the box to black, certain pixels to gray, and so on, such that the rabbit image appears.  If this were the case, then what underlies the image would be a non-pictorial process.
+As this analogy suggests, the pictorialists claim that underlying the experience of mental imagery is some sort of representation that is pictorial in nature while the descriptionalists claim that underlying the experience of mental imagery is some sort of representation that is descriptional or linguistic in nature.  By distinguishing between experiences and the underlying representations, we undercut the force of the introspective judgment that lies at the heart of the argument from introspection, namely, that mental images look like what they represent.
+Pictorialists and descriptionalists alike thus accept that we sometimes think in images.  In other words, pictorialists and descriptionalists agree that we have certain imagistic experiences, that we experience what we would call “imaging.”  When we introspect, when we look within, it seems to us as if we are experiencing mental pictures.  But the experience is one thing, the representation that accounts for this experience another.  The pictorialists think that the introspective data should be interpreted just as it seems—our mind manipulates representations that are pictorial in nature.  The pictorialist view thus offers us a unified conception of our experiences and the representations that underlie them.  In contrast, the descriptionalists think that the introspective data is misleading in a certain sense; our experiences are not quite as they seem.  Insofar as it seems to us that we have certain mental representations that are pictorial in nature, we are the victims of an illusion.
+In defending descriptionalism against the argument from introspection, Tye (1991) makes the further point that all that introspection really suggests is that imaging is like perception: “to assert that a mental image of my brother, say, looks to me like my brother is merely to assert that my imagistic experience is like the perceptual experience I undergo when I view my brother with my eyes.”  Empirical experiments have tended to confirm introspective reports that imaging resembles perceiving.  Perky (1910) placed a number of people in a room, facing a screen, and asked them to produce mental images of various ordinary objects on the screen.  The subjects were not aware of the fact that, after they had reported that they were engaged in the requested imaging (of a banana, for example), an image of a banana was lightly projected onto the screen.  The projected image was slowly increased in intensity until, eventually, it was visible to any newcomer entering the room.  Nonetheless, the subjects never realized that they were seeing an image of a banana.  The only differences that they noted in their subjective experiences were changes in the size and the orientation of the banana they had been imaging.  In this highly controlled setting at least, seeing was mistaken for visual imaging.
+Additional empirical evidence strongly suggests that the mechanisms underlying imagery and underlying perception are the same.  (For an overview of some such experiments, see Finke and Shepard 1986.)  One set of important results was generated by Kosslyn (1993), who demonstrated using positron emission tomography (PET) that areas of the brain activated when we engage in object recognition are also activated when we produce visual mental imagery.  Other important results come from studies on patients who have suffered damage to parts of their visual system.  Bisiach and Luzzatti (1978) studied patients who suffer from hemi-neglect, i.e., patients who ignore objects in one half of their visual field.  These patients were discovered also to neglect objects in the same half when producing mental images.  To give another example, prosopagnosiacs, who cannot recognize faces, have been shown to suffer from similar difficulties when interpreting mental imagery (Levine, Warach, and Farah 1985).
+Given the totality of the evidence, both introspective and empirical, it seems reasonable to assume that the representations underlying the experience of imagery are like the representations that underlie the experience of perception.  Importantly, however, the representations that underlie the experience of perception may themselves be descriptional in nature.  Thus, without a theory of the nature of the representation underlying perceptual experience, evidence connecting mental imagery with perception cannot be taken as support for pictorialism.
+ c. Objections to Pictorialism
+While the above considerations suggest that the argument from introspection should be rejected, they do not entail the truth of descriptionalism.  So why would anyone embrace descriptionalism?  One influential consideration, as noted earlier, comes from the seeming incompatibility of pictorialism and materialism.  This problem, at least in part, is what Block (1983) has called the No Seeum Objection: when we look in the brain, we do not see any pictures.
+Of course, when we look in the brain, we do not see any descriptions either.  But, in contrast to the pictorialists, the descriptionalists seem to have an easy response to the No Seeum charge.  Sterelny (1986) notes that, since sentences are not medium-dependent, accounting for descriptional representations in the brain is unproblematic:  “Sentences can come as sound waves, marks on paper, electrical pulses, punched cards, and so on. Why not then as patterns of neural firings as well?”
+Interestingly, Block (1983) argues that we can extend this sort of response to protect pictorialism from the No Seeum objection as well.  To know whether you are looking at a descriptional representation, you must be familiar with the representational medium that is in use.  Block proposes that the pictorialist can adopt this same line of reasoning.  What makes something the sort of representation that it is, regardless of whether it is pictorial or descriptional, depends in large part on the system of representation in which it functions.  Thus, until we know more about how the representational system of the brain works, we are unlikely even to be able to tell which structures in the brain are representations, let alone what sort of representations they are.
+Descriptionalism has also been thought to gain support from the Paraphernalia Objection to pictorialism:  even if we were to discover pictures in the brain, these pictures could not play a role in our cognitive processes unless there were an internal eye to see the pictures, and since there is no such internal eye, pictorialism must be false.  (See Rey 1981, Block 1983 for discussion of this objection.)  Dennett (1969) voices the Paraphernalia objection by way of an apt analogy:
+Imagine a fool putting a television camera on his car and connecting it to a small receiver under the bonnet so the engine could ‘see where it is going’.  The madness in this is that although an image has been provided, no provision has been made for anyone or anything analogous to a perceiver to watch the image.
+According to the Paraphernalia objection, the pictorialist is like this fool.  Block (1983) and Kosslyn (1980) each suggest responses that the pictorialist can make to this objection; in short, the basic strategy is to invoke mechanistic explanation.
+Finally, Dennett (1969) presents two examples that seem to cause trouble for pictorialism and provide support for descriptionalism.  The first example involves a striped tiger.  (See also Armstrong 1968 for a related example involving a speckled hen.)  Form a mental image of a tiger and then try to answer the following question:  How many stripes does that tiger have?  Invariably, the question cannot be answered; the mental images that we form typically do not contain that information.  However, just as all tigers have a definite number of stripes, so too do all pictures of tigers.  Thus, if mental images were pictorial, a mental image of a tiger should reveal a definite number of stripes.  More formally, the objection to pictorialism that the striped tiger example poses can be stated as follows:
+
+Mental images can be indeterminate with respect to visual properties (e.g., the number of stripes on a tiger).
+Pictorial representations cannot be indeterminate with respect to visual properties.
+So, mental images are not pictorial representations.
+
+Dennett’s second example attempts to show that mental images can be noncommittal in a way in which pictorial representations generally cannot.  (See also Shorter 1952.  In what follows, I slightly modify Dennett’s example.  See Block 1981a for a discussion of why the example needs modification.)  Form a mental image of a tall woman wearing a hat and then try to answer the following questions:  What kind of hat was it?  Was she sitting or standing? Was she indoors or outdoors?  Was she wearing shoes?  Was she wearing a watch?  Though you can undoubtedly answer some of these questions—probably you can tell what kind of hat the woman was wearing in your image, be it a beret or a cowboy hat or a baseball cap—you were probably unable to answer some of the others.  When asked whether she was indoors or outdoors, or whether she was wearing a watch, you probably did not have enough information to answer the question.  And this need not be because you imagined her only from the neck up.  Even if you imagined her full-figure before you, your image likely did not go into sufficient detail to enable you to answer whether she was wearing a watch.
+Consider next a picture of a tall woman wearing a hat.  Dennett argues that in a pictorial representation of the woman, assuming that her wrists are in view, she must either be depicted wearing a watch or not wearing a watch.  The only way for the picture to avoid addressing the issue would be to have something obscuring the woman’s wrists.  This seems to differentiate the representational nature of a mental image from the representational nature of a picture.  Your image can be inexplicitly noncommittal about whether she is wearing a watch, but a picture can only be explicitly noncommittal about it.  (This terminology derives from Block 1981a.)
+Finally, consider a written description of the woman.  Clearly a description can be inexplicitly noncommittal.  Your description might be very short, for example, which would make it impossible to tell whether the woman was wearing a watch or not.  Dennett thus concludes that mental imagery has to be descriptional, and not pictorial, in nature.
+In response to this example, Block (1981a), Fodor (1975), and Tye (1991) have each argued that Dennett is operating with too narrow a conception of pictorial representation, accusing him of committing the photographic fallacy.  If we consider photographs, which are one kind of pictorial representation, then it might seem that Dennett is right: photographs are incapable of being inexplicitly noncommittal about visual features.  But consideration of photographs does not show that pictorial representation in general lacks this option.  In particular, consider children’s drawings or stick figures.  In drawing a stick figure of a woman, you might simply fail to go into the matter of the woman’s wristwear.  There are lots of different kinds of pictorial representation, and although both stick figure drawings and photographs represent pictorially, they do so in very different ways.  The pictorialists’ claim that mental images represent pictorially should not force one to the position that mental images are like mental snapshots; they might be more like mental stick-figure drawings.
+Interestingly, these points about the photographic fallacy do not protect the pictorialist from the striped tiger example.  Since there is a difference between being inexplicitly noncommittal and being indeterminate, the fact that some pictorial representations, like stick figures, are able to be inexplicitly noncommittal about certain visual features does not show that they can be indeterminate about these visual features.  The descriptionalist might argue that just as a photograph has to depict a determinate number of stripes on the tiger, so too does a stick-figure drawing.
+Fodor (1975) suggests a way to deny the first premise of the above argument.  It might be that there is some definite answer to the question, “how many stripes does my image-tiger have?” but that I cannot answer the question because images are labile (changing constantly, plastic); the problem is that we cannot hold onto our images long enough to count the stripes.  Ultimately, however, Fodor rejects the second premise of the above argument, suggesting that on blurry or out-of-focus pictures there may not be a determinate answer to the question, “How many stripes are there on the photograph?”  (See Hannay 1971 for a similar treatment of the problem.)
+Alternatively, the pictorialist might reject the move that Dennett seems to make from the claim:
+(a) I cannot count the stripes on the tiger in my mental image
+to the claim:
+(b)The mental image is indeterminate with respect to the number of stripes.
+Your mental image might well be determinate without your being able to count the stripes.  For example, if you only get a fleeting glance at an actual tiger, you are not going to be able to count his stripes.  (See Lyons 1984 for a suggestion of this sort.)  But that does not entail that the tiger has an indeterminate number of stripes.
+ d. A Remaining Question About Pictorial vs. Descriptional Representation
+Above, in explaining the descriptionalist view, I noted that descriptional representations need not be literally descriptive.  Descriptional representations are characterized primarily negatively, i.e., for the purposes of understanding the imagery debate, a representation will count as descriptional as long as it is not pictorial.  This assumes, however, that we have a clear understanding of what makes a representation pictorial.  Unfortunately, spelling out exactly what makes a representation a pictorial one—or, to put it another way, spelling out the nature of depiction—turns out to be rather difficult.
+It is standardly noted that a pictorial representation must have at least one feature in common with what it is representing.  Not just any feature will do, so we will have to limit ourselves to visual features.  Suppose that we could specify, without begging any questions, what a visual feature is.  In any case, we can surely identify some uncontroversial examples of visual features, such as color and shape, even if we cannot give a precise specification of what makes something a visual feature.  Nonetheless, it soon becomes apparent that merely sharing the visual feature of color with the thing represented seems insufficient to make a representation pictorial.  To take an obvious example, writing the noun “apple” in red ink does not make it a pictorial representation of an apple.  (See Rey 1981 and Hopkins 1995 for further discussion of the nature of depiction.)
+In the absence of a clear characterization of pictorial representation, some recent accounts of mental images may seem difficult to classify as either pictorialist or descriptionalist.  For example, Tye (1991) claims that his own view of mental imagery—which treats images as interpreted, symbol-filled arrays—is a “hybrid” one.  Since these arrays are in some respects like pictures but in other respects like linguistic representations, Tye claims that his view cannot be easily classified as either pictorialist or descriptionalist.
+ 2. Accounts of Imagination
+Mental imagery clearly plays a role in many mental activities.  For example, memory often proceeds by way of imagery.  But no mental activity is more prominently linked with mental imagery than that of imagining.  In this section, I will discuss different accounts of the imagination, paying particular attention to the connections between imagery and imagination.
+ a. Image-Based Theories
+René Descartes’ treatment of the imagination (1642/1984) is representative of a long philosophical tradition that analyzes imagination in terms of mental imagery.  As he says in his Meditations on First Philosophy:
+[I]f I want to think of a chiliagon, although I understand that it is a figure consisting of a thousand sides just as well as I understand the triangle to be a three-sided figure, I do not in the same way imagine the thousand sides or see them as if they were present before me. … But suppose I am dealing with a pentagon: I can of course understand the figure of a pentagon, just as I can the figure of a chiliagon, without the help of the imagination; but I can also imagine a pentagon, by applying the mind’s eye to its five sides and the area contained within them.  And in doing this I notice quite clearly that imagination requires a peculiar effort of mind which is not required for understanding.
+Presumably, what he means by this “peculiar effort of mind” is the effort to produce an image.  In this way, Descartes sharply distinguishes the act of imagining from the related intellectual act of conceiving (or, in his terms, the act of understanding).
+On this understanding of the imagination, imagining is thought of as importantly analogous to perception.  This fits well with various experimental data (notably, Perky 1910) and corresponds to a long philosophical tradition of treating imagining as an inferior kind of perceiving.  For example, Thomas Hobbes (1651/1968) refers to imagining as “decaying sense” and George Berkeley (1734/1965) claims that sense perceptions are “more strong, lively, and distinct” than our imaginings.
+This analogy between imagining and perceiving makes it natural to consider imagination as a kind of perception with the “mind’s eye.”  Again, Descartes’ discussion of the imagination in the Sixth Meditation provides a representative example of this:
+When I imagine a triangle, for example, I do not merely understand that it is a figure bounded by three lines, but at the same time I also see the three lines with my mind’s eye as if they were present before me; and this is what I call imagining. (1642/1984)
+Of course, there are clear instances of imagining in which the mind’s “eye” is not doing any work at all, i.e., in which visual images are not involved.  Vendler (1984) gives examples such as imagining the roar of the lion, imagining the smell of onions frying on a grill, imagining the heat of the sun, imagining the pain in one’s molar.  The image-based account thus must extend the notion of image to encompass imagistic representations from other sensory modalities.  Presumably, there are counterparts to visual images for each of the other senses—auditory images, olfactory images, and so on.  The case of imagining the pain in one’s molar can be dealt with in a parallel way.  Although pain is not perceived by one of the five traditional senses, there is an analogue to sensory images that comes into play in this case: what is often called an affective image.
+Even with this broad understanding of the notion of image, however, there are instances of uses of the word “imagine” in everyday language that do not seem to involve mental imagery.  Consider cases where “imagine” is used to signal supposition  (or, even more commonly, false supposition), as when a parent who says, “I imagined that my daughter was in her room last night, when in fact I now learn that she snuck out her bedroom window.”  Consider also cases where “imagine” is used as part of various idiomatic expressions, as when someone says, “Imagine that!” in response to some surprising news.
+Fortunately for the proponent of an image-based account, such cases can be easily dismissed.  Surely it is unreasonable to expect that we should have to accommodate every ordinary language use of “imagine” or its cognates when giving an account of the imagination.  (But see White 1990 for a contrary view.)  Rather, what we should focus on are the cases where the imagination is actually being exercised and attempt to explain the nature of such imaginative exercises.  This is what the proponent of the image-based account attempts to do.
+So let us focus on actual exercises of the imagination.  Are there any such exercises in which there is no mental imagery?  Ryle (1949) answers in the affirmative.  Though he grants that acts commonly described as “having a mental picture” of something are instances of imagining, he argues that concentrating on these sorts of examples to the exclusion of others gives us a misleading picture of what the imagination is.  Consider:
+
+a witness who lies when she takes the stand
+an inventor who contemplates the machine she is working on
+a novelist working out the plot of her next book
+a group of children who are pretending that they are bears.
+
+In these cases, Ryle claims that the witness, the inventor, the novelist, and the children may be exercising their imaginations without accompanying imagery.  (In fact, the exercises of the imagination that occur when the judge listens to the lying witness’ story, the inventor’s colleague comments on the new machine, someone reads the novel, and the mother ignores the growls emanating from the “bears,” also might well proceed without imagery.)  Think about what is going on when a group of children “play bears.” They get down on their hands and knees, growl at each other, probably rearrange the sofa cushions to make dens for themselves, and so on—but while engaging in this activity, they need not produce mental imagery of, say, furry paws and the snowbound den.
+In response to Ryle’s discussion, the proponent of an image-based conception of the imagination might argue that these cases conflate being imaginative with exercising the imagination.  But even if this suggestion covers the above cases, there are additional examples for which the suggestion lacks plausibility.  White (1990) suggests that “we can imagine, or be unable to imagine, what the neighbours will think or why someone should try to kill us, just as we can imagine that the neighbours envy us or that someone is trying to kill us.  Yet none of these imagined situations is something picturable in visual, auditory or tangible terms and, therefore, none is something pertaining to imagery.”  Likewise, although we can imagine George W. Bush playing the electric guitar, how (assuming that imagining requires imagery) can we imagine his having a secret desire to be a rock and roll musician?  What image could we produce to imagine, as John Lennon exhorts us to do, that there’s no heaven?
+In addition to dealing with counterexamples such as these, there are two questions that any proponent of an image-based account must answer:
+(1)What role does the image play in imagining?
+(2)What makes an imagining the imagining that it is?
+Image-based theories have often been saddled with an unfortunate answer to the first of these questions.  First, once someone invokes mental images in an account of imagination, she appears to commit herself to the claim that such images are the objects of our imaginings—a highly implausible claim.  (For development of this argument, see Vendler 1984.)  In brief, the problem with this view is that when I imagine something, say George W. Bush, my imagining is about George W. Bush, not about a mental image.  The proponent of an image-based account thus must find some other way of answering question (1).
+Interestingly, image-based theories have also often been saddled with an unfortunate answer to the second question, namely, that the image involved in an imagining serves to individuate the imagining from other imaginings.  The problem, however, is that imagery seems neither necessary nor sufficient to make an imagining the imagining it is.  The basic worry traces back to Wittgenstein (1953), who wrote, “What makes my image of him into an image of him?  Not its looking like him.”  (See also Tidman 1994.)  Consider the following two examples from White (1990):
+One is imagining exactly the same thing when one imagines that, for example, a sailor is scrambling ashore on a desert island, however varied one’s imagery may be.
+The imagery of a sailor scrambling ashore could be exactly the same as that of his twin brother crawling backwards into the sea, yet to imagine one of these is quite different from imagining the other.
+Although proponents of image-based theories have various options for answering both of these questions (see Kind 2001), the associated problems have often led to the abandonment of image-based accounts.
+ b. Non-Image-Based Theories
+In response to the apparent problems besetting image-based accounts (particularly the apparent counterexamples discussed above), many theorists deemphasize the role and importance of mental imagery in imagination.  While accepting that some exercises of the imagination involve imagery, they deny that the imagery plays any sort of essential role in making a mental act an act of the imagination; moreover, they also claim that there are other instances of imagining that do not involve imagery.  Scruton (1974) and Walton (1990) both offer theories of this sort.  Scruton claims that “imagining may, and often does, involve imagery” but that “neither [imagination nor imagery] is a necessary feature of the other.”  Walton accepts that some exercises of the imagination “consist partly in having mental images,” but claims also that “imagining can occur without imagery.”  Hidé Ishiguru (1966) deemphasizes the image even further.  On Ishiguru’s view, imagery never plays an essential role in imagining: “mental images are, at most, necessary tools for a limited number of people in certain kinds of exercise of the imagination and are, for many people, merely psychological accompaniments which occur when they are engaged in imaginative work and not the essence of it.”  Finally, another non-image-based account is offered by White (1990), who claims that to imagine a state of affairs is to think of it as possibly being so.
+Perhaps the most important variety of non-image-based account, however, is the experiential theory.  Lyons (1986), Peacocke (1985), and Vendler (1984) each offer a version of this theory.  While there are significant differences between these three philosophers’ versions of the experiential theory, there are nonetheless important similarities, and I will here concentrate on Vendler’s version as representative of the tradition that analyzes imagining in terms of experience.
+Vendler explicitly treats imagination as a kind of vicarious experience, claiming that “the materia ex qua of all imagination is imagined experience.”  To motivate this account, Vendler contrasts two different kinds of imaginative exercises.  First, imagine swimming in cold water.  Next, imagine yourself swimming in cold water.  In the first case, what you do is to imagine the salty taste of the water, the feel of the waves as they lap against you, and so on.  You put yourself in the water from the inside.  Vendler calls this subjective imagining.  In the second case, one thing you might do is to picture yourself in the water, so you see your head bobbing in the waves, and so on.  Once again, you put yourself in the water, but in this case you do it from the outside.  Vendler calls this objective imagining.
+Notice that I can adopt the same objective perspective in imagining someone else.  I can just as easily imagine my sister or my husband swimming in the ocean as I can imagine myself swimming in the ocean.  But subjective imagining works differently.  There, I conjure up the experiences that I would be having if I were in certain circumstances, and it seems that I can do this only about myself.  In objective imagining, I imagine what someone, myself included, would look like in a certain situation; in subjective imagining, I imagine what the situation itself would feel like.
+Clearly, subjective imagining involves evoking experiences.  When I imagine swimming in the ocean, I evoke experiences like feeling cold, being pulled by the current, and seeing the shoreline.  Interestingly, however, Vendler argues that objective imagining also requires us to evoke experiences.  When I imagine myself swimming in the water, I am essentially imagining the experience of seeing (or hearing, etc.) myself swimming in the water.  Thus, objective imagination ultimately reduces to a specialized kind of subjective imagination.  According to Vendler, the materials of both subjective and objective imagination are basically the same, namely, experiences.  Both kinds of imagination are constructions out of experiences, but the constructions proceed in slightly different ways: “In the subjective case the aim is to represent a consciousness, one’s own, or someone else’s, at a given point of life-history.  In the objective case the purpose is to represent a thing as it appears in the field of experience” (Vendler 1984).
+Adopting an experiential account has interesting consequences for answering the question:  What can we imagine?  The basic form of subjective imagining is “I imagine φ-ing,” suggesting that we can substitute any activity for φ.  But Vendler does not believe that we can.  Consider being dead, or being sound asleep, or snoring while sound asleep.  These are activities, or states of being, that lack experiential content.  According to an experiential account of imagining, it is a necessary condition on imagining performing a certain action φ (or imagining being in a certain condition C) that there be an experiential content to φ-ing (or to being C).  Thus these are activities that Vendler does not think we can imagine.
+An interesting corollary of this necessary condition comes out in Thomas Nagel’s seminal paper, “What is it like to be a bat?”  (1974).  Bats are mammals, and most of us would probably share the intuition that they have conscious experiences, but bats perceive the external world in a way that is radically different from the way we perceive the external world: they use sonar, or echolocation.  They emit high-pitched, subtly modulated noises and then detect objects that are in range on the basis of the reflections they detect.  This raises an interesting question: can we know what it is like to be a bat?   In attempting to answer this question, Nagel implicitly endorses the claim of an experiential account that we can only imagine what we can experience; as he notes, “Our own experience provides the basic material for our imagination, whose range is therefore limited.” Because Nagel thinks our imagination does not allow us to extrapolate to the experience of bats, he denies that we can imagine what it is like to be a bat.  This shows that on an experiential account, not only must there be an experiential content to φ-ing (or to being C), but also it must be the case that the experiential content is in principle accessible to the imaginer.
+Although the experiential account has some intuitive plausibility, the reduction of objective imagination to subjective imagination requires the proponent of the experiential analysis to do some fancy footwork in response to certain occurrences of the word “imagine” that come up in everyday speech.  For example, it is quite common to say things like:
+
+“Imagine that there is life on Mars.”
+“I can pretty clearly imagine why she married him.”
+“Imagine what would happen if the NAFTA treaty had not been signed.”
+
+In each case, it seems as if we change the meaning of each of these mental exercises if we insert the word “seeing.”  Imagining that there is life on Mars might not entail putting myself into the situation as observer, that is, it seems that it need not involve imagining seeing that there is life on Mars.  Similar points can be made about the other two cases.
+To deal with this problem, Vendler argues that the word “imagine” functions differently in these cases from the way it functions in the cases of objective and subjective imagination that we’ve been talking about.  In essence, Vendler denies that these claims describe genuine exercises of the imagination.  Just as one might say “I can pretty well see why she married him” without implying that one was doing something with one’s eyes, one can say “I can pretty well imagine why she married him” without implying that one is doing something with one’s imagination.  In this case, it seems plausible to suppose that what is going on is an exercise of reasoning rather than a perceptual or imaginative exercise.  (This recalls the strategy used by the image-based theorists to dismiss cases in which the word “imagining” seems to mean only supposition.)
+There are, however, other cases that Vendler may not be able to dismiss as easily.  Some of these are the sorts of cases that threaten image-based accounts—both image-based theories and experiential theories have trouble accounting for apparently non-perceptual imagining, as when someone imagines a solution to a problem.  White (1990) suggests other examples as well; for example, one can imagine “sacrificing everything for one’s principles or selling one’s birthright for a mess of pottage, without giving oneself a representation of any experiences.”  Or, to use another of White’s examples, suppose someone imagines giving up all she has for love.  It is hard for the experiential theorist to dismiss this as an exercise of mere reasoning, but likewise, it is not plausible to suggest that in such an imagining what one is doing is imagining seeing oneself giving up all one has for love.
+Interestingly, the fact that examples of the sort that threatened image-based accounts reappear in the context of experiential accounts suggests an important connection between these two types of accounts.  Though image-based accounts and experiential accounts initially appear clearly different, in that they draw attention to different features that make an act an act of the imagination, it can be argued that the experiential analysis entails that acts of the imagination will involve mental imagery.  If such an argument were to succeed, then the experiential account would ultimately collapse into an image-based account.  Recall that Vendler claims that the material of the imagination is imagined experience.  The image-based theorist might try to argue that these experiences can only be understood in terms of imagery.  Similar points might be made about other experiential theories.  For example, Lyons (1986) offers an experiential analysis according to which imagination is the “replay” of perception.  For Lyons, when someone imagines something, she does not form a mental image but rather rehearses, reactivates, or replays the act of seeing that thing.  But since, as we saw above, empirical evidence strongly suggests that the mechanisms underlying imagery and underlying perception are the same, the replay of perception will likely involve imagery as well.
+As the foregoing suggests, even if experiential theories do not analyze imagination in terms of imagery, such theories may be thought at least implicitly to rely on imagery.  Thus, insofar as mental imagery is ontologically problematic, such problems will likely confront experiential theories as well as image-based theories.  Ontological worries about imagery began with the rise of behaviorism in the early twentieth century.  As the mind-brain identity theory gained currency in the 1950s, worries about imagery grew, since the very existence of mental images has been thought to raise an ontological problem for such theories.  To put the problem crudely, images are not the right sort of “stuff” for use in a scientific explanation of the mind.  This problem has engendered a strong antipathy for mental images in the second half of the twentieth century.  Correspondingly, many of the mid- to late-twentieth century theories of imagination, such as those offered by Ryle (1949), Shorter (1952), Armstrong (1968), and Dennett (1969), are imageless theories.
+Ryle’s theory, which is probably the most developed of the imageless theories, was constructed in direct reaction to the Cartesian view of imagining.  Ryle worries that once we think of imagining as a sort of seeing with the mind’s eye, we are inclined to suppose that there exist things, mental images, that are seen with the mind’s eye.  His goal is to prevent this natural move: “the familiar truth that people are constantly seeing things in their minds’ eyes and hearing things in their heads is no proof that there exist things which they see and hear….”  His defense of this claim relies in large part on an analogy:  Just as the fact that a murder is staged as part of a play does not entail that there is a victim actually murdered, the fact that we see things with the mind’s eye does not entail that there are things actually seen.  This analogy also leads Ryle to a positive theory of the imagination.  Since an actor’s resemblance to a murderer can be explained by the fact that he is pretending to be a murderer, and pretending to murder, we can also explain the similarity between the imaginer and the observer by invoking the notion of pretense.  More generally, Ryle claims that imagining is a species of pretending.
+Ryle is clearly right that there are similarities between imagining and pretending; in particular, there is what we might call an “air of hypotheticality” to both activities.  But despite such similarities, it seems a mistake to characterize the former sort of activity in terms of the latter.  As Ryle characterizes it, pretending is typically a performance intended to convince, while imagining is the sort of pretending that typically aims at convincing oneself rather than others.  But many cases of imagining involve no attempt at persuasion—even of oneself.  Consider various different kinds of imagining: imagining one’s next dentist appointment, imagining the pain of having a tooth pulled, or imagining the tooth itself.  In none of these imaginings must we suppose that the imaginer tries to convince herself of anything.  White (1990) criticizes Ryle’s analogy between pretending and imagining in detail, elaborating numerous differences between these two types of activities.  (See also Hamlyn 1994.)
+Kind (2001), in addition to providing further criticism of Ryle’s account, argues more generally that any theory of imageless imagining is likely to be unsatisfactory.  The argument rests on the inability of imageless theories to account sufficiently for three features of imagining: its directedness, its active nature, and its phenomenology.  A theory which assimilates imagining to pretending, as Ryle’s did, can account for the active nature of imagining, and perhaps for its directedness, but not for its distinctive phenomenology.  Another option available to the imageless theorist, such assimilating imagining to belief, will account for its directedness, but not for its active nature or its phenomenology.  Likewise, if the imageless theorist were to assimilate imagining to sensation, he could account for its phenomenology, and perhaps for its directedness, but not for its active nature.  Though Kind admits that there may be other options available to the imageless theorist, she takes her reflection on the above examples to suggest the basic difficulty that any imageless theory confronts:  It seems that an adequate account of imagination must invoke some sort of mental representation in order to account for the directedness and active nature of imagining, but non-imagistic mental representations seem unable to account for imagining’s phenomenology.  The invocation of imagery seems to be the only way to account for the three features of imagining in conjunction.
+ 3. Imagination and Possibility
+Now that we have reflected on the nature of the imagination, in this last section let us consider briefly the role that imagination plays in modal epistemology.  Like David Hume (1739/1969), who wrote in the Treatise that “nothing we imagine is absolutely impossible,” contemporary philosophers have often associated the imaginable with the possible.  Moreover, it is commonly supposed that the faculty of the imagination is an important tool in our acquisition of modal knowledge; the imagination, it is thought, serves as an epistemological guide to possibility.
+Strictly speaking, the above quotation from Hume draws a connection between what we (in fact) imagine and what is possible, but philosophers have generally drawn the evidential link between what is imaginable and what is possible.  Conversely, there has also been thought to be an evidential link between what is unimaginable and what is impossible; Hume claimed, for example, that our inability to imagine a mountain without a valley leads us to regard a valley-less mountain as impossible.  The traditional conception of the link between imagination and possibility thus comprises the following two claims:
+Unimaginability claim: if something is unimaginable, then it is impossible.
+Imaginability claim:  if something is imaginable, then it is possible.
+Though these claims did not originate with Hume—Descartes (1642/1984), for example, famously relied on the imaginability claim in his argument for dualism, drawing the conclusion that disembodiment is possible from the premise that disembodiment is imaginable—he is the philosopher with whom they are most commonly associated.  Thus, I will refer to them jointly as the Humean thesis.
+Many different notions of possibility abound in contemporary philosophical discussion, so we should be clear that the possibility invoked by the Humean thesis is usually meant to be a very weak one, namely, logical possibility.  Importantly, logical possibility far outstrips physical possibility; what is physically possible is governed by the laws of physics, but what is logically possible is governed only by the laws of logic.  Were the imagination meant to be a guide to the physically possible, the imaginability claim would be immediately problematic.  Many physical impossibilities seem easily imaginable: I might imagine a juggling pin remaining suspended in the air after having been thrown there, or I might imagine the eight ball remaining absolutely motionless after I hit it with the cue ball.
+Ultimately, it seems that an analogy to perception motivates the Humean thesis: imagination is supposed to give rise to knowledge of possibility as perception gives rise to knowledge of the actual world.  Our knowledge of the world in which we live is grounded largely in perception.  But, since we have no sensory access to what is not actually the case, perception can afford us no real insight into non-actualized possibilities.  In contrast, the imagination is not limited to what is actually the case.  This feature of the imagination, in conjunction with the close connection between perception and imagination, is what seems to lead us to rely on the imagination for knowledge of possibility.
+In fact, we need only to reflect briefly on how we typically form modal judgments to see the force of the Humean thesis.  Presumably, we are convinced that it is possible for there to be purple cows, and for humans to fly unaided by machines, as a result of our imaginings: we can imagine a purple cow, and we can imagine humans flying without mechanical aid.  Likewise, consider how we would determine whether round squares are possible, or whether it would have been possible for me to have been a fish.  Our conviction that these are impossible states of affairs springs from our inability to imagine them.  As Hart (1988) writes, “One’s own experience in settling modal questions seems to show that the imagination plays a fundamental role.”
+But despite this intuitive support for the Humean thesis, there is legitimate reason to worry about it.  The unimaginability claim in particular has been thought to be especially problematic.  One problem derives from the fact that there is considerable variation among individuals’ imaginative capacities.  Jill might be able to imagine many things that Jack cannot, in which case it would seem clear that we are by no means entitled to infer from the fact that Jack cannot imagine something that it is impossible.  Fortunately, this problem can be fairly easily resolved by interpreting “unimaginable” as something like “unimaginable by any human.”  Another problem is the fact that there might be features of human psychology that make certain states of affairs in principle unimaginable by any of us.  But if the unimaginability of a state of affairs is due solely to some psychological limitation on our part, then we would not seem to be justified in inferring the impossibility of such a state. (See White 1990; Tidman 1994.)
+Most problematic, however, is that the limitation of the possible to the imaginable, particularly on an image-based analysis of imagination, seems overly restrictive.  Insofar as the imagination cannot extend to non-sensory objects and states of affairs, philosophers claim that we should not draw conclusions about impossibility based on unimaginability.  For this reason, the Humean thesis is often interpreted as about conceivability rather than imaginability, where conception is supposed to be an intellectual faculty.  (See Yablo 1993; Tidman 1994.  But see Hart 1988 and Kind 2002 for arguments against this interpretation of the Humean thesis.)
+The imaginability claim is generally thought to be less problematic than the unimaginability claim, and as such it (and/or the parallel conceivability claim) is often used in philosophical arguments.  Modern-day philosophers of mind, in the tradition of the Cartesian argument mentioned above, argue that certain of our imaginings condemn type materialism.  Type materialism is committed to the claim that pain, for example, is necessarily identical to a certain brain state, call it “S”.  Insofar as we can imagine creatures who are in pain despite lacking biological brains (and thus S-states) altogether, it seems that it is possible for pain to be distinct from S-states.  Related imaginings are brought to bear against functionalist theories of mind.  To defend their theories, materialists and functionalists either argue directly against the imaginability claim, suggesting that imagining is not a reliable guide to possibility, or argue that in the imaginings in question we have not imagined what we think we have (Tye 1995).  This latter point has led to a general cautionary tone in recent discussions of the connection between imagination and possibility, with many philosophers greatly restricting both the kind of imagining that can serve as an epistemic guide to modality and the kind of possibility to which imagining can serve as a guide (see Chalmers 2002 and Yablo 1993).
+ 4. References and Further Reading
+
+Armstrong, D.  1968.  A Materialist Theory of the Mind.  London: Routledge & Kegan Paul.
+Berkeley, G.  1734/1965.  “A Treatise Concerning the Principles of Human Knowledge” and “Three Dialogues Between Hylas and Philonous.”  In George Berkeley: Principles, Dialogues, and Philosophical Correspondence, edited with an introduction by C.M. Turbayne.  Indianapolis: Bobbs-Merrill Educational Publishing.
+Bisiach, E., and Luzzatti, C.  1978. “Unilateral Neglect of Representational Space.”  Cortex 14: 129-33.
+Block, N.  1981.  Imagery.  Cambridge, Mass.:  MIT Press.
+Block, N.  1981a.  “What Is the Issue?” In Block 1981.
+Block, N.  1981b.  Readings in the Philosophy of Psychology, vol. 2.  Cambridge, Mass.: Harvard University Press.
+Block, N.  1983.  “Mental Pictures and Cognitive Science.”  In Lycan 1990. Casey, E.  1971.  “Imagination: Imagining and the Image.”  Philosophy and Phenomenological Research 31: 475-90.
+Chalmers, D.  2002.  “Does Conceivability Entail Possibility?”  Imagination, Conceivability, and Possibility, edited by T. Gendler and J. Hawthorne.  Oxford:  Oxford University Press.
+Currie, G.  1995.  “Visual Imagery as the Simulation of Vision.”  Mind and Language 10: 25-44.
+Dennett, D.  1969.  “The Nature of Images and the Introspective Trap.”  In Block 1981.
+Dennett, D.  1979.  “Two Approaches to Mental Images.”  In Block 1981.
+Descartes, R.  1642/1984.  “Meditations on First Philosophy.”  In The Philosophical Writings of Descartes, vol. 2, edited by J. Cottingham et al.  Cambridge: Cambridge University Press.
+Finke, R.A., and Shepard, R.N.  1986.  “Visual Function of Mental Imagery.”  In Handbook of Perception and Human Performance, edited by K.R. Boff, L. Kaufman, and J.P. Thomas.  Chichester: John Wiley & Sons (1986).
+Flew, A.  1953.  “Images, Supposing, and Imagining.”  Philosophy 28: 246-254.
+Fodor, J.  1975.  “Imagistic Representation.”  In Block 1981.
+Hamlyn, D.W.  1994.  “Imagination.”  In A Companion to the Philosophy of Mind, edited by Samuel Guttenplan.  Oxford: Blackwell Publishers (1994): 361-66.
+Hannay, A.  1971.  Mental Images: A Defence.  London:  George Allen and Urwin, Ltd.
+Hart, W.D.  1988.  The Engines of the Soul.  Cambridge: Cambridge University Press.
+Heil, J.  1998.  Philosophy of Mind.  New York:  Routledge.
+Hobbes, T.  1651/1968.  Leviathan.  London: Penguin Books.
+Hopkins, R.  1995.  “Explaining Depiction.”  Philosophical Review 104: 425-55.
+Hume, D.  1739/1969.  A Treatise of Human Nature.  Edited by E.C. Mossner.  London: Penguin Books.
+Ishiguro, H.  1967.  “Imagination.”  Proceedings of the Aristotelian Society, Supplementary 41: 37-56.
+Kind, A.  2001.  “Putting the Image Back in Imagination,” Philosophy and Phenomenological Research 62: 85-109.
+Kind, A.  2002 (unpublished).  “Imagination and Possibility.”
+Kosslyn, S.M.  1973.  “Scanning Visual Images:  Some Structural Implications.”  Perception and Psychophysics 14: 90-94.
+Kosslyn, S.M., and Pomerantz, J.R.  1977.  “Imagery, Propositions, and the Form of Internal Representations.”  Cognitive Psychology 9: 52-76.
+Kosslyn, S.M.  1980.  Image and Mind.  Cambridge, Mass.: Harvard University Press.
+Kosslyn, S.M.  1993.  Image and Brain: The Resolution of the Imagery Debate.  Cambridge, Mass.: Harvard University Press.
+Kosslyn, S.M., and Osherson, D.N.  1995.  Visual Cognition, An Invitation to Cognitive Science, vol. 2.  Cambridge, Mass.: The MIT Press.
+Levine, D., Warach, J., and Farah, M.  1985.  “Two Visual Systems in Mental Imagery.”  Neurology 35: 1011-18.
+Lycan, W.G.  1990.  Mind and Cognition.  Cambridge, Mass.: Basil Blackwell.
+Lyons, W.  1984.  “The Tiger and His Stripes.”  Analysis 44: 93-93.
+Lyons, W.  1986.  “‘Introspection’ as the Replay of Perception.”  The Disappearance of Introspection.  Cambridge, Mass.: MIT Press/Bradford Books.
+Nagel, T.  1974.  “What Is It Like To Be a Bat?”  Philosophical Review 83 (4): 435-50.
+Peacocke, C.  1985.  “Imagination, Experience and Possibility: a Berkeleian View Defended.”  In Essays on Berkeley, edited by J. Foster and H. Robinson.  Oxford: Clarendon Press (1985): 19-35.
+Perky, C.W.   1910.  “An Experimental Study of Imagination.”  American Journal of Psychology 21: 422-52.
+Russow, L.M.  1978.  “Some Recent Work on Imagination.”  American Philosophical Quarterly 15 (1): 57-66.
+Pinker, S.  1997.  How the Mind Works.  New York: Norton.
+Pylyshyn, Z.  1973.  “What the Mind’s Eye Tells the Mind’s Brain—A Critique of Mental Imagery.”  Psychological Bulletin 80:1-24.
+Pylyshyn, Z.  1978.  “Imagery and Artificial Intelligence.”  In Perception and Cognition:  Issues in the Foundation of Psychology, edited by C. Wade Savage.  Minneapolis: University of Minnesota Press (1978): 19-56.
+Reynolds, S.L.  1989.  “Imagining Oneself To Be Another.”  Nous 23: 615-33.
+Ryle, G.  1949.  “Imagination.”  The Concept of Mind.  London: Hutchison & Company.
+Schwitzgebel, E.  2002.  “How Well Do We Know Our Own Conscious Experience? The Case of Imagery.”  Journal of Consciousness Studies 9: 35-53.
+Scruton, R.  1982.  Art and Imagination.  London: Routledge.
+Seddon, G.  1972.  “Logical Possibility.”  Mind 81: 481-94.
+Shepard, R. N., and Metzler, J.  1971.  “Mental Rotation of Three-Dimensional Objects.”  Science 171: 701-03.
+Shepard, R.N., and Cooper, L.  1982.  Mental Images and Their Transformations.  Cambridge, Mass.: MIT Press/Bradford Books.
+Shorter, J.M.  1952.  “Imagination.”  Mind 61: 528-42.
+Sterelny, K.  1986.  “The Imagery Debate.”
+Tidman, Paul.  1994.  “Conceivability as a Test for Possibility.”  American Philosophical Quarterly 31: 297-309.
+Tipton, I.  1987.  “Berkeley’s Imagination.”  In Essays on the Philosophy of George Berkeley, edited by E. Sosa.  Dordrecht: D. Reidel Publishing Company (1987).
+Tye, M.  1994.  “Imagery.”  In A Companion to the Philosophy of Mind, edited by Samuel Guttenplan.  Oxford: Blackwell Publishers (1994): 355-61.
+Tye, M.  1991.  The Imagery Debate.  Cambridge, Mass.:  MIT Press.
+Tye, M.  1995.  Ten Problems of Consciousness.  Cambridge, Mass.:  MIT Press.
+Walton, K.  1990.  Mimesis as Make Believe.  Cambridge, Mass.: Harvard University Press.
+White, A.  1990.  The Language of Imagination.  Cambridge, Mass.: Basil Blackwell.
+Williams, B.  1968.  “Imagination and the Self.”  Problems of the Self.  Cambridge: Cambridge University Press.
+Wittgenstein, L.  1953.  Philosophical Investigations.  New York:  Macmillan Publishing Co.
+Vendler, Z.  1984.  The Matter of Minds.  Oxford:  Clarendon Press.
+Yablo, S.  1993.  “Is Conceivability a Guide to Possibility?”  Philosophy and Phenomenological Research 53 (1): 1-42.
+
+Author Information
+Amy Kind
+Email: amy.kind@claremontmckenna.edu
+Claremont McKenna College
+U. s. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

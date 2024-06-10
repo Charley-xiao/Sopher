@@ -1,0 +1,663 @@
+
+
+
+
+
+
+
+
+
+Demonstratives and Indexicals | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demonstratives and Indexicals
+In the philosophy of language, an indexical is any expression whose content varies from one context of use to another. The standard list of indexicals includes pronouns such as “I”, “you”, “he”, “she”, “it”, “this”, “that”, plus adverbs such as “now”, “then”, “today”, “yesterday”, “here”, and “actually”. Other candidates include the tenses of verbs, adjectives such as “local”, and a range of expressions such as “yea” or “so” as used in constructions such as “yea big” (said, for example, while holding one’s hands two feet apart). Certain indexicals, often called “pure indexicals”, have their content fixed automatically in a context of use in virtue of their meaning. “I”, “today”, and “actually” are common examples of pure indexicals. Other indexicals, often called “true demonstratives,” require some kind of additional supplementation in a context in order to successfully refer in the context. The demonstrative pronouns “this” and “that” are clear examples of true demonstratives, because they require something of the speaker—some kind of gesture, or some kind of special intention—in order to resolve what the speaker is referring to. Which expressions are pure indexicals and which are true demonstratives is itself a matter of controversy. (The terms “pure indexical” and “true demonstrative” are due, as with so much else on this topic, to David Kaplan.)
+Contemporary philosophical and linguistic interest in indexicals and demonstratives arises from at least four sources. (i) Indexical singular terms such as “I” and true demonstratives such as “that” are perhaps the most plausible candidates in natural language for the philosophically controversial theory of direct reference (see section 3e). (ii) Indexicals and demonstratives provide important test cases for our understanding of the relationship between linguistic meaning (semantics) and language use (pragmatics). (iii) Indexicals and demonstratives raise interesting technical challenges for logicians seeking to provide formal models of correct reasoning in natural language. (iv) Indexicals raise fundamental questions in epistemology about our knowledge of ourselves and our location in time and space.
+By far the most influential theory of the meaning and logic of indexicals is due to David Kaplan. Almost all work in the philosophy of language (and most work in linguistics) on indexicals and demonstratives since Kaplan’s seminal essay “Demonstratives” has been a development of or response to Kaplan’s theory. For this reason, the majority of this article focuses on the details of Kaplan’s theory. Before introducing Kaplan’s theory, however, it discusses the most important precursors to Kaplan, some of whose views have been revived and given new defenses in light of Kaplan’s work.
+Table of Contents
+
+Some Preliminaries
+
+Expressions and Utterances
+Types and Tokens
+Occurrences
+
+
+Precursors to Kaplan’s Theory
+
+Peirce on Indexical Signs
+Russell on Egocentric Particulars
+Reichenbach on Token-Reflexives
+Burks on Indexical Symbols
+Objections to Utterance-based Theories
+
+
+Kaplan’s Semantic Theory of Indexicals
+
+Background and a Basic Insight
+Character, Context, and Content
+Truth Relative to a Context
+Indexicality and Modality
+Some Consequences of Kaplan’s Theory of Indexicals
+
+
+True Demonstratives
+
+Two Challenges Posed by True Demonstratives
+Reference Fixing for True Demonstratives
+Adding True Demonstratives to Kaplan’s Theory
+David Braun’s Context-Shifting Semantics for True Demonstratives
+
+
+Kaplan’s Logic of Indexicals
+
+The Core Idea of Kaplan’s Logic
+Kaplan’s Other Semantic Theory
+
+
+Objections to Kaplan’s Semantic Theory and Logic
+
+Objections to Direct Reference
+Objections to Kaplan’s Treatment of Contexts
+Objections to Kaplan’s Logic
+
+
+Alternatives to Kaplan’s Theory of Indexicals
+
+John Perry’s Reflexive-Referential Theory
+Expression-Based Alternatives
+
+
+References and Further Reading
+
+1. Some Preliminaries
+Indexicals are words or phrases. To talk carefully about them, we need some resources for talking carefully about words and phrases. There are more distinctions here than may be apparent at first glance. In the case of indexicals and demonstratives, some of these distinctions are crucial.
+a. Expressions and Utterances
+Suppose that a speaker, Greg, utters the sentence “I am hungry”. We can distinguish between the action that Greg has performed—the utterance—and the sentence or expression that Greg has uttered. If Molly also utters “I am hungry”, then Molly and Greg have uttered the same sentence, but they have performed different actions. There is also a way of talking about actions on which we can say that Molly and Greg have performed the same action—they have both uttered “I am hungry”—but this is not the way we will talk about actions here. As we will use the term, an utterance is a particular event that occurs at a particular time and place. In this sense, Greg’s utterance and Molly’s utterance are distinct events, because they occurred at different places (and perhaps at different times).
+We will also generalize our use of “utterance” so that it refers to inscriptions—acts of writing sentences—as well as to acts of speaking. So if Greg and Molly each write “I love you” on a sheet of paper, we will say that they have performed different (though similar) utterances. Yet in this case as well, they have written the same sentence. This slight extension of the standard use of “utterance” is common in discussions of indexicals and demonstratives. As we will see below, written notes provide interesting test cases for certain theories of indexicals.
+b. Types and Tokens
+It is also important to distinguish an utterance from the particular concrete instance of a sentence, word, or phrase that is produced or used in the course of an utterance. This distinction is easiest to see in the case of writing, where an act of writing produces some concrete thing—ink or graphite marks on a page, chalk marks on a blackboard, a specific distribution of pixels on a screen, and so forth. Following Charles Sanders Peirce, philosophers call these concrete instances of words, phrases, or sentences tokens. Tokens can also take the form of particular patterns of sound, as in the case of spoken language, and here again, it is important to distinguish the act of producing a particular pattern of sound—an utterance—from the particular pattern of sound produced—a token.
+In our examples involving Greg and Molly above, we said that Greg and Molly each uttered the same sentence. This means that what we are calling the sentence that Greg and Molly both uttered is not the same thing as either of the tokens that they have produced. Again following Peirce, we will say that the tokens that Greg and Molly have each produced are instances or tokens of the same sentence type. Similarly, Greg and Molly have each produced tokens of the word type “I”. While tokens are concrete things, types are abstract. While tokens are located in particular places in space and time, types are not located anywhere.
+The precise status and nature of types is a difficult question. Here are just two examples of the kinds of puzzles that arise when one begins to think about types versus tokens. (i) Are types universal? They seem to be, given that they are abstract objects that are in some sense instantiated by their tokens. (ii) In virtue of what are two tokens of the same type? In some cases, this may seem straightforward: if you are viewing this article on two different screens (or perhaps on a screen and a printed copy), you see two tokens of this sentence that are orthographically very similar to one another. But what about a token of “I am hungry” written by hand in a cursive script on a piece of paper, and another produced by Greg speaking the sentence? In virtue of what are these tokens of the same type? They have little in common in virtue of which we can say that they are similar. Despite these difficulties, we will continue to talk about tokens and types in the ways outlined above.
+In what follows, the terms “word”. “phrase”, “sentence”, and “expression” will refer to types. Whenever we need to refer to particular tokens, we will use phrases such as “the token of the sentence ‘I am hungry’ produced by Greg”. Some philosophers are not always as careful about this usage as they could be, and anyone who wants to read further in the literature on the topic is warned to pay careful attention to how different philosophers talk about language. Some philosophers use a convention whereby putting a numeral before a sentence, as in the case of (1), allows them to use that numeral to refer to the sentence.
+(1) I am hungry.
+This is the convention that we follow in this article. Thus, our examples above involve different cases of speakers uttering (1) by producing different tokens of it. But other philosophers will use the numeral to refer to some hypothetical utterance of the sentence, and others to the token produced in such an utterance.
+One further point is sometimes important in discussions of indexicals: an utterance of a sentence need not involve the production of a token of that sentence. For example, I might write a note on the top sheet of a Post-it pad that says “I will return at 2:30” and post it on my office door. Here I have produced a token of the sentence “I will return at 2:30”. But next week, I might use the same sheet again, by reposting it to my office door. This time, it seems that I am uttering the sentence “I will return at 2:30” by using a token that I produced earlier. Thus, when we speak of utterances, we will also mean to include cases like this in which an agent uses a previously produced token.
+c. Occurrences
+The distinctions above, between utterances and expression types and tokens, are common in discussions of language. There is one other category, however, that should be borne in mind when thinking about indexicals and demonstratives. To see this, consider first the kind of question that is commonly used to introduce the distinction between types and tokens:
+How many words are written between the following pair of tokens of quotation marks: “a rose is a rose”?
+The question here may be taken in different ways: three words have been written, but two of those words have been written twice. Thus, in the token of “a rose is a rose” above, there are two tokens of “a” and two of “rose”. So if you were to mark off the number of times that any token of a word appears between the tokens of the quotation marks above, you would count five tokens.
+Now consider the question
+How many words are in the sentence “a rose is a rose”?
+Here there is only one correct answer. There are three words in the sentence: “a”, “rose”, and “is”. We can, however, say something else: two of these words occur twice in the sentence. This is not to say that there are two tokens of “a” and of “rose” in the sentence. That would be a mistake: the sentence is an abstract type, and tokens are concrete particulars. Instead of distinguishing between different tokens of “a” and of “rose” in the sentence, we distinguish between the different occurrences of “a” and of “rose” in the sentence. So there are three words in the sentence, but there are five occurrences of words
+Occurrences, like types, but unlike tokens, are abstract. An occurrence of a word or phrase e within a larger phrase E may be thought of as a state of affairs: the state of affairs of e being located at a particular place in the structure of E. Thus, the two occurrences of “rose” in “a rose is a rose” are distinguished from each other according to where in the structure of “a rose is a rose” the word “rose” is located.
+Despite the importance of distinguishing between occurrences and tokens, there are systematic relations between them. It is precisely because the sentence “a rose is a rose” contains two occurrences of “rose” that any token of the sentence will contain two tokens of “rose”. This relation will be important when we turn to theories of true demonstratives.
+2. Precursors to Kaplan’s Theory
+In the 20th century, there have been two basic approaches to the semantics of indexicals and demonstratives: utterance-based and expression-based theories. Almost all of the theories prior to David Kaplan’s influential theory have been utterance based. In early attempts to elaborate such theories, however, philosophers did not always pay due attention to the distinction above between utterances and the tokens produced (or used) in those utterances. The below discussion largely follows the original philosophers’ terminology, departing from it only to clarify where it is important to point out that they have elided the distinction between tokens and utterances.
+a. Peirce on Indexical Signs
+The term “indexical” is due originally to Charles Sanders Peirce, who introduced it as part of a threefold theory of signs. In this theory, Peirce distinguished between icons, indices, and symbols. All signs, on Peirce’s view, have the basic function of representing some object to some cognitive agent, but different kinds of signs accomplish this function in different ways. Icons represent an object to an agent by exhibiting or displaying to the agent the properties of the object they represent. A clear example of this is a diagram of a machine, which represents visually both the shapes of the parts and the structure of the machine.
+Indices represent by standing in some kind of intimate relation to their objects. Peirce calls these relations “existential relations”, because indices cannot represent objects unless those objects exist to stand in the appropriate relations to them. Indices are a fundamental part of Peirce’s theory, but for Peirce, existential relations are easy to come by. This is because many causal relations count, for Peirce, as existential relations. As an example of an index, Peirce considers a hole in a wall: one can infer from the hole the existence of a gunshot in the room. Thus, the hole is an index of the gunshot.
+As this example makes clear, indices in Peirce’s theory by themselves have little to do with language, or indeed with representation in any obvious sense. Indices in Peirce’s theory exhibit what H. P. Grice would later call natural meaning, wherein the presence of one state of affairs is a reliable indicator of the presence of another. Grice’s famous examples include that smoke means fire, and that presence of a certain rash means measles. Yet neither of these cases is plausibly an example of representation: the presence of smoke does not represent the presence of fire, nor does the presence of a particular rash represent the presence of measles.
+Symbols, finally, represent their objects in virtue of conventions or rules that state that they stand in for those objects. Thus on Peirce’s view, all words of a language are symbols, because all words have their meanings conventionally. But some words are also indices. Peirce cites the demonstrative pronouns “this” and “that” as examples. On Peirce’s view, the conventional rules governing “this” and “that” dictate that a speaker can use them to refer to objects in the immediate perceptual environment. The audience of a successful use of a demonstrative can infer the existence of an object referred to—an “existential” relation. If the audience cannot infer the existence of an object referred to, then the use of a demonstrative has not been successful. Thus, demonstrative pronouns are both symbols (governed by conventional rules) and indices (representing objects in virtue of the existential relations they bear to those objects).
+b. Russell on Egocentric Particulars
+Bertrand Russell calls words like “I”, “here”, “now”, and so forth egocentric particulars. In Russell’s theory, all such expressions can be analyzed as descriptions involving the demonstrative pronoun “this”. So, for Russell, “now” means “the time of this” and “here” means “the place of this”. Russell offers different analyses of “I”, proposing at one time that it means “the person experiencing this”, and at another time that it means “the biography to which this belongs”. Thus on Russell’s analysis, all egocentric particulars can be reduced to one, and the status of egocentric particulars turns on the status of “this” (about which Russell held conflicting views at different times). According to Russell, this analysis of egocentric particulars captures an important feature of their use: that the reference (or denotation) of a particular utterance of an indexical is always relative to the speaker (and perhaps the time) of the utterance.
+Yet Russell’s analysis fails on precisely the grounds that the interpretation of a particular utterance of “this” is not fixed merely by the identity of the speaker and the time of the utterance. This is because, as we see later, speakers can use “this” to refer to different things in their immediate environment. What a speaker refers to using “this” depends on some further feature of the context of the use: either the speaker makes some gesture, or there is enough common knowledge in the background that the speaker’s audience can identify what object the speaker intends to refer to (see section 4b below).
+c. Reichenbach on Token-Reflexives
+One of the most developed and influential theories of indexicals prior to Kaplan is due to Hans Reichenbach. Reichenbach’s theory is, in many ways, similar to Russell’s, but Reichenbach offers both a more sophisticated analysis of individual indexical expressions, and a more subtle treatment of the principles underlying the analysis. The key to both of these is Reichenbach’s emphasis on tokens in his analysis.
+Reichenbach calls indexical expressions “token-reflexives”. The reason for this is clear on even an informal statement of Reichenbach’s view: the indexical “I” means “the person who utters this token”, “here” means “the place at which this token is uttered”, “now” means “the time at which this token is uttered”, and so forth. Token-reflexive expressions are thus expressions whose meaning is in some way keyed to individual tokens of them. (Though Reichenbach’s official theory is stated in terms of types and tokens, some passages in Reichenbach’s Elements of Symbolic Logic suggest that he was thinking of utterances rather than tokens. Contemporary defenders of Reichenbach-inspired views adopt this variation—see section 7a and García-Carpintero.)
+Even on this informal statement, Reichenbach’s view clarifies to some degree the role of “this” in Russell’s analysis of egocentric particulars: a particular utterance of an indexical must refer to a token. Yet without further elaboration, this statement of Reichenbach’s view would be subject to the same problem as Russell’s, because it is undetermined which token is supposed to be referred to. If I utter “I am the person who uttered this token”, while pointing at a token of a sentence that someone else wrote on a chalkboard, then I have said something false.
+This worry is allayed by a closer examination of the details of Reichenbach’s analysis. Suppose that Bertrand Russell utters (2):
+ (2) I am a philosopher.
+In so doing, Russell has produced a token of “I”. Call this token t1. Then on a more careful statement of Reichenbach’s view, Russell’s utterance of (2) means the same thing as (3):
+ (3) The person who utters t1 is a philosopher.
+Since Russell is the person who utters t1, and Russell is a philosopher, Russell’s utterance is true. This shows that our rough translation of “I” above as “the person who utters this token” was incomplete. It is more correct (though on Reichenbach’s view, still not strictly correct—see below) to say that the meaning of “I” is such that any token t of “I” refers to t itself. Thus unlike Russell, who reduced all indexicals—Russell’s egocentric particulars—to the demonstrative pronoun “this”, Reichenbach reduces all indexicals—Reichenbach’s token-reflexives—to a very special kind of token-reflexive operation.
+The token-reflexive operation that forms the basis of Reichenbach’s analysis is the special technical device of “token-quotes”—the pair of arrows “↓” and “↓” that Reichenbach introduces in his analysis of the phrase “this token”. For Reichenbach, the result of enclosing a token in token-quotes, as in
+↓a↓,
+produces a token that refers to the token of “a” enclosed in the quotes. The emphasis on “token” in the previous sentence is important, because the token below refers to a different token of “a”:
+↓a↓.
+Call these “token-quote phrases”. The above examples show that on Reichenbach’s view, no two tokens of a token-quote phrase can refer to the same thing. As a result, we cannot talk about the meaning of a token-quote phrase, because there is no meaning that any two tokens of the phrase share. For this reason, Reichenbach calls token-quote phrases “pseudo-phrases”. Since token-quote phrases are the foundation of Reichenbach’s analysis of indexicals, all indexicals are similarly pseudo-phrases. As a result, it is strictly speaking incorrect, on Reichenbach’s view, to talk about the meaning of an indexical.
+One consequence of this view is that different utterances of (2), even by the same person, will strictly speaking mean different things. Suppose that Russell utters (2) a second time. In doing so, Russell has produced a separate token of “I”. Call this token t2. On Reichenbach’s view, Russell’s second utterance of (2) means the same thing as (4):
+(4) The person who utters t2 is a philosopher.
+This consequence of Reichenbach’s view is counter to our intuitions about the use of (2): if Russell uses (2) twice, Russell has said the same thing about himself. On Reichenbach’s view, Russell said two different things about two different tokens of “I”. Yet because in both cases, it was Russell who did the uttering, the truth of what Russell said in each case turns on whether Russell a philosopher. Thus, Reichenbach’s analysis gets the right truth conditions for an utterance of (2), but at the expense of certain intuitions about the meaning of “I”.
+Reichenbach’s view has a further odd consequence, noted by David Kaplan. Suppose that I utter (5), and let “t3” name the token of “I” that I have produced in so doing:
+(5) If no one were to utter t3, then I would not exist.
+According to Reichenbach’s analysis, my utterance of (5) means the same thing as (6):
+ (6) If no one were to utter t3, then the person who utters t3 would not exist.
+But (6) is plausibly a logical truth. Thus on Reichenbach’s view, my utterance of (5) is true as a matter of logic. Yet my utterance of (5) is clearly false: had I not uttered (5), I would nonetheless have continued to exist.
+d. Burks on Indexical Symbols
+In the article “Icon, Index, and Symbol”, Arthur Burks develops Peirce’s suggestive remarks about indexical words into a more systematic theory of their meanings. Burks’s theory also addresses some of the odd consequences of Reichenbach’s theory noted above (though it is unclear whether Burks was familiar with Reichenbach’s view). Thus, Burks’s theory represents a culmination of several different strands of thought concerning indexicals prior to Kaplan’s work.
+On Burks’s theory, all expression types of a given language have what Burks calls symbolic meaning. This is the meaning of the expression type determined by the conventions governing the language. All tokens of a given expression type share the symbolic meaning of the type. The difference between indexical expressions and non-indexical expressions is in the meanings of individual tokens. For non-indexical expressions, the meaning of an individual token just is the symbolic meaning of the type of which it is a token. For indexical expressions, in contrast, the symbolic meaning of the expression type is only part of the meaning of each individual token of that type. The full meaning of a token of an indexical expression includes information about the token itself—where and when it exists, who produced it, and so forth. Burks calls this full meaning of a token of an indexical expression the indexical meaning of the token. So different tokens of an indexical expression differ in indexical meaning, but their different indexical meanings all have the symbolic meaning of the indexical expression in common.
+For Burks, the indexical meaning of a token is what someone must know about that token in order to determine what that token represents. On Burks’s view, the indexical meaning of a token of an indexical expression comprises all of the following:
+ (i) the spatiotemporal location of the token;
+(ii) a description of the object that the token represents; and
+(iii) a set of what Burks calls “directions” that relate the token to the object it represents.
+The directions in (iii) can arise in two different ways, either (a) as encoded in the symbolic meaning of the type of which the token is an instance, or (b) as determined by an act of pointing, or some similar gesture on the part of the person who produces or uses the token. Elements (ii) and (iiia) of the indexical meaning of a token are supplied by the symbolic meaning of the type of which the token is an instance. These will be shared by all tokens of the same type of indexical expression. Elements (i) and (iiib) are supplied by an individual’s knowledge of the token and its production or use. These will vary from one token to another.
+Though Burks does not examine the question in detail, it appears that the importance of the individual elements of (i-iii) can vary from one indexical to another. For example, in the case of an utterance of the indexical “I”. someone may fully understand the utterance without knowing the spatiotemporal location of the utterance. (Suppose, for example, you get a phone call from a friend, but you have no idea where your friend is calling from, or that you hear a call of “Help me!” from a voice you recognize, but you cannot tell where the call is coming from.) On Burks’s view, then, it follows that one can understand an utterance of “I” without fully grasping its indexical meaning.
+Burks’s suggestion that a complete semantic theory of indexical expressions may require appeal to two distinct kinds of meaning is important. As we see later, David Kaplan’s influential theory of indexicals develops a related suggestion in a systematic way.
+e. Objections to Utterance-based Theories
+The theories of Reichenbach and Burks (and probably Russell as well) are clear cases of what was called, in the introduction to this section, utterance-based semantic theories of indexicals. There are two influential objections to utterance-based theories. The presentation of the objections will focus on Reichenbach’s theory, because the technical details of Reichenbach’s theory are worked out to a sufficient degree that the force of the objections is most easy to see.
+One important objection to utterance-based theories generally is due to David Kaplan. According to Kaplan, utterance-based theories do not provide adequate resources to explain the logical properties of indexicals and demonstratives. According to Kaplan, an adequate semantics for indexicals should explain the logical truth of a sentence like (7):
+(7) If today is Monday, then today is Monday.
+Yet given an utterance-based semantics, it is unclear how to do so. On Reichenbach’s analysis of indexicals, let u be some utterance of (7), and let t1 and t2 be the two tokens of “today” produced (or used) in u. According to Reichenbach, the truth conditions for u are given by (8):
+(8) If the day on which t1 is produced is Monday, then the day on which t2 is produced is Monday.
+Not only is (8) not logically true, it could even be false. Suppose that u were performed right around midnight, slowly enough that t1 was produced at 11:59 PM on Monday, and t2 at 12:01 AM on Tuesday. In this case, (8) is false. The same problem arises for the argument
+(9) Today is Monday; therefore, today is Monday.
+This looks like it should be a valid argument—it appears to have the form p; therefore p. Yet there are utterances of it on which the utterance of the premise is true, while the utterance of the conclusion is false.
+A separate problem for utterance-based theories is that a semantic theory for a language should provide an interpretation of every sentence of the language. Yet on utterance-based theories such as Reichenbach’s, sentences containing indexicals receive an interpretation only upon being uttered. In the absence of an utterance of a sentence, Reichenbach’s theory offers no interpretation of it. Given the recursive structure of language, there are sentences that are too long to be uttered by any individual, and hence sentences that never receive any interpretation on Reichenbach’s theory. (For a discussion of and response to both of these objections to utterance-based theories of indexicals, see García-Carpintero.)
+3. Kaplan’s Semantic Theory of Indexicals
+We now turn to Kaplan’s influential theory of indexicals. Unlike the theories introduced in the previous section, Kaplan’s is an expression-based semantic theory. Kaplan does not take the objects of semantic evaluation to be utterances or tokens. Rather, Kaplan considers the expressions (types) themselves relative to contexts. On Kaplan’s theory, contexts are abstract formal structures that represent certain features of an utterance. As a result, the objects of semantic evaluation on Kaplan’s theory are abstract objects—expressions relative to contexts—rather than concrete physical objects (tokens) or particular events (utterances).
+When discussing Kaplan’s theory, one must be careful: there are two different theories attributed to Kaplan on the basis of what he says in “Demonstratives”. We begin by introducing one of these theories. In section 5, when we discuss Kaplan’s logic of demonstratives, we introduce the other theory, and give reasons to prefer the first theory. It is this first theory that we refer to as “Kaplan’s (semantic) theory”.
+a. Background and a Basic Insight
+Kaplan’s semantic theory of indexicals is embedded in a general picture of the nature of meaning. In order to understand the significance of Kaplan’s theory, it is important to grasp this picture. According to this picture, the meaning of a sentence S—in the sense of the information encoded by S—is a complex, structured entity whose constituents are the meanings of the sub-sentential expressions (words and phrases) that occur in S, and whose structure is determined by the structure of S. This structured entity is called the proposition expressed by S. It is common to represent structured propositions using ordered n-tuples. For example, the sentence “Tally is a dog” expresses the proposition that we can represent using the ordered pair below:
+〈BEING A DOG, Tally〉
+(It is convenient to talk about ordered pairs, or more generally ordered n-tuples, like this one as being the proposition expressed by “Tally is a dog”, and we will follow this practice. It is important to keep in mind, however, that this is merely a convenience: strictly speaking, a structured proposition is not an n-tuple, and the n-tuple merely represents or stands for the proposition.) The constituents of this proposition are Tally and the property of being a dog. These are the meanings of the significant constituents of the sentence “Tally is a dog”: Tally is the meaning (or referent) of “Tally”, and the property of being a dog is the meaning of the predicate “is a dog”. The structure of the proposition reflects the fact that the sentence “Tally is a dog” is the result of putting the name “Tally” together with the predicate “is a dog”. The sentence “Lassie is a dog” would express a different proposition:
+〈BEING A DOG, Lassie〉
+It is common to refer to these propositions using the complex “that”-clauses “that Tally is a dog” and “that Lassie is a dog”. respectively. (The “that” in these clauses is not a demonstrative pronoun; it is what linguists call a “complementizer”.)
+This picture of propositions as complex structured entities that contain objects and properties as constituents is due originally to Bertrand Russell, from his Principles of Mathematics, and it is currently a subject of significant controversy in the philosophy of language. Kaplan’s semantic theory of indexicals is one of the primary reasons many philosophers today embrace this Russellian picture of propositions.
+Kaplan’s main contributions to the semantics of indexicals are (i) the recognition of a distinct kind of meaning, clearest in the case of indexicals like “I”, and (ii) a formal theory that explains how the different kinds of meaning are related to each other and to logic, linguistic competence, and language use. To understand Kaplan’s basic insight, consider two utterances of (10), one utterance by Barack Obama, and the other by Hilary Clinton:
+(10) I am flying.
+Two observations are immediate here: (i) Obama and Clinton have said or asserted different things—Obama has said of himself that he is flying, while Clinton has said of herself that she is flying—and (ii) the sentence that both Obama and Clinton have uttered means the same thing in both cases. Furthermore, these two observations are related: it is because (10) means what it does, and means the same thing when Obama utters it as it does when Clinton utters it, that Obama and Clinton can each use (10) to say different things.
+The traditional notion of a proposition, as captured in the Russellian picture of propositions sketched above, applies to what is said or asserted. On this picture, Obama and Clinton have said or asserted different propositions. So the Russellian picture by itself does not offer any account of the meaning of (10) that remains constant across its different uses. This is where Kaplan’s first contribution comes in.
+b. Character, Context, and Content
+Kaplan calls the meaning of an expression that stays constant across different contexts of use its character. In Kaplan’s theory, character plays two fundamental roles: (i) the character of “I” is what a competent speaker of English knows in virtue of being competent with “I”; and (ii) the character of an expression is a rule or function whose arguments are contexts, and whose value for any context is what Kaplan calls the content of the expression relative to the context.
+The character of “I”, for example, is a function whose value, for any context c, is what Kaplan calls the agent (cA) of c (the speaker or writer of the context). The agent cA of a context c is thus the content of “I” relative to c. A language user who is competent with “I” knows this rule, and it is this knowledge, together with information about a context, that allows a language user to figure out who “I” refers to relative to the context.
+Generalizing from this example, we arrive at the following theory of meaning: character and content are two different kinds of meaning had by expressions of a language. In virtue of its character, each expression has a content relative to a context. Different kinds of expressions are assigned different kinds of contents relative to contexts. The content of a singular term like “I” relative to a context is an object or individual. The content of an n-place predicate relative to a context is an n-place property or relation. The content of a sentence relative to a context is a structured, Russellian proposition, whose constituents are the contents, relative to the same context, of the atomic expressions (words or phrases) occurring in the sentence.
+Some expressions have a character that yields the same content relative to every context. The character of “Barack Obama”. for example, determines the same individual—Barack Obama—relative to every context. Other expressions have a character that yields different contents relative to different contexts. This is the characteristic feature of indexicals, and it is inherited by any expression that contains an indexical. Thus, we may talk not only about the indexicals “I”, “now” and “here”. but also about indexical phrases and sentences. An example of an indexical sentence is (10) (repeated).
+(10) I am flying.
+In virtue of the character of (10), the content of (10) relative to a context in which Barack Obama is the agent is the structured proposition
+〈FLYING, Barack Obama〉,
+yet relative to a context in which Hilary Clinton is the agent, the content of (10) is the structured proposition
+〈FLYING, Hilary Clinton〉.
+These propositions differ in what is contributed, relative to the different contexts, by the indexical “I”. The content of “I” relative to the first context is Barack Obama; the content of “I” relative to the second context is Hilary Clinton.
+In addition to an agent cA to serve as the content of “I”, each context c of Kaplan’s theory includes a time cT to serve as the content of “now”, a location cP to serve as the content of “here”, and a possible world cW to serve as the content of “actually”. Thus, the sentence “I am located here”, relative to a context c, expresses the structured proposition
+〈BEING LOCATED AT, 〈cA, cP〉〉.
+In this case, BEING LOCATED AT is a two-place relation between objects or individuals and locations, and the proposition predicates this relation of the agent and location of the context c. This captures the clear intuition that a speaker who utters “I am located here” says of himself or herself that he or she is at the location of the utterance. Additional parameters may be added to contexts as needed by different indexicals (see the discussion of true demonstratives in section 4), but Kaplan’s original theory focuses on the four above. Thus for most purposes, each context c of Kaplan’s theory can be identified with the quadruple 〈cA, cP, cT, cW〉.
+c. Truth Relative to a Context
+Kaplan’s theory also provides the resources for defining truth (and falsehood) for sentences relative to contexts. The underlying, natural idea is that if Saul Kripke utters (11), the sentence, as Saul Kripke has used it, is true in virtue of two facts: (i) relative to the context of Kripke’s use (in which Kripke is the agent), (11) expresses the proposition that Saul Kripke is a philosopher, and (ii) Saul Kripke is a philosopher:
+(11) I am a philosopher.
+In other words, (11), as Saul Kripke has used it, expresses a proposition that is true at the world in which Saul Kripke has used it (in this case, the actual world).
+(To say that a proposition p is true (or false) at a possible world w is just to say that p would be true (false) were w actual. For example, let w be a possible world in which Barack Obama lost to Mitt Romney in the November 2012 presidential election. The proposition that in 2014, Barack Obama is president is false at w, because if w were actual, Barack Obama would not be president.)
+Kaplan’s definition of truth (falsehood) for a sentence relative to a context develops this natural idea as follows: a sentence S is true (false) relative to a context c if and only if the content of S relative to c (the proposition expressed by S relative to c) is true (false) at the world cW of c. Thus, the sentence “I am Saul Kripke” is true relative to any context in which Saul Kripke is the agent, but false relative to any context in which Saul Kripke is not the agent.
+There are two features of Kaplan’s definition of truth relative to a context worthy of further attention. The first is that sentences have truth values relative to contexts and worlds. This observation is more general than the definition of truth relative to a context. Given any context c and world w, we can assign a truth value to a sentence S relative to c and w: it is just the truth value at w of the proposition expressed by S relative to c. Because each context c uniquely determines a world cW­ (the world of the context), there are two distinct possible world parameters relevant to assigning a truth value to a sentence S—the world cW of the context c relative to which S expresses a proposition, and the world w at which we evaluate the proposition expressed by S relative to c. This is an example of double indexing, which was recognized before Kaplan’s work as necessary for the treatment of indexicals. (For an early and influential discussion of double indexing for the indexical “now”, see Kamp.)
+Double indexing applies not only to sentences but to singular terms and predicates as well. Just as a sentence is assigned a truth value relative to a context and a possible world, so a singular term (either a proper name or a definite description) is assigned a denotation relative to a context and a possible world, and an n-place predicate is assigned an extension (a set of n-tuples) relative to a context and possible world.
+The second important feature of Kaplan’s definition of truth relative to a context is that the second possible world parameter is the world of the context. Again, if we focus just on the possible world parameter of a context, this means that the world cW of the context c is playing two roles in the definition of truth relative to a context c: in one role, it represents the world at which a sentence is uttered or used, and relative to which the sentence expresses a proposition. In the other role, it represents the (actual or counterfactual) circumstance relative to which we evaluate the proposition expressed. This was implicit already in the intuitive statement above of the underlying idea that Kaplan’s definition seeks to capture: (11), as Saul Kripke has used it in the world in which he has used it, expresses a proposition that is true at the world in which he has used it. The two occurrences in the previous sentence of the phrase “the world in which he has used it” reflect the two roles played by the world cW of the context c in Kaplan’s formal definition of truth relative to c.
+One of Kaplan’s most significant philosophical insights was to recognize the difference between these two roles. To help keep these distinct roles clear, Kaplan introduced the phrase circumstance of evaluation to refer to the second role played by the world parameter in the definition of truth for a sentence relative to a context. This allows us to restate Kaplan’s definition as follows: a sentence S is true relative to a context c if and only if the content of S relative to c (the proposition expressed by S relative to c) is true at the circumstance of evaluation cW determined by c.
+(The circumstance of evaluation in Kaplan’s formal definition includes the time cT of the context as well, but this (i) raises questions about the metaphysics of propositions that are better addressed elsewhere, and (ii) would make the ensuing discussion more complicated without compensatory benefits.)
+Again, this feature of Kaplan’s definition of truth relative to a context generalizes to singular terms and predicates. A singular term t denotes an object o relative to a context c and circumstance of evaluation cW determined by c, if and only if t denotes o relative to c full stop. An n-place predicate Pn has an extension E relative to c if and only if E is the extension of Pn relative to c and the circumstance of evaluation cW determined by c.
+d. Indexicality and Modality
+The importance of the distinction between context and circumstance of evaluation is particularly clear when we consider sentences containing both indexicals and modal operators like “necessarily” or “possibly”. On the standard semantic treatment of the modal operators, sentences are true or false only relative to a possible world. A sentence like (12) is true relative to, or at, a world w if and only if there is a possible world w* (accessible from w) such that (13) is true at w*:
+(12) Possibly, Barack Obama is president.
+(13) Barack Obama is president.
+The modal operator “possibly” in (12) serves to shift the possible world parameter of evaluation: the truth of (12) at a world w depends on the truth of (13) at some other world w*. (Strictly, w* could be identical with w, but it need not be.)
+When we turn to indexical sentences, however, there are two possible world parameters relative to which such sentences are true or false: the world of the context and the circumstance of evaluation. Which parameter does the modal operator shift?
+One way to approach this question is to ask what we mean when we say that a sentence S is true at a possible world w. One thing we could mean by this is that if one were to utter S in w, then one would say something true. On this account, to say that S is true at all possible worlds is to say that no matter what world one was in, if one uttered S in that world, one would say something true. But this is highly implausible. If Robby the Ranger utters (14) in this world, then Robby says something true, because “Yellow-Yellow” refers to a notorious bear that lived in the Adirondacks in the early 2000s:
+(14) If Yellow-Yellow exists, then Yellow-Yellow is a bear.
+But in another possible world, the name “Yellow-Yellow” might refer to a raccoon. So were Robby to utter (14) in this other possible world, what Robby said would be false. Thus on this view, (14) is not true at every possible world, and hence (15) is false:
+(15) Necessarily, if Yellow-Yellow exists, then Yellow-Yellow is a bear.
+But most philosophers, persuaded by Kripke, would reject this conclusion: if Yellow-Yellow was a bear, then she was essentially a bear. (See Kripke for a defense of the existence of essential properties.)
+There is an alternative interpretation of what we mean when we say that a sentence S is true at a possible world w. On this interpretation, we consider what S says in the actual world (or what someone who uttered S would strictly and literally say), and we evaluate what S says for truth or falsehood at w. More carefully: a sentence S is true at world w if and only if the proposition actually expressed by S is true at w. On this interpretation, then, evaluating “Necessarily, S” requires first determining the proposition actually expressed by S, and then evaluating this proposition at every possible world. This yields the intuitively correct result for the sentence “Necessarily, if Yellow-Yellow exists, then Yellow-Yellow is a bear”. This is true if and only if the proposition actually expressed by “If Yellow-Yellow exists, then Yellow-Yellow is a bear” is true at every possible world. But this proposition is vacuously true at worlds where Yellow-Yellow does not exist, and if Kripke is correct that Yellow-Yellow is essentially a bear, then this proposition is also true at every world where Yellow-Yellow does exist.
+As we saw in our discussion of Kaplan’s definition of truth relative to a context, the role of the circumstance of evaluation is to be the world relative to which the proposition expressed by S relative to a context is evaluated. Thus, the intuitive reflections on what we mean when we say that a sentence S is true at a world suggest a clear answer to the question from two paragraphs back: modal operators like “necessarily” and “possibly” shift the circumstance of evaluation, not the world of the context.
+This answer garners further support from our intuitions about sentences containing “actually”. Because “actually” is an indexical, its interpretation relative to a context c is determined by the parameters of the context. In the case of “actually”, the relevant parameter is the world cW of the context. Thus, if modal operators shifted the world of the context, then they would shift the interpretation of the modal indexical “actually”, but intuitively they do not. Kaplan’s famous example of this is (16):
+(16) It is possible that in Pakistan, in five years, only those who are actually here now are envied.
+In this sentence, “actually” is within the scope of “it is possible that”. So if “it is possible that” shifts the world of the context, then the value of “actually” would be shifted. But it is not. Suppose Kaplan utters both (16) and (17):
+(17) Only those who are actually here now are envied.
+It is clear that in both cases, Kaplan’s use of “actually” picks out the same world—the world in which he performs both utterances. The only alternative is that the modal operators “possibly” and “necessarily” shift the circumstance of evaluation. More precisely, for any context c and possible world w,
+[Necessarily ϕ] is true relative to a context c and world w if and only if, for every possible world w* (accessible from w), ϕ is true relative to c and w*.
+One of Kaplan’s central theses about indexicals in English is that there can be no operator that shifts contexts or parameters of contexts in the way that an operator like “necessarily” shifts the circumstance of evaluation. Kaplan calls such operators monsters. The claim that natural language does not include monsters is a matter of debate in current philosophy and linguistics. (For a sophisticated discussion of monsters in linguistics, see Schlenker.)
+There is one final observation worth noting before we leave this section: it is important to recognize that “actually” is both an indexical, receiving a value from the context, and a modal operator. As a modal operator, “actually” serves to shift the circumstance of evaluation in the definition of truth relative to a context. But unlike “necessarily” or “possibly”, “actually” always shifts the circumstance of evaluation to the world of the context. Thus on Kaplan’s theory, for any context c and any possible world w, the rule for “actually” is as follows:
+[Actually ϕ] is true relative to c and w if and only if ϕ is true relative to c and cW.
+One consequence of this rule is that for any context c and sentence S, if S is true relative to c, then so are both “Actually S” and “Necessarily actually S”. (For more discussion of this consequence, see section 5.)
+e. Some Consequences of Kaplan’s Theory of Indexicals
+There are several consequences of Kaplan’s theory, as laid out thus far, worth noting:
+Indexical singular terms like “I” are directly referential.
+A singular term is directly referential if and only if its semantic content relative to a context—what it contributes to the propositions expressed in that context by the sentences in which it occurs—is just the object or individual to which it refers. Thus, it is an immediate consequence of Kaplan’s theory that “I” is directly referential, since the semantic content of an indexical singular term like “I” relative to a context is just the agent of the context. Relative to a context, “I” directly refers to the agent of the context.
+The thesis that there are directly referential singular terms is in stark contrast to the Fregean view of language, according to which the content of an expression is always a sense—a mode of presentation of an object, property, or proposition.
+Indexical singular terms are rigid designators.
+The concept of a rigid designator was introduced into philosophical and semantic discussions by Saul Kripke. According to Kripke, an expression e rigidly designates an object o if and only if e designates o in every possible world in which o exists, and does not designate anything else in any world in which o does not exist. To apply the concept of rigid designation to indexical singular terms, however, we need a definition of rigid designation relative to a context. The following definition is somewhat technical, but it correctly captures Kripke’s notion within a semantics for indexical expressions:
+Rigid Designation Relative to a Context:
+An expression e rigidly designates an object o relative to a context c if and only if for every possible world w, any predicate F, and any object x distinct from o, if o exists at w, then the proposition expressed relative to c by [e is F] is true at w if and only if, in w, o has the property expressed by F relative to c, and if o does not exist at w it is not the case that the proposition expressed by [e is F] is true at w if and only if, in w, x has the property expressed by F relative to c.
+The indexical singular term “I”, for example, is a rigid designator relative to any context c according to this definition. Relative to c, the sentence [I am F] expresses the proposition
+〈F-hood, cA〉.
+This proposition is true at an arbitrary world w if and only if cA has the property F-hood in w. Thus relative to c, “I” rigidly designates cA.
+Note that in the above example, we do not have to specify whether cA exists at w. This shows that directly referential terms are rigid designators in a particularly strong sense. A directly referential term designates the same object in all possible worlds, whether the object exists at that world or not. (Nathan Salmon, in Reference and Essence, calls such terms obstinately rigid designators.) This is because a directly referential expression contributes the object that it designates to the propositions expressed by sentences in which it occurs; the object is a constituent of the proposition. Any such proposition—one that contains an object or individual as a constituent—is called a singular proposition. Speaking loosely, when we evaluate a singular proposition for truth or falsehood at a possible world w, the singular proposition “brings along” with it the objects that are its constituents. Thus, directly referential terms automatically rigidly designate the objects or individuals to which they refer.
+For any definite description [the x: Fx] that uniquely designates an object o relative to a context c, the definite description [the x: Actually Fx] rigidly designates o relative to c.
+This consequence of Kaplan’s theory is a corollary of the observations about “actually” at the end of the previous section. Relative to any context c and possible world w, [the x: actually Fx] designates the unique object o that “is F” in the world cW of c, if o exists in w. This is because of the effect of “actually”, which shifts the circumstance of evaluation to the world of the context. Thus, if [the x: Fx] designates o relative to c, [the x: actually Fx] designates o, relative to c, in every world w in which o exists, and does not designate anything else in any world w in which o does not exist.
+This consequence of Kaplan’s theory is significant for one of the classic debates in the philosophy of language: the debate over the meaning of proper names. Ever since Saul Kripke’s Naming and Necessity, philosophers and linguists have recognized that proper names, such as “David Kaplan”, in natural languages such as English are rigid designators. Kripke and others take this semantic feature of proper names to be a major objection to the analysis, inspired by Frege and Russell, of proper names as definite descriptions (in Fregean terms, a definite description gives the sense of a proper name). Suppose we analyze the name “David Kaplan” as the definite description “the author of the most important work on indexicals and demonstratives in the 20th century”. Then in some possible world in which Wittgenstein wrote the most important work on indexicals and demonstratives in the 20th century, the name “David Kaplan” would designate Wittgenstein. Thus on this proposal, the name “David Kaplan” is not a rigid designator.
+Some philosophers, however, have responded by modifying the Frege-Russell view: if proper names are analyzed as definite descriptions that have been rigidified by adding “actually”, then Kripke’s observation that proper names are rigid designators is just what we would expect. Other philosophers in turn have rejected this modification on various grounds. (For discussion, see chapter 2 of Soames, Beyond Rigidity.)
+4. True Demonstratives
+So far, we have discussed Kaplan’s semantic theory of pure indexicals—those expressions whose content is uniquely determined relative to a context by basic features of the context (like the agent, time, location, and world). As we noted in the introduction, however, there are also context-sensitive expressions for which these basic features of context are not sufficient to uniquely determine a content relative to a context. These are the true demonstratives. The paradigm examples are the singular demonstrative pronouns “this” and “that”. Except toward the end of this section, I will focus exclusively on “that”.
+a. Two Challenges Posed by True Demonstratives
+There are several challenges in spelling out a formal theory of true demonstratives. Two of the most important are (i) how to account, in the theory, for the role of whatever is required in a context (gestures, intentions, and so forth) to fix the reference of a particular use of a demonstrative, and (ii) that distinct occurrences of the same true demonstrative can differ in content relative to the same context.
+These challenges are related: on an intuitive level, it is because true demonstratives require some further supplementation from the context that distinct occurrences of the same demonstrative can refer to different things. If I point first at the Washington Monument, and then at the Capitol Building while I utter (18), I have said that the Washington Monument is taller than the Capitol Building, and I have done so because there is something in the context that fixes the reference of my first use of “that” as the Washington Monument, and something in the context that fixes the reference of my second use of “that” as the Capitol Building:
+(18) That is taller than that.
+These observations about true demonstratives pose a problem for Kaplan’s theory as we have stated it thus far: if the meaning of a demonstrative is its character, and the character of an expression is a function that returns the same content whenever applied to the same context, then there is no way for distinct occurrences of a true demonstrative to differ in content relative to the same context. Any attempt to accommodate true demonstratives into Kaplan’s theory must address this problem.
+b. Reference Fixing for True Demonstratives
+In order to address the first of the two challenges above posed by true demonstratives—that of how to incorporate into the formal theory whatever is required to fix the reference of a particular use of a demonstrative—we must first determine what in fact fixes the reference of a use of demonstrative. There are many different theories, but most fall into one of two categories: the reference of a particular use of a demonstrative is fixed (i) by an associated gesture, or (ii) by an associated intention.
+In “Demonstratives,” Kaplan defends a theory of the first kind. For Kaplan, a demonstration is the way that an object that has been singled out in some way (often, but not always, by an act of pointing) appears or is represented from a particular perspective. Kaplan calls this theory the Fregean Theory of Demonstrations. On the Fregean theory, demonstrations have three qualities in virtue of which they closely resemble (pure) indexical definite descriptions: (i) a demonstration determines a mode of presentation of an object (so that different demonstrations may be demonstrations of the same object), (ii) a particular demonstration d might have picked out a different object from the object that it in fact picks out, and (iii) a particular demonstration d might pick out no object at all (in the case of an illusion or hallucination, for example). The Fregean Theory of Demonstrations provides a natural account of the example above, in which I point at the Washington Monument and at the Capitol Building. In the example, the Washington Monument is singled out visually by my first pointing gesture as the object that I am referring to with my first use of “that”, and the Capitol is singled out visually by my second pointing gesture as the object that I am referring to with my second use of “that”.
+One virtue of the Fregean Theory of Demonstrations is that it provides an account of why certain uses of demonstratives are informative, while others are not. This is illustrated by a famous example due to John Perry (in his influential article “Frege on Demonstratives”): suppose that we can see both the bow and stern of the aircraft carrier USS Enterprise in harbor, but the middle of the ship is hidden behind a tall building. Now suppose that I point first at the bow, and then at the stern, while uttering (19):
+(19) That is identical to that.
+My utterance is informative. But suppose instead I had pointed twice at the bow while uttering (19). My utterance in this case would not be informative. According to the Fregean Theory of Demonstrations, the demonstrations in my second utterance present the USS Enterprise in the same way, yet my demonstrations in my first utterance present the USS Enterprise in two different ways. It may be informative to be told that the object presented in one way is identical to the object presented in another way, but it is not informative to be told that the object presented in one way is identical to the object presented that same way. (Observations like this provide one way that Kaplan can respond to the criticisms discussed below in section 6a.)
+One problem with gesture-based views generally is that there are uses of demonstratives that are not associated with any gestures at all. Upon seeing a bright flash through the window, I might ask my wife, “what was that?” without needing to perform any gesture at all. If I perform no gesture, then on any theory according to which the reference of my use of “that” is fixed by my gesture, my use of “that” in this example will not refer to anything. This is the wrong result: my use of “that” clearly refers to the bright flash.
+This problem with gesture-based views suggests that an intention-based view is superior. But it is important in proposing or defending an intention-based view that one specifies precisely which intention one thinks is significant for fixing the reference of a use of a demonstrative. A speaker who uses a demonstrative may have several intentions: to point at a particular object o, to refer to o, to refer to the object at which he or she is pointing, and so forth. There may be cases in which these intentions do not single out the same object. For example, I may intend both (i) to refer to an object o, and (ii) to refer to the object at which I am pointing. But if I am in fact pointing at some object o* distinct from o, then these two intentions will determine distinct objects.
+Philosophers who argue about different theories of reference-fixing for demonstratives often use such cases as data: suppose theory A says that the reference of a use of a demonstrative is fixed by the speaker’s intention α, and theory B says that the reference of a use of a demonstrative is fixed by the speaker’s intention β. Suppose further that there is some case in which a speaker uses “that,” and in which the speaker’s intention α uniquely determines an object o1, and the speaker’s intention β uniquely determines an object o2. Finally, suppose that it is clear in the case in question that the speaker has succeeded in referring with her use of “that” to o2. This is evidence in favor of theory B over theory A.
+In his later essay “Afterthoughts,” Kaplan rejects the Fregean Theory of Demonstrations in favor of a view according to which the reference of a use of a demonstrative is fixed not by a pointing gesture, but by the intention that directs the pointing gesture. Kaplan calls these directing intentions. Thus while on the later Kaplan’s view, the reference of a use of a demonstrative is fixed by an intention, that intention is still associated in some way with a speaker’s gestures: if one chooses not to perform a gesture, then one has no intention to direct a gesture at any individual. As a result, it is unclear whether this view successfully avoids one of the central problems with gesture-based views.
+Other intention-based accounts may avoid this problem. According to Kent Bach, for example, the reference of a speaker’s use of “that” is the object determined by the speaker’s referential intention. On Bach’s view, a referential intention has a special reflexive structure: a speaker intends the audience to identify, and to take themselves to be intended to identify, some object or individual as the object the speaker is referring to by thinking of that object in a particular way. If the speaker performs some kind of pointing gesture, then the speaker may intend for the audience to think of the object in question as the object that the speaker is pointing at. In other cases, however, the speaker may intend for the audience to think of the object in question in other ways. (Two classic papers in the debate over demonstrative reference fixing are Marga Reimer’s “Do Demonstrations have Semantic Significance?” and Kent Bach’s “Intentions and Demonstrations”.)
+c. Adding True Demonstratives to Kaplan’s Theory
+In “Demonstratives,” Kaplan considers two ways of adding demonstratives to his theory. The first requires adding an artificial word, “dthat” to the language, via the following rule: if α is a singular term or definite description, then ⌈dthat [α]⌉ is a singular term. Examples from English include “dthat [the current president of the United States]”, “dthat [Saul Kripke]”, and “dthat[the ice cream cone I ate today]”.
+The semantics for “dthat” is such that relative to a context c, the content of ⌈dthat[α]⌉ is the object denoted by α relative to c. For example, relative to a context c such that cW is the actual world and cT is noon on January 31, 2013, the content of “dthat[the current president of the United States]” is Barack Obama, because at noon on January 31, 2013 in the actual world, Barack Obama was president. Thus, “dthat”-terms are directly referential, and hence also rigid designators.
+“Dthat”-terms exploit the similarity noted above, in our discussion of the Fregean Theory of Demonstrations, between demonstrations and indexical definite descriptions. In this way, this treatment of demonstratives addresses the problem of multiple occurrences of demonstratives by avoiding it altogether. This is because, for Kaplan, an occurrence of a “dthat”-term corresponds to a use of a demonstrative together with a particular type of demonstration, where the singular term α in ⌈dthat[α]⌉ is playing the role of the demonstration. On this treatment of demonstratives, for example, my utterance of (18) (“that is taller than that”), pointing first at the Washington Monument, and then at the Capitol Building, would be represented by (20):
+(20)  Dthat[the object that appears thus-and-so from here] is taller than dthat[the object that appears so-and-thus from here].
+In this case, the definite descriptions “the object that appears thus-and-so from here” and “the object that appears so-and-thus from here” represent my two demonstrations. Thus rather than having two occurrences of the same word or phrase, we have two different phrases altogether.
+As a tool for investigating the semantics and logic of directly referential expressions, Kaplan’s “dthat” has been very influential. But as a basis for a semantic theory of the English demonstrative pronoun “that”, “dthat” is inadequate. The primary problem with using “dthat” as a model for the English demonstrative pronoun “that” is that we do not judge ourselves to have used two different phrases when we utter “that is taller than that” while pointing at two distinct objects. Yet if the English demonstrative pronoun “that” functioned like Kaplan’s “dthat”, we would have to say that each use of “that” in an utterance of “that is taller than that” is in fact an utterance of a distinct phrase that in some way combines the word “that” with either the pointing gestures performed or some particular intention. This runs counter to our clear intuition that we are using the same word twice to refer to different things. (See Salmon, “Demonstrating and Necessity”.)
+The second way that Kaplan considers adding true demonstratives to his theory requires adding an infinite (or sufficiently large) number of distinct subscripted “that”s: “that1”, “that2”, and so forth. Each of these is treated as a distinct word in the language. Then we add to each context c an infinite (or sufficiently long) sequence cD of objects and individuals. Each subscripted “that” is then assigned its own character: for each i, the content of “thati” relative to a context c is the i-th member of the sequence cD. We will call the members of cD the demonstrata of c. For example, let c be the following context:
+〈Saul Kripke, Washington DC, August 4th, 2014, @ (the actual world), 〈the Washington Monument, the Capitol Building,…〉〉
+In other words, Saul Kripke is the agent cA, Washington DC is the location cP, August 4th, 2014 is the time cT, the actual world is the world cW, and the sequence
+〈the Washington Monument, the Capitol Building,…〉
+is the sequence cD of demonstrata of c. Relative to c, the sentence “that1 is taller than that2” expresses the structured proposition
+〈TALLER-THAN, 〈the Washington Monument, the Capitol Building〉〉.
+This second treatment of demonstratives also avoids the problem of multiple occurrences, because in place of two occurrences of one demonstrative “that”, this theory has occurrences of two distinct terms: “that1” and “that2”. As a result, this theory is subject to an objection similar to that raised above to the treatment of demonstratives using “dthat”: it flies in the face of basic intuitions about the language. One apparently basic feature of English is that it contains a demonstrative pronoun “that” which can be used multiple times to refer to distinct objects. This is inconsistent with the claim that instead of a single demonstrative pronoun “that” there are infinitely many distinct subscripted pronouns “that1”, “that2”, and so forth.
+d. David Braun’s Context-Shifting Semantics for True Demonstratives
+(This section is more technical than the preceding.) An influential alternative to Kaplan’s two approaches to demonstratives is David Braun’s context-shifting theory of demonstratives. According to this theory, formal contexts include sequences of demonstrata (as on the second of Kaplan’s theories considered above), but formal contexts also include that Braun calls a focal demonstratum. The focal demonstratum of a context is simply one member of the sequence of demonstrata. An example of a formal context on Braun’s view would be
+〈Saul Kripke, Washington DC, August 4th, 2014, @, the Washington Monument, 〈the Washington Monument, the Capitol Building,…〉〉.
+This formal context differs from the example above only in that the Washington Monument occurs twice: once as a member of the sequence of demonstrata, and once as the focal demonstratum.
+Braun then proposes that the meaning of a demonstrative “that” has two parts. One of these parts is its character. For Braun, the character of “that” is a function that for any context c returns the focal demonstratum of c. The second part of the meaning of “that” is a function that shifts the context in a systematic way: on Braun’s view, the result of applying this function to a context c whose focal demonstratum is the i-th member of the sequence of demonstrata is a context whose focal demonstratum is the i+1-th member of the sequence of demonstrata.
+So on Braun’s view, the demonstrative “that” is associated with two functions, each of which applies to the formal contexts of the semantic theory, but which yield very different outputs. The character of “that”, which we can abbreviate as “chthat”, is a function that when applied to a context returns a particular parameter of that context—the focal demonstratum. The shifting function of “that”, which we can abbreviate as “shthat”, is a function that when applied to a context returns another context. Evaluating an occurrence of “that” relative to a context c thus involves two steps: in the first step, we apply the character chthat of “that” to c, to yield the content of the occurrence; in the second step, we apply the shifting function to c, to yield a new context shthat(c). The next occurrence of “that” (if there is one) is then evaluated relative to the new context shthat(c).
+Thus on Braun’s view, the proposition expressed by a sentence like (18) (reproduced below) relative to a context c is the proposition that follows it:
+(18)      That is taller than that
+〈TALLER-THAN, 〈chthat(c), chthat(shthat(c))〉〉
+On this proposal, the content of the first occurrence of “that” in (18) relative to c is just chthat(c)—the result of applying the character of “that” to c. The evaluation of the first occurrence of “that” in (18) then triggers the application of the shifting function. Thus the content of the second occurrence of “that” in (18) relative to c is chthat(shthat(c))—the result of applying the character of “that” to the context that results from applying the shifting function of “that” to c. The difference between a context c and shthat(c) is just a difference in the focal demonstratum. But the character of “that” (chthat) is a function that maps a context c to the focal demonstratum of c. Thus on Braun’s view, chthat(c) is the focal demonstratum of c, and chthat(shthat(c)) is the focal demonstratum of shthat(c). Thus on Braun’s view, the content of (18) relative to c is the proposition that predicates the relation TALLER-THAN of the focal demonstratum of c and the focal demonstratum of the result of applying the shifting function to c (in that order).
+An example will help to clarify the significance of Braun’s view. Suppose that c is the context
+〈Saul Kripke, Washington DC, August 4th, 2014, @, the Washington Monument, 〈the Washington Monument, the Capitol Building,…〉〉,
+where the Washington Monument is the focal demonstratum. Then shthat(c) is the context
+〈Saul Kripke, Washington DC, August 4th, 2014, @, the Capitol Building, 〈the Washington Monument, the Capitol Building,…〉〉,
+where the Capitol Building is the focal demonstratum. Now the proposition expressed by (18) relative to c is
+〈TALLER-THAN, 〈the Washington Monument, the Capitol Building〉〉.
+But (i) this is just the result that we want, and (ii) we have achieved this result without abandoning the idea that the meaning of an indexical or demonstrative is its character—a function from contexts to contents.
+5. Kaplan’s Logic of Indexicals
+In addition to the semantic theory for indexicals and demonstratives discussed above, Kaplan provides an account of the logical properties of indexicals. Kaplan’s logic has been just as influential as his semantic theory. Section 5a sketches the core idea of Kaplan’s logic in an informal way, and discusses two examples of logical truths in Kaplan’s system that have been the focus of some philosophical debate. Section 5b introduces the second semantic theory of indexicals attributed to Kaplan (see the introduction to section 3), and briefly discusses reasons most philosophers prefer the semantic theory introduced in section 3.
+a. The Core Idea of Kaplan’s Logic
+The core of Kaplan’s logic is the idea that a sentence containing indexicals is logically true if and only if the rules governing the meanings of its indexicals, plus the rules for the logical connectives, ensure that the sentence is true in every possible context, independently of the meanings of the non-logical expressions that occur in the sentence. A simple example is (21).
+(21) If I am fond of dogs, then I am fond of dogs.
+Since, in every context, the character of “I” will return the same individual in both places in the sentence where it occurs, the antecedent and consequent of (21) will have the same truth value in every context, and thus (21) will be true in every context.
+A more interesting example is the sentence
+(22) I am president if and only if, actually, I am president.
+To see that this sentence is true in every context, let us try to construct a context relative to which it is false. In virtue of the semantics for “if and only if”, this would require some context c such that (23) is false relative to c, while (24) is true relative to c (or vice versa):
+(23) I am president.
+(24) Actually, I am president.
+But reflection on the semantics for “Actually” shows that this cannot occur. If (24) is true relative to c, then (by the definition of truth relative to a context), the content of (24) relative to c is true at the circumstance cW of c. Given the semantics for “Actually” (see section 3d), this is the case if and only if the content of (23) relative to c is true at the circumstance cW of c. Since “Actually” shifts the circumstance of evaluation to the world of the context, it has no effect if the circumstance of evaluation already is the world of the context. But to say that the content of (23) relative to c is true at the circumstance cW of c is just to say that (23) is true relative to c. Thus, (24) is true relative to c if and only if (23) is true relative to c, no matter what context we take c to be.
+One reason for interest in this example is that while it is a logical truth, the sentence that results from prefacing it with the modal operator “Necessarily” is not a logical truth:
+Necessarily (I am president if and only if, actually, I am president).
+Relative to a context c, (25) is true if and only if for every world w, (22) is true relative to c and w (because “Necessarily” shifts the circumstance of evaluation). But (22) is true relative to c and w if and only if (23) and (24) are either both true or/and both false relative to c and w. Yet (24) is true relative to c and w if and only if (23) is true relative to c and cW (because “Actually” shifts the circumstance of evaluation back to the world of the context). Thus the logical truth of (25) turns on the following claim about (23): that its content relative to any context c has the same truth value at every circumstance of evaluation. Let c be a context such that cA is Barack Obama and cW is the actual world, and let w be a world in which Barack Obama never ran for president. Then (23) is true relative to c (the content of (23) relative to c is true at the circumstance of evaluation cW), but (23) is not true relative to c and w (because the content of (23) relative to c is not true at the circumstance of evaluation w).
+This result has two related interesting consequences: (i) the rule of necessitation fails in Kaplan’s logic. Necessitation is a rule of inference stating that if ϕ is a theorem of a logical system, then so is “Necessarily ϕ”. Necessitation is a standard rule of inference in modal logic, so its failure in Kaplan’s logic of indexicals is surprising. (ii) There are logical truths in Kaplan’s logic that are not necessarily true. In other words, some logical truths in Kaplan’s logic are contingent.
+The significance of the second of these consequences is a matter of debate. Kaplan suggests that examples like (22) are cases of contingent a priori claims: propositions that are knowable a priori but are merely contingent. Yet to argue directly from Kaplan’s example to this conclusion requires the further assumption that logical truths in Kaplan’s logic of indexicals express propositions that are knowable a priori. This is a very important topic in the contemporary philosophy of language. For more discussion, see Soames’ Reference and Description, especially Ch. 4.
+Another controversial example of a logical truth in Kaplan’s logic is (26):
+(26) I am here now.
+Kaplan argues that a logic of indexicals should do justice to the intuition that (26) is, in his words, “universally true”. This is another example of a sentence that is not necessarily true, even if it is true. Wherever Saul Kripke is located, if he utters (26), he says something true, but if Kripke were to utter “It is a necessary truth that I am here now”, he would say something false. He could have been somewhere else.
+Yet the status of (26) as a logical truth has proven controversial. The most common objection arises from considering various technologies that we use in communication. Early objections to Kaplan’s claim that (26) is a logical truth pointed to the use of sentences like (27) in recording messages for an answering machine:
+(27) I am not here now.
+Suppose an individual A records a message on an answering machine for their home phone that says “I am not here now. Please leave your name and phone number, and I will return your call as soon as I can”. Another individual B then calls A’s house when A is not at home, and the answering machine plays A’s recorded message. It does not seem as though there is anything false in A’s message. Yet if (26) is a logical truth, then (27) should be a logical falsehood. Thus, Kaplan’s claim that (26) is a logical truth seems to run afoul of everyday facts about language and communication. For an extended discussion of the significance of examples like this, see Predelli, Contexts.
+b. Kaplan’s Other Semantic Theory
+The model theory for Kaplan’s logic is a development of the model-theoretic semantics for modal logic introduced by Saul Kripke in the early 1960s. The key insight to Kripke’s semantics for modal logic was the introduction of possible worlds as indices relative to which expressions are assigned extensions (truth values in the case of formulas, objects in the case of singular terms, and sets of ordered n-tuples in the case of n-place predicates). In this framework, the intension of an expression is the function whose value for each possible world is the extension of the expression relative to that possible world. The intension of a sentence, for example, is a function from possible worlds to truth values, where for any world w, the value of the intension of s for the world w is the truth value of s relative to w.
+This allows us to assign to each sentence s a set of possible worlds at which s is true. For many philosophers, this set is an obvious and natural candidate for the proposition expressed by s. Extending this idea to Kaplan’s logic, the proposal is that the content of an expression relative to a context is an intension, and hence the proposition expressed by a sentence ϕ relative to a context c (in a model M) is just the set of possible worlds w (and times t, in Kaplan’s formal system), such that
+⊨Mcftw ϕ.
+Extending this idea further to Kaplan’s semantic theory for indexicals and demonstratives in English, the proposal is that the proposition expressed relative to a context in which Barack Obama is the agent by the sentence
+(31) I am flying
+is just the set of possible worlds at which it is true that Barack Obama is flying. Similarly, the intension of the singular term “I” relative to this context is the function whose value for any possible world w is just Barack Obama.
+This alternative semantic theory is suggested by some of Kaplan’s remarks in “Demonstratives,” and it is the theory that emerges from the formal semantics for the language LD spelled out above. The difference between this alternative semantic theory and the semantic theory attributed to Kaplan in section 3 is the subject of a great deal of contemporary controversy. At issue is the nature of propositions and meaning: according to the theory attributed to Kaplan in section 3, the proposition expressed by a sentence relative to a context is a structured, complex entity that includes as constituents the meanings, relative to the same context, of the words occurring in the sentence. According to the alternative semantic theory sketched immediately above, the proposition expressed by a sentence relative to a context has no such structure or constituents. It is a set of possible worlds.
+One reason to prefer the theory attributed to Kaplan in section 3 is that it is only on this theory that we can distinguish between singular terms that are directly referential, and singular terms that are rigid but not directly referential. On the alternative semantic theory sketched in this section, the content of a term relative to a context is an intension: a function from possible worlds to objects. The intension of a rigid designator relative to a context is just a constant function—a function that for any possible world returns the same object. The intension of a directly referential expression is just the same thing. Thus there is, on this alternative semantic theory, no difference in content between a directly referential expression that refers to an object o and a rigid, but not directly referential expression that refers to o. Thus on this alternative semantic theory, the following two terms have the same content relative to any context:
+(32) 3
+and
+(33) the natural number x such that x(x-1)(x-2) = x + ((x-1) + (x-2))
+Since both (32) and (33) rigidly designate the number three, the intension of each relative to a context is just the function that for any possible world returns the number three. Thus this alternative theory effaces two obvious differences between (32) and (33): one is a difference in structure, and the other is an intuitive difference between the fact that (32) serves merely to tag a particular number while the definite description (33) picks out the number three in virtue of a particular property of that number. Both of these differences are preserved in a semantic theory according to which propositions have structure that reflects the structure of the sentences expressing them.
+6. Objections to Kaplan’s Semantic Theory and Logic
+For the reasons immediately above, most philosophers prefer Kaplan’s semantic theory introduced in section 3 to the theory above based more strictly on Kaplan’s logic. The objections to Kaplan’s semantic theory that follow focus on the theory introduced in section 3.
+a. Objections to Direct Reference
+One of the consequences of Kaplan’s semantic theory noted in section 3e is that indexicals and demonstratives are directly referential: relative to a context, the content of an indexical is just the object that the indexical refers to relative to that context. As a result, for any context c relative to which two indexicals refer to the same thing, the two indexicals have the same content. It follows that two sentences that differ only in so far as one contains one of these indexicals where the other sentence contains the other indexical will express the same proposition relative to any context relative to which the two indexicals have the same content. Suppose, for example, that Saul Kripke sees an individual in a mirror, and gesturing toward the mirror utters (34) and (35):
+(34) I am Saul Kripke.
+(35) He is not Saul Kripke.
+It turns out, however, that Kripke is in fact seeing himself in the mirror, and so has referred to himself with “he”. Relative to this context, the two sentences that Kripke has uttered express the following propositions:
+〈IDENTITY, 〈Saul Kripke, Saul Kripke〉〉
+〈NEGATION, 〈IDENTITY, 〈Saul Kripke, Saul Kripke〉〉〉
+(Where IDENTITY is the relation of being the same thing as, and NEGATION is the property of being false (or not true).) The second of these propositions is just the negation of the first. Thus relative to the context of Kripke’s utterance, (34) and (35) express contradictory propositions. If Kripke’s utterances are indicative of Kripke’s beliefs, then it appears to follow that Kripke believes these two contradictory propositions. Yet it is implausible to think that Kripke, careful logician that he is, would believe two obviously contradictory propositions such as these. (For the beginning of a response, see section 4b.)
+A second objection to the thesis that indexicals and demonstratives are directly referential concerns the use of demonstrative pronouns “this” and “that” in complex noun phrases, such as “that dog chewing on a stick” or “this city”. Such phrases are usually called complex demonstratives. The standard Kaplanian view of complex demonstratives is that relative to a context c, (an occurrence of) the complex demonstrative “that F” refers to the object assigned to (the occurrence of) it by c, provided that the object satisfies the predicate F relative to c. Examples like (36) cast doubt on this consequence of Kaplan’s theory:
+(36) Every hiker of the John Muir Trail remembers that day they stood on the summit of Mt. Whitney.
+Sentence (36) contains a complex demonstrative “that day they stood on the summit of Mt. Whitney”. According to Kaplan’s theory, the content of this complex demonstrative relative to a context should be a particular day. Yet it is clear that the proposition expressed by (36) does not contain any particular day as a constituent. The proposition is not about any one particular day, but is instead about how each hiker remembers a different day. This is because the complex demonstrative contains a pronoun, “they”, which is bound by the quantifier phrase “every hiker of the John Muir Trail”.
+A third objection to the thesis that indexicals and demonstratives are directly referential also concerns complex demonstratives. This objection is based on the observation that there are uses of complex demonstratives where there is no intuitive reference at all. An example is an utterance of (37):
+(37) That first wolf that allowed itself to be domesticated did pretty well.
+The speaker of this utterance clearly has no particular wolf in mind of which it would be correct to say that the speaker is referring to that wolf. Rather, the speaker is making a general claim to the effect that whatever wolf first allowed itself to be domesticated did pretty well. Thus in this case, there is nothing associated with the speaker’s utterance—no gesture or appropriate intention—that could serve to fix the reference of the demonstrative “that first wolf that allowed itself to be domesticated”. A semantics for demonstratives according to which they are directly referential cannot account for this: if there is nothing to fix the reference of the speaker’s use of the demonstrative, then according to Kaplan’s theory, the speaker’s utterance should be defective, inviting from the audience the question “which wolf are you referring to”? But the speaker’s utterance is not defective. Kaplan’s theory does not have the resources to explain cases like this.
+b. Objections to Kaplan’s Treatment of Contexts
+A different source of worries about Kaplan’s theory is his treatment of contexts as sequences of parameters. On Kaplan’s view, a context c can be identified with the sequence
+〈cA, cP, cT, cW〉,
+where cA is what Kaplan calls the agent, cP the location, cT the time, and cW the world of the context, respectively. Indexicals have contents relative to these contexts. This treatment of contexts raises a problem for Kaplan’s semantic theory insofar as one of the basic goals of a semantic theory for a language like English is to determine constraints on what speakers of the language can use words and sentences of the language to strictly and literally say. The problem is how to apply Kaplan’s theory to actual and possible uses of language by speakers. Without some rule or principle that assigns formal contexts of Kaplan’s theory to uses of indexicals by speakers, Kaplan’s theory fails to achieve this basic goal of a semantic theory.
+An example of such a principle for assigning contexts to uses is what we can call the naïve view of contexts:
+For any utterance u of an indexical or sentence containing an indexical, the semantically relevant or semantically appropriate formal context for u is the sequence 〈cA, cP, cT, cW〉 such that cA is the speaker of u, cP is the location at which u occurs, cT is the time at which u occurs, and cW is the world in which u occurs.
+The naïve view yields the correct results for many uses of sentences containing indexicals. If David Kaplan arrives at a party at 8 PM on January 31, 1973, and utters “I am here now!”, what Kaplan has intuitively said is that he is at the party at the time of his utterance. The naïve view would assign to Kaplan’s utterance of this sentence the context
+〈David Kaplan, the location of the party, 8 PM on 1/31/1973, w〉.
+Relative to this context, the content of “I am here now” is the proposition that David Kaplan is at the location of the party at 8 PM on January 31, 1973. This is just what we take David Kaplan to have said. In this way, principles like the naïve view bridge the gap between the formal contexts of Kaplan’s semantic theory and actual and possible uses of indexicals in communication.
+One problem with the naïve view of contexts is that the nature of utterances is left underspecified. An example discussed earlier in the section on logic will help to illustrate the issue: if someone records “I am not here now” on their answering machine, and someone else later calls and hears this recorded message, what event counts as the utterance? Is it the act of recording the message, or the act of calling and triggering the replay of the message? Or the event of the replay of the message itself? Written messages generate similar questions. The issues raised by written notes and recorded messages are currently a topic of much debate in the philosophy of language. (For an extended discussion and references, see Predelli.)
+c. Objections to Kaplan’s Logic
+One final objection to Kaplan’s theory focuses on Kaplan’s logic. This objection focuses on Kaplan’s claims about the logical behavior of indexicals and demonstratives. According to Kaplan’s logic, an argument like (38) is valid, because the conclusion is true relative to any context relative to which the premise is true (trivially, since the premise and conclusion are the same):
+(38) It is quiet now; therefore, it is quiet now.
+Recall (from section 2e) that Kaplan argued against utterance-based theories precisely on the grounds that such theories predicted that arguments like this are invalid, because there are utterances of (38) in which the utterance of the premise is true, but the utterance of the conclusion false (if it turns suddenly very noisy halfway through the utterance of (38), for example).
+Yet some philosophers have argued for precisely the opposite conclusion: that examples like this show that Kaplan’s claims about the logic of indexicals are wrong. A valid argument should provide a kind of epistemic assurance that anyone who uses the argument in reasoning will never be led from truth to falsehood. Yet the example above of the use of (38) appears to show that there are cases in which one who uses (38) in reasoning can be led from truth to falsehood. Thus, (38) does not provide the kind of epistemic assurance that a valid argument should provide.
+The effect of this objection is potentially quite radical. If it is correct, then many arguments that at first glance appear to be valid are not valid. Exactly how radical the objection is depends in part on how widespread the phenomenon of indexicality is in natural language. Some philosophers, for example, have argued that quantifier phrases like “every sailor” are context-sensitive in a way very much like traditional indexicals like “I” or “now” are context-sensitive. If this is correct, and the objection currently under consideration holds, then the traditional syllogism (39) is invalid:
+(39) Every sailor is human; every human is a mammal; therefore, every sailor is a mammal.
+This objection to Kaplan’s logic thus has potentially far-reaching consequences. (For an example of a philosopher who embraces these consequences, see Yagisawa.)
+7. Alternatives to Kaplan’s Theory of Indexicals
+Recent work on the semantics of indexicals has seen a proliferation of alternatives to Kaplan’s theory. These alternatives usually take one of two forms: (i) theories that reject Kaplan’s appeal to contexts (as formal objects) altogether in favor of a token-reflexive (or utterance-reflexive) semantic treatment of indexicals, and (ii) theories that retain Kaplan’s formal apparatus of contexts and character but propose alternative hypotheses about the meanings of particular indexicals or demonstratives. This section presents the most influential current token-reflexive theory, before turning to a very brief sketch of a handful of alternatives that are within the Kaplanian framework (or something very much like it).
+a. John Perry’s Reflexive-Referential Theory
+The most developed utterance-based semantics for indexicals is currently John Perry’s “referential-reflexive” theory. The distinguishing feature of Perry’s theory is the suggestion that a single utterance u of a sentence like “I am hungry” is associated with several different kinds of content. Chief among these are (i) the referential content of u, and (ii) the reflexive content of u. In this way, Perry seeks to combine the insights of Reichenbach and Burks and the direct reference semantics of Kaplan into one theory of indexicals.
+To illustrate the difference between these two kinds of content, let u be an utterance of “I am hungry” by Saul Kripke. Then according to Perry, the referential content of u is the singular proposition that Saul Kripke is hungry. This is the same content that Kaplan’s theory would assign to the sentence relative to a formal context in which Kripke is the agent. But Perry also recognizes a distinct variety of content expressed by the utterance: the reflexive content of u is the proposition that the speaker of u is hungry. This is (roughly) the content that Reichenbach’s theory would assign to u.
+Perry’s theory is based on several subtle distinctions. The first is a distinction between different ways in which the environment of an utterance influences the interpretation of that utterance. Perry calls the environment in which an utterance occurs the context of the utterance, and distinguishes between two roles of context, which he calls “pre-semantic” and “semantic”. (It is important to recognize that Perry’s use of “context” is distinct from Kaplan’s—according to Kaplan, a context is a formal object of a semantic theory; according to Perry, a context is a complex situation that includes an utterance.) Pre-semantic uses of context involve using cues from the context of an utterance to resolve ambiguities, such as knowing whether a speaker who utters
+I saw her at the bank
+is talking about a financial institution or a riverside, or knowing whether a speaker who utters
+I saw her duck under the table
+is talking about someone’s attempt to dodge something or instead is talking about someone’s choice of pet. Thus, we use the context of an utterance pre-semantically in order to determine the structure and conventional meanings intended by the speaker of the utterance.
+Semantic uses of the context of an utterance include the interpretation of any indexicals uttered in the course of the utterance. Here Perry makes two further distinctions, one between different kinds of features of a context, and one between the different ways indexicals exploit these different features. The first of these is a distinction between what Perry calls narrow context and wide context. The narrow context of an utterance comprises constitutive features of the utterance. Perry takes these to be the agent, time, and location of the utterance. Changing any of these results in a different utterance. The wide context of an utterance is, in effect, everything else that might be relevant to the interpretation of the indexicals uttered in the utterance. One of Perry’s examples of a feature of wide context is the length of the space between a speaker’s hands when a speaker utters
+It was yea big.
+This is a feature of the context of the utterance that could be changed without resulting in a different utterance. Thus, it is not a component of the narrow context of the utterance. Features of wide context are thus optional in a way that features of narrow contexts are not: there are utterances in which a speaker does not indicate any length of space between his or her hands, but there is no utterance that does not take place at a certain time.
+The second distinction Perry makes in his account of semantic uses of context in the interpretation of indexicals is between kinds of indexicals. According to Perry, some indexicals are such that the referential content of an utterance of them is fixed automatically in the context of the utterance in virtue of their meanings. These are very much like Kaplan’s “pure indexicals”. The least controversial example of an automatic indexical in Perry’s theory is the first-person pronoun “I”. Another plausible candidate is the modal indexical “actually”, any utterance of which automatically picks out the world in which the utterance occurs.
+In contrast to automatic indexicals, Perry argues that some indexicals are such that the referential content of an utterance of them is determined in part by certain intentions with which the speaker of the utterance utters them. The clearest examples of such intentional indexicals are Kaplan’s true demonstratives: the demonstrative pronouns “this”, “that”, “these”, “those”, and “there”. But Perry also notes that the referential contents of certain utterances of “now” and “here” are fixed by the speakers’ intentions. An example is the use of “now” in an utterance of
+The summers are warmer now than they were ten years ago.
+The crucial observation here is that the referential content of “now” is a certain (perhaps not totally determinate) span of time, and the length of this span is determined by the speaker’s intentions.
+Yet it is also the case that the referential content of any utterance of “now” is constrained in such a way that the span of time to which the utterance refers must include the time of the utterance: a feature of the narrow context of the utterance. This illustrates how Perry’s two distinctions—narrow versus wide context, and automatic versus intentional indexicals—cross cut each other. The result is a fourfold classification of indexicals:
+NA      Narrow Context; Automatic Indexical:        “I”, “actually”
+NI        Narrow Context; Intentional Indexical:       “now”, “here”
+WA     Wide Context; Automatic Indexical:             “tomorrow”, “yea”
+WI       Wide Context; Intentional Indexical:            “this”, “that dog”, “there”
+The referential content of an utterance of an NA indexical is fixed automatically to some feature of the narrow context. The referential content of an utterance of an NI indexical is fixed by the intentions of the speaker of the utterance, but is constrained in some way by some feature of the narrow context. The referential content of an utterance of a WA indexical is fixed automatically to some feature of the wide context of the utterance. Finally, the referential content of an utterance of a WI indexical is fixed by the intentions of the speaker of the utterance, and only constrained, if at all, by whatever features of the wide context are determined by the speaker’s intentions.
+The reflexive content of an utterance of an indexical, on Perry’s theory, is roughly the content that encodes what a speaker who is competent with the indexical has to know about the utterance in virtue of which they are in a position to identify the referential content of the utterance. This is captured in the claim that the reflexive content of an utterance u of “I am hungry” is the descriptive proposition that the speaker of u is hungry. Anyone who overhears u is in a position to understand this reflexive content. But only someone who can identify the speaker of u is in a position to grasp the referential content of u. In this way, Perry attempts to revive Burks’s theory of the indexical meaning of a token (or utterance) as a theory of what a competent language user has to know in order to understand that token.
+b. Expression-Based Alternatives
+Recent work on the semantics of indexicals and demonstratives has led to a proliferation of alternative proposals. Many of these proposals focus on complex demonstratives (see section 6a). The challenge for theories of complex demonstratives is to accommodate both the examples that support Kaplan’s theory—according to which both simple and complex demonstratives are directly referential—and the examples (some of which were presented in section 6a) in which complex demonstratives behave in ways inconsistent with Kaplan’s theory.
+One way to meet the challenge of the range of examples is to propose that complex demonstratives are ambiguous. On this view, it is possible to maintain that the examples of complex demonstratives that support Kaplan’s theory are cases of direct reference, while the other examples are cases in which the complex demonstratives in question have a different semantics. One advantage to such a theory is that it preserves the theoretical elegance and intuitive appeal of Kaplan’s treatment of standard referential uses of complex demonstratives. One disadvantage of such a theory is that positing an ambiguity is often thought of as a cheap solution to a problem. Thus, any philosopher or linguist who wants to defend an ambiguity theory of this sort has to argue that the ambiguity is well-motivated, and not simply a response to recalcitrant examples. (For further discussion of ambiguity theories, see Georgi, 2012.)
+A different way to meet the challenge posed by the range of uses of complex demonstratives is to argue that some set of these uses reveals the true semantic nature of complex demonstratives, and then show how to explain the other uses within the framework of the proposed semantics. Two recent proposals along these lines are due to Jeffrey C. King and to David Braun. According to King, the uses of complex demonstratives discussed in section 6a show that complex demonstratives are not directly referential at all. On King’s view, complex demonstratives are quantifiers, like “every dog”, or “some homemade cookie”. The key semantic feature of quantifiers is that their content, relative to a context, is not an object or individual. Rather, the content of a quantifier relative to a context is itself a structured, complex entity, whose components are the contents of the expressions that occur within the quantifier. King defends an elaborate theory of the quantificational meanings of complex demonstratives, and shows how this theory accommodates a wide range of linguistic data.
+In contrast to King’s theory, David Braun defends a traditional Kaplanian treatment of complex demonstratives as directly referential. On Braun’s view, the uses of complex demonstratives in section 6a that appear to conflict with Kaplan’s theory can be explained on pragmatic grounds: they are cases in which what a speaker means goes above and beyond what the speaker strictly and literally says. This allows Braun to maintain Kaplan’s theory, and to explain the apparently conflicting data, while rejecting the claim that complex demonstratives are ambiguous.
+8. References and Further Reading
+
+Bach, Kent. 1992. “Intentions and Demonstrations.” Analysis, 52(3): 140–146.
+
+Bach defends the view that demonstrative reference is fixed by the speaker’s referential intentions.
+
+
+Braun, David. 1996. “Demonstratives and Their Linguistic Meanings.” Noûs, 30(2): 145–173.
+
+This paper is the source of the influential context-shifting semantic theory of demonstratives.
+
+
+Braun, David. 2008. “Complex Demonstratives and Their Singular Contents.” Linguistics and Philosophy, 31: 57–99.
+
+Braun defends a direct reference semantics for complex demonstratives from the objections raised by Jeff King and others.
+
+
+Burks, Arthur W. 1949. “Icon, Index, and Symbol.” Philosophy and Phenomenological Research, 9(4): 673–689.
+
+Burks provides both an insightful discussion of Peirce’s original remarks on indexicals and a sophisticated theory of their meaning.
+
+
+García-Carpintero, Manuel. 1998. “Indexicals as Token-Reflexives.” Mind, 107: 529–563.
+
+García-Carpintero presents a careful analysis of token-reflexive views of indexicals and defends them from several influential objections.
+
+
+Georgi, Geoff. 2012. “Reference and Ambiguity in Complex Demonstratives.” In William P. Kabasenche, Michael O’Rourke, and Matthew H. Slater (eds), Reference and Referring: Topics in Contemporary Philosophy, v.10. Cambridge, MA: MIT Press, pp. 357–384.
+
+Georgi defends a view of complex demonstratives according to which they are ambiguous between referential and non-referential readings.
+
+
+Kamp, Hans. 1971. “Formal Properties of ‘Now.’” Theoria, 37: 237–273.
+
+Kamp’s paper is an early and influential discussion of double-indexing, or two-dimensional semantics, as applied to natural languages.
+
+
+Kaplan, David. 1989a. “Demonstratives.” In Joseph Almog, John Perry, and Howard Wettstein (eds), Themes from Kaplan. New York: Oxford University Press, pp. 481–563.
+
+Kaplan’s most influential work on demonstratives. Its subtitle says it all: “an essay on the semantics, logic, metaphysics, and epistemology of demonstratives and other indexicals.”
+
+
+Kaplan, David. 1989b. “Afterthoughts.” In Joseph Almog, John Perry, and Howard Wettstein (eds), Themes from Kaplan. New York: Oxford University Press, pp. 565–614.
+
+Kaplan provides further reflection on some of the main themes of “Demonstratives.”
+
+
+King, Jeffrey C. 2001. Complex Demonstratives. Cambridge, MA: MIT Press.
+
+King presents several powerful criticisms of Kaplan’s direct reference semantics for complex demonstratives, and defends an alternative semantic theory according to which complex demonstratives are context-sensitive quantifiers.
+
+
+Kripke, Saul. 1980. Naming and Necessity. Cambridge, MA: Harvard University Press.
+
+Kripke argues against descriptivist theories of the meaning and reference of proper names and natural kind terms, along the way introducing the definition of rigid designation.
+
+
+Perry, John. 1977. “Frege on Demonstratives.” The Philosophical Review, 86(4): 474–497.
+
+Perry argues that indexicals and demonstratives pose a puzzle for the Fregean theory of meaning as sense.
+
+
+Perry, John. 1979. “The Problem of the Essential Indexical.” Noûs, 13(1): 3–21.
+
+Perry offers several influential examples in support of the view that indexicals play a privileged role in epistemology.
+
+
+Perry, John. 2001. Reference and Reflexivity. Stanford, CA: CSLI Publications.
+
+Perry presents a sophisticated token-reflexive alternative to Kaplan’s semantic theory that contains many insights into the behavior of indexicals.
+
+
+Predelli, Stefano. 2005. Contexts. Oxford: Clarendon Press.
+
+Predelli investigates the philosophical foundations of the second kind of semantic theory attributed to Kaplan.
+
+
+Reichenbach, Hans. 1947. Elements of Symbolic Logic. New York: Macmillan.
+
+The book contains the original statement of the view that indexicals are token-reflexives.
+
+
+Reimer, Marga. “Do Demonstrations Have Semantic Significance?” Analysis, 51(4): 177–183.
+
+Reimer argues that the reference of a use of a demonstrative is fixed by the associated demonstration (or gesture).
+
+
+Salmon, Nathan. 2002. “Demonstrating and Necessity.” The Philosophical Review, 111(4): 497–537.
+
+Salmon argues for an alternative treatment of demonstratives within Kaplan’s semantic framework, according to which demonstrations are included in the context.
+
+
+Salmon, Nathan. 2005. Reference and Essence, 2nd Edition. Amherst, NY: Prometheus Books.
+
+Salmon investigates the relationship between the theory of direct reference in semantics and essentialism in metaphysics.
+
+
+Schlenker, Philippe. 2003. “A Plea for Monsters.” Linguistics and Philosophy, 26: 29–120.
+
+Schlenker presents data supporting the existence of monsters in natural language—specifically in propositional attitude reports—and offers a semantic theory that accommodates these data.
+
+
+Soames, Scott. 2002. Beyond Rigidity. Oxford: Oxford University Press.
+
+Soames attempts to consolidate the lessons of Kripke’s Naming and Necessity. Chapter 2 includes a sophisticated discussion of rigid designation and its significance for Kripke’s arguments against descriptivism about proper names.
+
+
+Soames, Scott. 2005. Reference and Description. Princeton: Princeton University Press.
+
+Soames presents an analysis and criticism of the approach to meaning called “two-dimensional semantics”, including a careful discussion of Kaplan’s logic and semantics of indexicals.
+
+
+Yagisawa, Takashi. 1993. “Logic Purified.” Noûs, 27(4): 470–486.
+
+Yagisawa applies the techniques of Kaplan’s logic to more natural uses of language.
+
+
+
+ 
+Author Information
+Geoff Georgi
+Email: Geoff.Georgi@mail.wvu.edu
+West Virginia University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

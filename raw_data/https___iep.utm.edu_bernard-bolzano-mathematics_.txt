@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+Bolzano, Bernard: Mathematical Knowledge | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bernard Bolzano: Philosophy of Mathematical Knowledge
+In Bernard Bolzano’s theory of mathematical knowledge, properties such as analyticity and logical consequence are defined on the basis of a substitutional procedure that comes with a conception of logical form that prefigured contemporary treatments such as those of Quine and Tarski. Three results are particularly interesting: the elaboration of a calculus of probability, the definition of (narrow and broad) analyticity, and the definition of what it is for a set of propositions to stand in a relation of deducibility (Ableitbarkeit) with another. The main problem with assessing Bolzano’s notions of analyticity and deducibility is that, although they offer a genuinely original treatment of certain kinds of semantic regularities, contrary to what one might expect they do not deliver an account of either epistemic or modal necessity. This failure suggests that Bolzano does not have a workable account of either deductive knowledge or demonstration. Yet, Bolzano’s views on deductive knowledge rest on a theory of grounding (Abfolge) and justification whose role in his theory is to provide the basis for a theory of mathematical demonstration and explanation whose historical interest is undeniable.
+Table of Contents
+
+His Life and Publications
+The Need for a New Logic
+Analyticity and Deducibility
+Grounding
+Objective Proofs
+Conclusion
+References and Further Reading
+
+1. His Life and Publications
+Bernard Placidus Johann Nepomuk Bolzano was born on 5 October 1781 in Prague. He was the son of an Italian art merchant and of a German-speaking Czech mother. His early schooling was unexceptional: private tutors and education at the lyceum. In the second half of the 1790s, he studied philosophy and mathematics at the Charles-Ferdinand University. He began his theology studies in the Fall of 1800 and simultaneously wrote his first mathematical treatise. When he completed his studies in 1804, two university positions were open in Prague, one in mathematics, the other one in the “Sciences of the Catholic Religion.” He obtained both, but chose the second: Bolzano adhered to the Utilitarian principle and believed that one must always act, after considering all possibilities, in accordance with the greater good. He was hastily ordained, obtained his doctoral degree in philosophy and began work in his new university position in 1805. His professional career would be punctuated by sickness—he suffered from respiratory illness—and controversy. Bolzano’s liberal views on public matters and politics would serve him ill in a context dominated by conservatism in Austria. In 1819, he was absurdly accused of “heresy” and subjected to an investigation that would last five years after which he was forced to retire and banned from publication. From then on, he devoted himself entirely to his work.
+Bolzano’s Considerations on Some Objects of Elementary Geometry (1804) received virtually no attention at the time they were published and the few commentators who have appraised his early work concur in saying that its interest is merely historical. (Russ 2004, Sebestik 1992; see also Waldegg 2001). Bolzano’s investigations in geometry did not anticipate modern axiomatic approaches to the discipline–he was attempting to prove Euclid’s parallel postulate–and did not belong to the trend that would culminate with the birth of non-Euclidean geometries, the existence of which Bolzano’s contemporary Johann Carl Friedrich Gauss (1777-1855) claimed to have discovered and whose first samples were found in the works of Nikolai Lobatchevski (1792-1856) and Janos Bolyai (1802-1860), whom Bolzano did not read. (See Sebestik 1992, 33-72 for a discussion of Bolzano’s contribution to geometry; see also Russ 2004, 13-23). As Sebestik explains (1992, 35 note), Bolzano never put into question the results to which he had come in (1804).
+By contrast, Bolzano is renown for his anticipation of significant results in analysis. Three booklets that appeared in 1816-17 have drawn the attention of historians of mathematics, one of which, the Pure Analytic Proof, was reedited in 1894 and 1905. (Rusnock 2000, 56-86; 158-198) At the time of their publication however they attracted hardly any notice. Only one review is known (see Schubring 1993, 43-53). According to (Grattan-Guiness 1970), Cauchy would have plagiarized (Bolzano 1817a) in his Cours d’Analyse, but this hypothesis is disputed in (Freudenthal 1971) and (Sebestik 1992, 107ff). This might explain why Bolzano chose to resume the philosophical and methodological investigations he had initiated in the Contributions to a Better Founded Exposition of Mathematics (1810) a decade earlier. At the end of the 1830s, after he had worked out the logical basis for his system in the Theory of Science (1837), Bolzano returned once more to mathematics and spent the last years of his life working on the Theory of Quantities. The latter remained unpublished until after his death, and only excerpts appeared in print in the 19th century, most notably the Paradoxes of the Infinite (1851). The Theory of Function (1930) and the Pure Theory of Numbers (1931) were edited by the Czech mathematician Karel Rychlik and published in 1930 and 1931 respectively by a commission from the Royal Bohemian Academy of Science. All these works have now been translated into English (See Russ 2004).
+2. The Need for a New Logic
+Bolzano understood the main obstacle to the development of mathematics in his time to be the lack of proper logical resources. He believed syllogistic (that is, traditional Aristotelian logic) was utterly unfit for the purpose. He saw the task of the speculative part of mathematics that belongs at once to philosophy as consisting in providing a new logic following which a reform of all sciences should take place. As Bolzano conceived of it, philosophy of mathematics is one aspect of a more general concern for logic, methodology, the theory of knowledge, and, in general, the epistemological foundation of deductive sciences, “purely conceptual disciplines” as Bolzano calls them, that unfolds throughout his mathematical work and forms the foremost topic of his philosophy. The latter falls in two phases. The period of the Contributions, which extends throughout the 1810s, and the period of the Theory of Science, which was written in the course of the 1820s and published anonymously in 1837. In the Contributions, Bolzano’s undertaking remained largely programmatic and by no means definitive. By the time he was writing the Theory of Science he had revised most of his views, such as those of the multiple copula, analyticity and necessity. (See Rusnock 2000, 31-55, for discussion.) Nonetheless, the leitmotiv of Bolzano’s mature epistemology already comes through in 1810, namely his fundamental disagreement with the “Kantian Theory of Construction of Concepts through Intuitions” to which he devoted the Appendix of the Contributions. (See Rusnock 2000, 198-204 for an English translation; see also Russ 2004, 132-137). In this, Bolzano can be seen to have anticipated an important aspect of later criticisms of Kant, Russell’s for instance (1903  §§ 4, 5, 423, 433-4). As Bolzano saw it, an adequate account of demonstration excludes appeal to non-conceptual inferential steps, intuitions or any other proxy for logic.
+In the Theory of Science, Bolzano’s epistemology of deductive disciplines is based on two innovations. On the one hand, properties such as analyticity or deducibility (Ableitbarkeit) are defined not for thoughts or sentences but for what Bolzano conceives to be the objective content of the former and the meaning of the latter and which he calls “propositions in themselves” (Sätze and sich) or “propositions.” On the other hand, properties such as analyticity and deducibility are “formal” in that they are features of sets of propositions defined by a fixed vocabulary; they come to the fore through the application of a substitution method that consists in arbitrarily “varying” determinate components in a proposition so as derive different types of semantic regularities.
+3. Analyticity and Deducibility
+Bolzano’s theory of analyticity is a favored topic in the literature. (Cf. Bar-Hillel 1950; Etchemendy 1988; Künne 2006; Lapointe 2000, 2008; Morscher 2003; Neeman 1970; Proust 1981, 1989; Textor 2000, 2001) This should be no surprise. For one thing, by contrast to the Kantian definition, Bolzano’s allows us to determine not only whether a grammatical construction of the form subject-predicate is analytic, as Kant has it, but whether any construction is analytic or not. This includes hypotheticals, disjunctions, conjunctions, and so forth, but also any proposition that presents a syntactic complexity that is foreign to traditional (that is, Aristotelian) logic. Analyticity is not tied to any “syntactic” conception of “logical form.” It is a relation pertaining to the truth of propositions and not merely to their form or structure. Let ‘Aij…(S)’ stand for “The proposition S is analytic with respect to the variable components i, j…”
+Aij…(S) iff:
+(i)   i, j, … can be varied so as to yield at least one objectual substitution instance of S
+(ii) All substitution instances of S have the same truth-value as S
+where a substitution instance is “objectual” if the concept that is designated by the subject has at least one object. On this account, propositions can be analytically true or analytically false.
+Although the idea that analyticity should be defined on the basis of a purely semantic criterion is in itself a great anticipation, Bolzano’s conception of analyticity fails in other respects. For one, it does not provide an account of what it means for a proposition to be true by virtue of meaning alone and to be knowable as such.  “… is analytic with respect to …” is not a semantic predicate of the type one would expect, but is a variable holding operator. A statement ascribing analyticity to a given propositional form, say “X who is a man is mortal” if it is true, is true because every substitution instance of “X who is a man is mortal” that also has objectuality is true. Bolzano’s definition of analyticity offers a fairly clear description of substitutional quantification — to say that a propositional form is analytic is to say that all its substitution instances are true. Yet because he deals not primarily with sentences and words but with their meaning, that is, with ideas and propositions in themselves, and because there is at least one idea for every object, there is in principle a “name” for every object. For this reason, although Bolzano’s approach to quantification is substitutional, he is not liable to the reproach that his interpretation of the universal quantifier cannot account for every state of the world. The resources he has at his disposal are in principle as rich as necessary to provide a complete description of the domain the theory is about.
+Bolzano’s epistemology rests on a theory of logical consequence that is twofold: an account of truth preservation that is epitomized in his notion of “deductibility” (Ableitbarkeit) on the one hand (See Siebel 1996, 2002, 2003; van Benthem 1985, 2003; Etchemendy 1990), and an account of “objective grounding” (Abfolge) on the other (see Tatzel 2002, 2003; see also (Thompson 1981; Corcoran 1975). The notion of deducibility presents a semantic account of truth-preservation that is neither trivial nor careless. The same holds for his views on probability. Likewise his attempt at a definition of grounding constitutes the basis of an account of a priori knowledge and mathematical explanations whose interest has been noticed by some authors, and in some cases even vindicated (Mancosu 1999).
+As Bolzano presents it, although analyticity is defined for individual propositional forms, deducibility is a property defined for sets of those forms. Let “Dij…(T’ T’, T’’, … ; S, S’, S’’, …)” stand for “The set of propositions T’ T’, T’’ is deducible from the set of propositions S, S’, S’’ with respect to i, j,….” Bolzano defines deducibility in the following terms:
+Dij…(T’ T’, T’’, … ; S, S’, S’’, …) iff
+(i)         i, j, … can be varied so as to yield at least one true substitution instance of S, S’, S’’, … and T, T’, T’’, …
+(ii)        whenever S, S’, S’’… is true, T, T’, T’’,… is also true.
+Bolzano’s discussion of deducibility is exhaustive. It extends over thirty-six paragraphs, and he draws a series of theorems from his definition. The most significant theorems are the following:
+
+¬(Aij…(T, T’, T’’…; S, S’, S’’) → Aij…(S, S’, S’’…; T, T’, T’’…,) (asymmetry)
+
+
+(Aij…(T, T’, T’’…; S, S’, S’’) & Aij…(R, R’, R’’…; T, T’, T’’…) → (Aij…(R, R’, R’’…; S, S’, S’’…) (transitivity)
+
+In addition, assuming that the S, S’, S’’…, share at least one variable that make them all true at the same time, then:
+
+Aij…( S, S’, S’’…; S, S’, S’’) (reflexivity)
+
+As regard reflexivity, the assumption that the S, S’, S’’… must share at least one variable follows from the fact that every time S, S’, S’’… contain a falsehood S that does not share at least one variable idea i, j, with the conclusion T, T’, T’’,…, then there are no substitution that can make both the premises and the conclusion true at the same time, and the compatibility constraint is not fulfilled.
+On Bolzano’s account, fully-fledged cases of deducibility include both formally valid arguments as well as materially valid ones, for instance:
+Caius is rational
+is deducible with respect to ‘Caius’, ‘man’ and ‘rational’ from
+Caius is a man
+Men are rational
+and
+Caius is rational
+is deducible with respect to ‘Caius’ from
+Caius is a man.
+There is a sharp distinction to be drawn between arguments of the former kind and arguments of the latter. Assuming a satisfactory account of logical form, in order to know that the conclusion follows from the premises in arguments of the former kind one only needs to consider their structure or form; no other kind of knowledge is required. In the latter argument however in order to infer from the premise to the conclusion, one must know more than its form. One also needs to understand the signification of ‘man’ and ‘rational’ since in order to know that Caius is rational one also needs to know in addition to the fact that Caius is a man that all men are rational. There is good evidence that Bolzano was aware of some such distinction between arguments that preserve truth and arguments that do so in virtue of their “form.” Unfortunately, Bolzano’s definition of deducibility does not systematically uphold the distinction. Since deducibility applies across the board to all inferences that preserve truth from premises to conclusion with respect to a given set of ideas, it does not of itself guarantee that an argument be formally valid and the notion of deducibility turns out to be flawed: it makes it impossible to extend our knowledge in the way we would expect it. If we know, for instance, that all instances of modus ponens are logically valid, we can infer from two propositions whose truth we’ve recognized:
+If Caius is a man, then he is mortal
+Caius is a man
+a new proposition:
+Caius is mortal
+whose truth we might not have previously known. Bolzano’s account of deducibility does not allow one to extend one’s knowledge in this way since in order to know for every substitution instance that truth is preserved from the premises to the conclusion one has to know that the premises are true and that the conclusion is true.
+On Bolzano’s account, in order for a conclusion to be deducible from a given set of premises, there must be at least one substitution that makes both the premises and the conclusion true at once. He calls this the “compatibility” (Verträglichkeit) condition, a requirement that is not reflected in classical conceptions of consequence. As a result, Bolzano’s program converges with many contemporary attempts at a definition of non-classical notions of logical consequence. Given the compatibility condition, although a logical truth may follow from any (set of) true premises (with respect to certain components), nothing as opposed to everything is deducible from a contradiction. The compatibility condition invalidates the ex contradictio quod libet or explosion principle. The reason for this is that no substitution of  ‘p’ in “‘q’ is deducible from ‘p and non-p’’ can fulfil the compatibility constraint; no interpretation of ‘p’ in ‘p and non-p’ can yield a true variant and hence there are no ideas that can be varied so as to make both the premises and the conclusion true at once. This has at least two remarkable upshots. First, the compatibility constraint invalidates the law of contraposition. Whenever one of S, S’, S’’… is analytically true, when all their substitution instances are true, we cannot infer from:
+Dij…(T’ T’, T’’, … ; S, S’, S’’, …)
+to
+Dij…(¬S, ¬S’, ¬S’’, …; ¬T, ¬T’, ¬T’’…)
+since ‘¬S, ¬S’, ¬S’’’ entails a contradiction, that is, an analytically false proposition. For instance,
+Caius is a physician who specializes in the eyes
+is deducible from
+Every ophthalmologist is an ophthalmologist
+Caius is an ophthalmologist
+with respect to ‘ophthalmologist’. However,
+It is not the case that every ophthalmologist is an ophthalmologist
+It is not the case that Caius is an ophthalmologist
+are not deducible with respect to the same component from:
+It is not the case that Caius is a physician who specializes in the eyes.
+Second, the compatibility condition makes Bolzano’s logic nonmonotonic. Whenever the premise added contains contradictory information, the conclusion no longer follows. While compatibility does not allow him to deal with all cases of defeasible inference, it allows Bolzano to account for cases that imply typicality considerations. It is typical of crows that they be black. Hence from the fact that x is a crow we can infer that x is black. On Bolzano’s account adding a premise that describes a new case that contradicts previous observation, say that this crow is not black, the conclusion no longer follows since the inference does not fulfil the compatibility condition: no substitution can make both the premises and the conclusion true at the same time.
+At many places Bolzano suggests that deducibility is a type of probabilist inference, namely the limit case in which the probability of a proposition T relative to a set of premises S, S’, S’’… = 1. Bolzano also calls inferences of this type  “perfect inference.” More generally, the value of a probability inference from S, S’, S’’, … to T with respect to a set of variable ideas i, j,… is determined by comparing the number of cases in which the substitution of i, j,… yields true instances of both S, S’, S’’… and T, to the number of cases in which S, S’, S’’,… are true (with respect to i, j,…). Let’s assume that Caius is to draw a ball from a container in which there are 90 black and 10 white and that the task is to determine the degree of probability of the conclusion “Caius draws a black ball.” On Bolzano’s account, in order to determine the probability of the conclusion one must first establish the number n of admissible substitution instances K1, K2, …, Kn of the premise “Caius draws a ball” with respect to ‘ball.’ The number n of acceptable substitution instances of the premise is in general a function of the following considerations: (i) the probability of each of K1, K2, …, Kn is the same; (ii) only one of K1, K2, …, Kn can be true at once; (iii) taken together, they exhaust all objectual substitution instances of the premise. In this case, since there are 100 balls in the container, there are only 100 admissible substitution instances of the premise, namely K1: “Caius draws ball number 1,” K2: “Caius draws ball number 2,”…, K100: “Caius draws ball number 100.” If the set of K1, K2, …, Kn = k and the number of cases in which “Caius draw a black ball” is deducible from “Caius draws a ball” is m, then the probability m of “Caius draws a black ball” is the fraction m/k = 90/100 = 9/10. In the case of deducibility the number of cases in which the substitution yields both true variants of the premises and the conclusion is identical to the number of true admissible variants of the premises, that is, m = 1. If there is no substitution that makes both the premises and the conclusion true at the same time, then the degree of probability of the conclusion is 0, that is, the conclusion is not deducible from the premises.
+4. Grounding
+Bolzano did not think that his account of truth preservation exhausted the topic of inference since it does not account for what is specific to knowledge we acquire in mathematics. Such knowledge he considered to be necessary and a priori, two qualities relations that are defined on the basis of the substitutional method do not have. Bolzano called “grounding” (Abfolge) the relation that defines structures in which propositions relate as grounds to their consequences. As Bolzano conceived of it, my knowing that ‘p’ grounds ‘q’ has explanatory virtue: grounding aims at epitomizing certain intuitions about scientific explanation and seeks to explain, roughly, what, according to Bolzano, the truly scientific mind ought to mean when, in the conduct of a scientific inquiry, she uses the phrase “…because…” in response the question “why …?” Since in addition the propositions that pertain to “grounding” orders such as arithmetic and geometry are invariably true and purely conceptual, then grasping the relations among propositions in the latter invariably warrants knowledge that does not rest on extra-conceptual resources, a move that allowed Bolzano to debunk the Kantian theory of pure intuition.
+Bolzano’s notion of grounding is defined by a set of distinctive features. For one thing, grounding is a unique relation: for every true proposition that is not primitive, there is a unique tree-structure that relates it to the axioms from which it can be deduced. That there is such a unique objective order is an assumption on Bolzano’s part that is in many ways antiquated, but it cannot be ignored. Uniqueness follows from two distinctions Bolzano makes. On the one hand, Bolzano distinguishes between simple and complex propositions: a ground (consequence) may or may not be complex. A complex ground is composed of a number of different truths that are in turn composed of a number of different primitive concepts. On the other hand, Bolzano distinguishes between the complete ground or consequence of a proposition and the partial ground or consequence thereof. On this basis, he claims that the complete ground of a proposition is never more complex than is its complete consequence. That is, propositions involved in the complete ground of a proposition are not composed of more distinct primitive concepts than is the complete consequence. Given that Bolzano thinks that the grounding order is ultimately determined by a finite number of simple concepts, this restriction implies that the regression in the grounding order from a proposition to its ground is finite. Ultimately, the regression leads to true primitive propositions, that is, axioms whose defining characteristic is their absolute simplicity.
+Note that the regression to primitive propositions is not affected by the fact that the same proposition may appear at different levels of the hierarchy. Although the grounding order is structured vertically and cannot have infinitely many distinct immediate antecedents, in order to conduct basic inductive mathematical demonstration the horizontal structure needs on its part to allow for recursions. Provided that the recurring propositions do not appear on the same branch of the tree, Bolzano is in a position to avoid loops that would make it impossible to guarantee that we ever arrive at the primitive propositions or that there be primitive propositions in the first place.
+Bolzano draws a distinction between cases in which what we have is the immediate ground for the truth of a proposition and cases in which the ground is mediated (implicitly or explicitly) by other truths. When Bolzano speaks of grounding, what he has in mind is invariably immediate grounding, and he understands the notion of mediate grounding as a derivative notion. It is the transitive closure of the more primitive notion of immediate grounding. p is the mediate consequence of the propositions Ψ1, …, Ψn if and only if there is a chain of immediate consequences starting with Ψ1, …, Ψn and ending with p. p is the immediate consequence of Ψ1, …, Ψn if there are no intermediate logical step between Ψ1, …, Ψn and p.
+Grounding is not reflexive. p cannot be its own ground, whether mediate or immediate. The non-reflexive character of grounding can be inferred from its asymmetry, another of Bolzano’s assumption. If grounding were reflexive, then the truth that p could be grounded on itself, but given that if p grounds q it is not the case that q grounds p, this would imply a contradiction since, by substitution p could at once ground itself and not ground itself. Irreflexivity allows Bolzano to deny the traditional tenet according to which some propositions such as axioms are grounded in themselves. Bolzano explains that this is a loose way of talking, that those who maintain this idea are unaware of the putative absurdity of saying that a proposition is its own consequence and that the main motivation behind this claim is the attempt to maintain, unnecessarily, the idea that every proposition has a ground across the board. According to Bolzano however, the ground for the truth of a primitive proposition does not lie in itself but in the concepts of which this proposition consists.
+One important distinction to be made between deducibility and grounding, as Bolzano conceives of them, rests in the fact that while grounding is meant to support the idea that a priori knowledge is axiomatic, that there are (true) primitive, atomic propositions from which all other propositions in the system follow as consequences, deducibility does not have such implication. Whether a proposition q is deducible from another proposition p is not contingent on q’s being ultimately derivable from the propositions from which p is derivable. That “Caius is mortal” is deducible from “Caius is a man” can be established independently of the truth that Caius is a finite being. Likewise, the possibility that deducibility be a special case of grounding is unacceptable for Bolzano. Not all cases of deducibility are cases of grounding. For instance,
+It is warmer in the summer than in the winter
+is deducible from
+Themometers, if they function properly, are higher in the summer than in the winter
+but it is not an objective consequence of the latter in Bolzano’s sense. On the contrary, the reason why thermometers are higher in the summer is that it is warmer so that, in the previous example, the order of grounding is reversed. There are cases in which true propositions that stand in a relation of deducibility also stand in a relation of grounding, what Bolzano calls “formal grounding.” It is not difficult to see what could be the interest of the latter. Strictly speaking, in an inference that fits both the notion of grounding and that of deducibility, the conclusion follows both necessarily (by virtue of its being a relation of grounding) and as a matter of truth preservation (by virtue of its being an instance of deducibility) from the premises. Formal grounding however presents little interest: it is not an additional resource of Bolzano’s logic but a designation for types of inferences that present the specificity of suiting two definitions at once: I can only know that an inference fits the definition of formal grounding if I know that it fits both that of grounding and that of deducibility. Once I know that it fits both, to say that it is a case of formal grounding does not teach me much I did not already know.
+It could be tempting to think that grounding is a kind of deducibility, namely the case in which the premises are systematically simpler than the conclusion. Bolzano suggests something similar when he claims that grounding might not, in the last instance, be more than an ordering of truths by virtue of which we can deduce from the smallest number of simple premises, the largest possible number of the remaining truths as conclusion. This would require us however to ignore important differences between deducibility and grounding. When I say that “The thermometer is higher in the summer” is deducible from “It is warmer in the summer,” I am making a claim about the fact that every time “It is warmer in X” yields a true substitution instance, “The thermometer is higher in X” yields one as well. When I say that “The thermometer is higher in the summer” is grounded in “It is warmer in the summer” I am making a claim about determinate conceptual relations within a given theory. I am saying that given what it means to be warmer and what it means to be a thermometer, it cannot be the case that it be warm and that the thermometer not be high. Of course the theory can be wrong, but assuming that it is true, the relation is necessary since it follows from the (true) axioms of the theory. In this respect, a priori knowledge can only be achieved in deductive disciplines when we grasp the necessary relations that subsist among the (true and purely conceptual) propositions they involve. If I know that a theorem follows from an axiom or a set of them, I know so with necessity.
+5. Objective Proofs
+Bolzano’s peculiar understanding of grounding is liable to a series of problems,  both exegetical and theoretical. Nonetheless, the account of mathematical demonstration, what he terms “Begründungen,” (objective proofs), that it underlies is of vast historical interest. Three notions form the basis of Bolzano’s account of mathematical and deductive knowledge in general: grounding (Abfolge), objective justification (objective Erkenntnisgrund) and objective proof (Begründung). The structure of the theory is the following: (i) grounding is a relation that subsists between true propositions independently of epistemic access to them. We may grasp objective grounding relations and (ii) the possibility of grasping the latter is also the condition for our having objective justifications for our beliefs, as opposed to merely “subjective” ones. Finally, (iii) objective proofs are meant to cause the agent to have objective justifications in this sense. With respect to (ii), Bolzano’s idea is explicitly Aristotelian: Bolzano believes that whenever an agent grasps p and grasps the grounding relation between p and q, she also knows the ground for the existence of q and therefore putatively why q is true, namely because p. If we follow (iii), the role of a (typically) linguistic or schematic representation of (i) is to cause the agent to have (ii). According to Bolzano, objective proofs succeed in providing agents with an objective justification for their relevant beliefs because they make the objective ground of the propositions that form the content of these beliefs epistemically accessible to the agent. As Bolzano sees it, the typical objective proof is devised so as to reliably cause the reader or hearer to have an objective justification for the truth of the proposition. The objective proof is merely ‘reliable’ since whether I do acquire objective knowledge upon surveying the proof in question depends in part on my background knowledge, in part on my overall ability to process the relevant inferences and the latter according to Bolzano’s theory of cognition is mostly a function of my having been previously acquainted with many inferences of different types. The more accustomed I am to drawing inferences, the more reliably the objective proof is likely to cause in me the relevant objective justification.
+According to Bolzano, there are good reasons why we should place strong constraints on mathematical demonstration, and in everyday practice favor the objective proofs that provide us with objective mathematical knowledge. It would be wrong however to assume that on his account mathematical knowledge can only be achieved via objective proofs. Objective proofs are not the only type of demonstration in Bolzano’s theory of knowledge, nor indeed the only bona fide one. Bolzano opposes objective proofs, that is, proofs that provide an objective justification to what he calls Gewissmachungen (certifications). Certifications, according to Bolzano, are also types of demonstrations (there are many different species thereof) in the sense that they too are meant to cause agents to know a certain truth p on the basis of another one q. When an agent is caused to know that something is true on the basis of a certification, the agent has a subjective, as opposed to an objective, justification for his or her belief. Bolzano’s theory of certification and subjective justification is an indispensible element of his account of empirical knowledge. Certifications are ubiquitous in empirical sciences such as medicine. Medical diagnosis relies on certifications in Bolzano’s sense. Symptoms are typically visible effects, direct or indirect, of diseases that allow us to recognize them. When we rely on symptoms to identify a disease, we thus never know this disease through its objective ground. Likewise, subjective proofs also play an important role in Bolzano’s account of mathematical knowledge. As Bolzano sees it, in order to have an occurrent (and not a merely dispositional) cognitive attitude towards a given propositional content, an agent must somehow be causally affected. This may be brought about in many ways. Beliefs and ideas arise in our mind most of the time in a more or less sophisticated, chaotic and spontaneous way, on the basis of mental associations and/or causal interactions with the world. The availability of a linguistic object that represents the grounding relation is meant to reliably cause objective knowledge, that is, to bring one’s interlocutor to have occurent objective knowledge of a certain truth. This may however not be the best way to cause the given belief per se. It might be that in order to cause me to recognize the truth of the intermediate value theorem, my interlocutor needs resort to a more or less intuitive diagrammatic explanation, which is precisely what objective proofs exclude. Since as Bolzano conceives of it the purpose of demonstrations is primarily to cause the interlocutor to have a higher degree of confidence (Zuversicht) in one of his beliefs, and since Bolzano emphasizes the effectiveness of proofs over their providing objective justifications, objective proofs should not be seen as the only canonical or scientifically acceptable means to bring an agent to bestow confidence on a judgment. Besides, Bolzano warns us against the idea that one ought to use only logical or formal demonstrations that might end up boring the interlocutor to distraction and have a rather adverse epistemic effect. Although Bolzano claims that we ought to use objective proofs as often as possible, he also recognizes that we sometimes have to take shortcuts or simply use heuristic creativity to cause our interlocutor to bestow confidence on the truths of mathematics, especially when the interlocutor has only partial and scattered knowledge of the discipline.
+Objective proof, in addition to its epistemic virtue, introduces pragmatic constraints on demonstration that are meant to steer actual practices in deductive science. The idea that mathematical demonstrations ought to reflect the grounding order entails two things. First, it requires that an agent does not deny that a proposition has an objective ground and is thus inferable from more primitive propositions every time this agent, perhaps owing to her medical condition or limited means of recognition, fails to recognize that the proposition has an objective ground. Consequently, it insures that the demonstration procedure is not short-circuited by criterion such as intuition, evidence or insight. The requirement that mathematical demonstrations be objective proofs forbids that the agent’s inability to derive a proposition from more primitive ones be compensated by a non grounding-related feature. In this relation, Mancosu speaks of the heuristic fruitfulness of Bolzano’s requirement on scientific exposition. (Mancosu 1999, 436) Although Bolzano considered that objective proofs should be favored in mathematical demonstration and despite the fact that he thought that only objective proofs have the advantage of letting us understand why a giving proposition is true, he did not think that in everyday practice mathematical demonstrations ought to be objective proofs. Bolzano thinks that there are situations in which it is legitimate to accept proofs that deliver only evidential knowledge. When it comes to setting out a mathematical theory the main objective should be to cause the agent to have more confidence in the truth of the proposition to be demonstrated than he would have otherwise or even merely to incite him to look for an objective justification by himself. Hence, given certain circumstantial epistemic constraints, Bolzano is even willing to concede that certain proofs can be reduced to a brief justification of one’s opinion. Furthermore, though this would deserve to be investigated further, it is worth mentioning that Bolzano is not averse to reverting to purely inductive means, for instance, when it comes to mathematical demonstration. This may seem odd, but Bolzano has good reasons to avoid requiring that all our mathematical proofs provide us with objective and explanatory knowledge. For one thing, asking that all mathematical proofs be objective proofs would not be a reasonable requirement and, in particular, it would not be one that is always epistemically realizable. Given the nature of grounding, it would often require us to engage in the production of linguistic objects that have immense proportions. Since they are merely probable, Bolzano does think that evidential proofs need to be supplemented by “decisive” ones. One could want to argue that the latter reduce to objective proofs. If, upon surveying an objective proof, I acquire an objective justification, I cannot doubt the truth of the conclusion, and it is therefore decisively true. But it is hard to imagine that Bolzano would have thought that the linguistic representation of an inference from deducibility would be any less decisive. Consider this inference:
+Triangles have two dimensions
+is deducible from
+Figures have two dimensions
+Triangles are figures.
+Not only is the inference truth-preserving, but the conclusion is also a conceptual truth. It is composed only of concepts which, according to Bolzano, means that its negation would imply a contradiction and is therefore necessary. In mathematics and other conceptual disciplines, deducibility and grounding both have the epistemic particularity of yielding a belief that can be asserted with confidence. By contrast, according to Bolzano, though an agent need not always be mistaken whenever she asserts a proposition that stands to its premises in a mere relation of probability, she is at least liable to committing an error. Inferences whose premises are only probable can only yield a conclusion that has probability. As Bolzano sees it, confidence is a property of judgments that are indefeasible. The conclusion (perfectly) deduced from a set of a priori propositions cannot be defeated if only because, if I know its ground, I also know why it is true and necessarily so. Similarly, if p is true and if I know that q is deducible from p (and this holds a fortiori in the case in which p and q are conceptual truths), I have a warrant, namely the fact that I know that truth is preserved from premises to conclusion, and I cannot be mistaken about the truth of q.
+6. Conclusion
+The importance of Bolzano’s contribution to semantics can hardly be overestimated. The same holds for his contribution to the theoretical basis of mathematical practice. Far from ignoring epistemic and pragmatic constraint, Bolzano discusses them in detail, thus providing a comprehensive basis for a theory of mathematical knowledge that was aimed at supporting work in the discipline. As a mathematician, Bolzano was attuned to philosophical concerns that escaped the attention of most of his contemporaries and many of his successors. His theory is historically and philosophically interesting, and  it deserves to be investigated further.
+7. References and Further Reading
+
+Bar-Hillel, Yehoshua (1950) “Bolzano’s Definition of Analytic Propositions” Methodos,  32-55. [Republished in Theoria 16, 1950, pp. 91-117; reprinted in Aspects of language: Essays and Lectures on Philosophy of Language, Linguistic Philosophy and Methodology of Linguistics, Jerusalem, The Magnes Press 1970 pp. 3-28].
+Benthem, Johan van (2003) “Is There Still Logic in Bolzano’s Key?” in Bernard Bolzanos Leistungen in Logik, Mathematik und Physik, Edgar Morscher (ed.) Sankt Augustin, Academia, 11-34.
+Benthem, Johan van (1985) “The Variety of Consequence, According to Bolzano”, Studia Logica 44/4, 389-403.
+Benthem, Johan van (1984) Lessons from Bolzano. Stanford, Center for the Study of Language and Information, Stanford University, 1984.
+Bolzano, Bernard (1969-…) Bernard Bolzano-Gesamtausgabe, dir. E. Winter, J. Berg, F. Kambartel, J. Louzil, B. van Rootselaar, Stuttgart-Bad Cannstatt, Fromann-Holzboog,  2 A, 12.1, Introduction par Jan Berg.
+Bolzano, Bernard (1976) Ausgewählte Schriften, Winter, Eduard (ed.), Berlin, Union Verlag.
+Bolzano, Bernard (1851) Paradoxien des Unendlichen, (reprint) Wissenschaftliche Buchgesellschaft, 1964. [Dr Bernard Bolzano’s Paradoxien des Unendlichen herausgegeben aus dem schriftlichem Nachlasse des Verfassers von Dr Fr. Příhonský, Leipzig, Reclam. (Höfler et Hahn (Eds.), Leipzig, Meiner, 1920)]
+Bolzano, Bernard (1948) Gemoetrishche Arbeiten [Geometrical Works], Spisy Bernada Bolzana, Prague, Royal Bohemian Academy of Science.
+Bolzano, Bernard (1837) Wissenschaftslehre, Sulzbach, Seidel.
+Bolzano, Bernard (1931) Reine Zahlenlehre [Pure Theory of Numbers], Spisy Bernada Bolzana, Prague, Royal Bohemian Academy of Science.
+Bolzano, Bernard (1930) Funktionenlehre [Theory of Function] Spisy Bernada Bolzana, Prague, Royal Bohemian Academy of Science;
+Bolzano, Berbard (1817a) Rein Analytischer Beweis des Lehrsatzes,dass zwischen je zwey Werthe, die ein entgegengesetzes Resultat gewähren, wenigstens eine reelle Wurzel der Gleichung liege, Prague, Haase. 2nd edition, Leipzig, Engelmann, 1905; Facsimile, Berlin, Mayer & Mueller, 1894.
+Bolzano, Bernard (1817b) Die drey Probleme der Rectification, der Complanation und der Cubirung, ohne Betrachtung des unendlich Kleinen, Leipzig, Kummer.
+Bolzano, Bernard (1816) Der binomische Lehrsatz und als Folgerung aus ihm der polynomische, und die Reihen, die zur Berechnung der Logarithmen une Exponentialgrösse dienen, Prague, Enders.
+Bolzano, Bernard (1812) Etwas aus der Logik, Bolzano Gesamtausgabe, Gesamtausgabe, Stuttgart, Frohmann-Holzboog, vol. 2 B 5, p.140ff.
+Bolzano, Bernard (1810) Beyträge zu einer begründeteren Darstellung der  Mathematik; Widtmann, Prague. (Darmstadt, Wissenschaftliche Buchgesellschaft,1974).
+Coffa, Alberto (1991) The semantic tradition fro Kant to Carnap, Cambridge, Cambridge University Press.
+Dubucs, Jacques & Lapointe, Sandra (2006) “On Bolzano’s Alleged Explicativism,” Synthese 150/2, 229–46.
+Etchemendy, John (2008) “Reflections on Consequence,” in (Patterson 2008), 263-299.
+Etchemendy, John (1990) The Concept of Logical Consequence, Cambridge, Harvard University Press.
+Etchemendy, John (1988) “Models, Semantics, and Logical Truth”, Linguistics and Philosophy, 11, 91-106.
+Freudenthal, H (1971) (“Did Cauchy Plagiarize Bolzano?”, Archives for the History of Exact Sciences 375-92.
+Grattan-Guiness, Ivan (1970) “Bolzano, Cauchy and the ‘New Analysis’ of the Early Nineteenth Century,” Archives for the History of Exact Sciences, 6, 372-400.
+Künne Wolfgang (2006) “Analyticity and logical truth: from Bolzano to Quine”, in (Textor 2006), 184-249.
+Lapointe, Sandra (2008), Qu’est-ce que l’analyse?, Paris, Vrin.
+Lapointe, Sandra (2007) “Bolzano’s Semantics and His Critique of the Decompositional Conception of Analysis” in The Analytic Turn, Michael Beaney (Ed.), London, Routledge, pp.219–234.
+Lapointe, Sandra (2000). Analyticité, Universalité et Quantification chez Bolzano. Les Études Philosophiques, 2000/4, 455–470.
+Morscher, Edgar (2003) “La Définition Bolzanienne de l’Analyticité lLgique”, Philosophiques 30/1, 149-169.
+Neeman, Ursula (1970), “Analytic and Synthetic Propositions in Kant and Bolzano” Ratio 12, 1-25.
+Patterson, Douglas (ed.) (2008) News Essays on Tarski’s Philosophy, Oxford, Oxford.
+Příhonský, František (1850) Neuer Anti-Kant: oder Prüfung der Kritik der reinen Vernunft nach den in Bolzanos Wissenschaftslehre niedergelegten Begriffen, Bautzen, Hiecke.
+Proust, Joëlle (1989) Questions of Form. Logic and the Analytic Proposition from Kant to Carnap. Minneapolis: University of Minnesota Press.
+Proust, Joëlle (1981) “Bolzano’s analytic revisited”, Monist, 214-230.
+Rusnock, Paul (2000) Bolzano’s philosophy and the emergence of modern mathematics, Amsterdam, Rodopi.
+Russ, Steve (2004) The Mathematical Works of Bernard Bolzano, Oxford, Oxford Univewrsity Press.
+Russell, Bertrand (1903) The Principles of Mathematics, Cambridge, Cambridge University Press.
+Sebestik, Jan (1992) Logique et mathématique chez Bernard Bolzano, Paris, Vrin.
+Schubring, Gert (1993) “Bernard Bolzano. Not as Unknown to His Contemporaries as Is Commonly Believed?” Historia Mathematica, 20, 43-53.
+Siebel, Mark (2003) “La notion bolzanienne de déductibilité” Philosophiques, 30/1, 171-189.
+Siebel, Mark (2002) “Bolzano’s concept of consequence” Monist, 85, 580-599.
+Siebel, Mark (1996) Der Begriff der Ableitbarkeit bei Bolzano, Sankt Augustin, Academia Verlag.
+Tatzel, Armin (2003) “La théorie bolzanienne du fondement et de la consequence” Philosophiques 30/1, 191-217.
+Tatzel, Armin (2002) “Bolzano’s theory of ground and consequence” Notre Dame Journal of Formal Logic 43, 1-25.
+Textor, Mark (ed.) (2006) The Austrian Contribution to Analytic Philosoph,  New York, Routledge.
+Textor,  Mark, (2001) “Logically analytic propositions “a posteriori”?” History of Philosophy Quarterly, 18, 91-113.
+Textor, Mark (2000) “Bolzano et Husserl sur l’analyticité,” Les Études Philosophiques 2000/4 435–454.
+Waldegg, Guillermina, (2001) “Ontological Convictions and Epistemological Obstacles in Bolzano’s Elementary Geometry”, Science and Education, 10/4 409-418.
+
+Author Information
+Sandra LaPointe
+Email: sandra.lapointe@mac.com
+Kansas State University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

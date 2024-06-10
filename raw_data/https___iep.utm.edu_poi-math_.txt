@@ -1,0 +1,297 @@
+
+
+
+
+
+
+
+
+
+Poincare’s Philosophy of Mathematics | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poincaré’s Philosophy of Mathematics
+Jules Henri Poincaré was an important French mathematician, scientist, and philosopher in the late nineteenth and early twentieth century who was especially known for his conventionalist philosophy.  Most of his publishing was in analysis, topology, probability, mechanics and mathematical physics.  His overall philosophy of mathematics is Kantian because he believes that intuition provides a foundation for all of mathematics, including geometry.
+He advocated conventionalism for some principles of science, most notably for the choice of applied geometry (the geometry that is best paired with physics for an account of reality).  But the choice of a geometric system is not an arbitrary convention.  According to Poincaré, we choose the system based on considerations of simplicity and efficiency given the overall empirical and theoretical situation in which we find ourselves.  Along with the desiderata of theoretical simplicity and efficiency, empirical information must inform and guide our choices, including our geometric choices.  Thus, even with respect to applied geometry, where Poincaré is at his most conventional, empirical information is crucial to the choice we make.
+Balancing the empirical element, there is also a strongly a prior element in Poincaré’s philosophical views for he argued that intuition provides an a priori epistemological foundation for mathematics.  His views about intuition descend from Kant, whom Poincaré explicitly defends.  Kant held that space and time are the forms of experience, and provide the a priori, intuitive sources of mathematical content.  While defending the same basic vision, Poincaré adapts Kant’s views by rejecting the foundation upon space and time.  Rather than time, Poincaré argues for the intuition of indefinite repetition, or iteration, as the main source of extra-logical content in number theory.  Rather than space, Poincaré argues that, in addition to iteration, we must presuppose an intuitive understanding of both the continuum and the concept of group in geometry and topology.
+Table of Contents
+
+Introduction
+Geometry and the A Priori
+Poincaré’s Relationship to Kant
+Poincaré’s Arguments for Intuition: Continuity
+Poincaré’s Arguments for Intuition: Indefinitite Repetition 
+
+Argument One
+Argument Two
+Argument Three
+Argument Four
+
+
+Intuition and Other Topics in Poincaré’s Philosophy 
+
+Predicativism
+Philosophy of Science
+
+
+References and Further Reading
+
+1. Introduction
+Jules Henri Poincaré (1854-1912) was an important French mathematician, scientist and thinker.  He was a prolific mathematician, publishing in a wide variety of areas, including analysis, topology, probability, mechanics and mathematical physics.  He also wrote popular and philosophical works on the foundations of mathematics and science, from which one can sketch a picture of his views.
+As an eminent mathematician, Poincaré’s philosophical views were influential and taken seriously during his lifetime.  Today, however, his papers seem somewhat loose, informal, and at times polemical.  Indeed many are based on speeches he gave to primarily non-philosophical audiences, and part of their aim was to entertain.  One must therefore be careful when reading Poinaré not to misinterpret him as being inconsistent, or not taking philosophy seriously.  He was a mathematician, not a trained philosopher.  Yet he regarded philosophical and foundational questions as important to science, and one can still find many philosophical insights in his writings.
+He was also a Kantian because he was committed to mathematical intuition as the foundation of mathematics. Known for his conventionalist philosophy, his views are really quite complicated and subtle.  He espoused conventionalism for some principles of science, most notably for the choice of applied geometry, but he was not a conventionalist about every aspect of science.  Even the choice of a geometric system is not a completely arbitrary convention.  It is not the kind of choice that could be based on the flip of a coin, for example.  Rather, we choose – according to Poincaré – based on considerations of simplicity and efficiency given the overall empirical and theoretical situation in which we find ourselves.  His point is that when articulating a theoretical framework for a given base of evidence there are almost always alternatives.  This has become known by the slogan: “Underdetermination of theory by data.”  So, there are almost always choices in how we construct our theory.  Along with the desiderata of theoretical simplicity and efficiency, empirical information must inform and guide our choices – including our geometric choices.  Thus, even with respect to applied geometry, where Poincaré is at his most conventional, empirical information is crucial to the choice we make.
+Balancing the empirical element, there is also a strongly apriorist element in Poincaré’s philosophical views.  First, he viewed Euclidean geometry as so simple that we would always prefer to alter physics than to choose a non-Euclidean geometry.  This is despite the fact that he actually used non-Euclidean geometry in some of his work on celestial mechanics.  We can regard this belief in the inherent simplicity and appeal of Euclidean geometry as simply a case of a bad gamble:  he bet on the wrong horse because he bet too early (prior to general relativity).  However, there is a second, more deeply seated, apriorist element in geometry – one that links his philosophy of geometry with his more general philosophy of mathematics.  That is his belief that mathematical intuition provides an a priori epistemological foundation for mathematics, including geometry.
+2. Geometry and the A Priori
+All geometries are based on some common presuppositions in the axioms, postulates, and/or definitions.  Non-Euclidean geometries can be constructed by substituting alternative versions of Euclid’s parallel postulate; but they begin by keeping some axioms fixed.  Keeping these aspects of the axiomatic structure fixed is what makes the different systems all geometries.  Unifying the various geometric systems is the fact that they determine the possible constructions, or objects, in space.  What primarily differentiates Riemannian and Lobachevskian geometries from Euclidean geometries are different existence claims regarding parallel lines (whether or not they exist, and if so how many).  In Euclidean geometry, given a line, there is exactly one parallel to it on the plane through a given external point.  In Lobachevskian geometry there are an infinity of such parallels; and in Riemannian, there are none.  The different axioms regarding parallels yield different internal angle sum theorems in each geometry:  Euclidean triangles have internal angles that sum to exactly 180 degrees; Lobachevskian triangles sum to less than 180 degrees; and Riemannian triangles sum to greater than 180 degrees.  (In the latter two cases, how much more or less than 180 degrees depends on the size of the triangle relative to the curvature of the space.)
+If we consider the unifying features of these three approaches to geometry, that is, the features that the different metric systems share, a natural question concerns the epistemological and methodological status of this common basis.  One thought is that what grounds this common basis, which we might call “pure geometry in general”, is an intuitive understanding of space in general.  This is essentially what Poincaré proposed:  that there is an a priori intuitive basis for geometry in general, upon which the different metric geometries can be constructed in pure mathematics. Once constructed, they can then be applied depending on empirical and theoretical need.  The a priori basis for geometry has two elements for Poincaré.  First, he postulated that we have an intuitive understanding of continuity, which – applied to the idea of space – provides an a priori foundation for all geometry, as well as for topology.  Second, he proposed that we also have an a priori understanding of group theory.  This additional group theoretic element applied to rigid body motion for example, leads to the set of geometries of constant curvature.
+For Poincaré, therefore, even if physics can help us choose between different metric geometries, the set of possibilities from which it chooses is a priori delimited by the nature of our minds.  We are led to a delimited set of possible geometries by our intuition of continuity coupled with the a priori understanding of groups.  Together these constrain our natural assumptions about possible constructions and motions in space.
+As in contemporary conceptions of mathematics, Poincaré made a fairly sharp distinction between pure and applied geometry.  Pure geometry is part of pure mathematics.   As such its foundation consists in a combination of logic and intuition.  In this way, he is a Kantian about all of pure mathematics, including the mathematical study of various geometric systems.  (There is also a hint of Hilbertian axiomatics here:  in pure geometry one studies various axiom systems.)  Conventionalism for Poincaré describes applied geometry only – to characterize the quasi-empirical choice of which metric geometry to pair with physics to best model the world.
+Poincaré’s philosophy of pure mathematics, is in fact dominated by the attempt to defend mathematical intuition.  This takes various forms throughout his career, but perhaps the most important example is his defense of some version of Kant’s theory of intuition in arithmetic, in opposition to the logicist program.  The logicists attempted to provide a mathematical demonstration that arithmetic has no need for intuition, Kantian or otherwise, by deriving the basic postulates of arithmetic from logical laws and, logically expressed, definitions alone.  Poincaré argued against this program, insisting that any formal system adequate to derive the basic postulates of arithmetic will by necessity presuppose some intuitive arithmetic.
+In contrast with geometry, where there is a range of genuine alternatives to consider, he agreed with the logicists that there is only one genuine arithmetic.  So, the set of options is here much more strictly delimited – to one.  He disagreed with the logicists, who saw the uniqueness and epistemic depth of arithmetic as an indicator that it is nothing more than logic.  For Poincaré, arithmetic is uniquely forced on us by intuition rather than by logic alone.  Furthermore, for Poincaré, arithmetic was at the bottom of the scientific pyramid:  the most fundamental of the sciences and the one that is presupposed by all the rest.  In his hierarchy of sciences, arithmetic lies at the bottom.  Thus, arithmetic’s foundation is important for the rest of the sciences.  In order to understand Poincaré’s philosophy of science and mathematics in general, therefore, one must come to grips with his philosophy of arithmetic.
+3. Poincaré’s Relationship to Kant
+We must begin with Kant, who is the historical source of Poincaré’s appeal to mathematical intuition.  For Kant, there are two a priori intuitions, space and time; and these provide the form of all experience.  All experiences, inner and outer, are temporal, or in time; and all outer experiences are also spatial.  A thought or desire might be an example of a non-spatial but temporal experience; and taking a walk would be in both space and time.  According to Kant, the mind comes equipped with these forms – for otherwise, he argues, we could not account for the coherence, structure, and universality of human experience.  In his vision, a priori intuition, or spatio-temporality, helps to mold brute sensations into the objects of experience.
+These same a priori intuitions, the a priori form of all experience, also explain how mathematics is both a priori (non-empirical) and yet has non-trivial content.  In short, a priori intuition supplies the non-empirical content of mathematics.  Mathematics has a distinctive subject matter, but that subject matter is not provided by some external reality, Platonic or otherwise.  Rather, it is provided a priori – by the mind itself.  Intuitive space provides much of the a priori synthetic content for geometry (which is Euclidean for Kant); and intuitive time provides the a priori synthetic content for quantitative mathematics.  This makes mathematical knowledge both synthetic and a priori.  It is synthetic because it is not mere analysis of concepts, and has an intuitive subject matter.  It is a priori because its subject matter or content, spatio-temporality, is given a priori by the form of experience.
+Poincaré adopts Kant’s basic vision of mathematics as synthetic a priori knowledge owing to the epistemological and methodological foundation provided by a priori intuition.  Yet, as we have seen already, he does not agree with many details of Kant’s philosophy of mathematics.  Unlike Kant, Poincaré considers Euclidean geometry to be a kind of choice; so Euclidean geometry is not uniquely, or a priori, imposed by intuition.  The closest thing to Kant’s intuitive space, for Poincare, is not Euclidean space but rather the more minimal intuitive idea of continuity, which is one of the features presupposed in Euclidean space.  Rather than intuitive time, Poincaré emphasizes the intuitive understanding of indefinite iteration for number theory.  Though he views time as a “form pre-existent in our mind”, and one can hypothesize on the connection between this form and the intuition of indefinite iteration, Poincaré does not himself stress the connection.  Thus, both sources of mathematical information – the intuitive continuum and the intuition of indefinite iteration – are somewhat less robust, and less connected to experience, for Poincaré than for Kant.
+4. Poincaré’s Arguments for Intuition: Continuity
+First, we shall deal briefly with the intuitive continuum.  The clearest argument for an a priori intuition of spatial or mathematical continuity is quite Kantian, but it only appears late in Poincaré writings (Last Essays).  In earlier works his remarks about the continuum are less definite and less Kantian.  For example, in Science and Hypothesis, chapter II, he focused more on priority than apriority, arguing that the continuum is mathematically prior to analysis rather than that it is given by a priori intuition.  He thought analysis presupposes the mathematical continuum because one cannot generate the real number continuum by set theoretic constructions, “from below.”   To get genuine continuity, rather than a merely dense set, and to account for the origin, utility, and our overall understanding of the symbolic constructions, Poincaré felt we must appeal to a preconceived idea of a continuum, where “the line exists previous to the point,” (pp. 18, 21).  There is no clear suggestion here of the ideas of Kant or of the idea that a continuum is given by a priori intuition.  The mathematical continuum is rather presented as partly suggested by experience and geometry, and then refined by analysis.
+A few years later, in The Value of Science, he moves closer to an apriorist view – though he does not yet use the term “intuition” in connection with the continuum.  In Chapter III he discusses the “primitively amorphous” continuum that forms a common basis for the different metric systems  (p. 37).  And in Chapter IV he asserts that the mathematical continuum is constructed from “materials and models” rather than nothing.  “These materials, like these models, preexist within [the mind],” (p. 72).  He goes on to say that it is experience that enables us to choose from the different possible models.  Thus, he has here taken a big step towards suggesting a Kantian intuition of continuity – in asserting that some materials must pre-exist within the mind in order to construct the mathematical continuum.
+Later, however, Poincaré explicitly connects this idea of the pre-existence of the continuum with intuition:
+“I shall conclude that there is in all of us an intuitive notion of the continuum of any number of dimensions whatever because we possess the capacity to construct a physical and mathematical continuum; and that this capacity exists in us before any experience because, without it, experience properly speaking would be impossible and would be reduced to brute sensations, unsuitable for any organization; and because this intuition is merely the awareness that we possess this faculty. And yet this faculty could be used in different ways; it could enable us to construct a space of four just as well as a space of three dimensions.  It is the exterior world, it is experience which induces us to make use of it in one sense rather than in the other.” (Last Essays, 44)
+The intuitive continuum is an a priori basis for mathematical and empirical construction.  In arguing for this intuition, Poincaré appeals to its necessity for coherent, organized, experience, as well as its necessity for our capacity to construct mathematical theories of the continuum.  His approach here is now quite similar to some of Kant’s transcendental arguments.  For example, Kant argues that spatio-temporality must be brought to rather than derived from experience, for it is what makes experience coherent.  In other words, Kant argues that spatio-temporality cannot be derived, for it is required in order for us to derive anything from experience.  Poincaré’s appeal to intuition in order to explain both a mathematical capacity – the capacity to construct certain mathematical structures – and the fact that our experience is coherent, is thus very reminiscent of Kant.  It is a priori because it is necessarily prior to experience, providing its form or capacity for organization.
+5. Poincaré’s Arguments for Intuition: Indefinitite Repetition
+In contrast, even Poincaré’s clearest arguments for an intuition of iteration seem quite non-Kantian, for they are less connected to coherent experience, and more focused on pure mathematical contexts.   Three types of arguments are sketched below.
+a. Argument One
+One approach involves a kind of Sherlock Holmes strategy.  Poincaré considers several alternatives to mathematics being synthetic a priori, or based on intuition, and eliminates them.  In the course of the argument he ends up with the view that inductive reasoning is especially characteristic of mathematics; and it is why mathematics is synthetic a priori.  Induction will turn out to be the main conduit of intuition in mathematics, but first Poincaré focuses on simply its classification as synthetic a priori.  This particular argument has three parts.
+He first begins by considering the alternative that mathematics, being a priori, is purely deductive, and has no extra-logical content.  Against this, Poincaré leverages his famous giant tautology objection.  If math were just logic it would be a giant tautology.  It’s not.  Thus, mathematics has some non-logical source of information or content.
+The very possibility of mathematical science seems an insoluble contradiction.  If this science is only deductive in appearance, from whence is derived that perfect rigour which is challenged by none?  If, on the contrary, all the propositions which it enunciates may be derived in order by the rules of formal logic, how is it that mathematics is not reduced to a gigantic tautology?… Are we then to admit that the enunciations of all the theorems with which so many volumes are filled, are only indirect ways of saying that A is A? (Science and Hypothesis, pp 1-2)
+Though this reductio by ridicule is amusing, it presupposes some things about logic, which, after logicism, are neither obvious nor uncontroversial.  One presupposition is that if something is a tautology we could recognize it.  This had already been contested by the logicist Dedekind, who acknowledged that chains of inferences can be so long, unconscious, and even frightening, that we may not recognize them as purely logical, even if they are. (Dedekind, p. 33)  Another presupposition Poincaré makes here is that logic is a giant tautology, which had already been contested by the logicist Frege, who explicitly disputes the idea that logic is sterile, (Frege, section 17).  Finally, even if we grant Poincaré’s presuppositions about logic, that it is recognizably empty, the extra-logical content on which mathematics depends is undetermined by this argument.  Additional arguments are required to move us towards the conclusion that mathematics is synthetic a priori, dependent on intuition rather than experience or some other source for its content.
+Thus, Poincaré continues in the second part of this argument by considering the possibility that the extralogical content is simply provided by the non-logical axioms.  Formalism, or axiomatics, would be an example of this type of view.  In opposition to this, Poincaré argues that axiomatics is not faithful to mathematics.  According to the axiomatic viewpoint, logic can only extract what is given in the axioms (Science and Hypothesis, 2).  Poincaré feels that mathematics does more than squeeze out information that resides in axioms.  Mathematical growth can occur, he thought, within mathematics itself – without the addition of new axioms or other information.  He insists, in fact, that growth occurs by way of mathematical reasoning itself.
+So, if mathematical reasoning can yield genuine growth without adding new axioms; and given his conception of logic as empty; then mathematical reasoning, not just mathematical content, must transcend logic alone.  How can mathematical reasoning transcend logic?  Well, mathematicians constantly use the tool of reasoning by recurrence, or inductive reasoning and definition, in order to make general definitions and conclusions.  A simple example of the principle of induction is:  if we can show that 0 has a property, P; and we can also show that for any number n, if n has P then n+1 has P; then we can conclude that all numbers have the property, P.  Poincaré regarded inductive reasoning as mathematical reasoning par excellence; and he felt that it transcends logic because it gives us a way to jump over infinite steps of reasoning.  Once we think about it a bit, we see it must be true: P (0) and P (n) → P (n+1) entails P (1); P (1) and P (n) → P (n+1) entails P (2); and so on.  The conclusion of induction – that for all n, P (n) – does enable us to jump over these tedious modus ponens steps, and Poincaré viewed it as a major source of progress in mathematics (Science and Hypothesis, 10-11)
+Finally, to finish off this argument, Poincaré examines the nature of induction and reasoning by recurrence.  He argues that since induction cannot be logically derived, and it was certainly not traditionally regarded as a logical principle, it is synthetic.  However, it is not a merely experimental truth, because – despite the fact that it transcends logic – it is “imposed on us with an irresistible weight of evidence,” (Science and Hypothesis, 12-13).  Thus, he concludes, it is synthetic and a priori.  This status is also why it could not be regarded as a mere convention:  because it is not a choice or a definition.  Rather, it is a rule that is imposed on us by the nature of our own minds,  (Science and Hypothesis, 48).  By way of this three-part argument, Poincaré feels he has exhausted the likely alternatives; and is left with only one viable option, which is that induction is a synthetic a priori principle.
+b. Argument Two
+The second argument is by introspection.  This follows the last part of his argument above, and consists of an examination of the nature of the “irresistible weight of evidence” which forces induction on us.  The aim of this reflection is to establish that the reason induction is synthetic a priori, that it is based on a priori intuition.  Here we get some of the distinctive flavor of Poincaré’s conception of intuition in contrast with Kant’s.  For we see that for Poincaré, the intuition can be a kind of insight, somewhat evocative of Husserl, rather than a form of experience.  The intuition of iteration involves insight into a power of the mind itself.  So, it is the mind having a self-insight: into its own power to conceive of the indefinite iteration of an act once seen to be possible:
+Why then is this view [the judgement that induction is a true principle] imposed upon us with such an irresistible weight of evidence?  It is because it is only the affirmation of the power of the mind which knows it can conceive of the indefinite repetition of the same act, when the act is once possible.  The mind has a direct intuition of this power, and experiment can only be for it an opportunity of using it, and thereby of becoming conscious of it. (Science and Hypothesis, 13).
+In this case intuition gives us insight into a power of our own minds, a power to conceive of indefinite repetition, which in turn enables us to understand why induction must be true.  Thus, intuition lies at the foundation for math – whenever we explicitly (as in induction) or implicitly conceive of indefinite iterations (as in understanding domains generated by iterated processes such as the successor function).  Mathematical induction is different however from scientific induction, for it is certain while empirical induction is never certain.  Its certainty derives from the fact that it merely affirms a property of the mind itself – rather than makes an assertion about something outside the mind, (a priori versus a posteriori), (Science and Hypothesis, 13).  In this second argument, Poincaré uses intuition to explain the synthetic a priori status of induction.  Thus, despite the somewhat non-Kantian flavor of this intuition – its connection to insight rather than the form of experience – Poincaré’s use of it is analogous to Kant who also appealed to intuition to explain the synthetic a priori status of mathematics.
+c. Argument Three
+A third argument is really a set of objections to logicism, which take the form of circularity arguments.  When combined they add up to a powerful objection against logical or set theoretic reconstructions of arithmetic.  Each argument follows the same basic format, which is that any formal reconstruction of arithmetic that tries to avoid intuition will fail; for it will presuppose intuition somewhere in the reconstruction.
+There are at least four, and taking them in order, the first two objections may not seem very impressive.
+(i) First Poincaré seems to treat logicism as a kind of formalism or conventionalism, as if the Peano Axioms are implicit definitions of the concept of number.  Against this he argues that to show that these axioms are consistent requires the use of induction, which is one of the implicit definitions.  So this would be a circular endeavor.
+And it would be if that were what logicism was up to.  However, logicists aimed to derive the Peano Axioms – including induction – from explicit definitions of zero, number and successor; they did not use the Peano axioms as (implicit) definitions themselves.  So this first argument seems to misfire.
+(ii) In the second circularity argument Poincaré objects that the symbolism of logicism merely hides the fact that its definitions of the numbers are circular.  For example, he complains that the logicist definition of zero uses symbolic notation that means, “Zero is the number of things satisfying a condition never satisfied.  But as ‘never’ means in no case I do not see that the progress is great…” (Ewald translation, 1905b, VII, 1029)  He makes similar remarks against the standard definition of one, which in a sense invokes the idea of two.
+Now, anyone familiar with contemporary logic may regard Poincaré’s complaint as a mere psychological objection based on logical ignorance, but I think this is too easy a dismissal.  His view is that a basic understanding of number is necessary in order to understand the symbolic definitions of the numbers, and this is not obviously a purely psychological point.  It is a normative claim about understanding rather than an empirical claim about how we happen to think.  So this argument cannot be immediately dismissed as has been claimed (e.g., see Goldfarb 1988).
+(iii)  The last two arguments are intertwined and are generally regarded as stronger.  Following on the second argument above, Poincaré’s third objection complains that the new logic is mathematics in (symbolic) disguise.  We can reconstruct this argument along the following lines.  Modern symbolic logic has an infinite combinatorial nature, which makes it very different from Aristotelian logic.  For example, the standard definition of well-formed formula is recursive, which as we noted above is a peculiarly mathematical tool according to Poincaré.  It is the recursive nature of logic that makes it infinite.  Since recursive definition was formerly a peculiarly mathematical tool, the worry is that the logicist has in some sense shifted the boundary between math and logic.  If logic has “invaded the territory” of mathematics; and “stolen” some of its tools; then of course it would have more power.  In thus shifting the boundary, Poincaré believes, logicists have presupposed an essentially arithmetic, intuitive tool.  That is, the logicist hasn’t avoided intuition for he presupposes intuition in the very tools he uses, that is, in the new logic itself.
+(iv) Fourth, if the logicist is, even just potentially, adding substantive content to logic via these new powerful tools, he owes us a justification that the new principles are – at least – consistent.  For example, the logicist could treat the rules of inference as disguised definitions of the logical constants, and then show that their use can never lead to inconsistency.  But, Poincaré objects, there will be no such consistency proof without induction.  So, the logicist will still have to presuppose induction, which has two problems.  The justification would therefore be circular since induction is one of the principles to be derived.  Also, logicism would be explicitly depending on intuition in justifying the new logical principles, which is what he was claiming to avoid.
+This is not the place to assess Poincaré’s objections to logicism and the extent to which they can be dismissed as psychologistic.  (See Goldfarb 1988 for such arguments; and see the response, Folina 2006, for a rebuttal.)  Let us just say that when put together, these arguments suggest a genuine challenge to logicism along the following lines.  Modern symbolic logic has an infinite combinatorial structure, which can only be justified by mathematical means, including inductive tools.
+d. Argument Four
+This structure owes itself to the fact that ordinary definitions of well-formed formula in a standard system are recursive; and thus the inference rules themselves – which depend on what makes something a well-formed formula of a certain type – will also inherit this infinite combinatorial nature, (Argument 3)  Any proper understanding of the rules of inference will thus presuppose some grasp of the recursive procedures that determine them, (Argument 2)  Thus, logicist reconstructions of arithmetic, even if symbolic, cannot reduce arithmetic to an intuition-free content if recursive reasoning is intuitive.
+6. Intuition and Other Topics in Poincaré’s Philosophy
+To conclude, consider two other important topics:  Poincaré’s advocacy of predicative definitions in mathematics; and the more general issue of his philosophy of natural science.  Each fits with his semi-Kantian defense of intuition in mathematics.
+a. Predicativism
+Poincaré was central in advancing the understanding the nature of the vicious circle paradoxes of mathematics.  He was the first to articulate a general distinction between predicative and non-predicative definitions, and he helped to show the relevance of this distinction to the paradoxes in general.  Rather than treating the paradoxes on a case by case basis, he and Russell saw a common cause underlying all of them – that of self-reference.  Russell’s solution to the paradoxes – his ramified theory of types (developed in Principia Mathematica) – is indeed an attempt to formalize the idea of eliminating impredicative definitions.
+The vicious circle paradoxes of mathematics showed that one can create a contradiction in mathematics by using a certain kind of self-referential definition along with some basic existence principles.  The most famous is Russell’s paradox because Russell first published his discovery of an inconsistency in Frege’s logicist system.  In generating the numbers, Frege had used an axiom that entails that any property whatever determines a set – the set of objects that have that property. Russell then considered the property of being non-self-membered.  Some sets are self-membered, the set of abstract objects is itself an abstract object, so it is self-membered; some are non-self-membered, the set of elephants is not an elephant so it is non-self-membered.  However, if non-self-membered is a bona fide property, then it too should determine a set according to Frege’s axiom:  the set of all sets that are non-self membered.  This yields a contradiction because given this property and the existence of the set by Frege’s axiom, the set in question is both self-membered and non-self-membered.
+The property of being non-self-membered, however, is impredicative – for, to collect together all the sets that have this property, one must see whether the property applies to the set one is in the process of collecting.  In general, impredicative definitions appeal either implicitly or explicitly to a collection to which the object being defined belongs.  The problem with outlawing all impredicative definitions, however, is that many are unproblematic.  For example, “Tallest person in the room” is strictly speaking impredicative but neither logically inconsistent nor even confusing.  “Least upper bound” was thought by many mathematicians to fall into this category – of strictly impredicative but not viciously circular.  Indeed, the program to eliminate impredicativity from mathematics was doomed to fail.  Too many widely accepted definitions would have been eliminated; and mathematics would, as Weyl put it, have been almost unbearably awkward. (Weyl, 54)
+Poincaré’s attitude to impredicativity was interesting and complex.  He was central in characterizing the notion, and as a constructivist he was someone for whom the notion is important.  However, he did not advocate a formal reconstruction of mathematics by eliminating all impredicativity.  Instead, he first advocated simply avoiding impredicative definitions.  Second, and more importantly, he distinguished between different definition contexts.  One definition context is constructive.  When the object does not already exist by virtue of another definition or presupposition, the definition context is constructive – and then it must be predicative.  For otherwise we are attempting to build something out of materials that require it to already exist, which is certainly a viciously circular procedure.  The other definition context is non-constructive, such as, when a definition merely identifies, or picks out, an already existing object.  In this case impredicativity is harmless, for it is more like the case of the “tallest man in the room”, which merely picks out an existing person and does not thereby construct him.  So, for Poincaré even the constructivist needs to worry about impredicativity only in certain situations:  when the definition is playing the role of a construction.
+In this way, despite the fact that Poincaré was a constructivist, he did not regard all mathematical definitions as constructions.  There are two types of nonconstructive definition contexts:  when the object exists by way of a prior definition, and when the object exists by guarantee of intuition.  For him, least upper bound was indeed similar to the specification, “Tallest man in the room” – because he regarded sets of upper bounds as given a priori by the intuitive continuum, since all real numbers are thereby guaranteed to exist.  By relying on intuition to supplement his constructivism, he attempted to avoid the unbearable awkwardness and restrictions of a purely predicativist approach to mathematics.
+b. Philosophy of Science
+Poincaré’s philosophy of natural science covers much interesting terrain.  He was famous for distinguishing between types of hypotheses in science, but he also distinguishes between types of facts, emphasizing the importance of simple facts in science.  Simple facts are the most general and most useful facts, which also have the power to unify different areas of science.  These same facts are the interesting facts to us and they are the most beautiful as well.  Their beauty rests on their, “harmonious order of the parts and which a pure intelligence can grasp,” (The Value of Science, 8).  Simplicity, beauty, and utility are one and the same for Poincaré.
+A second important theme in Poincaré’s vision of scientific knowledge involves his appeal to Darwin’s theory of evolution.  He asks the question why we find beauty in the simple, general, harmonious facts?  One answer is Darwinian:  natural selection will favor creatures that find interest and beauty in the facts that prove more useful to their survival.  The idea is, the fact that humans notice and are interested in regularities no doubt helped them survive.  Indeed, Poincaré appeals to natural selection in just this context, (The Value of Science, 5, 9).
+Third, as noted above, Poincaré makes important distinctions between types of hypotheses, in Science and Hypothesis.  Some hypotheses are mere conventions, or definitions in disguise; some are tentative hypotheses that are malleable as a theory is being articulated or built; and some are verifiable, “And when once confirmed by experiment become truths of great fertility,” (Science and Hypothesis, xxii).  Though he is a conventionalist about some aspects of science, he opposes what he calls nominalism, which is too much emphasis on free choice in science.
+Poincaré regards the utility of science as evidence that scientists do not create facts – they discover facts.  Yet, on the other hand, he does not espouse a sort of direct realism by which science merely reflects the objective world.  Science neither creates, nor passively reflects truth.  Rather, it has a limited power to uncover certain kinds of truths – those that capture, “Not things themselves… but the relations between things; outside those relations there is no reality knowable,”  (Science and Hypothesis, xxiv).
+Let us consider these three aspects of Poincaré’s philosophy of science side by side with his constructivist philosophy of mathematics.  For Poincaré the most harmonious, simple, and beautiful facts are those that are typically expressed mathematically.  He goes so far as to assert that the only objective reality that science can discover consists of relations between facts; and these relations are expressed mathematically, (The Value of Science, 13).  Thus, mathematics does not merely provide a useful language for science; it provides the only possible language for knowing the only types of facts we can objectively know – the relational facts.
+Poincaré’s emphasis on structural, or relational, facts; and the fact that he rejects the idea that science discovers the essences of things themselves; has been characterized by some as structural realism, (Worrall).  Structural realism currently takes various forms, but the basic aim is to stake a moderate, middle position between skepticism and naïve realism.  We cannot know things in themselves, or things directly.  So against naïve realism, science does not directly reflect reality.  Yet, the success of science is surely not a miracle; its progress not a mere illusion.  We can explain this success, without naïve or direct realism, but with the hypothesis that the important, lasting truths that science discovers are structural, or relational, in character.  Poincaré indeed espouses views that fit well with structural realism.
+If relations are the most objective facts we can know; and if this is a form of realism; then relations must be real.  A question arises, however, over whether or not Poincaré’s underlying Kantian views are in tension with the realism in structural realism.  That is, given Poincaré’s anti-realism about mathematics, emphasizing the mathematical nature of the structural facts we can know seems to move us even further away from realism.  So, a question is whether his view should really be called structural Kantianism rather than structural realism.  If structure is mathematical, and mathematics is not conceived realistically, then how can he be a realist about structure?
+I think there is a way to preserve the realism in his structural realism by remembering two things:  one, his appeal to the empirical basis and utility of science in opposition to the nominalist; the other is his Darwinism.  First utility.  We express the lasting, useful scientific relations mathematically; but it does not follow that the relations expressed mathematically have no reality to them over and above mathematical reality.  If the relations had no such reality, they wouldn’t be so useful.  Moreover, since the scientist relies on experimental facts, “His freedom is always limited by the properties of the raw material on which he works,” (The Value of Science, 121).  The rules that the scientist lays down are not arbitrary, like the rules of a game; they are constrained by experiment, (The Value of Science, 114).  They are also proven by their long-term usefulness; and some facts even survive theory change, at least in rough form, (The Value of Science, 95).
+For Poincaré, the true relations, the real relations, are shown by their endurance through theory change; and he believed science had uncovered a number of such truths.  This is consistent with the view that what endures through scientific change, the enduring mathematically expressed relations, reflects reality as it really is, (Science and Hypothesis, chapter X).  This is the same structural realist idea that science can cut nature at its joints, where the increasing complexity of science, including the overthrow of old theories for new ones, can sometimes be construed as science making more refined cuts in roughly the same places as it progresses.  (Think of a 16th century map, which is superseded by newer, more precise, maps.  It is not that the earlier map represented nothing.)
+We can bolster this picture with Poincaré’s Darwinism.  We evolved in the world as it is.  This is a kind of minimal realism for it entails that the world is a certain way independent of our social, scientific, constructions.  Evolutionary pressure gives us capacities that help us to survive.  So, there is an evolved fit between our cognitive structures and the structures of the world.  If there weren’t, we wouldn’t have survived; indeed Poincaré suggests that if the world did not contain real regularities then there might be no life at all:
+The most interesting facts are those which may serve many times; these are the facts which have a chance of coming up again.  We have been so fortunate as to be born in a world where there are such…. In [a world without recurring facts] there would be no science; perhaps thought and even life would be impossible, since evolution could not there develop the preservational instincts. (The Value of Science, 5)
+The existence of life, no less science, confirms the existence of real regularities in the world.  We are beings who notice, and even look for, regularities.  So we survive.  In addition, although we impose mathematics on our cognition of the world, on the way we cognize the regularities, what we impose is not arbitrary.  Rather, mathematics reflects aspects of our cognitive capacities that have helped us survive in the world as it is.  That is, our inclination to search for order and regularities is also what makes us mathematical.
+Kantian constructivism about mathematics is thus not opposed to scientific realism, provided realism is not taken in a naïve way.  For Poincaré, the structural realist hypothesis is that the enduring relations, which we can know, are real, because we have evolved to cut nature at its real joints, or as he once put it its “nodal points” (Science and Method, 287).  Mathematics is a sort of by-product of evolution, on this picture.  In this way, Poincaré’s Kantianism about pure mathematics is supported by a Darwinian conception of human evolution – a picture that enables his philosophy of mathematics to coexist with his diverse views about natural science.
+7. References and Further Reading
+
+Dedekind:  Essays on the Theory of Numbers, Berman transl, Dover, 1963.
+Ewald:    From Kant to Hilbert, Oxford University Press, 1996. (Contains good translations of several papers by Poincaré that were formerly available in English only in abridged form.)
+Folina:  Poincaré and the Philosophy of Mathematics, Macmillan, 1992.
+Folina:  “Poincaré’s Circularity Arguments for Mathematical Intuition,” The Kantian Legacy in Nineteenth Century Science, Friedman and Nordmann eds, MIT Press, 2006.
+Frege:  The Foundations of Arithmetic, J L Austin transl, Oxford, 1969.
+Goldfarb:  “Poincaré against the logicists,” History and Philosophy of Modern Mathematics, Aspray and Kitcher eds, University of Minnesota Press, 1988.
+Greffe, Heinzmann and Lorenz:  Henri Poincaré, Science and Philosophy, Akademie Verlag and Albert Blanchard, 1994.  (Anthology containing a wide variety of papers.)
+Kant:  Critique of Pure Reason, N K Smith transl, St Martin’s Press, 1965.
+Poincaré:  Science and Hypothesis, W J Greenstreet transl, Dover 1952 (reprint of 1905; includes introduction by Larmor and general prefatory essay by Poincaré).
+Poincaré: The Value of Science, George Bruce Halsted transl, Dover, 1958 (includes prefatory essay by Poincaré on the choice of facts).
+Poincaré: Science and Method, Francis Maitland transl, Thoemmes Press, 1996   (reprint of 1914 edition with preface by Russell).
+Poincaré: Last Essays, John Bolduc transl, Dover, 1963.
+Poincaré: “Mathematics and Logic” (I, 1905b), in From Kant to Hilbert, Ewald ed, Halsted and Ewald transl, Oxford University Press, 1996.
+Russell with Alfred North Whitehead:  Principia Mathematica, 1910-1913. 3 vols. Cambridge, UK: Cambridge Univ. Press. Revised ed., 1925-1927.
+Weyl:  Philosophy of Mathematics and Natural Science, Helmer transl, Atheneum, 1963.
+Worrall:  “Structural realism: the best of both worlds?” in Dialectica 43, pp. 99-124, 1989.
+
+Author Information
+Janet Folina
+Email: folina@macalester.edu
+Macalester College
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

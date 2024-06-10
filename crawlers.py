@@ -116,7 +116,7 @@ class IEPCrawler:
                 print(f'Writing {url} to file')
                 print(content)
                 with self.lock:
-                    with open(f'data/{url.replace("/", "_").replace(":", "_").replace("?", "_")}.txt', 'w', encoding='utf-8') as f:
+                    with open(f'raw_data/{url.replace("/", "_").replace(":", "_").replace("?", "_")}.txt', 'w', encoding='utf-8') as f:
                         f.write(content)
             else:
                 print(f'Failed to get content from {url}')

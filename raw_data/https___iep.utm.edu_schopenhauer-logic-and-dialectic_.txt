@@ -1,0 +1,616 @@
+
+
+
+
+
+
+
+
+
+Arthur Schopenhauer: Logic and Dialectic | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arthur Schopenhauer: Logic and Dialectic
+For Arthur Schopenhauer (1788-1860), logic as a discipline belongs to the human faculty of reason, more precisely to the faculty of language. This discipline of logic breaks down into two areas. Logic or analytics is one side of the coin; dialectic or the art of persuasion is the other. The former investigates rule-oriented and monological language. The latter investigates result-oriented language and persuasive language.
+Analytics or logic, in the proper sense, is a science that emerged from the self-observation of reason and the abstraction of all content. It deals with formal truth and investigates rule-governed thinking. The uniqueness of Schopenhauer’s logic emerges from its reference to intuition, which leads him to use numerous geometric forms in logic that are understood today as logic diagrams, combined with his aim of achieving the highest possible degree of naturalness, so that logic resembles mathematical proofs and, especially, the intentions of everyday thinking.
+It follows from both logic and dialectic that Schopenhauer did not actively work to develop a logical calculus because axiomatisation contradicts natural thinking and also mathematics in that the foundations of mathematics should rely upon intuition rather than upon the rigor that algebraic characters are supposed to possess. However, the visualization of logic through diagrams and of geometry through figures is not intended to be empirical; rather, it is about the imaginability of logical or mathematical forms. Schopenhauer is guided primarily by Aristotle with regard to naturalness, by Euler with regard to intuition, and by Kant with regard to the structure of logic.
+Schopenhauer called dialectic ‘eristics’, and the ‘art of persuasion’ and the ‘art of being right’. It has a practical dimension. Dialectic examines the forms of dialogue, especially arguments, in which speakers frequently violate logical and ethical rules in order to achieve their goal of argumentation. In pursuing this, Schopenhauer starts from the premise that reason is neutral and can, therefore, be used as a basis for valid reasoning, although it can also be misused. In the case of abuse, speakers instrumentalize reason in order to appear right and prevail against one or more opponents. Even if some texts on dialectic contain normative formulations, Schopenhauer’s goal is not to motivate invalid reasoning, but to protect against it. As such, scientific dialectic is not an ironic or sarcastic discipline, but a protective tool in the service of Enlightenment philosophy.
+Schopenhauer’s dialectic is far better known than his analytics, although in direct comparison it makes up the smaller part of his writings on logic in general. For this reason, and because most texts on dialectic build on analytics, the following article is not structured around the two sub-disciplines, but around Schopenhauer’s very different texts on logic in general. First, logic is positioned as a discipline within the philosophical system. Then, the Berlin Lectures, his main text on analytics and dialectic, is introduced and followed, in chronological order, by his shorter texts on analytics and dialectic. The final section outlines research topics.
+Table of Contents
+
+Logic and System
+
+Schopenhauer’s Philosophical System
+Normativism or Descriptivism
+Logic within the System
+Schopenhauer’s Treatises on Logic and Dialectics
+
+
+Schopenhauer’s Logica Maior (the Berlin Lectures)
+
+Doctrine of Concepts and Philosophy of Language
+
+Translation, Use-Theory, and Contextuality
+Abstraction, Concretion, and Graphs
+
+
+Doctrine of Judgments
+
+Relational Diagrams
+Stoic Logic and Oppositional Geometry
+Conversion and Metalogic
+Analytic-Synthetic Distinction and the Metaphor of the Concept
+
+
+Doctrine of Inferences
+
+Foundations of Logic
+Logical Aristotelianism and Stoicism
+Naturalness in Logic
+
+
+Further Topics of Analytic
+
+Schopenhauer’s History of Logic
+Logic and Mathematics
+Hermeneutics
+
+
+Dialectic or Art of Persuasion
+
+
+Schopenhauer’s Logica Minor
+
+Fourfold Root
+World as Will and Representation I (Chapter 9)
+Eristic Dialectics
+World as Will and Representation II (Chapters 9 and 10)
+Parerga and Paralipomena II
+
+
+Research Topics
+References and Further Readings
+
+Schopenhauer’s Works
+Other Works
+
+
+
+1. Logic and System
+a. Schopenhauer’s Philosophical System
+Schopenhauer’s main work is The World as Will and Representation (W I). This work represents the foundation and overview of his entire philosophical system (and also includes a minor treatise on logic). It was first published in 1819 and was accepted as a habilitation thesis at the University of Berlin shortly thereafter. W I was also the basis for the revised and elaborated version—the Berlin Lectures (BL), written in the early 1820s. It also appeared in a slightly revised version in a second and third edition (1844, 1859) accompanied by a second volume (W II) that functioned as a supplement or commentary. However, none of these later editions were as rich in content as the revision in the BL. All other writings—On the Fourfold Root of the Principle of Sufficient Reason (1813 as a dissertation, 1847), On the Will in Nature (1836, 1854), The Two Fundamental Problems of Ethics (1841, 1860), and Parerga and Paralipomena (1851)—can also be regarded as supplements to the W I or the BL.
+Schopenhauer’s claim, made in the W I (and also the BL), follows (early) modern and especially Kantian system criteria. He claimed that philosophy aims to depict, in one single system, the interrelationships between all the components that need to be examined. In Kant’s succession, a good or perfect system is determined by the criterion of whether the system can describe all components of nature and mind without leaving any gaps or whether all categories, principles, and topics have been listed in order to describe all components of nature and mind. This claim to completeness becomes clear in Schopenhauer’s system, more precisely, in W I or BL, each of which is divided into four books. The first book deals mainly with those topics that would, in contemporary philosophy, be assigned to epistemology, philosophy of mind, philosophy of science, and philosophy of language. The second book is usually understood as covering metaphysics and the philosophy of nature. The third book presents his aesthetics and the fourth book practical philosophy, including topics such as ethics, theory of action, philosophy of law, political philosophy, social philosophy, philosophy of religion, and so forth.
+b. Normativism or Descriptivism
+Schopenhauer’s system, as described above (Sect. 1.a), has not been uniformly interpreted in its 200-year history of reception, a factor that has also played a significant role in the reception of his logic. The differences between the individual schools of interpretation have become increasingly obvious since the 1990s and are a significant subject of discussion in research (Schubbe and Lemanski 2019). Generally speaking, one can differentiate between two extreme schools of interpretation (although not every contemporary study on Schopenhauer can be explicitly and unambiguously assigned to one of the following positions):
+
+Normativists understand Schopenhauer’s system as the expression of one single thought that is marked by irrationality, pessimism, obscurantism, and denial of life. The starting point of Schopenhauer’s system is Kant’s epistemology, which provides the foundation for traversing the various subject areas of the system (metaphysics, aesthetics, ethics). However, all topics presented in the system are only introductions (“Vorschulen”) to the philosophy of religion, which Schopenhauer proclaims is the goal of his philosophy, that is, salvation through knowledge (“Erlösung durch Erkenntnis”). Normativists are above all influenced by various philosophical schools or periods of philosophy such as late idealism (Spätidealismus), the pessimism controversy, Lebensphilosophie, and Existentialism.
+Descriptivists understand Schopenhauer’s philosophy as a logically ordered representation of all components of the world in one single system, without one side being valued more than the other. Depending on the subject, Schopenhauer’s view alternates between rationalism and irrationalism, between optimism and pessimism, between affirmation and denial of life, and so forth. Thus, there is no intended priority for a particular component of the system (although, particularly in later years, Schopenhauer’s statements became more and more emphatic). This school is particularly influenced by those researchers who have studied Schopenhauer’s intense relationship with empiricism, logic, hermeneutics, and neo-Kantianism.
+
+c. Logic within the System
+The structure of logic is determined by three sub-disciplines: the doctrines of concepts, judgments, and inferences. However, the main focus of Schopenhauerian logic is not the doctrine of inferences in the sense of logical reasoning and proving but rather in the sense that his logic corresponds with his philosophy of mathematics. According to Schopenhauer, logical reasoning in particular is overrated as people rarely put forward invalid inferences, although they often put forward false judgments. However, the intentional use of fallacies is an exception to this that is therefore studied by dialectics.
+The evaluation of Schopenhauer’s logic depends strongly on the school of interpretation. Normativists have either ignored Schopenhauer’s logic or identified it with (eristic) dialectic, which in turn has been reduced to a normative “Art of Being Right” or “of Winning an Argument” (see below, Sect. 2.e, 3.c). A relevant contribution to Schopenhauer’s analytics from the school of normativists is, therefore, not known, although there were definitely intriguing approaches to dialectics. As normativism was the more dominant school of interpretation until late in the 20th century, it shaped the public image of Schopenhauer as an enemy of logical and mathematical reasoning, and so forth.
+Descriptivists emphasize logic as both the medium of the system and the subject of a particular topic within the W I-BL system. The first book of W I-BL deals with representation and is divided into two sections (Janaway 2014): 1. Cognition (W I §§3–7, BL chap. 1, 2), 2. Reason (W I §§8–16, BL 3–5). Cognition refers to the intuitive and concrete, reason to the discursive and abstract representation. In the paragraphs on cognition, Schopenhauer examines the intuitive representation and its conditions, that is, space, time, and causality, while reason is built on cognition and is, therefore, the ‘representation of representation’. Schopenhauer examines three faculties of reason, which form the three sections of these paragraphs: 1. language, 2. knowledge, and 3. practical reason. Language, in turn, is then broken down into three parts: general philosophy of language, logic, and dialectics. (Schopenhauer defines rhetoric as, primarily, the speech of one person to many, and he rarely dealt with it in any substantial detail.) Following the traditional structure, Schopenhauer then divides logic into sections on concepts, judgments, and inferences. Logic thus fulfills a double role in Schopenhauer’s system: it is a topic within the entire system and it is the focus through which the system is organized and communicated. Fig. 1 shows this classification using W I as an example.
+Figure 1: The first part of Schopenhauer’s system focusing on logic
+However, this excellent role of logic only becomes obvious when Schopenhauer presents the aim of his philosophy. The task of his system is “a complete recapitulation, a reflection, as it were, of the world, in abstract concepts”, whereby the discursive system becomes a finite “collection [Summe] of very universal judgments” (W I, 109, BL, 551). As in Schopenhauer’s system, logic alone clarifies what concepts and judgments are: it is a very important component for understanding his entire philosophy. Schopenhauer, however, vehemently resists an axiomatic approach because in logic, mathematics and, above all, philosophy, nothing can be assumed as certain; rather, every judgment may represent a problem. Philosophy itself must be such that it is allowed to be skeptical about tautologies or laws (such as the laws of thought). This distinguishes it from other sciences. Logic and language cannot, therefore, be the foundation of science and philosophy, but are instead their means and instrument (see below, Sect. 2.c.i).
+Through this understanding of the role of logic within the system, the difference between the two schools of interpretation can now also be determined: Normativists deny the excellent role attributed to logic as they regard the linguistic-logical representation as a mere introduction (“Vorschule”) to philosophical salvation at the end of the fourth book of W I or BL. This state of salvation is no longer to be described using concepts and judgments. In contrast, descriptivists stress that Schopenhauer’s entire system aims to describe the world and man’s attitude to the world with the help of logic and language. This also applies to the philosophy of religion and the treatises on salvation at the end of W I and BL. As emphasized by Wittgensteinians in particular, Schopenhauer also shows, ultimately, what can still be logically expressed and what can no longer be grasped by language (Glock 1999, 439ff.).
+d. Schopenhauer’s Treatises on Logic and Dialectics
+Schopenhauer’s whole oeuvre is thought to contain a total of six longer texts on logic. In chronological order, this includes the following seven texts:
+(1) In the summer semester of 1811, Schopenhauer attended Gottlob Ernst (“Aenesidemus”) Schulze’s lectures on logic and wrote several notes on Schulze’s textbook (d’Alfonso 2018). As these comments do not represent work by Schopenhauer himself, they are not discussed in this article. The same applies to Schopenhauer’s comments on other books on logic, such as those of Johann Gebhard Ehrenreich Maass, Johann Christoph Hoffbauer, Ernst Platner, Johann Gottfried Kiesewetter, Salomon Maimon et al. (Heinemann 2020), as well as his shorter manuscript notes published in the Manuscript Remains. (Schopenhauer made several references to his manuscripts in BL.)
+(2) Schopenhauer’s first discussion of logic occurred in his dissertation of 1813 which presented a purely discursive reflection on some components of logic (concepts, truth, and so on). In particular, his reflections on the laws of thought were emphasized.
+(3) For the first time in 1819, in § 9 of W I, Schopenhauer distinguished between analytics and dialectics in more detail. In the section on analytics, he specified a doctrine of concepts with the help of a few logic diagrams. However, he wrote in § 9 that this doctrine had already been fairly well explained in several textbooks and that it was, therefore, not necessary to load the memory of the ‘normal reader’ with these rules. In the section on dialectic, he sketches a large argument map for the first time. § 9 was only lightly revised in later editions; however, his last notes in preparation for a fourth edition indicate that he had planned a few more interesting changes and additions.
+(4) During the 1820s, Schopenhauer took the W I system as a basis, supplemented the missing information from his previously published writings, and developed a system that eliminated some of the shortcomings and ambiguities of W I. The system within these manuscripts then served as a source for his lectures in Berlin in the early 1820s, that is, the BL. In the first book of the BL, there is a treatise on logic the size of a textbook.
+(5) Eristic Dialectics is the title of a longer manuscript that Schopenhauer worked on in the late 1820s and early 1830s. This manuscript is one of Schopenhauer’s best-known texts, although it is unfinished. It takes many earlier approaches further, but the context to analytics (and to logic diagrams) is missing in this small fragment on dialectics. With the end of his university career in the early 1830s, Schopenhauer’s intensive engagement with logic came to an end.
+(6) It was not until 1844, in W II, that Schopenhauer supplemented the doctrine of concepts given in W I with a 20-page doctrine of judgment and inference. This, however, is no longer compatible with the earlier logic treatises written before 1830, as Schopenhauer repeatedly suggests new diagrammatic logics, which he does not illustrate. Given these changes, the published texts on logic look inconsistent.
+(7) In 1851, Schopenhauer once again published a short treatise entitled “Logic and Dialectics” in the second volume of Parerga and Paralipomena. This treatise, however, only deals with some topics from the philosophy of logic in aphoristic style and, otherwise, focuses more strongly on dialectic. Few new insights are found here.
+Since the rediscovery of the Berlin Lectures by descriptivists, a distinction has been made—in the sense of scholastic subdivision—between Logica Maior (Great Logic) and Logica Minor (Small Logic): Treatises (2), (3), (4), (5) and (6) belong to the Logica Minor and are discussed briefly in Section 3. (For more information see Lemanski 2021b, chap. 1.) The only known treatise on logic written by Schopenhauer that deserves to be called a Logica Maior is a manuscript from the Berlin Lectures written in the 1820s. This book-length text is the most profitable reading of all the texts mentioned. Thus, it is discussed in more detail in Section 2.
+2. Schopenhauer’s Logica Maior (the Berlin Lectures)
+Until the early 21st century, due to the dominance of the normativists in Schopenhauer scholarship, the BL were considered just a didactic version of W I and were, therefore, almost completely ignored by researchers until intensive research on Schopenhauer’s logic began in the middle of the 2010s. These lectures are not only interesting from a historical perspective, they also propose a lot of innovations and topics that are still worth discussing today, especially in the area of diagrammatic reasoning and logic diagrams. As Albert Menne, former head of the working group ‘Mathematical Logic’ at the Ruhr-Universität in Bochum stated: “Schopenhauer has an excellent command of the rules of formal logic (much better than Kant, for example). In the manuscript of his Berlin Lectures, syllogistics, in particular, is thoroughly analyzed and explained using striking examples” (Menne 2002, 201–2).
+The BL are a revised and extended version of W I made for the students and guests who attended his lectures in Berlin. The belief that such an elaboration only has minor value is, however, not reasonable. Moreover, the extent, the content, and also the above-mentioned distinction between the exoteric-popular-philosophical and the esoteric-academic part of Schopenhauer’s work suggest a different evaluation. In W I, Schopenhauer deals only casually with difficult academic topics such as logic or philosophy of law; at the beginning of the BL, however, he states that these topics are the most important topics to teach prospective academics. Indeed, he repeatedly pointed out that he will also focus on logic in the title of his announcement for the Berlin Lectures. Thus, the lecture given in the winter semester of 1821-22 is titled “Dianologie und Logik” (BL, XII; Regehly 2018). Therefore, suspicion arises that research has hitherto ignored Schopenhauer’s most important textual version of his philosophical system, as the Berlin Lectures contain his complete system including some of the parts missing from W I, which are very important for the academic interpretation of the system such as logic and philosophy of law.
+The first edition of the BL was published by Franz Mockrauer in 1913, reprinted by Volker Spierling in 1986, and a new edition was published in four volumes between 2017 and 2022 by Daniel Schubbe, Daniel Elon, and Judith Werntgen-Schmidt. An English translation is not available. The manuscript of the BL is deposited in the Staatsbibliothek zu Berlin Preussischer Kulturbesitz and can be viewed online at http://sammlungen.ub.uni-frankfurt.de/schopenhauer/content/titleinfo/7187127.
+The Logica Maior is found in chapter III of the Berlin Lectures (book I). Here, Schopenhauer begins with (a) a treatise on the philosophy of language that announces essential elements of the subsequent theory of concepts. Then, (b) based on the diagrammatic representation of concepts, he develops a doctrine of judgment. (c) The majority of the work then deals with inferences, in which syllogistic, Stoic logic (propositional logic), modal logic, and the foundation and naturalness of logic are discussed. Together with (d) the appendix, these are the topics that belong to analytics or logic in the proper sense. (e) Finally, he addresses several topics related to dialectics.
+a. Doctrine of Concepts and Philosophy of Language
+This section mainly deals with BL, 234–260. Schopenhauer begins his discussion of logic with a treatise on language, which is foundational to the subsequent treatise. Several aspects of this part of the Logica Maior have been investigated and discussed to date—namely (i.) translation, use-theory, and contextuality as well as (ii.) abstraction, concretion, and graphs—which are outlined in the following subsections.
+i. Translation, Use-Theory, and Contextuality
+Schopenhauer distinguishes between words and concepts: he considers words to be signs for concepts, and concepts abstract representations that rest on other concepts or concrete representations (of something, that is, intuition). In order to make this difference explicit, Schopenhauer reflects on translation, as learning a foreign language and translating are the only ways to rationally understand how individuals learn abstract representations and how concepts develop and change over many generations within a particular language community.
+In his translation theory, Schopenhauer defines three possible situations:
+(1) The concept of the source language corresponds exactly to the concept of the target language (1:1 relation).
+(2) The concept of the source language does not correspond to any concept of the target language (1:0 relation).
+(3) The concept of the source language corresponds only partially to one or more concepts of the target language 1:(n – x)/n relation, where n is a natural number and x < n).
+For Schopenhauer, the last relation is the most interesting one: it occurs frequently, causes many difficulties in the process of translation or language learning, and is the relation with which one can understand how best to learn words or the meaning of words. Remarkably, Schopenhauer developed three theories, arguments, or topics regarding the 1:(n – x)/n relation that have become important in modern logic, linguistics, and analytical philosophy, namely (a) spatial logic diagrams, (b) use-theory of meaning, and (c) the context principle. (a)–(c) are combined in a passage of text on the 1:(n – x)/n translation:
+[T]ake the word honestum: its sphere is never hit concentrically by that of the word which any German word designates, such as Tugendhaft, Ehrenvoll, anständig, ehrbar, geziemend [that is, virtuousness, honorable, decent, appropriate, glorious and others]. They do not all hit concentrically: but as shown below:
+
+That is why one learns not the true value of the words of a foreign language with the help of a lexicon, but only ex usu [by using], by reading in old languages and by speaking, staying in the country, by new languages: namely it is only from the various contexts in which the word is found that one abstracts its true meaning, finds the concept that the word designates. [31, 245f.]
+To what extent the penultimate sentence corresponds to what is called the ‘use theory of meaning’, the last sentence of the quote to the so-called ‘context principle’, and to what extent these sentences are consistent with the corresponding theories of 20th-century philosophy of language is highly controversial. Lemanski (2016; 2017, 2021b) and Dobrzański (2017; 2020) see similarities with the formulations of, for example, Gottlob Frege and Ludwig Wittgenstein. However, Schroeder (2012) and Schumann (2020) reject the idea of this similarity, and Weimer (1995; 2018) sees only a representationalist theory of language in Schopenhauer. Dümig (2020) contradicts a use theory and a context principle for quite different reasons, placing Schopenhauer closer to mentalism and cognitivism, while Koßler (2020) argues for the co-existence of various theories of language in Schopenhauer’s oeuvre.
+ii. Abstraction, Concretion, and Graphs
+With (b) and (c) Schopenhauer not only comes close to the modern philosophy of ordinary language, but he may also be the first philosopher in history to have used (a) logic diagrams to represent semantics or ontologies of concepts (independent of their function in judgments). In his philosophy of language, he also uses logic diagrams to sketch the processes of conceptual abstraction. Schopenhauer intends to describe processes of abstraction that are initially based on concrete representation, that is, the intuition of a concrete object, from which increasingly abstract concepts have formed over several generations within a linguistic community.
+Figure 2 (SBB-IIIA, NL Schopenhauer, Fasz. 24, 112r = BL, 257)
+For example, Fig. 2 shows the ‘spheres’ of the words ‘grün’ (‘green’),  ‘Baum’ (‘tree’), and  ‘blüthetragend’ (‘flower-bearing’) using three circles. The diagram represents all combinations of subclasses by intersecting the spheres of the concepts that are to be analyzed, more specifically,
+
+There is a recognizable relationship with Venn diagrams here, as Schopenhauer uses the combination of the so-called ‘three-circle diagram’, a primary diagram in Venn’s sense. Schopenhauer distinguishes between an objective and a conceptual abstraction, as the following example illustrates: (1) GTF denotes a concept created by the objective abstraction from an object of intuitive representation, that is, a concretum. The object this was abstracted from belongs to the set of objects that is a tree that bears flowers and is green. All further steps of abstraction are conceptual abstractions or so-called ‘abstracta’. In the course of generations, language users have recognized that there are also (2) representations that can only be described with GF, but not with T, more precisely,
+
+(for example, a common daisy). In the next step (3), the concept F was excluded so that the abstract representation of G was formed, that is,
+
+(for example, bryophytes). Finally, (4) a purely negative concept was formed, whose property is not G nor T nor F, more specifically,
+
+This region lies outside the conceptual sphere and, therefore, does not designate an abstractum or a concept anymore: it is merely a word without a definite meaning, such as ‘the absolute’, ‘substance’, and so forth (compare Xhignesse 2020).
+Fig. 3: Interpretation of Fig. 1
+In addition to the three-circle diagram (Fig. 2) and the eight classes, the interpretation in Fig. 3 includes a graph illustrating the four steps mentioned above: (1) corresponds to ν1, (2) is the abstraction e1 from ν1 to ν2, (3) is the abstraction e2 from v2 to v3 and (4) e3 is the abstraction from v3 to v4. In this example, the graph can be interpreted as directed with ν1 as the source vertex and v4 as the sink vertex. However, Schopenhauer also uses these diagrams in the opposite direction, that is, not only for abstraction but also for concretion. In both directions, the vertices in the graph represent concepts, whereas the edges represent abstraction or concretion. On account of the concretion, Schopenhauer has also been associated with reism, concretism theory, and reification of the Lwów-Warsaw School (compare Dobrzański 2017; Lemanski and Dobrzański 2020).
+b. Doctrine of Judgments
+This section mainly focuses on BL, 260–293. Even though Schopenhauer had already used logic diagrams in his doctrine of concepts (see above, Sect. 2.a), he explicitly introduced them in his doctrine of judgment, making reference to Euler and others. Nevertheless, in some cases Schopenhauer’s logic diagrams are fundamentally different from Euler diagrams, so in the following, the first subsection defines the expression (i) ‘Schopenhauer diagrams’ or ‘relational diagrams’. Then subsection (ii) outlines how Schopenhauer applies these diagrams to Stoic logic and how they relate to oppositional geometry. Finally, subsection (iii) discusses Schopenhauer’s theory of conversion, his use of the term metalogic, and subsection (iv) discusses his diagrammatic interpretation of the analytic-synthetic distinction.
+i. Relational Diagrams
+The essential feature of Schopenhauer’s Logica Maior is that, for the most part, it is based on a diagrammatic representation. Schopenhauer learned the function and application of logic diagrams, at the latest, in Gottlob Ernst Schulze’s lectures. This is known because, although Schulze did not publish any diagrams in his textbook, Schopenhauer drew Euler diagrams and made references to Leonhard Euler in his notes on Schulze’s lectures (d’Alfonso 2018). Thus, as early as 1819, Schopenhauer published a logic of concepts based on circle diagrams in W I, § 9 (see below, Sect. 3.b) that he worked through in the Logica Maior of the Berlin Lectures (BL, 272 et seqq.).
+‘Diagrammatic representation’ and ‘logic diagrams’ are modern expressions for what Schopenhauer called ‘visual representation’ or ‘schemata’. Schopenhauer’s basic insight is that the relations of concepts in judgments are analogous to the circular lines in Euclidean space. One, therefore, only has to go through all possible circular relations and examine them according to their analogy to concept relations in order to obtain the basic forms of judgment on which all further logic is built. With critical reference to Kant, Schopenhauer calls his diagrammatic doctrine of judgment a ‘guide of schemata’ (Leitfaden der Schemata). As the following diagrams are intended to represent the basic relations of all judgments, they can also be called ‘relation diagrams’ (RD) as per Fig. 4.
+Fig. 4.1 (RD1)
+
+All R is all C.
+All C is all R.
+ 
+Fig. 4.2 (RD2)
+
+All B is A.
+Some A is B.
+Nothing that is not A is B.
+If B then A
+ 
+Fig. 4.3 (RD3)
+
+No A is S.
+No S is A.
+Everything that is S is not A.
+Everything that is A is not S.
+ 
+Fig. 4.4 (RD4)
+
+All A is C.
+All S is C.
+Nothing that is not C is A.
+Nothing that is not C is S.
+ 
+Fig. 4.5 (RD 5)
+
+Some R is F.
+Some F is R.
+Some S is not F.
+Some F is not R
+ 
+Fig. 4.6 (RD6)
+All B is either o or i.
+All six RDs form the basis on which to build all logic, that is, both Aristotelian and Stoic logic. Schopenhauer states that geometric forms were first used by Euler, Johann Heinrich Lambert, and Gottfried Ploucquet to represent the four categorical propositions of Aristotelian syllogistics: All x are y (RD2), Some x are y (RD5), No x are y (RD3) and Some x are not y (RD5). These three diagrams, together with RD1, result in the relations that Joseph D. Gergonne described almost simultaneously in his famous treatise of 1817 (Moktefi 2020). RD4 may have been inspired by Kant and Karl Christian Friedrich Krause, although there are clear differences in interpretation here. However, Fig. 3.6 is probably Schopenhauer’s own invention even though there were many precursors to these RDs prior to and during the early modern period that Schopenhauer did not know about. On account of the various influences, it might be better to speak of ‘Schopenhauer diagrams’ or ‘relational diagrams’ rather than of ‘Euler diagrams’ or ‘Gergonne relations’ and so forth.
+Schopenhauer shows how each RD can express more than just one aspect of information. This ambiguity can be evaluated in different ways. In contemporary formal approaches, the ambiguity of logic diagrams is often considered a deficiency. In contrast, Schopenhauer considers this ambiguity more an advantage than a deficiency as only a few circles in one diagram can represent a multitude of complex linguistic expressions. In this way, Schopenhauer can be seen as a precursor of contemporary theories about the so-called ‘observational advantages’ of diagrams. As meaning only arises through use and context (see above) and as axioms can never be the starting point of scientific knowledge (see above), the ambiguity of logic diagrams is no problem for Schopenhauer. For him, a formal system of logic is unnecessary. He wanted to analyze the ordinary and natural language with the help of diagrams.
+ii. Stoic Logic and Oppositional Geometry
+Nowadays, it is known that the relation diagrams described above can be transformed, under the definition of an arbitrary Boolean algebra, into diagrams showing the relations contrariety, contradiction, subcontrariety, and subalternation. The best-known of these diagrams, which are now gathered under the heading of ‘oppositional geometry’, is the square of opposition. Although no square of opposition has yet been found in Schopenhauer’s manuscripts, he did associate some of his RDs with the above-mentioned relations and in doing so also referred to “illustrations” (BL, 280, 287) that are no longer preserved in the manuscripts.
+Schopenhauer went beyond Aristotelian logic with RD2 and RD6 and also attempted to represent Stoic logic with them, which in turn can be understood as a precursor of propositional logic (BL, 278–286). RD2 expresses hypothetical judgments (if …, then …), RD6 disjunctive judgments (either … or …). In particular, researchers have studied the RD6 diagrams, also called ‘partition diagrams’, more intensively. For Schopenhauer, the RDs for Stoic logic are similar to syllogistic diagrams. However, quantification does not initially play a major role here, as the diagrams are primarily intended to express transitivity (hypothetical judgments) or difference (disjunction). Only in his second step does Schopenhauer add quantification to the diagrams again (BL, 287 et seqq.). In this context, Schopenhauer treats the theory of oppositions on several pages (BL, 284–289); however, he merely indicates that the diagrammatic representation of oppositions would have to be further elaborated.
+The basic RD6 in Fig. 3.6 shows a simple contradiction between the concepts  and . However, as the RDs given above are only basic diagrams, they can be extended according to their construction principles. Thus, there is also a kind of compositional approach in Schopenhauer’s work. For example, one can imagine that a circle, such as that given in RD6, is not separated by one line but two, making each compartment a part of the circle and excluding all others. An example of this can be seen in Fig. 5, alongside its corresponding opposition diagram, a so-called ‘strong JSB hexagon’ (Demey, Lemanski 2021).
+
+
+Figure 5: Partition diagram and Logical Hexagon (Aggregatzustand = state of matter, fester = solid, flüßiger = liquid, elastischer = elastic)
+An example of a more complex Eulerian diagram of exclusive disjunctions used by Schopenhauer is illustrated in Fig. 6, which depicts Animalia, Vertebrata, Mammals, Birds, Reptiles, Pisces, Mollusca, ArtiCulata, and RaDiata. These terms are included as species in genera and are mutually exclusive. While the transformation into the form of oppositional geometry is found in Lemanski and Demey (2021), Fig. 6 expresses Schopenhauer’s judgments such as:@
+If something is A, it is either V or I.
+If something is V, it is either M or B or R or P.
+If something is A, but not V, it is either M or C or D.
+Fig. 6: Schopenhauer’s Animalia-Diagram
+Schopenhauer here notes that the transition between the logic of concepts, judgments, and inferences is fluid. The partition diagrams only show concepts or classes, but judgments can be read through their relation to each other, that is, in a combination of RD2 and RD3. However, as the relation of three concepts to each other can already be understood as inference, the class logic is already, in most cases, a logic of inferences. For example, the last judgment mentioned above could also be understood as enthymemic inference (BL 281):
+Something is A and not V. (If V then M or C or D.) Thus, it is either M or C or D.
+Schopenhauer’s partition diagrams have been adopted and applied in mathematics, especially by Adolph Diesterweg (compare Lemanski 2022b).
+iii. Conversion and Metalogic
+In his doctrine of judgments, Schopenhauer still covers all forms of conversion and laws of thought, in which he partly uses RDs, but partly also an equality notation (=) inspired by 18th-century Wolffians. The notation for the conversio simpliciter given in Fig. 4.5 is a convenient example of the doctrine of conversion:
+universal negative: No A = B. No B = A.
+particular affirmative: Some A = B. Some B = A.  (BL, 293).
+Following this example, Schopenhauer demonstrates all the rules of the traditional doctrine of conversion. The equality notation is astonishing as it comes close to a form of algebraic logic that is developed later by Drobisch and others (Heinemann 2020).
+Furthermore, the first three laws of thought (BL, 262 et seqq.) correspond to the algebraic logic of the late 19th century, namely the:
+(A) law of identity: A = A,
+(B) law of contradiction: A = -A = 0,
+(C) law of excluded middle: A aut = b, aut = non b.
+(D) law of sufficient reason: divided into (1) the ground of becoming (Werdegrund), (2) the ground of cognition (Erkenntnisgrund), (3) the ground of being, and (4) the ground of action (Handlungsgrund).
+Only the second class of the law of sufficient reason relates to logic. This ground of cognition (Erkenntnisgrund) is then divided into four further parts, which, together, form a complex truth theory. Schopenhauer distinguishes between (1) logical truth, (2) empirical truth, (3) metaphysical truth, and (4) metalogical truth. The last form is of particular interest (Béziau 2020). Metalogical truth is a reflection on the four classes of the principle of sufficient reason mentioned above. A judgment can be true if the content it expresses is in harmony with one or more of the listed laws of thought. Although some parts of modern logic have broken with these basic laws, Schopenhauer is the first logician to describe the discipline entitled “metalogy” in a similar way to Nicolai A. Vasiliev, Jan Łukasiewicz, and Alfred Tarski.
+iv. Analytic-Synthetic Distinction and the Metaphor of the Concept
+Another peculiarity of Schopenhauer’s doctrine of judgments is the portrayal of analytic and synthetic judgments. In Kant research, the definition of analytic and synthetic judgments has been regarded as problematic and highly worthy of discussion since Willard Van Orman Quine’s time—at the latest. This is particularly because Kant, as Quine and some of his predecessors have emphasized, used the unclear metaphors of “containment,” that is, “enthalten” (Critique of Pure Reason, Intr. IV) and “actually thinking in something,” that is “in etw. gedacht werden” (Prolegomena, §2b) to define what analytic and synthetic judgments are. In the section of the Berlin Lectures on cognition, Schopenhauer introduces the distinction between analytic and synthetic judgments as follows:
+A distinction is made in judgment, more precisely, in the proposition, subject, and predicate, that is, between what something is said about, and what is said about it. Both concepts. Then the copula. Now the proposition is either mere subdivision (analysis) or addition (synthesis); which depends on whether the predicate was already thought of in the subject of the proposition, or is to be added only in consequence of the proposition. In the first case, the judgment is analytic, in the second synthetic.
+All definitions are analytic judgments:
+For example,
+
+
+
+gold is yellow:
+analytic
+
+
+gold is heavy:
+analytic
+
+
+gold is ductile:
+analytic
+
+
+gold is a chemically simple substance:
+synthetic (BL, 123)
+
+
+
+Here, Schopenhauer initially adheres strictly to the expression of ‘actually thinking through something’ (‘mitdenken’ that is, analytically) or ‘adding something’ (‘hinzudenken’ that is, synthetically). However, he explains in detail that the distinction between the two forms of judgment is relative as it often depends on the knowledge and experience of the person making the judgment. An expert will, for example, classify many judgments from his field of knowledge as analytic, while other people would consider them to be synthetic. This is because the expert knows more about the characteristics of a subject than someone who has never learned about these things. In this respect, Schopenhauer is an advocate of ontological relativism. However, in the sense of transcendental philosophy, he suggests that every area of knowledge must have analytic judgments that are also a priori. For example, according to Kant, judgments such as “All bodies are extended” are analytic.
+Even more interesting than these explanations taken from the doctrine of cognition (BL, 122–127) is the fact that Schopenhauer takes up the theory of analytic and synthetic judgments again in the Logica Maior (BL, 270 et seqq.). Here, Schopenhauer explains what the expression of ‘actually thinking through something’ (‘mitdenken’), which he borrowed from Kant, means. ‘Actually thinking in something’ can be translated with the metaphor of ‘containment’, and these expressions are linguistic representations of logic diagrams or RDs. To understand this more precisely, one must once again refer to Schopenhauer’s doctrine of concept (BL, 257 et seqq.). For Schopenhauer, there is no such thing as a ‘concept of the concept’. Rather, the concept itself is a metaphor that refers to containment. According to Schopenhauer, this is already evident in the etymology of the expression ‘concept’, which illustrates that something is being contained: horizein (Greek), concipere (Latin), begreifen (German). Concepts conceive of something linguistically, just as a hand grasps a stone. For this reason, the concept itself is not a concept, but a metaphor, and RDs are the only adequate means for representing the metaphor of the concept (Lemanski 2021b, chap. 2.2).
+If one says that the concept ‘gold’ includes the concept ‘yellow’, one can also say that ‘gold’ is contained in ‘yellow’ (BL, 270 et seqq.). Both expressions are transfers from concrete representation into abstract representation, that is, from intuition into language. To explain this intuitive representation, one must use an RD2 (Fig. 3.2) such as is given in Fig. 7 (BL, 270):
+
+c. Doctrine of Inferences
+This section mainly deals with BL, 293–356. As one can see from the page references, the doctrine of inferences is the longest section of the Logica Maior in the Berlin Lectures. Herein, Schopenhauer (i) presents an original thesis for the foundation of logic and (ii) develops an archaic Aristotelian system of inferences, (iii) whose validity he sees as confirmed by the criterion of naturalness. In all three areas, logic diagrams or RDs—this time following mainly Euler’s intention—play a central role.
+i. Foundations of Logic
+Similar to the Cartesianists, Schopenhauer claims that logical reasoning is innate in man by nature. Thus, the only purpose academic logic has is to make explicit what everyone implicitly masters. In this respect, the proof of inferential validity can only be a secondary topic in logic. In other words, logic is not primarily a doctrine of inference, but primarily a doctrine of judgment. Schopenhauer sums this up by saying that nobody is able to draw invalid inferences for himself by himself and intend to think correctly, without realizing it (BL, 344). For him, such seriously produced invalid inferences are a great rarity (in ‘monological thinking’), but false judgments are very common. Furthermore, learning logic does not secure against false judgments.
+Schopenhauer, therefore, does not consider proving inferences to be the main task of logic; rather, logic should help one formulate judgments and correctly grasp conceptual relations. However, when it comes to proof, intuition plays an important role. Schopenhauer takes up an old skeptical argument in his doctrine of judgments and inference that problematizes the foundations of logic: (1) Conclusions arrived at by deduction are only explicative, not ampliative, and (2) deductions cannot be justified by deductions. Thus, no science can be thoroughly provable, no more than a building can hover in the air, he says (BL, 527).
+Schopenhauer demonstrates this problem by referring to traditional proof theories. In syllogistics, for example, non-perfect inferences are reduced to perfect ones, more precisely, the so-called modus Barbara and the modus Celarent. Yet, why are the modes Barbara and Celarent considered perfect? Aristotle, for example, justifies this with the dictum de omni et nullo, while both Kantians and skeptics, such as Schopenhauer’s logic teacher Schulze, justify the perfection of Barbara and Celarent as well as the validity of the dictum de omni et nullo with the principle nota notae est nota rei ipsisus. However, Schopenhauer goes one step further and explains that all discursive principles fail as the foundations of science because an abstract representation (such as a principle, axiom, or grounding) cannot be the foundation for one of the faculties of abstract representation (logic, for example). If one, nevertheless, wants to claim such a foundation, one inevitably runs into a regressive, a dogmatic, or a circular argument (BL, 272).
+For this reason, Schopenhauer withdraws a step in the foundation of logic and offers a new solution that he repeats later as the foundation of geometry: Abstract representations are grounded on concrete representations, as abstract representations are themselves “representations of representations” (see above, Sect. 2.a.ii). The concrete representation is a posteriori or a priori intuition and both forms can be represented by RDs or logic diagrams. The abstract representation of logic is thus justified by the concrete representation of intuition, and the structures of intuition correspond to the structures of logic. For Schopenhauer, this argument can be proven directly using spatial logic diagrams (see above, Sect. 2.b.ii).
+The validity of an inference can, thus, be shown in concreto, while most abstract proofs illustrated using algebraic notations are not convincing. As Schopenhauer demonstrates in his chapters on mathematics, abstract-discursive proofs are not false or useless for certain purposes, but they cannot achieve what philosophers, logicians, and mathematicians aim to achieve when they ask about the foundations of rational thinking (compare Lemanski 2021b, chap. 2.3). This argument can also be understood as part of Schopenhauer’s reism or concretism (see above, Sect. 2.a.ii).
+ii. Logical Aristotelianism and Stoicism
+As described above, Schopenhauer’s focus is not on proving the validity of inferences, but on the question of which logical systems are simpler, more efficient, and, above all, more natural. Although he always uses medieval mnemonics, he explains that the scholastic system attributes only a name-giving, not a proof-giving, function to inferences. On the one hand, he is arguing against Galen and many representatives of Arabic logic when he claims that the fourth figure in syllogistics has no original function. On the other hand, he is also of the opinion that Kant overstepped the mark by criticizing all figures except the first one. The result of this detailed critique, which he carried out on all 19 valid modes and for all syllogistic figures, is proof of the validity of the archaic Aristotelian Organon. Therefore, Schopenhauer claims that Aristotle is right when he establishes three figures in syllogistics and that he is also right when it comes to establishing all general and special rules. The only innovation that Schopenhauer accepts in this respect is that logic diagrams show the abstract rules and differences between the three figures concretely and intuitively.
+According to Schopenhauer, a syllogistic inference is the realization of the relationship between two concepts formerly understood through the relationship of a third concept to each of them (BL, 296). Following the traditional doctrine, Schopenhauer divides the three terms into mAjor, mInor, and mEdius. He presents the 19 valid syllogisms as follows (BL, 304–321):
+1st Figure
+Barbara
+All  E are A, all I is E, thus all I is A.
+
+Celarent
+No E is A, all I is E, thus no I is A.
+
+Darii
+All E is A, some I is E, thus some I is A.
+Ferio
+No E is A, some I is E, thus some I is not A.
+2nd Figure
+Cesare
+No A is E, all I is E, thus no I is A.
+
+Camestres
+All A is E, no I is E, thus no I is A.
+
+Festino
+No A is E, some I is E, thus some I is not A.
+Baroco
+All A is E, some I is not E, thus some I is not A.
+
+3rd Figure
+Darapti
+All E is A, all E is I, thus some I is A.
+Felapton
+No E is A, all E is I, thus some I is not A.
+Disamis
+Some E is A, all E is I, thus some I is A.
+Datisi
+All E is A, some E is I, thus some I is A.
+Bocardo
+Some E is not A, all E is I, thus some I is not A.
+Ferison
+No E is A, some E is I, thus some I is not A.
+ 
+4th Figure ≈ 1st Figure
+Fesapo
+No A is E, all E is  I, thus some I is not A.
+Dimatis
+Some A is E, all E is I, thus some I is A.
+
+Calemes
+All A is E, no E is I, thus no I is A.
+Bamalip
+All A is E,  all E is I, thus some I is A.
+Fresison
+No A is E, some E is I, thus some I is not A.
+Remarkably, Schopenhauer transfers the method of dotted lines from Lambert’s line diagrams to his Euler-inspired RD3 (Moktefi 2020). These dotted lines, as in the case of Bocardo, are used to indicate the ambiguity of a judgment. Nevertheless, whether Schopenhauer applies this method consistently is a controversial issue (compare BL, 563 and what follows.).
+In addition to Aristotelian syllogistics, Schopenhauer also discusses Stoic logic (BL 333–339). However, Schopenhauer does not use diagrams in this discussion. He justifies this decision by saying that, here, one is dealing with already finished judgments rather than with concepts. Yet, this seems strange as, at this point in the text, Schopenhauer had already used diagrams in his discussion of the doctrine of judgment, which also represented inferences of Stoic logic. However, as the method was not yet well developed, it can be assumed that Schopenhauer failed to represent the entire Stoic logic with the help of RDs. Instead, in the chapter on Stoic logic, one finds characterization of the modus ponendo ponens and the modus tollendo tollens (hypothetical inferences), as well as the modus ponendo tollens and the modus tollendo ponens (disjunctive inferences). In addition, he also focused more intensively on dilemmas.
+iii. Naturalness in Logic
+One of the main topics in the doctrine of inferences is the naturalness of logic. For Schopenhauer, there are artificial logics, such as the mnemonics of scholastic logic or the mathematical demand for axiomatics, but there are also natural logics in certain degrees. Schopenhauer agrees with Kant that the first figure of Aristotelian syllogistics is the most natural one, “in that every thought can take its form” (BL, 302). Thus, the first figure is the “simplest and most essential rational operation” (ibid.) and most people unconsciously use one of the modes of the first figure for logical reasoning every day. In contrast to Kant, however, Schopenhauer does not conclude that all other figures are superfluous. For in order to make it clear that one wants to express a certain thought, one rightly falls back on the second and third figures.
+To determine the naturalness of the first three figures, Schopenhauer examines the function of the inferences in everyday reasoning and, thus, asks what thought they express. Similar to Lambert, Schopenhauer states that we use the first figure to identify characteristics or decisions. We use the second figure if we want to make a difference explicit (BL, 309), while the third figure is used to express or prove a paradox, anomaly, or exception. Schopenhauer gives each of the three figures its own name according to the thought operation expressed with the figure: the first figure is the “Handhabe” (manipulator), the second the “Scheidewand” (septum), and the third the “Anzeiger” (indicator) (BL, 316). As it is natural for humans to make such thought operations explicit, the first three figures are also part of a natural logic. Schopenhauer also explains that each of these three figures has its own enthymemic form and that the function of the medius differs with each figure (BL, 329).
+However, Schopenhauer argues intently against the fourth figure, which was introduced by Galen and then made public by Arabic logicians. It has no original function and is only the reversal of the first figure, that is to say, it does not indicate a decision itself, only evidence of a decision. Moreover, the fourth figure does not correspond to the natural grammatical structure through which people usually express their daily life. It is more natural when speakers put the narrower term in the place of the subject and the broader one in the place of the predicate. Although a reversal is possible, which allows the reversal from the first to the fourth figure, this reversal is unnatural. For example, it is more natural to say “No Bashire is a Christian” than to say “No Christian is a Bashire” (BL, 322).
+In the chapter on Stoic logic, the intense discussion of naturalness is lost, yet Schopenhauer points out here and elsewhere that there are certain forms of propositional logic that appear natural in the sciences and everyday language. Mathematicians, for example, tend to use the modus tollendo ponens in proof techniques, even though this technique is prone to error, as the tertium non datur does not apply universally (BL, 337, 512f.). As a result of such theses, Schopenhauer is often associated with intuitionism and the systems of natural deductions (compare Schueler et al. 2020; Koetsier 2005; Belle 2021).
+d. Further Topics of Analytic
+In addition to the areas mentioned thus far, the BL offer many other topics and arguments that should be of interest to many, not only researchers of the history and philosophy of logic. The major topics include, for example, a treatise on the Aristotelian rules, reasons, and principles of logic (BL, 323–331), a treatise on sorites (BL, 331–333), a treatise on modal logic (BL, 339–340), a further chapter on enthymemes (BL, 341–343), and a chapter on sophisms and false inferences (BL, 343–356).
+In the following sections, Schopenhauer’s views on (i) the history and development of logic, (ii) the parallels between logic and mathematics, and the focus on (iii) hermeneutics are discussed. As the chapter on sophisms and so forth is also used in dialectics, it is presented in Sect. 2.e.
+i. Schopenhauer’s History of Logic
+A history of logic in the narrower sense cannot be found in Schopenhauer’s treatise on logic in general (BL, 356 and what follows). However, Schopenhauer discusses the origin and development of Aristotelian logic in a longer passage on the question raised by logical algebra in the mid-18th century—and then prominently denied by Kant: Has there been any progress in logic since Aristotle?
+Naturally, as an Aristotelian and Kantian, Schopenhauer answers this question in the negative but admits that there have been “additions and improvements” to logic. Schopenhauer argues that Aristotle wrote the first “scientific logic”, but admits that there were earlier logical systems and claims that Aristotle united the attempts of his precursors into one scientific system. Schopenhauer also suggests that there may have been an early exchange between Indian and Greek logic.
+The additions and improvements to Aristotelian logic concern a total of five points (Pluder 2020), some of which have already been mentioned above: (1) The discussion of the laws of thought; (2) the scholastic mnemonic technique; (3) the propositional logic; (4) Schopenhauer’s own treatise on the relation between intuition and concept; and (5) the fourth figure, introduced by Galen. Schopenhauer considers some of these additions to be improvements (1, 3, 4) and considers others to be deteriorations (2 and especially 5). It seems strange that Schopenhauer does not refer to the use of spatial logic diagrams once again (BL, 270).
+ii. Logic and Mathematics
+Another extensive chapter of the BL, which is closely related to logic, discusses mathematics. This is no surprise, as Schopenhauer spent a semester studying mathematics with Bernhard Friedrich Thibaut in Göttingen and systematically worked through the textbooks by Franz Ferdinand Schweins, among others (Lemanski 2022b). As already discussed above, one advantage of the BL is that Schopenhauer took W I as a basis, expanded parts of it considerably, and incorporated into it some essential topics from his supplementary works. Thus, before the treatise on mathematics, one finds a detailed presentation of the four roots of sufficient reason, which Schopenhauer covered in his dissertation.
+Schopenhauer’s representation of mathematics concentrates primarily on geometry. His main thesis is that abstract-algebraic proofs are possible in geometry but, like logic, they lead to a circulus vitiosus, a dogma, or an infinite regress by proving their foundation (see above, Sect. 2.c.i). Therefore, as in logic, Schopenhauer argues that abstract proofs should be dispensed with and that concrete-intuitive diagrams and figures should be regarded as the ultimate justification of proofs instead. Thus, he argues that feeling (Gefühl) is an important element, even possibly the basis, of proofs for geometry and logic (Follessa 2020). However, this feeling remains intersubjectively verifiable with the help of logic diagrams and geometric figures.
+Schopenhauer discusses the main thesis of the text, in particular, in connection with the Euclidean system in which one finds both kinds of justification: discursive-abstract proofs, constructed with the help of axioms, postulates, and so forth, and concrete-intuitive proofs, constructed with the help of figures and diagrams. Similar to some historians of mathematics in the 20th century and some analytic philosophers in the 21st century, Schopenhauer believed that Euclid was seduced by rationalists into establishing an axiomatic-discursive system of geometry, although the validity of the propositions and problems was sufficiently justified by the possibility of concrete-intuitive representation (Béziau 1993).
+Schopenhauer goes so far as to attribute Euclid’s axiomatic system to dialectic and persuasion. With his axiomatic system, Euclid could only show that something is like that (knowing-that), while the visual system can also show why something is like that (knowing-why). Schopenhauer demonstrates this in the BL with reference to Euclid’s Elements I 6, I 16, I 47, and VI 31. He develops his own picture proof for Pythagoras’s theorem (Bevan 2020), though he then corrects it over the years (Costanzo 2020). Given the probative power of the figures in geometry, there are clear parallels to the function of Schopenhauer diagrams in logic. Schopenhauer can, therefore, be regarded as an early representative of “diagrammatic proofs” and “visual reasoning” in mathematics.
+Schopenhauer’s mathematics has been evaluated very differently in its two-hundred-year history of reception (Segala 2020, Lemanski 2021b, chap. 2.3). While Schopenhauer’s philosophy of geometry was received very positively until the middle of the 19th century, the Weierstrass School marks the beginning of a long period in which Schopenhauer’s approach was labeled a naive form of philosophy of mathematics. It was only with the advent of the so-called ‘proof without words’ movement and the rise of the so-called spatial or visual turn in the 1990s that Schopenhauer became interesting within the philosophy of mathematics once again (Costanzo 2020, Bevan 2020, Lemanski 2022b).
+iii. Hermeneutics
+The exploration and analysis of hermeneutics in Schopenhauer’s work are also closely related to logic. This has been the subject of intense and controversial discussion in Schopenhauer research. Overall, two positions can be identified: (1) Several researchers regard either Schopenhauer’s entire philosophy or some important parts of it as ‘hermeneutics. (2) Some researchers, however, deny that Schopenhauer can be called a hermeneuticist at all.
+(1) The form of hermeneutics that researchers see in Schopenhauer, however, diverges widely. For example, various researchers speak of “world hermeneutics”, “hermeneutics of existence”, “hermeneutics of factuality”, “positivist hermeneutics”, “hermeneutics of thought”, or “hermeneutics of knowledge” (Schubbe 2010, 2018, 2020; Shapshay 2020). What all these positions have in common is that they regard the activity of interpretation and deciphering as a central activity in Schopenhauer’s philosophy.
+(2) Other researchers argue, however, that Schopenhauer should not be ascribed to the hermeneutic position, while some even go as far as arguing that he is an “anti-hermeneutic”. The arguments of these researchers can be summarized as follows: (A1) Schopenhauer does not refer to authors of his time who are, today, called hermeneuticists. (A2) However, the term ‘hermeneutics’ does not actually fit philosophers of the early 19th century at all, as it was not fully developed until the 20th century. (A3) Schopenhauer is not received by modern hermeneutics.
+Representatives of position (1) consider the arguments outlined in (2) to be insufficiently substantiated (ibid). From a logical point of view, argument (A2) should be met with skepticism, as the term ‘hermeneutics’ can be traced back to the second book of the Organon of Aristotle at least. Schopenhauer takes up the theory of judgment contained in the Organon again in his Logica Maior (see above, Sect. 2.b) and, in addition, explains that judgment plays a central role not only in logic but also in his entire philosophy: Every insight is expressed in true judgments, namely, in conceptual relations that have a sufficient reason. Yet, guaranteeing the truth of judgments is more difficult than forming valid inferences from them (BL, 200, 360ff).
+e. Dialectic or Art of Persuasion
+In addition to the analytics discussed thus far, there is also a very important chapter on (eristic) dialectics or persuasion in the BL which can be seen as an addition to § 9 of W I and as a precursor of the famous fragment entitled Eristic Dialectics. The core chapter is BL 363–366, but the chapters on paralogisms, fallacies, and sophisms, as well as some of the preliminary remarks, also relate to dialectics (BL, 343–363), as does quite a bit of the information on analytics, such as the RDs. As seen in Kant, for Schopenhauer, analytic is the doctrine of being and truth, whereas dialectic is the doctrine of appearance and illusion. In analytic, a solitary thinker reflects on the valid relations between concepts or judgments; in dialectic, a proponent aims to persuade an opponent of something that is possible.
+According to Schopenhauer, the information presented in the chapter on paralogisms, fallacies, and sophisms belongs to both analytics and dialectics. In the former, their invalidity is examined; in the latter, their deliberate use in disputation is examined. Schopenhauer presents six paralogisms such as homonomy and amphiboly, seven fallacies such as ignoratio elenchi and petitio principii, and seven sophisms such as cornutus and crocodilinus. In total, 20 invalid argument types are described, with examples of each and partly subdivided into subtypes.
+In the core chapter on dialectics or the art of persuasion, Schopenhauer tries to reduce these invalid arguments to a single technique (Lemanski 2023). His main aim is, thus, a reductionist approach that does not even consider the linguistic subtleties of the dishonest argument but reveals the essence of the deliberate fallacy. To this end, he draws on the RDs from analytics and explains that any invalid argument that is intentionally made is based on a confusion of spheres or RDs.
+In an argument, one succumbs to a disingenuous opponent when one does not consider the RDs thoroughly but only superficially. Then one may admit that two terms in a judgment indicate a community without noticing that this community is only a partial one. Instead of the actual RD5 relation between two spheres, one is led, for example, by inattention or more covertly by paralogisms, fallacies, and sophisms, to acknowledge an RD1 or, more often, an RD2. According to Schopenhauer, dialectics is based on this confusion, as almost all concepts share a partial semantic neighborhood with another concept. Thus, it can happen that one concedes more and more small-step judgments to the opponent and then suddenly arrives at a larger judgment, a conclusion, that one would not have originally accepted at all.
+Schopenhauer gives several examples of this procedure from science and everyday life and also simulates this confusion of spheres by constructing fictional discussions about ethical arguments between philosophers. In doing so, Schopenhauer uses RDs several times to demonstrate which is the valid (analytic) and which is the feigned (dialectical) relation of the spheres. Then, he goes one step further. In order to demonstrate that one can start from a concept and argue just as convincingly for or against it, Schopenhauer designs large argument maps to indicate possible courses of conversation (Lemanski 2021b, Bhattarcharjee et al. 2022).
+Fig. 8 shows the sphere of the concept of good (“Gut”) on the left, the sphere of the concept of bad (“Uebel”) on the right, and the concept of country life (“Landleben”) in the middle. Starting with the term in the middle, namely, ‘country life’, the diagram reflects the partial relationship of this term with the adjacent spheres. When one chooses an adjacent sphere, for example, the adjacent circle ‘natural’ (“naturgemäß”), together, these two spheres form the small-step judgment: ‘Country life is natural’. This predicate can then be combined with another adjacent sphere to form a new judgment. Moving through the circles in this way, if one at some point arrives at ‘good’, for example, and the disputant has conceded all the small-step judgments en route, one can draw the overall conclusion that ‘country life is good’. However, as one can just as effectively argue for ‘country life is bad’ via other spheres, the argument map is a visualization of dialectical relations.
+Schopenhauer also used such diagrams in the dialectic of W I, § 9, for example, the more famous “diagram of good and evil”, which has been interpreted as one of the first logic diagrams for -terms (Moktefi and Lemanski 2018), as a precursor of a diagrammatic fuzzy-logic (Tarrazo 2004), and as an argument map in which the RD5s are used as graphs (Bhattarcharjee et al. 2022). If one relates the dialectic of the BL to the other texts on dialectics, it can be said that this dialectic serves as a bridge between the short diagrammatic dialectic of the W I and the well-known fragment entitled Eristic Dialectics, in which the paralogisms, in particular, were elaborated.
+
+Figure 8
+ 
+3. Schopenhauer’s Logica Minor
+Schopenhauer’s Berlin Lectures must be considered a Logica Maior due to the enormous size and complexity of their original subjects (especially in comparison to many other 19th-century writings). Nevertheless, one can also locate and collect a Logica Minor in Schopenhauer’s other writings. In the following, the most important treatises on analytic and dialectic from the other works of Schopenhauer are briefly presented. Even though the BL and the other writings have some literal similarities, the BL should remain the primary reference when assessing the various topics in the other writings.
+a. Fourfold Root
+The first edition of Schopenhauer’s dissertation, the Fourfold Root of the Principle of Sufficient Reason, was published in 1813 and a revised and extended edition was published in 1847. The second edition contains numerous additions that are not always regarded as improvements or helpful supplements. In the 1813 version of chapter 5, logic is addressed through the principle of sufficient reason of knowing. Schopenhauer follows a typical compositional approach in which inferences are considered compositions of judgments and judgments as compositions of concepts. The treatise in this chapter, however, is primarily concerned with the doctrine of concepts.
+Although Schopenhauer points out that concepts have a sphere, there are no logic diagrams to illustrate this metaphor in the work. Schopenhauer deals mainly with the utility of concepts, the relationship between concept and intuition, and the doctrine of truth. The philosophy of mathematics and its relation to logic are discussed in chapters 3 and 8.
+The discussion of the doctrine of truth is especially close to the text of the BL as Schopenhauer already distinguishes between logical, empirical, metaphysical, and metalogical truth. Although the expression “metalogica” is much older, this book uses the term ‘metalogic’ in the modern sense for the first time (Béziau 2020).
+Furthermore, it can be argued that Schopenhauer presented the first complete treatise on the principle of sufficient reason in this book. While the other principles popularized by Leibniz and Wolff have found their way into today’s classical logic, that is, the principles of non-contradiction, identity, and the excluded middle, the principle of sufficient reason was considered non-formalizable and, therefore, not a basic principle of logic in the early 20th century. Newton da Costa, on the other hand, proposed a formalization that has made Schopenhauer’s laws of thought worthy of discussion again (Béziau 1992).
+b. World as Will and Representation I (Chapter 9)
+Chapter 9 (that is, § 9) of the W I takes up the terminology of Fourfold Root again and extends several elements of it. Schopenhauer first develops a brief philosophy of language to clarify the relationship between intuition and concept. He then introduces analytic by explaining the metaphors used in the doctrine of concepts, that is, higher-lower (buildings of concepts) and wider-narrower (spheres of concepts). Schopenhauer keeps to the metaphor of the sphere and explains that Euler, Lambert, and Ploucquet had already represented this metaphor with the help of diagrams. He draws some of the diagrams discussed above in Sect. 2.a— RD3 is missing—and explains that these are the fundament for the entire doctrine of judgments and inferences. Here, too, Schopenhauer represents a merely compositional position: judgments are connections of concepts while inferences are composed of judgments. However, in § 9, there is no concrete doctrine of judgment or inference. The principles of logic are also listed briefly in only one sentence.
+Although W I makes the descriptive claim to represent all elements of the world, the logic presented here must be considered highly imperfect and incomplete. Schopenhauer explains that everyone, by nature, masters logical operations; thus, it is reserved for academic teaching alone to present logic explicitly and in detail, and this is what is done in the BL for an academic audience.
+In the further course of § 9, Schopenhauer also discusses dialectics, which contains an argument map similar to the one illustrated above (see above, Sect. 2.e) but also lists some artifices (“Kunstgriffe”) known from later writings including the BL and Eristic Dialectic (ibid.). The philosophy of mathematics and its relation to logic are discussed in § 15 of the W I.
+c. Eristic Dialectics
+Of all the texts on Schopenhauer’s logic listed here, the manuscript produced in the early 1830s that he entitled Eristic Dialectic is the best known. It is usually presented separately from all other texts in editions that bear ambiguous titles such as The Art of (Always) Being Right or The Art of Winning an Argument. Schopenhauer himself titled the manuscript Eristic Dialectic. The term ‘eristics’ comes from the Greek ‘erizein’ and means ‘contest, quarrel’ and is personified in Greek mythology by the goddess Eris. Although Schopenhauer also uses the above ambiguous expressions in the text (for example, 668, 675), these are primarily understood as translations of the Greek expression ‘eristiké téchne’.
+Regardless of the context, the ambiguous titles suggest that Schopenhauer is here recommending that his readers use obscure techniques in order to assert themselves against other speakers. Even though there are text fragments that partially convey this normative impression, Schopenhauer’s goal is, however, of a preventive nature: He seeks to give the reader a means to recognize and call out invalid but deliberately presented arguments and, thus, be able to defend themself (VI, 676). Therefore, Schopenhauer is not encouraging people to violate the ethical rules of good argumentation (Lemanski 2022a); rather, he is offering an antidote to such violations (Chichi 2002, 165, 170, Hordecki 2018). However, this fragment is often interpreted normatively, and in the late 20th and early 21st centuries, it was often instrumentalized in training courses for salesmen, managers, lawyers, politicians, and so forth, as a guide to successful argumentation.
+The manuscript consists of two main parts. In the first, Schopenhauer describes the relationship between analytics and dialectics (VI, 666), defines dialectics several times (2002, 165), and outlines its history with particular reference to Aristotle (VI, 670–675). The second main part is divided into two subsections. The first subsection describes the “basis of all dialectics” and gives two basic modes (VI, 677 f.). The second subsection (VI, 678–695) is followed by 38 artifices (“Kunstgriffe”), which are explained clearly with examples. These artifices, which Schopenhauer also called ‘stratagems’, can be divided into preerotematic (art gr. 1–6), erotematic (7–18), and posterotematic (19–38) stratagems (compare Chichi 2002, 177).
+The manuscript is unfinished and, therefore, the fragment is also referred to by Schopenhauer as a “first attempt” (VI, 676f.). According to modern research, both main parts are revisions of the Berlin Lectures, designed for independent publication: the first main part being an extension of BL 356–363, the second main part a revised version of BL 343–356. It can be assumed that Schopenhauer either wanted to add another chapter on the reduction of all stratagems to diagrams (as given in BL 363–366) or that he intended to dispense with the diagrams, as they would have presupposed knowledge of analytics. In any case, it can be assumed that Schopenhauer would have edited the fragment further before publishing it, as the manuscripts are not at the same standard as Schopenhauer’s printed works.
+Despite the misuse of the fragment described above, researchers in several areas, for example in the fields of law, politics, pedagogy, ludics and artificial intelligence, are using the fragment productively (for example, Fouqueré et al. 2012, Lübbig 2020, Marciniak 2020, Hordecki 2021).
+d. World as Will and Representation II (Chapters 9 and 10)
+In the very first edition of W II in 1844, Schopenhauer extended the incomplete explanations of logic given in W I with his doctrines of judgment (chapter 9) and inference (chapter 10). He adopts some text passages and results of the BL, but only briefly hints at many of these topics, theses, and arguments. In comparison to the BL, chapters 9 and 10 of W II also appear to be an unsatisfactory approach to logic.
+In his discussion of the doctrine of judgment, Schopenhauer pays particular attention to the function of the copula in addition to giving further explanations of the forms of judgments. In the doctrine of inference, he continues to advocate for Aristotelianism and argues against both Galen’s fourth figure and Kant’s reduction to the first figure. Furthermore, the text suggests an explanation for why Schopenhauer presents such an abbreviated representation of logic here. Schopenhauer explains in chapter 10 that RDs are a suitable technique to prove syllogisms although they are not appropriate for use in propositional logic. It seems as if Schopenhauer is going against some of the arguments of his former doctrine of diagrammatic reasoning (presented, for example, in Sect. 2.b.ii). Nevertheless, he presents this critique or skepticism almost reluctantly as an addition to W I. Although he does include some RDs, which mainly represent syllogistic inferences, in chapters 9 and 10, he also hints at a more advanced diagrammatic system based on “bars” and “hooks” several times.
+However, these text passages, which point to a new diagrammatic system, remain only hints whose meaning cannot yet be grasped. Based on these dark text passages, Kewe (1907) has tried to reconstruct an alternative logic system that is supposed to resemble the structure of a voltaic column as Schopenhauer himself hinted at such a comparison at the end of chapter 10 of W II. However, Kewe’s proposal is a logically trivial, if diagrammatically very complex, interpretation that almost only highlights the disadvantages in comparison to the system of RDs.
+It is more obvious that Schopenhauer thinks of these passages as a diagrammatic technique that was published in Karl Christian Friedrich Krause’s Abriss des Systemes der Logik in the late 1820s. This interpretation of W II is more plausible as Schopenhauer was in personal contact with Krause for a longer time (Göcke 2020). However, future research must clarify whether this thesis is tenable. To date, unfortunately, no note from among the manuscripts remains has been identified that may illustrate the technique described in W II, chapter 10.
+e. Parerga and Paralipomena II
+Parerga and Paralipomena II, chapter 2 contains a treatise on “Logic and Dialectic”. Although this chapter was written in the 1850s, it is the worst treatise Schopenhauer published on logic. In just a few paragraphs, he attempts to cover topics such as truth, analytic and synthetic judgments, and proofs. The remaining paragraphs are extracts from or paraphrases of the manuscript on Eristic Dialectics or the BL. One can see from these passages that there was a clear break in Schopenhauer’s writings around the 1830s and that his late work tended to omit rational topics. Schopenhauer also explained that he was no longer interested in working on the fragment on Eristic Dialectics, as the subject showed him the wickedness of human beings and he no longer wanted to concern himself with it.
+4. Research Topics
+Research into Schopenhauer’s philosophy of language, logic, and mathematics is still in its infancy because, for far too long, normativists concentrated on other topics in Schopenhauer’s theory of representation, including his epistemology and, especially, his idealism. The importance of the second part of the theory of representation, namely, the theory of reason (language, knowledge, practical action), has been almost completely ignored. However, as language and logic are the media that give expression to Schopenhauer’s entire system, it can be said that one of the most important methodological and content-related parts of the system of Schopenhauer’s complete oeuvre has, historically, been largely overlooked.
+The following is a rough overview of research to be done on Schopenhauer’s logic. It is shown that these writings still offer interesting topics and theses. In particular, Schopenhauer’s use of logic diagrams is likely to meet with much interest in the course of intensive research into diagrammatic and visual reasoning. Nevertheless, many special problems and general questions remain unsolved. The most important general questions concern the following points:
+
+Do we have all of Schopenhauer’s writings on logic, or are there manuscripts that have not yet been identified? In particular, the fact that Schopenhauer uses diagrams that are not discussed in the text and discusses diagrams that are not illustrated in the text suggests that Schopenhauer knew more about logic diagrams than can be gleaned from his known books and manuscripts.
+How great is the influence of Schopenhauer’s logic on modern logic (especially the Vienna Circle, the school of Münster, the Lwów-Warsaw school, intuitionism, metalogic, and so forth)? Schopenhauer’s Berlin Lectures were first fully published in 1913, a period that saw the intensive reception of Schopenhauer’s teachings on logic in those schools. For example, numerous researchers have been discussing Schopenhauer’s influence on Wittgenstein for decades (compare Glock 1999). One can observe an influence on modern logic in the works of Moritz Schlick, Béla Juhos, Edith Matzun, and L. E. J. Brouwer. However, this relationship has, thus far, been consistently ignored in research.
+What is Schopenhauer’s relationship to the pioneering logicians of his time (for example, Krause, Jakob Friedrich Fries, Carl Friedrich Bachmann, and so forth)? Previous sections have indicated that Schopenhauer’s logic may have been close to that of Krause. Bachmann, another remarkable logician of the early 19th century, was also in contact with Schopenhauer. The fact that Schopenhauer was personally influenced by Schulze’s logic is well documented. In addition, Schopenhauer knew various logic systems from the 18th and 19th centuries; however, many studies are needed to clarify these relationships.
+To what extent does Schopenhauer’s logic differ from the systems of his contemporaries? Many of Schopenhauer’s innovations and additions to logic have already been recognized. Yet, the question remains, to what extent does Schopenhauer’s approach to visual reasoning correspond to the Zeitgeist? At first glance, it seems obvious, for example, that Schopenhauer strongly contradicted the Leibnizian and Hegelian schools, the Hegelian schools especially, by separating logic and metaphysics from each other and emphasizing instead the kinship of logic and intuition.
+To what extent can Schopenhauer’s ideas about logic and logic diagrams be applied to contemporary fields of research? Schopenhauer did not design ‘a logic’ that would meet today’s standards of logic without comment, but rather a stimulating philosophy of logic and ideas about visual reasoning. Schopenhauer questioned many principles that are often widely accepted today. Moreover, he offers many diagrammatic and graphical ideas that could be developed in many modern directions. Schopenhauer’s approaches, which were interpreted as contributions to fuzzy logic, -term logic, natural logic, metalogic, ludics, graph theory and so forth also require further intensive research.
+How can Schopenhauer’s system of (for example, W I) be reconstructed using logic? This question is motivated by the fact that some logical techniques have already been successfully applied to Schopenhauer’s system. For example, Matsuda (2016) has offered a precise interpretation of Schopenhauer’s world as a cellular automaton based on the so-called Rule 30 ( ) elaborated by Stephen Wolfram. In Schopenhauer’s system, logic thus has a double function: As part of the world, the discipline called logic must be analyzed as any other part of the system. However, as an instrument or organon of expression and reason, it is itself the medium through which the world and everything in it are described. This raises the question of what an interpretation of Schopenhauer’s philosophical system using his logic diagrams would look like.
+
+5. References and Further Readings
+a. Schopenhauer’s Works
+
+Schopenhauer, A.: Philosophische Vorlesungen, Vol. I. Ed. by F. Mockrauer. (= Sämtliche Werke. Ed. by P. Deussen, Vol. 9). München (1913). Cited as BL.
+Schopenhauer, A.: The World as Will and Representation: Vol. I. Transl. by J. Norman, A. Welchman, C. Janaway. Cambridge (2014). Cited as W I.
+Schopenhauer, A.: The World as Will and Representation: Vol. II. Transl. by J. Norman, A. Welchman, C. Janaway. Cambridge (2015). Cited as W II.
+Schopenhauer, A.: Parerga and Paralipomena. Vol I. Translated by S. Roehr, C. Janaway. Cambridge (2014).
+Schopenhauer, A.: Parerga and Paralipomena. Vol II. Translated by S. Roehr, C. Janaway. Cambridge (2014).
+Schopenhauer, A.: Manuscript Remains: Early Manuscripts 1804–1818. Ed. by Arthur Hübscher; translated by E. F. J. Payne Oxford et. al. (1988).
+Schopenhauer, A.: Manuscript Remains: Critical Debates (1809–1818). Ed. by Arthur Hübscher; translated by E. F. J. Payne Oxford et. al. (1989).
+Schopenhauer, A.: Manuscript Remains: Berlin Manuscripts (1818–1830). Ed. by Arthur Hübscher; translated by E. F. J. Payne Oxford et. al. (1988).
+Schopenhauer, A.: Manuscript Remains: The Manuscript Books of 1830–1852 and Last Manuscripts. Ed. by Arthur Hübscher; translated by E. F. J. Payne Oxford et. al. (1990).
+
+b. Other Works
+
+Baron, M. E. (1969) A Note on the Historical Development of Logic Diagrams: Leibniz, Euler and Venn. In Mathematical Gazette 53 (384), 113–125.
+Bevan, M. (2020) Schopenhauer on Diagrammatic Proof. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 305–315.
+Belle, van, M. (2021) Schopenbrouwer: De rehabilitatie van een miskend genie. Postbellum, Tilburg.
+Béziau, J.-Y. (2020) Metalogic, Schopenhauer and Universal Logic. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 207–257.
+Béziau, J.-Y. (1993) La critique Schopenhauerienne de l’usage de la logique en mathématiques. O que nos faz pensar 7, 81–88.
+Béziau, J.-Y. (1992) O Princípio de Razão Suficiente e a lógica segundo Arthur Schopenhauer. In Évora, F. R. R. (Hg.): Século XIX. O Nascimento da Ciência Contemporânea. Campinas, 35–39.
+Bhattarchajee, R., Lemanski, J. (2022) Combing Graphs and Eulerian Diagrams in Eristic. In : Diagrams. In: Giardino, V., Linker, S., Burns, R., Bellucci, F., Boucheix, JM., Viana, P. (eds) Diagrammatic Representation and Inference. Diagrams 2022. Lecture Notes in Computer Science, vol 13462. Springer, Cham, 97–113.
+Birnbacher, D. : Schopenhauer und die Tradition der Sprachkritik. Schopenhauer-Jahrbuch 99 (2018), 37–56.
+Chichi, G. M. (2002) Die Schopenhauersche Eristik. Ein Blick auf ihr Aristotelisches Erbe. In Schopenhauer-Jahrbuch 83, 163–183.
+Coumet, E. (1977) Sur l’histoire des diagrammes logiques : figures géométriques. In Mathématiques et Sciences Humaines 60, 31–62.
+Costanzo, J. (2020) Schopenhauer on Intuition and Proof in Mathematics. In Lemanski, J. (ed.) Language, Logic and Mathematics in Schopenhauer. Birkhäuser, Cham, 287–305.
+Costanzo, Jason M. (2008) The Euclidean Mousetrap. Schopenhauer’s Criticism of the Synthetic Method in Geometry. In Journal of Idealistic Studies 38, 209–220.
+D’Alfonso, M. V. (2018) Arthur Schopenhauer, Anmerkungen zu G. E. Schulzes Vorlesungen zur Logik (Göttingen 1811). In I Castelli di Yale Online 6(1), 191–246.
+Demey, L. (2020) From Euler Diagrams in Schopenhauer to Aristotelian Diagrams in Logical Geometry. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 181–207.
+Dobrzański, M. (2017) Begriff und Methode bei Arthur Schopenhauer. Königshausen & Neumann, Würzburg.
+Dobrzański, M. (2020) Problems in Reconstructing Schopenhauer’s Theory of Meaning. With Reference to his Influence on Wittgenstein. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 25–57.
+Dobrzański, M., Lemanski, J. (2020) Schopenhauer Diagrams for Conceptual Analysis. In: Pietarinen, A.-V. et al: Diagrammatic Representation and Inference. 11th International Conference, Diagrams 2020, Tallinn, Estonia, August 24–28, 2020, Proceedings. Springer, Cham, 281–288.
+Dümig, S. (2016) Lebendiges Wort? Schopenhauers und Goethes Anschauungen von Sprache im Vergleich. In: D. Schubbe & S.R. Fauth (Hg.): Schopenhauer und Goethe. Biographische und philosophische Perspektiven. Meiner, Hamburg, 150–183
+Dümig, S. (2020) The World as Will and I-Language. Schopenhauer’s Philosophy as Precursor of Cognitive Sciences. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 85–95.
+Fischer, K.: Schopenhauers Leben, Werke und Lehre. 3rd ed. Winters, Heidelberg 1908.
+Follesa, L. (2020) From Necessary Truths to Feelings: The Foundations of Mathematics in Leibniz and Schopenhauer. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 315–326.
+Fouqueré, C., Quatrini, M. (2012). Ludics and Natural Language: First Approaches. In: Béchet, D., Dikovsky, A. (eds.) Logical Aspects of Computational Linguistics. LACL 2012. Lecture Notes in Computer Science, vol 7351. Springer, Berlin, Heidelberg, 21–44.
+Glock, H. -J. (1999) Schopenhauer and Wittgenstein Language as Representation and Will. In: In Christopher Janaway (ed.), The Cambridge Companion to Schopenhauer. Cambridge Univ. Press, Cambridge, 422–458.
+Göcke, B. P. (2020) Karl Christian Friedrich Krause’s Influence on Schopenhauer’s Philosophy. In Wicks, R. L. (ed.) The Oxford Handbook of Schopenhauer. Oxford Univ. Press, New York.
+Heinemann, A. -S. (2020) Schopenhauer and the Equational Form of Predication. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 165–181.
+Hordecki, B. (2018). The strategic dimension of the eristic dialectic in the context of the general theory of confrontational acts and situations. In: Przegląd Strategiczny 11, 19–26.
+Hordecki, B. (2021) “Dialektyka erystyczna jako sztuka unikania rozmówców nieadekwatnych”, Res Rhetorica 8(2), 18–129.
+Jacquette, D. (2012) Schopenhauer’s Philosophy of Logic and Mathematics. In Vandenabeele, B. (ed.) A Companion to Schopenhauer. Wiley-Blackwell, Chichester, 43–59.
+Janaway, C. (2014) Schopenhauer on Cognition. O. Hallich & M. Koßler (ed.): Arthur Schopenhauer: Die Welt als Wille und Vorstellung. Akademie, Berlin, 35–50.
+Kewe, A. (1907) Schopenhauer als Logiker. Bach, Bonn.
+Koetsier, Teun (2005) Arthur Schopenhauer and L. E. J. Brouwer. A Comparison. In: L. Bergmans & T. Koetsier (ed.): Mathematics and the Divine. A Historical Study. Elsevier, Amsterdam, 571–595.
+Koßler, M. (2020) Language as an “Indispensable Tool and Organ” of Reason. Intuition, Concept and Word in Schopenhauer. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 15–25.
+Lemanski, J. (2016) Schopenhauers Gebrauchstheorie der Bedeutung und das Kontextprinzip. Eine Parallele zu Wittgensteins Philosophischen Untersuchungen. In: Schopenhauer-Jahrbuch 97, 171–197.
+Lemanski, J. (2017) ショーペンハウアーにおける意味の使用理論と文脈原理 : ヴィトゲンシュタイン ショーペンハウアー研究 = Schopenhauer-Studies 22, 150–190.
+Lemanski, J. (2021) World and Logic. College Publications, London.
+Lemanski, J. (2022a) Discourse Ethics and Eristic. In: Polish Journal of Aesthetics 62, 151–162.
+Lemanski, J. (2022b) Schopenhauers Logikdiagramme in den Mathematiklehrbüchern Adolph Diesterwegs. In. Siegener Beiträge zur Geschichte und Philosophie der Mathematik 16 (2022), 97–127.
+Lemanski, J. (2023) Logic Diagrams as Argument Maps in Eristic Dialectics. In: Argumentation, 1–21.
+Lemanski J. and Dobrzanski, M. (2020) Reism, Concretism, and Schopenhauer Diagrams. In: Studia Humana 9, 104–119.
+Lübbig Thomas (2020), Rhetorik für Plädoyer und forensischen Streit. Mit Schopenhauer im Gerichtssaal. Beck, München.
+Matsuda, K. (2016) Spinoza’s Redundancy and Schopenhauer’s Concision. An Attempt to Compare Their Metaphysical Systems Using Diagrams. Schopenhauer-Jahrbuch 97, 117–131.
+Marciniak, A. (2020) Wprowadzenie do erystyki dla pedagogów – Logos. Popraw-ność materialna argumentu, In: Studia z Teorii Wychowania 11:4, 59–85.
+Menne, A. (2003) Arthur Schopenhauer. In: Hoerster, N. (ed.) Klassiker des philosophischen Denkens. Vol. 2. 7th ed. DTV, München, 194–230.
+Moktefi, A. and Lemanski, J. (2018) Making Sense of Schopenhauer’s Diagram of Good and Evil. In: Chapman, P. et al. (eds.) Diagrammatic Representation and Inference. 10th international Conference, Diagrams 2018, Edinburgh, UK, June 18–22, 2018. Proceedings. Springer, Berlin et al., 721–724.
+Moktefi, A. (2020) Schopenhauer’s Eulerian Diagrams. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 111–129.
+Pedroso, M. P. O. M. (2016) Conhecimento enquanto Afirmação da Vontade de Vida. Um Estudo Acerca da Dialética Erística de Arthur Schopenhauer. Universidade de Brasília, Brasília 2016.
+Pluder, V. (2020) Schopenhauer’s Logic in its Historical Context. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Basel, 129–143.
+Regehly, T. (2018) Die Berliner Vorlesungen: Schopenhauer als Dozent. In Schubbe, D., Koßler, M. (ed.) Schopenhauer-Handbuch: Leben – Werk – Wirkung. 2nd ed. Metzler, Stuttgart, 169–179.
+Saaty, T. L. (2014) The Three Laws of Thought, Plus One: The Law of Comparisons. Axioms 3:1, 46–49.
+Salviano, J. (2004) O Novíssimo Organon: Lógica e Dialética em Schopenhauer. In: J. C. Salles (Ed.). Schopenhauer e o Idealismo Alemão. Salvador 99–113.
+Schroeder, S. (2012) Schopenhauer’s Influence on Wittgenstein. In: Vandenabeele, B. (ed.) A Companion to Schopenhauer. Wiley-Blackwell, Chichester et al., 367–385.
+Schubbe, D. (2010) Philosophie des Zwischen. Hermeneutik und Aporetik bei Schopenhauer. Königshausen & Neumann, Würzburg.
+Schubbe, D. (2018) Philosophie de l’entre-deux. Herméneutique et aporétique chez Schopenhauer. Transl. by Marie-José Pernin. Presses Universitaires Nancy, Nancy.
+Schubbe, D. and Lemanski, J. (2019) Problems and Interpretations of Schopenhauer’s World as Will and Representation. In: Voluntas – Revista Internacional de Filosofia 10(1), 199–210.
+Schubbe, D. (2020) Schopenhauer als Hermeneutiker? Eine Replik auf Thomas Regehlys Kritik einer hermeneutischen Lesart Schopenhauers. In: Schopenhauer-Jahrbuch, 100, 139–147.
+Schüler, H. M. & Lemanski, J. (2020) Arthur Schopenhauer on Naturalness in Logic. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 145–165.
+Schulze, G. E. (1810) Grundsätze der Allgemeinen Logik. 2nd ed. Vandenhoeck und Ruprecht, Göttingen.
+Schumann, G. (2020) A Comment on Lemanski’s “Concept Diagrams and the Context Principle”. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 73–85.
+Segala, M. (2020) Schopenhauer and the Mathematical Intuition as the Foundation of Geometry. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Birkhäuser, Cham, 261–287.
+Shapshay, S. (2020) The Enduring Kantian Presence in Schopenhauer’s Philosophy. In: R. L. Wicks (ed.) The Oxford Handbook of Schopenhauer. Oxford Univ. Press, Oxford, 110–126.
+Tarrazo, M. (2004) Schopenhauer’s Prolegomenon to Fuzziness. In: Fuzzy Optimization and Decision Making 3, 227–254.
+Weimer, W. (1995) Ist eine Deutung der Welt als Wille und Vorstellung heute noch möglich? Schopenhauer nach der Sprachanalytischen Philosophie. In: Schopenhauer-Jahrbuch 76, 11–53.
+Weimer, W.: (2018) Analytische Philosophie. In Schubbe, D., Koßler, M. (eds.) Schopenhauer-Handbuch. Leben – Werk – Wirkung. 2nd ed. Metzler, Stuttgart, 347–352.
+Xhignesse, M. -A. (2020) Schopenhauer’s Perceptive Invective. In Lemanski, J. (ed.) Language, Logic, and Mathematics in Schopenhauer. Birkhäuser, Cham, 95–107.
+
+ 
+Author Information
+Jens Lemanski
+Email: jenslemanski@gmail.com
+University of Münster
+Germany
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+A Priori and A Posteriori | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Priori and A Posteriori
+The terms “a priori” and “a posteriori” are used primarily to denote the foundations upon which a proposition is known. A given proposition is knowable a priori if it can be known independent of any experience other than the experience of learning the language in which the proposition is expressed, whereas a proposition that is knowable a posteriori is known on the basis of experience. For example, the proposition that all bachelors are unmarried is a priori, and the proposition that it is raining outside now is a posteriori.
+The distinction between the two terms is epistemological and immediately relates to the justification for why a given item of knowledge is held. For instance, a person who knows (a priori) that “All bachelors are unmarried” need not have experienced the unmarried status of all—or indeed any—bachelors to justify this proposition. By contrast, if I know that “It is raining outside,” knowledge of this proposition must be justified by appealing to someone’s experience of the weather.
+The a priori /a posteriori distinction, as is shown below, should not be confused with the similar dichotomy of the necessary and the contingent or the dichotomy of the analytic and the synthetic. Nonetheless, the a priori /a posteriori distinction is itself not without controversy. The major sticking-points historically have been how to define the concept of the “experience” on which the distinction is grounded, and whether or in what sense knowledge can indeed exist independently of all experience. The latter issue raises important questions regarding the positive, that is, actual, basis of a priori knowledge — questions which a wide range of philosophers have attempted to answer. Kant, for instance, advocated a “transcendental” form of justification involving “rational insight” that is connected to, but does not immediately arise from, empirical experience.
+This article provides an initial characterization of the terms “a priori” and “a posteriori,” before illuminating the differences between the distinction and those with which it has commonly been confused. It will then review the main controversies that surround the topic and explore opposing accounts of a positive basis of a priori knowledge that seek to avoid an account exclusively reliant on pure thought for justification.
+Table of Contents
+
+An Initial Characterization
+The Analytic/Synthetic Distinction
+The Necessary/Contingent Distinction
+The Relevant Sense of “Experience”
+The Relevant Sense of “Independent”
+Positive Characterizations of the A Priori
+References and Further Reading
+
+1. An Initial Characterization
+“A priori” and “a posteriori” refer primarily to how, or on what basis, a proposition might be known. In general terms, a proposition is knowable a priori if it is knowable independently of experience, while a proposition knowable a posteriori is knowable on the basis of experience. The distinction between a priori and a posteriori knowledge thus broadly corresponds to the distinction between empirical and nonempirical knowledge.
+The a priori/a posteriori distinction is sometimes applied to things other than ways of knowing, for instance, to propositions and arguments. An a priori proposition is one that is knowable a priori and an a priori argument is one the premises of which are a priori propositions. Correspondingly, an a posteriori proposition is knowable a posteriori, while an a posteriori argument is one the premises of which are a posteriori propositions. (An argument is typically regarded as a posteriori if it is comprised of a combination of a priori and a posteriori premises.) The a priori/a posteriori distinction has also been applied to concepts. An a priori concept is one that can be acquired independently of experience, which may – but need not – involve its being innate, while the acquisition of an a posteriori concept requires experience.
+The component of knowledge to which the a priori/a posteriori distinction is immediately relevant is that of justification or warrant. (These terms are used synonymously here and refer to the main component of knowledge beyond that of true belief.) To say that a person knows a given proposition a priori is to say that her justification for believing this proposition is independent of experience. According to the traditional view of justification, to be justified in believing something is to have an epistemic reason to support it, a reason for thinking it is true. Thus, to be a priori justified in believing a given proposition is to have a reason for thinking that the proposition is true that does not emerge or derive from experience. By contrast, to be a posteriori justified is to have a reason for thinking that a given proposition is true that does emerge or derive from experience. (See Section 6 below for two accounts of the a priori/a posteriori distinction that do not presuppose this traditional conception of justification.) Examples of a posteriori justification include many ordinary perceptual, memorial, and introspective beliefs, as well as belief in many of the claims of the natural sciences. My belief that it is presently raining, that I administered an exam this morning, that humans tend to dislike pain, that water is H2O, and that dinosaurs existed, are all examples of a posteriori justification. I have good reasons to support each of these claims and these reasons emerge from my own experience or from that of others. These beliefs stand in contrast with the following: all bachelors are unmarried; cubes have six sides; if today is Tuesday then today is not Thursday; red is a color; seven plus five equals twelve. I have good reasons for thinking each of these claims is true, but the reasons do not appear to derive from experience. Rather, I seem able to see or apprehend the truth of these claims just by reflecting on their content.
+The description of a priori justification as justification independent of experience is of course entirely negative, for nothing about the positive or actual basis of such justification is revealed. But the examples of a priori justification noted above do suggest a more positive characterization, namely, that a priori justification emerges from pure thought or reason. Once the meaning of the relevant terms is understood, it is evident on the basis of pure thought that if today is Tuesday then today is not Thursday, or when seven is added to five the resulting sum must be twelve. We can thus refine the characterization of a priori justification as follows: one is a priori justified in believing a given proposition if, on the basis of pure thought or reason, one has a reason to think that the proposition is true.
+These initial considerations of the a priori/a posteriori distinction suggest a number of important avenues of investigation. For instance, on what kind of experience does a posteriori justification depend? In what sense is a priori justification independent of this kind of experience? And is a more epistemically illuminating account of the positive character of a priori justification available: one that explains how or in virtue of what pure thought or reason might generate epistemic reasons? But before turning to these issues, the a priori/a posteriori distinction must be differentiated from two related distinctions with which it is sometimes confused: analytic/synthetic; and necessary/contingent.
+2. The Analytic/Synthetic Distinction
+The analytic/synthetic distinction has been explicated in numerous ways and while some have deemed it fundamentally misguided (e.g., Quine 1961), it is still employed by a number of philosophers today. One standard way of marking the distinction, which has its origin in Kant (1781), turns on the notion of conceptual containment. By this account, a proposition is analytic if the predicate concept of the proposition is contained within the subject concept. The claim that all bachelors are unmarried, for instance, is analytic because the concept of being unmarried is included within the concept of a bachelor. By contrast, in synthetic propositions, the predicate concept “amplifies” or adds to the subject concept. The claim, for example, that the sun is approximately 93 million miles from the earth is synthetic because the concept of being located a certain distance from the earth goes beyond or adds to the concept of the sun itself. A related way of drawing the distinction is to say that a proposition is analytic if its truth depends entirely on the definition of its terms (that is, it is true by definition), while the truth of a synthetic proposition depends not on mere linguistic convention, but on how the world actually is in some respect. The claim that all bachelors are unmarried is true simply by the definition of “bachelor,” while the truth of the claim about the distance between the earth and the sun depends, not merely on the meaning of the term “sun,” but on what this distance actually is.
+Some philosophers have equated the analytic with the a priori and the synthetic with the a posteriori. There is, to be sure, a close connection between the concepts. For instance, if the truth of a certain proposition is, say, strictly a matter of the definition of its terms, knowledge of this proposition is unlikely to require experience (rational reflection alone will likely suffice). On the other hand, if the truth of a proposition depends on how the world actually is in some respect, then knowledge of it would seem to require empirical investigation.
+Despite this close connection, the two distinctions are not identical. First, the a priori/a posteriori distinction is epistemological: it concerns how, or on what basis, a proposition might be known or justifiably believed. The analytic/synthetic distinction, by contrast, is logical or semantical: it refers to what makes a given proposition true, or to certain intentional relations that obtain between concepts that constitute a proposition.
+It is open to question, moreover, whether the a priori even coincides with the analytic or the a posteriori with the synthetic. First, many philosophers have thought that there are (or at least might be) instances of synthetic a priori justification. Consider, for example, the claim that if something is red all over then it is not green all over. Belief in this claim is apparently justifiable independently of experience. Simply by thinking about what it is for something to be red all over, it is immediately clear that a particular object with this quality cannot, at the same time, have the quality of being green all over. But it also seems clear that the proposition in question is not analytic. Being green all over is not part of the definition of being red all over, nor is it included within the concept of being red all over. If examples like this are to be taken at face value, it is a mistake to think that if a proposition is a priori, it must also be analytic.
+Second, belief in certain analytic claims is sometimes justifiable by way of testimony and hence is a posteriori. It is possible (even if atypical) for a person to believe that a cube has six sides because this belief was commended to him by someone he knows to be a highly reliable cognitive agent. Such a belief would be a posteriori since it is presumably by experience that the person has received the testimony of the agent and knows it to be reliable. Thus it is also mistaken to think that if a proposition is a posteriori, it must be synthetic.
+Third, there is no principled reason for thinking that every proposition must be knowable. Some analytic and some synthetic propositions may simply be unknowable, at least for cognitive agents like us. We may, for instance, simply be conceptually or constitutionally incapable of grasping the meaning of, or the supporting grounds for, certain propositions. If so, a proposition’s being analytic does not entail that it is a priori, nor does a proposition’s being synthetic entail that it is a posteriori.
+This raises the question of the sense in which a claim must be knowable if it is to qualify as either a priori or a posteriori. For whom must such a claim be knowable? Any rational being? Any or most rational human beings? God alone? There may be no entirely nonarbitrary way to provide a very precise answer to this question. Nevertheless, it would seem a mistake to define “knowable” so broadly that a proposition could qualify as either a priori or a posteriori if it were knowable only by a very select group of human beings, or perhaps only by a nonhuman or divine being. And yet, the more narrow the definition of “knowable,” the more likely it is that certain propositions will turn out to be unknowable. “Goldbach’s conjecture” – the claim that every even integer greater than two is the sum of two prime numbers – is sometimes cited as an example of a proposition that may be unknowable by any human being (Kripke 1972).
+3. The Necessary/Contingent Distinction
+A necessary proposition is one the truth value of which remains constant across all possible worlds. Thus a necessarily true proposition is one that is true in every possible world, and a necessarily false proposition is one that is false in every possible world. By contrast, the truth value of contingent propositions is not fixed across all possible worlds: for any contingent proposition, there is at least one possible world in which it is true and at least one possible world in which it is false.
+The necessary/contingent distinction is closely related to the a priori/a posteriori distinction. It is reasonable to expect, for instance, that if a given claim is necessary, it must be knowable only a priori. Sense experience can tell us only about the actual world and hence about what is the case; it can say nothing about what must or must not be the case. Contingent claims, on the other hand, would seem to be knowable only a posteriori, since it is unclear how pure thought or reason could tell us anything about the actual world as compared to other possible worlds.
+While closely related, these distinctions are not equivalent. The necessary/contingent distinction is metaphysical: it concerns the modal status of propositions. As such, it is clearly distinct from the a priori/a posteriori distinction, which is epistemological. Therefore, even if the two distinctions were to coincide, they would not be identical.
+But there are also reasons for thinking that they do not coincide. Some philosophers have argued that there are contingent a priori truths (Kripke 1972; Kitcher 1980b). An example of such a truth is the proposition that the standard meter bar in Paris is one meter long. This claim appears to be knowable a priori since the bar in question defines the length of a meter. And yet it also seems that there are possible worlds in which this claim would be false (e.g., worlds in which the meter bar is damaged or exposed to extreme heat). Comparable arguments have been offered in defense of the claim that there are necessary a posteriori truths. Take, for example, the proposition that water is H2O (ibid.). It is conceivable that this proposition is true across all possible worlds, that is, that in every possible world, water has the molecular structure H2O. But it also appears that this proposition could only be known by empirical means and hence that it is a posteriori. Philosophers disagree about what to make of cases of this sort, but if the above interpretation of them is correct, a proposition’s being a priori does not guarantee that it is necessary, nor does a proposition’s being a posteriori guarantee that it is contingent.
+Finally, on the grounds already discussed, there is no obvious reason to deny that certain necessary and certain contingent claims might be unknowable in the relevant sense. If indeed such propositions exist, then the analytic does not coincide with the necessary, nor the synthetic with the contingent.
+4. The Relevant Sense of “Experience”
+In Section 1 above, it was noted that a posteriori justification is said to derive from experience and a priori justification to be independent of experience. To further clarify this distinction, more must be said about the relevant sense of “experience”.
+There is no widely accepted specific characterization of the kind of experience in question. Philosophers instead have had more to say about how not to characterize it. There is broad agreement, for instance, that experience should not be equated with sensory experience, as this would exclude from the sources of a posteriori justification such things as memory and introspection. (It would also exclude, were they to exist, cognitive phenomena like clairvoyance and mental telepathy.) Such exclusions are problematic because most cases of memorial and introspective justification resemble paradigm cases of sensory justification more than they resemble paradigm cases of a priori justification. It would be a mistake, however, to characterize experience so broadly as to include any kind of conscious mental phenomenon or process; even paradigm cases of a priori justification involve experience in this sense. This is suggested by the notion of rational insight, which many philosophers have given a central role in their accounts of a priori justification. These philosophers describe a priori justification as involving a kind of rational “seeing” or perception of the truth or necessity of a priori claims.
+There is, however, at least one apparent difference between a priori and a posteriori justification that might be used to delineate the relevant conception of experience (see, e.g., BonJour 1998). In the clearest instances of a posteriori justification, the objects of cognition are features of the actual world which may or may not be present in other possible worlds. Moreover, the relation between these objects and the cognitive states in question is presumably causal. But neither of these conditions would appear to be satisfied in the clearest instances of a priori justification. In such cases, the objects of cognition would appear (at least at first glance) to be abstract entities existing across all possible worlds (e.g., properties and relations). Further, it is unclear how the relation between these objects and the cognitive states in question could be causal. While these differences may seem to point to an adequate basis for characterizing the relevant conception of experience, such a characterization would, as a matter of principle, rule out the possibility of contingent a priori and necessary a posteriori propositions. But since many philosophers have thought that such propositions do exist (or at least might exist), an alternative or revised characterization remains desirable.
+All that can be said with much confidence, then, is that an adequate definition of “experience” must be broad enough to include things like introspection and memory, yet sufficiently narrow that putative paradigm instances of a priori justification can indeed be said to be independent of experience.
+5. The Relevant Sense of “Independent”
+It is also important to examine in more detail the way in which a priori justification is thought to be independent of experience. Here again the standard characterizations are typically negative. There are at least two ways in which a priori justification is often said not to be independent of experience.
+The first begins with the observation that before one can be a priori justified in believing a given claim, one must understand that claim. The reasoning for this is that for many a priori claims experience is required to possess the concepts necessary to understand them (Kant 1781). Consider again the claim that if something is red all over then it is not green all over. To understand this proposition, I must have the concepts of red and green, which in turn requires my having had prior visual experiences of these colors.
+It would be a mistake, however, to conclude from this that the justification in question is not essentially independent of experience. My actual reason for thinking that the relevant claim is true does not emerge from experience, but rather from pure thought or rational reflection, or from simply thinking about the properties and relations in question. Moreover, the very notion of epistemic justification presupposes that of understanding. In considering whether a person has an epistemic reason to support one of her beliefs, it is simply taken for granted that she understands the believed proposition. Therefore, at most, experience is sometimes a precondition for a priori justification.
+Second, many contemporary philosophers accept that a priori justification depends on experience in the negative sense that experience can sometimes undermine or even defeat such justification. This counters the opinions of many historical philosophers who took the position that a priori justification is infallible. Most contemporary philosophers deny such infallibility, but the infallibility of a priori justification does not in itself entail that such justification can be undermined by experience. It is possible that a priori justification is fallible, but that we never, in any particular case, have reason to think it has been undermined by experience. Further, the fallibility of a priori justification is consistent with the possibility that only other instances of a priori justification can undermine or defeat it.
+Nonetheless, there would appear to be straightforward cases in which a priori justification might be undermined or overridden by experience. Suppose, for instance, that I am preparing my tax return and add up several numbers in my head. I do this carefully and arrive at a certain sum. Presumably, my belief about this sum is justified and justified a priori. If, however, I decide to check my addition with a calculator and arrive at a different sum, I am quite likely to revise my belief about the original sum and assume that I erred in my initial calculation. It seems clear that my revised belief would be justified and that this justification would be a posteriori, since it is by experience that I am acquainted with what the calculator reads and with the fact that it is a reliable instrument. This is apparently a case in which a priori justification is corrected, and indeed defeated, by experience.
+It is important, however, not to overstate the dependence of a priori justification on experience in cases like this, since the initial, positive justification in question is wholly a priori. My original belief in the relevant sum, for example, was based entirely on my mental calculations. It “depended” on experience only in the sense that it was possible for experience to undermine or defeat it. This relation of negative dependence between a priori justification and experience casts little doubt on the view that a priori justification is essentially independent of experience.
+6. Positive Characterizations of the A Priori
+A priori justification has thus far been defined, negatively, as justification that is independent of experience and, positively, as justification that depends on pure thought or reason. More needs to be said, however, about the positive characterization, both because as it stands it remains less epistemically illuminating than it might and because it is not the only positive characterization available.
+How, then, might reason or rational reflection by itself lead a person to think that a particular proposition is true? Traditionally, the most common response to this question has been to appeal to the notion of rational insight. Several historical philosophers (e.g., Descartes 1641; Kant 1781) as well as some contemporary philosophers (e.g., BonJour 1998) have argued that a priori justification should be understood as involving a kind of rational “seeing” or grasping of the truth or necessity of the proposition in question. Consider, for instance, the claim that if Ted is taller than Sandy and Sandy is taller than Louise, then Ted is taller than Louise. Once I consider the meaning of the relevant terms, I seem able to see, in a direct and purely rational way, that if the conjunctive antecedent of this conditional is true, then the conclusion must also be true. According to the traditional conception of a priori justification, my apparent insight into the necessity of this claim justifies my belief in it. Its seeming to me in this clear, immediate, and purely rational way that the claim must be true provides me with a compelling reason for thinking that it is true. Therefore, the following more positive account of a priori justification may be advanced: one is a priori justified in believing a certain claim if one has rational insight into the truth or necessity of that claim.
+While phenomenologically plausible and epistemically more illuminating than the previous characterizations, this account of a priori justification is not without difficulties. It would seem, for instance, to require that the objects of rational insight be eternal, abstract, Platonistic entities existing in all possible worlds. If this is the case, however, it becomes very difficult to know what the relation between these entities and our minds might amount to in cases of genuine rational insight (presumably it would not be causal) and whether our minds could reasonably be thought to stand in such a relation (Benacerraf 1973). As a result of this and related concerns, many contemporary philosophers have either denied that there is any a priori justification, or have attempted to offer an account of a priori justification that does not appeal to rational insight.
+Accounts of the latter sort come in several varieties. One variety retains the traditional conception of a priori justification requiring the possession of epistemic reasons arrived at on the basis of pure thought or reason, but then claims that such justification is limited to trivial or analytic propositions and therefore does not require an appeal to rational insight (Ayer 1946). A priori justification understood in this way is thought to avoid an appeal to rational insight. The grounds for this claim are that an explanation can be offered of how a person might “see” in a purely rational way that, for example, the predicate concept of a given proposition is contained in the subject concept without attributing to that person anything like an ability to grasp the necessary character of reality. A priori justification is thereby allegedly accounted for in a metaphysically innocuous way.
+But views of this kind typically face at least one of two serious objections (BonJour 1998). First, they are difficult to reconcile with what are intuitively the full range of a priori claims. While many a priori claims are analytic, some appear not to be, for instance, the principle of transitivity, the red-green incompatibility case discussed above, as well as several other logical, mathematical, philosophical, and perhaps even moral claims. It is possible, of course, to construe the notion of the analytic so broadly that it apparently does cover such claims, and some accounts of a priori justification have done just this. But this leads immediately to a second and equally troubling objection, namely, that if the claims in question are to be regarded as analytic, it is doubtful that the truth of all analytic claims can be grasped in the absence of anything like rational insight or intuition. Seeing the truth of the claim that seven plus five equals twelve, for instance, does not amount to grasping the definitions of the relevant terms, nor seeing that one concept contains another. Rather, it seems to involve something more substantial and positive, something like an intuitive grasping of the fact that if seven is added to five, the resulting sum must be – cannot possibly fail to be – twelve. But this of course sounds precisely like what the traditional view says is involved with the occurrence of rational insight.
+A second alternative to the traditional conception of a priori justification emerges from a general account of epistemic justification that shifts the focus away from the possession of epistemic reasons and onto concepts like epistemic reasonability or responsibility. While presumably closely related to the possession of epistemic reasons, the latter concepts – for reasons discussed below – should not simply be equated with it. On accounts of this sort, one is epistemically justified in believing a given claim if doing so is epistemically reasonable or responsible (e.g., is not in violation of any of one’s epistemic duties).
+This model of epistemic justification per se opens the door to an alternative account of a priori justification. It is sometimes argued that belief in many of the principles or propositions that are typically thought to be a priori (e.g., the law of noncontradiction) is in part constitutive of rational thought and discourse. This claim is made on the grounds that without such belief, rational thought and discourse would be impossible. If this argument is compelling, then quite apart from whether we do or even could have any epistemic reasons in support of the claims in question, it would seem we are not violating any epistemic duties, nor behaving in an epistemically unreasonable way, by believing them. Again, the possession of such beliefs is thought to be indispensable to any kind of rational thought or discourse. This yields an account of a priori justification according to which a given claim is justified if belief in it is rationally indispensable in the relevant sense (see, e.g., Boghossian 2000; a view of this sort is also gestured at in Wittgenstein 1969).
+While views like this manage to avoid an appeal to the notion of rational insight, they contain at least two serious problems. First, they seem unable to account for the full range of claims ordinarily regarded as a priori. There are arguably a number of a priori mathematical and philosophical claims, for instance, such that belief in them (or in any of the more general claims they might instantiate) is not a necessary condition for rational thought or discourse. Second, these accounts of a priori justification appear susceptible to a serious form of skepticism, for there is no obvious connection between a belief’s being necessary for rational activity and its being true, or likely to be true. Consequently, it seems possible on such a view that a person might be a priori justified in thinking that the belief in question is true and yet have no reason to support it. In fact, given the epistemically foundational character of the beliefs in question, it may be impossible (once an appeal to a priori insight is ruled out) for a person to have any (noncircular) reasons for thinking that any of these beliefs are true. Views of this sort, therefore, appear to have deep skeptical implications.
+A third alternative conception of a priori justification shifts the focus toward yet another aspect of cognition. According to externalist accounts of epistemic justification, one can be justified in believing a given claim without having cognitive access to, or awareness of, the factors which ground this justification. Such factors can be “external” to one’s subjective or first-person perspective. (Externalist accounts of justification obviously contrast sharply with accounts of justification that require the possession of epistemic reasons, since the possession of such reasons is a matter of having cognitive access to justifying grounds.) The most popular form of externalism is reliabilism. In broad terms, reliabilists hold that the epistemic justification or warrant for a given belief depends on how, or by what means, this belief was formed. More specifically, they ask whether it was formed by way of a reliable or truth-conducive process or faculty. Thus, according to reliabilist accounts of a priori justification, a person is a priori justified in believing a given claim if this belief was formed by a reliable, nonempirical or nonexperiential belief-forming process or faculty.
+Reliabilist accounts of a priori justification face at least two of the difficulties mentioned above in connection with the other nontraditional accounts of a priori justification. First, they seem to allow that a person might be a priori justified in believing a given claim without having any reason for thinking that the claim is true. A person might form a belief in a reliable and nonempirical way, yet have no epistemic reason to support it. Accounts of this sort are therefore also susceptible to a serious form of skepticism. A second problem is that, contrary to the claims of some reliabilists (e.g., Bealer 1999), it is difficult to see how accounts of this sort can avoid appealing to something like the notion of rational insight. There are at least two levels at which this is so. First, the reliabilist must provide a more specific characterization of the cognitive processes or faculties that generate a priori justification. It is not enough simply to claim that these processes or faculties are nonempirical or nonexperiential. This in turn will require a more detailed account of the phenomenology associated with the operation of these processes or faculties. But what would a more detailed account of this phenomenology look like if it did not, in some way, refer to what traditional accounts of a priori justification characterize as rational insight? After all, reliable nonempirical methods of belief formation differ from those that are unreliable, such as sheer guesswork or paranoia, precisely because they involve a reasonable appearance of truth or logical necessity. And it is just this kind of intuitive appearance that is said to be characteristic of rational insight. Thus it appears that in working out some of the details of her account, the reliabilist will be forced to invoke at least the appearance of rational insight. Second, the reliabilist is obliged to shed some light on why the kind of nonempirical cognitive process or faculty in question is reliable. But here again it is difficult to know how to avoid an appeal to rational insight. How else could a given nonempirical cognitive process or faculty lead reliably to the formation of true beliefs if not by virtue of its involving a kind of rational access to the truth or necessity of these beliefs? It is far from clear to what else the reliabilist might plausibly appeal in order to explain the reliability of the relevant kind of process or faculty.
+It appears, then, that the most viable reliabilist accounts of a priori justification will, like traditional accounts, make use of the notion of rational insight. Some reliabilist views (e.g., Plantinga 1993) do precisely this by claiming, for instance, that one is a priori justified in believing a given claim if this belief was produced by the faculty of reason, the operation of which involves rational insight into the truth or necessity of the claim in question. The plausibility of a reliabilist account of this sort, vis-à-vis a traditional account, ultimately depends, of course, on the plausibility of the externalist commitment that drives it.
+7. References and Further Reading
+
+Audi, Robert. 1999. “Self-Evidence,” Philosophical Perspectives, vol. 13, ed. James E. Tomberlin (Oxford: Blackwell), pp. 205-28.
+Ayer, A.J. 1946. “The A Priori,” in Language, Truth and Logic, 2nd ed. (New York: Dover), pp. 71-87.
+Bealer, George. 1999. “The A Priori,” in The Blackwell Guide to Epistemology, eds. John Greco and Ernest Sosa (Oxford: Blackwell), pp. 243-70.
+Benacerraf, Paul. 1973. “Mathematical Truth,” The Journal of Philosophy 19: 661-79.
+Boghossian, Paul. 2000. “Knowledge of Logic,” in New Essays on the A Priori (Oxford: Oxford University Press), pp. 229-54.
+BonJour, Laurence. 1998. In Defense of Pure Reason (Cambridge: Cambridge University Press).
+Casullo, Albert. 1992. “A priori/a posteriori,” in A Companion to Epistemology, eds. Jonathan Dancy and Ernest Sosa (Oxford: Blackwell), pp. 1-3.
+Descartes, René. 1641. Meditations on First Philosophy, 3rd ed., trans. D.A. Cress (Indianapolis: Hackett Publishing Company, 1993).
+Hamlyn, D.W. 1967. “A Priori and A Posteriori,” in The Encyclopedia of Philosophy, vol. 1, ed. Paul Edwards (New York: Macmillan Publishing Company & The Free Press), pp. 140-44.
+Kant, Immanuel. 1781. Critique of Pure Reason, trans. N.K. Smith (London: Macmillan, 1929).
+Kitcher, Philip. 1980a. “A Priori Knowledge,” Philosophical Review 89: 3-23.
+Kitcher, Philip. 1980b. “A Priority and Necessity,” Australasian Journal of Philosophy 58: 89-101.
+Kripke, Saul. 1972. Naming and Necessity (Cambridge, MA: Harvard University Press).
+Moser, Paul, ed. 1987. A Priori Knowledge (Oxford: Oxford University Press).
+Plantinga, Alvin. 1993. “A Priori Knowledge,” in Warrant and Proper Function (New York: Oxford University Press), pp. 102-21.
+Quine, W.V. 1963. “Two Dogmas of Empiricism,” in From a Logical Point of View, 2nd ed. (New York: Harper and Row), pp. 20-46.
+Wittgenstein, Ludwig. 1969. On Certainty, eds. G.E.M. Anscombe and G.H. von Wright, trans. D. Paul and Anscombe (New York: Harper and Row).
+
+Author Information
+Jason S. Baehr
+Email: Jbaehr@lmu.edu
+Loyola Marymount University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

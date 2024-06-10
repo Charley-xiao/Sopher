@@ -43,6 +43,7 @@ def wash(data_path='data/'):
             print(f'Suffix start: {suffix_start}')
             content = content[prefix_end+1:suffix_start]
             content = '\n'.join(content)
+            content = content.strip()
             content_dict = {
                 'url': file,
                 'content': content
@@ -51,8 +52,8 @@ def wash(data_path='data/'):
         else:
             print(f'File {file} does not contain `iep.utm.edu`.')
 
-    with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(all_data, f)
+    with open('data.json', 'w') as f:
+        json.dump(all_data, f, indent=4)
 
 if __name__ == '__main__':
     wash()

@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+Davidson: Anomalous Monism | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donald Davidson: Anomalous Monism
+Anomalous Monism is a type of property dualism in the philosophy of mind. Property dualism combines the thesis that mental phenomena are strictly irreducible to physical phenomena with the denial that mind and body are discrete substances. For the anomalous monist, the plausibility of property dualism derives from the fact that although mental states, events and processes have genuine causal powers, the causal relationships that they enter into with physical entities cannot be explained by appeal to fundamental laws of nature. This doctrine about the relationship between mind and body was first explicitly defended by Donald Davidson in his paper “Mental Events,” though its root in the Western philosophical tradition go back at least as far as Spinoza. It was a topic of energetic debate and disagreement among English-speaking philosophers for the last thirty years of the twentieth century.
+The extent to which Davidson’s commitment to anomalous monism turns out to derive from his views about methodology is partly obscured by his own tendency (shared by the majority of both his followers and his critics) to discuss issues connected with the mind/body problem in traditionally metaphysical terms. But whenever he actually sets about the task of defending the statement that mental events cause physical events, what is at issue always turns out to be a distinctively methodological question: When we set about explaining the actions of other human beings, to what extent must we employ our own, perhaps entirely parochial, standards for determining what counts as rational behavior?
+Table of Contents
+
+A Trilemma
+Historical Precursors
+
+Parallelism
+Verstehen Theory
+
+
+Mental Events are Physical Events
+The Irreducibility of the Mental
+
+Supervenience and Anomalous Monism
+“Strict” and “Non-Strict” Natural Laws
+
+
+A Methodological Postscript
+References and Further Reading
+
+1. A Trilemma
+Anomalous Monism (AM) is a philosophical thesis about the place of the mind and of mental states in the natural order. The term was first used by Donald Davidson in his 1970 paper “Mental Events.” Since the publication of this paper, Davidson has re-described and refined his position on the mind/body problem in a number of different ways, and both critics and supporters of AM have come up with their own characterizations of the thesis, many of which appear to differ from Davidson’s in non-trivial ways. Nonetheless, AM is distinguished from other positions in the philosophy of mind by the three following claims:
+
+Mental events cause physical events.
+All causal relationships are backed by natural laws.
+There are no natural laws connecting mental phenomena with physical phenomena.
+
+Taken separately, none of these claims has won anything like universal support from philosophers in the contemporary tradition. So-called “epiphenomenalists” about the nature of mental events and processes would certainly deny the truth of (1). (2) appears to require both denying that the notion of a causal disposition is more primitive than that of a natural law, as well as affirming an implausibly strict distinction between genuine laws of nature and mere statistical generalizations. And proponents of a reductionist view of the mind, at least as this sort of position has traditionally been articulated, would certainly have to deny the truth of (3).
+Even if none of these arguments are successful, this trio of claims gives off a pretty strong whiff of inconsistency. Nonetheless, Davidson maintains that all three are true. The best route to understanding this is to start out by taking a somewhat broader look at the relevant historical backdrop. It is also necessary to acquaint oneself with Davidson’s broader philosophical program.
+2. Historical Precursors
+a. Parallelism
+The early modern philosopher whose views on the relationship between mind and body bear the closest similarity to AM is Benedict De Spinoza. Like most philosophers of his period, Spinoza was preoccupied with the central problem of the Cartesian inheritance, namely, that of accounting for the apparently systematic causal interaction between mind and body. This problem had arisen for Descartes specifically because he had believed that mind and body were discrete types of substances with irreconcilable natures. ContraDescartes, Spinoza denied that mind and body were separate substances at all, and proposed instead that they are merely separate attributes of a single substance. He suggested that, for every physical item P, there is a corresponding mental item I(P), which he identified as “the idea of P.” The human mind, for example, was nothing for Spinoza but the “idea” of the human body. These “ideas” differ from one another in “perfection,” based upon the complexity of the physical object to which each corresponds.
+In Book Two of the Ethics, Spinoza goes on to defend (very briefly) the doctrine of psycho-physical parallelism. He proposes that “the order and connection of ideas is the same as the order and connection of things.” [de Spinoza, 1949, p. 83] This remark is usually taken to imply that for every causal chain of ideas, there is a sequence of physical causes and effects that run parallel to it through time, like so [see Bennett pp. 127-132]:
+
+
+
+
+t1
+t2
+t3
+t4
+t5
+
+
+Sequence A
+P1
+P2
+P3
+P4
+P5
+
+
+Sequence B
+I(P)1
+I(P)2
+I(P)3
+I(P)4
+I(P)5
+
+
+
+Spinoza showed no obvious sign of interest in whether one of these two causal orders is more fundamental. But since he was a strict determinist, it seems he believed that the relations that obtain among the items belonging to both causal sequences were law-like in nature. He may thus plausibly be read as having accepted the truth of something like statement (1).
+A further distinctive feature of Spinoza’s metaphysical monism, however, was his denial that there could be any ‘causal flow’ between different attributes of the single substance that he identified both with God and with Nature. This might make it appear that he have endorsed statement (3) of our original trilemma at the price of rejecting statement (1).
+But when we read the Ethics from the other side of the ‘linguistic turn’ in twentieth century Western philosophy, there is a strong temptation to reinterpret Spinoza’s metaphysical distinction between a single substance and its many attributes. Post linguistic turn, this amounts to the distinction between a single class of entities and the plurality of equally well-grounded ways that may exist of describing them. It is thus perhaps not too coercive to interpret Spinoza’s parallelism as implying that there is a systematic problem with the practice of referring to mental and physical phenomena as entering into causal relations with one another. But this is perfectly consistent with the truth of statement (1). In this qualified sense, then, Spinozistic parallelism may be viewed as a genuine historical precursor to AM.
+Two questions immediately arise about the doctrine of parallelism as just described. First, if there really is an absolutely reliable pairing-off between the constituents of physical and mental causal chains, then why couldn’t we just use characterizations of items in Sequence B as though they referred to items in Sequence A? Why couldn’t claims about the “ideas” of objects be used in the natural sciences, but there understood as merely abbreviating claims about those physical objects themselves? The feature of Spinoza’s philosophy that makes it impossible for him to allow for this is his commitment to causal rationalism – the thesis that for any genuinely causal relationship one should always be able to deduce the effect from a true description of the cause [see de Spinoza, 1949, p. 42ff]. This is not a doctrine that would appeal to the sensibilities of many contemporary philosophers, but it does turn out to have an important analog in Davidson’s treatment of the mind/body problem.
+The second question that arises about Spinoza’s parallelism concerns the fact that even the very simplest and most transparent of mental phenomena appear to depend for their existence upon a highly complex collection of physical phenomena. But then why suppose that just any physical event, no matter how simple (the movement of a single electron, say) must have an ideational correlate? If one chooses to hypothesize that a specific degree of physical complexity is necessary for a mental phenomenon to occur, then the threat (or promise) of reductionism looms. But most contemporary philosophers would certainly favor reductionism over the alternative of panpsychism that Spinoza himself embraces [de Spinoza, 1949, p. 90]. Interestingly Davidson himself also ends up embracing an analog of panpsychism in the course of his struggle to harmonize statements (1) –(3).
+b. Verstehen Theory
+Davidson’s own views about the nature of mind emerged out of a set of disputes that were instructively similar to the arguments that took place among philosophers during the Cartesian era. For most of the twentieth century, philosophers both on the European continent and in English-speaking universities had been preoccupied with the autonomy of humanistic enquiry. This issue was (and continues to be) a source of disagreements that extend well beyond the relatively narrow boundaries of metaphysical debate and into the realms of institutional policymaking and literary and artistic culture. Among analytic philosophers of the 1960s, disputes upon this general topic were focused largely around a question that was partly epistemological and partly ontological in its significance, whether or not it is appropriate to view thereasons that people have for performing specific actions as also themselves being causes of those actions.
+According to one school of thought, which more or less began with the Verstehen theorists of the nineteenth century – Wilhelm Dilthey, Max Weber and Bendetto Croce, among others – the aim of the social sciences and of humanistic enquiry in general is not the discovery of causal relationships at all. To others, however – mechanists, materialists and methodological monists about the sciences – such claims were deemed to be either patently false or well-nigh incomprehensible [See Anthony, 1989, p. 155, for a full discussion]. Seen against this backdrop, Davidson’s own approach to the issue of how reasons relate to causes takes on the appearance of a compromise position. For Davidson both rejects reductionism and denies the view that the distinction between reasons and causes is as absolute as the Verstehentheorists wanted to claim.
+In a famous example, Davidson describes a situation in which a mountain climber accidentally causes the death of another man by loosening his grip on a tethering rope. Suppose that this happened, not because the first climber was deliberately setting out to do in his comrade, but rather because he was merely “unnerved” by the thought that he could make himself safer by ridding himself of the extra weight. What we need, Davidson suggests, is to be able to distinguish this sort of circumstance from a situation in which the climber really does drop his comrade intentionally to rid himself of the extra weight. In this second case, the reason (that the first climber had for being concerned for his own safety) was also a cause (of the death of the second climber). But then there is a differentiation between reasons that are not causes and reasons which are. [Davidson, 1973, p. 79]
+In “Thinking Causes,” Davidson explains the metaphysical significance of these observations. He says here that “anomalous monism holds that mental entities (particular time- and space-bound objects and events) are physical entities, but that mental concepts are not reducible by definition or natural law to physical concepts.” [Davidson, 1993, p. 3]. Thus, while the sorts of mental events that we habitually identify as reasons (under which broad classification he includes “perceivings, notings, calculations, judgements, decisions, internal actions and changes of belief” [Davidson, 1970, p. 208]) may also beidentified as causes, this does not preclude us from being able to appeal to the difference between reasons and causes as part of a general characterization of what is distinctive about the human sciences.
+The description of AM given thus far does nothing to distinguish it from other, substantively different forms of so-called “property dualism” in the contemporary philosophy of mind. We must first ask why Davidson believes that mental events are identical with physical events, and then ask why he nonetheless denies the reducibility of the one to the other.
+3. Mental Events are Physical Events
+A crucial part of Davidson’s overall strategy for reconciling statements (1)-(3) is his endorsement of the thesis of token physicalism (TKP). This is the doctrine that while mental properties (types) cannot be identified with physical properties, mental particulars (tokens) can be identified with particular, spatio-temporally determinate physical entities. Davidson is not the only influential analytic philosopher to have defended this doctrine, but his reasons for doing so arise from a fairly idiosyncratic set of views.
+The most distinctive feature of Davidson’s version of TKP is that it is a doctrine about events, rather than processes, states, or (at least in the primary instance) objects [see Davidson, 1970, p. 210]. His belief in the ontological primacy of events arises from the underlying logical form of certain types of English sentences; the fact that we can comprehend that sentences like “Jones buttered the toast deliberately in the bathroom with a knife at midnight” entails the sentence “Jones buttered the toast” cannot be explained (Davidson thinks) without supposing that both make implicit reference to some spatio-temporally bounded particular event [for the full argument, see Davidson, 1967, pp. 105-107]. The identity conditions of events can furthermore, he thinks, be established purely extensionally: event A and event B are identical if and only if they have all of the same causes and all of the same effects. [Davidson, 1969, p. 179]
+When we successfully pick out an event by means of a mentalistic description as being the cause of some other, physical event, we have according to Davidson done all that is necessary to show that there is mental causation. He traces this minimalist approach to the classification of events as mental back to the writings of Elizabeth Anscombe, who famously defended the view that all that is necessary for an act’s having been intended is that it be truly describable as such [Davidson, 1967, p. 147]. So what, then counts as a genuinely mentalistic description of any given event? Davidson’s own views upon this subject are less than entirely clear. In “Mental Events” he makes the more general proposal that the hallmark of the mental is intensionality. That is, true descriptions of mental events include a verb with a subject that refers to a person, and a complement for which the usual rules of substitution break down. Thus, while “Lois thought that Clark Kent was lovely” would clearly count as a mentalistic description of an event, since she might not have thought the same about Superman, “Lois was smaller than Clark Kent” would fail to satisfy the aforementioned criterion.
+It is important to recognize, however, that intensionality is for Davidson merely a sufficient condition for mentality; he does not seem to regard it as being even close to necessary. This is clear from some rather startling remarks that he makes in “Mental Events.” He asks us to consider “some event that we all intuitively accept as physical, let’s say the collision of two stars in distant space.” If we can truthfully describe this event as being merely simultaneous to some other clearly mental event, then this fact is enough by itself, Davidson thinks, for us to be warranted in describing the former occurrence as a mental event too [Davidson, 1970, p. 211].
+Davidson suggests that this sort of “Spinozistic extravagance” is philosophically harmless to the case for AM because it provides us with all the better reason for believing TKP. For the more inclusive our criteria for mentality are, the more reason we will have to accept that all mental events are identical to physical events [Davidson, 1970, p. 212]. But one thing that these considerations seem to imply is that every event A that is caused by some mental event B will also have the very same event as a physical cause. And this makes it look as though the defender of AM will either have to explain away an unpalatable form of causal over-determination in the natural sciences, or else regard mental events as being purely epiphenomenal.
+The claim that AM is really just epiphenomenalism in disguise has been the single most common and widespread criticism of Davidson’s thesis since the publication of “Mental Events.” The suggestion was first made by Ted Honderich in a paper from 1982. Honderich draws a suggestive analogy between mental properties and the properties possessed by a bunch of green pears sitting on a grocer’s scale. These pieces of fruit maybe truly described as green, or as French, but the fact that they possess these properties is clearly not what causes them to make the scale read “1 lb.” So why should the fact that we can describe some events in ways that satisfy Davidson’s rather permissive criteria for mentality lead us to believe that the natural world contains even a single instance of mental causation? [Honderich , 1982, pp. 61-62]. The same objection is made somewhat more abstractly by Jaegwon Kim when he described what he calls the “exclusion problem” for mental causation. Suppose that an event m causes a distinct event e, and that m has two properties, M and P. Furthermore suppose that only the property P of m is connected by a strict causal law to some property of e. But then, Kim asks how the property M can be understood to be doing any “causal work” whatsoever [Kim, 1993, pp. 25-26].
+Davidson responds to challenges of this general type by re-iterating his commitment to a strictly extensionalist account of event-causation. It is simply infelicitous, he thinks, to suppose that whether or not one event is the cause of another depends upon our ability to connect up their properties in any sort of statement whatsoever, whether law-like or not. As he puts it in “Thinking Causes,”
+There is…no room for a concept of ‘cause as’ that would make causality a relation among three or four entities rather than two. On the view of events and causality assumed here, it makes no more sense to say event c caused event e as instantiating law L than it makes to say that a weighs less than b as belonging to sort c [Davidson, 1993, p. 6].
+Many philosophers have found this characterization of causality by Davidson singularly implausible. For it does not seem as though extensionalism by itself simply implies that events do not have the causal powers that they do by virtue of falling under causal laws [see McLaughlin, 1993, pp. 30-34]. And regardless of whether one is talking about events, physical objects, thoughts, or whatever, it is surely a perfectly natural and coherent question to ask whether it is because something has a property M that it causes something else to have property N. At least one recent defender of AM has suggested that perhaps the very notion of causation itself is a fundamentally ambiguous one, in the sense that its content changes depending upon whether we employ the discrete standards of rational intelligibility that are required by either a “personal” or an “impersonal” perspective upon the natural world [see Hornsby, 1997, p. 140]. To adopt this thesis about causation would appear to represent an abandonment of the project of finding a genuinely intermediate position between the approach favored by Verstehen theorists to explanation in the human sciences and the traditional forms of metaphysical materialism to which Davidson himself appears to be willing to give at least qualified endorsement.
+One of Davidson’s earlier claims about the relationship between mind and body is that the mentalsupervenes upon the physical. To say that properties of type X supervene upon properties of type Y is at the very least to commit oneself to the view that objects and events cannot differ X-wise without also differing Y-wise. If this were in fact the case, one could argue that there is at least some minimal sense in which the possession of mental properties “makes a difference” to the causal relations exhibited by particular physical events. For, unlike the properties of color and nationality possessed by the pears in Honderich’s famous example, supervenient mental properties are always going to stand in an empirically significant relationship to the physical regularities that that are exhibited among the physical properties that they supervene upon.
+But the supervenience relation is one that has been characterized in multitudinous different ways in late twentieth-century philosophy [See Kim, 1990 for a fairly exhaustive catalogue]. Not all of the accounts that have been given would provide equally good support for this contention. According to Kim, the most pressing question about the supervenience relation is whether it might actually entail the reducibility of the supervenient class of properties or concepts to their subvenient base. What, then, are some reasons that the defender of AM might give for denying that mental concepts are simply reducible to physical ones?
+4. The Irreducibility of the Mental
+a. Supervenience and Anomalous Monism
+Davidson describes the relationship of supervenience as the key to understanding how mental phenomena may be “in some sense dependent” upon physical phenomena in spite of there not being any strict psycho-physical laws [Davidson, 1970, p. 214]. He clearly regards the notion of supervenience as representing a sort of panacea for anyone skeptical about the possibility of reconciling statements (1)-(3) [Davidson, 1993, p. 4]. So what, precisely, is the supervenience relation supposed to amount to?
+The earliest instance of an appeal to the notion of supervenience in the twentieth century was by S.E. Pepper, in a paper first published in 1926. Pepper used the word “supervenient” to refer to a type ofchange that gives rise to emergent properties in the objects undergoing the relevant transformation [see van Brakel, 1999, pp. 4-5]. Over the last thirty years of the twentieth century, the term “supervenience” came to be used by philosophers in a wide variety of contexts, not only in ethics and the philosophy of mind, but in areas as diverse as aesthetics, modal metaphysics, the philosophy of biology and philosophical theology. Davidson himself acknowledges having borrowed the term from R.M. Hare’s discussion of the relationship between ethical and natural properties in The Language of Morals. Unlike Pepper, both Hare and Davidson characterize supervenience in explicitly linguistic terms, without reference to metaphysical notions like emergence that is supposed to be antecedently clear. Thus, for Davidson, “a predicate P is supervenient on a set of predicates S if and only if P does not distinguish any entities that cannot be distinguished by S” [Davidson, 1993, p. 4].
+What is most striking about this characterization of the supervenience relation is its apparent weakness. When we make a Davidsonian supervenience claim we do not undertake any commitment whatsoever to the thesis that the supervening predicate can be could be shown to be redundant by even the most vigorous applications of Ockham’s razor.
+In “Mental Events” Davidson develops two puzzling but suggestive analogies for the way in which the mental may be thought of as supervening upon the physical. He first suggests that we think of mentalistic predicates as being like the Tarskian truth predicate and the vocabulary of physics as being like the resources that are present within a natural language to describe its own syntax. For the truth predicate as Tarski describes it had the following important characteristic: it cannot be defined using only the resources of the object language, even though one might well be able to pick out all of the sentences that lie within its extension [see Davidson, 1970, pp. 214-215]. The other comparison that he makes involves an allusion to the failure of what he refers to as “definitional behaviorism” in scientific psychology. This theory was abandoned by empirical psychologists, he suggests, not because of any single piece of disconfirming evidence, but rather because they noticed “system in the failures” of behaviorists to define concepts like belief and desire in explicitly behavioral terms [see Davidson, 1970, p. 217].
+In contrast to these suggestive but rather underdeveloped analogies, Jaegwon Kim famously argues that the supervenience of a class of properties G upon another class D actually entails that G is reducible to D[see Kim, 1984, p. 78]. If this claim were correct, then it would certainly be difficult to see how a Davidsonian could claim that there were no strict laws of nature connecting mental properties with physical ones. It is less clear that from Davidson’s own characterizations of supervenience in terms of the mere distinguishability of objects represents a weaker notion than that which is favored by reductionists following Kim.
+A somewhat more subtle and less radical criticism of Davidson’s use of the supervenience relation to defend AM has been offered by Simon Blackburn. Blackburn parses supervenience claims as non-trivial restrictions upon how we conceive of the possibility that different sorts of objects could exist within the same world. Even the weakest sorts of supervenience claims, he suggests, involves implicit reference to the notion that an object has some property as the result of also possessing what he refers to an “underlying” set of natural (i.e. physical) properties. To say that property M supervenes upon property P, then, is to make an assertion with the following logical form:
+(S) Necessarily, if there exists some x such that Mx and Px and if Px underlies Mx, then, for all y, if Py then My [Blackburn, 1985, p. 131].
+Blackburn points out that the truth of any instance of (S) would be perfectly consistent with there beingsome possible worlds containing objects which have P (which may turn out to be some extremely complex or disjunctive physical property) while lacking M. Nonetheless, he thinks that our default modal intuitions should cause us to rankle whenever we are presented with a claim having the form of (S). We should react this way, he thinks, because (S) represents a violation of what he calls the “principle of plentitude” about possible worlds. Why shouldn’t there be possible worlds in which some objects or events that instantiate a given set of physical predicates also instantiate a given mental property, while others do not? This, according to Blackburn, is the key metaphysical question that the doctrine of AM compels us to ask, but for which its advocates have never really provided an answer [Blackburn, 1985, p. 135].
+According to Blackburn’s recipe for supervenience, “underlying” properties will always be physical ones. It thus seems pretty clear that violations of the “principle of plentitude” about possible worlds of the sort that Blackburn is talking about here must occur at the level of nomological (as opposed to logical, metaphysical or epistemic) possibility. The advocate of AM would surely, after all, not want to deny that it is at least logically possible for a world to contain two physically identical beings, one with a mind and one without, not that such a circumstance fell entirely outside the range of human conceivability. Thus, if the question that Blackburn asks about supervenience is the right one to pose to the anomalous monist, then we may at this stage draw an important methodological conclusion. It looks as though Davidson’s claim that the mental supervenes upon the physical is, after all, really just another way of stating his commitment to the impossibility of strict natural laws connecting mental and physical phenomena. In order to understand why the advocate of AM will be committed to the irreducibility of the mental, then, one need only ask what he thinks it is about instances of mental causation that makes them insusceptible to the sort of explanation that can be provided by appeal to so-called “strict” natural laws.
+b. “Strict” and “Non-Strict” Natural Laws
+A universal generalization is law-like, according to Davidson, just so long as it provides support for a suitably broad set of subjunctive and counterfactual conditionals. For example, the statement “Whenever it rains, the grass gets wet” might well count as law-like, since it provides at least partial supports for the claims “If it were to rain next week, the grass would be wet” and “If it had not rained this morning, the grass would not presently be wet” – provided, at least, that we restrict our attention to possible words where a sprinkler is not available. A law-like statement also qualifies as “homonomic” if the scope of its generality can be increased by means of “adding further provisos and conditions,” all of which can be stated in “the same general vocabulary as the original statement.” “Whenever it rains, the grass gets wet” would thus presumably fail to count as homonomic, since the ceteris paribus clause “…unless someone has pitched a tent in the yard” is not a statement that makes exclusive use of the language of meteorology.
+A strict law of nature for Davidson will thus be a homonomic law-like generalization that has been supplemented to the fullest possible extent by ceteris paribus clauses that do not violate this restriction. All general causal statements connecting mentalistic and physicalistic concepts must, according to Davidson, be regarded as non-strict, or “heteronomic” in nature.
+Davidson proposes, controversially, that the criterion just described for what it takes to be a natural law is an a priori truth [see Davidson, 1970, pp. 216-220]. But from whence comes his confidence that it is possible, even in principle, to come up with these sorts of generalization anywhere in the natural sciences? He repeatedly claims that such completely exceptionless generalizations are most likely to be found in theoretical physics. But this assertion is not defended. Furthermore, even if he is right that such perfectly “strict” laws of nature could in principle be set down, the question remains whether there are good reasons to suspect that any of the vocabulary currently available for use in the natural sciences is suitable for the formulation of these sorts of statements. In response to these sorts of concerns, a fairly broad contingent of philosophers of science have defended accounts of the concept of a natural law which represent scientific knowledge as being heteronomic through and through [See e.g. Cartwright, 1994 and Fodor 1974].
+Another more subtle issue has been raised by some philosophers in connection with Davidson’s rather thin conception of natural law. It seems possible to identify a fairly broad class of generalizations whose status as laws of nature does not depend upon either their predictive usefulness or the vocabulary within which ceteris paribus clauses for them are formulated. These are what Robert Cummins calls “instantiation laws.” The logical form of instantiation laws, as Cummins describes them, is as follows: Anything having components C1…Cn organized in manner O has property P [See Cummins, 1981, p. 17]. Such generalizations serve to explain what it is about the structure of some system that makes the system an instantiation of a given property. They do not explain how it is that that system’s properties change over time. Entries in the Periodic Table of the elements would appear to qualify as expressions of this sort of law, since the information that they communicate is that the arrangement of a specific number of electrons around an atomic nucleus at a given set of energy levels is what makes one atom count as a sample of hydrogen, oxygen, iron, etc.
+Even if there were no psycho-physical laws in Davidson’s sense of the term, mightn’t there in fact be plenty of psycho-physical instantiation laws? Perhaps the only way to explain changes in belief or short-term memory is by making generalizations that refer (either implicitly or explicitly) to other beliefs or memories. But it seems perfectly cogent to suppose that, even if this were true, we might be able to explain what it is that makes some particular state of a person (or her neurosystem) a belief or a memory in a purely neurophysiological vocabulary. How would it affect the case for AM if it were to turn out that we could make these sorts of generalizations connecting physical concepts with mentalistic ones?
+Upon this topic, opinions diverge quite broadly. Louise Anthony has suggested that, once we recognize the possibility of formulating psycho-physical “instantiation laws,” we will be able to reject statement (3) in a way sensitive to the intuition underlying Davidson’s mountain climber thought experiment. This would, of course, be bad news for the advocate of AM. But Nick Zangwill has suggested that something like the spirit of AM could be preserved even if one were to accept the possibility of what he calls “strict derivative causal laws” (SDLs). Laws of this character, which are quite common in the sciences (according to Zangwill) combine the causal information that instantiations of a property M are followed by instantiations of a property M* with the “metaphysical” information that a system that instantiates M* will do so because it is of type P. It seems easy enough, indeed, to think up putative instances of this type of natural law – consider, for example, the claim that an occurrent general desire for nourishment (M) in a creature whose senses can detect hot oatmeal nearby (P) will normally (ceteris paribus, of course) bring about a more specific desire for oatmeal (M*).
+If there are true SDLs that connect up the vocabulary of psychology with the vocabulary of physical science in this sort of way, then there is at least one sense in which statement (3) must clearly be regarded as false. But Zangwill proposes that the defender of AM may still have good grounds for believing that mental phenomena are anomalous in something very much like the way that Davidson originally supposed. For SDLs will generally lack the sort of explanatory significance that “strict” laws of nature, in the Davidsonian sense of the term, may generally be thought to have. They are clearly not the sorts of generalizations that could be conclusively verified without appeal to a background theory consisting at least for the most part of more simply structured law-like generalizations. Furthermore, the underlying physical properties referred to within putatively psycho-physical SDLs are likely to be so wildly disjunctive in nature that such “laws” might normally end up covering nothing more than a single actual instance of mental causation [see Zangwill, 1993, pp. 69-76].
+There do, then, appear to be a wide variety of claims that differ both in content and in logical form, but which may nonetheless be entirely plausible candidates for the status of laws of nature. But then from whence comes the surprisingly powerful conviction shared by Davidson and his sympathizers of the falsity of statement (3)? It is impossible to understand why Davidson subscribes to this radical view without becoming acquainted with his views about the norms of empirical methodology that govern all forms of humanistic enquiry. An examination of what he says upon this general subject will therefore help to shed light upon what motivates him to claim that the concepts referred to by mental and physical predicates are simply not ‘made for’ one another.
+5. A Methodological Postscript
+The extent to which Davidson’s commitment to AM turns out to derive from his views about methodology is partly obscured by his own tendency (shared by the majority of both his followers and his critics) to discuss issues connected with the mind/body problem in traditionally metaphysical terms. But whenever he actually sets about the task of defending statement (1), what is at issue always turns out to be a distinctively methodological question. When we set about explaining the actions of other human beings, to what extent must we employ our own, perhaps entirely parochial, standards for determining what counts as rational behavior?
+In his discussion of the two mountain climbers, for example, the identification of the second climber’s decision to let his companion fall as mental causation serves the purpose of providing us with a means for ascribing responsibility. And one could think up other scenarios with relative ease within which the same sort of appeal to the causal efficacy of the mental could be used to bolster our intuitions about an agent’smoral praiseworthiness, his independence from physical coercion or his very sanity. It is this cluster of distinctly normative concepts that seem to represent the principal ingredients in our everyday concept of rationality.
+Once one understands this feature of Davidson’s philosophical program, it becomes considerably clearer what is really going on in the two analogies from “Mental Events,” that is, his comparison of the mental/physical distinction in metaphysics to the difference between semantics and syntax and to the failure of behaviorism to supplant belief/desire psychology. Because the methodology whereby radically unfamiliar languages may be interpreted requires us to treat the speakers of these languages as predominantly rational, for Davidson semantics cannot be reduced to syntax [Davidson, 1973b, pp. 134-137]. And it is because the attribution of rationally ordered beliefs and desires is a constitutive feature of all psychological explanation that this pair of concepts are not susceptible to the sorts of reductive accounts sought by the “definitional behaviorist.” Davidson’s belief in the impossibility of fitting together mental and physicalistic concepts into statements that express strict laws of nature is just one more instance of this general pattern of insisting upon a rigorous distinction between descriptive and normative considerations in scientific methodology.
+New problems will of course arise for the defender of AM who treats it as a straightforward consequence of these sorts of methodological considerations. It might, for example, be protested that considerations to do with the a priori, constitutive constraints that govern the interpretation of human speech, thought, and action have no obvious implications at all when it comes to assessing the plausibility of statement (3). Philosophers have, after all, had widely divergent intuitions about just what the connection might be between such normative injunctions and the laws of nature. Kim, for example, suggests that if the relevant constraints upon human ethology are as different from those that operate in the rest of the sciences as Davidson thinks they are, then there should surely be no true law-like generalizations – strict or non-strict – connecting mental properties with physical ones [Kim, 1993, p. 25]. Whereas Blackburn remarks that there seems to be no intrinsic reason to suppose that “interesting laws” could be discovered even between properties the attribution of which “answers to different constraints.” [Blackburn, 1985, p. 140]
+Other more general worries arise in connection with the very idea that the concept of causation has a distinctive sort of usefulness in explicitly normative contexts. This belief of Davidson’s makes it look as though he might, after all, be implicitly committed to a type of causal rationalism. For suppose our claim that the malicious climber’s deliberate decision to cut his comrade loose caused the latter’s death is partially underwritten by the sorts of normative considerations that Davidson identifies. Our very decision to describe the climber as having deliberated at all, then, will have been partly motivated by our felt need to hold him responsible for the death of his comrade.
+But in this case, our descriptions of the cause and of the effect would appear to lack the sort of logical independence from one another that true causal statements are usually (or at least common-sensically) required to have. This observation does not by itself represent a straightforward refutation of Davidson’s position – after all, as we have seen, causal rationalism was openly embraced by Spinoza, as well as by many other philosophers of the early Enlightenment. But it does make Davidson’s views about causation start to look very strange to contemporary sensibilities.
+It appears as though coming to a final verdict upon the plausibility of AM would require one to engage in some much more general reflections about the relationship between how we go about obtaining our beliefs about the world – specifically the parts of it that are relevant to the aspiring interpreter of human thought and language – and what sorts of beings that world objectively contains. That we find ourselves faced with this daunting prospect when we try to determine the prospects for achieving a reconciliation of statements (1)-(3) is perhaps something of a disappointment. But it should also perhaps not surprise one too much. The general problem of discerning where the boundary lies between epistemology and metaphysics is, after all, just one more part of the Cartesian legacy.
+6. References and Further Reading
+
+Anthony, Louise, “Anomalous Monism and the Problem of Explanatory Force,” The Philosophical Review vol. 48 (1989), 153-187.
+Anthony, Louise, “The Inadequacy of Anomalous Monism as A Realist Theory of Mind,” in G. Preyer et. al (eds.) Language, Mind and Epistemology: On Donald Davidson’s Philosophy (Dordrecht: Kluwer Academic Publishers, 1994), 223-253.
+Bennett, Jonathan, A Study of Spinoza’s Ethics (Indianapolis: Hackett, 1984).
+Blackburn, Simon, “Supervenience Revisited,” reprinted in Essays in Quasi-Realism (New York: Oxford University Press, 1993), 130-148. First published in 1985.
+Cartwright, Nancy, “Fundamentalism versus the Patchwork of Laws,” Proceedings from the Aristotelian Society 94 (1994), 279-292.
+Cummins, Robert, The Nature of Psychological Explanation (Cambridge, Mass.: The MIT Press, 1981).
+Davidson, Donald, “The Logical Form of Action Sentences,” reprinted in Essays on Actions and Events(Oxford: Clarendon Press, 1980), 105-149. First published in 1967.
+Davidson, Donald, “The Individuation of Events,” reprinted in Essays on Actions and Events (Oxford: Clarendon Press, 1980), 163-180. First published in 1969.
+Davidson, Donald, “Mental Events,” reprinted in Essays on Actions and Events (Oxford: Clarendon Press, 1980), 207-224. First published in 1970.
+Davidson, Donald, “Freedom to Act,” reprinted in Essays on Actions and Events (Oxford: Clarendon Press, 1980), 63-82. First published in 1973.
+Davidson, Donald, “Radical Interpretation,” reprinted in Inquiries into Truth and Interpretation(Oxford: Clarendon Press, 1984), 125-150. First published in 1973 (b).
+Davidson, Donald, “Psychology as Philosophy,” reprinted in Essays on Actions and Events (Oxford: Clarendon Press, 1980), 229-239. First published in 1974.
+Davidson, Donald, “Thinking Causes,” in John Heil and Alfred Mele (eds.) Mental Causation (Oxford, Clarendon Press, 1993), 3-18.
+Fodor, Jerry, “Special Sciences (or, the Disunity of Science as a Working Hypothesis),” Synthese 28 (1974), 97-115.
+Honderich, Ted, “The Argument for Anomalous Monism,” Analysis 16 (1982), 59-64.
+Hornsby, Jennifer, Simple Mindedness (Cambridge, Mass: Harvard University Press, 1997).
+Kim, Jaegwon, “Concepts of Supervenience” reprinted in Supervenience and Mind (New York: Cambridge University Press, 1993), 53-78. First published in 1984.
+Kim, Jaegwon, “Supervenience as a Philosophical Concept,” Metaphilosophy 20 (1990), 1-27.
+Kim, Jaegwon, “Can Supervenience Save Anomalous Monism?” in John Heil and Alfred Mele (eds.)Mental Causation (Oxford, Clarendon Press, 1993), 19-27.
+McLaughlin, Brian, “On Davidson’s Response to the Charge of Epiphenomenalism in John Heil and Alfred Mele (eds.) Mental Causation (Oxford, Clarendon Press, 1993), 27-41.
+Spinoza, Benedict de, Ethics, James Gutmann, ed. (New York: Hafner, 1949).
+Van Brakel, J., “Supervenience and Anomalous Monism,” Dialectica 53 (1999), 3-24.
+Zangwill, Nick, “Supervenience and Anomalous Monism: Blackburn On Davidson,” Philosophical Studies 71 (1993), 59-79.
+
+Author Information
+Mark Silcox
+Email: silcoma@auburn.edu
+Auburn University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

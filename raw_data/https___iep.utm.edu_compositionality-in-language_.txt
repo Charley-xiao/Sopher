@@ -1,0 +1,545 @@
+
+
+
+
+
+
+
+
+
+Compositionality in Language | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compositionality in Language
+Compositionality is a concept in the philosophy of language. A symbolic system is compositional if the meaning of every complex expression E in that system depends on, and depends only on, (i) E’s syntactic structure and (ii) the meanings of E’s simple parts.
+If a language is compositional, then the meaning of a sentence S in that language cannot depend directly on the context that sentence is used in or the intentions of the speaker who uses it. So, for example, in compositional languages, the meanings of sentences don’t directly depend on
+
+Things said earlier in the conversation
+The beliefs or intentions of the person uttering S
+Salient objects and events in the environment at the time that S is uttered
+The non-semantic character of S’s simple parts, such as their shape or sound
+
+In compositional languages, the meaning of a sentence S directly depends only on the meanings of the words composing S, and the way those words are syntactically related to one another.
+Of course, simple expressions in a compositional language might have meanings that depend on the context or on the intentions of their users, as the referent of the English pronoun ‘she’ can depend on who the speaker intends to be referring to. As such, sentences containing expressions such as ‘she’ will indirectly depend on the intentions of their speakers, because the meaning of the sentence depends on the meanings of its simple parts and the meanings of some of those parts depend on the speaker’s intentions.
+Several arguments purport to show that not only is natural language compositional, but that it must be, since we could not have the linguistic abilities we in fact do have, unless the languages we speak are compositional. A commitment to compositionality has driven a large amount of research in the philosophy of language and in linguistics, since it appears to be very difficult to provide adequate compositional treatments of commonplace linguistic constructions. On the other hand, some philosophers have argued that natural language is not compositional, or that compositionality induces no substantive restriction on possible theories of meaning.
+This article addresses the different ways compositionality has been understood by philosophers and linguists, and surveys the arguments that natural language is, must be, or should be compositional, as well as the arguments that it isn’t or needn’t be.
+Table of Contents
+
+Interpretations of Compositionality
+
+Syntactic Structure
+Meaning
+Dependence
+
+Functional Dependence
+The Substitution Principle
+Problems for Functional Dependence
+Dependence as Computability
+Dependence as Mereology
+The Empirical Conception of Dependence
+
+
+
+
+Arguments for Compositionality
+
+Novelty
+Systematicity
+The Inductive Argument
+
+
+The Dialectical Role of Compositionality in Philosophy
+
+Real Meanings
+Semantic Theories Purportedly at Odds with Compositionality
+
+Direct Reference Theory
+Conceptual Role Semantics
+Verificationism
+Moral Non-Cognitivism
+
+
+
+
+Challenges to Compositionality
+
+The Triviality Objection
+Context-Sensitive Expressions
+Idioms
+Noun Modification
+
+
+Conclusion
+References and Further Reading
+
+General
+Frege’s Principle
+Dependence
+Novelty
+Systematicity
+Compositionality vs. Theories of Meaning
+Triviality
+Context-Sensitive Expressions
+Idioms
+Noun Modification
+Additional Problems
+Additional References
+
+
+
+1. Interpretations of Compositionality
+a. Syntactic Structure
+In natural languages (such as English, Cantonese, and Kalaallisut), the smallest meaningful symbols are called “morphemes.” For highly analytic languages such as English, there is a large overlap between morphemes and words: words are largely the smallest meaningful units. English does have a number of morphemes that are not words, however, such as the plural ending –s for nouns, the possessive ending –’s for noun phrases, and the 3rd person singular ending –s for verbs. These are “bound” morphemes, in that they cannot grammatically occur on their own. In other, more synthetic languages such as Kalaallisut, single words can be made of many meaningful parts. The word atuartariaqalirpuq (“he began to have to study”) contains six morphemes, and can be used by itself as a sentence (example from Bittner 1995).
+Morphology is the set of rules governing how morphemes are combined to form words; syntax is the set of rules governing how words are combined to form phrases and, ultimately, sentences. These rules describe (among other things) how smaller parts, the constituents, are put together to form larger units. The syntactic rules that formed an expression can affect its meaning. Consider the expression ‘large horse painting’: it can either mean painting of a large horse or large painting of a horse, depending on whether ‘large’ is modifying ‘horse painting’ or just ‘horse.’
+The principal claim regarding compositionality that philosophers have been concerned with is the claim that all actual and possible natural languages are compositional. A natural language is a language that humans learn to speak naturally, as part of their development, as opposed to an artificial language such as computer languages. In this context, the claim that natural languages are compositional amounts to the claim that the meanings of complex (multi-morphemic) expressions are determined by and only by (i) the ways their morphemes are put together by the morphosyntactic rules of the language and (ii) the meanings of those morphemes.
+This may seem like a clear statement of a single thesis, but unfortunately there is wide philosophical disagreement concerning (a) what meanings are and (b) how we should understand ‘dependence’ in the statement of compositionality. We turn now to these two issues.
+b. Meaning
+There are two ways in which there are a wide variety of meanings of ‘meaning.’ First, many different philosophers will use the word ‘meaning’ and understand by it various distinct things. Some will think meanings are conceptual roles; others that they are set-theoretic objects and functions. Second, one and the same philosopher may recognize several types or dimensions of meaning. She may think, for example, that connotations are meanings in one sense, and that denotations are meanings in a different sense. In discussing compositionality, a reasonable stance is to consider all proposed types of meanings as bona fide meanings and therefore understand that there are numerous compositionality theses. For example:
+Compositionality of stereotype: the stereotype associated with a complex expression E in a natural language is determined by (and only by) (i) E’s morphosyntactic structure and (ii) the stereotypes associated with E’s morphemes.
+Compositionality of semantic features: the semantic features (e.g. [+male] or [+animate], as they attach to ‘he’ and ‘who,’ respectively) of a complex expression E in a natural language is determined by (and only by) (i) E’s morphosyntactic structure and (ii) the semantic features of E’s morphemes.
+It goes like this for each possible type or dimension of meaning. The philosophical question is which, if any, of these theses is true. Any argument for or against compositionality should make it clear what conception of meaning it takes to be or not to be compositional. It is quite possible that there are several legitimate conceptions of meaning, each deserving the name ‘meaning,’ where based on some of those conceptions, natural languages are compositional, and based on other of those conceptions, they are not.
+The question that has perhaps most concerned philosophers interested in compositionality is whether the truth-conditions of a sentence depend on (and only on) its syntax and the meanings of its simple parts. The truth-conditions of a sentence are simply the conditions under which the sentence is true. The truth-conditions of a sentence do not depend only on its syntax and the meanings of its simple parts if that sentence is true in some conditions and false in others, even though it has the same syntax and the same assignment of meanings to its simple parts. For example, we will later consider sentences such as ‘It is midnight.’ Sometimes this sentence is true, but other times—apparently without a change in the meanings of the words or in the way they are combined—it is false. This is an apparent violation of the compositionality of truth-conditions.
+c. Dependence
+Dependence and determination are common and vital notions in philosophy, though they are in many ways ambiguous. Sometimes dependence is a functional notion, as in: “the signs of two numbers determine the sign of their product (the sign of their product depends on their signs).” Dependence can also be a causal notion, as in: “the success of our movie depended on our advertising campaign.” It can be a constitutive notion, as in: “whether I win depends on whether I get a card lower than 4.” Regarding the compositionality thesis, there are many ways the notion of dependence has been understood.
+i. Functional Dependence
+One way of understanding the sense in which the meaning of the whole, according to compositionality, “depends on” the meanings of the parts, and the way those parts are combined, is reading “depends on” as “is a function of.” That is, a symbolic system is compositional if, and only if, the meaning of each complex expression E in that system is a function of (a) E’s syntactic structure and (b) the meanings of E’s simple parts.
+A function is a pairing of an input (an element of its domain) with an output (an element of its range). Familiar functions from mathematics are addition, subtraction, and multiplication. For example, the addition function takes two inputs and returns as output their sum: + takes 2 and 3 as inputs and returns 5 as output. The important thing about functions is that for any sequence of inputs there can only be one output. + never takes two numbers and returns both 5 and 7 as outputs. An example of a mathematical operation that is not a function is √x, because, for instance, √4 has two values, +2 and –2.
+While we usually talk about functions only in the context of mathematics, common functions are all around us. Consider the function “(biological) mother of”. The inputs to this function are organisms and the outputs are their (biological) mothers. “(Biological) mother of” is a function because it pairs inputs with outputs and it never pairs the same input with distinct outputs (everyone has only one biological mother).
+To say that the meaning of an expression E is a function of its syntactic structure and the meanings of its simple parts is to say that there is a function that takes E’s syntactic structure and the meaning of E’s simple parts as input, and returns as output E’s meaning.
+ii. The Substitution Principle
+If a language L is compositional in the functional sense described in the previous section, then that language satisfies the substitution principle:
+SP: If you take any expression E of L, and any morpheme M that occurs in E, and you replace M with a different morpheme M* of L that has the same meaning as M, then the result will have the same meaning as M.
+For example, “Sally perspires” is an expression of English. Let’s assume that ‘perspires’ and ‘sweats’ have the same meaning. Then what SP says is that “Sally sweats” has the same meaning as “Sally perspires.” In other words, substituting an expression with one meaning for another expression with the same meaning does not change the meaning of the whole.
+If compositionality is true, then SP is true. Remember that a language is compositional when there is a function that, for every expression E in the language, takes E’s syntactic structure and the meaning of E’s simple parts as input, and returns as output E’s meaning. If in expression E, you replace one of E’s morphemes M with another morpheme M* that has the same meaning as M, then you haven’t changed the inputs to the function: the function takes the meanings of the parts as inputs, and though you’ve changed the parts, they still have the same meaning. Since functions always return the same output when given the same input, the meaning of E-with-M*-replacing-M must be the same as the meaning of E-with-M.
+It is also true that if a husserlian language satisfies of the substitution principle, then the language is compositional in the functional sense (see [9]). A language is husserlian if one synonym can be substituted for another synonym without changing the grammaticality of the result. For example, no husserlian language can have synonyms ‘likely’ and ‘probable’ where:
+‘It is likely that the Spurs will win’ is grammatical.
+‘It is probable that the Spurs will win’ is grammatical.
+But:
+‘The Spurs are likely to win’ is grammatical.
+‘The Spurs are probable to win’ is ungrammatical.
+So long as all such pairs as ‘likely’ and ‘probable’ here are assigned different meanings, the substitution principle and the functional conception of compositionality are equivalent.
+iii. Problems for Functional Dependence
+While the functional conception of compositionality is easy to characterize and understand, it fails to capture the full force of the constraint many philosophers have thought compositionality imposes upon semantic theories for natural languages. This is because many semantic theories which are not intuitively compositional are compositional in the functional sense.
+One way to see this is by noting that any symbolic system that contains no synonyms and assigns exactly one meaning to each expression is compositional in the functional sense. If a symbolic system contains no synonyms, the meaning function for that language can’t treat two expressions differing only in the substitution of synonyms differently (because there are no such expressions). Thus for any expression E of S, there is a function F that takes E’s syntactic structure and the meanings of E’s parts as inputs and returns the meaning of E as output. This entails that a non-compositional language could be made compositional solely by removing a few redundant expressions (synonyms of other expressions in the language).
+Second, the functional conception of compositionality does not demand any particular relatedness among the meanings of related expressions. The functional conception requires only that the meaning function not assign different meanings to expressions that differ only in the substitution of synonyms. It does not require that the meanings it does assign to complex expressions be in any natural way related to the meanings of their parts, or to the meanings of other complex expressions composed of similar parts. For example, consider these meaning assignments:
+
+Le chien aboie. → The dog barks.
+Le chat aboie. → The cat dances.
+Le chat pue. → The skunk eats.
+
+Sentences (1) and (2) share a verb, but nothing about their assigned meanings are similar; (2) and (3) share a noun phrase, but again nothing about their assigned meanings is similar. Nevertheless, there exists a function that takes the syntax, and the meanings of the morphemes, of each expression on the left, and maps it to the meaning on the right: it’s displayed in (1)-(3). In fact, any random, unsystematic assignment of meanings to sentences is compatible with the functional conception of compositionality, provided that either there are no synonyms or that sentences that differ only in the substitution of synonyms are assigned the same meaning. This is ‘dependence’ only in the weakest sense of that word.
+iv. Dependence as Computability
+As we shall see, the principal reason for the belief that natural languages are compositional is that only compositionality can explain how we can figure out the meanings of a large range of novel sentences and expressions, whose meanings we have not specifically learned at any point. Compositionality, construed as computability, says that if you know the syntactic structure of an expression E, and you know the meanings of E’s simple parts, this suffices for you to “work out” the meaning of E: there exists a procedure that you can use, which after a finite number of steps, tells you the meaning of E itself. In other words, the meaning of any expression E is computable from (a) E’s syntactic structure and (b) the meanings of E’s simple parts.
+If the meaning of any expression E is computable from E’s syntactic structure and the meanings of E’s simple parts, then it is a function of E’s syntactic structure and the meanings of E’s simple parts. But the converse is not true, for not every function is computable.
+While computability imposes some standard of systematicity in meaning assignments, it nevertheless allows more freedom than we might wish. Consider how different programs running on your computer produce wildly different outputs, even given the same sequence of keystrokes. The outputs of the programs are computed from the keystrokes, but they process that information in radically different ways, and produce outputs of radically different characters. The keys used to type the previous sentence in a word processer might result in a complicated series of moves if typed in a fantasy role-playing game. The computability conception of compositionality says that the transition from the syntax of a complex expression and the meanings of its parts to the meaning of that expression must be a function of the syntax and the meanings of the parts, and that it must be rule-governed; but it doesn’t say anything about what the rules are or can be, except that they can be carried out in a finite number of steps and involve no randomness.
+v. Dependence as Mereology
+The functional and computational conceptions of dependence, with regard to the thesis that natural languages are compositional, are seemingly weaker than the pre-theoretical conception of dependence that occurs in the thesis itself. There is another conception of dependence in the literature that can reasonably be characterized as too strong (though it is not necessarily false that languages are compositional in this sense).
+On this conception, the meanings of the parts of a complex expression are literally part of the meaning of that expression. To see how this could be, consider the view that the meaning of a sentence is a structured proposition. The French sentence [[le chien] aboie]—where bracketing indicates syntactic structure—means a structured proposition such as <<the dog> barks>– where the italicized words stand here for the meanings of ‘le,’ ‘chien,’ and ‘aboie,’ respectively. On this view, the meaning of ‘chien,’ for example, is literally a part of the meaning of ‘le chien aboie.’
+This notion of dependence is quite strong: the meaning of a complex expression is made out of its syntactic structure and the meanings of its parts. And while many theories of the meanings of complex expressions, such as the theory of structured propositions, validate the principle of compositionality as interpreted with the mereological conception of dependence, it should be clear that this is more than what philosophers normally mean when they say natural languages are compositional.
+vi. The Empirical Conception of Dependence
+Finally, it’s possible to define compositionality in terms of the role that it plays in explaining certain of our linguistic abilities. In particular, many philosophers have thought that unless the meanings of complex expressions in natural languages depend on (and only on) (a) the syntax of those expressions and (b) the meanings of those expressions’ parts, we would not be able to learn and understand the languages we in fact learn and understand. Thus we can understand “dependence” here as whatever relation in fact obtains between the meaning of a complex expression and that expression’s syntax and the meanings of its parts that in fact explains our ability to learn and understand new expressions whose meanings we have not learned specifically. We know that language is compositional, but it is an empirical question as to just what compositionality consists in.
+The empirical conception of compositionality need not be thought of as a competitor to the other conceptions considered above. Instead, it provides a methodological backdrop against which we can evaluate various proposals regarding the sense of “dependence” at the heart of compositionality. As we saw, the functional conception of dependence is ill-favored precisely because it fails to explain our abilities to learn and understand the natural languages we speak. Any proposed account of compositionality not only has to meet certain internal criteria, such as clarity and consistency, but it also has to (a) actually be true of the languages we speak and (b) actually explain our abilities to learn and understand those languages.
+There is of course the possibility that no dependence relation that obtains only between the meanings of complex natural language expressions and their syntax and the meanings of their simple parts plays a discernible role in our linguistic abilities. Perhaps the meanings of complex expressions are partly determined by prior discourse, speaker intentions, salient objects and events in the environment, or the non-semantic character of those expressions’ simple parts, such as their shape or sound. In such an event, it might turn out not just that natural languages are not compositional, but that “compositionality” is without application, its introduction having rested on a false presupposition.
+2. Arguments for Compositionality
+a. Novelty
+We are capable of understanding a very large number—perhaps an infinite number—of sentences that we have never heard before. Consider the sentence frame F:
+There is a ______ on television.
+Anything describable could be written in the blank: orange-and-green polka-dotted squid, shoe sharpener, cauliflower-shaped spacecraft from Saturn…. The first thing to notice is that you would understand each of these sentences, even though presumably you’ve never heard them before and no one has ever taught you the meaning of the specific sentence There is a cauliflower-shaped spacecraft from Saturn on television. There are quite a lot of things that are describable in English, and so quite a lot of sentences that fit frame F. Each English speaker has only heard a tiny fraction of these sentences before, but every English speaker understands all of them (or at least those containing the English words that she knows).
+If we understand the meaning of a new sentence whose meaning we haven’t been specifically taught before, it must be that we can work out its meaning from information available to us when we hear that sentence and other things that we have already learned.
+Suppose for a moment that English is a compositional language, in the sense that the meaning of a sentence of English can be computed (worked out) from its syntactic structure and the meanings of its morphemes. This would explain how one could understand a novel utterance such as There is a cauliflower-shaped spacecraft from Saturn on television. English speakers who have never learned the meaning of this sentence specifically have nevertheless learned the meanings of each of the words in it: cauliflower, shape, the past tense morpheme –ed, spacecraft, and so forth. Furthermore, part of mastering a language involves acquiring the ability to parse sentences of that language, that is, to figure out their syntactic structure—for example, figuring out that cauliflower-shaped modifies spacecraft, but on television doesn’t modify Saturn. Thus if English is compositional, English speakers have all they need to understand novel English sentences they have never encountered before—provided those sentences don’t contain unfamiliar words.
+We can summarize the argument from novelty as follows:
+Premise 1. We are capable of understanding a very large number of English sentences that we have never heard before, whose meanings we have not specifically been taught.
+Premise 2. If English is compositional, then English speakers have all the abilities and information they need to understand English sentences they have never encountered before.
+Conclusion: The best explanation for the facts described in (1) is that English is in fact compositional.
+The premises of the argument from novelty are largely uncontroversial. Since the premises are equally true if ‘English’ is replaced by any other natural language, be it ‘Cantonese’ or ‘Kalaallisut’, the argument suggests that all natural languages are compositional.
+As with any inference to the best explanation, however, the argument from novelty is only compelling if there aren’t better or equally good explanations for the target phenomenon—in this case, for English speakers’ ability to understand novel English sentences. It is obvious that if we understand the meaning of a new sentence whose meaning we haven’t been specifically taught before, it must be that we can work out its meaning from information available to us when we hear that sentence and other things that we have already learned. But the information available to us is not limited to (i) the sentence’s syntactic structure and (ii) the meanings of its simple parts. When we hear a novel sentence, we also have information about:
+
+Things said earlier in the conversation
+The beliefs or intentions of the person uttering S
+Salient objects and events in the environment at the time S is uttered
+The non-semantic character of S’s simple parts, such as their shape or sound
+
+If the meaning of a complex expression directly depended on any of these things, we could still explain how English speakers can understand novel utterances, because these are things available to speakers and hearers in a conversation. The argument from novelty can’t by itself establish that all natural languages are compositional, and for that reason it is usually offered with additional arguments for compositionality, to which we now turn.
+b. Systematicity
+It is commonly argued that the systematicity of natural languages provides good reason to suppose languages are compositional. However, most of the literature fails to provide a clear characterization of systematicity and sometimes very distinct phenomena are all crowded under the one heading.
+On the most common way of understanding systematicity, language L is systematic if, and only if, for all expressions E1, E2, and E3 in L, if E1 can syntactically combine with E2 to form a grammatical sentence, and E3 is of the same syntactic category as E2, then E1 can combine with E3 to form a grammatical sentence. For example, the English expression ‘Fred’ can combine with the expression ‘eats bananas’ to form the grammatical sentence ‘Fred eats bananas.’ Since ‘George’ is of the same syntactic category as ‘Fred’ (proper names), if English is systematic then we expect that ‘George eats bananas’ is also a grammatical sentence. Since it is, and since examples such as this are easy to come by, it is often assumed by philosophers that English and other natural languages are systematic, in this sense.
+There are reasons to think that English and other natural languages are not systematic in this sense. For example, so-defined, a language is systematic only if its syntactic rules contain no semantic or phonological constraints: it says that any expression can be substituted for any other expression of the same syntactic category, regardless of differences in meaning/ phonology between the two expressions.
+Whether a language is systematic, in the sense just discussed, is not obviously relevant to whether it is compositional. After all, systematicity in that sense is only a constraint on which sentences must be grammatical if certain other sentences are grammatical. A language being systematic in that sense is compatible with that language having a non-compositional meaning function.
+There is, however, another sense of systematicity that is more difficult to precisely characterize, but which is in fact relevant to whether languages are compositional. Consider these two claims about English: For English expressions E1, E2, E3, and E4, when the following conditions are met:
+
+E1 can combine with E2 to form a grammatical sentence [E1 E2].
+
+Example: ‘Dogs’ can combine with ‘chase cars’ to form the sentence ‘Dogs chase cars.’
+
+E3 can combine with E4 to form a grammatical sentence [E3 E4].
+
+Example ‘Cats’ can combine with ‘eat mice’ to form the sentence ‘Cats eat mice.’
+
+E1 is of the same grammatical category as E3.
+E2 is of the same grammatical category as E4.
+
+Then the following two claims hold:
+Claim 1: Anyone who can understand [E1 E2] and [E3 E4] can also understand [E1 E4] and [E3 E2], when the latter are well-formed.
+Example: Anyone who can understand ‘dogs chase cars’ and ‘cats eat mice’ can also understand ‘dogs eat mice’ and ‘cats chase cars.’
+Claim 2: The meanings of [E1 E2] and [E3 E4] are predictably related to the meanings of [E1 E4] and [E3 E2], when the latter are well-formed.
+Example: ‘dogs chase cars’ has a meaning that is predictably related to both ‘dogs eat mice’ and ‘cats chase cars.’
+It can be argued that any language that is like English in this way is most likely a compositional language. The argument runs as follows. If English is compositional, then understanding ‘dogs chase cars’ and ‘cats eat mice’ involves (a) knowing the meanings of all the morphemes in the two sentences and (b) being able to recognize the syntactic structure of both sentences. Furthermore, if English is compositional, such knowledge and abilities suffice to understand ‘dogs eat mice’ and ‘cats chase cars.’ For these sentences are composed of the same morphemes, put together in the same syntactic structures. Thus the best explanation for why Claim 1 is true of English is that English is in fact compositional.
+A similar argument can be built around Claim 2. If English is compositional, then the meanings of English expressions are completely determined by (a) their syntactic structure and (b) the meanings of their morphemes. Since the expressions ‘dogs chase cars’ and ‘dogs eat mice’ partially overlap in their morphemes, they partially overlap in what determines their meanings, if compositionality is true. Thus the fact that they have related meanings is some evidence that English is in fact compositional.
+Neither of these arguments is very strong on its own, though each may be combined with other arguments or evidence for compositionality to marshal a stronger case. First, it can be argued that Claim 1 and Claim 2 are not true of all English expressions E1, E2, E3, and E4. With regard to Claim 1, someone might, for instance, know what ‘natural disaster’ and ‘wine selection’ mean without knowing what ‘natural selection’ means. This is because, in particular, the meaning of ‘natural selection’ is not wholly predictable from the meanings of ‘natural’ and ‘selection.’ Finally, both arguments are inferences to the best explanation: they claim, respectively, that the compositionality of English best explains Claim 1, and that it best explains Claim 2. However, there are non-compositional meaning functions that also predict Claims 1 and 2. For example, if the meaning of a complex expression is a function of the meanings of its parts and the phonetic properties of its parts, then it would be no surprise, for instance, that sentences with overlapping morphemes had overlapping meanings. Thus whether compositionality is the best explanation for these claims may depend on what other independent reasons we have for accepting that English is compositional.
+c. The Inductive Argument
+A third argument for compositionality is predicated on (a) the apparent compositionality of a wide variety of linguistic phenomena and (b) the success of compositional semantics in compositionally analyzing apparently non-compositional linguistic phenomena.
+Consider a simple English sentence: ‘Jenny loves baseball.’ Even without a well-defined notion of dependence, it is difficult to see how the meaning of this sentence depends on anything other than the meanings of ‘Jenny,’ ‘loves,’ and ‘baseball,’ and the way those words are syntactically combined. External features such as the intentions of a speaker using the sentence on a particular occasion, and the context in which the sentence is used, may well affect what gets implicated by the sentence, but don’t apparently affect its literal meaning. Furthermore, formal features of the sentence, such as the fact that each of the words it contains has two syllables, are also apparently irrelevant to its literal meaning. The meaning of ‘Jenny loves baseball’ apparently depends on, and only on, (a) its syntax and (b) the meanings of its simple parts. This sentence, and a large portion of the language we speak, is apparently compositional.
+Now consider a different example: ‘Every girl loves some sport.’ This sentence has two meanings. First, it can mean that for each girl, there is some sport she loves—even if for different girls it’s different sports. For example, if Jenny and Liz are the only girls, the sentence will be true if Jenny loves baseball and no other sport and Liz loves hockey and no other sport. Second, it can mean that there is one particular sport that every girl loves. If Jenny loves only baseball and Liz only hockey, then the sentence is false, because there is no sport loved by all girls. This sentence is therefore apparently non-compositional. On every occasion of use, the sentence appears to have one and the same syntactic structure, and its parts all appear to have the same meanings. If compositionality were true, then, the sentence couldn’t have different meanings on different occasions, because what determines its meaning is the same on all occasions. And yet, it apparently does have different meanings on different occasions.
+This is not an argument against the compositionality of English, but rather one for it. The second half of the inductive argument for compositionality concedes that there are indeed a great many apparently non-compositional linguistic phenomena in English—this quantifier scope case being just one among them. However, the argument continues, a rather large subset of the great many apparently non-compositional phenomena have been considered by linguists in the past several decades and been given satisfactory compositional analyses. (With regard to our example, the most common solution has been to regard it as really having two syntactic structures, corresponding to its two meanings. See the References and Further Reading.) Since compositional semantics has been such a fruitful and successful research program in the past and there’s no reason to think it will cease to be in the future, we have strong reason to suppose that English is in fact compositional, even if some of it appears not to be.
+The inductive argument holds up the past successes of compositional semantics as a good reason to believe that English (and any other language we’ve seriously and successfully investigated) is compositional. However, there remain apparently non-compositional linguistic phenomena that have not been given universally agreed upon—or even widely endorsed—compositional analyses (see section 4, Challenges to Compositionality). Some of these cases, such as generic statements, may well have particular features that justify us in thinking that they cannot be given compositional analyses.
+One additional point is worth making. A common construal of compositional semantics in linguistics is that the goal is to assign logical forms (LFs) to sentences of natural language in a compositional way. LFs are themselves representations and are not (standardly considered) the same things as meanings. LFs are “in the head,” unlike propositions, states of affairs, situations, truth-conditions, and so forth. Thus, the fact that an LF can be compositionally determined from the (a) syntactic structure of a sentence and (b) the lexical entries for that sentence’s morphemes does not entail that the meaning of the sentence is determined by those things—at least not without further argumentation. Thus the past success of semantic theory could be irrelevant to the question whether natural languages are compositional.
+3. The Dialectical Role of Compositionality in Philosophy
+a. Real Meanings
+Section 1.b endorsed a sort of meaning pluralism, that all proposed meanings (stereotypes, features, referents, senses…) were bona fide meanings and that it made sense to ask whether meaning was compositional, in any of the bona fide senses. But compositionality can also be used as a litmus test for determining which of these meanings is important or relevant to philosophical theorizing, as follows:
+X is the Real Meaning of expression E =df. Understanding E requires pairing it with X.
+The Real Meaning of an expression is the meaning whose grasp is both necessary and sufficient for understanding that expression. This notion of Real Meaning can then be used to discredit various meanings that are not compositional, as follows. As the argument from novelty suggests, our ability to understand new sentences whose meanings we have not specifically learned, requires that we compute those meanings from the sentences’ syntactic structures and the meanings of their parts. Thus, the Real Meaning of complex expressions in English must be compositionally determined. Therefore, if Y-meanings are not compositionally determined, then Y-meanings aren’t Real Meanings.
+b. Semantic Theories Purportedly at Odds with Compositionality
+The principle of compositionality has been employed in arguments against almost every semantic theory, including theories in metaethics of the meaning of normative terms. Presented here are four illustrative examples: first, Frege’s puzzle for the “naïve theory” of meaning of names, that names mean what they name; second, two very standard cases of discrediting theories (in this case, conceptual role semantics and verificationism) with the principle of compositionality; finally, the Frege-Geach problem for non-cognitivist theories in metaethics. Other examples can be found in References and Further Reading.
+i. Direct Reference Theory
+According to the “naïve theory” of the meaning of proper names (often also called the direct reference theory) the meaning of a name is its referent, the thing it names. If the direct reference theory is true and compositionality is true, it follows that two sentences that differ only in the substitution of one co-referring name for another will mean the same thing. For example, sentences (a) and (b) will mean the same thing, because “Lady Gaga” and “Stefani Germanotta” both refer to the same person:
+(a) Lady Gaga is a professional singer.
+(b) Stefani Germanotta is a professional singer.
+This seems like a reasonable position. Whenever (a) is true, (b) is also true, and vice versa. So (a) and (b) have the same truth-conditions, and it’s reasonable to then think they have the same meaning. But now consider two other sentences that are like (a) and (b) in that they differ only in the substitution of one co-referring name for another:
+(c) Elaine expects to see Lady Gaga.
+(d) Elaine expects to see Stefani Germanotta.
+Since Lady Gaga is Stefani Germanotta, the direct reference theory (plus compositionality) predicts that (c) and (d) have the same meaning. But prima facie, it seems that (c) could be true and (d) false, or (d) true and (c) false. Elaine may have heard Lady Gaga on the radio, and purchased a ticket to her concert, completely oblivious to the fact that Lady Gaga is Stefani Germanotta. She expects to see Gaga, but would be very surprised to learn she was to see Germanotta. She might even become angry at learning that Germanotta will be performing all night, because she prefers to see Gaga.
+It follows that three things are inconsistent: (i) our naïve judgments regarding the truth-conditions of (c) and (d); (ii) the direct reference theory; and (iii) the thesis that English is compositional. This is called “Frege’s Puzzle” after Gottlob Frege, who first posed it. Some philosophers have taken it as a reason to reject the direct reference theory.
+ii. Conceptual Role Semantics
+According to the inferentialist, the meaning of a simple sentence of the form x is an F is the set of sentences we can infer are (probably) true, assuming x is an F. For example, the meaning of “This is a tree” would be a set of sentences containing things such as “This has leaves,” “This is a plant,” “This has branches,” “This grows,” “This is relatively stationary,” and so forth. The inferentialist further holds that the meaning of a complex sentence is also the set of sentences we can infer are (probably) true from it. This is a variety of conceptual role semantics.
+Now consider the sentence “This is a green fish.” Green fish are relatively uncommon, so plausibly you can infer “This is rare” from “This is a green fish,” and thus according to conceptual role semantics “This is rare” is an element of the meaning of “This is a green fish.” However, neither green things nor fish are uncommon in nature. So “This is rare” is not an element of the meaning of either “This is green” or “This is a fish.”
+This is just one example of the broader principle that the normal features of things that are F and G are not a function of the normal features of things that are F and the normal features of things that are G. Thus, the set of sentences expressing the normal features of things that are F and G will not be a function of the set of sentences expressing the normal features of things that are F and the set of sentences expressing the normal features of things that are G. That is, this version of conceptual role semantics is incompatible with compositionality.
+iii. Verificationism
+Compositionality presents analogous troubles for theories that are similar to conceptual role semantics, such as the theory that the meaning of a sentence is the set of experiences that confirm it or the theory that the meaning of an expression is a stereotype. Suppose that the meaning of a sentence S is the set of experiences E such that E raises the probability that S is true.
+For the sake of the example, suppose that cows comprise a tiny proportion of the dangerous animals, and that brown animals also comprise a tiny proportion of the dangerous animals. Further, all dangerous cows are brown and all dangerous brown animals are cows. Now suppose you encounter one and only one animal and experience E an animal-mauling. E lowers the probability that the animal was brown, because most dangerous animals are not-brown. E lowers the probability that the animal was a cow, because most dangerous animals are non-cows. But E raises the probability that the animal was a brown cow.
+The set of experiences that confirms this is a brown cow is not a function of the set of experiences that confirms this is a brown thing and the set of experiences that confirms this is a cow. Thus verificationism is incompatible with compositionality.
+iv. Moral Non-Cognitivism
+According to the expressivist, sentences involving normative terminology such as ‘good’ and ‘bad’ and ‘right’ and ‘wrong’ play a different role in communication than ordinary descriptive sentences, containing no such terminology. For example, when George says something descriptive, such as “figure-skating is difficult,” he is expressing his belief that figure-skating is difficult. The role of descriptive statements is to express one’s beliefs. But, according to the expressivist, the role of normative terminology is to express one’s approval or disapproval. When George says something normative, such as “figure-skating is right” or “figure skating is wrong,” he is expressing his approval or disapproval of figure-skating.
+Consider the sentence, “figure-skating is not wrong.” What does this sentence express? It’s not disapproval of figure-skating, obviously, because that’s what the expressivist thinks “figure-skating is wrong” means. But neither is it approval of figure-skating. You can think something is not wrong without thinking that it is right—figure-skating, for instance, is neither right nor wrong. It is morally neutral; it is morally permissible. Expressivist accounts then say that “figure-skating is not wrong” expresses the speaker’s toleration of figure-skating.
+This treatment raises a question: Does the expressivist meaning of “figure-skating is not wrong” depend on and only on the expressivist meaning of “figure-skating is wrong” and the meaning of “not”? At first glance, it would seem that the answer is “no.” According to the expressivist, when George says “figure-skating is wrong” what this expresses is DIS:
+DIS. George disapproves of figure skating.
+So when George says instead, “figure-skating is not wrong,” this should express something that is a combination of DIS and the meaning of “not.” Two options suggest themselves:
+~DIS. George does not disapprove of figure-skating.
+DIS~. George disapproves of not figure-skating.
+But neither ~DIS nor DIS~ says the same thing as George tolerates figure-skating, which is the meaning of “figure-skating is not wrong,” according to the expressivist. ~DIS is consistent with George having no opinion regarding figure-skating. But tolerating figure-skating—thinking that it is not wrong, that it is an acceptable form of behavior—is having an opinion of figure-skating. It’s having the opposite opinion to one who thinks figure-skating is wrong. DIS~ is also not the meaning the expressivist wants. Tolerating figure-skating is not the same thing as disapproving of those who don’t skate. You can tolerate a behavior without being intolerant of those who don’t engage in it.
+This is “the negation problem” for expressivism but it is just part of a broader set of problems for moral non-cognitivist theories in meta-ethics. The broader set of problems—often called the Frege-Geach problem—regards how non-cognitivist theories can deal with logically complex normative sentences (involving words such as “not,” “or,” and “if… then…”) and logical inferences.
+4. Challenges to Compositionality
+There is no end of linguistic phenomena that have been presented as challenges to the thesis that natural languages are compositional. The examples that follow are therefore intended to illustrate the sorts of problems the compositionality thesis faces, rather than constitute an exhaustive overview.
+Section 4a considers an attempt to undermine the dialectical purpose of compositionality by showing that any meaning theory is compatible with the principle of compositionality. Section 4b focuses on context-sensitive expressions. Here Kaplan’s distinction between character and content is introduced as well as the strategy of handling apparently non-compositional phenomena by positing so-called “hidden indexicals.” The key idea introduced in this section is that while compositionality requires that the meanings of complex expressions depend only on their syntactic structure and the meanings of their morphemes, it allows simple expression meanings to depend on anything, including context, speaker intentions, and so on.
+Section 4c covers the case of idioms. Although there are plenty of non-compositional idioms, this is not as devastating to the compositionality supporter as one might think. The key idea in 4c is that allowing exceptions to the principle of compositionality in cases where we have specifically learned the meaning of a complex expression doesn’t hurt the dialectical purposes that principle is mainly used for. A real problem for compositionality would be a large number of cases where we are able to understand complex expressions we have never heard before and those expressions are not compositional. Section 4d covers a productive construction in English that seems to suggest just such a problem for compositionality: noun modification.
+a. The Triviality Objection
+Consider the following argument: the debate over whether natural languages are compositional is pointless. Any language can be given a compositional semantics, for any proposed theory of what meanings are. If meanings are ideas, then we let the meaning of [dogs [chase cats]] be [the idea of dogs [the idea of chasing, the idea of cats]]. If meanings are stereotypes, then we let the meaning of [dogs [chase cats]] be [the stereotype of dogs [the stereotype of chasing, the stereotype of cats]], and so on. In general, the meaning of any complex expression is just that very expression, with the meanings of its simple parts in place of those parts. (This is a type of structured propositions view.)
+There are two main reasons the triviality objection fails to convince most philosophers. First, while one can give such meaning theories for complex expressions, these meaning theories conflict with other principles that seem reasonable to hold. For example, we might think that the meaning of ‘cow’ and the meaning of ‘brown cow’ should be the same general type of thing. If the meaning of ‘cow’ is an idea, the meaning of ‘brown cow’ should also be an idea; if the meaning of ‘cow’ is a property—such as the property of being a cow—then the meaning of ‘brown cow’ should also be a property—such as the property of being a brown cow. But according to the triviality objection, we must say instead that while ‘cow’ means the idea of a cow, ‘brown cow’ means a structured complex containing two ideas: the idea of brown and the idea of a cow.
+Second, even if structured propositions don’t violate any of our other commitments, most structured propositionalists believe that the structured proposition that is the meaning of a sentence determines the truth-conditions of that sentence. And it is far from obvious that one can work out the truth-conditions of ‘this is my pet fish’ from a structured proposition containing the stereotype of a pet and the stereotype of a fish. It is not a trivial question to ask whether the truth-conditions of a sentence depend on (and only on) that sentence’s syntax and the meanings of its simple parts.
+b. Context-Sensitive Expressions
+Consider the sentence ‘I am Socrates.’ Sometimes when the sentence is uttered, it is true; at other times it is false. Although we might try to defend the claim that true utterances of ‘I am Socrates’ have a different syntactic structure from false utterances of ‘I am Socrates,’ this seems wholly implausible. Clearly the truth or falsity of the sentence depends on who is saying the sentence.
+At first, this might seem like proof that the truth-conditions of English sentences are not determined compositionally. Here is the argument: suppose that Aristotle says, ‘I am Socrates.’ This sentence is false because its truth-value depends on who says it: it is true only if the person who says it is Socrates. However, Aristotle is not the meaning of ‘am’ or ‘Socrates,’ as anyone can tell. Aristotle is also not the meaning of ‘I,’ otherwise when Socrates says ‘I am Socrates’ he would mean ‘Aristotle is Socrates.’ So the truth-value of ‘I am Socrates’ depends on something that is not its syntactic structure and is not the meanings of any of the words comprising it. And it doesn’t help to say that ‘I’ means ‘the person saying this sentence,’ because now we are faced with the exact same problem: sometimes ‘The person saying this sentence is Socrates’ is true and sometimes it is false. But it has the same syntactic structure and its morphemes mean the same thing on both the true occasions of utterance and the false ones.
+Now we can unravel what’s going on here. There is one sense in which ‘I’ has the same meaning every time it is used. We can call this the character of ‘I.’ There is another sense in which ‘I’ has a different meaning when different people use it. Call this the content of ‘I.’ Character is a rule for determining content. The rule for ‘I’ is: the content of ‘I’ any time it is used is the person who is using it. So when Aristotle and Socrates both use the word ‘I’ it has different contents for each use—Aristotle and Socrates, respectively—but those contents are determined by one and the same character (rule). The truth of ‘I am Socrates,’ when used by any particular person, is completely determined by (and only by) the syntax of the sentence and the contents of its morphemes.
+English has a variety of expressions that differ in content from context to context. We call these context-sensitive expressions:
+
+Now, today, yesterday, tomorrow
+Here, there, local, nearby
+I, you, he, she, it, they, we
+Come, go, left, right
+This, that, these, those
+Thus, so, yea
+
+Some of these have characters that determine their contents with no interpretation necessary. ‘Today’ always names the day on which it is used. The rule for ‘that,’ however, is roughly that its content is whatever the speaker intends.
+The general point here is that compositionality requires that the meaning of a complex expression not be determined ‘directly’ by context or by speaker intentions. However, a language can still be compositional if its simple expressions have their meanings (contents) determined by context or by speaker intentions.
+Some philosophers have proposed compositional analyses of various apparently non-compositional phenomena that appeal to unwritten, unspoken context-sensitive expressions (“hidden indexicals”). For example, consider the sentence, ‘There is no beer.’ It might mean on different occasions: there is no beer on this menu; there is no beer at this party; there is no beer in this bottle, and so on. This could be because the sentence ‘There is no beer’ has its meaning determined by factors other than the meanings of its parts and the way they are combined. Alternatively, it could be because there is a hidden indexical ‘there’ that is really part of the sentence. The indexical, though present, is not written or spoken. Nevertheless, it contributes its context-sensitive content to the meaning of the sentence, thus accounting for the variability in the sentence’s truth-value from context to context. There is nothing theoretically problematic about such a hidden indexical account, but it should be emphasized that whether hidden indexicals exist in these cases is an empirical question that might turn out to be false.
+c. Idioms
+The term ‘idiom’ covers a wide range of expressions, including stale metaphors (she’s on the fence, he ran out of steam), common hyperboles (he drinks like a fish, there was no room to swing a cat), and even common phrases (she’s last but not least, there’s method to his madness). To the extent that we don’t think metaphor or hyperbole pose any trouble for the thesis that natural languages are compositional these types of idioms appear equally benign.
+However, there are some idioms whose meanings cannot be worked out by someone familiar only with their syntax and the meanings of their parts and whose meanings can’t be understood as implicatures. Consider idioms such as she let the cat out of the bag, or I think he’s pulling your leg. Understanding these complex expressions requires learning their meanings in advance, separate from the meanings of their parts. In fact, many idioms contain ‘words’ that do not otherwise occur in the language, or only occur with different meanings (that’s beyond the pale, this is an old wives’ tale).
+It is not uncommon for philosophers to assert that compositionality admits of finitely many exceptions, and as there are only finitely many idioms in any language, compositionality is not violated. This is not strictly speaking true. The most general formulation of compositionality—the meaning of any complex expression depends on and only on its syntax and the meanings of its parts—admits of no exceptions, nor do many of its various precisifications—for example, reading ‘depends on’ as ‘is a function of,’ or ‘can be computed from.’
+On the assumption that ‘kick the bucket’ has the same syntax, and simple parts with the same meanings, in both its idiomatic and its non-idiomatic meaning, its meaning is not a function of its syntax and the meanings of its simple parts, for functions have unique outputs. The substitution test fails: ‘kicked the pail’ does not have the same meaning as the idiomatic ‘kicked the bucket,’ despite having the same syntax and parts with the same meanings. In a more intuitive sense, the meaning of ‘kicked the bucket’ doesn’t depend on the meanings of ‘kick’ and ‘bucket’—those meanings, the act of kicking and bucket are neither here nor there with respect to the idiomatic meaning of ‘kick the bucket.’
+Here is what motivates the common refrain that “compositionality admits of finitely many exceptions.” Recall that the argument from novelty says that the best explanation for our ability to understand complex expressions whose meanings we have not been specifically taught is that those expressions have their meanings determined compositionally. The argument from novelty is irrelevant to complex expressions whose meanings we have been specifically taught. This includes the problematic idioms. No one understands “she let the cat out of the bag” or “he’s just pulling your leg” before they have been taught the specific meaning of those idioms. What the argument from novelty suggests is that new complex expressions must be composed only of expressions whose meanings we have learned specifically before—but these latter expressions can be simple like “dog” or complex like “let the cat out of the bag.”
+While idioms may demonstrate that not all complex expressions have their meanings determined compositionally, it is important to note that compositionality may still serve its dialectical role. The argument from novelty shows that sentences we can understand without having learned their meaning specifically must have meanings that depend on parts whose meanings we have learned specifically. Thus we still have reason to doubt that the Real Meaning of “this is a green fish” is its inferential role, because (i) “this is a green fish” is the sort of sentence English speakers can understand without having learned its meaning specifically (unlike, for instance, “she let the cat out of the bag”) and (ii) as we’ve seen, the inferential role of “this is a green fish” does not depend on the inferential roles of “this is green” and “this is a fish.”
+Nevertheless, idioms could still pose a threat to the claim that novel expressions are compositional, if it turns out there are non-compositional idioms we can understand, even though we have not been specifically taught their meanings. For example, consider the class of expressions that involve a VERB + the removal of relatively irremovable things to mean something like VERB-ed excessively: she cried her eyes out/ laughed her head off/ worked her butt off/ danced the night away… It might be that we can recognize novel instances of patterns like this, in ways that don’t involve calculating their meanings from the meanings of their parts. How exactly we process the meanings of sentences containing idioms is as of now an open question, and it might turn out that we speak a language that violates the principle of compositionality even for novel expressions.
+d. Noun Modification
+English nouns can be combined with other English nouns to form compound nouns—for example, ‘truck driver,’ ‘panda trainer,’ ‘demolition derby,’ and so forth. This process is productive: ‘You are reading the compositionality philosophy encyclopedia entry compounds section’ (the section on compounds from the entry in the encyclopedia of philosophy about compositionality).
+One interesting aspect of noun compounds in English is that they do not specify the relation between the two nouns, and this relation differs from occasion to occasion. A house boat, for example, is a boat used as a house; but a boat house is not a house used as a boat, it’s a house for your boat to live in. A dog house is a house for a dog to live in, but a house dog is not a dog for a house to live in, nor is it a dog used as a house, it’s a dog that lives exclusively in the house. (Still more relations abound: brick house, house appraisal, house party…)
+While we might treat many compounds simply as idioms there are two general additional problems they pose: their productivity, as stated, and also the fact that nonce or novel compounds are regularly understood. Consider these examples:
+Example 1: We are at a child’s birthday party, about to eat ice cream. There are several spoons, each of which has a different animal depicted on it. I tell you, “You can have the dog spoon.” You immediately recognize that I mean the spoon with a dog depiction on it.
+Example 2: Similar birthday party scenario. This time there are only normal spoons. Unfortunately, there are only as many spoons as guests, and the dogs at the party have gotten ahold of one of them and slobbered all over it. I tell you, “Sorry, there’s no ice cream for you, unless you want the dog spoon.” You immediately recognize that I mean the spoon that the dogs have been playing with.
+Example 3: You and I are shopping for a friend who likes to collect spoons. We find some very nice Chinese commemorative spoons from different years. With the background knowledge that our friend was born in the year of the dog, and that only one spoon is from the year of the dog, I say “Let’s get the dog spoon.” You immediately recognize that I mean the spoon that commemorates a year that is also a year of the dog in the Chinese zodiac.
+In each of the examples, ‘dog’ means the same thing it always does, because ‘dog’ is not an indexical such as ‘I’ or ‘today’ and does not have different contents on different occasions. Similarly, in each of these examples, ‘spoon’ means the same thing it always does, because ‘spoon’ is not an indexical either. These two words exhaust the morphemes in the expression ‘dog spoon.’ Furthermore, in each of the examples, the syntax of ‘dog spoon’ is the same. And yet, in each of the examples, the meaning of ‘dog spoon’ is different. These facts, if they are facts, are straightforwardly incompatible with the claim that the meaning of ‘dog spoon’ depends on and only on its syntax and the meanings of its morphemes. These examples seem to show that the meaning of ‘dog spoon’ is context-sensitive because it directly depends on context, not because its parts are context-sensitive.
+Similar remarks can be made for the English possessive “Heather’s horse”: in separate contexts it can mean: the horse that Heather owns; the horse that Heather has wagered money on; the horse that Heather is currently riding; the horse that shares a name with Heather, and so on. If ‘Heather’, ‘horse,’ and the English possessive morpheme ‘-s’ don’t change their meanings from context to context, then it appears that the meaning of ‘Heather’s horse’ depends directly on context, and is thus not compositional.
+Indeed, modification in English generally allows context-specific interpretations: ‘green leaf” in different contexts could mean a leaf that is green on the outside, a leaf that is green on the inside, a leaf that is normally (but not now) green, a leaf depicted in the green volume of a color-coded set of volumes on leaves, and so on. Again, although ‘green leaf’ is context-sensitive, its parts, ‘green’ and ‘leaf’ do not appear to be. This direct dependence of the meaning of a complex expression on context is a violation of compositionality.
+There are various attempts at compositional solutions to the problem posed by compound nouns. There are two general strategies: first, one can deny that ‘dog spoon’ or ‘Heather’s horse’ or ‘green leaf’ differ in meaning from one occasion to the next. Second, one can accept that expressions such as these are context-sensitive, but argue that they do contain context-sensitive parts (for example, hidden indexicals) that explain the context-sensitivity.
+As an example of the first strategy, some philosophers and linguists have argued that “dog spoon” means only “spoon somehow related to a dog or dogs.” More generally they say that any noun compound N1 N2 means “N2 somehow related to a N1 or N1s.” In this way, noun compounds are assigned fixed, non-context-sensitive meanings that only depend on their syntax and the meanings of their parts. Such accounts have unintuitive consequences, to say the least: every time there is a toilet somehow related to paper, there is paper somehow related to a toilet. But it doesn’t obviously follow that whenever there is toilet paper, there are paper toilets. Furthermore, extending the strategy to possessives looks disastrous: If [N1 [POS N2]] means “N2 somehow related to N1,” then no matter which horse wins the race, Heather’s horse wins the race, because Heather is somehow related to all of them.
+An example of the second strategy is to posit a “hidden indexical.” The idea is that ‘dog spoon’ means ‘spoon that bears relation R to dogs,’ where R is a relation-indexical that picks out different relations in different contexts, in the way ‘he’ picks out different males in different contexts. This strategy requires positing a large number of hidden indexicals: whenever nouns are modified by nouns, possessives, or adjectives. As previously discussed, there is nothing theoretically problematic with such solutions, but whether there are such indexicals in these cases is an empirical matter that may well be shown to be false.
+5. Conclusion
+The principle of compositionality plays a central role in the evaluation of theories of meaning. If the principle is true, or is true with only a constrained class of exceptions, many if not all current theories of meaning may turn out to be inadequate. This includes a number of popular non-cognitivist positions in metaethics. Despite its centrality, it is difficult to say precisely what the principle of compositionality requires, both because philosophers are divided on what exactly meanings are and because of the nebulousness of “dependence.” Furthermore, there are a number of productive, apparently non-compositional linguistic phenomena. If the principle of compositionality is untrue, we have to find some other way to explain how humans learn and understand productive languages.
+6. References and Further Reading
+a. General
+There are several overviews of compositionality that have distinct focuses from this article. Readers are warned that much of the secondary literature on compositionality is very technical. Item [2] provides a formal framework for studying variants of compositionality and then surveys many such variants; it requires at least rudimentary knowledge of metalogic. Item [3] is a survey of issues concerning compositionality in Montague semantics; readers should have at least some familiarity with formal semantics in the Montagovian tradition.
+
+[1] Dever, J. 2006. “Compositionality.” In E. Lepore & B. Smith (eds.), The Oxford Handbook of Philosophy of Language. Oxford University Press: pp. 633-666.
+[2] Pagin, P. & Westerståhl, D. 2009. “Compositionality I: Definitions and Variants.” Philosophy Compass 5.3: pp. 250-264.
+[3] Partee, B. 2004. “Chapter 7: Compositionality” In her Compositionality in Formal Semantics: Selected Papers by Barbara Partee. John Wiley & Sons.
+
+b. Frege’s Principle
+The principle of compositionality is often called “Frege’s Principle,” because Frege is often considered the source or inspiration for the principle. However, it’s a matter of serious scholarly debate whether Frege did, in fact, hold the principle for either of the two kinds of meaning he recognized (Sinn and Bedeutung, or sense and reference). The curious reader is directed to [4] and [5]. Item [5] argues that while Frege held the principle of compositionality of reference (in the form of the substitution principle), there is no good evidence that he thought senses were likewise compositional. (This article also helpfully contains a wide variety of scholarly articulations of what compositionality is.) [4] argues that Frege did not even hold that the referent of a sentence was determined by its syntactic structure and the referents of its parts, because sentences’ referents vary, according to Frege, in ways that directly depend on context.
+
+[4] Janssen, T. 2001. “Frege, Contextuality and Compositionality” Journal of Logic, Language and Information Vol. 10: pp. 115-136.
+[5] Pelletier, F. 2001. “Did Frege Believe Frege’s Principle?” Journal of Logic, Language and Information Vol. 10: pp. 87-114.
+
+c. Dependence
+Item [9] clarifies the relation between the substitution principle and the functional conception of compositionality. [8] is the locus classicus for the claim that compositionality involves a stronger notion of dependence, computability, than mere functional dependence. [11] is an elaboration and defense of the claim that dependence in the principle of compositionality is supervenience. [7] claims that compositionality is the principle that the meanings of complex expressions are “constructed from” the meanings of its parts and presents the principle of reverse compositionality (in the section “Compositionality and the Lexicon”) and [10] forcefully argues against that principle. [6] defends the empirical conception of dependence.
+
+[6] Dowty, D. 2007. “Compositionality as an Empirical Problem.” In C. Barker & P. Jacobson (eds.), Direct Compositionality, Oxford University Press: pp. 23-101.
+[7] Fodor, J. & Lepore, E. 2001. “Why Compositionality Won’t Go Away: Reflections on Horwich’s ‘Deflationary’ Theory.” Ratio 14.4: pp. 350-368.
+[8] Grandy, R. 1990. “Understanding and the Principle of Compositionality.” Philosophical Perspectives 4: pp. 557-572.
+[9] Hodges, W. 2001. “Formal Features of Compositionality.” Journal of Logic, Language and Information 10 (1): pp. 7-28
+[10] Johnson, K. 2006. “On the Nature of Reverse Compositionality.” Erkenntnis 64 (1): pp. 37 – 60.
+[11] Szabó, Z. 2000. “Compositionality as Supervenience.” Linguistics and Philosophy, 23: pp. 475-505.
+
+d. Novelty
+Most papers on compositionality involve some discussion of the argument from novelty. [12] is the first explicit statement of the argument and the catalyst for contemporary discussions of it.
+
+[12] Davidson, D. 2001. “Theories of meaning and learnable languages.” In his Inquiries into Truth and Interpretation. Clarendon Press: pp. 3-16.
+
+e. Systematicity
+There are two separate bodies of literature on systematicity. First, there are arguments for and against certain views of cognitive architecture involving a syntactic notion of systematicity. The opening volley is [15]. Item [13] contains a thorough discussion of how to understand this notion of systematicity, and [16] and [17] carefully consider whether natural language is systematic in this sense. The other semantic sense of systematicity and the argument for compositionality based on it can be found in a number of Fodor’s works, including [14] pp. 106-107.
+
+[13] Cummins, R. 1996. “Systematicity.” Journal of Philosophy 93: pp. 591-614.
+[14] Fodor, J. 1994. “Concepts: A Potboiler.” Cognition 50: pp. 95-113.
+[15] Fodor, J. & Pylyshyn, Z. 1988. “Connectionism and Cognitive Architecture.” Cognition 28: pp. 3-71.
+[16] Johnson, K. 2004. “On the Systematicity of Language and Thought.” Journal of Philosophy 101: pp. 111-139.
+[17] Pullum, G. & Scholz, B. 2007. “Systematicity and Natural Language Syntax.” Croatian Journal of Philosophy 21: pp. 375-402.
+
+f. Compositionality vs. Theories of Meaning
+Frege’s Puzzle originally occurs in [18]. There is a large literature on the puzzle; [23] is one detailed defense of the naïve theory. [19] is one of many examples of arguments against conceptual-role semantics using the principle of compositionality. Michael Dummett developed a sophisticated conceptual-role semantics; [22] is an excellent overview, as well as an argument that Dummett’s semantics too is non-compositional. The Frege-Geach problem appears in [20] and [25]. Hare casts the problem in terms of compositionality in [21]. [24] provides an accessible overview.
+
+[18] Frege, G. 1997. “On Sinn and Bedeutung (1892).” In M. Beaney (ed.), The Frege Reader: pp. 151-171.
+[19] Fodor, J. & Lepore E. 1993. “Why Compositionality (Probably) Isn’t Conceptual Role.” Philosophical Issues 3, Science and Knowledge: pp. 15-35.
+[20] Geach, P. 1965. “Assertion.” Philosophical Review 74: pp. 449-465.
+[21] Hare, R. 1970. “Meaning and Speech Acts.” Philosophical Review 79: pp. 3-24.
+[22] Pagin, P. 2009. “Compositionality, Understanding, and Proofs.” Mind 118 (471): pp. 713-737.
+[23] Salmon, N. 1986. Frege’s Puzzle. Cambridge: The MIT Press.
+[24] Schroeder, M. 2008. “What Is the Frege-Geach Problem?” Philosophy Compass 3/4: pp. 703-720.
+[25] Searle, J. 1962. “Meaning and Speech Acts.” Philosophical Review 71: pp. 423-432.
+
+g. Triviality
+Item [28] presents the triviality argument considered in this article. Items [7] and [27] are two different attempts at undermining Horwich’s conclusions. A distinct triviality argument is presented in [29]; [26] provides a response. Familiarity with formal logic is required for [29] and [26].
+
+[26] Dever, J. 1999. “Compositionality as Methodology.” Linguistics and Philosophy 22: pp. 311-326.
+[27] Heck, R. 2013. “Is Compositionality a Trivial Principle?” Frontiers of Philosophy in China 8 (1): pp. 140-55
+[28] Horwich, P. 1997. “The Composition of Meanings.” Philosophical Review 106: pp. 503-532.
+[29] Zadrozny, W. 1994. “From Compositional to Systematic Semantics.” Linguistics and Philosophy 17.4: pp. 329-342.
+
+h. Context-Sensitive Expressions
+Item [31] is a classic and informs most contemporary work on context-sensitive expressions. [32] is an admirably clear treatment of what the principle of compositionality does and does not say about context-sensitivity. [33] began a debate about “unarticulated constituents”: aspects of meaning that are contextually supplied, but not compositionally derived. [30], [34], and [35] are three different contemporary perspectives in the debate.
+
+[30] Carston, R. 2000. Explicature and Semantics. UCL Working Papers in Linguistics 12.1.
+[31] Kaplan, D. 1989. “Demonstratives.” In J. Almog, J. Perry, & H. Wettstein (eds.) Themes from Kaplan: pp. 481–563.
+[32] Lasersohn, P. 2012 “Contextualism and Compositionality.” Linguistics and Philosophy, Vol. 35.2: pp. 171-189.
+[33] Perry, J. 1986. “Thought without Representation.” Proceedings of the Aristotelian Society, Supplementary Volumes: pp. 137-166.
+[34] Recanati, F. 2010. Truth Conditional Pragmatics. Oxford University Press.
+[35] Stanley, J. 2002. “Making It Articulated.” Mind & Language 17: pp. 149-168.
+
+i. Idioms
+Readers interested in idioms should begin with [36] and follow its bibliography for more references.
+
+[36] Nunberg, G., Sag, I., Wasow, T. 1994. “Idioms.” Language, Vol. 70, No. 3: pp. 491-538.
+
+j. Noun Modification
+Noun compounds, possessives, and modification of nouns with color adjectives provide instructive case studies regarding how philosophers, linguists, and psychologists confront apparently non-compositional phenomena. [37] is a classic, accessible source for observation, experiment, and linguistic analysis of noun compounds. [41] defends the thesis that compound [N1 N2] means “N2 somehow related to a N1 or N1s,” and [44] defends a hidden indexical solution. [40] is a good overview of the issues regarding the semantic treatment of possessives. A number of papers by Travis, including [43], have articulated the problem color adjectives present for the compositionality of truth-conditions. [42] presents a hidden indexical solution, and [38] attempts to use more standard resources to solve the problem. The psychological literature on noun modification typically eschews compositional treatments and goes under the heading “conceptual combination.” [39] is a review of the major psychological theories of processing modified nouns.
+
+[37] Downing, P. 1977. “On the Creation and Use of English Compound Nouns.” Language 53.4: pp. 810-842.
+[38] Kennedy, C. & McNally, L. 2010. “Color, Context, and Compositionality.” Synthese 174.1: pp. 79-98.
+[39] Murphy, G. 2002. “Conceptual Combination.” In his The Big Book of Concepts. The MIT Press: pp. 443-75.
+[40] Partee, B. “Chapter 15: Some Puzzles of Predicate Possessives.” In her Compositionality in Formal Semantics: Selected Papers by Barbara Partee. John Wiley & Sons.
+[41] Sainsbury, R. 2001. “Two ways to smoke a cigarette.” Ratio 14: pp. 386-406.
+[42] Szabó, Z. 2001. “Adjectives in Context.” In I. Kenesei & R Harnish (eds.) Perspectives on Semantics, Pragmatics and Discourse: A Festschrift for Ferenc Kiefer. Amsterdam: John Benjamins: pp. 119-146.
+[43] Travis, C. 1997. “Pragmatics.” In B. Hale & C. Wright (eds.) A Companion to the Philosophy of Language. Blackwell: pp. 87-107.
+[44] Weiskopf, D. 2007. “Compound Nominals, Context, and Compositionality.” Synthese, 156: pp. 161-204.
+
+k. Additional Problems
+There are a number of additional phenomena that have been seen as challenges to the principle of compositionality. Quotation as a problem for the principle of compositionality goes back at least to [18]. [45] presents a unique attempt to give a compositional treatment of quotation. [46] and [48] include treatments of so-called “donkey sentences.” The representations assigned by Kamp’s Discourse Representation Theory ([48] and other work) are unabashedly non-compositional. [47] and [49] involve a challenge for compositionality involving the interaction of ‘unless’ with quantifiers.
+
+[45] Davidson, D. 1968. “On Saying That.” Synthese 19: pp. 130-146.
+[46] Heim, I. 1982. The Semantics of Definite and Indefinite Noun Phrases. Ph.D. dissertation. Department of Linguistics. University of Massachusetts, Amherst.
+[47] Higginbotham, J. 1986. “Linguistic Theory and Davidson’s Program in Semantics.” In E. Lepore (ed.) The Philosophy of Donald Davidson: Perspectives on Truth and Interpretation. Oxford: Blackwell.
+[48] Kamp, H. 1981. “A Theory of Truth and Semantic Representation”. In: J. Groenendijk, T. Janssen & M. Stokhof (eds.) Formal Methods in the Study of Language. Mathematical Centre Tracts 135, Amsterdam: pp. 277-322.
+[49] Pelletier, F. “On an Argument against Semantic Compositionality.” In D. Prawits & D. Westerståhl (eds.) Logic and Philosophy of Science in Uppsala. Kluwer: pp. 599-610.
+
+l. Additional References
+
+[50] Bittner, M. 1995. “Quantification in Eskimo: A Challenge for Compositional Semantics.” In E. Bach, E. Jelinek, A. Kratzer, B. Partee (eds.), Quantification in Natural Language. Kluwer: pp. 59–80.
+
+ 
+Author Information
+Michael Johnson
+Email: michael.dracula.johnson@gmail.com
+Hong Kong University
+Hong Kong
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

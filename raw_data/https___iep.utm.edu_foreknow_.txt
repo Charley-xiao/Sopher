@@ -1,0 +1,701 @@
+
+
+
+
+
+
+
+
+
+Foreknowledge and Free Will | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foreknowledge and Free Will
+Suppose it were known, by someone else, what you are going to choose to do tomorrow. Wouldn’t that entail that tomorrow you must do what it was known in advance that you would do? In spite of your deliberating and planning, in the end, all is futile: you must choose exactly as it was earlier known that you would. The supposed exercise of your free will is ultimately an illusion.
+Historically, the tension between foreknowledge and the exercise of free will was addressed in a religious context. According to orthodox views in the West, God was claimed to be omniscient (and hence in possession of perfect foreknowledge) and yet God was supposed to have given humankind free will. Attempts to solve the apparent contradiction often involved attributing to God special properties, for example, being “outside” of time.
+However, the trouble with such solutions is that they are generally unsatisfactory on their own terms. Even more serious is the fact that they leave untouched the problem posed not by God’s foreknowledge but that of any human being. Do human beings have foreknowledge? Certainly, of at least some events and behaviors. Thus we have a secular counterpart of the original problem. A human being’s foreknowledge, exactly as would God’s, of another’s choices would seem to preclude the exercise of human free will.
+In this article, various ways of trying to solve the problem—for example, by putting constraints on the truth-conditions for statements, or by “tightening” the conditions necessary for knowledge—are examined and shown not to work. Ultimately the alleged incompatibility of foreknowledge and free will is shown to rest on a subtle logical error. When the error, a modal fallacy, is recognized and remedied, the problem evaporates.
+Table of Contents
+
+Introduction: The Problem of Foreknowledge and Free Will
+Three Kinds of Determinism
+The Relationship Between Epistemic and Logical Determinism
+Attacking the Premises of Deterministic Arguments 
+
+Can a Future Contingent be true prior to the event it refers to?
+Can a Future Contingent be known prior to the event it refers to?
+
+
+Possibility, Necessity, and Contingency
+The Modal Fallacy 
+
+The Modal Fallacy in Logical Determinism
+The Modal Fallacy in Epistemic Determinism
+
+
+Residual concerns – Changing the past; Changing the future
+Concluding Remarks
+References and Further Reading
+Notes
+
+1. Introduction: The Problem of Foreknowledge and Free Will
+Moses Maimonides (1135-1204) has set out the problem in the traditional manner:
+…”Does God know or does He not know that a certain individual will be good or bad? If thou sayest ‘He knows’, then it necessarily follows that [that] man is compelled to act as God knew beforehand he would act, otherwise God’s knowledge would be imperfect.…” (1966, pp. 99-100)
+
+The argument can be extended. The thrust of the argument does not apply only to doing good or ill, but indeed to every human act, from the most mundane to the most significant. The argument could just as well read:
+“Does God know or does He not know that a certain individual (let’s say the Prime Minister of Canada), on Feb. 3, 2081, will put on brown shoes when dressing in the morning? If thou sayest ‘He knows’, then it necessarily follows that the Prime Minister is compelled to act (that is, to put on brown shoes) as God knew beforehand he/she would, otherwise God’s knowledge would be imperfect. …”
+The argument for the seeming impossibility of both God’s having foreknowledge and our having free will has troubled religious thinkers, philosophers, and jurists for centuries.
+It is clear why theologians are troubled by the challenge of foreknowledge and free will. For most religions insist that God has given human beings free will and thus human beings can choose right from wrong, and that (in some religions at least) wrongful acts are sinful and worthy of divine punishment, while good acts are righteous and worthy of divine reward. But many of these same religions will also insist that God is omniscient, that is, God knows everything (and thus has perfect foreknowledge).[1] To deny either of these claims – that human beings have free will or that God is omniscient – amounts to heresy. Yet, on the face of it, each of these two claims appears to contradict the other.
+But why should secular philosophers and jurists also be concerned with this conundrum? For two reasons.
+First is that many, perhaps most, contemporary philosophers and jurists are keen to preserve the viability of the concept of free will. Our legal institutions, our very sense of what is praiseworthy and what is blameworthy, turn on the notion of free will. It is at the conceptual bedrock of our civilization that persons are creatures having the capacity of deliberation, that we have the ability to recognize right from wrong, that we have the ability to choose (to a large extent) what we do (and what we do not do), and – most especially – we are responsible for what we choose to do (and responsible for what we choose not to do).
+Second is that the challenge to the existence of free will is posed not just by God’s foreknowledge but by any foreknowledge whatsoever. The religious version of the puzzle arises because God is said to have omniscience, that is, knowledge of everything. But the problem would arise if anyone at all (that is, anyone whatsoever) were to have knowledge of our future actions. This generalized version of the problem has come to be known as the problem of Epistemic Determinism (“epistemic” because it involves knowledge; see Epistemology). For example, if my wife were to know today that I would choose tea (rather than coffee) for my breakfast tomorrow, then one could argue (paralleling Maimonides’s argument) that it would be impossible for me not to choose tea tomorrow at breakfast.
+The two concepts – (i) foreknowledge and (ii) human freedom – seem to be utterly incompatible. The challenge, then, (that is, the problem posed by epistemic determinism) is to find a way to show that
+
+
+
+
+either
+(1)
+foreknowledge (of human beings’ future actions) does not exist;
+
+
+
+or
+(2)
+free will does not exist;
+
+
+
+or
+(3)
+the alleged logical relation between foreknowledge and the exercise of free will is mistaken (that is, foreknowledge is not incompatible with the exercise of free will).
+
+
+
+Historically, some theologians have tried to solve the puzzle by invoking unique properties of God. For example, some have argued that God is ‘outside of time’ (or that ‘His knowledge is timeless’) and thus His knowledge is not foreknowledge at all, that is, God’s knowledge does not occur before (or during, or after, for that matter) any events in the world. The trouble with such solutions is (a) they leave non-theistic versions of the puzzle untouched (for example, my wife’s knowing that I will drink tea tomorrow), and (b) we can construct a revised version of the puzzle explicitly invoking God’s timelessness, for example:
+God is omniscient and His knowledge is timeless—that is, God knows timelessly all that has happened, is happening, and will happen. Therefore, if He knows timelessly that a person will perform such-and-such an action, then it is impossible for that person not to perform that action.
+Some other theologians have argued that God has a ‘special way’ of knowing. Unlike human beings (and other sentient creatures) who must causally interact with the world (for example, read a report, see an event, examine evidence [such as ashes, skid marks, etc.]), God is said to “know directly“—that is, without the need of sensory data or of physical interaction with the world. Such a notion of ‘direct knowledge’ is problematic in itself; but more importantly, it is hard to see how it solves the problem at hand, indeed how it even addresses the problem. For, again, as was the case with arguing that God’s knowledge is outside of time, the same two objections can be raised to this putative solution: (a’) this latter attempted solution leaves the non-theistic version of the puzzle untouched; and (b’) we can construct a revised version of the puzzle explicitly invoking God’s “direct knowledge,” for example:
+God knows directly (that is, without sensory data) all that has happened, is happening, and will happen. Therefore, if He knows directly that a person will perform such-and-such an action, then it is impossible for that person not to perform that action.
+Contemporary philosophers, especially secular ones, seek a solution elsewhere. We are disinclined to pursue solutions that call upon special properties of God, especially since any such solution leaves the ‘secular’ version of the problem untouched.
+The focus of attention has shifted dramatically. Secular philosophers argue that the supposed incompatibility arises out of a very subtle but seductive logical fallacy. So unobvious is this fallacy that it escaped detection by Maimonides and hundreds (perhaps even countless thousands) of other persons. The error has come to bear the name “The Modal Fallacy.”
+However, before we examine the Modal Fallacy, we need to delve deeper into the notions of determinism, truth, and knowledge.
+2. Three Kinds of Determinism
+There are three distinct versions of determinism: logical, epistemic, and causal. Each has been alleged to pose a threat to the exercise of free will, indeed it has been claimed of each version that its existence is incompatible with the existence of free will.
+1. Logical determinism is most frequently couched as the problem of “future contingents.” The threat to the exercise of free will arises from the thesis that the truth-value (that is, the truth or falsity) of any proposition is timeless (that is, those propositions that are true are always true, and those propositions that are false are always false). (Note that the term “proposition” is being used strictly, as is common in philosophy, to refer roughly to the meanings of (indicative or declarative) sentences; see sec. 2 of Truth.) Thus:
+If a proposition about some future action you undertake (let’s say tomorrow) is true, then it is true now. But if it is true now, then tomorrow you must undertake that action, that action must occur, you are powerless to prevent yourself from undertaking that action.
+(Note that “logical” in the phrase “logical determinism” is not meant to contrast with “illogical”, but instead refers to a particular concept of logic, namely truth itself.)
+2. Epistemic determinism has a strikingly similar formulation. Instead of simply attributing truth (or falsity) to propositions about the future, epistemic determinism concerns such propositions’ being known prior to the times of the occurrences they refer to. We then get this argument, parallel to the preceding one:
+If a proposition about some future action you undertake is known (in advance), then (when the time comes) you must undertake that action, that action must occur, you are powerless to prevent yourself from undertaking that action.
+3. Causal determinism is the thesis that all events (occurrences, processes, etc.) are the result of Laws of Nature and of antecedent conditions and of nothing else. Thus (to cite an example made famous by Carl Hempel), when a car radiator cracks overnight, it is the consequence of laws pertaining to the tensile strength of iron, of laws pertaining to the expansion of water upon freezing, to the structure of the radiator, to its being filled with water without anti-freeze, and to the temperature’s falling well below freezing for several hours (Hempel, 1942). In the case of human beings’ acting, the same scenario is said to obtain.
+If whatever one does is the result of Laws of Nature and of one’s physical and genetic makeup and one’s personal history, then – since all these ‘factors’ are ‘set’ (or ‘in place’) at the moment of one’s acting – you must undertake the action you perform, that action must occur, you are powerless to prevent yourself from undertaking that action.
+Three arguments all with the same conclusion, namely that your actions are ‘determined’ (in one of three different ways) and thus your actions are “unfree.” Free will is an illusion.
+Of the three deterministic arguments, the most difficult to engage is the third, that of causal determinism. Indeed, so knotted is that argument, and so contentious are the issues surrounding its presuppositions, it is treated separately in this Encyclopedia. (See, for example, “Laws of Nature.”)
+Note: From this point on, this article will examine only Epistemic Determinism and Logical Determinism.
+3. The Relationship Between Epistemic and Logical Determinism
+Since the ground-breaking work of Plato (427?-347? B.C.E.) most philosophers have agreed that there are (at least) three conditions that must be satisfied for a human being, let’s say “x”, to have knowledge of matters of fact, let’s say “P”:
+
+P (is true)
+x has good evidence, e, that P (and has little, or no, countervailing evidence)[2]
+x believes, on the basis of e, that P
+
+In the case of God, one may want to drop the second condition, the evidential requirement, allowing that God knows directly without the need of evidence. The third condition, the belief-condition, poses certain problems as well. In the case of human beings, this condition captures the ‘mental’ or ‘cognitive’ aspect of knowledge. But the beliefs of an omniscient God are unlike those of human beings. The beliefs of human beings are finite, shifting, fallible, and corrigible. Those of an omniscient God are infinite, unchanging, infallible, and incorrigible. Perhaps, then, “believes” is not quite the right word to use when speaking of God’s knowledge, but no other is ready at hand.
+Be this as it may, there remains one common element (at least) in the case of a human being’s having knowledge and God’s having knowledge, namely what is known is true. Neither God nor any human being can literally know anything that is in fact false. Put another way, truth is a prerequisite of knowledge (or using the vocabulary of logic, truth is a necessary condition for knowledge). (In the case of God, truth is not only a necessary condition for His knowledge, it is also sufficient. If we let “g” stand for “God”, “K” for “knows”, then gKP implies P, and P implies gKP.) Someone may believe strongly that some proposition is true, indeed he may insist that he knows, he may insist that he has incontrovertible evidence that that proposition is true, but if that proposition is in fact false, then he does not know. (This is not to say that he must have some way of finding out that he is mistaken. We are here divorcing truth from belief.) Every proposition that is genuinely known (that is, to be true) is true; but the converse – namely that every proposition that is true is known – certainly does not hold for less-than-omniscient human beings.
+The upshot is that the premises of the argument for Epistemic Determinism (that is, that there can be knowledge of some [at least] of a person’s future actions) presuppose the premises of the argument for Logical Determinism. For, simply, if there is knowledge now (that is, prior to the occurrence) of some future actions, then there are propositions about the future that are true now. If one were able to reject the premises of the argument for Logical Determinism, one would thereby render the argument for Epistemic Determinism unsound.
+4. Attacking the Premises of Deterministic Arguments
+As is the case with any argument, four responses are possible.
+
+One can accept the argument. In effect, this is to say that one regards the argument as being sound, that is, as having true premises and as being valid.
+One can argue that although the argument is valid, its premise-set is false (and thus its conclusion is unsupported).
+One can reject the validity of the argument, in particular by arguing that although the premise-set is true, the conclusion does not follow from that premise-set.
+Finally, one can adopt both of the immediately preceding two strategies, that is, argue that not only is the premise-set false, the argument is invalid to boot.
+
+Some religious groups (for example, the early Calvinists) have adopted the first option. They accept the soundness of the deterministic arguments and – giving primacy to God’s knowledge over human beings’ free will – argue that free will does not exist.
+Needless to say, very few others have been inclined to adopt such a view, indeed most persons who are familiar with the deterministic arguments are strongly motivated to rebut such a view. Such persons will, therefore, examine the possibility of adopting option 2 or 3. We turn, then, first, to see whether one can cogently rebut the premises of the argument for Logical Determinism.
+a. Can a Future Contingent be true prior to the event it refers to?
+Propositions about future events, or, if one prefers, about future matters of fact, are known as future contingents. The earliest discussion of future contingents, and the attendant problem of logical determinism, occurs in Aristotle‘s De Interpretatione 9 (1963, Chapter 9, pp. 50-53). There, Aristotle discusses the case of “Tomorrow’s Sea Battle.” His argument, reconstructed and embellished, is this:
+Two warring admirals, A and B, are preparing their fleets for a decisive sea battle tomorrow. The battle will be fought until one side is victorious. But the “logical laws (or principles)” of the excluded middle (every proposition is either true or false) and of noncontradiction (no proposition is both true and false), require that one of the propositions, “A wins” and “it is false that A wins,” is true and the other is false. Suppose “A wins” is (today) true. Then whatever A does (or fails to do) today will make no difference: A must win; similarly, whatever B does (or fails to do) today will make no difference: the outcome is already settled (that is, A must win). Or again, suppose “A wins” is (today) false. Then no matter what A does today (or fails to do), it will make no difference: A must lose; similarly, no matter what B does (or fails to do), it will make no difference: the outcome is already settled (that is, A must lose). Thus, if every proposition is either true or false (and not both), then planning, or as Aristotle put it ‘taking trouble’, is futile. The future will be what it will be, irrespective of our planning, intentions, etc.
+How might one try to rebut the premises of Aristotle’s argument?
+Proposal One: One might argue that propositions are not true in advance of the events described. Propositions ‘become’ true when the events described occur.
+First objection to Proposal One: (i) Sirhan Sirhan killed Robert F. Kennedy. But when did it ‘become true’ that Sirhan Sirhan killed Kennedy? At the moment of his pulling the trigger? But the bullet was not yet lodged in Kennedy’s body. At the time of the bullet’s entering Kennedy’s body? But Kennedy did not die immediately. He was rushed to a hospital where he died some hours later. At the moment of Kennedy’s death? But at that moment Sirhan Sirhan was in the custody of police in a building remote from the hospital where Kennedy was. (This conundrum is the handiwork of Judith Jarvis Thomson (1971).) The point is that although it is clearly true that Sirhan Sirhan killed Kennedy, it is problematic to pin down an exact time (or even a candidate for the exact time) when Sirhan killed Kennedy and, by extension, when it ‘became true’ that Sirhan killed Kennedy. (ii) When did Germany lose World War II? When the Allies’ invasion force landed on the beaches of Normandy? When British scientists and engineers invented and were able to use radar against the German Luftwaffe? When Alan Turing and his team broke the German secret code? When …?
+The issues in the preceding paragraph strongly suggest that it will prove problematic in the extreme to try to put precise times on the (supposed) occurrence of a proposition’s “becoming true.” Moreover, propositions are supposed to be abstract entities, entities which do not exist in space and time; but if they do not exist in time, how can their properties change – from being neither true nor false to being true (or to being false as the case may be) – at some particular time?
+Second objection to Proposal One: We do, in a great many cases, routinely ascribe truth to propositions about future events. (iii) Each year the Children’s Hospital in Vancouver has a lottery in which the grand prize is a new “prestige home.” Persons buy tickets on the firm belief that some winning ticket will be drawn. If the Hospital deliberately failed to draw a ticket, on the scheduled date, from the pool of purchased tickets, all those who had purchased a ticket could rightly claim that the hospital had been lying (that is, had been asserting false propositions). The ticket-holders had all assumed that the proposition “Some winning ticket will be drawn on the scheduled date” was true, weeks before the scheduled date. (iv) It is true today that there will a US presidential election in 2048. And (v) it is demonstrably true now that there will be a total solar eclipse, over parts of Libya and Turkey, on 30 April 2060 (Brunier & Luminet, 2000, pp.154-5).
+Third objection to Proposal One: To argue that propositions about the future acquire a truth-value only when the described event occurs (that is, in the future) will entail abandoning the logical law (/principle) of the excluded middle: propositions about the future will not, then, have truth-values now (that is, prior to the occurrence of the predicted event). Adopting Proposal One would require our creating a far more complicated logic. This is not to say that this proposed solution is completely without merit; but it is to say that we ought to try to find some other solution before resorting to such a major revision of logic. [For more discussion of these objections, see Time: Is Only the Present Real?.]
+What other way might one, then, propose to avoid the conclusion of the argument about tomorrow’s sea battle?
+Proposal Two: Disjunctions (that is, propositions of the form “P or Q” [in this particular case “A wins or it is false that A wins”]) are true, but not the individual disjuncts (components, that is, “A wins” and “it is false that A wins”).
+Objection to Proposal Two: The proposal is terribly peculiar. We are inclined to say that a disjunction is true just because (at least) one of its disjuncts is true. If neither P is true nor Q is true, how can “P or Q” be true? And, further, just as in the previous proposal, this one, too, entails abandoning the law of the excluded middle: while “A wins or it is false that A wins” has a truth-value now, neither of the two propositions “A wins” and “it is false that A wins” has a truth-value now. So, once again, we would prefer a less radical solution.
+Interim Conclusion #1: It emerges, then, that challenging the premises of the argument for logical determinism – namely that a proposition about an event can be true prior to the occurrence of that event – is not a promising approach to solving the problem of the threat posed to the existence of free will. (We will return to a further examination of Logical Determinism in due course.) Since truth is a necessary condition for knowledge, if we had been able to reject the premises of the argument for logical determinism, we would, thereby, at a stroke have undercut the argument for epistemic determinism. But, at this point in our discussions, we are allowing that future contingents can be true (or false) now, prior to the events referred to. Thus we must next examine whether the premises of the argument for epistemic determinism can be true.
+b. Can a Future Contingent be known prior to the event it refers to?
+How might one try to rebut the premises of the argument for epistemic determinism?
+Proposal One: One might argue that factual propositions are knowable only through a causal chain linking the event to the would-be knower. One can know, for example, that Mount St. Helens erupted within the last one hundred years: by hearing the reports of eyewitnesses, by seeing the event on television, by reading newspaper accounts, and by viewing the very considerable damage to the environs of the mountain. In short, we know of events by their causal remnants and since there apparently are no cases of ‘backwards causation’, knowledge of future contingents is impossible.
+Objection to Proposal One: Even if it is granted that there are no causal remnants of future events, the conclusion that there can be no knowledge of future events is false. Examining their remnants is not the only way to have knowledge of future events. In the case of Mount St. Helens, for example, ample warning was given (a month earlier) by the US Forestry Service of the imminent cataclysm. Some of those who choose to ignore the danger signals did not live long to regret their folly.
+And it is not only of impending large-scale disasters that we often have foreknowledge. Throughout our normal, even humdrum, days we depend on our knowledge of future contingents in order to maintain our lives and to avert death. When we see a bus traveling at a high speed along a highway on whose curb we are standing, we know full well that that bus is going to pass in front of us and that it would kill us if we were to be foolhardy enough to step in front of it just as it approached. None of us expects the bus suddenly, as it approaches, to turn into a slow-moving marshmallow. We know that the bus will retain its ‘integrity’ as a bus. Even such a simple, commonplace, act as unceremoniously opening and drinking a bottle of cola requires our knowing that it will not poison us, that it is, and will remain, potable.
+Simply put, our knowledge of how the world has behaved up till now provides powerful evidence of how it will behave. That is why we teach our children not to play in the street, why we teach our children not to put their fingers into electrical outlets, why we (try to) teach our children not to drive while intoxicated, etc. Our daily behavior provides abundant and powerful evidence that we do, to a very great extent, know perfectly well what the future will be.
+Proposal Two: The examples offered in the objection (immediately above) are not bona fide cases of foreknowledge; they are cases merely of strong beliefs. We may believe we know, but something ‘could go wrong’ between now and the predicted event. We cannot rule out our making a mistake. There is always the ineliminable possibility of error. For example, the person who opens and drinks a bottle of cola doesn’t really know that it is safe to drink, that someone hasn’t in fact tampered with the drink and poisoned it. Because of the possibility of unforeseen circumstances, even if they are very improbable, one cannot have genuine knowledge of the future.
+First Objection to Proposal Two: Knowing a future contingent does not require that there be no possibility of our making a error. Yes, we could make a mistake, yes, something might happen that will make our prediction turn out false, but that is no reason to claim that we cannot know the future. What is required is that we have good grounds to make our prediction and that they be true, not that there be no possibility of error.
+At the dawn of the ‘modern’ era in philosophy, René Descartes (1595-1649) began his Meditations by asking what could be known for certain. He sets as his program the elimination from his belief-system all that is not, or cannot be, known for certain.
+My reason tells me that as well as withholding assent from propositions that are obviously false, I should also withhold it from ones that are not completely certain and indubitable. (Descartes, 1641, p. 1)
+
+Given the tenor of his time, with the extraordinary success of the ‘new’ science, the headiness of such a claim is perhaps understandable (and forgivable). But it was, in the end, a colossal error. It was the pursuit of an impossible goal, the philosophical equivalent of placing the goalposts in an unreachable place.
+The two phrases “x knows” and “x knows for certain” are no more equivalent than “x sees the distant mountain” and “x sees the distant mountain perfectly (for example, from miles away x can see the veins in the leaves on the trees)”. Persons who do not have perfect pitch may, nonetheless, know when a pianist has hit a wrong note. One doesn’t have to hear perfectly to hear. Two mathematicians may prove the same theorem; one of these proofs may be ‘elegant’, the other ‘circuitous’; but both are proofs. A proof need not be elegant in order to be proof.
+Similarly with knowledge. What one knows need not be certain; some, probably most, things that we know fall short of certainty, but it is arbitrary and stultifying to refuse to acknowledge these cases as genuine cases of knowledge. By setting the standards too high, as did Descartes and as do many of his intellectual heirs even today, is to rob the concept of “knowledge” of its utility.
+To know the future, it is not required that we be infallible (that is, incapable of making a mistake). The person who sees a bus fast approaching knows that it will not (miraculously) turn into a marshmallow. And she is right: it does not. Realistically, few of us (unless corrupted by a bad introductory philosophy course), would be tempted to say, “She didn’t know. After all, the bus could have turned into a marshmallow.” True enough, there is one sensein which the bus could have turned into a marshmallow, and that sense is that such an eventuality is a logical possibility (that is, is not logically self-contradictory). Indeed it is a matter of the very definition of “matter of fact” or “contingency” that such propositions are both possibly true and possibly false. Every true contingency is (as a matter of the very definition of “contingency”) possibly false; and likewise every false contingency is (as a matter of the very definition of “contingency”) possibly true. [More on this in section 5 below.] But nothing of particular significance follows from these latter facts.
+One must be careful not to ‘slide’ from “possible” to “probable”. Just because an event is possible does not justify the inference that it is probable. The proposition that the US Congress will adopt Swedish as the country’s sole national language certainly is a logical possibility (that is, is not self-contradictory). But that proposition has a probability, for all intents and purposes, of zero. Every contingent proposition is both possibly true and possibly false. And some propositions that are possibly false have a reasonably high probability of being actually true; while some (other) possibly false propositions have a (nearly) zero probability (/zero likelihood) of being true. The essential point for our knowing a contingent proposition is (a) our having a well-founded belief that it is true and (b) that it is true. Its being possibly false is irrelevant. Its being probably false is quite another matter, but whether it is probably false or is not probably false is not entailed by its being possibly false.
+Every true contingency whatsoever, not just those about the future, is possibly false. It is truth that counts, not possible falsehood. Actual truth ‘trumps’ possible falsehood in the matter of a proposition’s being known.
+Second Objection to Proposal Two: One must be careful not to set the requirements, for knowing the future, unrealistically high. For such standards can rebound and make it impossible to know the past as well.
+In the first decade of the Twentieth Century, the conductor and musicologist, Friedrich Wilhelm Stein, discovered in Jena, Germany, a copyist’s version of a formerly unknown symphony. The copyist had annotated it as having been written by Beethoven. It was published in 1911 as Beethoven’s “Jena Symphony”. However, in 1957, H.C. Robbins Landon uncovered the original manuscript and established that the composition had in fact been written by Friedrich Witt (1770-1837), a contemporary of Beethoven’s.
+Clearly those who believed, in the years 1911 through 1947, that the “Jena Symphony” had been composed by Beethoven had a well-grounded belief. But, as it was to turn out, their belief was mistaken. And this little piece of history demonstrates how what we take to be knowledge of past events can be mistaken. But what moral should one draw from this story?
+Although we can never eliminate entirely the possibility of our having mistaken beliefs about past events, or misleading (or incorrect) evidence for those beliefs, it does not follow that we do not have knowledge of a great many past events. There is, to cite just one instance, simply too much evidence, indeed overwhelming evidence, that Mount St. Helens erupted on 18 May 1980 for anyone to have a rational belief that we do not know that historical fact. To be sure, it is logically possible that we should be mistaken. But the probability that we are mistaken is effectively zero.
+If we are to be skeptical about the possibility of knowing any future events, we would have to be equally skeptical of our knowledge of the past. And if we are not unduly skeptical about our knowledge of the past, we ought not to be unduly skeptical about the possibility of our knowing certain future events. (And as for the claim that we know far more about the past than we do of the future, one must bear in mind that we know only an infinitesimal part of what has happened in the past. Do you know, or indeed have any way of finding out, for example, the names of Leif Ericson’s shipmates?)
+Understand that I am not being especially skeptical about the past. All I am trying to do is to draw a parallel between knowledge of the past and knowledge of the future. The parallels are these: in both sorts of cases it is possible to have very strong evidence; in both sorts of cases it is possible to be mistaken. Possibly being mistaken is not a condition unique to claims about knowing the future; it applies equally to claims about knowing the past. But in neither case does the possibility of error undermine truth.
+Proposal Three: The examples that have been given of foreknowledge (for example, of a solar eclipse) of an imminent volcanic eruption, of a US presidential election, etc., are cases of naturally occurring phenomena or of legislatively mandated events. Such events have an overwhelmingly high probability of occurring. But when we turn to cases of human beings making choices, the situation is vastly different.
+Many, perhaps most, human choices and behaviors are the product of free will. Some of these choices and behaviors are conscious and deliberative considerations; others are subject to whim, to irrational desires, to spur-of-the-moment decisions, etc. None of us can know, in advance, what another person’s free choice will be.
+Objections to Proposal Three: This latter way of trying to undercut the premises of the argument for Epistemic Determinism works, if at all, only for the secular version. It does nothing to diminish the sting of the version capitalizing on God’s omniscience.
+But even if this objection is confined to the secular version, it hardly addresses the alleged conundrum. For the secular version of the argument for Epistemic Determinism does not, in the slightest, require that we human beings be able to foresee all the actions and behavior of other persons. The argument has its dreadful bite even if we are able to foresee only some of the free choices of others. And being able to do that is something that is familiar to everyone.
+In the case of persons whom we know well, especially family members, we are able to know, in certain circumstances, what they are about to say or do. If my wife and I go to dinner at one particular restaurant, I know beforehand, without her telling me, what she will order for dessert (lemon pie). If I happen to glance at her shopping list before she leaves home, I can know in advance that she will return with some 60-watt light bulbs. All of these are free choices on her part; none of them is coerced or forced in any way. Yet, I do know them.
+In the case of predicting the behavior of groups of persons, entire industries have grown up in the last 100 years devoted to such inquiries: professional pollsters, of course, but also economists, psychologists, political commentators, planning departments of large corporations, marketing advisers, pension-fund managers, etc., operating under a number of context-relevant constraints (for example, to minimize losses) to maximize gains, etc. Perhaps nowhere is such research of greater consequence than in planning military maneuvers (as in World War II). On that occasion, it became a matter of life and death for countless numbers of troops that their commanders correctly predicted the actions of their enemies.
+Interim Conclusion #2:
+Earlier we saw that there are no good reasons to reject the claim that future contingents are true (or false as the case may be) prior to the occurrence of the events they refer to. And now we see that, similarly, there are no good reasons to reject the claim that many future contingents (all future contingents in the case of God) can be, and more especially are, known prior to the events they refer to.
+Thus, if we are, finally, to remove the sting of the deterministic arguments, we will have to do so by arguing that these arguments, although having true premises, are – appearances to the contrary – invalid. Each of these arguments harbors a logical slip between their premises and their conclusions. The rest of this article is given over to revealing the nature of the logical error.
+5. Possibility, Necessity, and Contingency
+To expose the mistakes in the deterministic arguments, we will need some tools of modern logic. Some elementary symbols will help to illuminate the concepts at play in the deterministic arguments. However, all the formulas that will be used, which incorporate these symbols, will also be expressed in English prose.
+
+
+
+Symbol
+Its meaning
+Explanation
+
+
+P, Q, R, …
+propositions
+See (see Sec. 2 of Truth)
+
+
+~P
+it is not the case that P
+Example: It is not the case that copper conducts
+electricity. (Note: “P” and “~P” have opposite
+truth-values – whichever is true, the other is
+false.)
+
+
+P ⊃ Q
+if P, then Q
+Example: If she is late, (then) the meeting will be
+delayed.
+
+
+gKP
+God knows that P
+Example: God knows that the Mississippi River flows
+north to south.
+
+
+
+Next we need three concepts at the heart of modern modal logic. The symbols are:
+
+
+
+Symbol
+Its meaning
+Explanation
+
+
+◊P
+it is (logically) possible that P
+Example: It is (logically) possible that the United
+States was defeated in World War II. (Note: Whatever
+is not self-contradictory is logically possible.)
+
+
+☐P
+It is (logically) necessary that P
+Example: It is logically necessary that every number has
+a double. (Note: If Q is not logically possible, then
+~Q is logically necessary.)
+
+
+∇P
+It is contingent that P
+Example: It is contingent that the United States
+purchased Alaska from Russia.
+(Note: A proposition, Q, is contingent if and only if
+◊Q and ◊~Q.)
+
+
+
+These latter three concepts require further elaboration.
+P is possible (symbolized “◊P”). A proposition, P, is possible if and only if it is not self-contradictory. All propositions that are true are possibly true. In addition, some false propositions are also possibly true, namely those that are false but are not self-contradictory. Some philosophers like to explicate “P is possible” in this way: “There are some possible circumstances in which P is true”. And some philosophers, adopting the terminology popularized by Leibniz (1646-1716), will substitute “worlds” for “circumstances”, yielding “P is true in some possible worlds”. Examples of possibly true propositions include:
+
+Ottawa, Canada, is north of Washington, DC.
+The Great Salt Lake is saltier than the Dead Sea.
+The Dead Sea is saltier than the Great Salt Lake.
+John Lennon was the first songwriter to travel in a space capsule.
+There are three times as many species of insect as there are species of mollusk.
+2 + 2 = 4
+All aunts are female.
+Some pigs can levitate.
+
+Understand that prefacing a proposition, P, with “◊” does not ‘make’ P possible. What it does is to create a new, different, proposition, namely ◊P, which, in effect, says that P is possible. If P is possible (for example, suppose “P” stands for “Gold was first discovered in California in 1990”), then (although P is false), ◊P is true. Or, suppose “Q” stands for “2 + 2 = 7”. Then prefacing “Q” with “◊” does not ‘make’ Q possible. It produces a new proposition, “◊Q”, which is false. Q is, and remains, impossible whether or not it is prefaced with “◊”.
+Everything that is actual (or actually true) is possible (that is, possibly true). But if a proposition is actually false, then it is impossible only if it is self-contradictory; otherwise it is a false contingency, and all contingencies, whether true or false, are possible.
+We may ask “What color did Sylvia paint the lawn chair?” We look at the chair and see that she has painted it yellow. Thus it is demonstrable that it is possible that she painted the chair yellow. And its being yellow implies it is false that she painted the chair blue. But the falsity of the proposition that she painted the lawn chair blue in no way precludes that she could have done so. Even though false, it still remains possible that she painted the chair blue.
+P is necessary (symbolized “☐P”). Necessarily true propositions are those that are true in all possible circumstances (/worlds)—that is, are not false in any. Necessary truth can be defined in terms of possibility, namely P is necessary if and only if its negation (that is, “~P”) is impossible. In symbols (where “=df” stands for “is by definition”):
+☐P =df ~◊~P
+Examples of necessarily true propositions:
+
+2 + 2 = 4
+All aunts are female.
+Whatever is blue is colored.
+There are either fewer than 20 million stars or there are more than 12 million. (This statement may be unobvious; but if you think about it you may come to see that it cannot be false.)
+It is false that some triangle has exactly four sides.
+
+P is contingent (symbolized “∇P”). A proposition, P, is contingent if and only if it is both possibly true andpossibly false. Contingent propositions are those that are true in some possible circumstances (/worlds) and are false in some possible circumstances (/worlds). Contingency can be defined in terms of possibility, namely:
+∇P =df ◊P & ◊~P
+It is essential to understand that “◊P & ◊~P” does not mean “P is true and false in some possible circumstances (worlds)”. No proposition whatsoever is both true and false in the same set of circumstances (law of non-contradiction). To say that a proposition is contingent is to say that it is true in some possible circumstances and is false in some (other!) circumstances.
+Examples:
+
+The Boston Red Sox won the World Series in 2002.
+It is false that the Boston Red Sox won the World Series in 2002.
+Steel-clad ships can float in the ocean.
+It is false that steel-clad ships can float in the ocean.
+
+Modal terms and modal status
+Terms such as “must”, “has to”, “cannot”, “is necessary”, “is impossible”, “could not be otherwise”, “has to be”, “might”, “could be”, “contingent”, and the like, are known as “modal” terms. All of these are definable in terms of “possibility”.
+Every proposition is either logically possible or logically impossible. And no proposition is both.
+Drawing the net a bit finer, and dividing the class of logically possible propositions into those that are necessarily true and those that are contingent, we have three exclusive categories. Every proposition is exclusively either necessarily true, necessarily false, or contingent. That is, every proposition falls into one of these latter three categories, and no proposition falls into more than one.
+Just as the expression “truth-value” is a generic term encompassing “truth” and “falsity”, the expression “modal status” is a generic term encompassing “contingent”, “necessarily true”, and “necessarily false”.
+Finally, no proposition ever changes its modal status. We will call this principle “The Principle of the Fixity of Modal Status“. And for the purposes of assessing the deterministic arguments we note especially: no contingent proposition ever ‘becomes’ necessary or impossible.
+6. The Modal Fallacy
+From a mathematical point of view, if we arbitrarily pick any two propositions, truth and falsity can be attributed to them in four different combinations, specifically
+
+the first is true, and the second is true
+the first is true, and the second is false
+the first is false, and the second is true
+the first is false, and the second is false
+
+However, it sometimes happens that two propositions will have certain logical relationships between them such as to make one or more of these four combinations impossible. For example, consider the two propositions α and β.
+α: Diane planted only six rosebushes.
+β: Diane planted fewer than eight rosebushes.
+While each of these propositions, by itself, could be true and could be false, there are – as it turns out – only three, not four, possible combinations of truth and falsity that can be attributed to this particular pair of propositions. On careful thought, we can see that the second combination – that is, the one which attributes truth to α and falsity to β – is impossible. For if α is true (that is, if it is true that Diane has planted only six rosebushes) then β is also true. Put another way: the truth of α guarantees the truth of β. This is to say
+(1) It is impossible (for α to be true and for β to be false).
+Unfortunately, ordinary English does not lend itself easily to express the quasi-symbolic sentence (1). In symbols we can express the sentence this way:
+(1a) ~◊(α & ~β)
+About the best we can do in English is to create the following unidiomatic, extremely clumsy sentence:
+(1b) The compound sentence, α and not-β, is impossible (that is, is necessarily false).
+English prose is a poor tool for expressing fine logical distinctions (just as it is an unsuitable tool for expressing fine mathematical distinctions[3] ). But, as it turns out, the situation is worse than just having to make do with awkward sentences. For it is a curious fact about most natural languages – English, French, Hebrew, etc. – that when we use modal terms in ordinary speech, we often do so in logically misleading ways. Just see how natural it is to try to formulate the preceding point [namely proposition (1)] in this fashion:
+(2) If α is true, then it is impossible for β to be false.
+Or, in symbols:
+(2a) α ⊃ ~◊~β
+In ordinary speech, the latter sentence, (2), is natural and idiomatic; the former sentence (1b) is unnatural and unidiomatic. But – and this is the crucial point – the propositions expressed by (1)-(1b) are not equivalent to the propositions expressed by sentences (2)-(2a). The former set, that is (1)-(1b), are all true. The latter, (2)-(2a)are false and commit the modal fallacy. The fallacy occurs in its assigning the modality of impossibility, not to the relationship between the truth of α and falsity of β as is done in (1)-(1b), but to the falsity of β alone. Ordinary grammar beguiles us and misleads us. It makes us believe that if α is true, then it is impossible for β to be false. But it is possible for β to be false. β is a contingent proposition. Recall the principle of the fixity of modal status. Even if the falsity of β is guaranteed by the truth of some other proposition [in this case α], β does not ‘become’ impossible: it ‘remains’ contingent, and thereby possible.
+Whatever impossibility there is lies in jointly asserting α and denying β. (See (1b) above.) The proposition “it is false that β” does not ‘become’ impossible if one asserts α.[4]
+a. The Modal Fallacy in Logical Determinism
+Some persons have been deceived by the following (fallacious) argument to the effect that there are no contingent propositions:
+“(By the Law of Non-contradiction), if a proposition is true (/false), then it cannot be false (/true). If a proposition cannot be false (/true), then it is necessarily true (/false). Therefore if a proposition is true (/false), it is necessarily true (/false). That is, there are no contingent propositions. Every proposition is either necessarily true or necessarily false. (If we could see the world from God’s viewpoint, we would see the necessity of everything. Contingency is simply an artifact of ignorance. Contingency disappears with complete knowledge.)”
+The fallacy arises in the ambiguity of the first premise. If we interpret it close to the English, we get:
+P ⊃ ~◊~P
+~◊~P ⊃ ☐P
+——————
+∴ P ⊃ ☐ P
+However, if we regard the English as misleading, as assigning a necessity to what is simply nothing more than a necessary condition, then we get instead as our premises:
+~◊(P & ~P) [equivalently: ☐(P ⊃ P)]
+~◊~P ⊃ ☐P
+From these latter two premises, one cannot validly infer the conclusion:
+P ⊃ ☐P.
+In short, the argument to the effect that there are no contingent propositions is unsound. Its very first premise commits the
+modal fallacy.
+The identical error occurs in the argument for logical determinism. Recall (the expanded version of) Aristotle’s sea battle:
+Two warring admirals, A and B, are preparing their fleets for a decisive sea battle tomorrow. The battle will be fought until one side is victorious. But the “logical laws (or principles)” of the excluded middle (every proposition is either true or false) and of noncontradiction (no proposition is both true and false), require that one of the propositions, “A wins” and “it is false that A wins,” is true and the other is false. Suppose “A wins” is (today) true. Then whatever A does (or fails to do) today will make no difference: A must win; similarly, whatever B does (or fails to do) today will make no difference: the outcome is already settled (that is, A must win). Or again, suppose “A wins” is (today) false. Then no matter what A does today (or fails to do), it will make no difference: A must lose; similarly, no matter what B does (or fails to do), it will make no difference: the outcome is already settled (that is, A must lose). Thus, if every proposition is either true or false (and not both), then planning, or as Aristotle put it “taking trouble,” is futile. The future will be what it will be, irrespective of our planning, intentions, etc.
+If we let “A” stand for “Admiral A wins” and let “B” stand for “Admiral B wins”, the core of this argument can be stated in symbols this way:
+
+
+
+
+
+
+
+
+
+
+A or B
+[one or the other of these two propositions is true]
+
+
+~◊(A & B)
+[it is not possible that both A and B are true]
+
+
+
+
+
+
+
+
+
+
+
+∴
+A ⊃ ☐A
+A ⊃ ~◊~A
+}
+If A is true, then A must be true.
+If A is true, then A cannot be false.
+
+
+
+A ⊃ ☐~B
+A ⊃ ~◊B
+}
+If A is true, then B must be
+false.If A is true, then B cannot be true.
+
+
+
+B ⊃ ☐B
+B ⊃ ~◊~B
+}
+If B is true, then B must be true.
+If B is true, then B cannot be false.
+
+
+
+B ⊃ ☐~A
+B ⊃ ~◊A
+}
+If B is true, then A must be
+false.If B is true, then A cannot be true.
+
+
+
+
+In this argument, by hypothesis, either A is true or B is true, and since they cannot both be true, the second premise may be accepted as true. But none of the conclusions is true. A is contingent, and B is contingent. Yet the conclusions state that from the assumed truth of either of (the two contingencies) A or B, it follows that A and B are each either necessarily true or necessarily false. Each of these eight conclusions violates the principle of the fixity of modal status. What, then, are the conclusions one may draw validly from the premises? These:
+
+
+
+
+☐(A ⊃ ~B)
+or, equivalently,
+ ~◊(A & B)
+
+
+☐(B ⊃ ~A)
+or, equivalently,
+ ~◊(B & A)
+
+
+
+
+So long as we remain mindful of the fact that “~◊(P & Q)” is logically equivalent to “☐(P ⊃ ~Q)” but is not equivalent to “P ⊃ ☐~Q”, the argument for logical determinism will be seen to be invalid. Our ordinary language treats “it is impossible for both P and Q to be true” as if it were logically equivalent to “if P is true, then Q is necessarily false”. But the profound difference between these two assertions is that the former preserves the principle of the fixity of modal status, the latter violates that principle. The proposition, “Admiral A wins”, is contingent, and if true, then it “remains” true. Indeed this is a trivial logical truth:
+(i) ☐(P ⊃ P) alternatively, ~◊(P & ~P)
+The argument for logical determinism illicitly treats this logical truth as if it were equivalent to the false proposition
+(ii) P ⊃ ☐P alternatively, P ⊃ ~◊~P
+If you do not let yourself be beguiled by the invalid ‘move’ (inference) from (i) to (ii), the argument for logical determinism collapses. The truth of a proposition concerning your future behavior does not make that future behavior necessary. What you choose to do in the future was, is, and will remain contingent, even if a proposition describing that choice is timelessly true.
+b. The Modal Fallacy in Epistemic Determinism
+Let’s recall Maimonides’s argument:
+… “Does God know or does He not know that a certain individual will be good or bad? If thou sayest ‘He knows’, then it necessarily follows that [that] man is compelled to act as God knew beforehand he would act, otherwise God’s knowledge would be imperfect.”
+We can symbolize the core of this argument, using “∴” for “it necessarily follows”; and “☐” for “compelled”; and “D” for the proposition describing what some particular person does tomorrow.
+gKD
+———
+∴ ☐D
+There seems to be (at least) one missing premise. [In the terminology of logicians, the argument is enthymematic.] One tacit assumption of this argument is the necessary truth, “it is not possible both for God to know that D and for D to be false”, or, in symbols, “~◊(gKD & ~D)”. So the argument becomes:
+gKD
+~◊(gKD & ~D)
+————————
+∴ ☐D
+But even with this repair, the argument remains invalid. The conclusion does not follow from the two premises. To derive the conclusion, a third premise is needed, and it is easy to see what it is. Most persons, with hardly a moment’s thought, virtually as a reflex action, will tacitly assume that the second premise is logically equivalent to:
+gKD ⊃ ☐D
+and will tacitly (/unconsciously) add this further premise, so as to yield, finally:
+gKD
+~◊(gKD & ~D)
+gKD ⊃ ☐D
+————————
+∴ ☐D
+But this third premise, we have seen above, is false; it commits the modal fallacy. Without this premise, Maimonides’ argument is invalid; with it, the argument becomes valid but unsound (that is, has a false and essential premise [namely the third one]). Either way, the argument is a logical botch.
+Once the logical error is detected, and removed, the argument for epistemic determinism simply collapses. If some future action/choice is known prior to its occurrence, that event does not thereby become “necessary”, “compelled”, “forced”, or what have you. Inasmuch as its description was, is, and will remain forever contingent, both it and its negation remain possible. Of course only one of the two was, is, and will remain true; while the other was, is, and will remain false. But truth and falsity, per se, do not determine a proposition’s modality. Whether true or false, each of these propositions was, is, and will remain possible. Knowing – whether by God or a human being – some future event no more forces that event to occur than our learning that dinosaurs lived in (what is now) South Dakota forced those reptiles to take up residence there.
+7. Residual concerns – Changing the past; Changing the future
+It will sometimes happen that persons will painstakingly follow each of the steps of the preceding arguments that expose the modal fallacy in logical and epistemic determinism and still harbor lingering worries that the truth or knowledge of future contingents precludes the very possibility of free will
+“Look”, they might say, “if it is already true today (Monday) that I will do Z tomorrow (Tuesday), then surely tomorrow, try as I might, I will end up doing Z. Were I do something else instead, in effect not do Z on Tuesday, then I would change, from true to false, the truth-value that a proposition had on Monday. But that is impossible. Thus, tomorrow, my considering the alternatives – my deliberating over my course of action, my trying to make up my mind what I will choose, my trying to exercise free will – is really just an illusion. Since I can’t change the past, and since it is already true before I act that I will do Z, it clearly follows that I cannot exercise free will.”
+To tackle this last deterministic argument, we need to discuss two matters: (1) what might be meant by the expressions “change the past” and “change the future”, and (2) whether changing the future involves retroactively changing the truth-value of a proposition.
+Changing the past, present, or future: The past is fixed. One cannot undo what has happened (although one can, of course, try to mitigate the consequences of wrongful acts – by apologizing, making amends, etc.)
+Not even an omnipotent God can ‘undo’ or ‘redo’ the past, for to do so would per impossible actualize a self-contradiction (for example, “x occurred at such-and-such a time and x did not occur at such and such a time”).
+Jewish sages warn against ‘prayer in vain’ (where “in vain” does not mean “futile” but “contemptuously” or “profanely” [as in the Third Commandment, “Thou shalt not take the Lord’s name in vain”]):
+… to cry over the past is to utter a vain prayer. If a man’s wife is [already] pregnant and he says, “[God] grant that my wife bear a male child”, this is a vain prayer. If he is coming home from a journey and he hears cries of distress in the town and says, “[God] grant that this is not in my house”, this is a vain prayer. (Epstein, 1948, pp. 327-8)
+Such prayers were regarded as blasphemous since they were taken to be supplications to God that He change the past from the way it was. But not even an omnipotent God can violate the logical principle of the (law of) non-contradiction.
+And yet, God-fearing persons frequently do utter such prayers. How natural it is, for example, for Believers, when knowing that their child was on board a particular ship, and learning that the ship has met a terrible calamity and sunk – with some passengers being lost and some others being rescued – to pray to God that their child is among the survivors. Is there any way to rationalize such behavior and render it non-blasphemous?
+Modern modal logic again comes to the rescue. Remember, on traditional accounts, God is (along with being all-good) omniscient and omnipotent. God, being omniscient, will have known, since the beginning of time, that the parents would pray (at such and such a time) for the survival of their child. In particular, God would have known at the time of the ship’s sinking that the parents would pray sometime later, and God could have chosen to answer those prayers in advance of their being uttered. On this view, God is not changing the past at all; God is making the past one particular way among the infinite number of different ways it could have been. One must attend to the modalities. Under this view, God does not change the past from the way it was (which activity would be a violation of the principle of non-contradiction), but rather God makes one possibility (the child’s surviving) actual, and makes another possibility (the child’s perishing) nonactual. There is no violation of the principle of non-contradiction, and the parents’ prayers are not blasphemous.
+And it bears emphasizing that it is not God’s knowing beforehand that the parents would pray in a certain manner that ‘brings it about’ (‘necessitates’, ‘forces’) their praying that way. It is, quite the contrary: it is the parents praying of their own free will that God have saved their child from death that moves God to do (have done) as he did.
+Similar freedoms and constraints apply to the present. On pain of inconsistency, one cannot change what is happening at this very moment. In some circumstances, and in a certain sense, one can change what is about to happen next (that is, in the immediate future). But one cannot change what is happening now (that is, at this very moment).
+What about the future? Most of us believe that we can, to a certain extent, change (or affect) the future. But then we recall the proverb, “Que sera, sera” (“What will be, will be”), and we begin to have doubts. If the future will be what it is going to be, how can we change it?
+Not surprisingly, the response is: “It all depends on what you mean by ‘change'”.
+“I cannot change the future – by anything I have done, am doing, or will do – from what it is going to be. But I can change the future from what it might have been. I may carefully consider the appearance of my garden, and after a bit of thought, mulling over a few alternatives, I decide to cut down the apple tree. By so doing, I change the future from what it might have been. But I do not change it from what it will be. Indeed, by my doing what I do, I contribute – in a small measure – to making the future the very way it will be.”Similarly, I cannot change the present from the way it is. I can only change the present from the way it might have been, from the way it would have been were I not doing what I am doing right now. And finally, I cannot change the past from the way it was. In the past, I changed it from what it might have been, from what it would have been had I not done what I did.
+“We can change the world from what it might have been; but in doing that we contribute to making the world the way it was, is, and will be. We cannot – on pain of logical contradiction – change the world from the way it was, is, or will be.” (Swartz, 2001, pp. 226-227)
+Suppose that tomorrow, by the exercise of my free will, I wash the family car. In doing so, I make the future just what it was to be. But it was to be (that way rather than some other) just because I will exercise my free will tomorrow. It is tomorrow’s exercise of my free will that makes it the way it will be.
+In exercising my free will tomorrow (to wash the family car) have I retroactively changed the past? Have I changed the truth-value of some proposition from true to false and of some other proposition from false to true?
+Semantic relations are not causal relations: Again, the English language confuses us. We say that what we willchoose to do tomorrow ‘makes‘ some proposition true. And we might add, what I choose to do tomorrow (namely wash the family car) ‘makes‘ the car clean.
+But these are two radically different senses of “makes”. The first use of “makes” refers to the semantic relation of “truth-conferring”. My washing the car tomorrow ‘confers’ truth on the proposition that on such-and-such a day, I wash the family car. But an event’s ‘conferring truth’ on a proposition is not a causal relation. Causal relations occur between two events (or occurrences, or states). The event of my washing the car brings about the state (or the event that lasts several days) of my car being clean.
+The event of my washing the car tomorrow doesn’t retroactively cause the proposition that I wash the car tomorrow to become true, nor does it change the truth-value of that proposition. The proposition that I wash the car tomorrow (that is, on such-and-such a date) simply describes what happens tomorrow. If I do wash the car tomorrow, then that proposition was, is, and forever will be, true. If I do not wash the car tomorrow, then that same proposition was, is, and always will be false.
+Some persons find it easier to understand the concept of the semantic relation of ‘truth-making’ if the example concerns a past event rather than a future one. Consider the proposition (which is still being debated by scientists) that the dinosaurs on earth perished as a result of an impact of a huge meteor at Chicxulub, on the Yucatan Peninsula in Mexico, about 65 million years ago. If there was such an impact, and if it caused the demise of the dinosaurs, then the proposition is true (or, more specifically, always was, is, and always will be true). If, however, there was no such impact, or if there was an impact but it didn’t cause the death of the dinosaurs, then the proposition always was, is, and forever will be false.
+Every actual event has a timelessly true description. It is what happens (that is, what events occur)—including those that are the free choices of human beings—that “accounts for” the truth of their descriptions. The truth (today) of the proposition that John Wilkes Booth assassinated Abraham Lincoln neither ‘accounts for’ nor ’caused’ that criminal act.
+In the next few hours I will make any number of free choices. Tomorrow there will be true propositions describing those choices. But none of my choices today is ‘forced’ or ’caused by’ my actual choices having true descriptions tomorrow. And we can generalize:
+In the next few hours you will exercise your free will and make any number of free choices. Yesterday there were, today there are, and tomorrow there will be, true propositions describing those choices. But none of your choices today (whatever they are) is ‘forced’ or ’caused by’ your actual choices having had a true description yesterday, having a true description today, or continuing to have a true description tomorrow.
+8. Concluding Remarks
+The argument (Logical Determinism) that a proposition’s being true prior to the occurrence of the event it describes logically precludes free will ultimately rests on a modal fallacy. And the ancillary argument that a proposition’s being true prior to the occurrence of the event it describes causes the future event to occur turns on a confusion (i) of the truth-making (semantic) relation between an event and its description with (ii) the causal relation between two events.
+The argument (Epistemic Determinism) that a proposition’s being known prior to the occurrence of the event it describes logically precludes free will, as in the case of logical determinism, ultimately rests on a modal fallacy. And the arguments that it is impossible to know the future are refuted by two facts. One is that we do in fact know a very great deal about the future, indeed our managing to keep ourselves alive from hour to hour, from day to day, depends to a very great extent on such knowledge. Two is that the objection that we cannot have knowledge of the future – because our beliefs about the future ‘might’ (turn out to) be false – turns on a mistaken account of the role of ‘the possibility of error’ in a viable account of knowledge. Beliefs about future actions, insofar as they are contingent, and – by the very definition of “contingency” – are possibly false. But “possibly false” does not mean “probably false”, and possibly false beliefs, so long as they are also actually true, can constitute bona fide knowledge of the future.
+9. References and Further Reading
+a. References
+
+Aristotle (1963). Categories and De Interpretatione, translated with notes by J.L. Ackrill (Oxford: Clarendon Press), Chapter 9 (pp. 50-53).
+Bradley, Raymond and Norman Swartz (1979). Possible Worlds, (Indianapolis: Hackett Publishing Co.).
+Brunier, Serge and Jean-Pierre Luminet (2000). Glorious Eclipses: Their Past, Present and Future, translated by Storm Dunlop (Cambridge: Cambridge University Press), pp.154-5.
+Descartes, René (1641/1966). Meditations on First Philosophy (1641). Re-written (2004) by Jonathan Bennett, for readability by students in the 21st century, from the translation by John Cottingham (Cambridge University Press), 1996.
+Epstein, Isidore (trans.) (1948). The Babylonian Talmud, Tractate Berakoth, Chapter IX., (London: The Soncino Press [Oxford]). (Reprinted in 1978.)
+Gettier, Edmund L. (1963). “Is Knowledge Justified True Belief?” Analysis 23, pp. 121-123.
+Hempel, Carl (1942). “The Function of General Laws in History,” The Journal of Philosophy 39, pp. 35-48.
+
+Reprinted in Aspects of Scientific Explanation, (NY: The Free Press), 1965,pp. 231-243.
+
+
+Maimonides, Moses (1996). The Eight Chapters of Maimonides on Ethics (Semonah Perak.im), edited, annotated, and translated with an Introduction by Joseph I. Gorfinkle (New York: AMS Press).
+Nagel, Ernest (1956). “Symbolic Notation, Haddocks’ Eyes and the Dog-Walking Ordinance” The World of Mathematics, vol. 3, edited by James R. Newman (NY: Simon and Schuster), pp. 1878-1900. (Reissued by Dover Publications, ISBN: 0486432688.)
+Scriven, Michael (1965). “An Essential Unpredictability in Human Behavior,” in Scientific Psychology: Principles and Approaches, edited by Ernest Nagel and Benjamin Wolman, (New York: Basic Books), pp. 411-25.
+Swartz, Norman (2001). Beyond Experience, 2nd edition.
+Thomson, Judith Jarvis (1971). “The Time of a Killing,” Journal of Philosophy, 68 (1971), pp. 115-32.
+
+b. Further Reading
+Complementary
+
+Craig, William Lane (1987). The Only Wise God: The Compatibility of Divine Foreknowledge and Human Freedom, (Grand Rapids, MI: Baker Book House).
+Rowe, William L. (1993). Philosophy of Religion: An Introduction, 2nd edition (Belmont, CA: Wadsworth Publishing Co.), esp. Chapter 11, “Predestination, Divine Foreknowledge, and Human Freedom,” pp. 141-154.
+
+Dissenting
+Nelson Pike has argued that if one adopts a particular notion of omniscience [different from the one presupposed in this article], God’s omniscience does preclude the existence of human free will. Alvin Plantinga responds to Pike, arguing that God’s omniscience is compatible with human free will. Finally, Pike tries to defend his position against Plantinga. The three papers are:
+
+Pike, Nelson (1965). “Divine Omniscience and Voluntary Action,” The Philosophical Review, 74 (Jan.) pp. 27-46.
+
+Reprinted as “God’s Foreknowledge and Human Free Will Are Incompatible,” in Philosophy of Religion: An Anthology, 2nd edition, edited by Louis P. Pojman, (Belmont, CA: Wadsworth Publishing Co.), 1994, pp. 250-60.
+
+
+Pike, Nelson (1977). “Divine Foreknowledge, Human Freedom and Possible Worlds,” The Philosophical Review, 86 (April), pp. 209-216.
+Plantinga, Alvin (1974). “God’s Foreknowledge and Human Free Will are Compatible,” God, Freedom, and Evil, (New York: Harper & Row), pp. 66-72.
+
+Reprinted in Philosophy of Religion: An Anthology, 2nd edition, edited by Louis P. Pojman, (Belmont, CA: Wadsworth Publishing Co.), 1994, pp. 261-4.
+
+
+
+Supplementary: Causal Determinism
+Throughout this article we have examined two alleged threats to the claim that human beings have free will, namely, the threat posed by Logical Determinism and that posed by Epistemic Determinism. Early we hived off the discussion of Causal Determinism. For many thinkers, causal determinism poses a far greater threat to the existence of free will than does either logical or epistemic determinism. Again, as a starting point, consider reading the article, “Laws of Nature” in this Encyclopedia.
+Advanced
+All three deterministic arguments are challenges to the thesis that human beings have free will. And enormous efforts have been expended over the last millennium, by countless philosophers and theologians, to rebut these arguments. All these efforts have been, as it were, defensive moves. And thus the question naturally arises: Is there, or can there even be, arguments to the effect that free will does exist? Is there any empirical evidence that human beings have the capacity to exercise free choice? Is the claim demonstrable that we can, at least on occasion, make free choices?
+In his article, “An Essential Unpredictability in Human Behavior” (1965), Michael Scriven describes a thought-experiment which strongly supports the claim that we have free will. (See especially Section I., pp. 419-20.) Most persons will need to read this paper several times, and without a dismissive attitude, to plumb its cogency and depth. The paper is undeniably tough going, but, in the end, worth the effort needed to grasp its insights.
+10. Notes
+
+Although contemporary (twentieth- and twenty-first-century) secular philosophers continue the historical tradition of talking about God as a (/the) omniscient being, one should not thereby infer that these philosophers are assuming that God exists. For contemporary secular philosophers, “God” may be regarded as shorthand for “omniscient being.” Their interest is in the consequences of positing an omniscient being, not in promoting a belief that such a being exists. The latter is a quite different matter, not touched upon in this article. [ Return ]
+This second condition is stated loosely. Indeed, ever since Gettier (1963), a number of philosophers have tried “tightening” the conditions that are necessary for knowledge. However, for our purposes, we need not settle on whether these conditions are sufficient for knowledge. For the present discussion, we need only insist upon the first condition (namely P is true), a condition that has been little challenged in late-twentieth- and early twenty-first-century theory of knowledge. [ Return ]
+Just as an exercise, try to state the following formula solely in English prose:
+x = [√(y2 + z√w)] / [2.7w (a3 + log(y – 0.5z))]
+For further illustrations of the difficulty on occasion of expressing fine logical points in ordinary prose, see Ernest Nagel’s celebrated “Symbolic Notation, Haddocks’ Eyes and the Dog-Walking Ordinance” (1956), especially the latter section. [ Return ]
+The modal fallacy is hardly the only case of human beings’ susceptibility to logical error. Another logical error, this one drawn from mathematics, which – like the modal fallacy – took centuries to be corrected, has to do with the number of numbers. If one were to ask most persons, “Are there more even and odd positive integers (1, 2, 3, 4, …) than there are even positive integers (2, 4, 6, 8, …) alone?”, one would likely get as an answer, “Yes, of course.” There are twice as many even and odd positive integers together as there are even positive integers alone.” But contrary to our untutored intuitions, this is the wrong answer. It turns out, as was discovered and proved in the 19th century (by Georg Cantor [1845-1918]), there are exactly as many even positive integers as there are even and odd together. The two classes, that of all the positive integers and that of the even positive integers are said to be “equinumerous,” that is, both classes contain the same number (cardinality) of members, namely an infinite number. That there are as many even positive integers as there are positive integers can be demonstrated by the fact that the members of the two classes can be uniquely ‘paired off’, or putting the point in more technical jargon, the members of the two classes can be put into a “one-to-one correspondence”:
+
+
+
+1
+2
+3
+4
+.
+.
+.
+.
+
+
+|
+|
+|
+|
+|
+|
+etc.
+
+
+2
+4
+6
+8
+.
+.
+.
+.
+
+
+
+Every positive integer has a unique double; and every even positive integer has a unique half which is also an integer. Clearly, there are instances when some of our untutored, deeply ingrained, logical (and mathematical) “intuitions” need to be reformed.[ Return ]
+
+Author Information
+Norman Swartz
+Email: swartz@sfu.ca
+Simon Fraser University
+Canada
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

@@ -1,0 +1,911 @@
+
+
+
+
+
+
+
+
+
+Induction, The Problem of | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Problem of Induction
+This article discusses the problem of induction, including its conceptual and historical perspectives from Hume to Reichenbach. Given the prominence of induction in everyday life as well as in science, we should be able to tell whether inductive inference amounts to sound reasoning or not, or at least we should be able to identify the circumstances under which it ought to be trusted. In other words, we should be able to say what, if anything, justifies induction: are beliefs based on induction trustworthy? The problem(s) of induction, in their most general setting, reflect our difficulty in providing the required justifications.
+Philosophical folklore has it that David Hume identified a severe problem with induction, namely, that its justification is either circular or question-begging. As C. D. Broad put it, Hume found a “skeleton” in the cupboard of inductive logic. What is interesting is that (a) induction and its problems were thoroughly debated before Hume; (b) Hume rarely spoke of induction; and (c) before the twentieth century, almost no one took it that Hume had a “problem” with induction, a.k.a. inductive scepticism.
+This article tells the story of the problem(s) of induction, focusing on the conceptual connections and differences among the accounts offered by Hume and all the major philosophers that dealt with induction until Hans Reichenbach. Hence, after Hume, there is a discussion of what Kant thought Hume’s problem was. It moves on to the empiricist-vs-rationalist controversy over induction as it was instantiated by the views of J. S. Mill and W. Whewell in the nineteenth century.  It then casts light on important aspects of the probabilistic approaches to induction, which have their roots in Pierre Laplace’s work on probability and which dominated most of the twentieth century. Finally, there is an examination of important non-probabilistic treatments of the problem of induction, such as Peter Strawson’s view that the “problem” rests on a conceptual misunderstanding, Max Black’s self-supporting justification of induction, Karl Popper’s “anathema” of induction, and Nelson Goodman’s new riddle of induction.
+Table of Contents
+
+Reasoning
+
+Τwo Kinds of Reasoning
+
+Deductive Reasoning
+Inductive Reasoning
+
+
+The Skeleton in the Cupboard of Induction
+Two Problems?
+
+
+What was Hume’s Problem?
+
+“Rules by which to judge causes and effects”
+The Status of the Principle of Uniformity of Nature
+Taking a Closer Look at Causal Inference
+Causal Inference is Non-Demonstrative
+Against Natural Necessity
+
+Malebranche on Necessity
+Leibniz on Induction
+
+
+Can Powers Help?
+Where Does the Idea of Necessity Come From?
+
+
+Kant on Hume’s Problem
+
+Hume’s Problem for Kant
+Kant on Induction
+
+
+Empiricist vs Rationalist Conceptions of Induction (After Hume and Kant)
+
+Empiricist Approaches
+
+John Stuart Mill: “The Problem of Induction” 
+Mill on Enumerative Induction
+Mill’s Methods
+Alexander Bain: The “Sole Guarantee” of the Inference from a Fact Known to a Fact Unknown
+
+
+Rationalist Approaches
+
+William Whewell on “Collecting General Truths from Particular Observed Facts”
+
+A Short Digression: Francis Bacon
+Back to Whewell 
+
+
+Induction as Conception
+
+
+The Whewell-Mill Controversy
+
+On Kepler’s Laws
+On the Role of Mind in Inductive Inferences
+
+
+Early Appeals to Probability: From Laplace to Russell via Venn
+
+Venn: Induction vs Probability
+Laplace: A Probabilistic Rule of Induction
+Russell’s Principle of Induction
+
+
+
+
+Non-Probabilistic Approaches
+
+Induction and the Meaning of Rationality
+Can Induction Support Itself?
+
+Premise-Circularity vs Rule-Circularity
+Counter-Induction?
+
+
+Popper Against Induction
+Goodman and the New Riddle of Induction
+
+
+Reichenbach on Induction 
+
+Statistical Frequencies and the Rule of Induction
+The Pragmatic Justification
+Reichenbach’s Views Criticized
+
+
+Appendix
+References and Further Reading
+
+1. Reasoning
+a. Τwo Kinds of Reasoning
+Reasoning in general is the process by which one draws conclusions from a set of premises. Reasoning is guided by rules of inference, that is, rules which entitle the reasoner to draw the conclusion, given the premises. There are, broadly speaking, two kinds of rules of inference and hence two kinds of reasoning: Deductive or (demonstrative) and Inductive (or non-demonstrative).
+i. Deductive Reasoning
+Deductive inference is such that the rule used is logically valid. A logically valid argument is such that the premises are inconsistent with the negation of the conclusion. That is, a deductively valid argument is such that if the premises are true, the conclusion has to be true. Deductive arguments can be valid without being sound. A sound argument is a deductively valid argument with true premises. A valid argument is sound if its premises are actually true. For example, the valid argument {All human beings are mortal; Madonna is a human being; therefore, Madonna is mortal} is valid, but whether or not it is sound depends on whether or not its premises are true. If at least one of them fails to be true, the argument is unsound. So, soundness implies validity, whereas validity does not imply soundness. Logically valid rules of inference are, for instance, modus ponens and modus tollens, the hypothetical and the disjunctive syllogism and categorical syllogisms.
+The essential property of valid deductive argument is known as truth-transmission. This simply is meant to capture the fact that in a valid argument the truth of the premises is “transferred” to the conclusion: if the premises are true, the conclusion has to be true. Yet this feature comes at a price: deductive arguments are not content-increasing. The information contained in the conclusion is already present—albeit in an implicit form—in the premises. Thus, deductive reasoning is non-ampliative, or explicative, as the American philosopher Charles Peirce put it. The non-ampliative character of deductive reasoning has an important consequence regarding its function in language and thought: deductive reasoning unpacks the information content of the premises. In mathematics, for instance, the axioms of a theory contain all information that is unraveled by proofs into the theorems.
+ii. Inductive Reasoning
+Not all reasoning is deductive, however, for the simple reason that the truth of the premises of a deductive argument cannot, as a rule, be established deductively. As John Stuart Mill put it, the “Truth can only be successfully pursued by drawing inferences from experience,” and these are non-deductive. Following Mill, let us call Induction (with capital I) the mode of reasoning which moves from “particulars to generals,” or equivalently, the rule of inference in which “The conclusion is more general than the largest of the premises.” A typical example is enumerative Induction: if one has observed n As being B and no As being not-B, and if the evidence is enough and variable, then one should infer that “All As are B.”
+Inductive arguments are logically invalid: the truth of the premises is consistent with the falsity of the conclusion. Thus, the rules of inductive inference are not truth-preserving precisely because they are ampliative: the content of the conclusion of the argument exceeds (and hence amplifies) the content of its premises. A typical case of it is:
+All observed individuals who have the property A also have the property B;
+therefore, All individuals who have the property A also have the property B.
+It is perfectly consistent with the fact that All observed individuals who have the property A also have the property B, that there are some As which are not B (among the unobserved individuals).
+And yet, the logical invalidity of Induction is not, per se, reason for indictment. The conclusion of an ampliative argument is adopted on the basis that the premises offer some reason to accept it as true. The idea here is that the premises inductively support the conclusion, even if they do not prove it to be true. This is the outcome of the fact that Induction by enumeration is ampliative. It is exactly this feature of inductive inference that makes it useful for empirical sciences, where next-instance predictions or general laws are inferred on the basis of a finite number of observational or experimental facts.
+b. The Skeleton in the Cupboard of Induction
+Induction has a problem associated with it. In a nutshell, it is motivated by the following question: on what grounds is one justified to believe that the conclusion of an inductive inference is true, given the truth of its premises? The skeptical challenge to Induction is that any attempt to justify Induction, either by the lights of reason only or with reason aided by (past) experience, will be circular and question begging.
+In fact, the problem concerns ampliative reasoning in general. Since the conclusion Q of an ampliative argument can be false, even though all of its premises are true, the following question arises: what makes it the case that the ampliative reasoning conveys whatever epistemic warrant the premises might have to the intended conclusion Q, rather than to its negation not-Q? The defender of ampliative reasoning will typically reply that Induction relies on some substantive and contingent assumptions (for example, that the world has a natural-kind structure, that the world is governed by universal regularities, or that the course of nature will remain uniform, etc.); hence some argue that these assumptions back up Induction in all cases. But the sceptic will retort that these very assumptions can only be established as true by means of ampliative reasoning. Arguing in a circle, the sceptic notes, is inevitable and this simply means, she concludes, that the alleged defense carries no rational compulsion with it.
+It is typically, but not quite rightly, accepted that the Problem of Induction was noted for the first time by David Hume in his A Treatise of Human Nature (1739). (For an account of Induction and its problem(s) before Hume, see Psillos 2015.)  In section 2, this article discusses Hume’s version of the Problem of Induction (and his solution to this problem) in detail. For the time being, it is important to note that Hume’s Problem of Induction as it appears in standard textbooks, and in particular the thought that Induction needs a special justification, is formed distinctly as a philosophical problem only in the twentieth century. It has been expressed by C. D. Broad in an address delivered in 1926 at Cambridge on the occasion of Francis Bacon’s tercentenary. There, Broad raised the following question: “Did Bacon provide any logical justification for the principles and methods which he elicited and which scientists assume and use?” His reply is illuminating: “He did not, and he never saw that it was necessary to do so. There is a skeleton in the cupboard of Inductive Logic, which Bacon never suspected and Hume first exposed to view.” (1952: 142-3) This skeleton is the Problem of Induction. Another Cambridge philosopher, J. M. Keynes explains in his A Treatise of Probability why Hume’s criticism of Induction never became prominent in the eighteenth and the nineteenth century:
+Between Bacon and Mill came Hume (…) Hume showed, not that inductive methods were false, but that their validity had never been established and that all possible lines of proof seemed equally unpromising. The full force of Hume’s attack and the nature of the difficulties which it brought to light were never appreciated by Mill, and he makes no adequate attempt to deal with them. Hume’s statement of the case against induction has never been improved upon; and the successive attempts of philosophers, led by Kant, to discover a transcendental solution have prevented them from meeting the hostile arguments on their own ground and from finding a solution along lines which might, conceivably, have satisfied Hume himself. (1921: 312-313)
+c. Two Problems?
+Indeed, hardly ever does anyone mention Hume’s name in relation to the Problem of Induction before the Cambridge Apostles, with the exception of John Venn (see section 4.4). Bertrand Russell, in his famous book The Problems of Philosophy in 1912, devoted a whole chapter on Induction (interestingly, without making any reference to Hume). There, he took it that there should be a distinction between two different issues, and hence two different types of justification that one may provide to Induction, a distinction “without which we should soon become involved in hopeless confusions.” (1912: 34) The first issue is a fact about human and animal lives, namely, that expectations about the future course of events or about hitherto unobserved objects are formed on the basis on (and are caused by) past uniformities. In this case, “The frequent repetition of some uniform succession or coexistence has been a cause of our expecting the same succession or coexistence on the next occasion” (ibid.). Thus, the justification (better put, exculpation) would be of the following sort: since, as a matter of fact, the mind works in such and such a way, we expect the conclusion of induction to be true. The second issue is about the justification of the inferences that lie at the basis of the transition from the past regularities (or the hitherto observed pattern among objects) to a generalization (that is, to their extension to the future or to the hitherto unobserved). This second issue, Russell thought, revolves around the problem of whether there is “any reasonable ground for giving weight” to such expectations of uniformity after “the question of their validity has been raised.” (1912: 35) Hence, the Problem of Induction is a problem that arises upon reflection on a practice, namely, the practice to form expectations about the future on the basis of whatever has happened in the past; or, in other words, the practice of learning from experience.
+Later on, Karl Popper distinguished between the psychological problem of Induction, which can be formulated in terms of the following question: “How is it that nevertheless all reasonable people expect and believe that instances of which they have had no experience will conform to those of which they have had experience?” (Popper 1974: 1018) The logical problem of Induction which is expressed in the question: “Are we rationally justified in reasoning from repeated instances of which we have had experience to instances of which we have had no experience?” (ibid.)
+To show the difference between the two types of problems, Popper (1974: 1019) referred to an example from Russell (1948): consider a person who, out of mental habit, does not follow the rules of inductive inference. If the only justification of the rule is based on how the mind works, we cannot explain why that person’s way of thinking is irrational. The only thing we can tell is that the person does not follow the way that most people think. Can we do better than that? Can we solve the logical problem of induction? And, more importantly, is there a logical problem to solve?
+A fairly recent, but very typical, formulation of it from Gerhard Schurz clarifies the logical problem of Induction. The Problem of Induction is that:
+There is no epistemic justification [of induction], meaning a system of arguments showing that inductive methods are useful or the right means for the purpose of acquiring true and avoiding false beliefs. […] Hume did not only say that we cannot prove that induction is successful or reliable; he argued that induction is not capable of any rational justification whatsoever. (2019: 7)
+2. What was Hume’s Problem?
+a. “Rules by which to judge causes and effects”
+Suppose that you started to read Hume’s A Treatise of Human Nature from section XV, of part III of book I, titled Rules by which to judge causes and effects. You read:
+[…] There are no objects, which by the mere survey, without consulting experience, we can determine to be the causes of any other; and no objects, which we can certainly determine in the same manner not to be the causes. Any thing may produce any thing. Where objects are not contrary, nothing hinders them from having that constant conjunction, on which the relation of cause and effect totally depends. (1739: 173)
+Fair enough, you may think. Hume claims that only experience can teach us what causes what, and without any reference to (prior) experience anything can be said to cause anything else to happen—meaning, no causal connections can be found with the lights of reason only. Reason imposes no constraints on what constant conjunctions among non-contrary (mutually exclusive) objects or properties there are in nature. Then, you read on: “Since therefore ’tis possible for all objects to become causes or effects to each other, it may be proper to fix some general rules, by which we may know when they really are so.”
+Fair enough again, you may think. If only experience can teach us what constant conjunctions of objects there are in the world, then we had better have some ways to find out which among the possible constant conjunctions (possible if only Reason were in operation) are actual. And Hume does indeed go ahead to give 8 rules, the first six of which are:
+
+
+
+The cause and effect must be contiguous in space and time;
+The cause must be prior to the effect;
+There must be a constant union between the cause and effect;
+The same cause always produces the same effect, and the same effect never arises but from the same cause;
+When several different objects produce the same effect, it must be by means of some quality, which is common amongst them;
+If two resembling objects produce different effects, then the difference in the effects must proceed from something in which the causes differ.
+
+
+
+It is not the aim of this article to discuss these rules. Suffice it to say that they are hardly controversial. Rules 1 and 2 state that causes are spatio-temporally contiguous with and temporally prior to their effects. Rule 3 states that cause and effect form a regular succession. Rule 4, perhaps the most controversial, states a fundamental principle about causation (which encapsulates the principle of uniformity of nature) which Mill defended too. Rules 5 and 6 are early versions of the methods of agreement and difference, which became central features of Mill’s epistemology of causation. Hume readily acknowledges that the application of these rules is not easy, since most natural phenomena are complex and complicated. But all this is very natural and is nowhere related with any Problem of Induction, apart from the issue of how to distinguish between good and bad inductive inferences.
+There is something even more surprising in Hume’s Treatise. He notes:
+’Tis certain, that not only in philosophy, but even in common life, we may attain the knowledge of a particular cause merely by one experiment, provided it be made with judgement, and after a careful removal of all foreign and superfluous circumstances. Now as after one experiment of this kind, the mind, upon the appearance of the cause or the effect, can draw an inference concerning the existence of its correlative; and as a habit can never be acquir’d merely by one instance; it may be thought that belief cannot in this case be esteem’d the effect of custom. (1739: 104-5)
+Hume certainly allows that a single experiment may be enough for causal knowledge (which is always general), provided, as he says, the experiment is “made with judgement, and after a careful removal of all foreign and superfluous circumstances.” Now, strictly speaking, it makes no sense to say that in a single experiment “all foreign and superfluous circumstances” can be removed. A single experiment is a one-off act: it includes all the factors it actually does. To remove or change some factors (circumstances) is to change the experiment, or to perform a different, but related, one. So, what Hume has in mind when he says that we can draw causal conclusions from single experiments is that we have to perform a certain type of experiment a few times, each time removing or changing a certain factor, in order to see whether the effect is present (or absent) under the changed circumstances. In the end, it will be a single experiment that will reveal the cause. But this revelation will depend on having performed the type of experiment a few times, each under changed circumstances. Indeed, this thought is captured by Hume’s Rule 5 above. This rule urges the experimenter to remove the “foreign and superfluous circumstances” in a certain type of experiment by removing a factor each time it is performed until the common factor in all of them is revealed.
+But Hume’s main concern in the quotation above is to resist the claim that generalizing on the basis of a single experiment is a special non-inductive procedure. He goes on to explain that even though in a certain case we may have to rely on a single experiment to form a general belief, we in fact rely on a principle for which we have “millions” of experiments in support: “That like objects, plac’d in like circumstance, will always produce like effects.” (1739: 105) So, when general causal conclusions are drawn from single experiments, this activity is “comprehended under [this higher-order] principle,” which is clearly a version of the Principle of Uniformity of Nature. This higher-order principle “bestows an evidence and firmness on any opinion, to which it can be apply’d.” (1739: 105)
+Note that section XV, of part III of book I reveals hardly any sign of inductive skepticism from Hume. Instead, it offers methods for judging the circumstances under which Induction is legitimate.
+b. The Status of the Principle of Uniformity of Nature
+So, what is the issue of Hume’s skepticism about Induction? Note, for a start, what he adds to what he has already said. This higher-order principle (the principle of uniformity of nature) is “habitual”; that is, it is the product of habit or custom and not of Reason. The status of this principle is then the real issue that Hume is concerned with.
+Hume rarely uses the term “induction,” but when he does use it, it is quite clear that he has in mind something like generalization on the basis of observing cases or instances. But on one occasion, in his Enquiry Concerning the Principles of Morals, he says something more:
+There has been a controversy started of late, much better worth examination, concerning the general foundation of MORALS; whether they be derived from REASON, or from SENTIMENT; whether we attain the knowledge of them by a chain of argument and induction, or by an immediate feeling and finer internal sense. (1751: 170)
+It seems that Hume contrasts “induction” to argument (demonstration); hence he seems to take it to be an inferential process based on experience.
+With this in mind, let us discuss Hume’s “problem of induction.” In the Treatise, Hume aims to discover the locus of the idea of necessary connection, which is taken to be part of the idea of causation. One of the central questions he raises is this: “Why we conclude, that such particular causes must necessarily have such particular effects; and what is the nature of that inference we draw from the one to the other, and of the belief we repose in it?” (1739: 78)..
+When it comes to the inference from cause to effect, Hume’s approach is captivatingly simple. We have memory of past co-occurrences of types of events C and E, where Cs and Es have been directly perceived, or remembered to have been perceived. This co-occurrence is “a regular order of contiguity and succession” among tokens of C and tokens of E. (1739: 87) So, when in a fresh instance we perceive or remember a C, we “infer the existence” of an E. Although in all past instances of co-occurrence, both Cs and Es “have been perceiv’d by the senses and are remember’d,” in the fresh instance, E is not yet perceived, but its idea is nonetheless “supply’d in conformity to our past experience” (ibid.). He then adds: “Without any further ceremony, we call the one [C] cause and the other [E] effect, and infer the existence of the one from that of the other” (ibid.). What is important in this process of causal inference is that it reveals “a new relation betwixt cause and effect,” a relation that is different from contiguity, succession and necessary connection, namely, constant conjunction. It is this “CONSTANT CONJUNCTION” (1739: 87) that is involved in our “pronouncing” a sequence of events to be causal. Hume says that contiguity and succession “are not sufficient to make us pronounce any two objects to be cause and effect, unless we perceive, that these two relations are preserv’d in several instances” (ibid.). The “new relation” (constant conjunction) is a relation among sequences of events. Its content is captured by the claim: “Like objects have always been plac’d in like relations of contiguity and succession.” (1739: 88)
+Does that mean that Hume identifies the sought-after necessary connection with the constant conjunction? By no means! The observation of a constant conjunction generates no new impression in the objects perceived. Hume points out that the mere multiplication of sequences of tokens of C being followed by tokens of E adds no new impressions to those we have had from observing a single sequence. Observing, for instance, a single collision of two billiard balls, we have impressions of the two balls, of their collision, and of their flying apart. These are exactly the impressions we have no matter how many times we repeat the collision of the balls. The impressions we had from the single sequence did not include any impression that would correspond to the idea of necessary connection. But since the observation of the multiple instances generates no new impressions in the objects perceived, it cannot possibly add a new impression which might correspond to the idea of necessary connection. As Hume puts it:
+From the mere repetition of any past impression, even to infinity, there never will arise any new original idea, such as that of necessary connexion; and the number of impressions has in this case no more effect than if we confin’d ourselves to one only. (1739: 88)
+The reason why constant conjunction is important (even though it cannot directly account for the idea of necessary connection by means of an impression) is that it is the source of the inference we make from causes to effects. Looking more carefully at this inference might cast some new light on what exactly is involved when we call a sequence of events causal. As he put it: “Perhaps ‘twill appear in the end, that the necessary connexion depends on the inference, instead of the inference’s depending on the necessary connexion.” (1739: 88)
+c. Taking a Closer Look at Causal Inference
+The inference of which Hume wants to unravel the “nature” is this: “After the discovery of the constant conjunction of any objects, we always draw an inference from one object to another.” (1739: 88) This, it should be noted, is what might be called an inductive inference. To paraphrase what Hume says, its form is:
+(I)
+(CC): A has been constantly conjoined with B (that is, all As so far have been followed by Bs)
+(FI): a is A (a fresh instance of A)
+Therefore, a is B (the fresh instance of A will be followed by a fresh instance of B).
+Hume’s target is all those philosophers who think that this kind of inference is (or should be) demonstrative. In particular, his target is all those who think that the fresh instance of A must necessarily be followed by a fresh instance of B. Recall his question cited above: “Why we conclude, that such particular causes must necessarily have such particular effects.”
+What, he asks, determines us to draw inference (I)? If it were Reason that determined us, then this would have to be a demonstrative inference: the conclusion would have to follow necessarily from the premises. But then an extra premise would be necessary, namely, “Instances, of which we have had no experience, must resemble those, of which we have had experience, and that the course of nature continues always uniformly the same” (ibid.).
+Let us call this the Principle of Uniformity of Nature (PUN). If indeed this principle were added as an extra premise to (I), then the new inference:
+(PUN-I)
+(CC): A has been constantly conjoined with be (i.e., all As so far have been followed by Bs)
+(FI): a is A (a fresh instance of A)
+(PUN): The course of nature continues always uniformly the same.
+Therefore, a is B (the fresh instance of A will be followed by a fresh instance of B).
+would be demonstrative and the conclusion would necessarily follow from the premises. Arguably then, the logical necessity by means of which the conclusion follows from the premises would mirror the natural necessity by means of which causes bring about the effects (a thought already prevalent in Aristotle). But Hume’s point is that for (PUN-I) to be a sound argument, PUN need to be provably true. There are two options here.
+The first is that PUN is proved itself by a demonstrative argument. But this, Hume notes, is impossible since “We can at least conceive a change in the course of nature; which sufficiently proves that such a change is not absolutely impossible.” (1739: 89) Here what does the work is Hume’s separability principle, namely, that if we can conceive A without conceiving B, then A and B are distinct and separate entities and one cannot be inferred from the other. Hence, since one can conceive the idea of past constant conjunction without having to conceive the idea of the past constant conjunction being extended in the future, these two ideas are distinct from each other. So, PUN cannot be demonstrated a priori by pure Reason. It is not a conceptual truth, nor a principle of Reason.
+The other option is that PUN is proved by recourse to experience. But, Hume notes, any attempt to base the Principle of Uniformity of Nature on experience would be circular. From the observation of past uniformities in nature, it cannot be inferred that nature is uniform, unless it is assumed what was supposed to be proved, namely, that nature is uniform,  that there is “a resemblance betwixt those objects, of which we have had experience [i.e. past uniformities in nature] and those, of which we have had none [i.e. future uniformities in nature].” (1739: 90) In his first Enquiry, Hume is even more straightforward: “To endeavour, therefore the proof of this last supposition [that the future will be conformable to the past] by probable arguments, or arguments regarding existence, must evidently be going in a circle, and taking that for granted, which is the very point in question.” (1748: 35-6) As he explains in his Treatise, “The same principle cannot be both the cause and effect of another.” (1739: 89-90) PUN would be the “cause” (read: “premise”) for the “presumption of resemblance” between the past and the future, but it would also be the “effect” (read: “conclusion”) of the “presumption of resemblance” between the past and the future.
+d. Causal Inference is Non-Demonstrative
+What then is Hume’s claim? It is that (PUN-I) cannot be a demonstrative argument. Neither Reason alone, nor Reason “aided by experience” can justify PUN, which is necessary for (PUN-I) being demonstrative. Hence, causal inference—that is (I) above—is genuinely non-demonstrative.
+Hume summed up this point as follows:
+Thus not only our reason fails us in the discovery of the ultimate connexion of causes and effects, but even after experience has inform’d us of their constant conjunction, ‘tis impossible for us to satisfy ourselves by our reason, why we shou’d extend that experience beyond those particular instances, which have fallen under our observation. We suppose, but are never able to prove, that there must be a resemblance betwixt those objects, of which we have had experience, and those which lie beyond the reach of our discovery. (1739: 91-92)
+Note well Hume’s point: “We suppose but we are never able to prove” the uniformity of nature. Indeed, Hume goes on to add that there is causal inference in the form of (I), but it is not (cannot be) governed by Reason, but “by certain principles, which associate together the ideas of these objects, and unite them in the imagination” (1739: 92). These principles are general psychological principles of resemblance, contiguity and causation by means of which the mind works. Hume is adamant that the “supposition” of PUN “is deriv’d entirely from habit, by which we are determin’d to expect for the future the same train of objects, to which we have been accustom’d.” (1739: 134)
+Hume showed that (I) is genuinely non-demonstrative. In summing up his view, he says:
+According to the hypothesis above explain’d [his own theory] all kinds of reasoning from causes or effects are founded on two particulars, viz. the constant conjunction of any two objects in all past experience, and the resemblance of a present object to any one of them. (1739: 142)
+In effect, Hume says that (I) supposes (but does not explicitly use) a principle of resemblance (PUN).
+It is a nice question to wonder in what sense Hume’s approach is skeptical. For Hume does not deny that the mind is engaged in inductive inferences, he denies that these inferences are governed by Reason. To see the sense in which this is a skeptical position, let us think of someone who would reply to Hume by saying that there is more to Reason’s performances than demonstrative arguments. The thought could be that there is a sense in which Reason governs non-demonstrative inference according to which the premises of a non-demonstrative argument give us good reasons to rationally accept the conclusion. Argument (I) above is indeed genuinely non-demonstrative, but there is still a way to show that it offers reasons to accept the conclusion. Suppose, for instance, that one argued as follows:
+(R-I)
+(CC): A has been constantly conjoined with be (that is, all As so far have been followed by Bs)
+(FI): a is A (a fresh instance of A)
+(R): CC and FI are reasons to believe that a is B
+Therefore, (probably) a is B (the fresh instance of A will be followed by a fresh instance of B).
+Following Stroud (1977: 59-65), it can be argued that Hume’s reaction to this would be that principle (R) cannot be a good reason for the conclusion. Not because (R) is not a deductively sufficient reason, but because any defense of (R) would be question-begging in the sense noted above. To say, as (R) in effect does, that a past constant conjunction between As and Bs is reason enough to make the belief in their future constant conjunction reasonable is just to assume what needs to be defended by further reason and argument.
+Be that as it may, Hume’s so-called inductive skepticism is a corollary of his attempt to show that the idea of necessary connection cannot stem from the supposed necessity that governs causal inference. For, whichever way you look at it, talk of necessity in causal inference is unfounded.
+e. Against Natural Necessity
+In the Abstract, Hume considers a billiard-ball collision which is “as perfect an instance of the relation of cause and effect as any which we know, either by sensation or reflection” (1740: 649) and suggests we examine it. He concludes that experience dictates three features of cause-effect relation: contiguity in time and place; priority of the cause in time; constant conjunction of the cause and the effect; and nothing further. However, as we have already seen, Hume did admit that, over and above these three features, causation involves necessary connection of the cause and the effect.
+The view that causation implies necessary connections between distinct existences had been the dominant one ever since Aristotle put it forward. It was tied to the idea that things possess causal powers, where power is “a principle of change in something else or in itself qua something else.” Principles are causes, hence powers are causes. Powers are posited for explanatory reasons—they are meant to explain activity in nature: change and motion. Action requires agency. For X to act on Y, X must have the (active) power to bring a change to Y, and Y must have the (passive) power to be changed (in the appropriate way) by X. Powers have modal force: they ground facts about necessity and possibility. Powers necessitate their effects: when a (natural) power acts (at some time and in the required way), and if there is “contact” with the relative passive power, the effect necessarily (that is, inevitably) follows. Here is Aristotle’s example: “And that that which can be hot must be made hot, provided the heating agent is there, i.e. comes near.” (324b8) (1985: 530)
+i. Malebranche on Necessity
+Before Hume, Father Nicolás Malebranche had emphatically rejected as “pure chimera” the idea that things have natural powers in virtue of which they necessarily behave the way they do. When someone says that, for instance, the fire burns by its nature, they do not know what they mean. For him, the very notion of such a “force,” “power,” or “efficacy,” was completely inconceivable: “Whatever effort I make in order to understand it, I cannot find in me any idea representing to me what might be the force or the power they attribute to creatures.” (1674-5: 658) Moreover, he challenged the view that there are necessary connections between worldly existences (either finite minds or bodies) based on the claim that the human mind can only perceive the existence of a necessary connection between God’s Will and his willed actions. In a famous passage in his La Recherche de la Vérité, he noted:
+A true cause as I understand it is one such that the mind perceives a necessary connection between its and its effect. Now the mind perceives a necessary connection between the will of an infinite being and its effect. Therefore, it is only God who is the true cause and who truly has the power to move bodies. (1674-5: 450)
+Drawing a distinction between real causes and natural causes (or occasions), he claimed that natural causes are merely the occasions on which God causes something to happen, typically by general volitions which are the laws of nature. Malebranche and, following him, a bunch of radical thinkers argued that a coherent Cartesianism should adopt occasionalism, namely, the view that a) bodies lack motor force and b) God acts on nature via general laws. Since, according to Cartesianism, a body’s nature is exhausted by its extension, Malebranche argued, bodies cannot have the power to move anything, and hence to cause anything to happen. He added, however, that precisely because causality involves a necessary connection between the cause and the effect, and since no such necessary connection is perceived in cases of alleged worldly causality (where, for instance, it is said that a billiard ball causes another one to move), there is no worldly causality: all there is in the world is regular sequences of events, which, strictly speaking, are not causal. Hume, as is well known, was very much influenced by Malebranche, to such an extent that Hume’s own approach can be described as Occasionalism minus God.
+ii. Leibniz on Induction
+But by the time of Hume’s Treatise, causal powers and necessary connections had been resuscitated by Leibniz. He distinguished between two kinds of necessity. Some principles are necessary because opposing them implies a contradiction. This is what he called “logical, metaphysical or geometrical” necessity. In Theodicy he associated this kind of necessity with the “‘Eternal Verities’, which are altogether necessary, so that the opposite implies contradiction.” But both in Theodicy and the New Essays on Human Understanding (which were composed roughly the same time), he spoke of truths which are “only necessary by a physical necessity.” (1896: 588) These are not absolutely necessary in that they can be denied without contradiction. And yet they are necessary because, ultimately, they are based on the wisdom of God. In Theodicy Leibniz says that we learn these principles either a posteriori based on experience or “by reason and a priori, that is, by considerations of the fitness of things which have caused their choice.” (1710: 74) In the New Essays he states that these principles are known by Induction, and hence that physical necessity is “founded upon induction from that which is customary in nature, or upon natural laws which, so to speak, are of divine institution.” (1896: 588) Physical necessity constitutes the “order in Nature” and “lies in the rules of motion and in some other general laws which it pleased God to lay down for things when he gave them being.” (1710: 74) So, denying these principles entails that nature is disorderly (and hence unknowable).
+Leibniz does discuss Induction in various places in his corpus. In his letter to Queen Sophie Charlotte of Prussia, On what is Independent of Sense and Matter in 1702, he talks of “simple induction,” and claims that it can never assure us of the “perfect generality” of truth arrived at by it. He notes: “Geometers have always held that what is proved by induction or by example in geometry or in arithmetic is never perfectly proved.” (1989: 190) To be sure, in this particular context, he wants to make the point that mathematical truths are truths of reason, known either a priori or by means of demonstration. But his point about induction is perfectly general. The “senses and induction” as he says, “can never teach us truths that are fully universal, nor what is absolutely necessary, but only what is, and what is found in particular examples.” (1989: 191)  Since, however, Leibniz does not doubt that “We know universal and necessary truth in the sciences,” there must be a way of knowing them which is non-empirical. They are known by “an inborn light within us;” we have “derived these truths, in part, from what is within us” (ibid.).
+In his New Essays, he allows that “Propositions of fact can also become general,” by means of “induction or observation.” For instance, he says, we can find out by Induction that “All mercury is evaporated by the action of fire.” But Induction, he thought, can never deliver more than “a multitude of similar facts.” In the mercury case, the generality achieved is never perfect, the reason being that “We can’t see its necessity.”  For Leibniz, only Reason can come to know that a truth is necessary: “Whatever number of particular experiences we may have of a universal truth, we could not be assured of it forever by induction without knowing its necessity through the reason.” (1896: 81)
+For Leibniz, Induction, therefore, suffers from an endemic “imperfection.” But what exactly is the problem? Ιn an early unpublished piece, (Preface to an Edition of Nizolius 1670), Leibniz offers perhaps his most systematic treatment of the problem of the imperfection of Induction.
+The problem: Induction is essentially incomplete.
+(1) Perfectly universal propositions can never be established on this basis [through collecting individuals or by induction] because “You are never certain in induction that all individuals have been considered.” (1989a: 129)
+(2) Since, then, “No true universality is possible, it will always remain possible that countless other cases which you have not examined are different” (ibid.).
+Ηowever, the following objection may be put forward: from the fact that entity A with nature N has regularly caused B in the past, we infer (with moral certainty) that universally entity A with nature N causes B. As Leibniz put it:
+“Do we not say universally that fire, that is, a certain luminous, fluid, subtle body, usually flares up and burns when wood is kindled, even if no one has examined all such fires, because we have found it to be so in those cases we have examined?” (op.cit.)
+“We infer from them, and believe with moral certainty, that all fires of this kind burn and will burn you if you put your hand to them.” (op.cit.)
+Leibniz endorses this objection, and hence he does not aim to discredit Induction. Rather, he aims to ground it properly by asking what is the basis for true universality? What is the basis for blocking the possibility of exceptions?
+Leibniz’s reply is that the grounds for true universality are the (truly universal) principle that nature is uniform. But the (truly universal) principle that nature is uniform cannot depend on Induction because this would lead to a(n) (infinite) regress, and moral certainty would not be possible.
+Induction yields at best moral (and not perfect) certainty. But this moral certainty:
+Is not based on induction alone and cannot be wrested from it by main force but only by the addition or support of the following universal propositions, which do not depend on induction but on a universal idea or definition of terms:
+(1) if the cause is the same or similar in all cases, the effect will be the same or similar in all;
+(2) the existence of a thing which is not sensed is not assumed; and, finally,
+(3) whatever is not assumed, is to be disregarded in practice until it is proved.
+From these principles arises the practical or moral certainty of the proposition that all such fire burns…. (op.cit.)
+So here is how we would reason “inductively” according to Leibniz.
+(L)
+Fires have so far burned.
+Hence, (with moral certainty) “All fire burns.”
+This inference rests on “the addition or support” of the universal proposition (1): “If the cause is the same or similar in all cases, the effect will be the same or similar in all.” In making this inference, we do not assume anything about fires we have not yet seen or touched (hence, we do not beg the question concerning unseen fires); instead, we prove something about unseen fires, namely, that they too burn.
+Note Leibniz’s reference to the “addition or support” of proposition (1), which amounts to a Uniformity Principle. We may think of (L) as an elliptical demonstrative argument which requires the addition of (1), or we can think of it as a genuine inductive argument, “supported” by a Uniformity principle. In either case, the resulting generalization is naturally necessary, and hence truly universal, though the supporting uniformity principle is not metaphysically necessary. The resulting generalization (“All fire burns”) is known by “practical or moral certainty,” which rests on the three principles supplied by Reason.
+It is noteworthy that Leibniz is probably the first to note explicitly that any attempt to justify the required principles by means of Induction would lead to an infinite regress, since if these principles were to be arrived at by Induction, further principles would be required for their derivation, “and so on to infinity, and moral certainty would never be attained.” (1989a: 130) So, these principles are regress-stoppers, and for them to play this role they cannot be inductively justified.
+Let us be clear on Leibniz’s “problem of induction”: Induction is required for learning from experience, but experience cannot establish the universal necessity of a principle, which requires the uniform course of nature. If Induction is to be possible, it must be based on principles which are not founded on experience. It is Reason that supplies the missing rationale for Induction by providing the principles that are required for the “connection of the phenomena.” (1896: 422) Natural necessity is precisely this “connection of the phenomena” that Reason supplies and makes Induction possible.
+Though Induction (suitably aided by principles of reason) can and does lead to moral certainty about matters of fact, only demonstrative knowledge is knowledge proper. And this, Leibniz concludes, can only be based on reason and the Principle of Non-Contradiction. But this is precisely the problem. For if this is the standard of knowledge, then even the basic principles by means of which induction can yield moral certainty cannot be licensed by the Principle of Non-Contradiction. So, the space is open for an argument to the effect that they are not, properly speaking, principles of reason.
+f. Can Powers Help?
+It is no accident, then, that Hume takes pains to show that the Principle of Uniformity of Nature is not a principle of Reason. What is even more interesting is that Hume makes an extra effort to block an attempt to offer a certain metaphysical foundation to the Principle of Uniformity of Nature based on the claim that so-called physically necessary truths are made true by the causal powers of things. Here is how this metaphysical grounding would go: a certain object A has the power to produce an object B. If this were the case, then the necessity of causal claims would be a consequence of a power-based ontology, according to which “The power necessarily implies the effect.” (1739: 90) Hume even allowed that positing of powers might be based on experience in the following sense: after having seen A and B being constantly conjoined, we conclude that A has the power to produce B. Either way, the relevant inference would become thus:
+(P-I)
+(CC): A has been constantly conjoined with B (that is, all As so far have been followed by Bs)
+(P):  A has the power to produce B
+(FI): a is A (a fresh instance of A)
+Therefore, a is B (the fresh instance of A will be followed by a fresh instance of B).
+Here is how Hume put it: “The past production implies a power: The power implies a new production: And the new production is what we infer from the power and the past production.” (1739: 90) If this argument were to work, PUN would be grounded in the metaphysical structure of the world, and, more particularly, in powers and their productive relations with their effects. Hume’s strategy against this argument is that even if powers were allowed (a thing with which Hume disagrees), (P-I) would be impotent as a demonstrative argument since it would require proving that powers are future-oriented (namely, that a power which has been manifested in a certain manner in the past will continue to manifest itself in the same way in the future), and this is a claim that neither reason alone nor reason aided with experience can prove.
+g. Where Does the Idea of Necessity Come From?
+Hume then denies necessity in the workings of nature. He criticizes Induction insofar as it is taken to be related to PUN, that is, insofar as it was meant to yield (naturally) necessary truths, based on Reason and past experiences. Here is how he summed it up:
+That it is not reasoning which engages us to suppose the past resembling the future, and to expect similar effects from causes, which are, to appearance, similar. This is the proposition which I intended to enforce in the present section. (1748: 39)
+Instead of being products of Reason, “All inferences from experience, therefore, are effects of custom.” (1748: 43)
+For Hume, causality, as it is in the world, is regular succession of event-types: one thing invariably following another. His famous first definition of causality runs as follows:
+We may define a CAUSE to be “An object precedent and contiguous to another, and where all the objects resembling the former are plac’d in like relations of precedency and contiguity to those objects, that resemble the latter. (1739: 170)
+And yet, Hume agrees that not only do we have the idea of necessary connection, but also that it is part of the concept of causation. As noted already, it would be wrong to think that Hume identified the necessary connection with the constant conjunction. After all, the observation of a constant conjunction generates no new impression in the objects perceived. What it does do, however, is cause a certain feeling of determination in the mind. After a point, the mind does not treat the repeated and sequence-resembling phenomenon of tokens of C being followed by tokens of E as independent anymore—the more it perceives, the more determined it is to expect that they will occur again in the future. This determination of the mind is the source of the idea of necessity and power: “The necessity of the power lies in the determination of the mind…” Hence, the alleged natural necessity is something that exists only in the mind, not in nature! Instead of ascribing the idea of necessity to a feature of the natural world, Hume took it to arise from within the human mind when it is conditioned by the observation of a regularity in nature to form an expectation of the effect when the cause is present. Indeed, Hume offered a second definition of causality: “A CAUSE is an object precedent and contiguous to another, and so united with it, that the idea of the one determines the mind to form the idea of the other, and the impression of the one to form a more lively idea of the other.” (1739: 170) Hume thought that he had unpacked the “essence of necessity”: it “is something that exists in the mind, not in the objects.” (1739: 165) He claimed that the supposed objective necessity in nature is spread by the mind onto the world. Hume can be seen as offering an objective theory of causality in the world (since causation amounts to regular succession), which was however accompanied by a mind-dependent view of necessity.
+3. Kant on Hume’s Problem
+Kant, rather bravely, acknowledged in the Prolegomena that “The remembrance of David Hume was the very thing that many years ago first interrupted my dogmatic slumber and gave a completely different direction to my researches in the field of speculative philosophy.” (1783: 10) In fact, his magnum opus, the Critique of Pure Reason, was “the elaboration of the Humean problem in its greatest possible amplification.”
+a. Hume’s Problem for Kant
+But what was Hume’s problem for Kant? It was not inductive skepticism and the like. Rather, it was the origin and justification of necessary connections among distinct and separate existences. Hume, Kant noted, “indisputably proved” that Reason cannot be the foundation of the judgment that “Because something is, something else necessarily must be.” (B 288) But that is exactly what the concept of causation says. Hence, the very idea of causal connections, far from being introduced a priori, is the “bastard” of imagination and experience which, ultimately, disguises mere associations and habits as objective necessities.
+Kant took it upon himself to show that the idea of necessary connections is a synthetic a priori principle and hence that it has “an inner truth independent of all experience.” Synthetic a priori truths are not conceptual truths of reason; rather, they are substantive claims which are necessary and are presupposed for the very possibility of experience. Kant tried to demonstrate that the principle of causality, namely, “Everything that happens, that is, begins to be, presupposes something upon which it follows by rule” (A 189), is a precondition for the very possibility of objective experience.
+He took the principle of causality to be a requirement for the mind to make sense of the temporal irreversibility in certain sequences of impressions. So, whereas we can have the sequence of impressions that correspond to the sides of a house in any order we please, the sequence of impressions that correspond to a ship going downstream cannot be reversed: it exhibits a certain temporal order (or direction). This temporal order by which certain impressions appear can be taken to constitute an objective happening only if the later event is taken to be necessarily determined by the earlier one (that is, to follow by rule from its cause). For Kant, objective events are not “given”: they are constituted by the organizing activity of the mind and, in particular, by the imposition of the principle of causality on the phenomena. Consequently, the principle of causality is, for Kant, a synthetic a priori principle.
+b. Kant on Induction
+What about Induction then? Kant distinguished between two kinds of universality when it comes to judgements (propositions): strict and comparative. Comparative universal propositions are those that derive from experience and are made general by Induction. An inductively arrived at proposition is liable to exceptions; it comes with the proviso, as Kant put it: “As far as we have yet perceived, there is no exception to this or that rule.” (B 4) Strictly universal propositions are thought of without being liable to any exceptions. Hence, they are not derived from experience or by induction. Rather, as Kant put it, they are “valid absolutely a priori.” That is an objective distinction, Kant thought, which we discover rather than invent. Strictly universal propositions are essentially so. For Kant, strict universality and necessity go together, since experience can teach us how things are but not that they could not be otherwise. Hence, strictly universal propositions are necessary propositions, while comparatively universal propositions are contingent. Necessity and strict universality are then the marks of a priority, whereas comparative universality and contingency are the marks of empirical-inductive knowledge. Naturally, Kant is not a sceptic about inductive knowledge; yet he wants to demarcate it properly from a priori knowledge: “[Rules] cannot acquire anything more through induction than comparative universality, i.e., widespread usefulness.” (A92/B124) It follows that the concept of cause “must be grounded completely a priori in the understanding,” precisely because experience can only show a regular succession of events A and B, and never that event B must follow from A. As Kant put it: “To the synthesis of cause and effect there [the rule] attaches a dignity that can never be expressed empirically, namely, that the effect does not merely come along with the cause, but is posited through it and follows from it.” (A91/B124)
+Not only is there not a Problem of Induction in Kant, but he discussed Induction in his various lectures on Logic. In the so-called Blomberg Logic (dating back to the early 1770s) he noted of Induction that it is indispensable (“We cannot do without it”) and that it yields knowledge (were we to abolish it, “Along with it most of our cognitions would have to be abolished at the same time”), despite the fact that it is non-demonstrative. Induction is a kind of inference where “We infer from the particular to the universal.” (1992: 232) It is based on the following rule: “What belongs to as many things as I have ever cognized must also belong to all things that are of this species and genus.” Natural kinds have properties shared by all of their members; hence if a property P has been found to be shared by all examined members of kind K, then the property P belongs to all members of K.
+Now, a principle like this is fallible, as Kant knew very well. Not all properties of an individual are shared by all of its fellow kind members; only those that are constitutive of the kind. But what are they? It was partly to highlight this problem that Kant drew the distinction between “empirical universality” (what in the Critique he called “comparative universality”) and “rational” or “strict” universality, in which a property is attributed to all things of a kind without the possibility of exception. For instance, the judgment “All matter is extended” is rationally universal whereas the judgement “All matter has weights” is empirically universal. All and only empirically universal propositions are formed by Induction; hence they are uncertain. And yet, as already noted, Induction is indispensable, since “Without universal rules we cannot draw a universal inference.” (1992: 409) In other words, if our empirical knowledge is to be extended beyond the past and the seen, we must rely on Induction (and analogy). They are “inseparable from our cognitions, and yet errors for the most part arise from them.” Induction is a fallible “crutch” to human understanding.
+Later on, this “crutch” was elevated to the “reflective power of judgement.” In his third Critique (Critique of Judgement) Kant focused on the power of judgement, where judgement is a cognitive faculty, namely, that of subsuming the particular under the universal. The power of judgement is reflective, as opposed to determining, when the particular is known and the universal (the rule, the law, the principle) is sought. Hence, the reflective power of judgement denotes the inductive use of judgement, that is, looking for laws or general principles under which the particulars can be subsumed. These laws will never be known with certainty; they are empirical laws. But, as Kant admits, they can be tolerated in empirical natural science. Uncertainty in pure natural science, as well as in metaphysics, of course cannot be tolerated. Hence, knowledge proper must be grounded in the apodictic certainty of synthetic a priori principles, such as the causal maxim. Induction can only be a crutch for human reason and understanding, but, given that we (are bound to) learn from experience, it is an indispensable crutch.
+4. Empiricist vs Rationalist Conceptions of Induction (After Hume and Kant)
+a. Empiricist Approaches
+i. John Stuart Mill: “The Problem of Induction”
+It might be ironic that John Stuart Mill was the first who spoke of “the problem of Induction.” (1879: 228) But by this he meant the problem of distinguishing between good and bad inductions. In particular, he thought that there are cases in which a single instance might be enough for “a complete induction,” whereas in other cases, “Myriads of concurring instances, without a single exception known or presumed, go such a very little way towards establishing an universal proposition.” Solving this problem, Mill suggested, amounts to solving the Problem of Induction.
+Mill took Induction to be both a method of generating generalizations and a method of proving they are true. In his System of Logic, first published in 1848, he defined Induction as “The operation of discovering and proving general propositions” (1879: 208). As a nominalist, he thought that “generals”—what many of his predecessors had thought of as universals—are collections of particulars “definite in kind but indefinite in number.” So, Induction is the operation of discovering and proving relations among (members of) kinds—where kinds are taken to be characterized by relations of resemblance “in certain assignable respects” among its members. The basic form of Induction, then, is by enumeration: “This and that A are B, therefore every A is B.” The key point behind enumerative Induction is that it cannot be paraphrased as a conjunction of instances. It yields “really general propositions,” namely, a proposition such that the predicate is affirmed or denied of “an unlimited number of individuals.” Mill was ready to add that this unlimited number of individuals include actual and possible instances of a generalization, “existing or capable of existing.” This suggests that inductive generalizations have modal or counterfactual force: If All As are B, then if a were an A it would be a B.
+It is then important for Mill to show how Induction acquires this modal force. His answer is tied to his attempt to distinguish between good and bad inductions and connects good inductions with establishing (and latching onto) laws of nature. But there is a prior question to be dealt with, namely, what is the “warrant” for Induction? (1879: 223) Mill makes no reference to Hume when he raises this issue. But he does take it that the root of the problem of the warrant for Induction is the status of the Principle of Uniformity of Nature. This is a principle according to which “The universe, so far as known to us, is so constituted, that whatever is true in any one case, is true in all cases of a certain description; the only difficulty is, to find what description.” (1879: 223)
+This, he claims, is “a fundamental principle, or general axiom, of Induction” (1879: 224) and yet, it is itself an empirical principle (a generalization itself based on Induction): “This great generalization is itself founded on prior generalizations.” If this principle were established and true, it could appear as a major premise in all inductions; hence all inductions would turn into deductions. But how can it be established? For Mill there is no other route to it than experience: “I regard it as itself [the Principle of Uniformity of Nature] a generalization from experience.” (1879: 225) Mill claims that the Principle of Uniformity of Nature emerges as a second-order induction over successful first-order inductions, the successes of which support each other and the general principles.
+There may be different ways to unpack this claim, but it seems that the most congenial to Mill’s own overall strategy is to note that past successes of inductions offer compelling reasons to believe that there is uniformity in nature. In a lengthy footnote (1879: 407) in which he aimed to tackle the standard objection attributed to Reid and Stewart that experience gives us knowledge only of the past and the present but never of the future, he stressed: “Though we have had no experience of what is future, we have had abundant experience of what was future.” Differently put, there is accumulated future-oriented evidence for uniformity in nature. Induction is not a “leap in the dark.”
+In another lengthy footnote, this time in his An Examination of Sir William Hamilton’s Philosophy (1865: 537) he favored a kind of reflective equilibrium justification of PUN. After expressing his dismay of the constant reminder that “The uniformity of the course of nature cannot be itself an induction, since every inductive reasoning assumes it, and the premise must have been known before the conclusion,” he stressed that those who are moved by this argument have missed the point of the continuous “giving and taking, in respect of certainty” between PUN and “all the narrower truths of experience”—that is, of all first-order inductions. This “reciprocity” mutually enhances the certainty of the PUN and the certainty of first-order inductions. In other words, first-order inductions support PUN, but having been supported by them, PUN, in its turn, “raises the proof of them to a higher level.”
+ii. Mill on Enumerative Induction
+Recall that in formulating the Principle of Uniformity of Nature, Mill takes it to be a principle about the “constitution” of the universe, being such that it contains regularities: “Whatever is true in any one case, is true in all cases of a certain description.” But he meaningfully adds: “The only difficulty is, to find what description,” which should be taken to imply that the task of inductive logic is to find the regularities there are in the universe and that this task is not as obvious as it many sound, since finding the kinds (that is, the description of collections of individuals) that fall under certain regularities is far from trivial and may require extra methods. Indeed, though Mill thinks that enumerative induction is indispensable as a form of reasoning (since true universality in space and time can be had only through it, if one starts from experience, as Mill recommends), he also thinks that various observed patterns in nature may not be as uniform as a simple operation of enumerative induction would imply.
+To Europeans, not many years ago, the proposition, All swans are white, appeared an equally unequivocal instance of uniformity in the course of nature. Further experience has proved (…) that they were mistaken; but they had to wait fifty centuries for this experience. During that long time, mankind believed in a uniformity of the course of nature where no such uniformity really existed. (1879: 226)
+ The “true theory of induction” should aim to find the laws of nature. As Mill says:
+Every well-grounded inductive generalization is either a law of nature, or a result of laws of nature, capable, if those laws are known, of being predicted from them. And the problem of Inductive Logic may be summed up in two questions: how to ascertain the laws of nature; and how, after having ascertained them, to follow them into their results. (1879: 231)
+The first question—much more significant in itself—requires the introduction of new methods of Induction, namely, methods of elimination. Here is the rationale behind these methods:
+Before we can be at liberty to conclude that something is universally true because we have never known an instance to the contrary, we must have reason to believe that if there were in nature any instances to the contrary, we should have known of them. (1879: 227)
+Note the counterfactual claim behind Mill’s assertion: enumerative Induction on its own (though ultimately indispensable) cannot yield the modal force required for empirical generalizations that can be deemed laws of nature. What is required are methods which would show how, were there exceptions, they could be (or would have been) found. Given these methods, Induction acquires modal force: in a good induction—that is, in an induction such that if there were negative instances, they would have been found—the conclusion is not just “All As are B”; implicit in it is the further claim: if there were an extra A, it would be B.
+iii. Mill’s Methods
+These methods are Mill’s famous methods of agreement and difference, which Mill presents as methods of Induction (1879: 284).
+Suppose that we know of a factor C, and we want to find out its effect. We vary the factors we conjoin with C and examine what the effects are in each case. Suppose that, in a certain experiment, we conjoin C with A and B, and what follows is abe. Then, in a new experiment, we conjoin C, not with A and B, but with D and F, and what follows is dfe. Both experiments agree only on the factor C and on the effect e. Hence, the factor C is the cause of the effect e. AB is not the cause of e since the effect was present even when AB was absent. Nor is DF the cause of e since e was present when DF was absent. This is then the Method of Agreement. The cause is the common factor in a number of otherwise different cases in which the effect occurs. As Mill put it: “If two or more instances of the phenomenon under investigation have only one circumstance in common, the circumstance in which alone all the instances agree is the cause (or effect) of the given phenomenon.” (1879: 280) The Method of Difference proceeds in an analogous fashion. Suppose that we run an experiment, and we find that an antecedent ABC has the effect abe. Suppose also that we run the experiment once more, this time with AB only as the antecedent factors. So, factor C is absent. If, this time, we only find the part ab of the effect, that is, if e is absent, we conclude that C was the cause of e. In the Method of Difference, then, the cause is the factor that is different in two cases, which are similar except that in the one the effect occurs, while in the other it does not. In Mill’s words:
+If an instance in which the phenomenon under investigation occurs, and an instance in which it does not occur, have every circumstance in common save one, that one occurring only in the former; the circumstance in which alone the two instances differ is the effect, or the cause, or an indispensable part of the cause, of the phenomenon. (1879: 280)
+It is not difficult to see that what Mill has described are cases of controlled experiments. In such cases, we find causes (or effects) by creating circumstances in which the presence (or the absence) of a factor makes the only difference to the production (or the absence) of an effect. The effect is present (or absent) if and only if a certain causal factor is present (or absent). Mill is adamant that his methods work only if certain metaphysical assumptions are already in place. First, it must be the case that events have causes. Second, it must be the case that events have a limited number of possible causes. In order for the eliminative methods he suggested to work, it must be the case that the number of causal hypotheses considered is relatively small. Third, it must be the case that same causes have same effects, and conversely. Fourth, it must be the case that the presence or absence of causes makes a difference to the presence or absence of their effects. Indeed, Mill (1879: 279) made explicit reference to two “axioms” on which his two Methods depend. The axiom for the Method of Agreement is this:
+Whatever circumstances can be excluded, without prejudice to the phenomenon, or can be absent without its presence, is not connected with it in the way of causation. The casual circumstance being thus eliminated, if only one remains, that one is the cause we are in search of: if more than one, they either are, or contain among them, the cause…. (ibid.)
+The axiom for the Method of Difference is:
+Whatever antecedent cannot be excluded without preventing the phenomenon, is the cause or a condition of that phenomenon: Whatever consequent can be excluded, with no other difference in the antecedent than the absence of the particular one, is the effect of that one. (1879: 280)
+What is important to stress is that although only a pair of (or even just a single) carefully controlled experiment(s) might get us at the causes of certain effects, what, for Mill, makes this inference possible is that causal connections and laws of nature are embodied in regularities—and these, ultimately, rely on enumerative induction.
+iv. Alexander Bain: The “Sole Guarantee” of the Inference from a Fact Known to a Fact Unknown
+The Millian Alexander Bain (1818-1903), Professor of Logic in the University of Aberdeen, in his Logic: Deductive and Inductive (1887), undertook the task of explaining the role of the Principle of Uniformity of Nature in Inductive Logic. He took this principle to be the “sole guarantee” of the inference from a fact known to a fact unknown. He claimed that when it comes to uniformities of succession, the Law of Cause and Effect, or Causation, is a version of the PUN: “Every event is uniformly preceded by some other event. To every event there is some antecedent, which happening, it will happen.” (1887: 20) He actually took it that this particular formulation of PUN has an advantage over more controversial modal formulations of the Principle, such as “every effect must have a cause.” The advantage is precisely that this is a non-modal formulation of the Principle in that it states a meta-regularity.
+Bain’s treatment of Induction is interesting, because he takes it that induction proper should be incomplete—that is, it should not enumerate all relevant instances or facts, because then it would yield a summation and not a proper generalization. For Bain, Induction essentially involves the move from some instances to a generalization because only this move constitutes an “advance beyond” the particulars that probed the Induction. In fact, the scope of an inductive generalization is sweeping. It involves:
+The extension of the concurrence from the observed to the unobserved cases—to the future which has not yet come within observation, to the past before observation began, to the remote where there has been no access to observe. (1887: 232)
+And precisely because of this sweeping scope, Induction involves a “leap” which is necessary to complete the process. This leap is “the hazard of Induction,” which is, however, inevitable as “an instrument for multiplying and extending knowledge.” So, Induction has to be completed in the end, in that the generalization it delivers expresses “what is conjoined everywhere, and at all times, superseding for ever the labour of fresh observation.” But it is not completed through enumeration of particulars; rather, the completion is achieved by PUN.
+Bain then discusses briefly “a more ambitious form of the Inductive Syllogism” offered by Henry Aldrich and Richard Whately in the Elements of Logic (1860). According to this, a proper Induction has the following form:
+The magnets that I have observed, together with those that I have not observed, attract iron.
+These magnets are all magnets.
+All magnets attract iron.
+Bain says that this kind of inference begs the question, since it assumes what needs to be proved, namely, that the unobserved magnets attract iron. As he says: “No formal logician is entitled to lay down a premise of this nature.” (1887: 234)
+Does, however, the very same problem not arise for Bain’s PUN? Before we attempt to answer this, let us address a prior question: how many instances are required for a legitimate generalization? Here Bain states what he calls the principle of Universal Agreement, which he takes to be the sole evidence for inductive truth. According to this principle, “We must go through the labour of a full examination of instances, until we feel assured that our search is complete, that if contrary cases existed, they must have been met with.” (1887: 276) Note that the application of this principle does not require exhaustive enumeration—rather, it requires careful search for negative instances. Once this search has been conducted thoroughly, Bain claims that the generalization can be accepted as true (until exceptions are discovered) based on the further claim that “What has never been contradicted (after sufficient search) is to be received as true.” (1887: 237) This kind of justification is not obvious. But it does point to the view that beliefs are epistemically innocent until proven guilty. It is a reflexive principle in that it urges for the active search of counter-instances.
+Bain accepts the Millian idea that PUN is “the ultimate major premise of every inductive inference.” (1887: 238) The thought here is that an argument of the following form would be a valid syllogism:
+All As observed so far have been B
+What has been in the past will continue
+Therefore, the unobserved As are B.
+What then is the status of PUN itself? Bain takes it to be a Universal Postulate. Following Spencer, he does not take it that a Universal Postulate has to be a logical or conceptual truth. That is, a Universal Postulate does not have to be such that it cannot be denied without contradiction. Rather, he takes it that a Universal Postulate is an ultimate principle on a which all reasoning of a sort should be based. As such, it is a Principle such that some might say it begs the question, while others might say that it has to be granted for reasoning to be possible. But this dual stance is exactly what is expected when it comes to ultimate principles. And that is why he thinks that, unlike Aldrich and Whately’s case above, his own reliance on PUN is not necessarily question begging.
+Besides, unlike Aldrich and Whately, Bain never asserts indiscriminately that whatever holds of the observed As also holds of the unobserved As. (Recall Aldrich and Whately’s premise above: The magnets that I have observed, together with those that I have not observed, attract iron. Bain, taking a more cautious stance towards PUN, talks about uniformities as opposed to Uniformity. We have evidence for uniformities in nature, and these are the laws of nature, according to Bain. More importantly, however, we have evidence for exceptions in natural uniformities. This “destructive evidence,” Bain says, entitles us to accept the uniformities for which there has not been found destructive evidence, despite our best efforts to find it. As he put it:
+We go forward in blind faith, until we receive a check; our confidence grows with experience; yet experience has only a negative force, it shows us what has never been contradicted; and on that we run the risk of going forward in the same course. (1887: 672)
+So PUN—in the form “What has never been contradicted in any known instance (there being ample means and opportunities of search) will always be true”—is an Ultimate Postulate, which, however, is not arbitrary in that there is ample evidence for and lack of destructive evidence against uniformities in nature.
+In fact, Bain takes PUN to be an Ultimate Postulate, alongside the Principle of Non-Contradiction. Here is how he puts it:
+The fact, generally expressed as Nature’s Uniformity, is the guarantee, the ultimate major premise, of all Induction. ‘What has been, will be’, justifies the inference that water will assuage thirst in after times. We can give no reason, or evidence, for this uniformity; and, therefore, the course seems to be to adopt this as the finishing postulate. And, undoubtedly, there is no other issue possible. We have a choice of modes of expressing the assumption, but whatever be the expression, the substance is what is conveyed by the fact of Uniformity. (1887: 671)
+Does that mean that Bain takes it that PUN is justified as a premise to all inductive inference? Strikingly, he takes the issue to be practical as opposed to theoretical. He admits that it can be seen as question begging from the outset but claims that it is a folly to try to avoid this charge by proposing reasons for its justification. For,
+If there be a reason, it is not theoretical, but practical. Without the assumption, we could not take the smallest steps in practical matters; we could not pursue any object or end in life. Unless the future is to reproduce the past, it is an enigma, a labyrinth. Our natural prompting is to assume such identity, to believe it first, and prove it afterwards. (1887: 672)
+Bain then presages the trend to offer practical or pragmatic “justifications” of Induction.
+b. Rationalist Approaches
+i. William Whewell on “Collecting General Truths from Particular Observed Facts”
+William Whewell (1794-1866) was perhaps the most systematic writer on Induction after Francis Bacon.
+1. A Short Digression: Francis Bacon
+ In his Novum Organum in 1620 Bacon spoke of “inductio legitima et vera” in order to characterize his own method. The problem, Bacon thought, lied with the way Induction was supposed to proceed, namely, via simple enumeration without taking “account of the exceptions and distinctions that nature is entitled to.” Having the Aristotelians in mind, he called enumerative Induction “a childish thing” in that it “jumps to conclusions, is exposed to the danger of instant contradiction, observes only familiar things and reaches no result.” (2000: 17).. His new form of Induction differed from Aristotle’s (and Bacon’s predecessors in general) in the following: it is a general method for arriving at all kinds of general truths (not just the first principles, but also at the “lesser middle axioms” as he put it); it surveys not only affirmative or positive instances, but also negative ones. It therefore “separate(s) out a nature through appropriate rejections and exclusions.” (2000: 84)
+As is well-known, Bacon’s key innovation was that he divided his true and legitimate Induction into three stages, only the third of which was Induction. Stage I is experimental and natural history: a complete inventory of all instances of natural things and their effects. Here, observation and experiment rule. Then at Stage II, tables of presences, absences and degrees of comparison are constructed. Finally, Stage III is Induction. Whatever is present when the nature under investigation is present or absent when this nature is absent or decreases when this nature decreases and conversely, is the form of this nature.
+What is really noteworthy is that in denying that all instances have to be surveyed, Bacon reconceptualised how particulars give rise to the universal. By taking a richer view about experience, he did not have to give to the mind a special role in bridging the gap between the particulars and the general.
+2. Back to Whewell
+Whewell was a central figure of Victorian science. He was among the founders of the British Association for the Advancement of Science, a fellow of the Royal Society, president of the Geological Society, and Master of Trinity College, Cambridge. He was elected Professor of Mineralogy in 1828, and of Moral theology in 1837. Whewell coined the word “scientist” in 1833.
+In The Philosophy of the Inductive Sciences, Founded Upon Their History (1840), he took Induction to be the “common process of collecting general truths from particular observed facts,” (1840 v.1: 2) which is such that, as long as it is “duly and legitimately performed,” it yields real substantial truth. Inductive truths are not demonstrative truths. They are “proved, like the guess which answers a riddle, by [their] agreeing with the facts described;” (1840 v.1: 23) they capture relations among existing things and not relations among ideas. They are contingent and not necessary truths. (1840 v.1: 57)
+Whewell insisted that experience can never deliver (and justify) necessary truths. Knowledge derived from experience “can only be true as far as experience goes, and can never contain in itself any evidence whatever of its necessity.” (1840 v.1: 166) What is the status of a principle such that “Every event must have a cause”? Of this principle, Whewell argues that it is “rigorously necessary and universal.” Hence, it cannot be based on experience. This kind of principle, which Whewell re-describes as a principle of invariable succession of the form “Every event must have a certain other event invariably preceding it,” is required for inductive extrapolation. Given that we have seen a case of a stone ascending after it was thrown upwards, we have no hesitation to conclude that another stone that will be thrown upwards will ascend. Whewell argues that for this kind of judgement to be possible, the mind should take it that there is a connection between the invariably related events and not a mere succession. And then he concludes that “The cause is more than the prelude, the effect is more than the sequel, of the fact. The cause is conceived not as a mere occasion; it is a power, an efficacy, which has a real operation.” (1840 v.1: 169)
+This is a striking observation because it introduces a notion of natural necessity between the cause, qua power, and the effect. But this only accentuates the problem of the status of the principle “Every event must have a cause.” For the latter is supposed to be universal and necessary—logically necessary, that is. The logical necessity which underwrites this principle is supposed to give rise to the natural necessity by means of which the effect follows from the cause. In the end, logical and natural necessity become one. And if necessary truths such as the above cannot be known from experience, how are they known?
+In briefly recounting the history of this problem, Whewell noted that it was conceived as the co-existence of two “irreconcilable doctrines”: the one was “the indispensable necessity of a cause of every event,” and the other was “the impossibility of our knowing such a necessity.” (1840 v.1: 172) He paid special attention to the thought of Scottish epistemologists, such as Thomas Brown and Dugald Stewart, that a principle of the form “Every event must have a cause” is an “instinctive law of belief, or a fundamental principle of the human mind.” He was critical of this approach precisely because it failed to explain the necessity of this principle. He contrasted this approach to Kant’s, according to which a principle such as the above is a condition for the possibility of experience, being a prerequisite for our understanding of events as objective events. Whewell’s Kantian sympathies were no secret. As he put it: “The Scotch metaphysicians only assert the universality of the relation; the German attempts further to explain its necessity.” (1840 v.1: 174) But in the end, he chose an even stronger line of response. He took it that the Causal Maxim is such that “We cannot even imagine the contrary”—hence it is a truth of reason, which is grounded in the Principle of Non-Contradiction.
+Whewell offered no further explanation of this commitment. In the next paragraph, he assumes a softer line by noting that there are necessary truths concerning causes and that “We find such truths universally established and assented to among the cultivators of science, and among speculative men in general.” (1840 v.1: 180) This is a far cry from the claim that their negation is inconceivable. In fact, Mill was quick to point out that this kind of point amounts to claiming that some habitual associations, after having been entrenched, are given the “appearance of necessary ones.” And that is not something that Mill would object to, provided it was not taken to imply that these principles are not absolutely necessary. It is fair to say that, though Whewell was struggling with this point, he wanted to argue that some principles are constitutive of scientific inquiry and that the evidence for it is their universal acceptance. But Mill’s persistent (and correct) point was that if the inconceivability criterion is taken as a strict logical criterion, then the negation of the principles Whewell appeals to is not inconceivable; hence they cannot be absolutely necessary, and that is the end of it.
+It was the search for the ground of universal and necessary principles that led Whewell to accept that there are Fundamental Ideas (like the one of cause noted above) which yield universality and necessity. Whewell never doubted that universal and necessary principles are known and that they cannot be known from experience. But Induction proceeds on the basis of experience. Hence, it cannot, on its own, yield universal and necessary truths. The thought, however, is that Induction does play a significant role in generating truths which can then be the premises of demonstrative arguments. According to Whewell, each science grows through three stages. It begins with a “prelude” in which a mass of unconnected facts is collected. It then enters an “inductive epoch” in which useful theories put order to these facts through the creative role of the scientists—an act of “colligation.” Finally, a “sequel” follows where the successful theory is extended, refined, and applied.
+ii. Induction as Conception
+The key element of Induction, for Whewell, is that it is not a mere generalization of singular facts. The general proposition is not the result of “a mere juxtaposition of the cases” or of a mere conjunction and extension of them. (1840 v.2: 47) The proper Induction introduces a new element—what Whewell calls “conception”— which is actively introduced by the mind and was not there in the observed facts. This conceptual novelty is supposed to exhibit the common property—the universal—under which all the singular facts fall. It is supposed to provide a “Principle of Connexion” of the facts that probed it but did not dictate it. Whewell’s typical example of a Conception is Kepler’s notion of an ellipse. Observing the motion of Mars and trying to understand it, Kepler did not merely juxtapose the known positions. He introduced the notion of an ellipse, namely, that the motion of Mars is an ellipse. This move, Whewell suggested, was inductive but not enumerative. So, the mind plays an active role in Induction—it does not merely observe and generalize, it introduces conceptual novelties which act as principles of connection. In this sense, the mind does not have to survey all instances. Insofar as it invents the conception that connects them, it is entitled to the generalization. Whewell says:
+In each inference made by Induction, there is introduced some General Conception, which is given, not by the phenomena, but by the mind. The conclusion is not contained in the premises, but includes them by the introduction of a New Generality. In order to obtain our inference, we travel beyond the cases which we have before us; we consider them as mere exemplifications of some Ideal Case in which the relations are complete and intelligible. We take a Standard, and measure the facts by it; and this Standard is constructed by us, not offered by Nature. (1840 v.2: 49)
+Induction is then genuinely ampliative—not only does it go beyond the observed instances, but it introduces new conceptual content as well, which is not directly suggested by the observed instances. Whewell calls this type of ampliation “superimposition,” because “There is some Conception superinduced upon the Facts” and takes it that this is the proper understanding of Induction. So, proper Induction requires, as he put it, “an idea from within, facts from without, and a coincidence of the two.” (1840 v.2: 619)
+c. The Whewell-Mill Controversy
+Whewell takes it that this dual aspect is his own important contribution to the Logic of Induction. His account of Induction landed him in a controversy with Mill. Whewell summarized his views and criticized Mill in a little book titled Of Induction, with a Special Reference to John Stuart Mill’s System of Logic, which appeared in 1849. In this, he first stressed the basic elements of his own views. More specifically: Reason plays an ineliminable role in Induction, since Induction requires the Mind’s conscious understanding of the general form under which the individual instances are subsumed. Hence, Whewell insists, Induction cannot be based on instinct, since the latter operates “blindly and unconsciously in particular cases.” The role of Mind is indispensable, he thought, in inventing the right “conception.” Once this is hit upon by the mind, the facts “are seen in a new point of view.” This point of view puts the facts (the inductive basis) in a certain unity and order. Before the conception, “The facts are seen as detached, separate, lawless; afterwards, they are seen as connected, simple, regular; as parts of one general fact, and thereby possessing innumerable new relations before unseen.” (1849: 29) The point here is that the conception is supposed to bridge the gap between the various instances and the generalization; it provides the universal under which all particular instances, seen and unseen, are subsumed.
+Mill objected to this view that what Whewell took to be a proper Induction was a mere description of the facts. The debate was focused on Kepler’s first law, namely, that all planets move in ellipses—or, for that matter, that Mars describes an ellipse. We have already seen Whewell arguing that the notion of “ellipse” is not to be found in the facts of Mars’s motion around the sun. Rather, it is a new point of view, a new conception introduced by the mind, and it is such that it provided a “principle of connexion” among the individual facts—that is, the various positions of Mars in the firmament. This “ellipsis,” Whewell said, is superinduced on the fact, and this superinduction is an essential element of Induction.
+i. On Kepler’s Laws
+For Mill, when Kepler introduced the concept of “ellipse” he described the motion of Mars (and of the rest of the planets). Whewell had used the term “colligation” to capture the idea that the various facts are connected under a new conception. For Mill, colligation is just description and not Induction. More specifically, Kepler collected various observations about the positions occupied by Mars, and then he inquired about what sort of curve these points would make. He did end up with an ellipse. But for Mill, this was a description of the trajectory of the planet. There is no doubt that this operation was not easy, but it was not an induction. It is no more an induction than drawing the shape of an island on a map based on observations of successive points of the coast.
+What, then, is Induction? As we have already seen, Mill took Induction to involve a transition from the particular to the general. As such, it involves a generalization to the unobserved and a claim that whatever holds for the observed holds for the unobserved too. Then, the inductive move in Kepler’s first law is not the idea of an ellipse, but rather the commitment to the view that when Mars is not observed its positions lie on the ellipse; that is, the inductive claim is that Mars has described and will keep describing an ellipse. Here is how Mill put it:
+The only real induction concerned in the case, consisted in inferring that because the observed places of Mars were correctly represented by points in an imaginary ellipse, therefore Mars would continue to revolve in that same ellipse; and in concluding (before the gap had been filled up by further observations) that the positions of the planet during the time which intervened between two observations, must have coincided with the intermediate points of the curve.
+In fact, Kepler did not even make the induction, according to Mill, because it was known that the planets periodically return to their positions. Hence, “Knowing already that the planets continued to move in the same paths; when [Kepler] found that an ellipse correctly represented the past path, he knew that it would represent the future path.”
+Part of the problem with Whewell’s approach, Mill thought, was that it was verging on idealism. He took Whewell to imply that the mind imposes the conception on the facts. For Mill, the mind simply discovers it (and hence, it describes it). Famously, Mill said that if “the planet left behind it in space a visible track,” it could be seen that it is an ellipse. So, for Mill, Whewell was introducing hypotheses by means of his idea of conception and was not describing Induction. Colligation is the method of hypothesis, he thought, and not of Induction.
+Whewell replied that Kepler’s laws are based on Induction in the sense that “The separate facts of any planet (Mars, for instance) being in certain places at certain times, are all included in the general proposition which Kepler discovered, that Mars describes an ellipse of a certain form and position.” (1840: 18)
+What can we make of this exchange? Mill and Whewell do agree on some basic facts about Induction. They both agree that Induction is a process that moves from particulars to the universal, from observed instances to a generalization. Mill says, “Induction may be defined the operation of discovering and forming general propositions,” and Whewell agrees with this and emphasizes that generality is essential for Induction, since only this can make Induction create excess content.
+Generality is conceived of as true universality. As Mill makes clear (and he credits this thought to all those who have discussed induction in the past), Induction:
+
+involves “inferences from known cases to unknown”;
+affirms “of a class, a predicate which has been found true of some cases belonging to the class”;
+concludes that “Because some things have a certain property, that other things which resemble them have the same property”;
+concludes that “Because a thing has manifested a property at a certain time, that it has and will have that property at other times.”
+
+So, inductive generalizations are spatio-temporal universalities. They extend a property possessed by some observed members of a kind to all other (unobserved or unobservable) members of the kind (in different times and different spaces); they extend a property being currently possessed by an individual to its being possessed at all times. There is no doubt that Whewell shares this view too. So where is the difference?
+ii. On the Role of Mind in Inductive Inferences
+The difference is in the role of the principles of connection in Induction and, concomitantly, on the role of mind in inductive inferences—and this difference is reflected in how exactly Induction is described. Whewell takes it that the only way in which the inductively arrived proposition is truly universal is when the Intellect provides the principle of connection (that is, the conception) of the observed instances. In other words, the principles of connection are necessary for Induction, and, since they cannot be found in experience, the Mind has to provide them. If a principle of connection is provided, and if it is the correct one, then the resulting proposition captures within itself, as it were, its true universality (aka its future extendibility). In the case of Mars, the principle of connection is that Mars describes an ellipse—that is, that an ellipse binds together “particular observations of separate places of Mars.” If Mars does describe an ellipse, or if all planets do describe ellipses, then there is no (need for) further assurance that this claim is truly universal. Its universality follows from its capturing a principle of connection between the various instances (past, present and future).
+In this sense, Whewell sees Induction as a one-stage process. The observation of particulars leads the mind to search for a principle of connection (the “conception” that binds them together into a general claim about all particulars of this kind). This is where Induction ends. But Inquiry does not end there for Whewell—for further testing is necessary for finding out whether the introduced principle of connection is the correct one. Recall his point: Induction requires “an idea from within, facts from without, and a coincidence of the two.” The coincidence of the two is precisely a matter of further testing. The well-known consilience of inductions is precisely how the further testing works and secures, if successfully performed, that the principle of connection was the correct one. Consilience, Whewell argued, “is another kind of evidence of theories, very closely approaching to the verification of untried predictions.” (1849: 61) It occurs when “Inductions from classes of facts altogether different have thus jumped together,” (1840 v.2: 65) that is, when a theory is supported by facts that it was not intended to explain. His example is the theory of universal gravitation, which, though obtained by Induction from the motions of the planets, “was found to explain also that peculiar motion of the spheroidal earth which produces the Precession of the Equinoxes.” Whewell thought that the consilience of inductions is a criterion of truth, a “stamp of truth,” or, as he put it, “the point where truth resides.”
+Mill objected that no predictions could prove the truth of a theory. But the important point here is that Whewell took it that the principles of connection that the Mind supplies in Induction require further proof to be accepted as true.
+For Mill, there are no such principles of connection—just universal and invariant successions—and the mind has no power, not inclination, to find them. Actually, there are no such connections. So, Induction is, in essence, described as a two-stage process. In the first stage, there is description of a regularity; in the second stage, there is a proper universalization, so to speak, of this regularity. The genuinely inductive “Mars’ trajectory is an  an ellipse asserts a regularity. But this regularity is truly universal only if it asserts that it holds for all past, present, and future trajectories of Mars. In criticizing Whewell, Mill agreed that the assertion “The successive places of Mars are points in an ellipse” is “not the sum of the observations merely,” since the idea of an ellipse is involved in it. Still, he thought, “It was not the sum of more than the observations, as a real induction is.” That is, it rested only on the actual observations and did not extend it to the unobserved positions of Mars. “It took in no cases but those which had been actually observed…There was not that transition from known cases to unknown, which constitutes Induction in the original and acknowledged meaning of the term.” (1879: 221) Differently put, the description of the regularity, according to Mill, should be something like: Mars has described an ellipse. The Inductive move should be “Mars describes an ellipse.”
+What was at stake, in the end, were two rival metaphysical conceptions of the world. Not only did Whewell take it that “Metaphysics is a necessary part of the inductive movement, (1858, vii)  but he also thought the inductive movement is grounded on the existence of principles of connection in nature, which the mind (and human reason) succeeds in discovering. Mill, on the other hand, warned us against “the notion of causation:” The notion of causation is deemed, by the schools of metaphysics most in vogue at the present moment,
+to imply a mysterious and most powerful tie, such as cannot, or at least does not, exist between any physical fact and that other physical fact on which it is invariably consequent, and which is popularly termed its cause: and thence is deduced the supposed necessity of ascending higher, into the essences and inherent constitution of things, to find the true cause, the cause which is not only followed by, but actually produces, the effect.
+Mill was adamant that “No such necessity exists for the purposes of the present inquiry…. The only notion of a cause, which the theory of induction requires, is such a notion as can be gained from experience.” (1879: 377)
+d. Early Appeals to Probability: From Laplace to Russell via Venn
+i. Venn: Induction vs Probability
+Induction, for John Venn (1834–1923), “involves a passage from what has been observed to what has not been observed.” (1889: 47) But the very possibility of such a move requires that Nature is such that it enables knowing the unobserved. Hence, Venn asks the key question: “What characteristics then ought we to demand in Nature in order to enable us to effect this step?” Answering this question requires a principle which is both universal (that is, it has universal applicability) and objective (that is, it must express some regularity in the world itself and not something about our beliefs.)
+Interestingly, Venn took this principle to be the Principle of Uniformity of Nature. But Venn was perhaps the first to associate Hume’s critique of causation with a critique of Induction and, in particular, with a critique of the status of PUN. To be sure, Venn credited Hume with a major shift in the “signification of Cause and Effect” from the once dominant account of causation as efficiency to the new account of causation as regularity. (1889:49) But this shift brought with it the question: what is the foundation of our belief in the regularity? To which Hume answered, according to Venn, by showing that the foundation of this belief is Induction based on past experience. In this setting, Venn took it that the problem of induction is the problem of establishing the foundation of the belief in the uniformity of nature.
+Hence, for Venn, Hume moved smoothly from causation, to regularity, to Induction. Moreover, he took the observed Uniformity of Nature as “the ultimate logical ground of our induction” (1889: 128). And yet, the belief in the Uniformity of Nature is the result of Induction. Hume had shown that the process for extending to the future a past association of two events cannot possibly be based on reasoning, but it is instead a matter of custom or habit. (op.cit. 131)
+Venn emphatically claims there is no logical solution to the problem of uniformity. And yet, this is no cause for despair. For inductive reasoning requires taking the Uniformity of Nature as a postulate: “It must be assumed as a postulate, so far as logic is concerned, that the belief in the Uniformity of Nature exists.” (op.cit. 132) This postulate of Uniformity (same antecedents are followed by the same consequents) finds its natural expression in the Law of Causation (same cause, same effect). The Law of Causation captures “a certain permanence in the order of nature.” This permanence is “clearly essential” if we are to generalize from the observed to the unobserved. Hence, “The truth of the law [of causation] is clearly necessary to enable us to obtain our generalisations: in other words, it is necessary for the Inductive part of the process.” (1888: 212)
+These inductively-established generalizations are deemed the laws of nature. The laws are regularities; they suggest that some events are “connected together in a regular way.” Induction enables the mind to move from the known to the unknown and hence to acquire knowledge of new facts. As Venn put it:
+[The] mind […] dart[s] with its inferences from a few facts completely through a whole class of objects, and thus [it] acquire[s] results the successive individual attainment of which would have involved long and wearisome investigation, and would indeed in multitudes of instances have been out of the question. (1888: 206)
+The intended contrast here is between inductive generalizations and next-instance inductions. There are obviously two routes to the conclusion that the next raven will be black, given that all observed ravens have been black. The first is to start with the observed ravens being black and, passing through the generalization that All ravens are black, to conclude that the next raven will be black. The other route is to start with the observed ravens being black and to conclude directly that the next raven will be black. Hence, we can always avoid the generalization and “make our inference from the data afforded by experience directly to the conclusion,” namely, to the next instance. And though Venn adds that “It is a mere arrangement of convenience” (1888: 207) to pass through the generalization, the convenience is so extreme that generalization is forced upon us when we infer from past experience. The inductive generalizations are not established with “with absolute certainty, but with a degree of conviction that is of the utmost practical use” (1888: 207). Nor is the existence of laws of nature “a matter of a priori necessity.” (op.cit.)
+Now, following Laplace, Venn thought there is a link between Induction and probability, though he did think that “Induction is quite distinct from Probability”, the latter being, by and large, a mathematical theory. Yet, “[Induction] co-operates [with probability] in almost all its inferences.”
+To see the distinction Venn has in mind, we first have to take into account the difference between establishing a generalization and drawing conclusions from it. Following Mill, Venn argued that the first task requires Induction, while the second requires logic. Now suppose the generalization is universal: all As are B. We can use logic to determine what follows from it, for instance, that the next A will be B. But not all generalizations are universal. There are generalizations which assert that a “certain proportion” prevails “among the events in the long run.” (1888: 18) These are what are today called statistical generalizations. Venn thinks of them as expressing “proportional propositions” and claims that probability is needed to “determine what inferences can be made from and by them” (1888: 207). The key point, then, is this: no matter whether a generalization is universal or statistical, it has to rely on the Principle of Uniformity of Nature. For only the latter can render valid the claim that either the regular succession found so far among factors A and B or the statistical correlation found so far among A and B is stable and can be extended to the unobserved As and Bs.
+That is a critical point. Take the very sad fact that Venn refers to, namely, that three out of ten infants die in their first four years. It is a matter for Induction, Venn says, to examine whether the available evidence justifies the generalization that All infants die in that proportion, and not of Probability.
+Venn distanced himself from those, like Laplace, who thought of a tight link between probability and Induction. He took issue with Laplace’s attempt to forge this tight link by devising a probabilistic rule of Induction, namely, what Venn dubbed the “Rule of Succession.” He could not be more upfront: “The opinion therefore according to which certain Inductive formulae are regarded as composing a portion of Probability, and which finds utterance in the Rule of Succession (…) cannot, I think, be maintained.” (1888: 208)
+ii. Laplace: A Probabilistic Rule of Induction
+Now, the mighty Pierre Simon, Marquis De Laplace (1749-1827) published in 1814 a book titled A Philosophical Essay on Probabilities, in which he developed a formal mathematical theory of probability based, roughly put, on the idea that, given a partition of a space of events, equiprobability is equipossibility. This account, which defined probability as the degree of ignorance in the occurrence of the event, became known as the classical interpretation of probability. (For a presentation of this interpretation and its main problems, see the IEP article on Probability and Induction.) For the time being, it is worth stressing that part of the motivation of developing the probability calculus was to show that Induction, “the principal means for ascertaining truth,” is based on probability.  (1814: 1)
+In his attempt to put probability into Induction, Laplace put forward an inductive-probabilistic rule, which Venn called the “Rule of Succession.” It was a rule for the estimation of the probability of an event, given a past record of failures and successes in the occurrence of that event-type:
+An event having occurred successively any number of times, the probability that it will happen again the next time is equal to this number increased by unity divided by the same number, increased by two units. (1814: 19)
+The rule tells us how to calculate the conditional probability (see section 6.1) of an event  to occur, given evidence  that the same event (type) has occurred  times in a row in the past. This probability is:
+(N+1)/(N+2).
+In the more general case where an event has occurred  times and failed to occur  times in the past, the probability of a subsequent occurrence is:
+(N+1)/(N+M+2).
+(See, Keynes 1921: 423.)
+The derivation of the rule in mathematical probability theory is based on two assumptions. The first one is that the only information available is that related to the number of successes and failures of the event examined. And the second one is what Venn called the “physical assumption that the universe may be likened to…a bag” of black and white balls from which we draw independently (1888: 197), that is, the success or failure in the occurrence of an event has no effect on subsequent tests of the same event.
+Famously, Laplace applied the rule to calculate the probability of the sun rising tomorrow, given the history of observed sunrises, and concluded that it is extremely likely that the sun will rise tomorrow:
+Placing the most ancient epoch of history at five thousand years ago, or at 182623 days, and the sun having risen constantly in the interval at each revolution of twenty-four hours, it is a bet of 1826214 to one that it will rise again tomorrow. (1814: 19)
+Venn claimed that “It is hard to take such a rule as this seriously.” (1888: 197) The basis of his criticism is that we cannot have a good estimate of the probability of a future recurrence of an event if the event has happened just a few times, so much less if it has happened just once. However, the rule of succession suggests that on the first occasion the odds are 2 to 1 in favor of the event’s recurrence. Commenting on an example suggested by Jevons, Venn claimed that more information should be taken into account to say something about the event’s recurrence, which is not available just by observing its first occurrence:
+For instance, Jevons (Principles of Science p. 258) says “Thus on the first occasion on which a person sees a shark, and notices that it is accompanied by a little pilot fish, the odds are 2 to 1 that the next shark will be so accompanied.” To say nothing of the fact that recognizing and naming the fish implies that they have often been seen before, how many of the observed characteristics of that single ‘event’ are to be considered essential? Must the pilot precede; and at the same distance? Must we consider the latitude, the ocean, the season, the species of shark, as matter also of repetition on the next occasion? and so on. (1888: 198 n.1)
+Thus, he concluded that “I cannot see how the Inductive problem can be even intelligibly stated, for quantitative purposes, on the first occurrence of any event.” (1888: 198, n.1)
+In a similar vein, Keynes pointed out “the absurdity of supposing that the odds are 2 to 1 in favor of a generalization based on a single instance—a conclusion which this formula would seem to justify.” (1921: 29 n.1) However, his criticism, as we shall see, goes well beyond noticing the problem of the single case.
+iii. Russell’s Principle of Induction
+Could Induction not be defended on synthetic a priori grounds? This was attempted by Russell (1912) in his famous The Problems of Philosophy. He took the Principle of Induction to assert the following: (1) the greater the number of cases in which A has been found associated with B, the more probable it is that A is always associated with B (if no instance is known of A not associated with B); (2) a sufficient number of cases of association between A and B will make it nearly certain that A is always associated with B.
+Clearly, thus stated, the Principle of Induction cannot be refuted by experience, even if an A is actually found not to be followed by B. But neither can it be proved on the basis of experience. Russell’s claim was that without a principle like this, science is impossible and that this principle should be accepted on the ground of its intrinsic evidence. Russell, of course, said this in a period in which the synthetic a priori could still have a go for it. But, as Keynes observed, Russell’s Principle of Induction requires that the Principle of Limited Variety holds. Though synthetic, this last principle is hardly a priori.
+5. Non-Probabilistic Approaches
+a. Induction and the Meaning of Rationality
+P. F. Strawson discussed the Problem of Induction in the final section of his Introduction to Logical Theory (1952), entitled “The ‘Justification’ of Induction.” After arguing that any attempt to justify Induction in terms of deductive standards is not viable, he went on to argue that the inductive method is the standard of rationality when we reason from experience.
+Strawson invited us to consider “the demand that induction shall be shown to be really a kind of deduction.” (1952: 251) This demand stems from considering the ideal of rationality in terms of deductive standards as realized in formal logic. Thus, to justify Induction, one should show its compliance with these standards. He examined two attempts along this line of thought which are both found problematic. The first consists in finding “the supreme premise of inductions” that would turn an inductive argument into a deductive one. What would be the logical status of such a premise, he wondered? If the premise were a non-necessary proposition, then the problem of justification would reappear in a different guise. If it were a necessary truth that, along with the evidence, would yield the conclusion, then there is no need for it since the evidence would entail the conclusion by itself without the need of the extra premise and the problem would disappear. A second (more sophisticated) attempt to justify Induction on deductive grounds rests on probability theory. In this case, the justification takes the form a mathematical theorem. However, Strawson points out that mathematical modelling of an inductive process requires assumptions that are not of mathematical nature, and they need, in turn, to be justified. Hence, the problem of justification is simply moved instead of being solved. As Strawson commented, “This theory represents our inductions as the vague sublunary shadows of deductive calculations we cannot make.” (1952: 256)
+Strawson’s major contribution to the problem is related to the conceptual clarification of the meaning of rationality: what do we mean by being rational when we argue about matters of fact? If we answer that question we can (dis-)solve the problem of the rational justification of Induction, since the rationality of Induction is not a “fact about the constitution of the world. It is a matter of what we mean by the word ‘rational’….” (1952: 261) We suggest the following reconstruction of Strawson’s argument: (1952: 256-257)
+(1) If someone is rational, then they “have a degree of belief in a statement which is proportional to the strength of the evidence in its favour.”
+(2) If someone has “a degree of belief in a statement which is proportional to the strength of the evidence in its favour,” then they have a degree of belief in a generalization as high as “the number of favourable instances, and the variety of circumstances in which they have been found, is great.”
+(3) If someone has a degree of belief in a generalization as high as “the number of favourable instances, and the variety of circumstances in which they have been found, is great,” then they apply inductive methodology.
+Therefore,
+(C) If someone is rational, then they apply inductive methodology.
+According to Strawson, all three premises in the above reconstruction are analytic propositions stemming from the definition of rationality, its application to the case of a generalization, and, finally, our understanding of Induction. Hence, that Induction exemplifies rationality when arguing about facts of matter is an inevitable conclusion. Of course, this does not mean that Induction is always successful, that is, the evidence may not be sufficient to assign a high degree of belief to the generalization.
+When it comes to the success of Induction, Strawson claimed that to deem successful a method of prediction about the unobserved, Induction is required, since the success of any method is justified in terms of a past record of successful predictions. Thus, the proposition “any successful method of finding about the unobserved is justified by induction” is an analytic proposition, and “Having, or acquiring, inductive support is a necessary condition of the success of a method.” (1952: 259)
+However, those who discuss the success of induction have in mind something quite different. To consider Induction a successful method of inference, the premises of an inductive argument should confer a high degree of belief on its conclusion. But this is not something that should be taken for granted. In a highly disordered, chancy world, the favorable cases for a generalization may be comparable with the unfavorable. Thus, there would be no strong evidence for the conclusion of an inductive argument. (1952: 262) Hence, assumptions that guarantee the success of Induction need to be imposed if Induction is to be considered a successful method. Such conditions, Strawson claimed, are factual, not necessary, truths about the universe. Given a past record of successful predictions about the unobserved, such factual claims are taken to have a good inductive support and speak for the following claim: “[The universe is such that] induction will continue to be successful.” (1952: 261)
+Nevertheless, Strawson insisted that we should not confuse the success of Induction with its being rational; hence, it would be utterly senseless and absurd to attempt to justify the rationality of Induction in terms of its being successful. To Strawson, Induction is rational, and this is an analytic truth that is known a priori and independently of our ability to predict successfully unobserved facts, whereas making successful predictions about unobserved rests on contingent facts about the world which can be inductively supported but cannot fortify or impair the rationality of Induction. Thus, Strawson concludes, questions of the following sort: “Is the universe such that inductive procedures are rational?” or “what must the universe be like in order for inductive procedures to be rational?”, are confused and senseless on a par with statements like “The uniformity of nature is a presupposition of the validity of induction.” (1952: 262) In this way, Strawson explains the emergence of the Problem of Induction as a result of a conceptual misunderstanding.
+b. Can Induction Support Itself?
+Can there be an inductive justification of Induction? For many philosophers the answer is a resounding NO! The key argument for this builds on the well-known sceptical challenge: subject S asserts that she knows that p, where p is some proposition. The sceptic asks her: how do you know that p? S replies: because I have used criterion c (or method m, or whatever). The sceptic then asks: how do you know that criterion c (or whatever) is sufficient for knowledge? It is obvious that this strategy leads to a trilemma: either infinite regress (S replies: because I have used another criterion c’), or circularity (S replies: because I have used criterion c itself) or dogmatism (S replies: because criterion c is sufficient for knowledge). So, the idea is that if Induction is used to vindicate Induction, this move would be infinitely regressive, viciously circular, or merely dogmatic.
+What would such a vindication be like? It would rest on what Max Black has called self-supporting inductive arguments (1958). Roughly put, the argument would be: Induction has led to true beliefs in the past (or so far); therefore Induction is reliable, where reliability, in the technical epistemic conception, is a property of a rule of inference such that if it is fed with true premises, it tends to generate true conclusions. So:
+Induction has yielded true conclusions in the past; therefore, Induction is likely to work in the future—and hence to be reliable.
+A more exact formulation of this argument would use as premises lots of successful individual instances of Induction and would conclude (by a meta-induction or a second-order Induction) the reliability of Induction simpliciter. Or, as Black put it, about a rule of Induction R:
+In most instances of the use of R in arguments with true premises examined in a wide variety of conditions, R has been successful. Hence (probably): In the next instance to be encountered of the use of R in an argument with a true premise, R will be successful. The rule of inductive inference R is the following: “Most instances of A’s examined in a wide variety of conditions have been B; hence (probably) The next A to be encountered will be B.” (1958: 719-20)
+Arguments such as these have been employed by many philosophers, such as Braithwaite (1953), van Cleve (1984), Papineau (1992), Psillos (1999), and others. What is wrong with them? There is an air of circularity in them, since the rule R is employed in an argument which concludes that R is trustworthy or reliable.
+i. Premise-Circularity vs Rule-Circularity
+In his path-breaking work, Richard Braithwaite (1953) distinguished between two kinds of circularity: premise-circularity and rule-circularity.
+“Premise-circular” describes an argument such that its conclusion is explicitly one of its premises. Suppose you want to prove P, and you deploy an argument with P among its premises. This would be a viciously circular argument. The charge of vicious circularity is an epistemic charge—a viciously circular argument has no epistemic force: It cannot offer reasons to believe its conclusion, since it presupposes it; hence, it cannot be persuasive. Premise-circularity is vicious! But (I) above (even in the rough formulation offered) is not premise-circular.
+There is, however, another kind of circularity. This, as Braithwaite put it, “is the circularity involved in the use of a principle of inference being justified by the truth of a proposition which can only be established by the use of the same principle of inference” (1953: 276). It can be called rule-circularity. In general, an argument has a number of premises, P1,…,Pn. Qua argument, it rests on (employs/uses) a rule of inference R, by virtue of which a certain conclusion Q follows. It may be that Q has a certain content: it asserts or implies something about the rule of inference R used in the argument, in particular, that R is reliable. So, rule-circular arguments are such that the argument itself is an instance, or involves essentially an application, of the rule of inference whose reliability is asserted in the conclusion.
+If anything, (I) is rule-circular. Is rule-circularity vicious? Obviously, rule circularity is not premise-circularity. But, one may wonder, is it still vicious in not having any epistemic force? This issue arises already when it comes to the justification of deductive logic. In the case of the justification of modus ponens (or any other genuinely fundamental rule of logic), if logical scepticism is to be forfeited, there is only rule-circular justification. Indeed, any attempt to justify modus ponens by means of an argument has to employ modus ponens itself (see Dummett 1974).
+ii. Counter-Induction?
+But, one may wonder, could any mode of reasoning (no matter how crazy or invalid) not be justified by rule-circular arguments? A standard worry is that a rule-circular argument could be offered in defense of “counter-induction.” This moves from the premise that “Most observed As are B” to the conclusion “The next A will be not-B.” A “counter-inductivist” might support this rule by the following rule-circular argument: since most counter-inductions so far have failed, conclude, by counter-induction, that the next counter-induction will succeed.
+The right reply here is that the employment of rule-circular arguments rests on or requires the absence of specific reasons to doubt the reliability of a rule of inference. We can call this, the Fair-Treatment Principle: a doxastic/inferential practice is innocent until proven guilty. This puts the onus on those who want to show guilt. The rationale for this principle is that justification has to start from somewhere and there is no other point to start apart from where we currently are, that is, from our current beliefs and inferential practices. Accordingly, unless there are specific reasons to doubt the reliability of induction, there is no reason to forego its uses in justificatory arguments. Nor is there reason to search for an active justification of it. Things are obviously different with counter-induction, since there are plenty of reasons to doubt its reliability, the chief being that typically counter-induction have led to false conclusions.
+It may be objected that we have no reasons to rely on certain inferential rules. But this is not quite so. Our basic inferential rules (including Induction, of course) are rules we value. And we value them because they are our rules, that is, rules we employ and reply upon to form beliefs. Part of the reason why we value these rules is that they have tended to generate true beliefs—hence, we have some reason to think they are reliable, or at least more reliable than competing rules (say counter-induction).
+Rule-circularity is endemic in any kind of attempt to justify basic method of inference and basic cognitive processes, such as perception and memory. In fact, as Frank Ramsey noted, it is only via memory that we can examine the reliability of memory (1926). Even if we were to carry out experiments to examine it, we would still have to rely on memory: we would have to remember their outcomes. But there is nothing vicious in using memory to determine and enhance the degree of accuracy of memory, for there is no reason to doubt its general reliability and have some reasons to trust it.
+If epistemology is not to be paralysed, if inferential scepticism is not to be taken as the default reasonable position, we have to rely on rule-circular arguments for the justification of basic methods and cognitive processes.
+c. Popper Against Induction
+In the first chapter of the book Objective Knowledge: An evolutionary approach, Popper presented his solution of the Problem of Induction. His reading of Hume distinguished between the logical Problem of Induction (1972: 4),
+HL: Are we justified in reasoning from [repeated] instances of which we have experience to other instances [conclusion] of which we have no experience?
+and the psychological Problem of Induction,
+HPs: Why, nevertheless, do all reasonable people expect, and believe, that instances of which we have no experience will conform to those they have experience? That is, Why do we have expectations in which we have great confidence?
+Hume, Popper claimed, answered the logical problem in the negative—no number of observed instances can justify unobserved ones—while he answered the psychological problem positively—custom and habit are responsible for the formation of our expectations. In this way, Popper observes, a huge gap is opened up between rationality and belief formation and, thus, “Hume (…) was turned into a sceptic and, at the same time, into a believer: a believer in an irrationalist epistemology.” (ibid.)
+In his own attempt to solve the logical Problem of Induction, Popper suggested the following three reformulations of it (1972: 7-8):
+L1: Can the claim that an explanatory universal theory is true be justified by “empirical reasons’”; that is by assuming the truth of certain test statements or observation statements (which it may be said, are “based on experience”)?
+L2: Can the claim that an explanatory universal theory is true or that it is false be justified by “empirical reasons”; that is can the assumption of the truth of test statements justify either the claim that a universal theory is true or the claim that it is false?
+L3: Can a preference, with respect to truth or falsity, for some competing universal theories over others ever be justified by such “empirical reasons”?
+Popper considers L2 to be a generalization of L1 and L3 an equivalent formulation of L2. In addition, Popper’s formulation(s) of the logical problem L1 differs from his original formulation of the Humean problem, HL, since, in L1– L3, the conclusion is an empirical generalization and the premises are “observation; or ‘test’ statements, as opposed to instances of experience” (1972: 12). In deductive logic, the truth of a universal statement cannot be established by any finite number of true observation or test statements. However, Popper, in L2, added an extra disjunct so as to treat the falsity of universal statements on empirical grounds. He can then point out that a universal statement can always be falsified by a test statement. (1972: 7) Hence, by the very (re)formulation of the logical Problem of Induction, as in L2, in such a way as to include both the (impossible) verification of a universal statement as well as its (possible) falsification, Popper thinks he has “solved” the logical Problem of Induction. The “solution” is merely stating the “asymmetry between verification and falsification by experience” from the point of view of deductive logic.
+After having “solved” the logical Problem of Induction, Popper applies a heuristic conjecture, called the principle of transference, to transfer the logical solution of the Problem of Induction to the realm of psychology and to remove the clash between the answers provided by Hume to the two aspects of the Problem of Induction. This principle states roughly that “What is true in logic is true in psychology.” (1972: 6) Firstly, Popper noticed that “Induction—the formation of a belief by repetition—is a myth”: people have an inborn, instinctual inclination to impose regularities upon their environment and to make the world conform with their expectation in the absence of or prior to any repetitions of phenomena. As a consequence, Hume’s answer to HPs that bases belief formation on custom and habit is considered inadequate. Having disarmed Hume’s answer to the psychological Problem of Induction, Popper applies the principle of transference to align logic and psychology in terms of the following problem and answer:
+Ps1: If we look at a theory critically, from the point of view of view of sufficient evidence rather than from any pragmatic point of view, do we always have the feeling of complete assurance or certainty of its truth, even with respect to the best-tested theories, such as that the sun rises every day? (1972: 26)
+Popper’s answer to Ps1 is negative: the feeling of certainty we may experience is not based on evidence; it has its source in pragmatic considerations connected with our instincts and with the assurance of an expectation that one needs to engage in goal-oriented action. The critical examination of a universal statement shows that such a certainty is not justified, although, for pragmatic reasons related to action, we may not take seriously possibilities that are against our expectations. In this way, Popper aligns his answer to the logical Problem of Induction with his treatment of its psychological counterpart.
+d. Goodman and the New Riddle of Induction
+In Fact, Fiction and Forecast (1955: 61ff), Goodman argued that the “old,” as he called it, Problem of Induction is a pseudo-problem based on a presumed peculiarity of Induction which, nevertheless, does not exist. Both in deduction and in Induction, an inference is correct if it conforms with accepted rules, and rules are accepted if they codify our inferential practices. Hence, we should not seek after a reason that would justify Induction in a non-circular way any more than we do so for deduction, and the noted circularity is, as Goodman says, a “virtuous” one. The task of the philosopher is to find those rules that best codify our inferential practices in order to provide a systematic description of what a valid inference is. As a result, the only problem about Induction that remains is that, contrary to deductive inference, such rules have not been consolidated. The search for such rules is what Goodman called “the constructive task of confirmation theory.”
+The new riddle of Induction appeared in the attempt to explicate the relation of confirmation of a general hypothesis by a particular instance of it. It reflects the realization that the confirmation relation is not purely syntactic: while a positive instance of a generalization may confirm it, if it is a lawlike generalization, it does not bear upon its truth if it is an accidental generalization. To illustrate this fact, Goodman used the following examples: firstly, consider the statement, “This piece of copper conducts electricity” that confirms the lawlike generalization, “All pieces of copper conduct electricity.” Secondly, consider the statement, “The man in the room is a third son” that does not confirm the accidental generalization, “All men in the room are third sons.” Obviously, the difference in these examples is not couched in terms of syntax since in both cases the observation statements and the generalizations have the same syntactic form. The new riddle of Induction shows the difficulty of making the required distinction between lawlike and accidental generalizations.
+Consider two hypotheses H1 and H2, that have the form of a universal generalization: “All S is P.” Let H1 be “All emeralds are green” and H2  be “All emeralds are grue,” where “grue” is a one-place predicate defined as follows:
+
+At time T1, both H1 and H2 are equally well confirmed by reports of observations of green emeralds made before time T. The two hypotheses differ with respect to the predictions they make about the color of the observed emeralds after time : the predictions, “The next emerald to observe after time T  is green” and “The next emerald to observe after time T is grue” are inconsistent. In addition, it may occur that the same prediction made at a time T is equally well-supported by diverse collections of evidence collected before T, as long as these collections of evidence are reflected on the different hypotheses formulated in terms of appropriately formed predicate constructs. However, Goodman claims that “…only the predictions subsumed under law-like hypotheses are genuinely confirmed.” (1955: 74-75) Thus, to distinguish between the predictions that are genuinely confirmed from the ones that are not is to distinguish between lawlike generalizations and accidental ones.
+The most popular suggestion is to demand that lawlike generalizations should not contain any reference particular individuals or involve any spatial or temporal restrictions (Goodman 1955: 77). In the new riddle, the predicate ‘grue’ used in  violates this criterion, since it references a particular time ; it is a positional predicate. Hence, one may claim that  does not qualify as a lawlike generalization. However, this analysis can be challenged as follows. Specify a grue-like predicate, bleen, as follows:
+
+Now notice, we can define green (and blue) in terms of grue and bleen as follows:
+
+“Thus qualitativeness is an entirely relative matter,” concludes Goodman, “[t]his relativity seems to be completely overlooked by those who contend that the qualitative character of a predicate is a criterion for its good behavior. (1955: 80)
+Goodman solves the problem in terms of the entrenchment of a predicate. Entrenchment measures the size of the past record of hypotheses formulated using a predicate that they have been actually projected—that is, they have been adopted after their examined instances have been found true. Hence, the predicate “grue” is less entrenched than the predicate “green,” since it has not been used to construct hypotheses licensing predictions about as yet unexamined objects as many times as “green.” Roughly, Goodman’s idea is that lawful or projectible hypotheses use only well-entrenched predicates. On this account, only hypothesis H1 is lawful or projectible and not H2, and only H1 can be confirmed in the light of evidence.
+Goodman’s account of lawlikeness is pragmatic, since it rests on the use of the predicates in language, and so it is the suggested solution for his new riddle and is restricted to universal hypotheses. Entrenchment has been criticized as imprecise concept, “a crude measure” says Teller (1969), which has not been properly defined. Anyone who attempts to measure entrenchment faces the problem of dealing with two predicates having the same extension and different past records of actual projections. Although their meaning is the same, their extension is different. Finally, entrenchment seems to suggest an excessively conservative policy for scientific practice that undermines the possibility of progress, since no new predicate would be well-entrenched on the basis of past projections, and “Science could never confirm anything new.” (ibid)
+6. Reichenbach on Induction
+a. Statistical Frequencies and the Rule of Induction
+Hans Reichenbach distinguished between classical and statistical Induction, with the first being a special case of the latter. Classical Induction is what is ordinarily called Induction by enumeration, where an initial section of a given sequence of objects or events is found to possess a given attribute, and it is assumed that the attribute persists in the entire sequence. On the other hand, statistical Induction does not presuppose the uniform appearance of an attribute in any section of the sequence. In statistical Induction it is assumed that in an initial section of a sequence, an attribute is manifested with relative frequency f, and we infer that “The relative frequency observed will persist approximately for the rest of the sequence; or, in other words, that the observed value represents, within certain limits of exactness, the value of the limit for the whole sequence.” (1934: 351) Classical Induction as a special case of statistical induction results for f = 1.
+Consider a sequence of events or objects and an attribute , which is exhibited by some events of the sequence.  Suppose that you flip a coin several times forming a sequence of “Heads” (H) and “Tails” (T), and you focus your attention on the outcome H.
+H H T T H T T T H …
+By examining the first six elements of the sequence you can calculate the relative frequency of exhibiting H in the six flips by dividing the number of H, that is, three, by the total number of trials, that is, six: hence,
+Generally, by inspecting the first  elements of the sequence, we may calculate the relative frequency,
+
+In this way, we may define a mathematical sequence, {fn}n∈ℕ, with elements fn representing the relative frequency of appearance of the attribute A in the first n elements of the sequence of events. In the coin-flipping example we have:
+
+
+
+n
+1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+
+
+Outcome
+H
+H
+T
+T
+H
+T
+T
+T
+H
+…
+
+
+fn
+1
+1
+2/3
+2/4
+3/5
+3/6
+3/7
+3/8
+4/8
+…
+
+
+
+ 
+According to Reichenbach (1934: 445), the rule or principle of Induction makes the following posit (for the concept of posit, see below):
+For any given δ > 0, no matter how small we choose it
+
+for all n > n0.
+To apply the rule of Induction to the coin-flipping example we need to fix a δ, say δ = 0.05, and to conjecture at each trial n0, the relative frequency of H for the flips n > n0 to a δ–degree of approximation.
+
+
+
+n
+1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+
+
+Outcome
+H
+H
+T
+T
+H
+T
+T
+T
+H
+…
+
+
+fn
+1
+1
+2/3
+2/4
+3/5
+3/6
+3/7
+3/8
+4/8
+…
+
+
+Conjectured fn
+1 ± 0.05
+1/2 ± 0.05
+2/3 ± 0.05
+2/4 ± 0.05
+3/5 ± 0.05
+3/6 ± 0.05
+3/7 ± 0.05
+3/8 ± 0.05
+4/8 ± 0.05
+…
+
+
+
+ 
+The sequence of relative frequencies, {fn}n∈ℕ, may converge to a limiting relative frequency p or not. This limiting relative frequency, if it exists, expresses the probability of occurrence of attribute  in this sequence of events, according to the frequency interpretation of probability. For a fair coin in the coin-flipping experiment, the sequence of relative frequencies converges to p = ½ Generally, however, we do not know whether such a limit exists, and it is non-trivial to assume its existence.  Reichenbach formulated the rule of induction in terms of such a limiting frequency (For further discussion consult the Appendix):
+Rule of Induction. If an initial section of n elements of a sequence xi  is given, resulting in the frequency f n, and if, furthermore, nothing is known about the probability of the second level for the occurrence of a certain limit p, we posit that the frequency f i (i > n) will approach a limit  p within f n ± δ when the sequence is continued. (1934: 446)
+Two remarks are in order here: the first is about Reichenbach’s reference to “probability of the second level.”  He examined higher-level probabilities in Ch. 8 of his book on probability theory. If the first-level probabilities are limits of relative frequencies in a given sequence of events expressing the probability of an attribute to be manifested in this sequence, second-level probabilities refer to different sequences of events, and they express the probability of a sequence of events to exhibit a particular limiting relative frequency for that attribute. By means of second-level probabilities, Reichenbach discussed probability implications that have, as a consequent, a probability implication. In the example of coin flips, this would amount to having an infinite pool of coins that are not all of them fair. The probability of picking out a coin with a limiting relative frequency of ½ to bring “Heads” is a second-order probability. In the Rule of Induction, it is assumed that we have no information about “the probability of the second level for the occurrence of a certain limit ” and the posit we make is a blind one (1936: 446); namely, we have no evidence to know how good it is.
+Secondly, it is worthwhile to highlight the analogy with classical Induction. An enumerative inductive argument either predicts what will happen in the next occurrence of a similar event or yields a universal statement that claims what happens in all cases. Similarly, statistical Induction either predicts something about the behavior of the relative frequencies that follow the ones already observed, or it yields what corresponds to the universal claim, namely, that the sequence of frequencies as a whole converges to a limiting value that lies within certain bounds of exactness from an already calculated relative frequency.
+b. The Pragmatic Justification
+Reichenbach claims that the problem of justification of Induction is a problem of justification of a rule of inference. A rule does not state a matter of fact, so it cannot be proved to be true or false; a rule is a directive that tells us what is permissible to do, and it requires justification. But what did Reichenbach mean by justification?
+He writes, “It must be shown that the directive serves the purpose for which it is established, that it is a means to a specific end” (1934: 24), and “The recognition of all rules as directives makes it evident that a justification of the rules is indispensable and that justifying a rule means demonstrating a means-end relation.” (1934: 25)
+Feigl called this kind of justification that is based on showing that the use of a rule is appropriate for the attainment of a goal vindication to distinguish it from validation, a different kind of justification that is based on deriving a rule from a more fundamental principle. (Feigl, 1950)
+In the case of deductive inferences, a rule is vindicated if it can be proven that its application serves the purpose of truth-preservation, that is, if the rule of inference is applied to true statements, it provides a true statement. This proof is a proof of a meta-theorem. Consider, for instance, modus ponens; by applying this rule to the well-formed formulas φ, φ → ψ  we get ψ. It is easy to verify that φ, φ → ψ cannot have the value “True” while ψ has the value “False.” Reichenbach might have had this kind of justification in mind for deductive rules of inference.
+What is the end that would justify the rule of induction as a means to it? The end is to determine within a desired approximation the limiting relative frequency of an attribute in a given sequence, if that limiting relative frequency exists: “The aim is predicting the future—to formulate it as finding the limit of a frequency is but another version of the same aim.” (1951: 246)
+And, as we have seen, the rule of induction is the most effective means for accomplishing this goal: “If a limit of the frequency exists, positing the persistence of the frequency is justified because this method, applied repeatedly, must finally lead to true statements;” (1934: 472) “So if you want to find a limit of the frequency, use the inductive inference – it is the best instrument you have, because, if your aim can be reached, you will reach it that way.” (1951: 244)
+Does this sort of justification presuppose that the limit of the sequence of relative frequency exists in a given sequence of events? Reichenbach says “No!”: “If [your aim] it cannot be reached, your attempt was in vain; but any other attempt must also break down.” (1951: 244)
+In the last two passages quoted from The Rise of Scientific Philosophy, we find Reichenbach’s argument for the justification of Induction:
+
+Either the limit of the relative frequency exists, or it does not exist.
+If it does exist, then, by applying the rule of induction, we can find it.
+If it does not exist, then no method can find it.
+Therefore, either we find the limit of the frequency by induction or by no method at all.
+
+The failure of any method in premise #3 follows from the consideration that if there were a successful alternative method, then the limit of the frequency would exist, and the rule of induction would be successful too. Reichenbach does not deny in principle that methods other than induction may succeed in accomplishing the aim set in certain circumstances; what he claims is that induction is maximally successful in accomplishing this aim.
+The statement that there is a limit of a frequency is synthetic, since it says something non-trivial about the world and, Reichenbach claims, “that sequences of events converge toward a limit of the frequency, may be regarded as another and perhaps more precise version of the uniformity postulate.” (1934: 473) In regards to its truth, the principle is commonly taken either as postulated and self-warranted or as inferred from other premises. If postulated, then, Reichenbach says, we are introducing in epistemology a form of synthetic a priori principles. Russell is criticized for having introduced synthetic a priori principles in his theory of probability of Induction and is called to “revise his views.” (1951: 247) On the other hand, if inferred, we are attempting to justify the principle by proving it from other statements, which may lead to circularity or infinite regress.
+Reichenbach did not undertake the job of proving that inductive inference concludes true or even probable beliefs from any more fundamental principle. He was convinced that this cannot be done. (1951: 94) Instead, he claimed that knowledge consists of assertions for which we have no proof of their truth, although we treat them as true, as posits. As he put it:
+The word “posit” is used here in the same sense as the word “wager” or “bet” in games of chance. When we bet on a horse we do not want to say by such a wager that it is true that the horse will win; but we behave as though it were true by staking money on it. A posit is a statement with which we deal as true, although the truth value is unknown.” (1934: 373)
+And elsewhere he stressed, “All knowledge is probable knowledge and can be asserted only in the sense of posits.” (1951: 246) Thus, as a posit, a predictive statement does not require a proof of its truth. And the classical problem of induction is not a problem for knowledge anymore: we do not need to prove from ‘higher’ principles that induction yields true conclusions. Since, for a posit, “All that can be asked for is a proof that it is a good posit, or even the best posit available.” (1951: 242)
+Induction is justified as the instrument for making good posits:
+Thesis θ. The rule of induction is justified as an instrument of positing because it is a method of which we know that if it is possible to make statements about the future we shall find them by means of this method. (1934: 475)
+c. Reichenbach’s Views Criticized
+One objection to Reichenbach’s vindication of Induction questions the epistemic end of finding the limit of the frequency asymptotically, since, as Keynes’s famous slogan put it, “In the long run we are all dead.” (1923: 80) What we should care about, say the critics, is to justify Induction as a means to the end of finding truth, or the correct limiting frequency, in a finite number of steps, in the short run. This is the only legitimate epistemic end, and in this respect Reichenbach’s convergence to truth has not much to say.
+Everyone agrees that reaching a goal set, in a finite number of steps, would be a desideratum for any methodology. However, we should notice that any method that can be successful in the short run, will be successful in the long run as well. Or, by contraposition, if a method does not guarantee success in the long run, then it will not be successful in the short run as well. Hence, although success in the long run is not the optimum one could request from a method, it is still a desirable epistemic end. And Induction is the best candidate for being successful in the short run, since it is maximally successful in the long run. (Glymour 2015: 249) To stress this point, Huber made an analogy with deductive logic. As eternal life is impossible, it is impossible to live in any logically possible world other than the actual one. Yet, this does not prevent us from requiring our belief system to be logically consistent, that is, to have an epistemic virtue that is defined in every logically possible world, as a minimum requirement of having true beliefs about the actual world. (Huber 2019: 211)
+A second objection rests on the fact that Reichenbach’s rule of Induction is not the only rule that converges to the limit of relative frequency if the limit exists. Thus, there are many rules, actually an infinite number of rules, that are vindicated. Any rule that would posit that the limit of the relative frequency p  is found within a δ-interval around cno + fno
+
+for any given δ > 0 and cno → 0 when n0 → ∞ would yield a successful prediction if the limiting frequency  existed.
+For instance, let
+
+Then in the coin-flipping example, we obtain the following different conjectures according to Reichenbach’s rule and the cno-rule:
+
+
+
+n
+1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+
+
+Outcome
+H
+H
+T
+T
+H
+T
+T
+T
+H
+…
+
+
+Conjectured fn
+1 ± 0.05
+1 ± 0.05
+2/3 ± 0.05
+2/4 ± 0.05
+3/5 ± 0.05
+3/6 ± 0.05
+3/7 ± 0.05
+3/8 ± 0.05
+4/8 ± 0.05
+…
+
+
+cn0–Conjectured fn
+0 ± 0.05
+1/2 ± 0.05
+5/9 ± 0.05
+2/4 ± 0.05
+14/25 ± 0.05
+3/6 ± 0.05
+22/49 ± 0.05
+13/32 ± 0.05
+4/8 ± 0.05
+…
+
+
+
+Despite the differences in the short run, the two rules converge to the same relative frequency asymptotically; hence, both rules are vindicated. Why, then, should one choose Reichenbach’s rule (cno = 0) rather than the cno-rule to make predictions?
+Reichenbach was aware of the problem, and he employed descriptive simplicity to select among the rival rules. (1934: 447) According to Reichenbach, descriptive simplicity is a characteristic of a description of the available data that has no bearing on its truth. Using this criterion, we may choose among different hypotheses, not on the basis of their predictions, but on the basis of their convenience or easiness to handle: “…The inductive posit is simpler to handle.” (ibid.)
+Thus, since all rules converge in the limit of empirical investigation, when all available evidence have been taken into consideration, the more convenient choice is the rule of Induction with cno = 0 for all n0 ∈ ℕ.
+Huber claims that all the different rules that converge to the same limiting frequency and are associated with the same sequence of events are functionally equivalent since they serve the same end, that of finding the limit of the relative frequency. So, an epistemic agent can pick out any of these methods to attain this goal, but only one at a time. Yet, he argues, this is not a peculiar feature of Induction; the situation in deductive logic is similar. There are different systems of rules of inference in classical logic, and all of them justify the same particular inferences. Every time one uses a language, they are committed to a system of rules of inference. If one does not demand a justification of the system of rules in deductive logic, why should they require such a justification of the inductive rule. (Huber 2019: 212)
+7. Appendix
+This appendix shows the asymptotic and self-corrective nature of the inductive method that establishes its success and the truth of the posit made in Reichenbach’s rule of Induction for a convergent sequence of relative frequencies.
+Firstly, assume that the sequence of relative frequencies {fn}n∈ℕ is convergent to a value p.  Then {fn}n∈ℕ is a Cauchy sequence,
+∀ε > 0,∃N = N(ε)∈ℕ such that ∀n∈ℕ,n > n0 > N ⟹ |fn – fno| < ε.
+Setting ε = δ, where δ is the desired accuracy of our predictions, we conclude that there is always a number of trials, N(δ), after which our conjectured relative frequency fno for n0 > N(δ) approximates the frequencies that will be observed, fn, n > n0 > N(δ), to a δ degree of error.
+Of course, this mathematical fact does not entail that the inductive posit is necessarily true. It will be true only if the number of items,  inspected is sufficient (that is, ) to establish deductively the truth of
+|fn – fno| < δ for n > n0.
+In the example of the coin-flipping, as we see in the relevant table, for δ, the conjectured relative frequency of H at the 3rd trial is between 185/300 and 215/300 for every n > 3. However, at the fourth trial the conjecture is proved false since the relative frequency is 150/300.
+Now, if the posit is false, we may inspect more elements of the sequence and correct our posit. Hence, for n1 > n0 our posit may become
+
+for all n > n1. Again, if the new posit is false we may correct it anew and so on. However, since {fn}n∈ℕ is convergent, after a finite number of (k + 1) steps, for some nk, our posit,
+
+for all n > nk > N(δ) ,will become true.
+This is what Reichenbach meant when he called inductive method, self-corrective, or asymptotic:
+The inductive procedure, therefore, has the character of a method of trial and error so devised that, for sequences having a limit of the frequency, it will automatically lead to success in a finite number of steps. It may be called a self-corrective method, or an asymptotic method. (1934: 446)
+Secondly, we show that for a sequence of relative frequencies {fn}n∈ℕ that converges to a number p the posit that Reichenbach makes in his rule of induction is true. Namely, we will show that for every desirable degree of accuracy δ > 0, there is a N = N(δ)∈ℕ such that for every n > n0 > N, fn approaches to p that is within fn ± δ, i.e. |p – fn| and |p – fno| < δ.
+We start from the inequality,
+
+From the convergence of {fn}n∈ℕ it holds that
+∃ N1 ∈ ℕ such that ∀n ∈ ℕ,n > N1 ⟹ |p – fn| < δ/2
+and
+∃ N2 ∈ ℕ such that ∀n ∈ ℕ,n > N0 > N2 ⟹ |fn – fno| < δ/2.
+Let N = max{N1, N2}, then for every n > n0 > N,
+|p – fno| < δ and |p – fn| < δ/2.
+8. References and Further Reading
+
+Aristotle, (1985). “On Generation and Corruption,” H. H. Joachim (trans.). In Barnes, J. (ed.). Complete Works of Aristotle v. 1: 512-555. Princeton: Princeton University Press.
+Bacon, F., (2000). The New Organon. Cambridge: Cambridge University Press.
+Bain, A., (1887). Logic: Deductive and Inductive. New York: D. Appleton and Company.
+Black, M., (1958). “Self-Supporting Inductive Arguments.” The Journal of Philosophy 55(17): 718-725.
+Braithwaite, R. B., (1953). Scientific Explanation: A Study of the Function of Theory, Probability and Law in Science. Cambridge: Cambridge University Press.
+Broad, C. D., (1952). Ethics and The History of Philosophy: Selected essays. London: Routledge.
+Dummett, M., (1974). “The Justification of Deduction.” In Dummett, M. (ed.). Truth and Other Enigmas. Oxford: Oxford University Press.
+Feigl, H., (1950 [1981]). “De Principiis Non Disputandum…? On the Meaning and the Limits of Justification.” In Cohen, R.S. (ed.). Herbert Feigl Inquiries and Provocations: Selected Writings 1929-1974. 237-268. Dordrecht: D. Reidel Publishing Company.
+Glymour, C., (2015). Thinking Things Through: An Introduction to Philosophical Issues and Achievements. Cambridge, MA: The MIT Press.
+Goodman, N., (1955 [1981]). Fact, Fiction and Forecast. Cambridge, MA: Harvard University Press.
+Huber, F., (2019). A Logical Introduction to Probability and Induction. Oxford: Oxford University Press.
+Hume, D., (1739 [1978]). A Treatise of Human Nature. Selby-Bigge, L. A. & Nidditch, P. H. (eds). Oxford: Clarendon Press.
+Hume, D., (1740 [1978]). “An Abstract of A Treatise of Human Nature.” In Selby-Bigge, L. A. & Nidditch, P. H., (eds). A Treatise of Human Nature. Oxford: Clarendon Press.
+Hume, D., (1748 [1975]). “An Enquiry concerning Human Understanding.” In Selby-Bigge, L. A. & Nidditch, P. H., (eds). Enquiries concerning Human Understanding and concerning the Principle of Morals. Oxford: Clarendon Press.
+Hume, D., (1751 [1975]). “An Enquiry concerning the Principles of Morals.” In Selby-Bigge, L. A. & Nidditch, P. H., (eds). Enquiries concerning Human Understanding and concerning the Principle of Morals. Oxford: Clarendon Press.
+Jeffrey, R., (1992). Probability and the Art of Judgement. Cambridge: Cambridge University Press.
+Kant, I., (1783 [2004]). Prolegomena to any Future Metaphysics That Will Be Able to Come Forward as Science. Revised edition.G. Hatfield (trans. and ed). Cambridge: Cambridge University Press.
+Kant, I., (1781-1787 [1998]). Critique of Pure Reason. Guyer, P. and Wood, A. W. (trans and eds). Cambridge: Cambridge University Press.
+Kant, I., (1992). Lectures on Logic. Young, J. M (trans. and ed.). Cambridge: Cambridge University Press.
+Keynes, J. M., (1921). A Treatise on Probability. London: Macmillan and Company.
+Keynes, J. M., (1923). A Tract on Monetary Reform. London: Macmillan and Company.
+Laplace, P. S., (1814 [1951]). A Philosophical Essay on Probabilities. New York: Dover Publications, Inc.
+Leibniz, G. W. (1989). Philosophical Essays. Ariew, R. and Garber, D. (trans.). Indianapolis & Cambridge: Hackett P.C.
+Leibniz, G. W. (1989a). Philosophical Papers and Letters. Loemker, L. (trans.), Dordrecht: Kluwer.
+Leibniz, G. W. (1896). New Essays on Human Understanding. New York: The Macmillan Company.
+Leibniz, G. W. (1710 [1985]). Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil. La Salle, IL: Open Court.
+Malebranche, N. (1674-5 [1997]). The Search after Truth and Elucidations of the Search after Truth. Lennon, T. M. and Olscamp, P. J. (eds). Cambridge: Cambridge University Press.
+Mill, J. S. (1865). An Examination of Sir William Hmailton’s Philosophy. London: Longman, Roberts and Green.
+Mill, J. S. (1879). A System of Logic, Ratiocinative and Inductive: Being a Connected View of The Principles of Evidence and the Methods of Scientific Investigation. New York: Harper & Brothers, Publishers.
+Papineau, D., (1992). “Reliabilism, Induction and Scepticism.” The Philosophical Quarterly 42(66): 1-20.
+Popper, K., (1972). Objective Knowledge: An evolutionary approach. Oxford: Oxford University Press.
+Popper, K., (1974). “Replies to My Critics.” In Schilpp, P. A., (ed.). The Philosophy of Karl Popper. 961-1174. Library of Living Philosophers, Volume XIV Book II. La Salle, IL: Open Court Publishing Company.
+Psillos, S. (1999). Scientific Realism: How Science Tracks Truth. London: Routledge.
+Psillos, S. (2015). “Induction and Natural Necessity in the Middle Ages.” Philosophical Inquiry 39(1): 92-134.
+Ramsey, F., (1926). “Truth and Probability.” In Braithwaite, R. B. (ed.). The Foundations of Mathematics and other essays. London: Routledge.
+Reichenbach, H., (1934 [1949]). The Theory of Probability: An Inquiry into the Logical and Mathematical Foundations of the Calculus of Probability. Berkeley and Los Angeles: University of California Press.
+Reichenbach, H., (1951). The Rise of Scientific Philosophy. Berkeley and Los Angeles: University of California Press.
+Russell, B., (1912). The Problems of Philosophy. London: Williams and Norgate; New York: Henry Holt and Company.
+Russell, B., (1948 [1992]). Human Knowledge—Its Scope and Limits. London: Routledge.
+Schurz, G., (2019). Hume’s Problem Solved. The Optimality of Meta-Induction. Cambridge, MA: The MIT Press.
+Strawson, P. F., (1952 [2011]). Introduction to Logical Theory. London: Routledge.
+Teller, P., (1969). “Goodman’s Theory of Projection.” The British Journal for the Philosophy of Science, 20(3): 219-238.
+van Cleve, J., (1984). “Reliability, Justification, and the Problem of Induction.” Midwest Studies in Philosophy 9(1): 555-567.
+Venn, J., (1888). The Logic of Chance. London: Macmillan and Company.
+Venn, J., (1889). The Principles of Empirical or Inductive Logic. London: Macmillan and Company
+Whewell, W., (1840). The Philosophy of the Inductive Sciences, Founded Upon Their History, vol. I, II. London: John W. Parker, West Strand.
+Whewell, W., (1858). Novum Organum Renovatum. London: John W. Parker, West Strand.
+Whewell, W., (1849). Of Induction with especial reference to John Stuart Mill’s System of Logic. London: John W. Parker, West Strand.
+
+ 
+Author Information
+Stathis Psillos
+Email: psillos@phs.uoa.gr
+University of Athens
+Greece
+and
+Chrysovalantis Stergiou
+Email: cstergiou@acg.edu
+The American College of Greece
+Greece
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

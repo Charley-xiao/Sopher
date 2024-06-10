@@ -1,0 +1,581 @@
+
+
+
+
+
+
+
+
+
+Reliabilism | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reliabilism
+Reliabilism encompasses a broad range of epistemological theories that try to explain knowledge or justification in terms of the truth-conduciveness of the process by which an agent forms a true belief. Process reliabilism is the most common type of reliabilism. The simplest form of process reliabilism regarding knowledge of some proposition p implies that agent S knows that p if and only if S believes that p,  p is true, and S’s belief that p is formed by a reliable process. A truth-conducive or reliable process is sometimes described as a belief-forming process that produces either mostly true beliefs or a high ratio of true to false beliefs. Process reliabilism regarding justification, rather than knowledge, says that S’s belief that p is justified if and only if S’s belief that p is formed by a reliable process.  This article discusses process reliabilism, including its background, motivations, and well-known problems. Although the article primarily emphasizes justification, it also discusses knowledge, followed by brief descriptions of other versions of reliabilism such as proper function theory, agent and virtue reliabilism, and tracking theories.
+Table of Contents
+
+Background and Anti-Luck Predecessors of Process Reliabilism
+
+Brief Background
+Anti-Luck Predecessors of Process Reliabilism
+
+
+Process Reliabilist Theories of Justification and Knowledge
+
+Goldman’s “What Is Justified Belief?”
+Some Unresolved Issues
+Some Theoretical Commitments of Reliabilism
+
+
+Objections and Replies
+
+Reliably Formed True Belief Is Insufficient for Justification
+Reliably Formed True Belief Is Not Necessary for Justification
+The Problem of Easy Knowledge
+The Value Problem for Reliabilism
+The Generality Problem
+
+
+Proper Function and Agent and Virtue Reliabilism
+
+Plantinga’s Proper Function Account
+Agent and Virtue Reliabilism
+
+
+Tracking and Anti-Luck Theories
+
+Sensitivity
+Safety
+
+
+Conclusion
+References and Further Reading
+
+1. Background and Anti-Luck Predecessors of Process Reliabilism
+a. Brief Background
+The nature of the knowledge-constituting link between truth and belief is a principal issue in epistemology.  Nearly all philosophers accept that a person, S, knows that p (where p is a proposition), only if S believes that p and p is true.  But true belief alone is insufficient for knowledge because S may believe that p without adequate or perhaps any grounds or evidence.  If, for example, S believes that p merely because he or she guesses that p, then the connection between S’s belief that p and the truth that p is too flimsy to count as knowledge.  S might just as easily have guessed that not-p and thus have been wrong.
+Dating back to Plato’s Theaetetus, philosophical tradition held that knowledge is justified true belief (although it is debatable whether Plato’s ‘logos’, often translated simply as account, corresponds to the contemporary idea of justification, and Plato himself found the true belief with logos explication of knowledge wanting).   Although the nature of justification is a matter of considerable debate, a central idea is that when a belief is justified it is far likelier to be true than when it is not justified.  Reliabilists put this notion of truth-conduciveness front-and-center in their accounts of justification and knowledge.
+F.P. Ramsey (1931) is often credited with the first articulation of a reliabilist account of knowledge.  He claimed that knowledge is true belief that is certain and obtained by a reliable process.  That idea lay more-or-less dormant until the 1960s, when reliabilist theories emerged in earnest.  A crucial development occurred when Edmund Gettier (1963) demonstrated that even justified true belief is insufficient for knowledge.  The diagnosis of the counterexamples Gettier provided is that an agent can obtain true beliefs with very solid grounds and yet the agent could still easily have been wrong.  It is only by luck or coincidence that the agent’s source of justification leads to true belief.  That is, the agent’s true belief is infected by knowledge-precluding “epistemic luck.“ It is difficult to say just how much Gettier’s paper motivated reliabilist accounts of justification and knowledge, especially since, as discussed below, process reliabilism regarding justification is somewhat detached from concerns about epistemic luck.  It is nonetheless clear that Gettier’s counterexamples led to fresh thinking about the knowledge-constituting link between belief and truth, and that process reliabilism emerged as a theory-type from some of the responses to Gettier.  This section briefly addresses precursors to process reliabilism that aim to eliminate luck, with the aim of giving a partial, reconstructed genealogy of process reliabilism.  Section 5 discusses other versions of reliabilism that explicitly address epistemic luck.
+b. Anti-Luck Predecessors of Process Reliabilism
+Alvin Goldman is perhaps the most influential proponent of reliabilism.  Goldman (1967) responded to Gettier by arguing that knowledge is true belief caused in an appropriate way. Goldman left the notion of “appropriate” open-ended, awaiting scientific discovery of causal mechanisms that reliably yield true belief.  To see how Goldman’s causal theory attempts to eliminate epistemic luck, consider the following Gettier counterexample.  Smith has very good evidence that Jones owns a Ford, but has no idea of the whereabouts of his friend, Brown.  Smith forms the belief, via competent deduction from the justified premise that Jones owns a Ford, that either Jones owns a Ford or Brown is in Barcelona.  It turns out that Jones does not own a Ford—perhaps Jones showed Smith a fake title while giving Smith a ride home in the Ford—but Brown is, by coincidence, in Barcelona.  Smith’s disjunctive belief is true and justified, but clearly not a case of knowledge.  Goldman’s causal theory correctly diagnoses this case, because the specific fact that makes Smith’s disjunctive belief true—that Brown is in Barcelona—is not a causal antecedent of Smith’s belief.  Rather, Smith believes what he does because he has evidence that Jones owns a Ford.
+Goldman recognized that his causal theory still permitted knowledge-precluding epistemic luck (Goldman, 1976).  A crucial counterexample to the causal theory (and to many others) is the famous barn facsimile case.  Driving through the countryside, Henry points out a barn to his son, saying, “That’s a barn.”  It so happens that all the other “barns” in the area are mere façades meant to look exactly like barns from the road.  Does Henry know that the ostended object is a barn?  On Goldman’s causal theory, the answer is “yes,” since perception of the actual barn causes Henry to believe that it is a barn.  But Henry just got lucky.  He could very easily have pointed to a façade and formed the false belief that it is a barn, and therefore Henry does not know that the object he pointed to is a barn.
+Although the fake barn example does not fit the precise mold of Gettier’s cases, it is nonetheless a case of epistemic luck, whose common feature is that the agent has a true belief that could easily have been false—the link between belief and truth is too weak to constitute knowledge.  To shore up that link, Goldman (1976) introduced his discrimination account of perceptual knowledge.  Goldman says, “S has perceptual knowledge if and only if not only does his perceptual mechanism produce true belief, but there are no relevant counterfactual situations in which the same belief would be produced via an equivalent percept and in which the belief would be false” (Goldman 1976, 786).  In the fake barns case, because the countryside is filled with barn façades that Henry cannot distinguish from actual barns, there is a relevant counterfactual situation where what Henry sees matches his perception of the real barn, leading him to believe falsely that he sees a barn.  Because Henry’s belief thereby fails to satisfy Goldman’s discrimination requirement, Henry does not know that what he sees is a barn.
+Goldman’s discrimination theory makes reference to the notion of a relevant alternative, which is now a staple of epistemological theorizing.  Usually, when a theorist exploits the idea of relevant alternatives, it signals a commitment to fallibilism.  In many cases, an agent knows that p because she can distinguish the state of affairs where p is true from possibilities where p is false—she can “rule out” those other possibilities.  For example, S knows the cat is on the mat when she sees that it is, because if the cat were not on the mat she would see that it is not and would not believe that the cat is on the mat.  But S cannot and, on many relevant alternatives accounts, need not rule out all logical counter-possibilities, such as a scenario where S is a brain-in-a-vat (BIV), having her experiences “fed” to her by a mad scientist through electrodes connected to the brain, in which case all her beliefs about the external world would be false.  S knows (says the fallibilist) but she is not infallible.
+A full discussion of the myriad ways in which philosophers construe relevant alternatives is beyond the scope of this article.  On Goldman’s discrimination account, an alternative is relevant if it is a situation that occurs in a nearby possible world.  Though appeals to possible worlds are controversial—Which worlds are possible?  How do we know which are nearby and which are distant?—intuitively, a possible world where the cat is not on the mat but is on her bird-watching perch is closer to the actual world than one where S is a BIV having cat-on-the-mat images fed directly to her brain.  This may sound question-begging against the skeptic who insists that, for all S knows, the actual world could be one where S is a BIV, and so S cannot achieve any empirical knowledge because she cannot rule out that possibility.  However, it is uncontroversial that S knows that p only if p is true.  So when analyzing ‘S knows that p’—that is, when explicating the conditions in which ‘S knows that p’ is true—the actual world is one where p is true; where, for example, the cat is on the mat.  (More on the distinction between formulating necessary and sufficient conditions for ‘S knows that p’ and arguing that human agents in fact have knowledge, below.)  Given that it is true that the cat is on the mat, the possibility that the cat is on her perch is far closer to the actual world than the possibility that there are no cats, mats or perches and that S is just a BIV being fed such images.
+To this point, there has been little discussion of process reliabilism.  But the preceding description of Goldman’s early views is useful because it provides the background to his well-known reliabilist theory of justification.  In addition, when the previous discussion is coupled with the following section on reliabilism regarding justification, a broader picture of the basic theoretical commitments of process reliabilism emerges.  The following section looks first at process reliabilism (2a) and then, after canvassing some of its unresolved issues (2b), aims to unpack some of its basic theoretical commitments (2c).  Section 5 of this article discusses tracking theories, often seen as versions of reliabilism that are close in spirit to, and aim to eliminate the kind of epistemic luck revealed in, Goldman’s discrimination account.
+2. Process Reliabilist Theories of Justification and Knowledge
+Goldman’s process reliabilism is a descendant of his earlier causal and discrimination accounts of knowledge, but constitutes a major change of focus.  For one thing, neither of the earlier theories is explicitly intended as an account of epistemic justification, whereas providing such an account is a central project of Goldman’s process reliabilism.  For another, the requisite knowledge-constituting link between belief and truth, whether or not conceived of as a form of justification, is radically reconstrued.  The causal account asks whether the specific cause of a true belief is sufficient for knowledge.  The discrimination account asks whether there are relevant counterfactual situations in which the percept upon which the given true belief is based would lead S to form a false belief, in which case S does not know that p in the actual case.  Because both accounts focus on specific features of a particular belief , they are versions of local reliabilism.  Process reliabilism, by contrast, asks whether the general belief-forming process by which S formed the belief that p would produce a high ratio of true beliefs to false beliefs.  As with the causal and discrimination accounts, the central question is whether the belief at issue is reliably formed.  But here the answer is determined not by the belief’s unique causal ancestry, or by the nature of the specific percept upon which the belief is based, but by appeal to the truth-conduciveness of the general cognitive process by which it was formed.  This is sometimes called global reliabilism.  It should be noted, however, that Goldman gestures in the direction of process reliabilism, of a global account, in his discrimination paper when he says: “a cognitive mechanism or process is reliable if it not only produces true beliefs in actual situations, but would produce true beliefs…in relevant counterfactual situations” (1976, 771).
+a. Goldman’s “What Is Justified Belief?”
+Goldman proposed an account of process (or global) reliabilist justification in “What Is Justified Belief?” (1979). In the causal and discrimination accounts discussed above, Goldman demurred from describing the knowledge-constituting link between belief and truth as justification.  In summarizing  his discrimination theory, Goldman said, “If one wishes, one can so employ the term ‘justification’ [such] that belief causation of [the discriminatory] kind counts as justification.  In this sense, of course, my theory does require justification.  But this is entirely different from the sort of justification demanded by Cartesianism” (1979, 790).  At least since Descartes, philosophers have traditionally thought of justification internalistically, such that S’s belief is justified only if S is in a position to produce reasons or evidence to support her belief.  Goldman balked at the claim that he was offering a theory of justification because his theories do not require justification as traditionally conceived.  On the other hand, what one calls “justification” is a matter of debate, so it is not implausible to think of any theory aiming to explicate the knowledge-constituting link between truth and belief as a theory of justification.  If, however, one insists that the very idea of justification demands being in a position to offer grounds for belief, one will refrain from calling Goldman’s causal and discrimination accounts theories of justification.  That leaves open the possibility that one could accept some version of a causal or discrimination account of the belief-truth link as a theory of knowledge, and simply deny that knowledge requires justification.  (See Kornblith (2008).  Internalists about knowledge will still be unsatisfied, as they will demand that knowledge itself requires being in a position to offer grounds for belief.  An early and influential version of reliabilism about knowledge is David Armstrong’s Belief, Truth and Knowledge.)
+The main point of contention here revolves around how one understands the word “justification”.  The term connotes having good reasons or even the act of giving good reasons.  Thus it is not surprising that many philosophers would reject a theory of justification that did not require an agent at least to be able to give reasons for her belief.  But if one thinks of epistemic justification as whatever sufficiently ties an agent’s belief to the truth, externalist accounts like Goldman’s will count as theories of justification.  The debate about justification is why some reliabilists, local and/or global, eschew justification altogether, aiming to directly explicate “knowledge” as true belief with an appropriate link between belief and truth.  These are reliabilist theories of knowledge as opposed to accounts of justification.
+(The preceding discussion may seem to suggest that debates about justification are merely terminological, based solely on whether the term “justified” is applicable to a belief when the agent lacks cognitive access to the factors that tie her belief to the truth.  That is, perhaps, too simplistic.  See, for example, Bergmann’s Justification Without Awareness for an extended study and defense of externalism that directly engages internalist arguments and positions.)
+Goldman (1979) sets out to provide substantive conditions for when a belief is justified (hence this version is explicitly a reliabilist theory of justification as a necessary condition for knowledge).  Now, “justified” is both an epistemic and an evaluative term, and presumably evaluative because epistemic.  If knowledge is justified true belief, the only epistemic constituent of knowledge is justification.  Belief is a psychological notion, and truth is a metaphysical or semantic— at any rate not epistemic— concept.  In addition, the concepts of belief and truth are not evaluative—to believe that p is by itself neither good nor bad, and the truth by itself is neither good nor bad.  (One might think, though, that true belief (or having a true belief) is good.  But as we have seen, an agent can acquire a true belief in all kinds of bad ways—guessing, wishful thinking, hasty generalization, and the like.  There may of course be some instrumental value in having a true belief through some such means—it may help the agent achieve some end—but acquiring a true belief in some such deficient way warrants a negative appraisal of the agent’s belief.  In addition, even if it makes sense to say that true belief is good, it does not follow that truth  or belief  themselves are good; thus of the three constituents of knowledge, only ‘justification’ is by itself an evaluative term, and it is also the only epistemic one.)
+Why must a substantive (or illuminating) account of justification eschew epistemic-cum-evaluative terms?  Consider a couple rudimentary alternatives.  1) A belief that p is justified for an agent S if and only if S has good reasons to believe that p.  2) A belief that p is justified for an agent S if and only if S has solid evidence that p.  In both cases there is an obvious next question: Q1) What are good reasons?  Q2) What is solid evidence?  Because the notions of “good reasons” and “solid evidence” are similarly evaluative, they do not cast much light on the epistemic and evaluative concept of justification.  Goldman canvasses several possible theories of justification to show that, when construed as free of epistemic terms, they do not plausibly explicate the notion of justification, and when construed as containing epistemic terms, they leave open the central questions about justification, as seen in our two questions above.
+Goldman diagnoses the failure of putative theories or analyses of justification that are properly cashed out in non-epistemic terms.  Though he does not use this terminology (in this paper, but see Goldman (2008)), it will be helpful to introduce the distinct concepts of propositional and doxastic justification.  Suppose we have an analysis of justification which says that a belief that p is justified for S if and only if (some condition) x obtains.  We can then say that a proposition p is justified for S if and only if, whether or not S believes that p, x obtains.  Here, S may not believe that p but may be considering whether p.  Now suppose that S does believe that p.  Then, S is doxastically justified in believing that p if and only if p is propositionally justified for S and S believes that p because x obtains.  Suppose, for example, that Jones sees a blue jay in her back yard and is thus justified in believing there is a blue jay in the back yard.  The existence of a blue jay in the back yard entails that there is at least one animal in the back yard.  Whether or not Jones draws that inference, the proposition that there is at least one animal in the back yard is propositionally justified for Jones.  Now suppose Jones believes that there is at least one animal in the back yard.  Is that belief doxastically justified?  Not if Jones believes it because a notorious liar asserted it.  That there exists propositional justification for an agent does not entail that the agent is doxastically justified in believing the proposition.  Goldman’s insight is that doxastic justification requires that the belief has an appropriate cause, and he goes on to characterize “appropriate cause” as having been produced by a reliable belief-forming process— that is, a process that produces mostly true beliefs or a high ratio of true to false beliefs.  Guessing, wishful thinking, and hasty generalization are unreliable, whereas believing on the basis of a distinct memory, attentive viewing, or valid deduction is reliable.
+Philosophers sometimes use other terminology to draw a distinction similar to the one between propositional and doxastic justification.  Feldman and Conee (1985) distinguish justification from “well-foundedness”, where the latter requires not only that the agent have (propositional) justification, but also that the agent’s belief is based on that justification.  Others (for example, Moser (1989)) employ the notion of a basing relation to distinguish between an agent’s (merely) having a reason to believe and an agent’s believing because of that reason.  Knowledge requires doxastic justification, or well-founded belief, or belief based on reasons or formed on the basis of a reliable process.
+Goldman also distinguishes between basic beliefs and non-basic beliefs.  Basic beliefs are not justified by reference to other beliefs, whereas non-basic beliefs are so justified.  Basic beliefs are justified if and only if they result from (are causal outputs of) an unconditionally reliable process—a process none of whose inputs consist of other beliefs (perceptual beliefs are plausible candidates here).  Non-basic beliefs are justified if and only if they result from a belief-dependent process that is conditionally reliable— that is, a process whose inputs consist partially of other beliefs and which, given that the inputs are true, produces beliefs that are likely to be true.  Memory, which is based on previously formed beliefs, induction on a large and varied base, and deduction might be considered reliable belief-dependent processes.
+Because basic beliefs do not have other beliefs as sources of justification, they invite no regress of reasons or justification.  The traditional internalist who insists that justification requires that the agent be in a position to give reasons in support of her belief encounters trouble here.  Where does the justification end?  If an agent offers her belief that q in support of her belief that p, the obvious question is: Why believe that q?  If the answer is, “because r“, a potential regress threatens.  It may be infinite, and one might wonder whether an embodied human agent can make use of such an infinite chain to justify her beliefs, or whether such a regress is vicious.  (For a defense of infinitism, see Klein (1999).)  Alternatively, the chain of justification might go round in a circle, where no single belief is independently justified, which raises the concern that the circle is vicious.  Toy version: S believes that p on the basis of q, q on the basis of r, and r on the basis of p.  Third, all of one’s beliefs might be deemed justified because they properly cohere in the sense that they are interdependent and mutually supporting.  But one can have interdependent and mutually supporting beliefs all of which are false.  Whatever else justification is, we noted above that a common thread in epistemological discussions is that a justified belief is more likely to be true than one that is not justified, whereas coherence is compatible with one’s having all false beliefs.  The reliabilist externalist simply opts out of the requirement that reasons are reflectively accessible to the agent by identifying justified beliefs with those that are the outputs of reliable processes, whether or not the process itself includes other beliefs.  If it does not, then the process is belief-independent and the beliefs produced by it are basic.  Put differently, reliabilism makes plausible a form of structural foundationalism which stops the regress of justification, whereas it is difficult for the internalist to cite regress-stopping basic beliefs that are justified but not by other beliefs.
+BonJour (1985, chapter 2) presents a master argument against foundationalism in general, and then (chapter 4) presents a dilemma faced by internalist foundationalists who appeal to “the given” as foundational.  The latter goes something like this.  If the given, as what constitutes the justificatory foundation, itself has propositional content, then for that reason it may provide rational justification for the beliefs based on it, but then one wants to know how the foundation is justified, and the regress begins.  If, on the other hand, the given does not have propositional content, then it’s not the sort of thing that needs justification, but then how can it be a reason at all?  How can it justify other beliefs?  This dilemma is part of Bonjour’s larger argument against foundationalism in general, because he recognizes that one could avoid the dilemma faced by internalists by ‘going externalist’— that is, by not requiring that all beliefs must be supported by reflectively accessible reasons (by other justified beliefs) to be justified, so long as they are the result of a reliable process.  BonJour rejects this maneuver because he thinks the very ideas of knowledge and justification require reflectively accessible reasons.
+A feature of this account that Goldman himself touts is that process reliabilism is an historical theory.  Whereas traditional Cartesian justification and many other theories construe justification as a function of only current mental states of an agent, Goldman emphasizes the belief’s causal history.  An historical account is naturally coupled with externalism because on the traditional internalist theory of justification one’s reasons must be reflectively accessible at the time of belief.  If the latter requirement is rejected, it opens the possibility that a belief may be partly justified by past events in the causal chain leading to belief.  And if those justificatory factors were reflectively accessible at the time of belief, that they occurred in the past would be irrelevant.  Thus reflective accessibility (internalism) naturally pairs with what Goldman calls “current time-slice” theories, whereas externalism naturally pairs with an historical theory.
+When naturally coupled with externalism, an historical conception of justification makes intelligible some intuitive cases of knowledge that an internalist conception fails to capture. For example, suppose S read years ago about a certain fact in a reliable source.  S now recalls that fact, but cannot remember the source from which she obtained it.  S is not in a position to offer reasons for her belief— in response to a challenge about why she believes what she does, she may say, “I just do”—but, if her memory is reliable, then the belief might plausibly be considered justified.
+As mentioned briefly in §1, Goldman’s process reliabilism is not designed to handle some forms of epistemic luck, such as Gettier cases.  It is conceived, rather, as an alternative to (and improvement over) traditional theories of justification, and we saw above how a belief can be true and justified but not a case of knowledge because of luck.  Thus Goldman: “Justified beliefs…have appropriate causal histories; but they may fail to be knowledge either because they are false or because they founder on some other requirement for knowing of the kind discussed in the post-Gettier knowledge-trade” (1979, 15).
+In sum, Goldman proposes a theory of justification according to which a belief is doxastically justified for an agent S just in case S’s belief is formed from a reliable, that is truth-conducive, belief-independent process (for basic beliefs) or from a conditionally reliable belief-dependent process (for non-basic beliefs).  Further details need to be filled in, but on some of these issues Goldman offers suggestions but remains agnostic.
+b. Some Unresolved Issues
+First, what exactly does one mean by a process that is “truth-conducive” or “has a tendency to produce true belief”?  Does it mean that, in the long run, the process actually produces mostly true beliefs?  Or does it mean that it would produce mostly true beliefs if it were used?  For example, suppose that Jones, blind from birth, undergoes  new eye surgery that provides him with 20-20 vision.  He wakes up, sees a very realistic-looking  stuffed cat, hears a creature “meowing”  nearby, and forms the false belief that the stuffed cat is a real cat.  Deathly afraid of cats, he goes into cardiac arrest and dies.  He has formed one belief based on vision, but it is false.  Ought we to conclude that his vision is unreliable because it produced only false belief?  Presumably not, and so reliability should not be construed in terms of the actual outputs of a process.  Goldman sees this and says: “For the most part, we simply assume that the ‘observed’ frequency of truth versus error would be approximately replicated in the actual long-run, and also in relevant counterfactual situations, i.e. ones that are highly ‘realistic’, or conform closely to circumstances of the actual world” (1979, 11).  Is the suggestion, then, that we use observed frequency as a guide to what would happen in the long run, or in worlds similar to the actual world?  This won’t work in the case just described.  Or is the suggestion that we can dispense with observed frequency and think instead in terms of how the process would perform in the long run or in close possible worlds?  And if so, what is the basis of our understanding of how it would perform?  Reliabilists owe answers to these questions, but so far no one set of answers is generally accepted.
+Second, which are the worlds in which a process must be reliable to constitute justification?  Suppose there is a possible world where a benevolent demon arranges things such that beliefs based on wishful-thinking always turn out to be true.  Wishful-thinking would be truth-conducive, but we would hesitate to say that those beliefs are justified.  One way to repair this defect is to say that a belief in a possible world w is justified if and only if it is formed from a process that is reliable in the actual world.  But what if, unbeknownst to us, wishful-thinking is reliable in the actual world?  Goldman’s suggestion here is that what we seek is an explanation of why we deem some beliefs justified and others not, and what we deem justified depends not on actual facts about reliability but on what we believe about reliability.  So even if wishful-thinking were in fact reliable, because we do not believe it to be, it would not count as a basis for justification.
+It is worth pausing here to note a consequence of the distinction between reliabilist theories of justification and reliabilist theories of knowledge.  The consequence is not a logical one, but it appears real enough.  Goldman wants to improve upon the traditional notion of justification, and as a result he must take seriously basic judgments about when a belief is justified.  Because it seems counterintuitive to deem wishful-thinking a basis for justification (even in a benevolent demon world), Goldman suggests a shift from actual reliability to what we believe about reliability as the basis for justification.  But in so doing, the original novel insight that justification depends on facts, some historical, about reliability loses its grip.  If, on the other hand, a theorist were not concerned to elucidate “justification” in a reliabilist theory of knowledge, she would be less inclined to feel the pull of intuitions about justification.  She could say that knowledge is reliably formed true belief and leave it at that.  If some cases of knowledge lacked features typically associated with justification, so be it.
+Third, what is a process?  Fundamentally, it simply takes inputs (such as percepts or other beliefs) and yields belief outputs.  But how are processes individuated?  Is vision a process?  Vision in good lighting conditions might well be reliable, but vision in the dark is not.  The point is that processes can be individuated coarsely, such as a process by which beliefs are formed on the basis of vision, or finely, such as where beliefs are formed on the basis of vision in good lighting at close range, and so forth.  Such questions about process individuation must be settled in advance of answers to questions about justification.  This is, again, because process reliabilism is intended to be a substantive account of justification, such that whether a belief is justified is determined by whether the process is reliable.  Because processes can be individuated in myriad ways, one could always cite some suitably refined reliable process to answer to the antecedent judgment that a belief is justified.  But this gets things backwards, since the reliabilist wants to derive facts about justification from antecedent understanding of when a belief is reliably produced.  This is the heart of the generality problem for reliabilism, which will be discussed further in the following section.
+c. Some Theoretical Commitments of Reliabilism
+Having described both process reliabilism and its historical predecessors, some theoretical commitments common to both come to light.
+First, it was noted earlier (1a) that Goldman’s early appeal to relevant alternatives signals a commitment to fallibilism.  Process reliabilism is also fallibilist.  So long as a belief-forming process produces mostly true beliefs, it is a source of justification and knowledge that p, even if the process does not provide the agent with the ability to rule out all counter-possibilities where not-p.  On this view, a belief can be justified but false (which is generally accepted), and, more importantly, S can know that p even when S is susceptible to error because she cannot rule out all the possibilities in which not-p.
+Second, closely related to the commitment to fallibilism is a strategy to undermine the skeptic.  The skeptic says that, because S cannot rule out the possibility that she is a BIV (or is dreaming or is deceived by an evil demon), S cannot know even mundane truths about her environment, for example that the cat is on the mat.  But if it is correct that the BIV scenario is an irrelevant alternative, and that one need rule out only relevant alternatives to know that p, it follows that one can know ordinary empirical truths even though the skeptic may be right that one cannot know that one is not a BIV.
+Reliabilists need not be committed to the claim that one cannot know that radical skeptical hypotheses, like the BIV scenario, are false, and there are strong theoretical considerations for rejecting it.  Suppose S knows (on some or other reliable grounds) that the cat is on the mat.  Upon reflection, S will also know that if the cat is on the mat, then S is not a BIV (because, ex hypothesi, there are no real cats and mats in the BIV world).  And it would seem that S could easily know, by deduction from known premises, which is a paradigm reliable process, that she is not a BIV.  To claim that there are cases where S cannot achieve knowledge through valid logical deduction from known premises is to deny the principle that knowledge is closed under known entailment, which strikes many as preposterous.  And accepting the closure principle appears to imply either that we can know that radical skeptical hypotheses are false, which strikes many as intuitively incorrect, or that we know nothing about the external world, because if we did, we could logically infer that radical skeptical hypotheses are false.  This issue arises again in section 5 when the discussion turns to particular reliabilist tracking theories that explicitly deny closure.
+Third, it is important to understand that the reliabilist primarily aims to produce an account of the nature of knowledge, whereas it is a secondary objective to show that human agents in fact have knowledge.  The skeptical appeal to the BIV scenario is meant as the basis of an a priori argument that knowledge is impossible: S knows a priori that she cannot rule out the BIV possibility because any perceptual experience she could have is compatible with the BIV scenario, and the skeptic argues a priori that S therefore cannot even know that the cat is on the mat, because for all S knows she is a BIV.  Goldman’s causal and discrimination accounts and his subsequent process reliabilist theory counter the skeptic’s claim by saying that if, as a matter of fact, S’s belief that p is caused in the right way (or S can discriminate p from close counter-possibilities or S’s belief is formed from a reliable process), then S knows that p.  Surely any or all of these conditions might hold for S’s belief, and no a priori skeptical argument can demonstrate otherwise.  This is a significant advance against skepticism, because the skeptic must adopt the more defensive position of having to show that these conditions never hold, which is not something that can be proved a priori.  On the other hand, when the reliabilist goes further and tries to show that empirical knowledge is not only possible but actual, she needs to show that her favored conditions for knowledge in fact obtain, and that is a far more difficult task.  This also raises a concern about bootstrapping—where one uses some or other reliable process to infer that her belief-forming processes are in fact reliable—and this smacks of question-begging.  (See “the problem of easy knowledge,” section 3.)
+Fourth, and perhaps most importantly, reliabilism is typically construed as a paradigm version of epistemological externalism, which is the thesis that not all aspects of the knowledge-constituting link between belief and truth need be cognitively available to the agent.  (See Steup (2003) for a defense of the claim that any factors that justify belief or constitute the requisite link between belief and truth must be cognitively available to the agent, or “recognizable on reflection”.)  When the skeptic claims that S cannot know that p because, for all S knows, she might be a BIV, the externalist replies that, if in fact the relevant causal, discriminatory, or process reliabilist conditions obtain, whether or not the agent is able to recognize on reflection that they do, and in general whether or not facts about their obtaining are cognitively available to her, S knows that p.  Internalists are often seen as playing into the hands of the skeptic because the cognitively available factors that confer justification on one’s empirical beliefs, such as perceptual evidence, are compatible with the BIV scenario.  Because there are no further means cognitively available to rule out the BIV scenario, the skeptic’s claim that one cannot achieve even ordinary empirical knowledge appears to be more damaging to the internalist than to the externalist.
+The points about anti-skepticism and externalism can be brought out in another way.  Because internalists typically demand reflectively accessible reasons for justification, they encounter more difficulty in accounting for cases of unreflective knowledge in adults, and of the kind of knowledge had by unsophisticated or unreflective persons, or perhaps even animals.  A stock example is the chicken-sexer, a person who can reliably determine the sex of a young chick, but does not know how she does it.  If asked, “How do you know that one is male?” the chicken-sexer can offer no reasons.  Still, for many it is quite plausible to say that the chicken-sexer knows the sex of the chick simply because, somehow, she is very successful in distinguishing males from females.  The point generalizes.  Many true beliefs held by very young people, who are less reflective than adults, and basic perceptually based beliefs even in adults, plausibly count as cases of knowledge because the processes from which those beliefs are formed allow the believer to distinguish what is true (for example, that the chick is male) from what is false (that the chick is female).  The externalist can account for these more easily than the internalist can, and such cases suggest that both the skeptic and the internalist may be setting the bar for knowledge too high.  For fuller discussion, see “Grandma, Timmy, and Lassie.”
+Finally, it is worthwhile to note further theoretical inspirations for process reliabilism.  One inspiration is epistemological naturalism— very roughly, the view that finding answers to epistemological questions requires more than just armchair inquiry, but also empirical investigation.  Some naturalists, for instance Quine (1969), will find this characterization too weak-kneed, arguing that armchair epistemological inquiry should be replaced by scientific investigation into what actually produces true beliefs.  Present purposes allow us to construe naturalism more broadly, because the crucial idea is that science can inform philosophy, which undermines the “traditional” idea of philosophy as providing the foundation of science.  (“Traditional” is in scare quotes because the history of philosophy prior to the twentieth century shows that the relationship between philosophy and science has not always been conceived of as that between foundation and superstructure.)  In particular, reliabilists look to cognitive science to understand the nature of our belief-forming processes and to tell us which among them are reliable.  Goldman himself is a leading figure in naturalistic epistemology, and has held joint appointments in philosophy and cognitive science.  Reliabilism intimately connects what previously were considered two distinct inquiries—the nature of cognition and the nature of knowledge.
+3. Objections and Replies
+a. Reliably Formed True Belief Is Insufficient for Justification
+Perhaps the most basic objection to reliabilism is that reliably formed belief is not sufficient for justification.  Laurence BonJour (1980) has famously argued this point by way of counterexample.  Suppose S is reliably clairvoyant but has reason to believe there is no such thing as clairvoyance.  Still, on the basis of her clairvoyant powers, she believes truly that the President is in New York City.  Bonjour argues that S’s belief is not justified because S is being irrational—believing on the basis of a power she believes not to exist.  Goldman (1979) “replies” to this sort of problem (though Goldman’s paper came first) by tweaking his account of reliability.  For S’s belief that p to be justified, not only must it be produced by a reliable process, but there must be no other reliable process available to S such that, had S used that process, S would not believe that p.  Suppose S has scientific evidence that clairvoyance does not exist, scientific evidence typically being a reliable source of knowledge.  Had S based her belief on that evidence, it would override her clairvoyance-based belief, hence she would not believe that the President is in New York, supporting the conclusion that her actual belief is not in fact justified.
+But what if, BonJour asks, S has no evidence in support of or against the existence of clairvoyance?  Then, there would be no other reliable process available to her such that, had her belief been based on it, she would not believe what she does.  In that case, S seems to believe blindly where, unlike typical perceptually based beliefs, she has no reason to think her clairvoyant powers are real.  A similar case is provided by Keith Lehrer (1990).  Mr. Truetemp has had a device implanted in his head, a “tempucomp”, which is an accurate thermometer “hooked up” to his brain in such a way that he automatically forms true beliefs about the ambient temperature but does not know anything about the thermometer.  Imagine that it was implanted while he was in the hospital for some other procedure.  Truetemp has reliably formed beliefs about the temperature, but does he know the temperature?  Here again, he appears to believe blindly, which seems irrational, hence unjustified.  A thoroughgoing externalist about knowledge may be willing to bite this bullet and say that S knows that the President is in New York (and that Truetemp knows the temperature), citing the reliability of the basis of the belief.  An externalist about justification might also bite this bullet and say that S’s belief is justified, but this seems to some a bit harder to swallow, since blind belief appears to undermine justification.
+In Epistemology and Cognition (Goldman, 1986), Goldman suggested that a belief is justified if and only if it is reliable in normal worlds.  Normal worlds are those that are consistent with our most “general beliefs about the sorts of objects, events, and changes that occur in” the actual world (Goldman 1986, 107).  The suggestion addresses the benevolent demon and clairvoyance objections, and perhaps too the Truetemp objection, because none of those scenarios is consistent with our general beliefs about the actual world (though this is less clear for the Truetemp case).  Thus on the normal worlds approach, beliefs based on help from the demon, on clairvoyance, and on a thermometer implanted in one’s head “feeding” temperature data directly into one’s cognition would not count as genuinely reliable, and so are not justified.
+As an account of when we would deem a belief justified, the normal worlds approach is promising, but one might wonder whether it is a plausible account of when one is actually justified.  After all, if our general beliefs about the actual world are not themselves justified, it would seem that beliefs formed against that backdrop are unjustified.  (See Pollock and Cruz (1999).)
+Sensitive to this kind of objection, Goldman proposed yet another version of process reliabilism in his “Strong and Weak Justification” (Goldman, 1988).  The basic idea is that a belief is strongly justified when formed from a process that is actually reliable, but weakly justified when formed by a process that is deemed reliable (say, by one’s community). As we have seen, the two kinds of justification can come apart.  Imagine a community where astrology is deemed reliable and where an agent has no reason to believe that his community’s beliefs about which processes typically yield true beliefs are false or misguided.  Because the agent’s beliefs are blameless—she would not be faulted by her community peers for forming her astrology-based beliefs—there is a sense in which her beliefs are justified.  This is weak justification and is a plausible basis for when justification is properly attributed to an agent’s belief or believing.  But because astrology is not in fact reliable, she is not strongly justified.  On the other hand, reliably formed beliefs in the benevolent demon world, and beliefs formed from clairvoyance or from a tempucomp implanted in one’s head, are strongly justified.  However, because our community does not recognize such processes as actually reliable (or existent), such beliefs are not weakly justified.  In addition, one could view weak justification as an account of when it is proper to attribute justification, and strong justification as an account of when one is actually justified.  (Or, one could say that a belief is fully justified only if it is both strongly and weakly justified.)
+Goldman subsequently offers another theory of justification attribution in “Epistemic Folkways and Scientific Epistemology” (Goldman, 1992), which proceeds in two stages.  In the first stage, an agent constructs a mental list based on her community’s beliefs about which processes are reliable.  Processes deemed reliable are thought of as virtuous, others as vicious.  In the second stage, the agent attributes justification only if a belief is virtuously formed— that is, formed according to whether the belief-forming process is on her list of virtues.  Most of us do not have clairvoyance or benevolent-helper-demon processes on our list of virtues, which explains why we do not attribute justification to beliefs formed on those bases.  Analogous to Goldman’s earlier strong and weak distinction, here a belief is deemed justified only if formed from a process that appears on one’s list of virtues, but is actually justified only if formed from a process that is in fact reliable.  This discussion of the non-sufficiency objection to reliabilism reveals how accounting for de facto reliability and believed reliability make different demands on the theorist, requiring her to distinguish actual world reliable processes from processes that may not actually be reliable, but because they answer to our basic beliefs about what is reliable, they form the basis of our practices of attributing justification.
+b. Reliably Formed True Belief Is Not Necessary for Justification
+A second objection to reliabilism holds that reliably formed belief is not even necessary for justification.  Suppose there is a world where an evil demon furnishes people with false perceptions, such that their senses are unreliable bases of belief (Cohen, 1984; sometimes called ‘the New Evil Demon problem’).  In the actual world, many of our beliefs are justified on the basis of perception, and in the evil demon world, people’s perceptions are just like ours.  It would seem to follow that their beliefs are justified to the same extent as ours, in which case reliability is not necessary for justification.  Here again one can see the pressure exerted on reliabilist attempts to capture the intuitive notion of justification within an externalist framework.
+Though the first and second objections to reliabilism are clearly distinct, the former challenging the sufficiency of reliably formed belief for justification, the latter the necessity of reliably formed belief, one or another of the strategies countenanced above to reply to the sufficiency objection may also help here.  Once one distinguishes the grounds for how we attribute justification from the grounds for when a belief is actually justified—believed reliability from factual reliability—one could say that in the new evil demon world, attributions of justification are appropriate because perception is believed to be reliable.  Goldman’s distinction between strong and weak justification can help here, as can his proposal in “Epistemic Folkways,” and perhaps even the normal worlds approach, because even in the demon world, we attribute justification to perceptually grounded beliefs because it is consistent with our general beliefs about that world.
+c. The Problem of Easy Knowledge
+A third problem which has stimulated much recent discussion charges reliabilism with illicit bootstrapping (or circularity), allowing knowledge (and justification) to be achieved too easily—the “problem of easy knowledge”.  (See, for example, Jonathan Vogel (2000) and Stewart Cohen (2002).)  Cohen is explicit that the concern about “easy knowledge” reaches beyond reliabilism; in fact, in the paper cited, he presents it as a worry for evidentialism as well.  Because the problem arises, according to Cohen, for any view with a basic knowledge structure—that is, in Cohen’s usage, any view which denies that one must know that one’s source of belief is reliable in order to obtain knowledge from that source—it is unclear to what extent reliabilism in particular is threatened by it.  (Cohen’s overall strategy is to force a dilemma: If one denies basic knowledge, insisting that a belief source must be known to be reliable in order for one to achieve knowledge from that source, skepticism becomes a threat.  This motivates a consideration of basic knowledge, which leads to the problem of easy knowledge.)
+Cohen presents two versions of the problem.  One begins with the closure principle—that if S knows that p and S knows that p entails q, then S is in a position to know that q, via competent deduction from what she knows.  If a theorist makes space for basic knowledge, here’s an illustration of the problem.  S knows that the table is red on the (reliable) basis of its looking red and without having certified that what looks red usually is red—again, we begin with basic knowledge.  But S also knows that if the table is red, then it is not merely white and illuminated by red light, creating the red appearance, and by closure S knows the latter.  And if S knows that, it’s a short step from there to concluding that visual appearances are reliable indicators of the truth.  So from basic knowledge that does not require knowledge of the reliability of its source, we somehow obtain knowledge of the reliability of the source.  Could it really be that easy?  (No, it would seem.)
+Here is Cohen’s other version, which echoes presentations of the problem by Vogel (2000) and Richard Fumerton (1995):
+Suppose I have reliable color vision. Then I can come to know e.g. that the table is red, even though I do not know that my color vision is reliable. But then I can note that my belief that the table is red was produced by my color vision.  Combining this knowledge with my knowledge that the table is red, I can infer that in this instance, my color vision worked correctly.  By repeating this process enough times, I would seem to be able to amass considerable evidence that my color vision is reliable, enough for me to come to know my color vision is reliable (316).
+This smacks of illicit bootstrapping because one’s only grounds for concluding that one’s color vision is reliable are basic beliefs that, while by hypothesis de facto reliable, were never certified as such.  See Cohen’s paper and Peter Markie (2005) for two proposed solutions that incorporate basic knowledge.
+d. The Value Problem for Reliabilism
+A fourth problem for reliabilism has also received a lot of attention recently, namely, the value problem for reliabilism.  What the many forms of reliabilism have in common, as noted at the outset, is a concern to explicate the way in which knowledge and/or justification requires that beliefs are formed on a truth-conducive basis, highlighting the crucial link between belief and truth that constitutes knowledge.  The value problem begins with the thought, expressed in Plato’s Meno, that knowledge, whatever it is, is surely more valuable than mere true belief.  But given reliabilism’s exclusive focus on truth-conduciveness, it seems hard-pressed to explain why knowledge is more valuable than true belief.  After all, if one has a true belief, one already has what matters to the reliabilist, so how could it matter whether the belief is reliably formed?  How could that add any value?  Linda Zagzebski (2003) offers the following analogy.  If what you care about is a good cup of espresso (/truth), it does not matter to you, once you have it, whether it was made from a reliable espresso maker (/belief forming process) or not.  A good cup of espresso is not made better by having been reliably produced.
+Here again, this problem plausibly extends to any theory of justification (or knowledge) where the crucial knowledge-constituting link between truth and belief is cast in truth-conducivist terms.  Zagzebski (2003, 16) argues this point, citing BonJour’s (1985) claim that “the basic role of justification is that of a means to truth.”  It is important here not to be misled by adjectives that indicate a positive evaluation of belief, like ‘justified’ and ‘reliable’ (or ‘reliably formed’).  One might easily think that being justified is a good thing, hence that a justified true belief is better than a mere true belief—a quick “solution” to the value problem.  But if justification is understood primarily as a means to truth, the implication is that truth is the source of value, and we’re back to the value problem: once an agent has true belief, she has what is valuable, so who cares how she got it?  So again, it’s not clear whether the reliabilist in particular needs a response.  That said, the reliabilist is not without resources.  Wayne Riggs (2002), although not a reliabilist, has argued that the added value of reliably formed belief might accrue to the agent insofar as it was to the agent’s credit that she formed a true belief.  When one achieves true belief unreliably, perhaps merely luckily, no such credit accrues to the agent.  A similar approach is to focus on the agent directly (as opposed to indirectly, through her reliable processes).  Roughly, when an agent forms true beliefs on the basis of good epistemic character traits or virtues, she is due credit, which explains the extra “goodness” accruing to knowledge over mere true belief.  This sort of position will be discussed further in section 4, below.
+e. The Generality Problem
+The final objection to reliabilism discussed herein—the previously mentioned generality problem—is especially thorny because it appears to imply that, even if it is conceded that reliability could be a plausible basis for justification and knowledge, the reliabilist project cannot succeed even on its own terms.  One begins to see the generality problem by noticing that every belief token is formed from a process that instantiates many types of process, and then wondering which process type is relevant to assessing reliability.  After all, on one way of individuating the relevant process, it may be truth-conducive (/reliable), whereas on another, it may not be truth-conducive (/may not be reliable).  “For example, the process token leading to my current belief that it is sunny today is an instance of all the following types: the perceptual process, the visual process, processes that occur on Wednesday, processes that lead to true beliefs, etc.  Note that these process types are not equally reliable.  Obviously, then, one of these types must be the one whose reliability is relevant to the assessment of my belief” (Feldman 1985, 159-60).  If the question about process type individuation cannot be answered independently of our basic judgments about when a belief is justified, reliabilism will not be a substantive, informative theory of justified belief.  (See also Conee and Feldman, 1998.)
+Another way to understand the difficulty of the problem is to present it as a dilemma.  If processes are individuated too narrowly, the process will be applicable to only one instance of belief formation.  But then the reliability of the process will be determined simply by whether the one belief in question is true (because its truth ratio will be either horrible or impeccable), which is implausible.  If processes are individuated too widely, then every belief formed from the process will be deemed either reliable or unreliable, depending on the truth-conduciveness of that process, whereas, intuitively, some of those beliefs will be justified and others not.  Feldman dubs the former horn of the dilemma “the single case problem,” and the latter horn “the no-distinction problem” (Feldman 1985, 161).  A solution to the generality problem, then, requires a principled means of individuating processes that steers between the single case and the no-distinction problems, and which also plausibly answers to judgments about justification.
+The generality problem has spawned a lot of philosophical work, and as of now it’s fair to say that there is no widely accepted solution to it.  Conee and Feldman (1998) provide a nice survey and critique of possible solutions, finding them wanting.  Since then a variety of new solutions have been proposed.  Mark Heller (1996) argues that the context of evaluation partly determines whether a process is rightly deemed reliable, hence that context is useful for individuating process types.  Juan Comesaña (2006) argues that any theory of justification needs to incorporate an account of the basing relation.  Recall the distinction between propositional and doxastic justification (from section 2).  Doxastic justification demands not only that one has adequate grounds for belief, or (for the reliabilist) not only that one possesses a process that would be reliable if used, but that the belief is actually based on those grounds or that reliable process. Comesaña argues that an adequate account of the basing relation can solve the generality problem, and because everyone owes an account of the basing relation, the reliabilist is in no worse shape than anyone else.  If that’s right, then perhaps the generality problem, like the bootstrapping and value problems, is not unique to reliabilism after all.
+James Beebe (2004) proposes a two-stage approach to solving the generality problem.  The first stage narrows the field of relevant process types, including only those that: (i) solve the same type of information-processing problem as the token process at issue; (ii) use the same information-processing procedure; and (iii) share the same cognitive architecture.  Beebe notes that this still leaves a range of possible process types.  At the second stage, then, Beebe argues that we can further define the relevant process by partitioning the remaining candidate processes, concluding that “the relevant process type for any process token t is the subclass of [the candidates remaining from stage one] which is the broadest objectively homogeneous subclass of [the candidates] within which t falls.  A subclass S is objectively homogeneous if there are no statistically relevant partitions of S that can be effected” (Beebe 2004, 181).
+Finally, Kelly Becker (2008) approaches the problem from the perspective of epistemic luck, and argues that an anti-luck epistemology requires both local and global (or process) reliability conditions.  Satisfying the local condition ensures that the truth of the acquired belief will not be due merely to some coincidental but fortuitous feature of the specific, actual circumstances in which the belief is formed.  (More on “local” reliabilism in section 5.)  The suggestion is that the local condition eliminates luck accruing to specific instances—single cases—of belief formation.  We are then free to characterize the relevant global process very narrowly, including in its description any and all features of the process that are causally operative in producing belief, short of implicating the specific content of the belief in the description.  We thereby avoid the no-distinction problem, given the specificity of the process description, and the single-case problem, since the process is repeatable, given that it is applicable to beliefs with contents other than the specific content of the target belief.
+4. Proper Function and Agent and Virtue Reliabilism
+There are relatives of process reliabilism that deserve mention in this article.  This section includes a discussion of global alternatives to process reliabilism, and the following section discusses local alternatives.  Because the central topic of this article is process reliabilism, these final two sections will be rather brief.
+a. Plantinga’s Proper Function Account
+Alvin Plantinga (1993) argues that not just any de facto reliable process provides a basis for justified belief.  For example, suppose S has a brain lesion that causes her to believe that she has a brain lesion, but she has no other evidence for that belief (and perhaps has some evidence against it).  Is her belief that she has a brain lesion warranted?  Plantinga thinks not, and concludes that a belief is warranted, hence constitutes knowledge, only if formed from a properly functioning cognitive process or faculty.  Because it is natural to suppose that the brain lesion case involves an improperly functioning process, one can conclude that S’s belief is unwarranted.
+John Greco (2003) cites cases from Oliver Sacks that suggest that the proper function requirement is too strong.  One is the case of autistic twins with extraordinary mathematical abilities, another of “a man whose illness resulted in an increase in detail and vividness concerning childhood memory” (Greco 2003, 357).  If one wants to say that these are not improperly functioning faculties, then one might say the same about the brain lesion.  More plausibly, one would say that, like the brain lesion case, there is a reliable but improperly functioning process at work.  And because it is intuitively arbitrary, or just wrong, to say that the autistic twins are not warranted (or justified) in their mathematical beliefs, and that the man’s illness induced abilities cannot be the basis of warranted belief, it follows that the proper functioning of one’s cognitive processes is not required for warrant (/justification) and knowledge.
+b. Agent and Virtue Reliabilism
+Greco concludes that what really matters is whether belief is formed from a stable character trait, and this brings us to agent reliabilism.  One crucial insight here is that a true belief constitutes knowledge only if having achieved that true belief can be credited  to the agent.  This helps to eliminate the possibility that mere luck is responsible for one’s true belief, and it discounts very strange and fleeting processes as a basis for knowledgeable beliefs because they are not stable.  The brain lesion case might be such a fleeting process, if we imagine that there are lots of nearby worlds where it fails to produce true beliefs, whereas the Oliver Sacks cases involves processes that are not so susceptible to failure.
+Ernest Sosa’s virtue reliabilism (1991 and 2007) bears an important similarity to Greco’s agent reliabilism.  The basis idea is that one knows that p only if one’s belief that p is formed from an epistemic virtue that reliably produces true belief.  S’s belief that p can be true but not based on an epistemic virtue, just as someone with little skill can sometimes make a shot in basketball.  S’s belief can be true and based on an epistemic virtue but not a case of knowledge because S does not achieve true belief because it was based on the epistemic virtue, just as a skilled shooter can make a basket even when the ball is partially blocked by a defender.  The shot is skillful—it demonstrates his basketball virtue—but it went in the basket because the trajectory was altered.  Finally, S’s belief that p can be true, based on an epistemic virtue, and true because based on that virtue.  Only then is the true belief a case of knowledge.  It is not just a matter of luck, as it is in the cases of the unskilled shooter and the skilled shooter whose shot is blocked.
+With these distinctions in place, Sosa then distinguishes animal knowledge and reflective knowledge such that, roughly, animal knowledge is based on an epistemic virtue (say, on vision) and is thus reliably produced and non-accidental, whereas reflective knowledge is animal knowledge plus an understanding of how the bit of animal knowledge at issue came about.  That is, reflective knowledge requires metabeliefs about, among other things, how one’s target object-level belief was produced and how it coheres with one’s other object-level beliefs.  One potential problem here—and pretty much anywhere that meta-belief is introduced as a necessary condition—is the threat of regress.  If meta-belief is required to certify an instance of reflective knowledge, then what certifies that meta-belief?  A meta-meta-belief?  And if that question-and-answer is proper, then what principle can be presented to stop the question from being asked anew?  That is, what prevents us from rightly asking about the meta-meta-belief?
+If we think of Greco’s stable character traits as epistemic virtues, then Greco’s and Sosa’s positions are both virtue epistemologies—they both say that knowledge is true belief formed from epistemically virtuous processes or faculties, and that it is to the agent’s credit that she has achieved true belief.  Virtue or agent reliabilism is also touted as the basis of a solution to the value problem for reliabilism, discussed above.  The idea is that knowledge is more valuable than true belief, but the added value is not in the belief itself, but “in” the agent, insofar as she deserves credit for her true belief.
+5. Tracking and Anti-Luck Theories
+This final section discusses local versions of reliabilism, whose aim is to develop an account of knowledge that eliminates knowledge-precluding epistemic luck.  Instead of focusing on the reliability of general processes with a view toward explicating justification, they focus on the specific belief at issue, together with the token method by which the belief is formed, and ask, “Though the belief is true, might it have easily been false?”  If “yes,” this is an indication that the belief is true partly by luck, and is thus not an instance of knowledge.  If the answer is “no,” then the belief, given the method by which it was formed, tracks the truth, is therefore not merely lucky, and is a case of knowledge.  Because the theories discussed in this section share process reliabilism’s commitments to externalism and fallibilism, and because these theories aim to explicate how knowledge requires more than an accidental connection between belief and truth—it requires a reliable link—they belong in the reliabilist family.
+a. Sensitivity
+Perhaps the most well-known, widely discussed, but also widely criticized tracking theory is Robert Nozick’s (1981) sensitivity theory.  Nozick presents two tracking conditions necessary for knowledge, both modalized— that is, both appealing to considerations about what would be the case in nearby possible worlds.  He calls the combination of the two conditions “sensitivity”.
+The first condition is variance: S knows that p only if, were p false, S would not believe that p. For example, suppose Smith believes truly that the cat is on the mat, but the method by which she forms the belief is tea-leaf reading.  On the plausible assumption that this method is not a good means to form true belief, if it were false that the cat is on the mat, Smith would believe it anyway, using her method.  She is just lucky to have actually achieved true belief, and thus does not know.
+Second, adherence: S knows that p only if, were p true, S would believe that p.
+Suppose Jones believes truly that today is Friday, but her method is to believe that it is Friday whenever Johnson wears a green shirt.  If Johnson had shown up wearing a red shirt on a Friday, Jones would believe that it is not Friday, violating the adherence condition.  Jones would have a lucky true belief, which is not a case of knowledge.
+Somehow over the intervening three decades since Nozick’s book was published, the term “sensitivity” has come to apply just to the variance condition, which is arguably the most interesting and crucial of the two because it clearly establishes a discrimination requirement for knowledge—one knows that p only if one can discriminate the actual world where p is true from various close worlds where p is false.  (See also Dretske (1971) and Goldman (1976) for versions of a discrimination requirement that anticipate Nozick’s sensitivity.)  The ensuing discussion focuses on variance, which will be referred to as “sensitivity”.
+Sensitivity has faced numerous problems in the literature.  First, it appears to violate the very plausible principle that knowledge is closed under known entailment—that if S knows that p, and S knows that p entails q, then S is at least in a position to know that q (and would know that q if she deduced it from what she knows).  For example, suppose that S knows she is typing at her computer.  If it were false, she would not believe it based on her actual method of forming belief, which involves, say, at least vision, because she would be doing something else and would see that she’s not typing.  S knows, too, that if she is typing at her computer, then she is not a BIV.  Among other things, BIVs don’t have hands, so they cannot type.  It would seem that, by closure, S could simply deduce that she’s not a BIV.  But that belief is insensitive—by hypothesis, if S were a BIV, she would not believe that she is, because she would have exactly the same experiences she does in the actual world.  Closure failure. Tim Black (2002) argues for a version of Nozickean sensitivity that construes the methods by which one forms belief externalistically, thereby showing how sensitivity-based knowledge that one is not a BIV is possible, thus restoring closure. The basic idea is that one can know one is not a BIV because, in a BIV world, one’s method would be different than the method one uses in the actual world; in particular, BIV world beliefs are not really perceptual (because BIVs don’t have the normal sensory apparatus). Thus one’s actual perceptual method (on this construal of methods) would not lead one to believe, in a BIV world, that one is not a BIV. Some other method would or might do this, but not the actual method.
+Second and third, it has been argued that sensitivity is incompatible with higher-level knowledge (Vogel, 2000)—knowledge that one knows—and with inductive knowledge (Vogel 2000; Sosa 1999).  Suppose that S knows that p.  Does she know that she knows that p, or even that she has a true belief that p?  Of course, many philosophers reject the thesis that knowledge requires knowing that one knows, but the objection is that sensitivity is incompatible with ever knowing that one knows.  Why?  Because if it were false that one knows that p, one would still believe that one knows that p.  (See Vogel for a precisely rendered version of this argument.  See Becker (2006a) for a counterargument meant to show how sensitivity is compatible with higher-level knowledge.)  Sensitivity is claimed to be incompatible with inductive knowledge because when one’s true belief is formed from reliable induction, there are nearby worlds where one’s inductive base is the same and so one forms the same belief, but the belief is false.  Sosa’s trash chute case is a widely cited example.  As I often do, I go to the trash chute to dump some garbage and believe that it will fall to the basement.  But if it were false that it will fall, I would still believe that it will fall.  Sosa argues that his preferred safety condition, the second of the two tracking conditions to be discussed herein, can handle inductive knowledge better than sensitivity.
+A fourth problem for sensitivity is based on Timothy Williamson’s (2000) margins-for-error considerations.  Suppose Jones is six-foot-ten, and Smith believes that Jones is at least six feet tall.  If Jones were only five-foot-eleven-and-a-half inches tall, Smith might very well believe that Jones is at least six feet tall.  Smith is a decent judge of height, but not perfect.  Sensitivity is violated even though, intuitively, surely Smith knows that [the six-foot-ten] Jones is at least six feet tall.  The problem is that knowledge (or knowledgeable belief) requires a margin for error, and the sensitivity condition fails to account for this.  Williamson argues that the need for an error margin motivates a safety condition on knowledge.  Becker (2009) argues that, on a Nozickean construal of the methods by which one forms belief, Williamson’s counterexamples can be defanged.  The idea, applied to the present case, is to distinguish the method that Smith actually uses in coming to believe that Jones is at least six feet tall from the method that Smith would use in believing that Jones is at least six feet tall if Jones were only five-foot-eleven-and-a-half.  If the methods are distinct, then one can say that Smith would not believe, using her actual method, that Jones is at least six feet tall in the closest worlds where this is false, hence Smith actually knows that Jones is at least six feet tall.  And if the methods were not distinguishable, one might rightly argue that Smith is simply a terrible judge of height and does not know that Jones is at least six feet tall in the actual case.
+b. Safety
+There is another anti-luck condition receiving a lot of recent attention, and it was designed in large part as a response to the problems with sensitivity.  It is called “safety”, and, like sensitivity, is sometimes cast in subjunctive terms, but often given a possible worlds construal.  Safety says that S knows that p only if, were S to believe that p, p would be true.  Alternatively put, S knows that p only if, in many, most, nearly all, or all nearby worlds (depending on the strength of the principle endorsed by the particular theorist) where S believes that p, p is true.  The anti-luck intuition at the heart of safety is that S knows that p only if S’s belief could not easily have been false.  That safety requires true belief throughout nearby worlds ensures this result.
+Notice that safety sounds, on first hearing, like the contrapositive of sensitivity.  (“If S were to believe that p, p would be true” versus “If p were false, S would not believe that p.”)  It is important to see that subjunctive conditionals do not contrapose, else the principles would be equivalent.  The difference can be illustrated by means of an example, which also serves to demonstrate one of the major advantages claimed for safety over sensitivity.  Take the proposition I am not a BIV (where “I” refers to the agent, S).  If that were false, by hypothesis, S would believe that it is true anyway, and therefore, according to the sensitivity principle, S does not know that she is not a BIV.  But in all the nearby worlds were S believes that she is not a BIV, it is true (assuming, of course, that the actual world is rather like we believe it to be).  So safety is compatible with knowledge that radical skeptical hypotheses are false, and in turn safety upholds the closure principle.  For example, S knows—has a safe belief—that she is typing at her computer, that this entails that she is not a BIV, and also that she is not a BIV.  Safety, then, promises a Moorean response to the skeptic, thereby achieving a stronger anti-skeptical result than sensitivity, and is not committed to obvious closure violations.
+Sosa (1999) explains how safety overcomes the higher-level knowledge and inductive knowledge objections to sensitivity.  Suppose S knows that p.  Is safety compatible with S’s knowing that she knows that p?  Because her belief that p is safe, p is true in the nearby worlds where she believes that p.  Then, S’s belief that her belief that p is also safe, because the first-level belief is true throughout nearby worlds, and in those worlds, S believes that her first-level belief is true.  That is, S’s belief that q—her belief that p is true—is true throughout nearby worlds, because her belief that p is true is itself true throughout nearby worlds.
+Safety also appears to be compatible with inductive knowledge.  In the previously mentioned trash chute case, S’s belief is safe because, in most nearby worlds where S believes that the garbage will fall to the basement, it is true.  John Greco (2003) questions this result by juxtaposing two cases.  In order to reconcile safety with inductive knowledge, the principle needs a somewhat weak reading: S’s belief is safe if and only if it is true throughout most nearby worlds.  On the other hand, in order to account for the intuition that one does not know that one’s lottery ticket will lose, safety requires a stronger formulation: S’s belief is safe if and only if it is true throughout all nearby worlds.  Why?  Because given the incredible odds against winning the lottery, say, 1 in 10 million, there are extremely few nearby worlds where one wins.  If we carry the strong reading over to the trash chute case, then it would seem that S’s belief is not safe.  After all, there are many nearby possible worlds where, for whatever reason, the bag does not fall to the basement.  Presumably, S would believe that the bag will fall anyway, and therefore her belief violates safety.
+Duncan Pritchard (2005, chapter 6) argues that this conflict is illusory, and that paying close attention to the details of the cases described can resolve it.  “As Sosa describes [the trash chute case], there clearly isn’t meant to be a nearby possible world where the bag snags on the way down” (Pritchard 2005, 164).  Thus even the strengthened version of safety is claimed to be compatible with inductive knowledge in the trash chute case.  On the other hand, if there are nearby worlds where the bag gets snagged, then safety is violated, but in that case, perhaps it is correct to say that S does not knows that the bag will drop.
+It is worth noting, too, that Pritchard’s path to endorsing the safety principle begins with his general characterization of luck, the central element of which is this: “If an event is lucky, then it is an event that occurs in the actual world but which does not occur in a wide class of the nearest possible worlds where the relevant initial conditions for that event are the same as in the actual world” (Pritchard 2005, 128).  Knowledge-precluding epistemic luck, then, occurs where one’s belief is true, but there are nearby worlds where her belief, formed in the same way as in the actual world, is false.  Thus Pritchard has a more general, independent motivation for safety than just a desire to overcome problems with sensitivity.
+Timothy Williamson (2000) has also advocated safety.  One crucial consideration in his work is that knowledge, as we saw above in the discussion of sensitivity, requires a margin for error.  He argues that sensitivity does not always respect those margins.  (Recall the case of Smith’s belief that Jones [who is six-foot-ten] is at least six feet tall—if Jones were five-eleven-and-a-half, Smith (by hypothesis) would believe falsely that Jones is at least six feet tall, even though Jones knows in the actual case.)  Safety is designed with the need for an error margin in mind, precisely because it requires that S’s belief is true throughout nearby worlds.
+One of safety’s central positive features also constitutes a potential problem for it—that it grounds the Moorean strategy for defeating the skeptic and thereby upholds closure.  For many philosophers, it is very difficult to see how a person could know she is not a BIV.  Putting the point in a way that perhaps sounds question-begging in favor of sensitivity, one might say that S simply cannot know that radical skeptical hypotheses are false because she would believe, for example, that she is not a BIV even if she were one—she simply cannot tell the difference between BIV worlds and normal worlds.  Whether one deems this a serious problem depends on whether one believes that knowledge always requires a capacity to discriminate worlds where p is true from worlds where p is false.  If one is not moved by any such discrimination requirement, one will not be moved by this objection.
+See Becker (2006b) for a criticism of safety that does not hinge on discrimination per se, but which shows how safety is compatible with knowledge-precluding luck when a safe belief is formed by an unreliable belief forming process.  Sosa (2000, note 10) seems to have anticipated a similar concern: “what is required for a belief to be safe is not just that it would be held only if true, but rather that it be held on a reliable indication,” whereas Becker’s examples hinge on unreliably formed belief.  Whether the reliability requirement ought to be built into safety or added as a further necessary condition for knowledge is a separate issue.
+This section provided an overview of the two main anti-luck tracking principles discussed in the contemporary literature.  Together with the preceding discussions of precursors to process reliabilism, process reliabilism itself, and close cousins, such as proper function theory and agent reliabilism, the reader should now be well-placed to investigate the varieties of reliabilism in some depth.
+6. Conclusion
+There are many possible motivations for a reliabilist account of knowledge: its naturalistic orientation makes it ripe for interdisciplinary investigation, particularly with cognitive science; its externalist underpinning makes possible both an account of unreflective knowledge and a strategy against the skeptic; its aim to elucidate a real link between belief and truth makes it a plausible basis for justification and suggests ways of handling knowledge-precluding luck.  Though reliabilism takes many forms, each focuses on the truth-conduciveness of the process or specific method through which belief is formed.  Reliabilism makes no antecedent commitment to traditional ideas about knowledge— for example, that one must have accessible reasons for belief, or that one must fulfill one’s epistemic duty to count as knowing— and therefore admits of more flexibility in its possible developments.
+7. References and Further Reading
+ 
+ 
+
+Armstrong, D. 1973. Belief, Truth, and Knowledge (London: Cambridge University Press).
+
+This is an early reliabilist account of knowledge, according to which knowledge requires a law-like connection between the state of affairs that p and one’s belief that p.
+
+
+Becker, K. 2006a. “Is Counterfactual Reliabilism Compatible with Higher-Level Knowledge?” dialectica 60:1, 79-84.
+
+Replies to Vogel’s (2000) argument that sensitivity is incompatible with knowing that one knows, or knowing that one has a true belief.
+
+
+Becker, K. 2006b. “Reliabilism and Safety,” Metaphilosophy 37:5, 691-704.
+
+Argues that safety (or any tracking principle) is insufficient, by itself, to eliminate knowledge-precluding luck due to faulty belief-forming processes.
+
+
+Becker, K. 2008. “Epistemic Luck and The Generality Problem,” Philosophical Studies 139, 353-66.
+
+Argues that there are two distinct sources of epistemic luck, so an anti-luck theory requires two distinct “reliability” conditions: one local, one global.  Together, the two conditions provide a basis for a solution to the generality problem.
+
+
+Becker, K. 2009. “Margins for Error and Sensitivity: What Nozick Might Have Said,” Acta Analytica 24:1, 17-31.
+
+Explains how, on a particular Nozickean conception of the methods by which an agent forms belief, sensitivity theorists can avoid Timothy Williamson’s counterexamples to sensitivity that are based on the plausible idea that knowledge requires a margin for error.
+
+
+Beebe, J. 2004. “The Generality Problem, Statistical Relevance and the Tri-Level Hypothesis,” Noûs 38:1, 177-95.
+
+Argues that the generality problem can be solved by appeal to the tri-level hypothesis for cognitive processing, which distinguishes three basis levels of explanation: computational, algorithmic, and implementation.
+
+
+Bergmann, M. 2006. Justification Without Awareness (Oxford: Oxford University Press).
+
+Defends externalism about justification, after presenting a dilemma for internalism—that it leads either to vicious regress or to skepticism.
+
+
+Black, T. 2002. “A Moorean Response to Brain-in-a-vat Skepticism,” Australasian Journal of Philosophy 80, 148–163.
+
+Explains how, on an externalist conception of the methods by which one forms belief, Nozickean sensitivity can account for knowledge that radical skeptical hypotheses are false, which in turn can allow sensitivity theorists to uphold closure.
+
+
+BonJour, L. 1980. “Externalist Theories of Empirical Knowledge,” Midwest Studies in Philosophy 5, 53-73.
+
+Argues that externalist theories of justification and knowledge are insufficient because one can have, say, reliably formed belief, but in some cases those beliefs will be irrational.
+
+
+BonJour, L. 1985. The Structure of Empirical Knowledge (Cambridge, MA: Harvard University Press).
+
+Presents a master argument against foundationalism, and then a dilemma for internalist foundationalists who appeal to “the given”, while arguing that externalism, as a plausible way out of the dilemma, fails to answer to our concept of justification.
+
+
+Cohen, S. 1984. “Justification and Truth,” Philosophical Studies 46:3, 279-95.
+
+Presents the New Evil Demon problem, which aims to show that one could have lots of justified beliefs, all of which are false.
+
+
+Cohen, S. 2002. “Basic Knowledge and the Problem of Easy Knowledge,” Philosophy and Phenomenological Research LXV:2, 309-29.
+
+Presents two arguments to show that theories that allow basic knowledge—knowledge from a reliable source but where one need not know that the source is reliable—permit implausible bootstrapping from the basic source to achieve knowledge that the source itself is reliable.
+
+
+Comesaña, J. 2006. “A Well-Founded Solution to the Generality Problem,” Philosophical Studies 129, 27-47.
+
+Argues that any adequate epistemological theory requires an account of the basing relation, and that such an account can be the basis of a solution to the generality problem for reliabilism.
+
+
+Conee, E. and Feldman, R. 1998. “The Generality Problem for Reliabilism,” Philosophical Studies 89, 1-29.
+
+Formulates the generality problem for reliabilism and argues that proffered solutions extant in the literature fail to solve it.
+
+
+Dretske, F. 1971. “Conclusive Reasons,” Australasian Journal of Philosophy 49:1, 1-22.
+
+Presents an account of knowledge-constituting reasons that anticipates Nozick’s variance condition (which has come to be known as sensitivity).
+
+
+Feldman, R. 1985.  “Reliability and Justification,” The Monist 68:2, 159-74.
+
+Formulates the generality problem for reliabilism in terms of a dilemma, where one horn is the single case problem, and the other horn is the no-distinction problem.
+
+
+Feldman, R. and Conee, E. 1985. “Evidentialism,” Philosophical Studies 48, 15-34.
+
+Offers an account of justification and well-foundedness in terms of the fit between one’s doxastic attitude and one’s evidence.
+
+
+Fumerton, R. 1995.  Metaepistemology and Skepticism (Rowman & Littlefield, Lanham, MD).
+
+Elicits relationships between metaepistemological topics, such as the analysis of knowledge, and skepticism, and argues that externalism fails to take skeptical concerns seriously.
+
+
+Gettier, E. 1963. “Is Justified True Belief Knowledge?” Analysis 23:6, 121-2
+
+Presents two widely accepted counterexamples to the tripartite analysis of knowledge as justified true belief.
+
+
+Goldman, A. 1967. “A Causal Theory of Knowing,” Journal of Philosophy 64:12, 355-72.
+
+Argues that knowledge requires a causal connection between an agent’s belief and the state of affairs that makes the belief true, partly motivated by Gettier’s counterexamples.
+
+
+Goldman, A. 1976. “Discrimination and Perceptual Knowledge,” Journal of Philosophy 73:20, 771-91.
+
+Argues that perceptual knowledge requires a capacity to distinguish the fact that p from close possibilities where p is false, anticipating Nozick’s sensitivity condition.
+
+
+Goldman, A. 1979. “What Is Justified Belief?” in G. Pappas, ed. Justification and Knowledge (Dordrecht: D. Reidel), 1-23.
+
+Aims to provide a substantive account of justification, in non-evaluative terms, by reference to reliable, that is, truth-conducive, belief-forming processes.
+
+
+Goldman, A. 1986. Epistemology and Cognition (Cambridge, MA: Harvard University Press).
+
+Continues and elaborates the reliabilist theory of justification.  Explains how thinking of reliability in terms of truth-conduciveness in “normal worlds” helps to answer the objection that (actual) reliably formed belief is insufficient for justification.
+
+
+Goldman, A. 1988. “Strong and Weak Justification,” in J. Tomberlin, ed. Philosophical Perspectives 2, 51-69.
+
+By distinguishing strong justification (as actually reliably formed belief) from weak justification (as believed reliably formed belief), replies to the objections that reliability is neither necessary nor sufficient for justification.
+
+
+Goldman, A. 1992. “Epistemic Folkways and Scientific Epistemology,” Liaisons: Philosophy Meets the Cognitive and Social Sciences (Cambridge, MA: MIT Press), 155-75.
+
+Offers a virtue-theoretic approach to understanding reliably formed belief, which in turn is the basis for justification.
+
+
+Goldman, A. 2008. “Immediate Justification and Process Reliabilism,” in Q. Smith, ed. Epistemology: New Essays (Oxford: Oxford University Press), 63-82.
+
+Argues that reliabilism is uniquely suited to account for basic beliefs—those not justified by reference to other beliefs—thereby permitting a foundational epistemology that is not threatened by a regress of reasons.
+
+
+Greco, J. 2003. “Virtue and Luck, Epistemic and Otherwise,” Metaphilosophy 34:3, 353-66.
+
+Argues that epistemic luck is better handled by agent reliabilism, where knowledge requires true belief acquired through the exercise of an agent’s character traits, than it is by extant versions of modal principles (like safety) or by proper function accounts.
+
+
+Heller, M. 1995. “The Simple Solution to the Problem of Generality,” Noûs 29, 501-515.
+
+Argues that the notion of reliability is context-sensitive, which provides a basis for a solution to the generality problem.
+
+
+Klein, P. 1999. “Human Knowledge and the Infinite Regress of Reasons,” in J. Tomberlin, ed. Philosophical Perspectives 13, 297-325.
+
+Argues that an infinite regress of reasons is not always vicious and thus infinitism is a better alternative to foundationalism and coherentism.
+
+
+Kornblith, H. 2008. “Knowledge Needs No Justification,” in Q. Smith, ed. Epistemology: New Essays (Oxford: Oxford University Press), 5-23.
+
+See the title.
+
+
+Lehrer, K. 1990. Theory of Knowledge (Boulder: Westview Press).
+
+His “Truetemp” example aims to show that reliably formed true belief is sufficient neither for justification nor for knowledge.
+
+
+Markie, P. 2005. “Easy Knowledge,” Philosophy and Phenomenological Research LXX:2, 406-16.
+
+Aims to avoid the problem of easy knowledge for theories that allow basic beliefs to be justified, by distinguishing between when a belief is justified—say, the belief that one’s belief-forming process is reliable—and when that justification is of use against the skeptic.  We can bootstrap our way into the former justification, but it does not put us in a position to satisfy the skeptic.
+
+
+Moser, P. 1989. Knowledge and Evidence (Cambridge: Cambridge University Press).
+
+Presents a causal theory of the basing relation—of the reasons for which a belief is held.
+
+
+Nozick, R. 1981. Philosophical Explanations (Cambridge, MA: Harvard University Press).
+
+Epistemological concerns constitute less than one-fourth of this impressive book (which also includes discussions of metaphysics, ethics, and the meaning of life).  Nozick presents his subjunctive conditional, or ‘tracking’ theory, which includes his variance condition, now known simply as sensitivity.
+
+
+Plantinga, A. 1993. Warrant and Proper Function (New York: Oxford University Press).
+
+Argues that warrant—whatever it is that ties one’s belief to the truth, constituting knowledge—depends on the proper functioning of cognitive faculties.
+
+
+Plato. Meno. (Many translations)
+
+A dialogue on the nature of virtue and whether it can be taught.  The question of the value of knowledge is first presented here.
+
+
+Plato. Theaetetus. (Many translations)
+
+A dialogue on the nature of knowledge.  Near the end, Socrates considers the view that knowledge is true opinion or judgment with an account, closely related to the traditional tripartite analysis of knowledge as justified true belief, and finds it deficient.
+
+
+Pollock, J. and Cruz, J. 1999. Contemporary Theories of Knowledge, 2nd edition (Lanham, MD: Rowman and Littlefield).
+
+Surveys contemporary epistemology and its problems.  Also presents a problem for Goldman’s ‘normal worlds’ approach to understanding reliability.
+
+
+Pritchard, D. 2005. Epistemic Luck (Oxford: Oxford University Press).
+
+Offers a general characterization of luck, in which terms epistemic luck is formulated.  Argues that epistemic luck is best eliminated by a safety condition on knowledge.
+
+
+Quine, W.V. 1969. “Epistemology Naturalized,” Ontological Relativity and Other Essays (New York: Columbia University Press), 69-90.
+
+Argues, largely on the basis of failed attempts to understand how philosophy can provide foundations for science, that science itself needs to be pressed into the service of answering philosophical questions.
+
+
+Ramsey, F.P. 1931. “Knowledge,” in R.B. Braithwaite, ed. The Foundations of Mathematics and Other Essays (New York: Harcourt Brace).
+
+Proposes the first version of a reliabilist account of knowledge.
+
+
+Riggs, W. 2002. “Reliability and the Value of Knowledge,” Philosophy and Phenomenological Research 64:1, 79-96.
+
+Argues that reliabilists can cite a source of value in reliably formed belief because the latter indicates credit due to the agent.
+
+
+Sosa, E. 1991. Knowledge in Perspective (Cambridge: Cambridge University Press).
+
+Presents a virtue-theoretic account of justification, where the concept of justification attaches primarily to beliefs formed from intellectual virtues, or stable dispositions for acquiring beliefs.
+
+
+Sosa, E. 1991. 1999. “How to Defeat Opposition to Moore,” Philosophical Perspectives 13, 141-53.
+
+Criticizes sensitivity on the grounds that it is incompatible with inductive and higher-level knowledge, and argues that safety better handles these kinds of knowledge and provides the basis for a neo-Moorean anti-skeptical strategy.
+
+
+Sosa, E.. 2000. “Skepticism and Contextualism,” Philosophical Issues 10, 1-18.
+
+Criticizes contextualism but, more importantly for present purposes, claims that safety must somehow be wedded to a “reliable indication” requirement to be sufficient, in addition to true belief, for knowledge.
+
+
+Sosa, E.. 2007. A Virtue Epistemology: Apt Belief and Reflective Knowledge,Volume I (Oxford: Oxford University Press).
+
+Distinguishes animal knowledge (apt belief) from adult human, or reflective knowledge, and takes a virtue-theoretic approach to both.
+
+
+Steup, M. 2003. “A Defense of Internalism,” in L. Pojman, ed. The Theory of Knowledge, 3rd edition (Belmont, CA: Wadsworth), 310-21.
+
+Defends internalism about justification, and characterizes internalism as the thesis that all factors that justify belief must be recognizable on reflection, thus discounting mere de facto reliability as justificatory.
+
+
+Vogel, J. 2000. “Reliabilism Leveled,” The Journal of Philosophy 97:11, 602-23.
+
+Criticizes both local and global versions of reliabilism.  Among other things, on the former, Vogel argues that sensitivity is incompatible with knowing that one has a true belief, and on the latter, presents the problem of easy knowledge.
+
+
+Williamson, T. 2000. Knowledge and its Limits (New York: Oxford University Press).
+
+Presents a wide range of novel theses about knowledge, including the claims that knowledge is a mental state, that it cannot be analyzed, and that it requires a margin for error, which prompts Williamson to argue for a version of safety.
+
+
+Zagzebski, L. 2003. “The Search for the Source of Epistemic Good,” Metaphilosophy 34:1/2, 12-28.
+
+Criticizes the machine-product model of knowledge on which reliabilism seems to depend for not being able to explain the unique value of knowledge.  Replaces this model with an agent-act model.
+
+
+
+Author Information
+Kelly Becker
+Email: kbecker “at” unm “dot” edu
+University of New Mexico
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+Pascal’s Wager about God | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pascal’s Wager about God
+Blaise Pascal (1623-1662) offers a pragmatic reason for believing in God: even under the assumption that God’s existence is unlikely, the potential benefits of believing are so vast as to make betting on theism rational. The super-dominance form of the argument conveys the basic Pascalian idea, the expectations argument refines it, and the dominating expectations argument gives a more sophisticated version still.
+Critics in turn have raised a number of now-classic challenges. (i) According to intellectualism, deliberately choosing which beliefs to hold is practically impossible. Intellectualism, however, appears to be not only questionable but irrelevant. (ii) According to the many-gods objection, Pascal’s wager begs the question and hence is irrational. It assumes that if God exists then God must take a rather specific form, which few open-minded agnostics would accept. Pascalians reply by invoking the notion of a genuine option (which is not defined), by devising run-off decision theory (which is not justified), by claiming that Pascal was understandably unaware of other cultures (which is not true), and by appealing to generic theism (which does not solve the problem).
+(iii) According to evidentialism, Pascalian reasoning is epistemically irresponsible and hence immoral. One development of this argument, suggesting that God is an evidentialist, amounts to a variant of the many-gods objection. Another development, suggesting that we should be evidentialists, hinges on the outcome of larger moral theory. (iv) According to various paradoxes, reference to infinite values is decision-theoretic non-sense.
+Table of Contents
+
+A Reason for Believing in God 
+
+The Super-Dominance Argument 
+The Expectations Argument 
+The Dominating Expectations Argument 
+
+
+The Intellectualist Objection: Is Belief a Matter of Choice? 
+The Many-Gods Objection: Do Rival Religious Options Undermine Each Other? 
+
+Genuine Options 
+Run-off Decision Theory 
+Relativism 
+Generic Theism 
+
+
+The Evidentialist Objection: Is Prudential Reasoning Ethical? 
+The Paradox Objection: Is Decision Theory Coherent? 
+
+The Equi-utility Paradox 
+The St. Petersburg Paradox 
+
+
+References and Further Reading 
+
+ 1. A Reason for Believing in God
+There are two kinds of argument for theism. Traditional, epistemic arguments hold that God exists; examples include arguments from cosmology, design, ontology, and experience. Modern, pragmatic arguments hold that, regardless of whether God exists, believing in God is good for us, or is the right thing to do; examples include William James’s will to believe and Blaise Pascal’s wager.
+Pascal — French philosopher, scientist, mathematician and probability theorist (1623-1662) — argues that if we do not know whether God exists then we should play it safe rather than risk being sorry. The argument comes in three versions (Hacking 1972), all of them employing decision theory.
+For those who are unfamiliar with decision theory, the idea can be illustrated by considering a lottery. Suppose there are 100 tickets at $1 each and a jackpot of $1000. Is it rational to play? If you total the earnings and the expenses for all the tickets ($1000 – $100), then divide by the number of tickets, you find that on average each ticket nets $9. In comparison, not playing involves zero expense and zero payoff. Since $9 is preferable to $0, it is rational to play. Alternately, suppose there are 1000 tickets costing $2 each, a grand prize of $1000, and a consolation prize of $500. Then the total earnings and expenses ($1500 – $2000), divided by the number of tickets, yields a net loss of fifty cents for the average ticket. In this case, unless you have some reason to believe that a given ticket is not average, playing the game is irrational.
+To put the matter more generally: a given action (say, buying a ticket) is associated with a set of possible outcomes (say, winning the grand prize, winning the consolation prize, or losing); each outcome has a certain value or “utility” (the utility of winning might be the value of the prize minus the cost of the ticket); the “expectation” for each outcome is equal to its utility multiplied by the probability of its happening; the expectation for a given action is the sum of the expectations for each possible associated outcome. The course of action having the maximum expectation is the rational one to follow.
+ a. The Super-Dominance Argument
+Pascal begins with a two-by-two matrix: either God exists or does not, and either you believe or do not.
+
+
+
+–Table I–
+God exists
+God does not exist
+
+
+You believe in God
+(a) infinite reward
+(c) 250 utiles
+
+
+You do not believe in God
+(b) infinite punishment
+(d) 200 utiles
+
+
+
+If God exists then theists will enjoy eternal bliss (cell a), while atheists will suffer eternal damnation (cell b). If God does not exist then theists will enjoy finite happiness before they die (say 250 units worth), and atheists will enjoy finite happiness too, though not so much because they will experience angst rather than the comforts of religion. Regardless of whether God exists, then, theists have it better than atheists; hence belief in God is the most rational belief to have.
+ b. The Expectations Argument
+What if the atheist is a happy hedonist, or if the theist is a miserable puritan? In that case the value of cell (d) is greater than that of (c), and the dominance argument no longer works. However, if there is a 50-50 chance that God exists then we can calculate the expectations as follows:
+
+
+
+–Table II–
+God exists
+God does not exist
+
+
+You believe in God
++infinity
+something finite
+
+
+You do not believe in God
+-infinity
+something finite
+
+
+
+Using the table, the expectation for believing in God = (positive infinity x ½) + (a finite value x ½) = positive infinity; and the expectation for not believing = (negative infinity x ½) + (a finite value x ½) = negative infinity. Hence it is rational to believe in God.
+ c. The Dominating Expectations Argument
+It’s unlikely that the probability of God’s existing is exactly one-half, but this does not matter. Due to the infinite value in cell (a), if God’s existence has any finite probability then the expectation for believing in God will be infinite. Furthermore, this infinity will swamp the values in cells (b), (c), and (d), so long as (c) is not infinitely negative and neither (b) nor (d) is infinitely positive.
+ 2. The Intellectualist Objection: Is Belief a Matter of Choice?
+According to doxastic voluntarism, believing and disbelieving are choices that are up to us to make. Intellectualists deny this; they say it is impossible to adopt a belief simply because we decide to. If I offered to pay you $1000 for believing the sky is green, for instance, could you sincerely adopt this belief simply by wishing to? Evidently not. Therefore, some say, Pascal’s wager does not give legitimate grounds for believing in God.
+But although we cannot adopt a belief simply by deciding to, the same is true for other actions. For instance, we cannot go to school simply by deciding to; rather, we have to wake up by a certain time (which may mean first developing a certain kind of habit), we must get dressed, we must put one foot in front of another, and so forth. Then if we are lucky we will end up at our destination, though this is far from guaranteed. So it goes for any other endeavor in life: one chooses to become a doctor, or to marry by age 30, or to live in the tropics — the attainment of such goals can be facilitated, though not purely willed, by appropriate micro-steps that are more nearly under voluntary control. Indeed, even twitching your little finger is not entirely a matter of volition, as its success depends on a functioning neural system running from your brain, through your spine, and down your arm. Your minutest action is a joint product of internal volition and external contingencies. The same applies to theistic belief: although you cannot simply decide to be a theist, you can choose to read one-sided literature, you can choose to join a highly religious community, you can try to induce mystical experiences by ingesting psychedelic drugs like LSD, and you can choose to chant and pray. No mere exercise of will can guarantee that you will end up believing in God, but neither can any exercise of will guarantee that you succeed in doing anything else you decide to do. If there is a difference between our ability to voluntarily believe something and our ability to voluntarily wiggle our toe, it is a difference in degree of likely success, and not a difference in logical kind.
+Yet a difference in degree may be significant, and it is worth noting that theists and atheists may disagree on the power of prayer to change one’s beliefs. Theists generally think that prayer tends to bring one into contact with God, in which case one is likely to notice, recognize, and believe in God’s existence. Atheists, on the other hand, have no particular reason to think that mere praying should notably effect conversion. An agnostic would do well then to try; for it would be precisely in the case where success matters that trying is likely to be most efficacious.
+Indeed, it might not matter whether we can choose to have the beliefs we have. If Tables I or II be right then the fact would remain that it is pragmatically better to believe in God than not, insofar as theists, taken across all possible worlds, are on average better off than atheists. It does not matter whether theism results from personal will-power, God’s grace, or cosmic luck — regardless, being better off is being better off. Thus, Pascal’s wager need not succeed as a tool of persuasion for it to serve as a tool of assessment (Mougin & Sober 1994).
+ 3. The Many-Gods Objection: Do Rival Religious Options Undermine Each Other?
+Pascal’s compatriot Denis Diderot replied to the wager that an ayatollah or “imam could just as well reason the same way.” His point is that decision theory cannot decide among the various religions practiced in the world; it gives no warrant for believing in Pascal’s Catholicism, or even in a generic Judeo-Christianity. The reason is that Tables I and II beg the question in favor of a certain kind of theism; a more complete matrix must consider at least the following possibilities.
+
+
+
+–Table III–
+Yahweh exists
+Allah exists
+
+
+You worship Yahweh
+infinite reward
+infinite punishment
+
+
+You worship Allah
+infinite punishment
+infinite reward
+
+
+
+In reply, Pascalians offer a number of defenses.
+ a. Genuine Options
+Some Pascalians insist that only certain theological possibilities count as “genuine options” (James 1897, Jordan 1994b), although this notion is never clearly defined. Perhaps a proposition P is a genuine option for some subject S only if S is likely to succeed in believing P, should S choose to. However, the relevance of volition is questionable, as discussed in the previous section. Alternatively, perhaps P is a genuine option for S unless P strikes S as “bizarre” or untraditional (Jordan 1994b). The difficulty here lies in distinguishing this position from emotional prejudice (Saka 2001). Finally, it may be that a genuine option is one that possesses sufficient evidential support, in which case it can then participate in a run-off decision procedure.
+ b. Run-off Decision Theory
+Some Pascalians propose combining pragmatic and epistemic factors in a two-stage process. First, one uses epistemic considerations in selecting a limited set of belief options, then one uses prudential considerations in choosing among them (Jordan 1994b). Alternatively, one first uses prudential considerations to choose religion over non-religion, and then uses epistemic considerations to choose a particular religion (Schlesinger 1994, Jordan 1993).
+In order to be at all plausible, this approach must answer two questions. First, what is the justification for deliberately excluding some possibilities, no matter how improbable, from prudential reasoning? It seems irrational to dismiss some options that are acknowledged to be possible, even be they unlikely, so long as the stakes are sufficiently high (Sorensen 1994). Second, can epistemic considerations work without begging the question? Schlesinger argues that the Principle of Sufficient Reason gives some support for believing in God, but in a Pascalian context this is questionable. If you subscribe to a suitable form of the Principle of Sufficient Reason (one that leads to a given kind of theism), you are likely to be a theist already and hence Pascal’s wager does not apply to you; on the other hand, if you do not believe in the right kind of Principle of Sufficient Reason, then you will not think that it makes theism more probable than atheistic Buddhism, or anthropomorphic theism more probable than deism. Other epistemic considerations, such as Schlesinger’s appeal to testimony, simplicity, and sublimity, meet with analogous challenges (Amico 1994, Saka 2001).
+ c. Relativism
+Some Pascalians, while acknowledging that the Wager might be unsound for today’s multi-culturally sophisticated audience, maintain that the Wager is sound relative to Pascal and his peers in the 1600s, when Catholicism and agnosticism were the only possibilities (Rescher 1985, Franklin 1998). But the Crusades in the 1100s taught the French of Islam, the Renaissance in the 1400s taught the French of Greco-Roman paganism, the discoveries of the 1500s taught the French of new-world paganism, and several wars of religion taught the French of Protestantism. To claim that the educated French of the 1600s rightfully rejected alien beliefs without consideration appears to endorse rank prejudice.
+ d. Generic Theism
+Some acknowledge that Pascal’s wager cannot decide among religions, yet maintain that “it at least gets us to theism” (Jordan 1994b, Armour-Garb 1999). The idea is that Catholics, Protestants, Jews, Moslems, and devil-worshippers can all legitimately use decision theory to conclude that it is best to believe in some supreme being. Against this there are two objections. First, it disregards theological possibilities such as the Professor’s God. The Professor’s God rewards those who humbly remain skeptical in the absence of evidence, and punishes those who adopt theism on the basis of self-interest (Martin 1975, 1990; Mackie 1982). Second, the claim that Pascal’s wager yields generic theism assumes that all religions are theistic. But consider the following sort of atheistic Buddhism: if you clear your mind then you will attain nirvana and otherwise you will not — that is, if you fill your mind with thoughts and desires, such as believing that God exists or living God, then you will not attain salvation (Saka 2001).
+ 4. The Evidentialist Objection: Is Prudential Reasoning Ethical
+There are two versions of this objection that need to be kept distinct. The first one suggests that Pascalian reasoners are manipulative egoists whom God might take exception to, and they won’t be rewarded after all (Nicholl 1978). Schlesinger 1994 responds by saying that any reasoning that gets us to believe in God, if God exists, cannot be bad. But this argument seems to depend on the nature of God. If God holds that results are all that matter, that the ends justify the means, then Schlesinger is right. But maybe God holds that true beliefs count as meritorious only if they are based on good evidence; maybe God rewards only evidentialists. In short, this form of the objection is just another version of the many-gods objection.
+Another form of evidentialism refers not to God’s character but to our own. Regardless of how God might or might not reward our decisions, it may be categorically, epistemically or otherwise wrong — “absolutely wicked”, in the words of G.E. Moore — for us to base any belief on decision-theoretic self-interest (Clifford 1879, Nicholls 1978).
+Since utilitarians would tend to favor Pascalian reasoning while Kantians and virtue ethicists would not, the issue at stake belongs to a much larger debate in moral philosophy.
+ 5. The Paradox Objection: Is Decision Theory Coherent?
+ a. The Equi-utility Paradox
+If you regularly brush your teeth, there is some chance you will go to heaven and enjoy infinite bliss. On the other hand, there is some chance you will enjoy infinite heavenly bliss even if you do not brush your teeth. Therefore the expectation of brushing your teeth (infinity plus a little extra due to oral health = infinity) is the same as that of not brushing your teeth (infinity minus a bit due to cavities and gingivitis = infinity), from which it follows that dental hygiene is not a particularly prudent course of action. In fact, as soon as we allow infinite utilities, decision theory tells us that any course of action is as good as any other (Duff 1986). Hence we have a reductio ad absurdum against decision theory, at least when it’s extended to infinite cases. In reply to such difficulties, Jordan 1993 proposes a run-off decision theory as described above.
+ b. The St. Petersburg Paradox
+Imagine tossing a coin until it lands heads-up, and suppose that the payoff grows exponentially according to the number of tosses you make. If the coin lands heads-up on the first toss then the payoff is $2; if it takes two tosses then the payoff is $4; if it takes three tosses then the payoff is $8; and so forth, ad infinitum. Now the odds of the game ending on the first toss is 1/2; of ending on the second toss, 1/4; on the third, 1/8; and so forth. Since there is a one-half chance of winning $2, plus a quarter chance of winning $4, plus a one-eighth chance of winning $8, and so forth, your expectation for playing the game is (1/2 x $2) + (1/4 x $4) + (1/8 x $8) +…, that is, $1 + $1 + $1… = infinity! It follows you should be willing to pay any finite amount for the privilege of playing this game. Yet it clearly seems irrational to pay very much at all. The conclusion is that decision theory is a bad guide when infinite values are involved (for discussion of this very old paradox, see Sorensen 1994). Byl (1994) points out that instead of referring to infinite payoffs we can speak of arbitrarily high ones. No matter how improbable be the existence of God, it is still decision-theoretically rational to believe in God if the reward for doing so is sufficiently, yet only finitely, high. However, this does not address the heart of the problem, for the St. Petersburg paradox too may be cast in terms of an arbitrarily high limit. Intuitively, one would not be willing to pay a million dollars, say, for the privilege of playing a game capped at one-million-and-one coin tosses, and it is not just because of the diminishing value of money. There is something unsettling about decision theory, at least as applied to extreme cases, and so we might be skeptical about using it as a basis for religious commitment.
+ 6. References and Further Reading
+The best known defense of Pascal is Lycan & Schlesinger 1989; for responses see Amico 1994 and Saka 2001. A good sourcebook is Jordan 1994a.
+
+Amico, Robert (1994) “Pascal’s wager revisited”, International Studies in Philosophy 26:1-11.
+Armour-Garb, Bradley (1999) “Betting on God”, Religious Studies 35:119-38.
+Byl, John (1994) “On Pascal’s wager and infinite utilities”, Faith & Philosophy 11:467-73.
+Clifford, William (1879) “The ethics of belief”, Lectures & Essays, Macmillan.
+Duff, Anthony (1986) “Pascal’s wager and infinite utilities”, Analysis 46:107-09.
+Franklin, James (1998) “Two caricatures, I: Pascal’s wager”, International Journal for Philosophy of Religion 44:115-19.
+Hacking, Ian (1972) “The logic of Pascal’s wager”, reprinted in Jordan 1994a.
+James, William (1897) “The will to believe”, reprinted in The Will to Believe and Other Essays, Dover.
+Jordan, Jeff (1991) “The many-gods objection and Pascal’s wager”, International Philosophical Quarterly 31:309-17.
+Jordan, Jeff (1993) “Pascal’s wager and the problem of infinite utilities”, Faith & Philosophy 10:49-59.
+Jordan, Jeff, editor (1994a) Gambling on God, Lanham MD: Rowman & Littlefield.
+Jordan, Jeff (1994b) “The many-gods objection”, in Jordan 1994a; a restatement of Jordan 1991.
+Lycan, William & George Schlesinger (1989) “You bet your life”, in Reason & Responsibility, 7th edition (ed. Joel Feinberg, Belmont CA: Wadsworth). Also in the 8th, 9th, 10th editions; in Philosophy and the Human Condition, 2d edition (ed. Tom Beauchamp et al., Englewood Cliffs NJ: Prentice Hall, 1989); and in Contemporary Perspectives on Religious Epistemology (ed. Douglas Geivet & Brendan Sweetmar, Oxford, 1993). See also Schlesinger 1994.
+Mackie, J.L. (1982) The Miracle of Theism, Oxford, pp. 200-03.
+Martin, Michael (1975) “On four critiques of Pascal’s wager”, Sophia 14:1-11.
+Martin, Michael (1990) Atheism, Philadelphia: Temple University Press, pp. 229-38.
+Mougin, Gregory & Elliott Sober (1994) “Betting on Pascal’s wager”, Nous 28:382-95.
+Nicholl, Larimore (1978) “Pascal’s Wager: The bet is off”, Philosophy & Phenomenological Research 39:274-80.
+Pascal, Blaise (composed in 1600s, first published in 1800s) Pensees, section 343; translated & reprinted by Penguin and many others.
+Rescher, Nicholas (1985) Pascal’s Wager, University of Notre Dame Press.
+Saka, Paul (2001) “Pascal’s wager and the many gods objection”, Religious Studies 37:321-41.
+Schlesinger, George (1994) “A central theistic argument”, in Jordan 1994a; a restatement of Lycan & Schlesinger 1989.
+Sorensen, Roy (1994) “Infinite decision theory”, in Jordan 1994a.
+
+See also: Faith and Reason
+Author Information
+Paul Saka
+Email: paul-saka@live.com
+University of Texas, Rio Grande
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

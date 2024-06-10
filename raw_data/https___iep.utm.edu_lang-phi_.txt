@@ -1,0 +1,389 @@
+
+
+
+
+
+
+
+
+
+Language, Philosophy of | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philosophy of Language
+Those who use the term “philosophy of language” typically use it to refer to work within the field of Anglo-American analytical philosophy and its roots in German and Austrian philosophy of the early twentieth century. Many philosophers outside this tradition have views on the nature and use of language, and the border between “analytical” and “continental” philosophy is becoming more porous with time, but most who speak of this field are appealing to a specific set of traditions, canonical authors and methods. The article takes this more narrow focus in order to describe a tradition’s history, but readers should bear in mind this restriction of scope.
+The history of the philosophy of language in the analytical tradition begins with advances in logic and with tensions within traditional accounts of the mind and its contents at the end of the nineteenth century. A revolution of sorts resulted from these developments, often known as the “Linguistic Turn” in philosophy. However, its early programs ran into serious difficulties by mid-twentieth century, and significant changes in direction came about as a result. Section 1 below addresses the precursors and early stages of the “Linguistic Turn,” while Section 2 addresses its development by the Logical Positivists and others. Section 3 outlines the sudden shifts that resulted from the works of Quine and Wittgenstein, and Section 4 charts the major approaches and figures that have followed from mid-century to the present.
+Table of Contents
+
+Frege, Russell and the Linguistic Turn
+
+Referential Theories of Meaning 
+Frege on Sense and Reference 
+Russell 
+
+
+Early Analytical Philosophy of Language
+
+The Tractatus Logico-Philosophicus 
+The Vienna Circle and the Logical Positivists 
+Tarski’s Theory of Truth 
+
+
+Mid-century Revolutions
+
+Quine and the Analytic/Synthetic Distinction 
+The Later Wittgenstein 
+
+
+Major Areas in the Contemporary Field
+
+Truth-Conditional Theories of Meaning 
+Meaning and Use 
+Speech Act Theory and Pragmatics 
+
+
+Future Directions and Emerging Debates
+References and Further Reading
+
+ 1. Frege, Russell and the Linguistic Turn
+ a. Referential Theories of Meaning
+Much of the stage-setting for the so-called “Linguistic Turn” in Anglo-American philosophy took place in the mid nineteenth century. Attention turned to language as many came to see it as a focal point in understanding belief and representation of the world. Language came to be seen as the “medium of conceptualization,” as Wilfrid Sellars would later put it. Idealists working in Kant’s wake had developed more sophisticated “transcendental” accounts of the conditions for the possibility of experience, and this evoked strong reactions from more realist philosophers and those sympathetic to the natural sciences. Scientists also made advances in the 1860s and 70s in describing cognitive functions, like speech production and comprehension, as natural phenomena, including their discovery of Broca’s area and Wernicke’s area, which are two neural centers of linguistic activity.
+John Stuart Mill‘s work around this time reinvigorated British empiricism and included an approach to language that traced the meanings of individual words to the objects to which they referred (see 1843, 1, 2, sec. 5). Mill’s empiricism led him to think that for meaning to have any significance for our thought and understanding, we must explain it in terms of our experience. Thus, meaning should ultimately be understood in terms of words standing for sets of sense impressions. Not all those concerned with language shared Mill’s empiricist leanings, though most shared his sense that denotation, rather than connotation, should be at the center of an account of meaning. A word denotes something by standing for it, as my name stands for me, or “Baltimore” stands for a particular city on America’s East Coast; a word connotes something when it “implies an attribute” in Mill’s terms, as “professor” generally implies an expert in an academic field and someone with certain sorts of institutional authority. For most expressions, philosophers thought that to grasp their meaning was to know what they stood for, as we often think of proper names serving simply as labels for the things they denote. (Mill also tended to use “meaning” in talking about connotation, and might have reservations with saying that proper names had “meanings,” though this is not to deny that they denote things.) Thus,
+(1) The cat sat on the refrigerator.
+should be understood as a complex arrangement of signs. “The cat” denotes or refers to a particular furry domesticated quadruped, “the refrigerator” denotes something, and so forth. Some further elaboration would be needed for verbs, logical vocabulary and other categories of terms, but most philosophers took the backbone of an account of meaning to be denotation, and language use to be a process of the management of signs. These signs might denote objects directly, or they might do so indirectly by standing for something within our minds, following Locke, who described words as “signs of ideas” (1690, III, 1).
+Accounts that emphasized the reference of terms as constitutive of the meaning of most expressions faced two serious problems, however. First, they failed to explain the possibility of non-referring terms and negative existential sentences. On such a referential picture of meaning, the meaning of most expressions would simply be their bearers, so an existential sentence like
+(2) John Coltrane plays saxophone.
+was easy to analyze. Its subject term, “John Coltrane,” referred to a particular person and the sentence says of him that he does a particular sort of thing: he plays saxophone. But what of a sentence like
+(3) Phlogiston was thought to be the cause of combustion.
+Assuming that there is not and never was such a thing as phlogiston, how can we understand such a sentence? If the meaning of those expressions is their referent, then this sentence should strike us as meaningless. Meinong (1904) suggested that such expressions denote entities that “subsist,” but do not exist, by which he granted them a sort of reality, albeit one outside the actual universe. The majority of philosophers treated this with suspicion. Others suggested that the expression above denotes the concept or idea of “phlogiston.” The difficulty facing such responses comes into sharper relief with consideration of negative existentials.
+(4) Atlantis does not exist.
+If Atlantis does not exist, the expression “Atlantis” does not refer to anything and would have no meaning. One could say that “Atlantis” refers not to a sunken city, but to our concept of a sunken city. But this has the paradoxical result of making (4) false, since the concept is there for us to refer to, thus rendering it impossible to deny. This might even entail that we could not truthfully deny the existence of anything of which we could conceive, which seems implausible.
+The second serious problem for referential theories of meaning, noted by Frege (1892), was the informativeness of some identity sentences. Sentences of self-identity are true purely in virtue of their logical form, and we may affirm them even when we do not know what the expression refers to. For instance, anyone could affirm
+(5) Mt. Kilimanjaro is Mt. Kilimanjaro.
+even if they do not know what Mt. Kilimanjaro is. Making this statement in such a case would not inform our understanding of the world in any significant way. However, a sentence like
+(6) Mt. Kilimanjaro is the tallest mountain in Africa.
+would certainly be informative to those who first heard it. But remember that according to referential theories of meaning, “Mt. Kilimanjaro” and “the tallest mountain in Africa” refer to the same thing and hence mean the same thing according to these theories; therefore, (5) and (6) say the same thing and one should be no more or less informative than the other. Where we grasp the meaning of an expression or a sentence, philosophers have traditionally taken it that this should make some sort of cognitive difference, for example, we should be able to perform an action, make an inference, recognize something, and so on. Thus differences in the meanings of expressions should be reflected by some difference in cognitive significance between the expressions. But if expressions refer to the same thing, and their meaning consists solely in their picking out a referent, then there should be no such cognitive difference even if there is apparently a difference in meaning. Simple referential theories do not offer us an obvious solution to this problem and therefore fail to capture important intuitions about meaning.
+ b. Frege on Sense and Reference
+To address these problems, Frege proposed that we should think of expressions as having two semantic aspects: a sense and a reference. The sense of an expression would be its “mode of presentation,” as Frege put it, that conveyed information to us in its own distinct way. That information would in turn determine a referent for each expression. This led to a credo pervasive in analytical philosophy: sense determines reference. This solved problems of reference by shifting the emphasis to the sense of expressions first and to their reference later. Negative existential sentences were intelligible because the sense of an expression like “largest prime number” or “Atlantis” could be logically analyzed or made explicit in terms of other descriptions, even if the set of things specified by this information was, in fact, empty. Our belief that these sentences and expressions were meaningful was a consequence of grasping their senses, even when we realized this left them without a referent. As Frege put it:
+It can perhaps be granted that an expression has a sense if it is formed in a grammatically correct manner and stands for a proper name. But as to whether there is a denotation corresponding to the connotation is hereby not decided… [T]he grasping of a sense does not with certainty warrant a corresponding nominatum. [that is, referent] (1892: p. 153 in Beaney (1997))
+The informativeness of some identity claims also became clearer. In a sentence like (5), we are simply stating self-identity, but in a sentence like (6), we express something of real cognitive significance, containing extensions of our knowledge that cannot generally be shown  a priori. This would not be a trivial matter of logical form like “A=A,” but a discovery that two very different senses determined the same referent, which would suggest important conceptual connections between different ideas, inform further inferences, and thus enlighten us in various ways. Even if “Mt. Kilimanjaro” and “the tallest mountain in Africa” refer to the same thing, it would be informative to learn that they do, and we would augment our understanding of the world by learning this.
+Frege also noted that expressions which shared their referents could generally be substituted for one another without changing the truth value of a sentence. For instance, “Elvis Costello” and “Declan McManus” refer to the same object, and so if “Elvis Costello was born in Liverpool” is true, so is, “Declan McManus was born in Liverpool.” Anything that we might predicate of the one, we may predicate of the other, so long as the two expressions co-refer. However, Frege realized that there were certain contexts in which this substitutability failed, or at least could not be guaranteed. For instance,
+(7) Liz knows that Elvis Costello was born in Liverpool.
+may be true, even when
+(8) Liz knows that Declan McManus was born in Liverpool.
+is false, especially in cases where Liz does not know that Elvis Costello is Declan McManus, or never learns the latter name at all. What has happened here? Note that (7) and (8) both include strings of words that could be sentences in their own right (“Elvis Costello was born in Liverpool” and “Declan McManus was born in Liverpool”). “Liz knows that…” expresses something about those propositions (namely, Liz’s attitude towards them). Frege suggested that in these cases, the reference of those embedded sentences is not a truth value, as it would customarily be, but is rather the sense of the sentence itself. Someone might grasp the sense of one sentence but not another, and hence sentences like (7) and (8) could vary in their truth values. Frege called these “indirect” contexts, and Quine would later dub such cases “opaque” contexts.
+Rudolf Carnap would later replace the term “sense” with “intension” and “reference” with “extension.” Carnap’s terminology became prevalent in formal analysis of semantics by the 1950s, though it was Frege’s original insights that drove the field. Significant worries remained for the Fregean notion of sense, however. Names and other expressions in natural languages rarely have fixed sets of descriptions that are universally acknowledged as Frege’s senses would have to be. Frege might reply that he had no intention of making sense a matter of public consensus or psychological regularity, but this makes the status of a sense all the more mysterious, as well as our capacity to grasp them. Analytical philosophers of language would struggle with this for decades to come.
+Still, Frege had effectively redrawn the map for philosophy. By introducing senses as a focal point of analysis, he had carved out a distinct territory for philosophical inquiry. Senses were not simply psychological entities, since they were both commonly accessible by different speakers and had a normative dimension to them, prescribing correct usage rather than simply describing performance. (See Frege (1884) for a thorough attack on psychologistic accounts of meaning.) Nor were they the causal and mechanical objects of natural science, reducible to accounts of lawlike regularity. They were entities playing a logical and cognitive role, and would be both explanatory of conceptual content and universal across natural languages, unlike the empirical details of linguistics and anthropology. Thus, there was a project for philosophy to undertake, separate from the natural sciences, and it was the logical analysis of the underlying structure of meaning. Though naturalistic concerns would be reasserted in the development of analytical philosophy, Frege’s project would come to dominate Anglo-American philosophy for much of the next century.
+ c. Russell
+An important bridge between Frege and the English-speaking world was Bertrand Russell’s “On Denoting” (1905). Both men were mathematicians by training and shared a concern with the foundations of arithmetic. However, Russell shared a sense with some earlier philosophers that at least some expressions were meaningful in virtue of direct reference, contra Frege. Still, Russell saw the potential in Frege’s work and undertook an analysis of singular definite descriptions. These are complex expressions that purport to single out a particular referent by providing a description, for example, “the President of the USA,” or “the tallest person in this room right now.” Russell wondered how
+(9) The present King of France is bald.
+could be meaningful, given the absence of a present King of France. Russell’s solution was to analyze the logical role of such descriptions. Although a select few expressions referred directly to objects, most were either descriptions that picked out a referent by offering a list of properties, or disguised abbreviations of such descriptions. Russell even suggested that most proper names were abbreviated descriptions. Strictly speaking, descriptions would not refer at all; they would be quantified phrases that had or lacked extensions. What was needed was an account that could explain the meaning of descriptions in terms of the propositions that they abbreviated. Russell (1905) analyzed sentence (9) as implying three things that jointly gave us a definition of propositions involving descriptions. (A more succinct presentation comes in Russell (1919).) A sentence like “The author of Waverley was Scott” involves three logical constituents:
+(10) “x wrote Waverley” is not always false (i.e at least one person wrote Waverley)
+(11) “if x and y wrote Waverley , x and y are identical” is always true (that is, at most one person wrote Waverley)
+(12) “if x wrote Waverley, x was Scott” is always true (that is, whoever wrote Waverley was Scott)
+The first two here effectively assert the existence and uniqueness of the referent of this expression, respectively. We may generalize them and express them as a single proposition of the form “There is a term c such that Fx is true when x is c, and Fx is false when x is not c.” (Thus, F is held uniquely by c.) This asserts that there is a unique satisfier of the description given or implied by an expression, and this may be true or false depending on the expression at hand. We can then tack on an additional condition expressing whatever property is attributed to the referent (being bald, Scott, and so on) in the form “c has the property Y.” If nothing has the property F thus analyzed, (such as “being the present King of France” in (9) above) then “c has the property Y” is false, and we have a means to analyze non-denoting expressions. Such expressions are actually to be understood as quantified phrases and we may understand them as having objects over which they quantify or lacking such objects; the grasp of the logical structure of those phrases is what constitutes our understanding of them. While we grasp each of the parts abbreviated by the expression, we also understand that one of them is false—there is no unique satisfier of “the present King of France”—and thus we can understand the sentence “The present king of France is bald” even though one of its terms does not refer. That expression can have a significant occurrence once we understand it as an “incomplete” or “complex” symbol whose meaning is derived from its constituents. Most proper names, and indeed almost all expressions in a natural language, would submit to such an analysis, and Russell’s work thus kick-started analytical philosophy in the English-speaking world. (Significant contributions were also made by G.E. Moore in the fields of epistemology and ethics and hence he is often mentioned along with Russell, but Moore’s achievements are largely outside the scope of our focus here.)
+ 2. Early Analytical Philosophy of Language
+The achievements of Russell and Frege, in setting an agenda for analytical philosophers that promised to both resolve longstanding philosophical difficulties and preserve a role for philosophy on an equal footing with the natural sciences, electrified European and American academic philosophers. The following section focuses on three points of interest in the early phases of this tradition: (1) the early work of Ludwig Wittgenstein; (2) the Logical Positivists; and (3) Tarski‘s theory of truth.
+ a. The Tractatus Logico-Philosophicus
+Ludwig Wittgenstein came to read Frege and Russell out of an interest in the foundations of mathematics and went to Cambridge to study with Russell. He studied there, but left to serve in the Austro-Hungarian army in 1914. While being held as a prisoner of war, he wrote drafts of a text that many saw as the high-water mark of early analytical philosophy, the Tractatus Logico-Philosophicus. In it, he wrote seven propositions and made extensive comments on six of them, with extensive comments on the comments, and so forth. He laid out a parsimonious and ambitious plan to systematically realize Frege and Russell’s aspirations of analyzing the logical structure of language and thought.
+Through logical analysis, Wittgenstein held that we could arrive at a conception of language as consisting of elementary propositions related by the now-familiar elements of first-order logic. Any sentence with a sense could have that sense perspicuously rendered in such a system, and any sentence that did not yield to such analysis would not have a sense at all. “Everything that can be thought at all can be thought clearly. Everything that can be said can be said clearly.” (1922, §4.116) Wittgenstein’s claim here is not that we cannot string together words in unclear ways; indeed, we do that all the time. Rather, in doing so, we do not express anything that has a sense. What we say may get nods of approval from fellow speakers, and we may even be grasping at something important, but what we say does not convey anything meaningful.
+In part, this reflects Wittgenstein’s early view that propositions “pictured” the world. This is not to say that a written inscription or a verbal utterance of a sentence visually resembles that state of affairs it expresses. “Elvin Jones played drums for John Coltrane” looks like neither Elvin Jones, nor John Coltrane, nor a drum set. Rather, the form of a proposition resembled the form of some fact of the world. What was required to understand this as a picture of the world was just what was needed in the case of actual pictures—a coordination of the elements in the picture with objects outside itself. (Logical truths would be true in virtue of relations among their propositions.) Where we could do this, the language was stating something clearly; where we could not, despite our best efforts, the words were not saying anything at all. However, this was not to say that everything about meaning and our understanding of the world was a matter of explicit definition, that is, something we could say. Rather than being said with our language, many things can only be shown. For instance, think of a logical expression like “and.” Any attempt to explain its sense, like putting two things side by side, or using another term like “both,” only recapitulates the structure of “and,” thus adding nothing. The form of our propositions shows how it works and we cannot say anything more informative about it. Wittgenstein also espoused a number of views at the end of the Tractatus on solipsism, the will, and ethics, and what could be said about them; but these remain some of the most difficult and contested points of interpretation in his work. Wittgenstein took himself to have prescribed the limits of what philosophy could say, and he closed the Tractatus without further comment by saying, “Whereof we cannot speak, we must remain silent.” (1922, §7)
+ b. The Vienna Circle and the Logical Positivists
+Beginning in 1907, a group of European professors originally known as the Ernst Mach Society began to meet regularly for discussions on matters of logic, philosophy and science under the guidance of Moritz Schlick. They later took to calling themselves the Vienna Circle and their ongoing conversations became the nascence of a movement known as Logical Positivism, which would include Carl Hempel, Rudolf Carnap, and Hans Reichenbach, among many others. They rejected the Hegelian idealism prevalent in European academic circles, espoused the austere precision of science, particularly physics, as a model for their methods, and took the phenomenalist strains of British empiricism as a more suitable epistemological foundation for such goals. Carnap adopted the insights of Frege’s work and brought tremendous sophistication to the analytical enterprise, particularly in his The Logical Structure of the World (1928). The Logical Positivists also took inspiration from Wittgenstein’s Tractatus, but their fidelity to his more abstruse aims is tenuous at best. They shared Wittgenstein’s view that logical proofs were true in virtue of internal relations among their propositions, not by virtue of any actual facts about the world, and parsed this as support for a renewed version of the analytic/synthetic distinction. Analytic sentences were those true solely in virtue of the meanings of their constituent expressions (“All bachelors are unmarried”) while synthetic sentences were true partly in virtue of empirical facts beyond the meanings of their constituent terms (“Flynn is a bachelor”). Analytic sentences would be confirmed by logical analysis, while synthetic sentences would be confirmed by appeal to observation sentences, or to sense-data in even more rigorous accounts.
+This led the Positivists to the Verificationist Theory of Meaning. Analytic sentences would be true in virtue of the meanings of their terms, while all synthetic sentences would have to admit to some sort of empirical verification criteria. Any sentence that could not be verified by one or the other of these means was deemed meaningless. This excluded claims with mystical or occult import, but also large areas of ethics and metaphysics as practiced by many philosophers. Schlick (1933) put it boldly, saying:
+[A] proposition has a statable meaning only if it makes a verifiable difference whether it is true or false. A proposition which is such that the world remains the same whether it is true or false simply says nothing about the world; it is empty and communicates nothing; I can give it no meaning. We have a verifiable difference, however, only when it is a difference in the given… (Ayer 1959, p. 88)
+By “given” here, Schlick alluded to the stream of sense-data that come before us. Few if any sentences were understood in such ways by most speakers, so the work of philosophy was logical analysis and definition of the concepts of the natural sciences into verificationist terms. While one could imagine empirical verification of many things in the physical sciences (for example, laboratory results, predictions with observable consequences), it would be far more difficult in fields like psychology and ethics. In these cases, the Positivists favored a type of logical reductionism for the pertinent sentences in the discourse. All sentences and key concepts in psychology would be reduced to empirically verifiable sentences about the behavior of thinking subjects, for instance. A sentence about a mental state like anger would be reduced to sentences about observable behavior such as raising one’s voice, facial expressions, becoming violent, and so on. This would require “bridge laws” or sentences of theoretical identity to equate the entities of, say, psychology with the entities of the physical sciences and thus translate the terms of older theories into new ones. (Again, in some cases the preferred mode would be to equate them directly with sense-data.) Where this could not be done, the Positivists took it that the sentences in question were meaningless, and they advocated the elimination of many canonical concepts, sentences and theories, derisively lumped under the term “metaphysics.” A sentence like “God exists outside of space and time” was certainly not true in virtue of the meanings of its terms and did not admit to any sort of empirical test, so it would be dismissed as gibberish.
+The Verificationist theory of meaning ran into great difficulty almost immediately, often due to objections among the Positivists. For one, any sentence stating the theory itself was neither analytical, nor subject to empirical verification, so it would seem to be either self-refuting or meaningless. Universal generalizations including scientific laws like “All electrons have a charge of 1.6×10-19 coulombs” were also problematic, since they were not deducible from finite sets of observation sentences. (See Hempel (1950), esp. §2.1) Counterfactual sentences, such as “If we dropped this sugar cube in water, it would dissolve,” present similar problems. Efforts at refinement continued, though dissatisfaction with the whole program was growing by mid-century.
+ c. Tarski’s Theory of Truth
+In two seminal works (1933 and 1944), Alfred Tarski made a great leap forward for the rigorous analysis of meaning, showing that semantics could be treated just as systematically as syntax could. Syntax, the rules and structures governing the recombination of words and phrases into sentences, had been analyzed with some success by logicians, but semantic notions like “meaning” or “truth” defied such efforts for many years.
+Tarski sought an analysis of the concept of truth that would contain no explicit or implicit appeals to inherently semantic notions, and offered a definition of it in terms of syntax and set theory. He began by distinguishing metalanguage and object language; an object language is the language (natural or formal) that is our target for analysis, while the metalanguage is the language in which we conduct our analysis. Metalanguage is the language that we use to study another language, and the object language is the language that we study. For instance, children learning a second language typically take classes conducted in their mother tongue that treat the second language as an object to be studied. Thus, copies of all the sentences of the object language should be included in the metalanguage and the metalanguage should include sufficient resources to describe the syntax of the object language, as well. In effect, an object language would not contain its own truth predicate—this could only occur in a metalanguage, since it requires speakers to talk about sentences themselves, rather than actually to use them. There is great controversy about the shape that a metalanguague would have to take to enable analysis of a natural language, and Tarski openly doubted that these methods would transfer easily from formal to natural languages, but we will not delve into these issues here.
+Tarski argued that a definition of truth would have to be “formally correct” or as he put it:
+(14) For all x, True(x) iff Fx.
+or a sentence provably equivalent to this, where “true” was not part of F. This much was a largely formal condition, but Tarski added a more robust call for “material adequacy” or a sense that our definition had succeeded in capturing the sorts of correspondence between states of affairs and sentences classically associated with truth. So, for instance, our truth definition had to imply a sentence like:
+(15) “Snow is white” is true iff snow is white.
+Note that the quotes here make the first half of this metalanguage sentence about the object language sentence “Snow is white”; the second half of the metalanguage sentence is about snow itself. Tarski then offered a definition of truth
+“A sentence is true if it is satisfied by all objects and false otherwise.” (1944, p. 353)
+where satisfaction is a relation between arbitrary objects and sentential functions, and sentential functions are expressions with a formal structure much like ordinary sentences, but which contain free variables, for example, “x is blue” or “x is greater than y.” Tarski thought we might indicate which objects satisfied the simplest sentential functions and then offer a further set of conditions under which compound functions were satisfied in terms of those simple functions. (Further refinements were made to a 1956 edition of the paper to accommodate certain features of model theory that we will not discuss here.) Once Tarksi added an inductive definition of the other operators of first-order logic, a definition of truth had apparently been given without appeal to inherently semantic notions, though Field (1972) would argue that “designation” and “satisfaction” were semantic notions as well. Whether this should be read as a deflationary account of truth or an analysis of a robust correspondence theory was a point of great debate among analytical philosophers, but much like Frege’s earlier work, it played the far more momentous role of convincing further generations of logicians and philosophers that the analysis of traditionally intractable philosophical notions with the tools of modern logic was both within their grasp and immensely rewarding.
+ 3. Mid-century Revolutions
+By the middle of the 20th century, the approach spawned by Frege, Moore and Russell had taken root with the Logical Positivists. The Second World War did a great deal to scatter the most talented philosophers from the Continent, and many settled at universities in Great Britain and the United States, spreading their views and influencing generations of philosophers to come. However, the analytical tradition always had a robust streak of criticism from within, and some of the pillars of the early orthodoxy were already under some suspicion from members of the Vienna Circle like Otto Neurath (see his (1933)) and gadflies like Karl Popper. The next section addresses the work of two figures, Quine and the later Wittgenstein, who challenged received views in the philosophy of language and served as transitional figures for contemporary views.
+ a. Quine and the Analytic/Synthetic Distinction
+W.V.O. Quine (1953) went after the very core of Logical Positivism, and in effect analytical philosophy, by attacking the analytic/synthetic distinction. The Positivists had been happy to admit a distinction between sentences that were true in virtue of the meanings of their terms and those that were true in virtue of the facts, but Quine brought a certain skepticism about the meanings of individual expressions to the table. Much like the Positivists, he was wary of anything that would not admit to empirical confirmation and saw meaning as one more such item.
+Quine dismissed the idea of a meaning as a real item somehow present in our minds beyond the ways in which it manifests itself in our behavior. He later dubbed this “the myth of the museum”—a place “in which the exhibits are the meanings and the words are the labels.” (1969, p. 27) In a strongly empiricist spirit, he argued that we have no access to such things in our experience, thus they could not explain our linguistic behavior, and therefore they had no rightful place in our account. Quine wondered whether there was a principled distinction between analytic and synthetic statements at all. In reviewing the prevailing ideas of analyticity, he found each one inadequate or question-begging. Analyticity was a dogma, an article of faith among empiricists (especially Logical Positivists) and one that could not stand closer scrutiny. Moreover, the Positivists paired analyticity with a second dogma, empirical reductionism, the view that each sentence or expression could be assigned its own distinctive slice of empirical content from our experience. Quine’s claim was not that we should not be empiricists or worry about such empirical content, but rather that no individual sentence or expression could be allotted such content all on its own. The sentences of our language operate in conjunction with one another to “face the tribunal of experience” as a whole. This holism entailed a certain egalitarianism among the sentences to which we commit ourselves, as well. Any claim could be held true, come what may, if we were willing to revise other parts of our “web of belief” to accommodate it, and any claim—even one we took to be a claim about meaning before, like “all bachelors are unmarried”—could be revised if conditions demanded it. (1953, p.43) Some sentences would have a relatively strong immunity from revision, for example, the laws of logic, but they enjoy that status only because of their centrality in our present ways of thinking. Other, less central claims could be revised more easily, perhaps with only passing interest, for example, claims about the number of red brick houses on Elm St. This wide-open revisability came to set a tone for epistemology in analytical philosophy during the latter half of the 20th century.
+Without tidy parcels of empirical content or analytic truths to anchor an account of meaning, Quine saw little use for meaning at all. Instead, his work focused on co-reference and assent among speakers. In Word and Object (1960), he suggested that our position as speakers is much like that of a field linguist attempting to translate a newly discovered language with no discernible connections to other local languages. He dubbed this approach “radical translation.” Faced with such a situation, we would search for recurring expressions and attempt to secure referents for them. In his classic example, we stand around with the locals, notice that rabbits occasionally run by and that the locals mutter “Gavagai” when the rabbits pass; we might be moved by this to translate their utterances as our own word “rabbit.” Thinking of the translatability of one utterance with another thus achieves the same sort of theory-building effect that talk of shared meaning did, but without appeal to abstract objects like meanings. However, this also led to Quine’s thesis of the “indeterminacy of translation.” When we form such hypotheses based on observations of speakers’ behavior, that evidence always underdetermines our hypothesis, and the evidence could be made to fit other translations, even if they start to sound a bit strange to us. Hence, “gavagai” might also be translated as “dinner” (if the locals eat rabbits) or “Lo, an undetached rabbit part!” We might narrow the plausible translations a bit with further observation, though not to the logical exclusion of all others. Direct queries of the local speakers might also winnow the set of plausible translations a bit, but this presumes a command of a great deal of abstract terminology that we share with those speakers, and this command would presumably rest upon a shared understanding of the simpler sorts of vocabulary with which we started. Hence, nothing that we can observe about those speakers will completely determine the correctness of one translation over all competitors and translation is always indeterminate. This is not to say that we should not prefer some translations over others, but our grounds for doing so are usually pragmatic concerns about simplicity and efficiency, We should also note that each speaker is in much the same position when it comes to understanding other speakers even in her mother tongue; we have only the observable behaviors of other speakers and familiarity with our own usage of such terms, and we must make ongoing assessments of other speakers in conversation in just these ways. Donald Davidson, Quine’s student, would continue to develop these ideas even further in Quine’s wake. Davidson emphasized that the interpretations we create of the expressions in our native language are no less radical than what Quine was suggesting of the field linguist’s attempted translations of radically new expressions (see his 1984).
+Quine’s work inspired many, but also came under sharp attack. The behaviorism at the heart of his account has fallen out of favor with the majority of philosophers and cognitive scientists. Much of Noam Chomsky’s (1959) critique of B.F Skinner may be said to apply to Quine’s work. The emphasis on innateness and tacit knowledge in Chomsky’s work has been subject to intense criticism as well, but this criticism has not pointed philosophers and linguists back towards the sort of strongly behaviorist empiricism on which Quine’s account was founded. Still, most contemporary philosophers of language owe some debt to Quine for dismantling the dogmas of early analytical philosophy and opening new avenues of inquiry.
+ b. The Later Wittgenstein
+Wittgenstein left Cambridge in the early 1920s and pursued projects outside academia for several years. He returned in 1929 and began doing very different sorts of work. It is a matter of great debate, even among Wittgenstein acolytes, how much affinity there is between these stages. Many philosophers of language will speak of “the later Wittgenstein” as though the earlier views were wholly different and incompatible, while others insist that there is strong continuity of themes and methods. Though his early work was widely misunderstood at the time, there can be little doubt that some important changes took place, and these are worth noting here.
+In the posthumously published Philosophical Investigations (1953), Wittgenstein broke with some of the theoretical aspirations of analytical philosophy in the first half of the century. Where analytical philosophers of language had strived for elegant, parsimonious logical systems, the Investigations suggested that language was a diverse, mercurial collection of “language games”—goal-directed social activities for which words were just so many tools to get things done, rather than fixed and eternal components in a logical structure. Representation, denotation and picturing were some of the goals that we might have in playing a language game, but they were hardly the only ones. This turn in Wittgenstein’s philosophy ushered in a new concern for the “pragmatic” dimensions of language usage. To speak of the pragmatic significance of an expression in this sense is to consider how grasping it might be manifested in actions, or the guiding of actions, and thus to turn our attention to usage rather than abstract notions of logical form common to earlier forms of analytical philosophy. (Speech act theorists will also distinguish between pragmatics and semantics in a slightly more restrictive sense, as we shall see in §4.2.) The view that “meaning is use” (1953, p.43) was often attributed to him, though interpretations of this view have varied widely. Wright (1980 and 2001) read this as a call to social conventionalism about meaning, McDowell (1984) explicitly rejected such a conclusion and Brandom (1994) took it as an entry point into an account of meaning that is both normative and pragmatic (that is, articulated in terms of obligations and entitlements to do things in certain ways according to shared practices). But it can be safely said that Wittgenstein rejected a picture of language as a detached, logical sort of picturing of the facts and inserted a concern for its pragmatic dimensions. One cannot look at the representational dimension of language alone and expect to understand what meaning is.
+A second major development in the later Wittgenstein’s work was his treatment of rules and rule-following. Meaning claims had a certain hold over our actions, but not the sort that something like a law of nature would. Claims about meaning reflect norms of usage and Wittgenstein argued that this made the very idea of a “private language” absurd. By this, he means it would not be possible to have a language whose meanings were accessible to only one person, the speaker of that language. Much of modern philosophy was built on Cartesian models that grounded public language on a foundation of private episodes, which implied that much (perhaps all) of our initial grasp of language would also be private. The problem here, said Wittgenstein, is that to follow a rule for the use of an expression, appeal to something private will not suffice. Thus, a language intelligible to only one person would be impossible because it would be impossible for that speaker to establish the meanings of its putative signs.
+If a language were private, then the only way to establish meanings would be by some form of private ostension, for example, concentrating on one’s experiences and privately saying, “I shall call this sensation ‘pain’.” But to establish a sign’s meaning, something must impress upon the speaker a way of correctly using that sign in the future, or else the putative ostension is of no value. Assuming we began with such a private episode, what could be happening on subsequent uses of the term? We cannot simply say that it feels the same to us as it did before, or strikes us the same way, for those sorts of impressions are common even when we make errors and therefore cannot constitute correctness. One might say that one only has to remember how one used the sign in the past, but this still leaves us wondering. What is one remembering in that case? Until we say how a private episode could establish a pattern of correct usage, memory is beside the point. To alleviate this difficulty, Wittgenstein turned his attention to the realm of public phenomena, and suggested that those who make the same moves with the rules share a “lebensform” or “form of life,” which most have taken to be one’s culture or the sum total of the social practices in which one takes part. Kripke (1982) offered a notable interpretation of Wittgenstein’s private language argument, though opinions vary on its fidelity to Wittgenstein’s work. Subsequent generations of philosophers on both sides of the Atlantic would be profoundly influenced by this argument and struggle with its implications for decades to come.
+ 4. Major Areas in the Contemporary Field
+After the seminal works of Quine and Wittgenstein at mid-century, the majority of views expressed in the field may be broadly lumped into two groups: those emphasizing truth conditions for sentences in a theory of meaning and those emphasizing use. Truth-conditional theories continue the formal analysis of Frege, Carnap and Tarski, minus Positivism’s more radical assumptions, while use theories and speech act theory take Wittgenstein’s emphasis on the pragmatic to heart. A brief overview of major figures and issues in each of these follows.
+ a. Truth-Conditional Theories of Meaning
+The majority of philosophers of language working in the analytical tradition share Frege’s intuition that we know the meaning of a word when we know the role it plays in a sentence and we know the meaning of a sentence when we know the conditions under which it would be true. Davidson (1967) and Lewis (1972) argued for such an approach and stand as watersheds in its development. Truth-conditional theories generally begin with the assumption that something is a language or a linguistic expression if and only if its significant parts can represent the facts of the world. Sentences represent facts or states of affairs in the world, names refer to objects, and so forth. The central focus of a theory of meaning remains sentences though, since it is sentences that apparently constitute the most basic units of information. For instance, an utterance of the name “John Coltrane” does not seem to say anything until we point to someone and say, “This is John Coltrane” or assert “John Coltrane was born in North Carolina” and so on. This view of the sentence as the most basic units of meaning is compatible with compositionality, the view that sentences are composed of a finite stock of simpler elements that may be reused and recombined in novel ways, so long as we understand the meanings of those subsentential expressions as contributions to the meanings of sentences. We might understand names and other referring expressions as “picking out” their referents, to which the rest of a sentence attributes something, very roughly speaking. Truth-conditional theories of meaning have also been attractive to those who would prefer a naturalistic and reductionist semantics, appealing to nothing outside the natural world as an explainer of meaning. Strongly naturalistic accounts are also given by Evans (1983), Devitt (1981), and Devitt and Sterelny (1999).
+Much attention in this area in the last twenty-five years has been directed at theories of reference, given the importance of explicating their contribution to truth-theoretical accounts. The view, often attributed to Frege, that the sense of proper names was a function of a set of descriptions led many philosophers seeking a truth-conditional account to include such descriptions in the truth conditions for sentences in which they occurred as a means of explaining their reference. However, a new wave of interest in more direct forms of reference began in the 1970s. The enthusiasm for this approach grew out of Kripke’s Naming and Necessity (1980) and a series of articles by Hilary Putnam. (1973 and 1975) There, they attacked the notion that identity statements expressed synonymies, known a priori at the time of their introduction. If we (or whoever introduces the term) stipulate that Aristotle is the author of Nicomachean Ethics, tutor of Alexander, and so on, it would seem to be known a priori that this was true of the referent of that name. The referent is just that thing which satisfies all or most of the “cluster of descriptions” that express the sense of that name. But if we discovered that much or all of this was false of the person we had called “Aristotle,” would this imply that Aristotle did not exist, or that someone else was Aristotle? Much the same could be said of natural kind terms: we took whales to be fish, but those big cetaceans have lungs and mammary glands, so are there no whales after all?
+Instead, Putnam and Kripke suggested that proper names and natural kind terms (and descriptions like “the square root of 289”) were rigid designators, or expressions that referred to the same objects or kinds in every possible world without that relation being mediated by some form of descriptive content. Other pieces of descriptive content are actually associated with those expressions—we do say that Aristotle wrote Nicomachean Ethics and that whales are mammals, and so on—but their reference is fixed at the time of their introduction and our use preserves that reference, not the descriptive content. The descriptions associated with a rigid designator (“the author of Nicomachean Ethics,” and so on) are thus always revisable. This has been seen as a form of externalism in semantics, whereby the meanings of words are not entirely determined by psychological states of the speakers who use them, or as Putnam famously quipped, “meanings just ain’t in the head” (1975, p. 227). Notable recent works in this field include Kitcher and Stanford (2000), Soames (2002) and Berger (2002). Several accounts have suggested that while rigid designation in itself has some plausibility, the reductionist elements of these theories leave us with an implausibly direct and unmediated account of reference that must be refined or replaced (Dummett (1974), MacBeth (1995) and Wolf (2006)).
+ b. Meaning and Use
+Verificationist theories fell out of favor after Quine, but were reinvigorated by Michael Dummett’s work on meaning and logic as well as his extensive exegetical work on Frege. (See his 1963, 1974, 1975 and 1976.) Dummett shared the Positivists’ concern with the cognitive significance of a statement, which he interpreted as Frege’s real concern in talking about sense in the first place. Many read Frege as a Platonist about meaning, but Dummett challenged the need for such ontological extensions and their plausibility as explainers of semantic facts in general. Dummett’s position was less a product of a priori ontological stinginess than a continuation of Wittgensteinian themes. Dummett argued that a model of meaning is a model of our understanding when we know such meanings. We are sometimes able to express this understanding explicitly, but a model of meaning could not include such a criterion of explicitness on pain of an infinite regress. (Note Wittgenstein’s Private Language Argument on this point.) Thus, the knowledge that generally constitutes understanding must be implicit knowledge and we can only ascribe such implicit knowledge when we have some sort of observable criteria by which to do so. These observable criteria will be matters of the use of sentences and expressions. (See Dummett 1973, pp. 216ff.)
+While such a mix of usage and verification may be straightforward for sentences and conditions that occasionally obtain, it is quite another matter in cases in which they do not. We can grasp the meaning of a sentence whose truth conditions never actually obtain or can never (practically speaking) be verified, for example, “every even number is the sum of two primes.” Knowing what it is for some condition to obtain and knowing that a particular case exemplifies this are separable conditions, so meaning cannot be the simple verification of placing someone in a certain condition and seeing what sentences they utter. Dummett expanded his account by the inclusion of conditions like providing correct inferential consequences of a sentence, correct novel use of a sentence and judgments about sufficient or probable evidence for the truth or falsity of a sentence. He maintains that some form of self-verifying presentations will support these demands and allow us to derive all the features of language use and meaning, though this remains a sticking point for many who are skeptical of such episodes and epistemic foundationalism in general.
+Dummett’s reading of Wittgenstein’s emphasis on use has not been the only one, though. Following Sellars (1967), theorists like Harman (1982 and 1987), Block (1986 and 1987), and Brandom (1994) have all pursued an “inferential role” or “conceptual role” semantics that characterized a grasp of the meaning of sentences as a grasp of the inferences one would make to and from that sentence. Block and Harman have explicitly taken this as a basis of a functionalist account of mental content in psychology, as well. Brandom has not pursued such causal explanatory strategies, but instead has emphasized the rational dimension of linguistic competence and the importance of inference to such an account. We grasp the meaning of a sentence when we understand other sentences as relevant to it and infer to and from them in the course of giving and asking for reasons for the claims that we make. A substantial extension of this work, offering a robustly normative account of meaning in sharp contrast to the causal reductionism mentioned above, is offered in Lance and O’Leary-Hawthorne (1997).
+ c. Speech Act Theory and Pragmatics
+Wittgenstein’s later work sparked interest in the pragmatic dimensions of language use among some British philosophers working not long after his death, but a number grew exasperated with the more deflationary and “ordinary language” approaches of Wittgenstein’s acolytes, who saw almost no role for theoretical accounts in describing language at all. Some opted instead to pursue what has come to be known as speech act theory, led initially by the work of John Austin. (See Grice (1975), Austin (1962) and Searle (1969).) These philosophers sought an account of language by which sentences were tools for doing things, including a taxonomy of uses to which pieces of the language could be put. While conventional meaning remained important, speech act theorists extended their focus to an examination of the different ways in which utterances and inscriptions of sentences might play a role in achieving various goals. For instance, the sentence
+(16) It is sunny outside.
+could be a report, an admonition not to take an umbrella, a lie (if it’s not sunny), practicing English, a taunt and many other things depending on the scenario in which it is put to use.
+To see clearly how speech act theorists might address these issues, we should take note of one of its central doctrines, the pragmatics/semantics distinction. We may state this generally by saying that semantic information pertains to linguistic expressions (such as words and sentences), while pragmatic information pertains to utterances and the facts surrounding them.  The study of pragmatics thus includes no attention to features like truth or the reference of words and expressions, but it does include attention to information about the context in which a speaker made the utterance and how those conditions allow the speaker to express one proposition rather than another. This strongly contextual element of pragmatics often leads to special attention to the goals that a speaker might achieve by uttering a sentence in a particular way in that context and why she might have done so. Thus, what a speaker means in saying something is often explained by an emphasis on the speaker’s intentions: to reveal to the hearer that the speaker wants the hearer to respond in a certain way and thus to get the hearer to respond in this way. However, there may be cases in which these intentions have nothing to do with the meaning of the sentence. I might say, “It is raining outside,” with the intention of getting you to take your umbrella, but that’s not what the sentence means. Likewise, I might have said, “The Weather Channel is predicting rain this afternoon,” with those intentions, but this does not entail that those two sentences mean the same thing.
+Those intentions whose success is entirely a matter of getting a hearer’s recognition of the actual intention itself are called illocutionary intentions; those intentions whose success is entirely a matter of getting the hearer to do something (above and beyond understanding the semantic content of what is said) are called perlocutionary intentions. Perlocutionary intentions must be achieved through illocutionary acts, for example, making you aware of my intentions to get you to realize something about the weather leads you to think of your umbrella and take it. Following Bach and Harnish (1979), speech act theorists typically characterize speech acts by four analytical subcomponents of speech acts: (1) utterance acts, that is, the very voicing or inscribing of words and sentences; (2) propositional acts, that is, referring to things and predicating properties and relations of them; (3) illocutionary acts, by which speakers interact with other speakers and the utterances constitute moves in that interaction, for example, promises and commands; and (4) perlocutionary acts, by which speakers bring about or achieve something in others by what they say, for example, convincing or persuading someone. Some theorists would also add “meaning intention” and “communicative intention” to this list to emphasize shared understanding of the conventional meanings attached with words and the intersubjectivity of speech acts. As these categories might imply, speech act theory has also incorporated far more consideration of conversational features of discourse and the social aspects of communications than other branches of the philosophy of language. For this reason, it offers promising points of connection between sophisticated semantic accounts and the empirical research of social scientists.
+Grice (1975) also suggested that philosophy must consider the ways in which speakers go beyond what is strictly, overtly said by their utterances to consider what is contextually implicated by them. By “implicated,” here, we are considering the ways in which the things a speaker says may invite another speaker to some further set of conclusions, but not in the strict logical sense of entailment or a purely formal matter of conventional meanings. Grice divided these implicatures into two large categories: conventional implicatures and conversational implicatures. Conventional implicatures are those assigned to utterances based on the conventional meanings of the words used, though not in the ways familiar from ordinary logical entailments. For instance:
+(17) Michael is an Orioles fan, but he doesn’t live in Baltimore.
+(18) Michael is an Orioles fan, and he doesn’t live in Baltimore.
+(19) Michael’s being an Orioles fan is unexpected, given that he doesn’t live in Baltimore.
+Here, (19) is implied by (17), but not by (18). This failure is not a matter of differences in what makes (17) and (18) true, but in the way in which conventions and conversational principles allow speakers to convey such information. Roughly, the word “but” is used by English speakers to emphasize contrast and surprise, as a speaker would in saying (17).
+Conversational implicatures are assigned based on a series of maxims and assumptions by which speakers in conversation cooperate with one another, according to Grice. He suggests maxims of quantity (make your contribution informative but not excessively so), quality (make your contribution true), relation (be relevant), and manner (be perspicuous). To get a sense of how to apply these, consider one of Grice’s (1975) examples:
+(20) Smith doesn’t seem to have a girlfriend these days.
+(21) He has been paying a lot of visits to New York lately.
+Imagine two people having a conversation, with A saying (20) and B saying (21). B implicates that Smith might have a girlfriend in New York, assuming that B is following the maxims mentioned above. If not, say, because B is saying something false or irrelevant, then speakers cannot cooperate and communication collapses. Grice contends that these conversational implicatures are calculable given the right sorts of contextual and background information, along with the linguistic meaning of what is said and the speakers’ adherence to the cooperative maxims described earlier, and much of the literature on conversational implicature has attempted to make good on this notion. Many philosophers working on these aspects of pragmatics worry that these maxims will not suffice as an account of implicature however, and readers should consult Davis (1998) for the most current set of objections to classic Gricean accounts.
+Attention to both forms of implicature has drawn philosophers’ attention to matters of presupposition, as well. As the name would suggest, the discussion of this subject focuses on the sorts of information required as background for various sorts of logical and conversational features to obtain. The well-worn example, “Have you stopped robbing liquor stores?” presupposes that you have been robbing liquor stores. Implicatures of both forms thus involve various sorts of presupposition, for example the conventional implicature of “but” in (17) presupposes a proposition about the demographics of Orioles fans, and much recent work in pragmatics has been devoted to developing typologies of presupposition at work in conversation. The two most serious questions for theorists are (1) how presuppositions are introduced into or “triggered” in the sentences in which they play a role and (2) how they are “projected” or carried from the clauses and parts of sentences in which they appear up into the higher-level sentences. The origin of much of the work on this is Langendoen and Savin (1971), and a vast literature has developed in light of it in linguistics and formal semantics.
+ 5. Future Directions and Emerging Debates
+While linguistic analysis does not dominate thinking in analytical philosophy as it did for much of the twentieth century, it remains a vibrant field that continues to develop. As in the early days of analytical philosophy, there is great interest in parallels between the content of utterances and the attribution of content to mental states, but many cognitive scientists have moved away from the classic analytical assumption that thoughts had a symbolic or sentence-like content. Following the directions mapped out in Rumelhart and McClelland (1986) some cognitive scientists have embraced connectionism, a view that emphasizes the dynamic interaction between large sets of interconnected nodules (much like neurons in the brain), as a model for cognition. Thought would thus not be symbol processing, akin to an internal monologue, and the scope of traditional accounts of language and meaning would be greatly diminished. Readers may consult Tomberlin (1995) for an overview of the field and Churchland (1995) for one of its most ardent proponents. A defense of more traditional symbol-processing approaches has also developed, notably in the work of Fodor and Lepore (1999), complemented by even more radical challenges to symbol processing in the form of dynamic systems theory (see van Gelder 1995 and Rockwell 2005).
+Much recent work in the philosophy of language has also been concerned with the context sensitivity of expressions and sentences. This has been driven in no small part by an increasing emphasis on context sensitivity in epistemology (DeRose 1998; Lewis 1996) and meta-ethics (Dancy 1993). Of course, much more emphasis had been put on context over the last fifty years by use and speech act theories. Recently, some have come out in favor of context insensitivity as the predominant mode of natural languages. Cappelen and Lepore (2005) do not argue that there are no context sensitive words or sentences, but rather for semantic minimalism, the view that there are relatively few and they are familiar categories like pronouns and indexicals. They combine this with new work on speech act content to mount a substantial challenge to a great many contemporary philosophers. This debate between minimalists and contextualists promises to be a lively one in the philosophy of language over the next few years.
+ 6. References and Further Reading
+
+(Works are listed first by their original dates of publication, with more recent and widely available editions included in some entries.)
+Austin, J. L. (1962) How To Do Things With Words. Oxford: Oxford University Press.
+Bach, K. and Harnish, R. (1979) Linguistic Communication and Speech Acts. Cambridge, MA: The MIT Press.
+Berger, Alan. (2002) Terms and Truth: Reference Direct and Anaphoric. Cambridge, MA: The MIT Press.
+Block, N. (1986) “Advertisement For a Semantics for Psychology.” In P. French, T. Uehling and H. Wettstein (Eds.). Midwest Studies in Philosophy, vol. 10, pp. 615-678. Minneapolis: University of Minnesota Press.
+Block, N. (1987) “Functional Role and Truth Conditions,” Proceedings of the Aristotelian Society 61, 157-181.
+Brandom, R. (1994) Making It Explicit. Cambridge, MA: Harvard University Press.
+Cappelen, H. and Lepore, E. (2005) Insensitive Semantics. Oxford: Basil Blackwell Pub.
+Carnap, R. (1928) The Logical Structure of the World (Die Logische Aufbau der Welt). George, E. (trans.) New York: Open Court Classics, 1999.
+Chomsky, N. (1959) “A Review of B. F. Skinner’s Verbal Behavior.” In Language, 35(1), 26-58.
+Churchland, P. (1995) Engine of Reason, Seat of the Soul: A Philosophical Journey Into the Brain. Cambridge, MA: The MIT Press.
+Dancy, J. (1993) Moral Reasons. Oxford: Basil Blackwell Pub.
+Davidson, D. (1967) “Truth and Meaning.” In Davidson (1984), pp. 17-36.
+Davidson, D. (1984) Inquiries Into Truth and Interpretation. Oxford: Oxford University Press.
+Davis, W. (1998) Implicature: Intention, Convention and Principle in the Failure of Gricean Theory. Cambridge: Cambridge University Press.
+DeRose K. (1995) “Solving the Skeptical Problem.” The Philosophical Review 104(1), 1-7, 17-52.
+Devitt, Michael. (1981) Designation. New York: Columbia University Press.
+Devitt, M. and Sterelny, K. (1999) Language and Reality. Cambridge, MA: The MIT Press.
+Dummett, M. (1963) “Realism.” In Dummett (1978), pp. 145-165.
+Dummett, M. (1973) “The Philosophical Basis of Intuitionistic Logic.” In Dummett (1978), pp. 215-247.
+Dummett, M. (1974) “The Social Character of Meaning.” In Dummett (1978), pp. 420-430.
+Dummett, M. (1975) “Frege’s Distinction Between Sense and Reference.” In Dummett (1978), pp. 116-144.
+Dummett, M. (1976) “What Is a Theory of Meaning? (II)” In Truth and Meaning: Essays in Semantics. G. Evans and J. McDowell. (Eds.) Oxford: Clarendon Press.
+Dummett, M. (1978) Truth and Other Enigmas. Cambridge, MA: Harvard University Press.
+Evans, G. (1983) The Varieties of Reference. Oxford: Oxford University Press.
+Field, H. (1972) “Tarski’s Theory of Truth.” Journal of Philosophy 69, 347-75.
+Field, H. (1977) “Logic, Meaning and Conceptual Role” Journal of Philosophy 74, 379-408.
+Fodor, J and E. Lepore. (1999) “All at Sea in Semantic Space: Churchland on Meaning Similarity.” Journal of Philosophy 96, 381-403.
+Frege, G. (1892) “On Sense and Reference.” In The Frege Reader. Beaney, M. (Ed.) London: Penguin Press, 1997.
+Frege, G. (1884) The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number. J. Austin (Trans.) Evanston: Northwestern University Press, 1980.
+Grice, P. (1975) “Logic and Conversation.” In Studies in the Way of Words, pp. 22-40. Cambridge, MA: Harvard University Press, 1989.
+Harman, G. (1982) “Conceptual Role Semantics.” Notre Dame Journal of Formal Logic 23, 242-56.
+Harman, G. (1987) “(Non-solipsistic) Conceptual Role Semantics.” In New Directions in Semantics. E. Lepore. (Ed.) London: Academic Press.
+Hempel, C. (1950) “Problems and Changes in the Empiricist Criterion of Meaning.” Revenue Internationale de Philosophie 11, 41-63.
+Kitcher, P. and M. Stanford. (2000) “Refining the Causal Theory of Reference for Natural Kind Terms.” Philosophical Studies 97, 99-129.
+Kripke, S. (1972) Naming and Necessity, Cambridge, MA: Harvard University Press.
+Kripke, S. (1982) Wittgenstein on Rules and Private Language. Cambridge, MA: Harvard University Press.
+Lance, M. and O’Leary-Hawthorne, J. (1997) The Grammar of Meaning. Cambridge, UK: Cambridge University Press.
+Langendoen, D.T. and Savin, H.B. (1971) “The Projection Problem for Presuppositions.” In C.J. Fillmore and D.T. Langendoen (Eds.) Studies in Linguistic Semantics. New York: Holt, Reinhart and Winston.
+Lewis, D. (1972) “General Semantics.” In G. Harman and D. Davidson (Eds.) Semantics of Natural Language. Dordrecht: D. Reidel Pub.
+Lewis, D. (1996) “Elusive Knowledge.” Australasian Journal of Philosophy 74(4), 549-67.
+Locke, J. (1690) An Essay Concerning Human Understanding. P. Nidditch. (Ed.) Oxford: Oxford University Press, 1975.
+MacBeth, D. (1995) “Names, Natural Kinds and Rigid Designation.” Philosophical Studies 79, 259-281.
+McDowell, J. (1984) “Wittgenstein on Following a Rule.” Synthese 58(3), 325-364.
+Meinong, A. (1904) “Über Gegenstandstheorie.” In A. Meinong (ed.), Untersuchungen zur Gegenstandstheorie und Psychologie, Leipzig: Barth.
+Mill, J.S. (1843) System of Logic: Ratiocinative and Inductive. Stockton, CA: University Press of the Pacific, 2002.
+Neurath, O. (1933) “Protocol Sentences.” G. Shick. (Trans.) In A. Ayer (Ed.) Logical Positivism, pp. 199-208. New York: The Free Press, 1959.
+Putnam, H. (1973) “Meaning and Reference.” The Journal of Philosophy 70, 699-711.
+Putnam, H. (1975) “The Meaning of Meaning.” In Mind, Language and Reality, pp. 215-271. Cambridge: Cambridge University Press.
+Rockwell, T. (2005) “Attractor Spaces as Modules: A Semi-Eliminative Reduction of Symbolic AI to Dynamic Systems Theory.” Minds and Machines 15(1), 23-95.
+Rumelhart, D. and McClelland, J. and the PDP Research Group. (2006) Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Vol. 2: Psychological and Biological Models. Cambridge, MA: The MIT Press.
+Russell, B. (1905) “On Denoting.” Mind 14, 479-493.
+Russell, B. (1919) “Descriptions.” In Introduction to Mathematical Philosophy pp. 167-180. London: George Allen and Unqin Ltd.
+Quine, W.V.O. (1953) “Two Dogmas of Empiricism.” In From a Logical Point of View, pp. 20-46. Cambridge, MA: Harvard University Press.
+Quine, W.V.O. (1960) Word and Object. Cambridge, MA: The MIT Press.
+Quine, W.V.O. (1969) “Ontological Relativity.” In Ontological Relativity and Other Essays, pp 26-68. New York: Columbia University Press.
+Schlick, M. (1933) “Positivism and Realism.” D. Rynin. (Trans.). In A. Ayer (Ed.) Logical Positivism, pp. 82-107. New York: The Free Press, 1959.
+Searle, J. (1969) Speech Acts: An Essay in the Philosophy of Language. Cambridge, UK: Cambridge University Press.
+Sellars, W. (1967) Science and Metaphysics. Atascasdero, CA: Ridgeview Press.
+Soames, S. (2002) Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity. Oxford: Oxford University Press.
+Tarski, A. (1933) “The concept of truth in the languages of the deductive sciences.” In A. Tarski. Logic, Semantics, Metamathematics, papers from 1923 to 1938, pp. 152-278. Corcoran, J. (Ed.). Indianapolis : Hackett Publishing Company, 1983.
+Tarski, A. (1944) “The Semantic Conception of Truth and the Foundations of Semantics.” Philosophy and Phenomenological Research 4, 341-375
+Tomberlin, J. (Ed.) (1995) Philosophical Perspectives 9: AI, Connectionism and Philosophical Psychology. Atascadero, CA: Ridgeview Press.
+Van Gelder, T. (1995) “What Might Cognition Be If Not Computation?” Journal of Philosophy 92, 345-381.
+Wittgenstein, L. (1922) Tractatus Logico-Philosophicus. C. Ogden. (Trans.) New York: Dover Pub., 1999.
+Wittgenstein, L. (1953) Philosophical Investigations: The German Text, With a Revised English Translation. Anscombe, G. and Anscombe, E. (Trans.). Oxford: Basil Blackwell Pub., 2002.
+Wolf, M. (2006) “Rigid Designation and Anaphoric Theories of Reference.” Philosophical Studies 130(2), 351-375.
+Wright, C. (1980). Wittgenstein on the Foundations of Mathematics. Cambridge, MA: Harvard University Press.
+Wright, C. (2001). Rails to Infinity. Cambridge, MA: Harvard University Press.
+
+Author Information
+Michael P. Wolf
+Email: mwolf@washjeff.edu
+Washington and Jefferson College
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

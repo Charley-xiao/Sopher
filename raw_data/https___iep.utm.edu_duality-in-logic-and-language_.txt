@@ -1,0 +1,726 @@
+
+
+
+
+
+
+
+
+
+Duality in Logic and Language | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duality in Logic and Language
+Duality phenomena occur in nearly all mathematically formalized disciplines, such as algebra, geometry, logic and natural language semantics. However, many of these disciplines use the term ‘duality’ in vastly different senses, and while some of these senses are intimately connected to each other, others seem to be entirely unrelated. Consequently, if the term ‘duality’ is used in two different senses in one and the same work, the authors often explicitly warn about the potential confusion.
+This article focuses exclusively on duality phenomena involving the interaction between an ‘external’ and an ‘internal’ negation of some kind, which arise primarily in logic and linguistics. A well-known example from logic is the duality between conjunction and disjunction in classical propositional logic:  is logically equivalent to , and hence  is logically equivalent to . A well-known example from linguistics concerns the duality between the aspectual particles already and still in natural language: already outside means the same as not still inside, and hence, not already outside means the same as still inside (where inside is taken to be synonymous with not outside). Examples such as these show that dualities based on external/internal negation show up for a wide variety of logical and linguistic operators.
+Duality phenomena of this kind are highly important. First of all, since they occur in formal as well as natural languages, they provide an interesting perspective on the interface between logic and linguistics. Furthermore, because of their ubiquity across natural languages, it has been suggested that duality is a semantic universal, which can be of great heuristic value. Finally, duality principles play a central role in Freudenthal’s famous proposal for a language for cosmic communication.
+Many authors employ the notion of duality as a means to describe the specific details of a particular formal or natural language, without going into any systematic theorizing about this notion itself. Next to such auxiliary uses, however, there also exist more abstract, theoretical accounts that focus on the notion of duality itself. For example, these theoretical perspectives address the group-theoretical aspects of duality, or its interplay with the so-called Aristotelian relations. This article examines a wide variety of dualities in formal and natural languages, and it discusses some of the more theoretical perspectives on duality.
+The article is organized as follows. Sections 1 and 2 provide an extensive overview of the most important concrete examples of duality in logic and natural language. Section 3 describes a detailed framework (based on the notion of a Boolean algebra) that allows systematical analysis of these dualities. Section 4 presents a group-theoretical approach to duality phenomena, and Section 5 draws an extensive comparison between duality relations and another type of logical relation, namely those that characterize the Aristotelian square of opposition.
+As to the technical prerequisites for this article, Sections 1 and 2 should be accessible to everyone with a basic understanding of philosophical logic. In Sections 3, 4 and 5, the use of some other mathematical tools and techniques is unavoidable; these sections require a basic understanding of discrete mathematics (in particular, Boolean algebra and elementary group theory).
+Table of Contents
+
+Duality in Logic
+Duality in Natural Language
+Theoretical Framework
+A Group-Theoretical Approach to Duality
+Duality Relations and Aristotelian Relations
+References and Further Reading
+
+1. Duality in Logic
+Conjunction and disjunction. The most widely known example of duality in logic is undoubtedly that between conjunction and disjunction in classical propositional logic (). Because of their semantics, i.e. the way they are standardly interpreted in , these connectives can be defined in terms of each other, and consequently, only one of them needs to be taken as primitive. For example, if conjunction () and negation () are taken as primitives, then disjunction () can be defined as follows:
+
+
+ (1)    
+ Alternatively, if disjunction is taken as primitive, then conjunction can be defined as follows:
+
+ (2)    
+Furthermore, each of these equivalences can be derived from the other one; for example, if (1) is taken as primitive, then we obtain (2) as follows:
+
+ (3)    
+Finally, in both cases we obtain the well-known laws of De Morgan. For example, if conjunction is taken as primitive, then (4) follows immediately from (1), while (5) follows from (1) via (3):
+
+ (4)    
+
+ (5)    
+Equivalences such as (1–5) exhibit the duality between conjunction and disjunction. They clearly show the interaction between an internal negation (which attaches to each of the individual formulas  and , and thus occurs inside the scope of the conjunction/disjunction connective) and an external negation (which occurs outside the scope of the connectives). Equivalences (1–2) show that applying both internal and external negation to a disjunction yields the corresponding conjunction, and vice versa. Similarly, (4–5) show that the internal negation of a disjunction is logically equivalent to the external negation of the corresponding conjunction, and vice versa. All these equivalences are manifestations of the underlying semantics of the conjunction and disjunction connectives in .
+Universal and existential quantifiers. Another well-known case of duality concerns the universal and existential quantifiers in classical first-order logic (). The situation here is largely analogous to that of conjunction and disjunction. Because of their semantics, i.e. the way they are standardly interpreted in , these quantifiers can be defined in terms of each other, and consequently, only one of them needs to be taken as primitive. For example, if the universal quantifier () is taken as primitive, the existential quanifier () can be defined as follows:
+
+ (6)    
+Conversely, if the existential quantifier is taken as primitive, then the universal quantifier can be defined as follows:
+
+ (7)    
+Again, each of these equivalences can be derived from the other one; for example, if (6) is taken as primitive, then we obtain (7) as follows:
+
+ (8)    
+Finally, in both cases we obtain the well-known quantifier laws. For example, if the universal quantifier is taken as primitive, then (9) follows immediately from (6), while (10) follows from (6) via (8):
+
+ (9)    
+
+ (10)    
+Equivalences such as (6–10) exhibit the duality between the universal and the existential quantifier. Again, they show the interaction between an internal negation (which occurs inside the scope of the quantifier) and an external negation (which occurs outside the scope of the quantifier). Equivalences (6–7) show that applying both internal and external negation to an existential quantifier yields the corresponding universal quantifier, and vice versa. Similarly, (9–10) show that the internal negation of an existential quantifier is logically equivalent to the external negation of the corresponding universal quantifier, and vice versa. All these equivalences are manifestations of the underlying semantics of the universal and existential quantifiers in .
+Modal operators. Another rich source of dualities is the broad family of modal logics. For example, in alethic modal logic, necessity () and possibility () are dual to each other (11–12), while in deontic logic, obligation () and permission () are usually taken as duals (13–14):
+
+ (11)    
+
+ (12)    
+
+ (13)    
+
+ (14)    
+Blackburn et al. (2001) provide many other modal examples from concrete application domains, such as temporal logic, propositional dynamic logic and hybrid logic, and more mathematically motivated examples, such as the dualities involving the difference modality and the universal modality. In general, an -ary modal operator is called a  triangle (), and its dual a nabla ():
+
+ (15)    
+
+ (16)    
+The equivalences (15–16) again clearly illustrate the interaction between internal and external negation. Note, furthermore, that the internal negation is applied to all formulas (). This was also the case with conjunction/disjuction (1–2) and with the universal/existential quantifiers (6–7) (although the latter case is trivial, since in equivalences (6–7) there is only a single formula () to which the internal negation can be applied).
+Interconnections. Many of the examples given above are systematically related to each other, and might thus be viewed as manifestations of the same underlying duality. First of all, it is well-known that the propositional connectives of conjunction and disjunction are related to the universal and existential quantifiers, respectively. For example, the formulas  and  can informally be viewed as expressing the conjunction  and the disjunction , respectively.  This reveals a structural similarity between equivalences (1–2) and (6–7). Secondly, in Kripke semantics the modal operators are interpreted as quantifying over possible worlds. For example, the formulas  and  can be interpreted as stating that  is true in all possible worlds and that  is true in at least one possible world, respectively. This reveals a structural similarity between equivalences (6–7) and (11–12).
+2. Duality in Natural Language
+Quantifiers and modalities in natural language. The most obvious class of natural language expressions that give rise to duality behavior, are the immediate counterparts of the logical operators discussed in Section 1. For example, the determiners all and some combine with a noun to yield noun phrases such as all books and some books, and seem to correspond directly to the quantifiers  and . This correspondence is not entirely unproblematic, since it ignores linguistically relevant distinctions, such as the difference between every and all vis-à-vis collective and distributive predicates (Dowty 1987; Brisson 2003), and the distinction between quantificational and non-quantificational uses of some (Löbner 1987). Setting such considerations aside, however, one can say that the natural language determiners all and some are each other’s duals, just like the first-order quantifiers  and  are each other’s duals. Similarly, the duality relation between  and  in modal logic also shows up for a whole range of natural language expressions for necessity and possibility. In logic,  and  are almost invariably operators taking propositions as their arguments. In natural language, however, the modal notions are expressed in a variety of linguistic categories, such as modal adjectives (necessary vs. possible), modal adverbs (necessarily vs. possibly) or modal auxiliary verbs (must/should vs. can/may).
+Conjunction and disjunction in natural language. The most prototypical duality in logic, namely that between the propositional connectives of conjunction and disjunction, only plays a minor role, if any, in the linguistic realm. The main reason is the ambiguity of natural language and and or, which is often explained pragmatically in terms of conversational implicatures (Horn 2004). For example, natural language conjunction very often conveys additional aspects of causality ( and    and therefore ) or sequentiality ( and    and afterwards ), whereas disjunction is notoriously ambiguous between an inclusive interpretation ( or    or , and perhaps both) and an exclusive interpretation ( or    or , but not both). These asymmetrical ambiguities of natural language conjunction and disjunction render the notion of duality less suitable for their linguistic and philosophical analysis, as observed by Humberstone (2011, p. 772):
+for many logical purposes  conjunction and disjunction are attractively treated in a symmetrical fashion. Inherent asymmetries in the informal conceptual apparatus we bring to bear on logic often make duality an inappropriate consideration to bring in for philosophical purposes, however.
+Testing for duality. In logic, duality is a matter of definition or convention; in modal logic, for example, the duality between  and  follows from the way in which the semantics of these operators is defined. By contrast, in linguistics, duality is a much more empirical matter. In other words, duality relations between natural language expressions have to be argued for or demonstrated and may thus be refuted on empirical grounds. For that purpose, duality tests have been devised (Löbner 2011, p. 492ff.), which crucially rely on the relation of lexical inversion holding between predicates such as be on/off, be inside/outside or be here/gone. Testing for internal negation evaluates the equivalence between (i) a proposition  with operator  and predicate  and (ii) a proposition , with operator  being the internal negation of , and predicate  being the lexical inverse of ; see (17). The examples in (18–19) illustrate the internal negations of the quantifiers:
+
+ (17)    
+
+ (18)    
+
+ (19)    
+Testing for duality evaluates the equivalence between (i) a proposition which gives a negative answer to a polarity question of the form  and (ii) a proposition , with operator  being the dual of , and predicate  again being the lexical inverse of ; see (20). The examples in (21–22) illustrate the dialogue patterns establishing the duality of the universal and existential quantifiers:
+
+ (20)    
+
+ (21)    
+
+ (22)    
+The main reason for applying lexical inversion to the predicates in these tests, rather than straightforward grammatical negation by means of the negative particle not, is that the latter may yield scope ambiguities, depending on whether it is taken to express internal or external negation (Löbner 2011, p. 492ff.). For example, the negative particle not in the lefthand side of (23–24) may get the internal negation reading (23) as well as the external negation reading (24). Similarly, the modal auxiliary may in the lefthand side of (25–26) interacts differently with the negative particle not depending on the type of modality involved: in its epistemic use, it gets the internal negation reading (25), whereas in its deontic use, it gets the external negation reading (26).
+
+ (23)    
+
+ (24)    
+
+ (25)    
+
+ (26)    
+The negative particle not and the quantifier all in the lefthand side of (23–24) can take scope over each other: in (23), not occurs inside the scope of all (thereby transforming the predicate inside into its lexical inverse outside), while in (24), all occurs inside the scope of not. Such scope ambiguities also arise for other operators besides negation. For example, the quantifier all and the modal adverb necessarily in (27–28) can take scope over each other, thus giving rise to the de dicto reading (27) and the de re reading (28). However, scope distinctions cannot be fully reduced to the de dicto/de re distinction. After all, the latter is a binary distinction, whereas operators that take scope over each other can give rise to more than two distinct interpretations (Kripke 1977).
+
+ (27)    
+
+ (28)    
+Another complication arising from negation concerns the cognitive difficulty that people have with processing sentences that contain multiple negations. Because of these cognitive difficulties, some of the tests described above are less easily applicable to determine whether a certain relation holds between two expressions. For example, we not only have a duality between the positive quantifiers all and some, but also one between the negative quantifiers no and some not. The former duality is empirically confirmed by the dialogue patterns in (21–22). In contrast, the corresponding dialogue patterns for the latter duality in (29–30) contain three grammatical negations (no, no and not) and one lexical inversion (off), and therefore sound much less natural (even though they are logically impeccable).
+
+ (29)    
+
+ (30)    
+Pronouns and adverbs of quantification. The universal and existential quantifiers are not only related to the determiners all and some, but also to a number of other linguistic categories. For example, when quantifying over people or objects, the determiners are morphologically integrated with the nouns body and thing into indefinite pronouns. Similarly, when quantifying over places, the determiners are morphologically integrated with the adverb where into compound adverbs. By contrast, adverbs that quantify over time and manner exhibit more idiosyncratic lexicalization patterns. Irrespective of such morphological details, all of the categories in the table below inherit the same basic duality pattern from the determiners, and thus, ultimately, from the logical quantifiers  and .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+every
+not every
+no
+some
+
+
+everybody
+not everybody
+nobody
+somebody
+
+
+everything
+not everything
+nothing
+something
+
+
+everywhere
+not everywhere
+nowhere
+somewhere
+
+
+always
+not always
+never
+sometimes
+
+
+anyhow
+not anyhow
+no way
+somehow
+
+
+
+Generalized quantifiers. Contemporary generalized quantifier theory (GQT) is able to deal with a considerably larger range of natural language quantifiers than the usual universal and existential ones (Barwise and Cooper 1981; Peters and Westerståhl 2006). These include quantifiers that cannot be expressed in first-order languages, such as most. Additionally, GQT allows for a more compositional treatment of quantification. Consider, for example, the sentences John runs and everybody runs, which have by and large the same syntactic structure (namely: noun phrase + verb phrase). While the first-order representations of the semantics of these sentences are vastly different– vs.  –, their GQT representations are much more similar:  vs. .
+GQT offers two (mathematically equivalent) perspectives on quantification: a functional and a relational perspective. Focusing on the former, a quantifier expression  is taken to denote a set of subsets of the universe  of people, and for any unary predicate expression , the formula  is true iff . For example, since 
+      
+ and 
+      
+ it is easy to see that  is true iff  and that  is true iff . As expected, the external negation, internal negation and dual of the formula  are defined as ,  and , respectively (with the convention that ). For example, the dual of  is , which is true iff , i.e. iff . This shows that in GQT, too, the dual of  is . Finally, if the proper name John names the individual , then GQT defines the generalized quantifier 
+      
+ and thus we find that  is true iff , iff . Note that the dual of  is , which is true iff , iff . This shows that  is dual to itself, which illustrates the fact that in GQT, proper names are self-dual (Gamut 1991, p. 238)).
+We now turn to the alternative, relational perspective in GQT. This perspective focuses on sentences of the form , where  is a quantifier expression and  and  are unary predicate expressions. The formula  is true iff . Here are some well-known examples (with  denoting the powerset of , i.e. ):
+ (31)    
+The external negation, internal negation and dual of the formula  are defined as ,  and , respectively. Note that, in contrast to the examples from logic discussed in Section 1, internal negation is not applied to all predicate expressions, but only to the second one. Here, too, generalized quantifiers can be their own dual or internal negation. For example, the internal negation of some but not all (man, run) is some but not all (man, run, which is true iff 
+      
+ iff 
+      
+ iff some but not all man,run is true. This shows that some but not all is its own internal negation. Similarly, the proportional quantifier exactly half of the can be shown to be its own internal negation; for example, exactly half of the men are awake is equivalent to exactly half of the men are not awake.
+The duality patterns of quantifiers such as most and many have been a matter of contention. Peterson (1979) proposed an analysis from which it follows that most and many are dual to each other. However, as pointed out by Horn (2006, p. 36), it seems unlikely that  is in general equivalent to . Consider, for example:
+
+ (32)    
+
+ (33)    
+
+ (34)    
+If most and many were indeed dual, then (32) and (33) should be equivalent, while (32) and (34) should be contradictory. However, (32) is true, but, since there are indeed many Italians that do not like pizza, (33) is false and (34) is true. This shows that (32) and (33) are not equivalent, and that (32) and (34) are not contradictory either.
+Other linguistic expressions. Duality patterns also arise among natural language expressions that do not directly correspond to logical operators or quantifiers. For example, König (1991) has suggested that the causative conjunction because and the concessive conjunction although are duals, based on dialogue tests for duality such as (35).
+
+ (35)    
+However, based on other linguistic evidence and more general, methodological considerations, this proposal has been criticized by Iten (1998, 2005). Working in the framework of relevance theory, Iten argues that causative conjunctions make a significant contribution to the truth conditions of sentences in which they occur: p because q is true iff q is true, p is true, and q‘s being true is the cause of p‘s being true. By contrast, concessive conjunctions do not contribute to the truth conditions of sentences in which they occur: p although q is true iff q is true and p is true. Because of this discrepancy, Iten claims that sentences such as (p because q) and p although q do not have the same truth conditions, and consequently, because and although are not dual to each other.
+The most widely studied example of linguistic duality, however, is that between the aspectual adverbs already and still (Löbner 1989, 1990, 1999; van der Auwera 1993; Mittwoch 1993; Michaelis 1996; Smessaert and ter Meulen 2004). The dialogue tests for duality in (36–37) suggest that already and still are indeed each other’s duals.
+
+ (36)    
+
+ (37)    
+Similarly, using the equivalence tests for internal negation in (38–39), we find that the internal negation of already is no longer and that of still is not yet. Finally, the equivalences in (40–41) show that the external negation of already is not yet and that of still is no longer.
+
+ (38)    
+
+ (39)    
+
+ (40)    
+
+ (41)    
+The two negative adverbs no longer and not yet are also dual to each other, as illustrated by the dialogues in (42–43). However, because of the multiple negative elements, these dialogues sound less natural than the ones in (36–37), even though all of them are equally logically correct (compare with the dialogues in (21–22) and (29–30) for the dualities between the standard quantifiers).
+
+ (42)    
+
+ (43)    
+Phase quantification. In order to account for the duality patterns of the aspectual adverbs described in (36–43), Löbner (1989; 1990; 2011) has developed the theory of phase quantification. He considers a (linear) temporal scale, a reference time  on that scale, and a proposition  (which is either true or false at any timepoint of the scale). The semantics of aspectual adverbs crucially concerns single polarity transitions on this temporal scale. There are two types of such transitions: the truth value of  can change from false into true, or alternatively, from true into false. Furthermore, the reference time  can either be situated in the positive () phase or in the negative () phase of such a transition. In total, there are thus four cases to be distinguished:
+
+
+
+t is in the positive phase of a polarity transition from falsity to truth
+
+
+
+As illustrated in Figure 1(a), this corresponds to sentences such as Bob was already reading the paper at noon. The reference time (at noon) is situated in the positive phase (in which Bob was reading the paper), and thus occurs after the (actual) transition of starting to read (i.e. the transition from not reading to reading) has taken place.
+ 
+Figure 1: Löbner’s Four Phase Diagrams
+
+
+
+t is in the positive phase of a polarity transition from truth to falsity
+
+
+
+As illustrated in Figure 1(b), this corresponds to sentences such as Bob was still reading the paper at noon. The reference time (at noon) is situated in the positive phase (in which Bob was reading the paper), and thus occurs before the (potential) transition of stopping to read (i.e. the transition from reading to not reading) has taken place.
+
+
+
+t is in the negative phase of a polarity transition from falsity to truth
+
+
+
+As illustrated in Figure 1(c), this corresponds to sentences such as Bob was not yet reading the paper at noon. The reference time (at noon) is situated in the negative phase (in which Bob was not reading the paper), and thus occurs before the (potential) transition of starting to read (i.e. the transition from not reading to reading) has taken place.
+
+
+
+t is in the negative phase of a polarity transition from truth to falsity
+
+
+
+As illustrated in Figure 1(d), this corresponds to sentences such as Bob was no longer reading the paper at noon. The reference time (at noon) is situated in the negative phase (in which Bob was not reading the paper), and thus occurs after the (actual) transition of stopping to read (i.e. the transition from reading to not reading) has taken place.
+In the case of duality (already/still and not yet/no longer), the actual polarity of  thus remains unchanged, but the direction of the polarity transition gets reversed. By contrast, in the case of external negation (not yet/already and still/no longer) the actual polarity of  is switched, but the polarity transition remains unchanged. Finally, in the case of internal negation (not yet/still and already/no longer), both the actual polarity of  and the direction of the polarity transition are reversed. This shows that in the phase quantification analysis, internal negation is viewed as the combination of duality and external negation. Löbner has also used this analysis to account for asymmetries in lexicalization patterns: already and still are less marked than not yet, which in turn is less marked than no longer (also see Section 5). Finally, it should also be emphasized that this analysis has been generalized to other lexical domains besides the aspectual adverbs, such as scalar predicates and (the procedural interpretation of) the first-order quantifiers.
+Language universals and universal languages. The overview presented in this section shows that duality phenomena are not only ubiquitous in formal logical languages, but also in natural languages. It has therefore been suggested that duality is a semantic universal, which can be of great heuristic value in comparative linguistic research (van Benthem 1991). Furthermore, duality also plays a central role in artificial languages, which can be viewed as occupying an intermediate position between formal and natural languages. For example, Lincos, which was developed by Freudenthal (1960) for the purpose of cosmic communication, contains duality principles for conjunction/disjunction (1.36.8), universal/existential quantification (1.36.9), necessity/possibility (3.25.1) and obligation/permission (3.32.3).
+3. Theoretical Framework
+General definition. We will now present a general theoretical framework in which duality phenomena can be described and analyzed. Consider Boolean algebras 
+      
+ and 
+      
+ (Givant and Halmos 2009), and consider -ary operators . The duality relations are defined as follows:  and  are
+
+identical – abbreviated as  – iff
+ ,
+each other’s external negation – abbreviated as  – iff
+ ,
+each other’s internal negation – abbreviated as  – iff
+ ,
+each other’s dual – abbreviated as  – iff
+.
+
+Special cases. The definition provided above is fully abstract and general, but by plugging in concrete Boolean algebras for  and , we can recover the usual dualities as special cases. For example, in the language  of classical propositional logic (), we can define equivalence classes 
+      
+ and consider the Lindenbaum-Tarski algebra 
+      
+ It is well-known that  is a Boolean algebra, and can thus be plugged in for  and/or  in the aforementioned definition. For example, if we consider conjunction and disjunction as binary operators 
+      
+ (defined by  and ), this definition states that  iff
+for all  ,
+which is equivalent to the formulation (2) that was given above
+for all .
+(Note that identity between elements in the Lindenbaum-Tarski algebra boils down to  logical equivalence between the formulas themselves.) Similarly, the first-order quantifiers can be seen as unary operators 
+      
+ where  is the Lindenbaum-Tarski algebra of first-order logic (), which is a cylindric algebra (Henkin et al. 1971), and thus a fortiori a Boolean algebra. Finally, by taking  and/or  to be other, more exotic Boolean algebras, the aforementioned definition also allows us to study duality relations in other, less well-known applications  (Demey and Smessaert 2016).
+Relations vs. functions. All the duality relations have a number of special properties. For any relation , one can show that
+
+R is deterministic:
+for all : if  and  ,
+‌
+R is serial:
+for all , there exists an  such that ,
+‌
+R is symmetric:
+for all  iff .
+
+The first two properties jointly state that for each , there is exactly one  such that . This means that the relation  is essentially a function, and switching from relational to functional notation, we can thus write .
+For example, since , we can write , and say that  is the (unique) dual of . However, since  and  are seen as binary operators on the Lindenbaum-Tarski algebra , it should be kept in mind that this uniqueness claim ultimately boils down to a logical equivalence claim (see above). For example, consider the operator 
+      
+ defined by 
+      
+ It then holds that  and , which together entail that . The latter is an identity of functions, and thus means that for all , we have 
+      
+ in other words: for all 
+      
+ it holds that 
+      
+Since each  can be viewed as a function, the symmetry of the relation  can equivalently be expressed as follows:  iff , which is itself equivalent to the property that  for all operators . This means that the function  is an involution.
+Obviously, the definitions of the duality relations/functions can harmlessly be transposed from operators  to the outputs of those operators. For example, if the operator  is the dual of the operator , then for all , the element  can be said to be the dual of the element . For example, in this way, we can say not only that  is the dual of , but also that  is the dual of , for all  – or more informally, that  is ‘the’ dual (up to logical equivalence) of , for all .
+Duality squares. For every operator , one can define the set of four operators 
+      
+ It is natural to view the set  as ‘generated’ by the operator ; however, it should be emphasized that  can be seen as generated by any of its elements. For example, if we consider , we find that 
+      
+      
+      
+      
+ . In general, for any , it holds that  (Peters and Westerståhl 2006, p. 134; Westerståhl 2012, p. 205).
+The argument above is based on the fact that  is ‘closed under duality’, in the sense that applying any of the -, -, – or -functions to its elements only yields operators that already belong to . This observation is the starting point for the group-theoretical perspective on duality that will be developed in Section 4. The operators in  thus constitute natural families (van Benthem 1991, p. 31; Peters and Westerståhl 2006, p. 26), which are often visualized by means of square diagrams. The diagram’s vertices represent the four operators (or formulas), and its edges and diagonals represent the various relations between those operators. Figure 2(a) shows the graphical convention that will be used in this article to visualize these relations.
+Visually speaking, duality squares can be presented in a number of different ways, depending on which aspects the author wishes to emphasize. The most widely used presentation can be found in Figure 2(b), in which the -, – and -relations occupy the square’s diagonals, horizontal and vertical edges, respectively. This presentation thus emphasizes the analogy between the duality square and the well-known Aristotelian square, in which the contradiction, (sub)contrariety and subalternation relations also occupy the diagonals, horizontal and vertical edges, respectively (van Benthem 1991, p. 31; Jaspers 2005, p. 148; Peters and Westerståhl 2006, p. 25, Westerståhl 2012, p. 202); also see Section 5. Figure 2(c) shows an alternative layout, in which the -relations occupy the diagonals, thereby graphically reflecting the fact that  is the combination of  (which constitutes the vertical edges) and  (which constitutes the horizontal edges) (Löbner 1990, p. 69ff.; Konig 1991, p. 201); also see Section 4. Thirdly, Löbner (1999, p. 57; 2011, p. 488) has argued, on the basis of his phase quantification approach to duality (see Section 2), that  should be seen as the combination of  and , and thus uses squares as in Figure 2(d), in which the former occupies the diagonals. Finally, it should be emphasized that the -relations are not visualized explicitly in any of these three ways of presenting duality squares, since they would simply constitute loops on all vertices of the squares.
+Figures 3 and 4 show duality squares for some concrete dualities from logic and language (all these squares follow the presentation of Figure 2(b), and thus have -diagonals). The first three squares in Figure 3 correspond to the first three examples of duality in logic that were discussed in Section 1: (a) the propositional connectives of conjunction and disjunction, (b) the universal and existential quantifiers, and (c) the modal operators of necessity and possibility. Furthermore, it should be emphasized that the general perspective on duality in terms of external and internal negation also allows us to draw less standardized duality squares; for example, Figure 3(d) shows the less widely known duality square that is generated by the propositional connective of material implication (). Finally, the squares in Figure 4 correspond to two examples of duality in natural language that were discussed in Section 2, namely (a) the quantification adverbs everywhere/somewhere, and (b) the aspectual adverbs already/still.
+ 
+Figure 2: (a) Graphical representations of the duality relations; presentationsof duality squares with (b)ENEG-diagonals, (c)DUAL-diagonals and (d)INEG-diagonals.
+
+Figure 3: Duality squares from logic: (a) conjunction-disjunction, (b) universal-existential, (c) necessity-possibility, (d) implication.
+
+Figure 4: Duality squares from linguistics: (a) everywhere-somewhere, (b) already-still.
+Degenerate duality patterns. For some operators , it might happen that , i.e.  is self-dual. In this case, one can also show that , i.e. ‘s internal and external negation coincide with each other. For example, as was already shown in Section 2, proper names are self-dual in generalized quantifier theory. For another example, consider the identity operator  (for any Boolean algebra ), which is defined by . For any element , it holds that 
+      
+ and thus , i.e.  is self-dual. Similarly, for any element  it holds that 
+      
+ and thus .
+Completely analogously, for some operators , it can happen that , i.e.  is its own internal negation. In this case, one can also show that , i.e. ‘s external negation and dual coincide with each other. Consider, for example, the contingency operator , which is defined by 
+      
+ (recall that  is the Lindenbaum-Tarski algebra of the modal logic , which is a modal algebra (Blackburn et al. 2001), and thus a fortiori a Boolean algebra). For any , it holds that 
+      
+ and thus . Similarly, it holds that 
+      
+      
+ and thus .
+We have now discussed the possibility of an operator coinciding with its dual, or with its internal negation. This naturally leads to the question whether there are also operators that coincide with their external negation. It is easy to see, however, that there exist no non-trivial operators with this property. After all, if  is its own external negation, then for all -tuples , it holds that 
+      
+ and hence, 
+      
+ and also 
+      
+ which means that  is the trivial Boolean algebra in which  (in logical terms:  is the Lindenbaum-Tarski algebra of a logical system that is inconsistent).
+Whenever an operator  is its own dual or internal negation, the set  does not contain four, but only two distinct operators (Peters and Westerståhl 2006, p. 134;Westerståhl 2012, p. 205), and thus cannot be visualized using an ordinary duality square. Recall the standard presentation of the duality square (with horizontal – and vertical -edges) in Figure 2(b), which is repeated here as Figure 5(a). If , then , and thus, the duality square in Figure 5(a) degenerates into the binary horizontal duality diagram in Figure 5(b). Analogously, if , then , and thus, the duality square in Figure 5(a) degenerates into the binary vertical duality diagram in Figure 5(c).
+
+Figure 5: (a) Ordinary duality square, (b) degenerate duality pattern for an operator that is its own dual, (c) degenerate duality pattern for an operator that is its own internal negation.
+Beyond external and internal negation. In the introduction, it was emphasized that this article mainly focuses on duality phenomena that arise in logical and natural languages. As was illustrated in Sections 1 and 2, these dualities can informally be characterized in terms of internal and external negation. In this section, this informal characterization was made mathematically precise, by appealing to operators  and viewing the internal and external negation as the negations  and  of the source and target Boolean algebras  and , respectively. However, it should be emphasized that in the broader mathematical perspective on duality (Gowers 2008; Kabakov et al. ~ 2014), internal/external negation plays a less central role. For example, in category-theoretic terms, conjunction and disjunction are characterized as follows (Mac Lane 1998; Davey and Priestley 2002):
+
+
+
+
+ is the unique
+formula  such that:
+–  entails 
+–  entails 
+– for all : if  entails  and ,
+ then  entails 
+
+
+ is the unique
+formula  such that:
+–  entails 
+–  entails 
+– for all : if  and  entail ,
+ then  entails 
+
+
+
+
+From this perspective, the duality of conjunction and disjunction is thus not characterized in terms of internal and external negation, but rather in terms of systematically ‘reversing’ the direction of entailment (a similar connection between duality and ‘reversing’ the direction of polarity transitions shows up in Löbner’s phase quantification theory, as discussed in Section 2). This difference should not be exaggerated, however, as can already be seen from the law of contraposition, in which the ideas of negation and reversal are brought together: .
+4. A Group-Theoretical Approach to Duality
+The Klein four group. When , ,  and  are viewed as functions, they map each operator  onto the operators 
+      
+      
+ Since the input and output of the functions , ,  and  are of the same type (namely: operators ), they can be applied repeatedly. For example, starting with an operator , we can apply  to it to obtain the operator ; by applying  to the latter we obtain the operator . It follows immediately from the definitions of the duality relations/functions that . Since this holds independently of the concrete operator , we can write , which means that applying  and then  (to some operator) yields the same result as applying  (to that same operator). In a similar vein, since for all operators  it holds that , we can write     . In this way, we obtain a large number of functional identities that descibe the behavior of the duality and internal/external negation functions:
+ (44)    
+These identities can be summarized by stating that the functions , ,  and  jointly form a group that is isomorphic to the Klein four group  (German: Kleinsche Vierergruppe). Its Cayley table looks as follows:
+
+
+
+ 
+The fact that duality behavior can be described by means of V4 was already noted by authors such as Piaget (1949), Gottschalk (1953), Löbner (1990), van Benthem (1991) and Peters and Westerståhl (2006). However, many of them used slightly differing labels for the group elements; here is an overview table:
+
+
+
+
+Piaget
+Gottschalk
+Löbner
+Peters & Westerståhl
+
+
+
+identité ()
+identity ()
+indentity
+
+
+
+
+inversion ()
+negational ()
+negation
+outer negation
+
+
+
+réciprocation ()
+contradual ()
+subnegation
+inner negation
+
+
+
+corrélation ()
+dual ()
+dual
+dual
+
+
+
+This group-theoretical perspective also allows us to describe the degenerate cases of operators that are their own duals or their own internal negations. Note that these cases are characterized by the identities    and   , respectively. Note that if   , then also   , and thus  collapses into a group that is isomorphic to ; see the left and middle Cayley tables below and also recall Figure 5(b). Similarly, if   , then also   , and thus  again collapses into a group that is isomorphic to ; see the right and middle Cayley tables below and also recall Figure 5(c).
+
+
+
+
+
+
+
+
+
+Finally, it should be noted that the Klein four group  is isomorphic to the direct product of  with itself, i.e.      = . Although this fact is well-known in group theory, its logico-linguistic significance has only recently begun to be explored. The Cayley table for  ×  looks as follows:
+
+
+
+ 
+Comparing the Cayley tables for  ×  and the Klein four group , we see that the concrete isomorphism looks as follows:
+
+ (45)    
+This group-theoretical isomorphism turns out to be very informative:  and  represent the number of times negation is being applied in a given Boolean algebra, and the left and right coordinates stand for the target and source Boolean algebra (i.e. external and internal negation), respectively. For example,  corresponds to , which represents  external negation and  internal negations. Similarly,  corresponds to , which represents  external negations and  internal negation (keeping in mind that internal negation applies to all arguments). Using the conventions that  and  for all , we thus find for any operator  and :
+
+ (46)    
+Representing  as  thus gives us a firm syntactic handle on duality: it shows how duality behavior arises out of the interplay of the independent behaviors ( or ) of an external and an internal negation (resp. left and right coordinate).
+Composed operators. The group-theoretical account of duality can be extended in a number of different ways. For example, Demey (2012a) has used it to study the duality behavior of composed operators. Given operators  and , we will write  for the composed operator that first applies  to the arguments, and then . For simplicity, we will assume that  is unary, but this assumption is not essential. In this article, we will focus on the basic example  from modal syllogistics (Buridan 2001; Read 2012). A more linguistically motivated example, viz. possessives with multiple quantifiers, such as three athletes of each country, is discussed in Westerståhl (2012).
+Each of  and  has its own internal and external negation, but it is easy to see that in the composed operator   , the external negation of  coincides with the internal negation of . As a consequence, the composed operator    has three negations, namely external, intermediate, and internal (formally: , , and , respectively). Since each of these 3 negations may or may not be applied,    gives rise to  operators. As an example, consider the case of  in (47):
+
+ (47)    
+In comparison to single operators, we see that composed operators have one additional negation, and hence, it should not be surprising that their duality behavior is not governed by , but rather by . Next to  and , there is also the intermediate negation function , and the isomorphism given in (45) is generalized to the one defined by (48):
+
+ (48)    
+In analogy to (46), it is now again possible to succinctly describe the effects of these operations:
+
+ (49)    
+We also see that composed operators give rise to a much richer duality behavior than single operators. Recall that in the case of single operators, duality can be seen as the combination of the external and internal negations (  ). In the case of composed operators, however, we have three negations, and thus three pairwise combinations: , , and . Although the first of these seems to be closest to what is classically called ‘duality’, the other two can plausibly be seen as (non-standard) duality operations too. Finally, there is also the operation , which operates on all negations simultaneously.
+Visualizing these duality patterns cannot be done by means of a square, but rather requires a duality cube. For example, Figure 6 shows a duality cube for the composed operator  ; analogously, Westerståhl (2012) draws a duality cube for possessives with multiple quantifiers. Demey (2012a) makes use of the group-theoretical perspective to study the internal structure of this cube. It is a well known group-theoretical fact that the group  has exactly 7 subgroups that are isomorphic to . These can naturally be partitioned into three families, based on their number of ‘basic’ operations (i.e. operations governing a single negation: ,  and ): (a) the first family consists of three groups that contain two basic operations, (b) the second family consists of three groups that contain one basic operation, and (c) the third family consists of a single group that does not contain any basic operations. Examples of groups from each of these families are given in (50a–c), respectively.
+
+ (50)    
+Each of these groups defines two complementary ‘duality squares’, and we thus find a total number of  ‘duality squares’ inside the duality cube. (We are using the term ‘duality square’ inside scare quotes here, because some of these squares visualize non-standard duality operations that involve ; see above.) Note that, in contrast to the groups of families (a) and (b), the non- elements of the group in family (c) pairwise share a basic operation. Demey (2012a) argues that this difference in group-theoretical structure correlates with a difference in geometric embedding of the squares inside the cube.
+Generalized Post duality. The group-theoretical account described above conforms to the basic requirement that internal negation be applied to all arguments of a given operator; see the k-superscripts in (46) and (49). Although the most canonical examples of duality indeed obey this requirement (recall the example of conjunction/disjunction from Section 1), there are also operators whose duality behavior seems to violate this requirement. For example, it was shown in Section 2 that in the relational perspective on generalized quantifiers, internal negation is applied only to the second argument—so that the internal negation of  is , rather than . Similarly, in syllogistics one can independently study the effects of predicate negation—as in —and of subject negation—as in  (Keynes 1884; Johnson 1921; Reichenbach 1952; Hacker 1975). Finally, in public announcement logic, the dual of  is defined as , so the internal negation of the binary  operator is applied only to its second argument () (Demey 2012b).
+
+Figure 6: Duality cube for the composed operator 
+If we drop the requirement that internal negation be applied to all arguments, the behavior that arises is called generalized Post duality (Humberstone 2011, p. 410ff.; Urquhart 2008). Consider an -ary operator . This operator has  external and  independent internal negations. Since each of these  negations may or may not be applied,  gives rise to  operators. As an example, consider the binary operator of conjunction:
+
+ (51)    
+In comparison to the ordinary duality behavior of a binary operator, we thus have  rather than  independent negations, and generalized Post duality behavior is governed by the group  rather than  (Libert 2012). Next to , the operation of  is split into , with  operating on the operator’s  argument, for . Furthermore, the isomorphism given in (45) can be generalized to the one defined by (52):
+
+ (52)    
+In analogy to (46), the effects of these operations can be described succinctly by means of (53). Note that (46) can be seen as a special case of (53), by requiring that .
+
+ (53)    
+As was the case with the duality behavior of a composed operator, we see that the generalized duality behavior of an -ary operator is much richer than its ‘ordinary’ duality behavior. Consider again the binary operator of conjunction. If both arguments can be negated independently, there are several combinations of external and internal negation (,  and ), all of which can plausibly be called duality operations. (The last one of these involves negating all arguments, and thus coincides with ‘ordinary’ duality.) As a consequence, visualizing the generalized duality behavior of conjunction requires a duality cube, as in Figure 7. Note that the diagonal plane that spans the front left and back right vertical edges of this cube corresponds to the ‘ordinary’ duality square for conjunction (see Figures 2(c) and 3(a)).
+Finally, it should be noted that the duality cubes in Figures 6 and 7 are highly similar, which is due, of course, to the fact that they are two distinct manifestations of the group  (and can thus serve as two distinct concrete interpretations of the abstract cube in Moretti (2012, p. 88)). This illustrates the strong connection between the ‘ordinary’ duality behavior of composed operators on the one hand and the generalized duality behavior of single (binary) operators on the other. Both cases involve creating an additional negation: the former achieves this by ‘splitting’ the operator, while the latter achieves it by ‘splitting’ the argument positions.
+ 
+Figure 7: ‘Generalized Post duality’ cube for the binary operator .
+5. Duality Relations and Aristotelian Relations
+The Aristotelian relations. Next to the duality relations, there is another widely known set of logical relations, namely the Aristotelian relations, which were originally defined in the logical works of Aristotle (Ackrill 1961). These are defined relative to some background logical system , which is assumed to have connectives expressing Boolean negation (), conjunction () and implication (), and a model-theoretic semantics (). Formally, the Aristotelian relations are defined as follows: the formulas  and  are said to be
+
+ (54)    
+When the system  is clear from the context, it is often left implicit (Smessaert and Demey 2014). Informally, two formulas are contradictory iff they cannot be true together and cannot be false together; they are contrary iff they cannot be true together but may be false together; they are subcontrary iff they cannot be false together but may be true together; they are in subalternation iff the first one entails the second one but not vice versa. Finally, it should be noted that this definition of the Aristotelian relations can be generalized to arbitrary Boolean algebras, just like the definition of the duality relations provided in Section 3 (Demey and Smessaert 2016). However, since this generalization is less relevant for our current concerns, it will not be discussed here.
+The Aristotelian relations holding between a given set of formulas are often visualized by means of Aristotelian diagrams (based on graphical conventions such as the one shown in Figure 8(d)). The most widely known of these diagrams is the so-called ‘square of oppositions’, which comprises 4 formulas and the 6 Aristotelian relations holding between them. For example, Figure 8 shows Aristotelian squares involving (a) the propositional connectives of conjunction and disjunction, (b) the universal and existential quantifiers, and (c) the modal operators of necessity and possibility.
+
+Figure 8: ‘Aristotelian squares: (a) conjunction-disjunction, (b) universal existential, (c) necessity possibility; (d) graphical representations of the Aristotelian relations.
+Similarities. The Aristotelian squares in Figure 8(a–c) closely resemble the duality squares in Figure 3(a–c), respectively. In particular: (i) on the diagonals, the duality relation  corresponds to the Aristotelian relation of contradiction, (ii) on the vertical edges, the duality relation  corresponds to the Aristotelian relation of subalternation, and (iii) on the horizontal edges, the duality relation  corresponds to the Aristotelian relations of contrariety and subcontariety. These strong similarities might explain why authors such as D’Alfonso (2012), Meles (2012) and Schumann (2013) have come close to straightforwardly identifying the two types of squares—for example, by using Aristotelian terminology to describe the duality square (or vice versa), or by viewing one as a generalization of the other.
+Furthermore, both Aristotelian and duality diagrams have been used by linguists to explain certain lexicalization patterns in natural languages. For example, Horn (1989) and Jaspers (2005) make use of the Aristotelian relations to explain the so-called non-lexicalization of the O-corner, i.e. the observation that natural languages have primitive lexical items for the quantifiers all, some and none, but not for not all (the latter’s lexicalization as a single word—for example: *nall— does not occur in natural language). The same asymmetry can be found in the lexicalization pattern of the propositional connectives: natural languages have primitive lexical items for and, or and nor, but not for not and (the latter’s lexicalization as a single word—for example: *nand—does not occur in natural language). These linguistic phenomena are also explained by Löbner (1990, 2011), but his phase quantification account is based on the duality relations, rather than the Aristotelian relations. Finally, it should be noted that the Aristotelian account of these lexical asymmetries has recently been generalized beyond the square by Seuren and Jaspers (2014).
+Dissimilarities. As noted by Löbner (2011), Chow (2012) and Westerståhl (2012), there are also several differences between the duality square and the Aristotelian square. For example, although duality seems to correspond to subalternation, the former relation is symmetric, while the latter is asymmetric. Furthermore, although both sets of relations contain four members, there is no clean one-to-one mapping in either direction: on the one hand, the Aristotelian relations of contrariety and subcontrariety correspond to a single duality relation (), and on the other hand, the duality relation  does not correspond to any Aristotelian relation whatsoever. (However, Smessaert and Demey (2014) introduce a quasi-Aristotelian relation that holds precisely between a formula and itself, and thus does correspond to the duality relation .)
+Another difference concerns sensitivity to the specific axioms of the background logic (Demey 2015). Consider, for example, the modal operators , : , where  is the Lindenbaum-Tarski algebra of some normal modal logic . The Aristotelian relation holding between these operators depends on the logical system : in normal modal systems that are at least as strong as , there is a subalternation from  to , but in weaker normal modal systems, there is no Aristotelian relation at all between these two formulas (Hughes and Cresswell 1996). Nevertheless, in all of these modal systems, it is the case that  is logically equivalent to  for all formulas , and hence  for all . This means exactly that  (, ), and hence the duality relation holding between  and  holds independently of the specific axioms of the logical system .
+At this point, it might be objected that the duality relations are logic-sensitive after all; for example, conjunction and disjunction are dual to one another in classical propositional logic (), but not in intuitionistic propositional logic (). However, the Lindenbaum-Tarski algebra of  is itself not a Boolean algebra (but rather a Heyting algebra), and thus falls outside the scope of the definition of the duality relations that was provided in Section 3.
+Another difference between the duality and the Aristotelian relations is that the former, but not the latter, are functional. As was already discussed in Section 3, every formula has exactly one internal negation, exactly one external negation, and exactly one dual (up to logical equivalence). By contrast, the Aristotelian relations are not functional: for example, a given formula might be contrary to several (non-equivalent) formulas. As illustrated by Smessaert (2012), this difference becomes much more apparent if we move from squares to larger diagrams. For example, Figures 9(a–b) show an Aristotelian and a duality diagram for the same set of six modal formulas. Consider the formula p. Within the Aristotelian hexagon, this formula has two (non-equivalent) contraries, namely  and . From a duality perspective, the first of these two formulas is the internal negation of , but the second one stands in no duality relation at all to . The duality ‘hexagon’ in Figure 9(b) thus ultimately turns out to consist of two independent components: the ordinary duality square in Figure 9(c) and the degenerate duality pattern (containing two formulas that are their own internal negations) in Figure 9(d).
+
+Figure 9: (a) Aristotelian hexagon (for a modal system that is at least as strong as , (b) duality ‘hexagon’, and (c–d) its two components.
+Finally, it should also be noted that it is perfectly possible for two operators/formulas to stand in a duality relation without standing in any Aristotelian relation, or vice versa. Moving to the level of diagrams, this means that it is possible for four operators/formulas to constitute a duality square without constituting an Aristotelian square, or vice versa (Löbner 1986). For example, the aspectual adverbs already, still, not yet and no longer constitute a duality square—see Figure 4(b)—, but not an Aristotelian square: for example, already and still are each other’s duals, but there is no subalternation between them in either direction. Analogously, the modal formulas , ,  and  constitute an Aristotelian square (embedded inside the Aristotelian hexagon in Figure 9(a) with a counterclockwise rotation of 120◦), but not a duality square: for example,  and  are contraries, but there is no duality relation between them. In fact, looking at these four modal formulas in the duality ‘hexagon’ in Figure 9(b), we see that  and  by themselves constitute a degenerate duality pattern (Figure 9(d)), while  and  belong to another, ‘real’ duality square (Figure 9(c)).
+6. References and Further Reading
+
+Ackrill, J. (1961). Aristotle’s Categories and De Interpretatione. Clarendon Press, Oxford.
+Barwise, J. and Cooper, R. (1981). Generalized quantifiers and natural language. Linguistics and Philosophy, 4:159–219.
+Blackburn, P., de Rijke, M., and Venema, Y. (2001). Modal Logic. Cambridge University Press, Cambridge.
+Brisson, C. (2003). Plurals, All, and the nonuniformity of collective predication predication. Linguistics and Philosophy, 26:129–184.
+Buridan, J. (2001). Summulae de Dialectica. Translated by Gyula Klima. Yale University Press, New Haven, CT.
+Chow, K. (2012). General patterns of opposition squares and 2n-gons. In Beziau, J.-Y. and Jacquette, D., editors, Around and Beyond the Square of Opposition, pages 263–275. Springer, Basel.
+D’Alfonso, D. (2012). The square of opposition and generalized quantifiers. In Beziau, J.-Y. and Payette, G., editors, Around and Beyond the Square of Opposition, pages 219–227. Springer, Basel.
+Davey, B. A. and Priestley, H. A. (2002). Introduction to Lattices and Order (Second Edition). Cambridge University Press, Cambridge.
+Demey, L. (2012a). Algebraic aspects of duality diagrams. In Philip T. Cox, B. P. and Rodgers, P., editors, Diagrammatic Representation and Inference, Lecture Notes in Computer Science (LNCS) 7352, pages 300–302. Springer, Berlin.
+Demey, L. (2012b). Structures of oppositions for public announcement logic. In Beziau, J.-Y. and Jacquette, D., editors, Around and Beyond the Square of Opposition, pages 313–339. Springer, Basel.
+Demey, L. (2015). Interactively illustrating the context-sensitivity of Aristotelian diagrams. In Christiansen, H., Stojanovic, I., and Papadopoulos, G., editors, Modeling and Using Context, LNCS 9405, pages 331–345. Springer.
+Demey, L. and Smessaert, H. (2016). Metalogical decorations of logical diagrams. Logica Universalis, 10:233–292.
+Dowty, D. (1987). Collective predicates, distributive predicates, and All. In Marshall, F., editor, Proceedings of the 3rd Eastern States Conference on Linguistics (ESCOL), pages 97–115. Ohio State University, Columbus, OH.
+Freudenthal, H. (1960). Lincos. Design of a Language for Cosmic Intercourse. North-Holland, Amsterdam.
+Gamut, L. (1991). Logic, Language, and Meaning.
+Givant, S. and Halmos, P. (2009). Introduction to Boolean Algebras. Springer, New York, NY.
+Gottschalk, W. H. (1953). The theory of quaternality. Journal of Symbolic Logic, 18:193–196.
+Gowers, T., editor (2008). The Princeton Companion to Mathematics. Princeton University Press, Princeton, NJ.
+Hacker, E. A. (1975). The octagon of opposition. Notre Dame Journal of Formal Logic, 16:352–353.
+Henkin, L., Monk, J. D., and Tarski, A. (1971). Cylindric Algebras, Part I. NorthHolland, Amsterdam.
+Horn, L. (2006). The border wars: A neo-Gricean perspective. In von Heusinger, K. and Turner, K., editors, Where Semantics Meets Pragmatics, pages 21–48. Elsevier, Amsterdam.
+Horn, L. R. (1989). A Natural History of Negation. University of Chicago Press, Chicago, IL.
+Horn, L. R. (2004). Implicature. In Horn, L. R. and Ward, G., editors, Handbook of Pragmatics, pages 3–28. Blackwell, Oxford.
+Hughes, G. E. and Cresswell, M. J. (1996). A New Introduction to Modal Logic. Routledge, London.
+Humberstone, L. (2011). The Connectives. MIT Press, Cambridge, MA.
+Iten, C. (1998). Because and although: a case of duality? In Rouchota, V. and Jucker, A. H., editors, Current Issues in Relevance Theory, pages 59–80. John Benjamins, Amsterdam.
+Iten, C. (2005). Linguistic Meaning, Truth Conditions and Relevance: The Case of Concessives. Palgrave Macmillan, Basingstoke/New York (NY).
+Jaspers, D. (2005). Operators in the Lexicon. On the Negative Logic of Natural Language. LOT Publications, Utrecht.
+Johnson, W. (1921). Logic. Part I. Cambridge University Press, Cambridge.
+Kabakov, F. A., Parkhomenko, A. S., Voitsekhovskii,
+M. I., and Fofanova, T. S. (2014). Duality principle. In Encyclopedia of Mathematics. Springer, available at
+http://www.encyclopediaofmath.org/index.php?title=Duality principle&oldid=35095.
+Keynes, J. N. (1884). Studies and Exercises in Formal Logic. MacMillan, London.
+Konig, E. (1991). Concessive relations as the dual of causal relations. In Zaefferer, D., editor, Semantic Universals and Universal Semantics, volume 12 of Groningen-Amsterdam Studies in Semantics, pages 190–209. Foris, Berlin.
+Kripke, S. (1977). Speaker’s reference and semantic reference. In French, P., Uehling, Jr., T., and Wettstein, H., editors, Contemporary perspectives in the philosophy of language, pages 6–27. University of Minnesota Press, Minneapolis, MN.
+Libert, T. (2012). Hypercubes of duality. In Beziau, J.-Y. and Jacquette, D., editors, Around and Beyond the Square of Opposition, pages 293–301. Springer, Basel.
+Löbner, S. (1986). Quantification as a major module. In Groenendijk, J., de Jongh, D., and Stokhof, M., editors, Studies in Discourse Representation Theory and the Theory of Generalized Quantifiers, pages 53–85. Foris, Dordrecht.
+Löbner, S. (1987). Natural language and generalized quantifier theory. In Gardenfors, P., editor, Generalized Quantifiers, pages 181–201. Reidel, Dordrecht.
+Löbner, S. (1989). German. schon – erst – noch: an integrated analysis. Linguistics and Philosophy, 12:167–212.
+Löbner, S. (1990). Wahr neben Falsch. Duale Operatoren als die Quantoren naturlicher Sprache. Max Niemeyer Verlag, Tubingen.
+Löbner, S. (1999). Why German schon and noch are still duals: a reply to van der Auwera. Linguistics and Philosophy, 22:45–107.
+Löbner, S. (2011). Dual oppositions in lexical meaning. In Maienborn, C., von Heusinger, K., and Portner, P., editors, Semantics: An International Handbook of Natural Language Meaning, volume I, pages 479–506. de Gruyter Mouton, Berlin.
+Mac Lane, S. (1998). Categories for the Working Mathematician. Springer, Berlin.
+Meles, B. (2012). No group of opposition for constructive logics: The intuitionistic and linear cases. In Beziau, J.-Y. and Payette, G., editors, Around and Beyond the Square of Opposition, pages 201–217. Springer, Basel.
+Michaelis, L. (1996). On the use and meaning of already. Linguistics and Philosophy, 19:477–502.
+Mittwoch, A. (1993). The relationship between schon/already and noch/still: A reply to Löbner. Natural Language Semantics, 2:71–82.
+Moretti, A. (2012). Why the logical hexagon? Logica Universalis, 6:69–107.
+Peters, S. and Westerståhl, D. (2006). ˚ Quantifiers in Language and Logic. Oxford University Press, Oxford.
+Peterson, P. (1979). On the logic of “few”, “many”, and “most”. Notre Dame Journal of Formal Logic, 20:155–179.
+Piaget, J. (1949). Traite de logique. Essai de logistique operatoire. Colin/Dunod, Paris.
+Read, S. (2012). John Buridan’s theory of consequence and his octagons of opposition. In Beziau, J.-Y. and Jacquette, D., editors, ´ Around and Beyond the Square of Opposition, pages 93–110. Springer, Basel.
+Reichenbach, H. (1952). The syllogism revised. Philosophy of Science, 19:1–16.
+Schumann, A. (2013). On two squares of opposition: the Lesniewski’s style formalization of synthetic propositions. Acta Analytica, 28:71–93.
+Seuren, P. and Jaspers, D. (2014). Logico-cognitive structure in the lexicon. Language, 90:607–643.
+Smessaert, H. (2012). The classical Aristotelian hexagon versus the modern duality hexagon. Logica Universalis, 6:171–199.
+Smessaert, H. and Demey, L. (2014). Logical geometries and information in the square of oppositions. Journal of Logic, Language and Information, 23:527–565.
+Smessaert, H. and ter Meulen, A. (2004). Temporal reasoning with aspectual adverbs. Linguistics and Philosophy, 27:209–261.
+Urquhart, A. (2008). Emil Post. In Gabbay, D. M. and Woods, J., editors, Handbook of the History of Logic. Volume 5. Logic from Russell to Church. Elsevier, Amsterdam.
+van Benthem, J. (1991). Linguistic universals in logical semantics. In Zaefferer, D., editor, Semantic Universals and Universal Semantics, volume 12 of Groningen-Amsterdam Studies in Semantics, pages 17–36. Foris, Berlin.
+van der Auwera, J. (1993). ‘Already’ and ‘still’: beyond duality. Linguistics and Philosophy, 16:613–653.
+Westerståhl, D. (2012). Classical vs. modern squares of opposition, and beyond. In Beziau, J.-Y. and Payette, G., editors, The Square of Opposition. A General Framework for Cognition, pages 195–229. Peter Lang, Bern.
+
+Author Information
+Lorenz Demey
+Email: lorenz.demey@kuleuven.be
+Catholic University of Leuven
+Belgium
+and
+Hans Smessaert
+Email: hans.smessaert@kuleuven.be
+Catholic University of Leuven
+Belgium
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

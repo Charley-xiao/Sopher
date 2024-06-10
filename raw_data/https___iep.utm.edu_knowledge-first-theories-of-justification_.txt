@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+Knowledge-First Theories of Justification | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Knowledge-First Theories of Justification
+Knowledge-first theories of justification are theories of justification that give knowledge priority when it comes to explaining when and why someone has justification for an attitude or an action. The emphasis of this article is on knowledge-first theories of justification for belief. As it turns out, there are a number of ways of giving knowledge priority when theorizing about justification, and what follows is a survey of more than a dozen existing options that have emerged since the publication in 2000 of Timothy Williamson’s Knowledge and Its Limits.
+The present article first traces several of the general theoretical motivations that have been offered for putting knowledge first in the theory of justification. It then provides an examination of existing knowledge-first theories of justification and their objections. There are doubtless more ways to give knowledge priority in the theory of justified belief than are covered here, but the survey is instructive because it highlights potential shortcomings that would-be knowledge-first theorists may wish to avoid.
+The history of the Gettier problem in epistemology is a long history of failed attempts to give a reductive account of knowledge in terms of justification and other conditions. In light of this, many have since judged the project of providing a reductive analysis of knowledge to be a degenerating research program. In putting knowledge first in the theory of justification, epistemologists are exploring whether we can more successfully reverse the order of explanation in epistemology by giving an account of justified belief in terms of knowledge. This article concludes with a reflection about the extent to which the short history of the many controversial attempts to secure an unproblematic knowledge-first account of justified belief has begun to resemble the older Gettier dialectic.
+Table of Contents
+
+Motivating Knowledge-First Approaches
+The Token-Identity Theory
+Modal Theories
+Reasons-First, Knowledge-First Theories
+Perspectival Theories
+Infallibilist Knowledge-First Virtue Epistemology
+Proficiency-Theoretic Knowledge-First Virtue Epistemology
+Functionalist & Ability-Theoretic Knowledge-First Virtue Epistemology
+Know-How Theories and the No-Defeat Condition
+Excused Belief vs. Justified Belief
+A Methodological Reflection on Gettier
+References and Further Reading 
+
+1. Motivating Knowledge-First Approaches
+Knowledge-first theories of justified belief give knowledge priority when it comes to explaining when and why someone has a justified belief. As it turns out, there are a number of ways of giving knowledge priority when theorizing about justified belief, and what follows is a survey of several existing options.
+Before examining specific knowledge-first theories of justification it is worth considering what might motivate such an approach to begin with. One kind of motivation involves the need for an extensionally adequate theory of justified belief. After all, there is some set of possible cases where agents have justified beliefs, and a knowledge-first theory of justified belief should pick out that set and offer us a knowledge-centric explanation for why that set has exactly the members that it has. Traditional epistemologists should note that progress has been made in this direction, and this provides at least some reason to think that some knowledge-centric account of justification is correct. But there is more to be observed when it comes to motivating knowledge-first accounts of justified belief.
+Consider, first, conceptual relations between knowledge and justification. Sutton (2005; 2007) has argued that grasping the concept of epistemic justification depends on our prior understanding of knowledge:
+We only understand what it is to be justified in the appropriate sense because we understand what it is to know, and can extend the notion of justification to non-knowledge only because they are would-be knowers. We grasp the circumstances—ordinary rather than extraordinary—in which the justified would know. Justification in the relevant sense is perhaps a disjunctive concept—it is knowledge or would-be knowledge (Sutton 2005: 361).
+If our concept of epistemic justification depends on our concept of knowledge, then that surely provides at least some reason to think that knowledge might be more basic a kind than justified belief. At the very least it provides us with reason to explore that possibility.
+Second, consider some plausible claims about the normativity of belief. As Williamson (2014: 5) reasons: “If justification is the fundamental epistemic norm of belief, and a belief ought to constitute knowledge, then justification should be understood in terms of knowledge too.” Here Williamson is connecting norms for good instances of a kind and norms for bringing about instances of that kind. So if one is justified in holding a belief only if it is a good belief, and a good belief is one that constitutes knowledge, then it seems to follow that a justified belief has to be understood in terms of knowledge (Kelp, et al. 2016; Simion 2019).
+A third reason for putting knowledge first in the theory of justification stems from Williamson’s (2000) defense of the unanalyzability of knowledge together with the E=K thesis, which says that the evidence you possess is just what you know. Assuming we should understand justification in terms of having sufficient evidence, it seems to follow that we should understand justification in terms of knowledge. (For critical discussion of E=K see Silins (2005), Pritchard and Greenough (2009), Neta (2017), and Fratantonio (2019).)
+A fourth reason stems from the way in which asymmetries of knowledge can explain certain asymmetries of justification. While much of the knowledge-first literature on lottery beliefs has focused on assertion (see the article Knowledge Norms), the points are easily extended to justified belief. One cannot have justification to believe that (L) one has a losing lottery ticket just on the basis of one’s statistical evidence. But one can have justification to believe (L) on the basis of a newspaper report. What can explain this asymmetry? Knowledge. For one cannot know (L) on the basis of merely statistical evidence, but one can know (L) on the basis a newspaper report. Accordingly, knowledge can play a role in explaining the justificatory asymmetry involving (L) (Hawthorne 2004; Smithies 2012). A similar asymmetry and knowledge-first explanation can be drawn from the literature on pragmatic encroachment (Smithies 2012; De Rose 1996). See also Dutant and Littlejohn (2020) for further justificatory asymmetries that certain knowledge-first approaches to justified belief can explain.
+Fifth, putting knowledge in the explanatory forefront can explain (broadly) Moorean absurdities. Consider, for instance, the absurdity involved in believing p while also believing that one does not know p. Some explanation for the irrationality of this combination of beliefs should fall out of a theory of justification that tells us when and why a belief is (or is not) justified. Theories of justification that explain justification in terms of knowledge have an easy time explaining this (Williamson 2000; 2009; 2014).
+Lastly, putting knowledge in the explanatory forefront of justification can provide an explanation of the tight connection between justification and knowledge. For it is widely believed that knowing p or being in a position to know p entails that one has justification for believing p. The traditional explanation of this entailment relation involves the idea that knowledge is to be analyzed in terms of, and hence entails, justification. But another way of explaining this entailment is by saying that knowledge or being in a position to know is constitutively required for justification (Sylvan 2018).
+2. The Token-Identity Theory
+Perhaps the first knowledge-first theory of justified belief is the token-identity theory, according to which token instances of justified belief just are token instances of knowledge, which yield the following biconditional (Williamson 2009, 2014; Sutton 2005, 2007; Littlejohn 2017: 41-42):
+(J=K) S’s belief that p is justified iff S knows that p.
+The term ‘iff’ abbreviates “if and only if.” This is a theory of a justified state of believing (doxastic justification), not a theory of having justification to believe, whether or not one does in fact believe (propositional justification). But it is not hard to see how a (J=K) theorist might accommodate propositional justification (Silva 2018: 2926):
+(PJ=PK) S has justification to believe p iff S is in a position to know p.
+What does it take to be in a position to know p? One type of characterization takes being in a position to know as being in a position where all the non-doxastic demands on knowing are met (Smithies 2012; Neta 2017; Rosenkranz 2018; Lord 2018). The doxastic demands involve believing p in the right kind of way, that is, the kind of way required for knowing. The non-doxastic demands involve the truth of p and one’s standing in a suitably non-accidental relation to p such that, typically, were one to believe p in the right kind of way, one would know that p. (For further characterizations of being in a position to know see Williamson 2000: 95; Rosenkranz 2007: 70-71.)
+One issue raised by characterizing being in a position to know in counterfactual terms concerns what we might call doxastic masks: features of one’s situation that are triggered by one’s act of coming to believe p at a time t+1 that would preclude one from knowing p despite all the non-doxastic requirements of knowledge being met at an earlier time t. For example, you might have all the evidence it could take for anyone to know p, but suppose Lewis’ (1997) sorcerer does not want you to know p. So, in all or most nearby worlds when the sorcerer sees you beginning to form the belief in p, he dishes out some kind of defeater that prevents you from knowing p. So, on standard possible worlds analyses of counterfactuals, it is false that you have some way of coming to believe p such that were you to use it, you would know p (compare Whitcomb 2014). Alternatively, one might seek to characterize being in a position to know in terms of having the disposition to know which is compatible with the existence of doxastic masks. Another alternative is to give up on the idea that being in a position to know is best understood in terms of worlds and situations nearby or close to one’s actual situation, thereby making the target characterization of being in a position to know a more idealized notion, one that is discussed below (compare Smithies 2012: 268, 2019: sect 10.4; Rosenkrantz 2018; Chalmers 2012).
+There are various problems with (J=K) and, by extension, (PJ=PK).  First, (J=K) is incompatible with the fallibility of justification, that is, the possibility of having justified false beliefs. So (J=K) cannot permit justified false beliefs. But any theory of justification that rules out such beliefs is widely seen to be implausible (Bird 2007; Comesaña and Kantin 2010; Madison 2010; Whitcomb 2014; Ichikawa 2014).
+Second, (J=K) is incompatible with the possibility of having a justified true belief in the absence of knowledge. Gettier cases are typically cases of justified true belief that do not constitute knowledge. But (J=K) implies that there are no such cases because it implies that there can be no cases of justification without knowledge. This bucks against a history of strong intuitions to the contrary (Bird 2007; Comesaña and Kantin 2010; Madison 2010; Whitcomb 2014; Ichikawa 2014).
+Third, (J=K) is incompatible with the new evil demon hypothesis. Consider someone who, unwittingly, has had their brain removed, placed in a vat, and is now being stimulated in such a way that the person’s life seems to go on as normal. According to the new evil demon hypothesis: if in normal circumstances S holds a justified belief that p, then S’s recently envatted brain-duplicate also holds a justified belief that p. It is beyond the scope of this article to defend the new evil demon hypothesis. But as Neta and Pritchard (2007) point out, it is a widely shared intuition in 21st century epistemology. This generates problems for (J=K). For since one cannot know that one is looking at a hand (or that a hand is in the room) if one is a recently envatted brain who merely seems to be looking at a hand, then according to (J=K) one cannot be justified in believing it either (Bird 2007; Ichikawa 2014). For further discussion see the article on The New Evil Demon Hypothesis. See also Meylan (2017).
+3. Modal Theories
+To avoid the problems with (J=K), some have sought to connect justified belief and knowledge in a less direct way, invoking some modal relation or other.
+Here is Alexander Bird’s (2007) knowledge-first account of justified judgment, which can be transformed into a theory of justified belief (i.e. arguably the end state of a justified act of judging):
+(JuJu) If in world w1 S has mental states M and then forms a judgment [or belief], that judgment [or belief] is justified iff there is some world w2 where, with the same mental states M, S forms a corresponding judgment and that judgment [or belief] yields knowledge.
+(JuJu) counts as a knowledge-first theory because it explains one’s justified judgment/belief in terms of the knowledge of one’s mental state duplicates. It does a good deal better than (J=K) when it comes to accounting for intuitive characteristics of justified belief: namely, its fallibility, its compatibility with Gettier cases, and its compatibility with the new evil demon hypothesis.
+Despite this, various problems have been pointed out concerning (JuJu). First, it seems that we can obtain justified false beliefs from justified false beliefs. For example, suppose S knew that:
+(a) Hesperus is Venus.
+But, due to some misleading evidence, S had the justified false belief that:
+(b) Hesperus is not Phosphorus.
+Putting these two together S could infer that:
+(c) Phosphorus is not Venus.
+As Ichikawa (2014: 191-192) argues, S could justifiably believe (c) on this inferential basis. But, according to (JuJu), S can justifiably believe (c) on the basis of an inference from (a) and (b) only if it is possible for a mental state duplicate of S’s to know (c) on this basis. But content externalism precludes such a possibility. For content externalism implies that any mental state duplicate of S’s who believes (c) on the basis of (a) and (b) is a thinker for whom the terms ‘Phosphorus’ and ‘Venus’ refer to the very same astral body, thus making knowledge of (c) on the basis of (a) and (b) impossible. Because of this, (JuJu) implies that you cannot have justification to believe (c) on this inferential basis, contrary to what seems to be the case. This is not just a problem for (JuJu), but also a problem for (J=K).
+Second, (JuJu) fails to survive the Williamsonian counterexamples to internalism. Williamson’s counterexamples, as McGlynn (2014: 44ff) observes, were not intended to undermine (JuJu) but they do so anyway. Here is one example:
+Suppose that it looks and sounds to you as though you see and hear a barking dog; you believe that a dog is barking on the basis of the argument ‘That dog is barking; therefore, a dog is barking’. Unfortunately, you are the victim of an illusion, your demonstrative fails to refer, your premise sentence thereby fails to express a proposition, and your lack of a corresponding singular belief is a feature of your mental state, according to the content externalist. If you rationally believe that a dog is barking, then by [JuJu] someone could be in exactly the same mental state as you actually are and know that a dog is barking. But that person, too, would lack a singular belief to serve as the premise of the inference, and would therefore not know that a dog is barking. (Williamson 2000: 57-58).
+McGlynn (2014: 44) draws attention to the fact that a “natural verdict is that one’s belief that a dog is barking is rational or justified” despite the fact that one cannot know this while having the same mental states. For any (non-factive) mental state duplicate will be one for whom the sentence ‘That dog is barking’ cannot be true, and hence cannot be known either. So we have another counterexample to (JuJu). Again, this is not just a problem for (JuJu), but also (J=K).
+Since (JuJu)’s problems stem from its insistence on sameness of mental states, a natural response is to abandon that emphasis and focus on what a thinker and, say, her duplicate on Twin Earth can have in common. This is just what Ichikawa (2014: 189) attempts to do:
+(JPK) S has a justified belief iff S has a possible counterpart, alike to S in all relevant intrinsic respects, whose corresponding belief is knowledge.
+The target intrinsic respects are limited to the non-intentional properties that S and her Twin Earth duplicate can share. But they are not intended to include all such properties. Ichikawa wants to maintain that if, say, S unwittingly lost her body in an envattment procedure, she could still have a justified belief that she has a body even though the only counterparts of hers who could know this are ones who have a body. So, the target intrinsic respects are to be further restricted to what S and her envatted counterpart could share. In the end, this seems to amount to sameness of brain states or something close to that. This aspect of (JPK) goes a long way towards making it internalist-friendly and also helps (JPK) avoid the difficulties facing (JuJu) and (J=K). (See Ichikawa (2017) for his most recent work on knowledge-first approaches to justification.)
+Nevertheless, (JPK) has problems of its own. Both problems stem from the attempt to reconcile (JPK) with the idea that justified belief is a type of creditable belief. Here is how Ichikawa (2014: 187) describes the first problem: Zagzebski (1996: 300-303) and many others have argued that it is plausible that S’s holding a justified belief entails that S is creditworthy (that is, praiseworthy) for believing as she does. Moreover, S is creditworthy because S holds a justified belief. That is, it is S’s particular act of believing that explains why S deserves credit. But (JPK) seems forced to explain S creditworthiness in terms of facts about  S’s counterparts since it is one’s counterparts that explain one’s doxastic justification. But this seems odd: why facts about a merely possible, distinct individual make me creditworthy for believing as I actually do? As others have pointed out, this can seem odd (Silva 2017). But a more promising response involves noting that having a justified belief immediately grounds being creditworthy for believing, just as our intuition has it. And facts about one’s counterparts’ knowledge immediately grounds having a justified belief. But immediate grounding is not transitive, so stuff about knowledge does not immediately ground being creditworthy for believing. So, the odd consequence does not follow. A consequence that does follow is that stuff about knowledge mediately grounds being creditworthy for believing. (Because there is a chain of immediate grounds connecting these.) But here it is open for the knowledge-firster to say that our intuition really concerns only immediate grounding.
+Ichikawa is clear that (JPK) is a theory of justified belief (doxastic justification) and that this is the notion of justification that is connected to a belief’s being creditworthy. But doxastic justification has a basing requirement, and this makes doxastic justification partly a historical matter. And epistemic credit and blame also seem to depend on historical factors too (Greco 2014).  Thus, Ichikawa’s defense of (JPK) is susceptible to cases like the following:
+Bad Past: At t S comes to believe that there is a ceiling overhead. S believes this because she just took a pill which she knew would induce random changes in her intrinsic states. In advance of taking the pill, S knew it would very likely cause her to have many false perceptual beliefs. But as it happens, the pill induced a total re-organization of her intrinsic states such that at t S has a counterpart who knows a ceiling is overhead.
+(JPK) implies that S has a justified belief in Bad Past because she happens to have a knowledgeable counterpart. And because she has a justified belief, she is also creditworthy. But this seems wrong. Rather, S seems positively blameworthy for believing as she does. See Silva (2017) for further discussion of (JuJu) and (JPK) and see Greco (2014) for further discussion of historical defeaters for doxastic justification.
+An alternative solution to these problems would be to revise (JPK) so that it is only a theory about propositional justification:
+(PJPK) S has justification to believe p iff S has a possible counterpart, alike to S in all relevant intrinsic respects, whose corresponding belief is knowledge.
+One could then, arguably, concoct a knowledge-first theory of doxastic justification by adding some kind of historical condition that rules out cases like Bad Past.
+It should be noted that (PJPK) has a strange result. For if your internal counterpart knows p, then your internal counterpart believes p. But if your internal counterpart believes p, then you also believe p—provided you and your counterpart are not in very different environments (for example, earth vs. twin earth) that shift the content of the belief (compare Whitcomb 2014). So if (PJPK) is true, you only have propositional justification to believe p if you actually believe p. But it is usually assumed that it is possible to have propositional justification to believe p even if you do not believe p. To accommodate this (PJPK) may need revision.
+4. Reasons-First, Knowledge-First Theories
+Sylvan (2018), and Lord (2018) each take a reasons-first approach to justification, on which justified belief just is belief that is held for sufficient reason:
+(J=SR) S’s belief that p is justified iff (i) S possess sufficient reason to believe p, and (ii) S believes that p for the right reasons.
+While (J=SR) is not itself a knowledge-first view of justification, it becomes one when combined with a knowledge-first account of condition (i). Lord (2018: ch3) and Sylvan (2018: 212) both do this, taking reasons to be facts and arguing that one possesses a fact just in case one is in a position to know it:
+(Pos=PK) S possess the fact that p as a reason to respond in some way w iff S is in a position to know that p.
+Others have argued for some kind of knowledge-first restriction on (Pos=PK). For example, Neta (2017) has argued that our evidence is the set of propositions we are in a position to know non-inferentially. Provided one’s evidence just is the set of reasons one has for belief, this view will fall into the reasons-first, knowledge-first camp. For objections to (Pos=PK) see Kiesewetter (2017: 200-201, 208-209) and Silva (2023).
+Surprisingly, the category of reasons-first, knowledge-first views cross-cuts some of the other categories. For example, (J=K) theorists have tended to fall into this camp. Williamson (2009) and Littlejohn (2018) take one’s evidence to consist of the propositions that one knows. Again, provided one’s evidence just is the set of reasons one has for belief, this leads to a view on which one possess p iff one knows p. This more restrictive knowledge-first view of possession, but together with (J=SR) and (J=K) it constitutes a kind of reasons-first, knowledge-first theory of justification. Since justified belief that p and knowledge that p never separate on this view, it can seem hardly worth mentioning this view as a reasons-first view. But there is more in need of epistemic justification than belief (though that will not be discussed here). There are other doxastic attitudes (for example, suspension, credence, acceptance, faith) as well as actions and feelings that are in need of epistemic justification. On knowledge-first, reasons-first views these states can only be justified by one’s knowledge.
+As mentioned above (J=K) is subject to a range of objections. What follows focuses on Lord and Sylvan’s incarnation of the knowledge-first program that consists of (J=SR) and (Pos=PK). These two principles give us a knowledge-first theory of justification that avoids some of the main problems facing (J=K).
+First, (J=SR) and (Pos=PK) are consistent with the existence of justified false beliefs. This is due to the fact that one’s reasons (the facts one is in a position to know) can provide one with sufficient, yet non-conclusive, reason to believe further propositions that may be false. The fact that a drunk has always lied about being sober, can be a sufficient yet non-conclusive inductive reason to believe that he will lie about being sober in the future. Since it is non-conclusive, having justification for this belief is consistent with it turning out to be false. So this view can allow for justified yet false inferential beliefs. The possibility of justified false perceptual beliefs is discussed below in connection with the new evil demon hypothesis.
+Second, (i=SR) and (Pos=PK) are consistent with the existence of unknown, justified true beliefs. Because Smith can have justified false beliefs in the way described above, he can have a justified false belief that Jones will get the job based on the fact that the employer said so and the fact that this is a highly reliable indicator of who will get the job. Smith may also know that Jones has ten coins in his pocket based on perception. So, through an appropriate inferential process, Smith can come by a justified true inferential belief that the person who will get the job has ten coins in his pocket. This is a Gettier case, that is, an instance of a justified true belief without knowledge.
+There are a few caveats. First, it’s worth noting that the reasons-first, knowledge-first theory of justification only has this implication under the assumption that the justificatory support one derives from facts one is in a position to know is transitive, or can at least sometimes carry over inferences from premises that one is not in a position to know. For, here, Smith’s false belief that Jones will get the job is justified by the reasons Smith is in a position to know, and we are assuming this justified false belief—which Smith is not in a position to know—can nevertheless facilitate Smith’s ability to acquire inferential justification for believing that the person who will get the job has ten coins in his pocket. For worries about the non-transitivity of the justification relation see Silins (2007) and Roche and Shogenji (2014).
+Second, it is also worth noting that while Lord and Sylvan’s view is consistent with some intuitions about Gettier cases, it is not consistent with all such intuitions. After all, their view seems to be that we possess different reasons or evidence in the Gettier cases than we do in the good cases. This will seem counterintuitive to those who think that we have the same evidence in both cases.
+Third, (J=SR) and (Pos=PK) are consistent with some intuitions about the new evil demon hypothesis. In the standard telling, the recently envatted brain has a non-veridical perceptual experience of p and believes p on the basis of that non-veridical experience. While the non-veridical experience does not give one access to the fact that p (if it is a fact), there is an inferential process that can give the envatted brain a justified belief according to (J=SR) and (Pos=PK). This is because mature thinkers who are recently envatted can know (or be in a position to know) that in the past their visual experiences have been a reliable guide to reality, and can sometimes know that they are now having an experience of p. Together, these are facts that can give one sufficient reason to believe p even if one is an unwittingly recently envatted brain.
+Of course, the weakness here is that the envatted brain’s perceptual belief that p is not based on her inferential source of propositional justification to believe p. Rather, the envatted brain holds her belief in response to her perceptual experience. So, she is not doxastically justified, that is, her belief itself fails to be justified. So, there is some bullet to bite unless, perhaps, one can argue that knowledge of the fact that one is having an experience of p can itself be a reason to believe p even when one is an unwittingly envatted brain.
+There are further problems that the reasons-first, knowledge-first view faces. They are along the lines of the problems for Bird’s (JuJu). For if reasons are facts, then one cannot obtain justified false beliefs from justified false-premise beliefs unless, as noted above, one’s justified false-premise beliefs are themselves inferentially justified and justificatory support carries over (see the discussion of (JuJu) above).  Similarly, it is unclear whether one can gain justified beliefs from contentless beliefs. For contentless “premise” beliefs do not stand in inferential relations to their “conclusions,” and such relations seem essential to the ability of justificatory support to transmit across inferences.
+For a further concern about this view, see Littlejohn’s (2019) “Being More Realistic About Reasons,” where he argues that the conjunction of (J=SR) and (Pos=K) generates explanatory lacunas regarding how reasons should constrain our credences.
+5. Perspectival Theories
+Perspectival knowledge-first theories of justification put “knowledge first” by letting one’s point of view on whether one has knowledge determine whether one has justification. Smithies (2012), for example, argues that:
+(PJ=PJK) S has justification to believe that p iff S has justification to believe that she is in a position to know that p.
+Smithies (2012: 268) treats being in a position to know as a matter of being in a position where all the non-psychological conditions for knowing are met. Smithies is clear that this is only a theory of propositional justification (having justification to believe), not doxastic justification (having a justified belief). For as a theory of doxastic justification it would be too demanding: it would require an infinite hierarchy of beliefs, and it would require that one have epistemic concepts (e.g. KNOWS, JUSTIFIED, POSITION TO KNOW) if one is to have any justified beliefs at all. This would over-intellectualize justification, excluding agents incapable of epistemic reflection (for example, young children, people with handicaps, smart non-humans). Worse, if knowledge requires justification then this would also rob such beings of knowledge.
+It is important to note that (PJ=PJK) is neutral on which side of the biconditional gets explanatory priority. To be a genuinely knowledge-first view it must be the condition on the right-hand side that explains why the condition on the left-hand side obtains. This is something that Smithies himself rejects.  And there are good reasons for this, as there are objections to (PJ=PJK) that emerge only if we give the right-hand side explanatory priority. But there is also a general objection to this view that is independent of which side gets priority. This section starts with the general objection and then turns to the others.
+A central worry to have about (PJ=PJK), irrespective of which side gets explanatory priority, is the extent to which Smithies’ purely non-psychological conception of propositional justification is a theoretically valuable conception of justification as opposed to a theoretically valuable conception of evidential support. For our evidence can support propositions in virtue of entailment and probabilistic relations, where these propositions can be so complex as to be well beyond our psychological abilities to grasp. For example, even before I had the concept of a Gettier Case, my evidence supported the claim that I exist or I’m in a Gettier case just in virtue of the fact that I exist was already part of my evidence and entailed that disjunction. But since I did not have the concept of GETTIER CASE, I could not have formed that belief.
+So one general question concerns whether the motivations appealed to in support of (PJ=PJK) wrongly identify the following two epistemic notions:
+Evidential Support: Having evidence, E, such that E entails or probabilistically supports p.
+Justification: Having evidence, E, such that E gives one justification to believe p.
+Certain evidentialists will like the idea of binding these notions together, thinking that strong evidential support is all there is to epistemic justification (Smithies 2019). Yet many have objected to the kind of evidentialism implicit in making evidential support necessary and sufficient for justification. The necessity direction has been objected to due to lottery problems, pragmatic encroachment, and the existence of justified beliefs not derived from evidence (so called “basic” or “immediate” or “foundational” justified beliefs). The sufficiency direction, while rarely challenged, is also objectionable (Conee 1987, 1994; Silva 2018). For example, some mental states are such that we are not in a position to know that we are in them even upon reflection (Williamson 2000). Suppose you knew that you just took a pill that ensured that you are in a mental state M iff you do not believe (A) that you are in M. A rational response to this knowledge would be to suspend belief in (A) due to your knowledge of this biconditional: for if you believe (A) then it is false, and if you disbelieve (A) then it is true. So suspension seems like the only rational response available to you. In at least some such cases where you consciously suspend belief in (A), you will also know that you have suspended belief (A). This is at least a metaphysical possibility, and certainly a logical possibility. Now, since you know the biconditional and since you know you have suspended belief in (A), your evidence entails that you are in M. But it is logically impossible for you to justifiably believe or know (A) on your evidence—and you can know this a priori. For believing (A) on your evidence entails that (A) is false. So connecting justification to evidential support in this way is inconsistent with the following plausible idea: S has justification to believe P on E only if it is logically possible for S to justifiably believe P on E. For further discussion of these and related reasons to separate justification from evidential support see Silva (2018) and Silva and Tal (2020). For further objections to Smithies see Smith (2012). For further defense of Smithies’ theory see Smithies (2019: sect 9.4).
+Further, as Smith (2012) points out, (PJ=PJPK) implies that having justification to believe p requires having justification to believe an infinite hierarchy of meta-justificatory claims:
+One thing that we can immediately observe is that [PJ=PJK]… is recursive, in that it can be reapplied to the results of previous applications. If one has justification to believe that p (Jp) then, by [PJ=PJK], one must have justification to believe that one is in a position to know that p (JKp). But if one has justification to believe that one is in a position to know that p (JKp) then, by [PJ=PJK], one must have justification to believe that one is in a position to know that one is in a position to know that p (JKKp) and so on… In general, we have it that Jp ⊃ JKn p for any positive integer n.
+If one adds to this the priority claim that having justification to believe that one is in a position to know p is the source of one’s justification to believe p, one must either accept a skeptical result due to grounding worries about the infinite hierarchy of meta-justificatory claims, or accept a knowledge-first form of infinitism. But even overcoming the standard general worries with infinitism, knowledge-first infinitism will be especially difficult to handle due to luminosity failures for KK. For example, in Williamson’s (2000: 229) unmarked clock case, one is argued to know a proposition p, while also knowing that it is very improbable that one knows i. Intuitively, this is a case where one knows p and so justifiably believes p even though they lack justification to believe they know p. (For a discussion of the limits of the unmarked clock case see Horowitz 2014.)
+The final issue with (PJ=PJPK) is whether or not having justification to believe that one is in a position to know is the source of one’s propositional justification to believe p (which would make this a knowledge-first view) or whether it is a non-explanatory necessary and sufficient condition on having justification to believe p (Smithies’ view). To illustrate the difference, suppose there is an infallible record of peoples’ heights. It is certainly true that Paul is 5’11’’ at t if and only if the infallible record says that Paul is 5’11’’ at t. But the right-hand-side of that biconditional is plausibly non-explanatory. The fact that there is an infallible record does not make or otherwise explain Paul’s height. Now, if the advocate of (PJ=PJPK) holds that having justification to believe that one is in a position to know is the source of one’s justification, then having a doxastically justified belief will, according to tradition, require one to base their belief that p on that source of justification. But ordinarily we do not base our beliefs on further facts about knowing or being in a position to know. So if we are not to risk an unacceptable skepticism about doxastically justified belief (and hence knowledge), it seems we will either have to give up the tradition or treat the right-hand-side of (PJ=PJPK) as specifying a mere non-explanatory necessary and sufficient condition. However, if that is the case, it can seem puzzling why there should be such a modally robust connection between justification and one’s perspective on whether one knows.
+A view much like (PJ=PJPK) that avoids all but this final problem is Dutant and Littlejohn’s (2020) thesis:
+(Probable Knowledge) It is rational for S to believe p iff the probability that S is in a position to know p is sufficiently high.
+Even after specifying the relevant notion of ‘in a position to know’ and the relevant notion of “probability’ (objective, subjective, epistemic, together with some specification of what counts as an agent’s evidence), provided we can and should distinguish between propositionally and doxastically rational belief, it seems that (Probable Knowledge) is either not going to be a genuinely knowledge-first view or one that does not allow for enough doxastically rational beliefs due to the basing worry described above in connection with Bad Past.
+Reynolds (2013) offers a related view of doxastic justification on which justified belief is the appearance of knowledge: “I believe with justification that I am currently working on this paper if and only if there has been an appearance to me of my knowing that I am currently working on this paper.” Generalizing this we get:
+(J=AK) S’s belief that p is justified if and only if S is appeared to as though S knows that p.
+On his view appearances are not doxastic states nor are they conceptually demanding. As he  explains the target notion:
+Consider the following example: Walking in a park I notice an unfamiliar bird, and decide I would like to find out what it is. Fortunately, it doesn’t immediately fly away, so I observe it for two or three minutes. A few hours later, having returned home, I look up a web site, find a few photos, follow up by watching a video, and conclude confidently that I saw a Steller’s Jay. I think it is perfectly correct to say that the bird I saw had the appearance of a Steller’s Jay, even though I didn’t know that that’s what it was at the time. If it hadn’t had the appearance of a Steller’s Jay, I wouldn’t have been able to remember that appearance later and match it to the photos and video of Steller’s Jays. I didn’t have the concept of a Steller’s Jay, yet I had an appearance of a Steller’s Jay. (Reynolds 2013: 369)
+(J=AK) has advantages with regard to (PJ=PJK). It does not lead to an infinite hierarchy of meta-justificatory claims and it is not hard to see how many of our occurrent beliefs might be based on such appearances, thereby avoiding some of the skeptical challenges that threatened (PJ=PJK). But there are problems.
+One concern with (J=AK) is its self-reflective character. To have a justified belief you have to be (or have been) in a state in which it appears to you as though you have knowledge. This requires introspective abilities, which arguably some knowing creatures might lack. As Dretske (2009) put it: a dog can know where its bowl is, and a cat can know where the mouse ran. The correctness of these and other knowledge ascriptions does not seem to turn on whether or not dogs and cats have the capacity to access their own mental lives in such a way that they can appear to themselves to have knowledge.
+Moreover, (J=AK) implies that every justified belief is a belief with such an appearance. But many of the justified beliefs we form and much of the knowledge we acquire is merely dispositional, that is, it involves dispositional beliefs that are never or only very briefly made occurrent. Do we, as a matter of psychological fact, also have the appearance of knowledge with regard to all such states? There is non-trivial empirical reason to find this suspicious. In the psychology of memory, it has been observed that our memory systems are not purely preservative, they are also constructive. For example, our sub-personal memory systems often lead us to forget very specific beliefs while forming new beliefs that are more general in character. Sometimes this leads to new knowledge and new justified beliefs (Grundmann and Bernecker 2019). But if the new belief is the product of sub-personal operations and the more general belief is itself unretrieved, then it is unclear how that more general unretrieved justified belief could appear to oneself as a case of knowing.
+A final concern with (J=AK) is its ability to handle undercutting defeat and the plausible idea that beliefs can cognitively penetrate appearances (see (cognitive penetration). For suppose you have strong undefeated evidence that you are in fake-barn country, but you brazenly believe without justification that you are looking at the one real barn in all the country. Perhaps this is because you pathologically believe in your own good fortune. But pathology is not necessary to make the point, as it is often assumed that we can have unjustified beliefs that we believe to be justified. If either is your situation, your belief that you are looking at a real barn can appear to you to be knowledge given your normal visual experience and the fact that you (unjustifiably) believe your defeater to have been defeated. According to (J=AK) your belief is then justified. But that is the wrong result. Unjustified beliefs that enable the appearance of knowledge should not have the ability to neutralize defeaters.
+Here is a final perspectival, knowledge-first theory of justification. It is mentioned by Smithies (2012) and explored by Rosenkranz (2018):
+(J=¬K¬K): S has justification to believe p iff S is not in a position to know that S is not in a position to know that p.
+Like Smithies, Rosenkranz relies on a conception of justification and being in a position to know that is psychologically undemanding. But unlike Smithies, Rosenkranz explicitly regards his view as being about justification for idealized agents and leaves open what relevance this notion has for ordinary, non-idealized agents like us.
+There are at least two concerns with this view of justification. First, suppose we were to treat (J=¬K¬K) as a theory of justification for ordinary non-ideal agents and imposed (as many wish to) substantive psychological limits on what one has justification to believe. With such limits in place, (J=¬K¬K) would face not an over-intellectualization problem but an under-intellectualization problem. For agents who lack the concept KNOWLEDGE or the complicated concept POSITION TO KNOW could never be in a position to know that they are not in a position to know. So, such agents would be justified in believing anything.
+But even once psychological limits are stripped away, and with them the under-intellectualization problem, another problem remains. Smithies (2012: 270) points out that, on this view, to lack justification one must be in a position to know that one is not in a position to know. Since being in a position to know is factive, this limits defeating information to factive defeating information. But it seems like misleading (non-factive) information can also defeat knowledge and justification. For example, suppose you are told that you are in fake-barn country. But in fact you are not, so you are not in a position to know that you are in fake-barn country. Still, the misleading testimony that you are in fake-barn country gives you justification to believe that you are in fake-barn country. Intuitively, this misleading testimony will defeat your justification to believe that there is a barn ahead; the misleading testimony ensures you should not believe that. But you are not in a position to know that you are not in a position to know that there is a barn ahead—recall the testimony you receive is misleading. So (J=¬K¬K) says you have justification when intuitively you do not.
+In response, it seems open to advocates of (J=¬K¬K) to argue that while one might not be in a position to know the content of the misleading testimony (because it is false), the misleading testimony itself can defeat. In this case, for example, it is arguable that the misleading testimony that one is in circumstances that make one’s knowing that p improbable itself defeats one’s being in a position to know p, and so prevents one’s good visual contact with an actual nearby barn in normal conditions from putting one in position to know that a barn is nearby. However, recent arguments for the existence of “unreasonable knowledge”—that is, knowledge that p while knowing that it is improbable that one knows p—will challenge the integrity of this response in defense of (J=¬K¬K). For more on unreasonable knowledge see Lasonen-Aarnio (2010, 2014) and Benton and Baker-Hytch (2015).
+6. Infallibilist Knowledge-First Virtue Epistemology
+We are not simply retainers of propositional knowledge. We are also able to acquire it. You are, for example, able to figure out whether your bathroom faucet is currently leaking, you are able to figure out whether your favorite sports team won more games this season than last season, you are able to figure out the sum of 294 and 3342, and so on. In normal circumstances when you exercise this ability you gain propositional knowledge. If you are able to figure out whether the faucet is leaking and you use that ability, the typical result is knowledge that the faucet is leaking (if it is leaking) or knowledge that the faucet is not leaking (if it is not leaking). The core idea behind knowledge-first virtue epistemology (KFVE) is that justified belief is belief that is somehow connected to exercises of an ability to know. Predictably, (KFVE)-theorists have had different things to say about how justified belief is connected to such abilities.
+Some have argued that success is a general feature of exercises of abilities (Millar 2016). That is, one exercises an ability only if one does what the ability is an ability to do. It is widely thought that belief formation is a part of exercising an ability to know because knowing is constituted by believing. From which it follows in the special case of exercises of abilities to know that:
+(Exercise Infallibilism) S’s belief is the product of an exercise of an ability to know only if S’s belief constitutes knowledge.
+For example, Millar (2019) argues for a special instance of this in arguing that we cannot exercise an ability to know by perception without thereby acquiring perceptual knowledge.
+If (Exercise Infallibilism) is true, and if justified beliefs just are beliefs that are products of abilities to know, then (J=K) follows. And so we have a virtue theoretic account of justified belief that faces all the same problems we saw above facing (J=K). Of note is the inability of such a view to accommodate the following desiderata:
+Desideratum 1. Justification is non-factive, that is, one can have justified false beliefs.
+Desideratum 2. One can have justified true beliefs that do not constitute knowledge, as in standard Gettier cases.
+Desideratum 3. One can have justified perceptual beliefs even if one is in an environment where perceptual knowledge is impossible due to systematically misleading features of one’s perceptual environment. This can happen on a more global scale (as in the new evil demon case), and it can happen on a more local scale (as in beech-elm cases discussed below).
+7. Proficiency-Theoretic Knowledge-First Virtue Epistemology
+The central point of departure from Millar’s virtue theory and the remaining virtue theories is that they reject (Exercise Infallibilism). It is this rejection that makes the resulting theories resilient to the objections facing (J=K). On Miracchi’s (2015) preferred instance of (KFVE), exercises of abilities to know explain our justified beliefs but it is not mere abilities to know that have the potential yield justified beliefs. Rather, it is only proficient abilities to know (“competences”) that yield justified beliefs, and all abilities to know are proficient abilities to know. One has a proficient ability to know just in case an exercise of their ability to know ensures a sufficiently high objective probability of knowing. That is, the conditional objective probability that S knows p given that S exercised a relevant ability to know is sufficiently high. This is a kind of in situ reliability demand on justification.
+We can summarize her view of justified belief, roughly, as follows:
+(KFVE-Proficiency) S has a justified belief iff S’s belief is competent, where S’s belief is competent iff S’s belief is produced by an exercise of a proficient ability to know.
+Central to her view is the idea that exercises of proficient abilities are fallible, that is, an agent can exercise an ability to know without succeeding in knowing. So (Exercise Infallibilism) is given up. This enables (KFVE-Proficiency) to accommodate justified false beliefs (that is, Desideratum 1) as well as justified true beliefs that do not constitute knowledge (that is, Desideratum 2). So (KFVE-Proficiency) avoids two of the main challenges to (J=K) and Millar’s (KFVE-Infallibilism).
+However, by limiting justified beliefs to beliefs produced by proficient abilities, Miracchi’s view is, like (J=K) and Millar’s infallibilist view, unable to accommodate Desideratum 3, that is, the compatibility of justified beliefs formed in certain deceptive environments. The first case of this is just the familiar new evil demon case. For the recently envatted brain, as Kelp (2016; 2017; 2018) argues, retains the ability to know by perception that, say, they have hands by responding to visual appearances in normal circumstances. But because they are no longer in normal circumstances, they no longer possess a proficient ability to know. In other words, the recently envatted brain’s change of environment robs them of the proficiency needed to form justified beliefs.
+Miracchi (2020) rejects, or is at least deeply suspicious of, the metaphysical possibility of the new evil demon hypothesis. But we need not rely on fantastical envatted brain scenarios to make this style of objection to (KFVE-Proficiency). Suppose you grew up in an environment with lots of beech trees and developed the ability to visually identify them and thus the ability to know that a beech tree is nearby by sight. Since exercises of abilities are fallible, you could exercise this beech-identification ability if you were to unwittingly end up in another environment where there are only elms (which, according to Putnam, look indistinguishable from beeches to the untrained). But this is not an environment where your ability to identify beeches amounts to a proficiency: conditional on your exercise of your ability to identify and come to know that beeches are nearby, it is objectively highly likely that you will fail to know. So the intuition that you can have justified perceptual beliefs about beeches being nearby in such a case appears inconsistent with (KFVE-Proficiency). While there may be some doubt about the metaphysical possibility of the new evil demon hypothesis, this is a perfectly possible scenario. See Kelp (2018: 92) for a similar objection for Miracchi.
+One last concern with (KFVE-Proficiency) regards its ability to accommodate defeat. This is discussed in the section below.
+8. Functionalist & Ability-Theoretic Knowledge-First Virtue Epistemology
+Kelp (2016; 2017; 2018) and Simion (2019) offer versions of (KFVE) that do not tie justification so closely to in situ reliability and thereby avoid not only the problem of having justified false beliefs and the possibility of Gettier cases, but also problems arising from the new evil demon hypothesis and very local cases of deception (like the beech-elm case above). So Desiderata 1–3 are easily managed. This section first explains their distinctive views and then mentions some concerns they share.
+On Kelp’s (2016; 2017; 2019) view, justified belief is competent belief, and competent beliefs are generated by exercises of an agent’s ability to know. Importantly, such exercises do not require proficiency in Miracchi’s sense. Kelp’s view, roughly, amounts to this:
+(KFVE-Ability) S has a justified belief iff S’s belief is competent, where S’s belief is competent iff S’s belief is produced by an exercise of an ability to know.
+On Simion’s (2019) view, in contrast, justified beliefs are beliefs that are generated by properly functioning cognitive processes that are aimed at yielding knowledge. Presumably, if an agent has properly functioning cognitive processes that are aimed at yielding knowledge, then such an agent has an ability to know as well. So it’s not too much of a taxonomic stretch to place Simion’s theory among the virtue theories. Like the exercise of abilities, cognitive processes can properly function without proficiency:
+(KFVE-Functionalism) S’s belief is justified iff S’s belief is produced by a properly functioning cognitive process that has the etiological function of generating knowledge.
+These statements of Kelp and Simion’s views are relatively coarse-grained and both Kelp and Simion defend more refined theses.
+Kelp and Simion’s views are not unrelated to each other. For the ability to know is an ability one has in virtue of having certain belief-producing cognitive processes, and Kelp’s (2018) preferred account of how the ability to know is acquired is the same general kind of account that Simion (2019) relies on in arguing that the cognitive processes that constitute one’s ability to know are cognitive processes whose function is knowledge production. Nevertheless, the views are distinct in that (KFVE-Ability) grounds justification in agent abilities, while (KFVE-Functionalism) grounds them in cognitive processes. See Kelp (2019) for a discussion of the importance of this difference.
+Central to their views is the idea that exercises of abilities to know are fallible, and given the fallibility of exercises of the ability to know, (KFVE-Ability) and (KFVE-Functionalism) allow for justified false beliefs and justified true beliefs that do not constitute knowledge. So, Desiderata 1 and 2 are easily accommodated.
+Desiderata 3 is likewise easily accommodated. In Kelp’s (2018) telling, the recently envatted brain retains and exercises an ability to know when believing she has a hand upon having the visual experience as of a hand. According to Simion (2019), just as an envatted heart pumping orange juice counts as a properly functioning heart, a recently envatted brain counts as properly functioning when it comes to believe it has a hand upon having the visual experience as of a hand. And if justified belief can be had in cases of such systematic perceptual deception, then they can also be had in cases of localized perceptual deception as in the beech-elm scenario above.
+So (KFVE-Ability) and (KFVE-Functionalism) can accommodate Desiderata 1–3. What about the desiderata that emerged in the objections to (JuJu), (JPK), and reasons-first, knowledge-first views? That is:
+Desideratum 4. Justified beliefs can be based on inferences from justified false beliefs.
+Desideratum 5. Justified beliefs can be based on inferential acts involving contentless beliefs.
+Desideratum 6. Justified belief is a kind of creditable belief.
+Desideratum 7. Justified belief has a historical dimension that is incompatible with situations like Bad Past.
+If (KFVE-Ability) or (KFVE-Functionalism) imply that a recently envatted brain is able to have justified beliefs from an exercise of an ability to know or as a product of their cognitive competences which aim a knowledge, then it is easy to see how Desiderata 4 and 5 is satisfied by (KFVE-Ability) and (KFVE-Functionalism). For these seem like more local cases of deception. As for 6 and 7, the virtue-theoretic machinery here is key. For both can be explained by the demand that justified beliefs are beliefs that issue from an ability or a properly functioning cognitive process. But that was exactly what was lacking in the cases discussed above that motivated 6 and 7. See Silva (2017) for an extended discussion of how certain versions of (KFVE) can satisfy these desiderata.
+There are some worries about these versions of (KFVE). Consider Schroeder’s (2015) discussion about defeater pairing. Any objective condition, d, which defeats knowledge that p is such that: if one justifiedly believes that d obtains then this justified belief will defeat one’s justification to believe p. For example, suppose you formed the belief that a wall is red from an ability to know this by perception and that you are in normal circumstances where the wall is in fact red. You will have a justified belief according to each of the fallibilist versions of (KFVE) above. But suppose you were given misleading yet apparently reliable undercutting information that the wall is illuminated by red lights and so might not actually be red. This is not true, but were it true it would defeat your knowledge; were it true you would be in a Gettier situation. Now the defeater pairing insight says that the fact that you justifiedly believe the wall is illuminated by red lights defeats your justification to believe the wall is red. But according to the fallibilist instances of (KFVE) discussed above, since you arrived at your belief that the wall is red through an exercise of your proficiency or ability or properly functioning cognitive process, you have a justified belief according to (KFVE-Proficiency), (KFVE-Competence), and (KFVE-Functionalism). But that is inconsistent with the intuition that the justification for your belief is defeated.
+So this objection gives rise to a further potential demand on an adequate theory of justified belief:
+Desideratum 8. Justified belief is susceptible to defeat by justified defeating information.
+A possible response to this objection is to maintain that exercises of abilities, or the use of a reliable processes, always depends on the absence of credible defeating information. In which case, the versions of (KFVE) above may be able to accommodate Desideratum 8.
+Another response is to resist Desideratum 8 and the supposed phenomenon of defeater pairing. For more on this see discussion of “unreasonable justified beliefs”. See Lasonen-Aarnio (2010, 2014) and Benton and Baker-Hytch (2015). For qualified opposition see Horowitz (2014).
+The second concern to have about (KFVE-Ability) and (KFVE-Functionalism) is that there is a question about the extent to which abilities/cognitive processes are “in the head.” For example, consider the amputee gymnast. She lost her leg and so no longer has the ability to do a backflip. So her ability to do backflips is located, in part, in her ability to successfully interact with the physical world in some ways. In this case, it is located in her ability to control her body’s physical movements in certain ways. This does not conflate proficiency with mere ability, for even with both legs the gymnast might not have a proficiency because she’s in an inhospitable environment for performing backflips (high winds, buckling floors, and so forth). We might wonder, then, whether the envatted brain’s ability to know by perception is lost with the loss of her body and the body’s perceptual apparatus just as the gymnast’s ability to do backflips is lost with the loss of her leg. If so, then it is a mistake to think (KFVE-Ability) and (KFVE-Functionalism) are compatible with the new evil demon hypothesis, and hence with Desideratum 3. This threatens to make these views more revisionary than they initially appeared to be.
+9. Know-How Theories and the No-Defeat Condition
+Silva (2017) argues that justification is grounded in our practical knowledge (knowledge-how) concerning the acquisition of propositional knowledge (knowledge-that). The motivation for this incarnation of (KFVE) starts with the simple observation that we know how to acquire propositional knowledge. You, for example, know how to figure out whether your bathroom faucet is currently leaking, you know how to figure out whether your favorite sports team won more games this season than last season, you know how to figure out the sum of 294 and 3342, and so on. In normal circumstances when you exercise such know-how you typically gain propositional knowledge. If you know how to figure out whether the faucet is leaking and you use that know-how, the typical result is knowledge that the faucet is leaking (if it is leaking) or knowledge that the faucet is not leaking (if it is not leaking). One way of thinking about the grounds of justification is that it is crucially connected to this kind of know-how: justified belief is, roughly, belief produced by one’s knowledge how to acquire propositional knowledge.
+Here is a characterization of Silva’s (2017) view:
+(KFVE-KnowHow) S has a justified belief iff (i) S’s belief is produced by an exercise of S’s knowledge of how to gain propositional knowledge, and (ii) S is not justified in thinking she is not in a position to acquire propositional knowledge in her current circumstances.
+One advantage of (KFVE-KnowHow) is that it is formulated in terms of know-how and so avoids worries about abilities not being “in the head.” For example, while the amputee gymnast discussed above lacks the ability to perform backflips, she still knows how to do them. Similarly, in thinking about the recently envatted brain, she still knows how to acquire propositional knowledge by perception even if she lacks the ability to do so because she has lost the necessary perceptual apparatus. So Desideratum 3 is, arguably, easier to accommodate with (KFVE-KnowHow).
+Similarly, since exercises of know-how are fallible in situ (Hawley 2003), (KFVE-KnowHow) has no trouble explaining how exercises of one’s knowledge how to know could lead one to have a false belief (that is, Desideratum 1) or have true beliefs that do not constitute knowledge (that is, Desideratum 2). For similar reasons (KFVE-KnowHow) is able to satisfy Desiderata 4-7. See Silva (2017) for further discussion.
+Lastly, condition (ii) is a kind of “no defeater” condition that makes (KFVE-KnowHow) compatible with Schroeder’s defeater-pairing thesis and standard intuitions about undercutting defeat. So it manages to accommodate Desideratum 8.  So (KFVE-KnowHow) appears capable of satisfying all the desiderata that emerged above. Accordingly, to the extent that one finds some subset of Desiderata 1-8 objectionable one will have reason to object to (KFVE-KnowHow). For one way of developing this point see the next section.
+10. Excused Belief vs. Justified Belief
+The objections to knowledge-first views of justification above assumed, among other things, that justification has the following properties:
+Desideratum 1. Justification is non-factive, that is, one can have justified false beliefs.
+Desideratum 2. One can have justified true beliefs that do not constitute knowledge, as in standard Gettier cases.
+Desideratum 3. One can have justified perceptual beliefs even if one is in an environment where perceptual knowledge is impossible due to systematically misleading features of one’s perceptual environment. This can happen on a more global scale (as in the new evil demon case), and it can happen on a more local scale (as in beech-elm cases discussed above).
+Desideratum 4. Justified beliefs can be based on inferences from justified false beliefs.
+Desideratum 5. Justified beliefs can be based on inferential activities involving contentless beliefs.
+Desideratum 6. Justified belief is a kind of creditable belief.
+Desideratum 7. Justified belief has a historical dimension that is incompatible with situations like Bad Past.
+Desideratum 8. Justified belief is susceptible to defeat by justified defeating information.
+Knowledge-first virtue epistemology has the easiest time accommodating these assumed properties of justification, with (KFVE-KnowHow) being able to accommodate all of them.
+In defense of alternative knowledge-first views some might argue that Desiderata 1–8 (or some subset thereof) are not genuine properties of justification, but rather properties of a kindred notion, like excuse. Littlejohn (2012: ch. 6; 2020) and Williamson (2014: 5; 2020) have argued that the failure to properly distinguish justification from excuses undermines many of the arguments that object to there being a tight connection between knowledge and justification. An excuse renders you blameless in violating some norm, and it is easy to see how some might argue that 1–8 (or some subset thereof) indicate situations in which an agent is excusable, and so blameless, although her belief is not justified. For the locus classicus on the concept of excuse see Austin’s “A Plea for Excuses.” For critical discussion of the excuse maneuver in defense of knowledge-first theories (of assertion and justification) see Lackey (2007), Gerken (2011), Kvanvig (2011), Schechter (2017), Madison (2018), and Brown (2018).
+Arguably, the most accommodating knowledge-first virtue theory, (KFVE-KnowHow), threatens to make the concept of an excuse nearly inapplicable in epistemology. For the situations indicated in 1-8 are so inclusive that it can be hard to see what work is left for excuses. If one thought there should be deep parallels between epistemology and moral theory, which leaves substantive work for excuses, then one might worry that any theory that can accommodate all of Desiderata 1-8 will in some way be guilty of conflating justification with excuse.
+11. A Methodological Reflection on Gettier
+The history of the Gettier problem is a long history of failed attempts to give a reductive account of knowledge in terms of justification and other conditions. In light of this, many have since judged the project of providing a reductive analysis of knowledge to be a degenerating research program. In putting knowledge first in the theory of justification, epistemologists are exploring whether we can more successfully reverse the order of explanation in epistemology by giving an account of justified belief in terms of knowledge. Attempts to put knowledge first in the theory of justification began during the early twenty-first century, reminiscent of the history of attempts to solve the Gettier problem: knowledge-first theories are proposed, counterexamples are given, new knowledge-first theories (or error theories) are developed, new counterexamples are given, and so on (Whitcomb 2014: sect. 6).
+Perhaps this repeat of Gettierology merits a new approach. One such approach, advocated by Gerken (2018) is an ‘equilibristic epistemology’ according to which there is not a single epistemic phenomenon or concept that comes first in the project of the analysis of knowledge or justification. Rather, there are various basic epistemic phenomena that are not reductively analyzable. At most they may be co-elucidated in a non-reductive manner. Alternatively, perhaps we should return to the tradition from which knowledge-first epistemology sprung. That is, perhaps we should return to the prior project of providing a reductive analysis of knowledge in terms of other conditions. A manifestation of a return to the traditional approach involves drawing a distinction between knowledge and awareness, where the diagnosis of the failure of post-Gettier analyses of knowledge is, in part, taken to be a failure to appreciate the differences between knowledge and awareness (Silva 2023: ch.8-9).
+12. References and Further Reading
+
+Benton, M. and M. Baker-Hytch.  2015. ‘Defeatism Defeated.’  Philosophical Perspectives 29: 40-66.
+Bird, Alexander. 2007. ‘Justified Judging.’ Philosophy and Phenomenological Research, 74: 81-110.
+Brown, J. 2018. Fallibilism. Oxford: Oxford University Press.
+Chalmers, D. 2012. Constructing the World. Oxford: Oxford University Press.
+Comesana, J. and Kantin, H. 2010. ‘Is Evidence Knowledge?’ Philosophy and Phenomenological Research, 89: 447-455.
+Conee, E. 1987. ‘Evident, but Rationally unacceptable’. Australasian Journal of Philosophy 65: 316-26.
+Conee, E. 1994. ‘Against and Epistemic Dilemma’. Australasian Journal of Philosophy 72: 475-81.
+Dretske, F. 2009. Perception, Knowledge, Belief. Cambridge: Cambridge University Press.
+Dutant, J. and C. Littlejohn. 2020. ‘Defeaters as indicators of ignorance.’ In J. Brown and M. Simion (ed.), Reasons, Justification, and Defeat. Oxford University Press.
+Fratantonio, G. 2019. ‘Armchair Access and Imagination.’ Dialectica 72(4): 525-547.
+Gerken, M. 2011. ‘Warrant and Action.’ Synthese, 178(3): 529-47.
+Gerken, M. 2018. ‘Against Knowledge-First Epistemology.’ In E. And B. A. Gordon and Jarvis Carter (ed.), Knowledge-First Approaches in Epistemology and Mind, Oxford University Press. pp. 46-71.
+Greco, J. 2014. ‘Justification is not Internal.’ In M. Steup, J. Turri, and E. Sosa (eds.) Contemporary Debates in Epistemology. Oxford: Wiley Blackwell: 325-336.
+Grundmann, T. and S. Bernecker. 2019. ‘Knowledge from Forgetting.’ Philosophy and Phenomenological Research XCVIII: 525-539.
+Hawley, K. 2003. ‘Success and Knowledge-How.’ American Philosophical Quarterly, 40: 19-3.
+Hawthorne, J. Knowledge and Lotteries. Oxford:  Oxford University Press.
+Horowitz, S. 2014. ‘Epistemic Akrasia.’ Nous 48/4: 718-744.
+Ichikawa, J.J. 2014. ‘Justification is Potential Knowledge.’ Canadian Journal of Philosophy, 44: 184-206.
+Ichikawa, J.J. 2017. ‘Basic Knowledge First.’ Episteme 14(3): 343-361.
+Ichikawa, J. and Steup, M. 2012. ‘The Analysis of Knowledge.’ Stanford Encyclopedia of Philosophy.
+Ichikawa, J. and C.S.I. Jenkins. 2018. In Joseph Adam Carter, Emma C. Gordon & Benjamin Jarvis (eds.), Knowledge First: Approaches in Epistemology and Mind. Oxford University Press.
+Kelp, C., M. Simion, H. Ghijsen. 2016. ‘Norms of Belief.’ Philosophical Issues 16: 374-92.
+Kelp. C. 2016. ‘‘Justified Belief: Knowledge First-Style.’ Philosophy and Phenomenological Research 93: 79-100.
+Kelp, C. 2017. ‘Knowledge First Virtue Epistemology.’ In Carter, A., Gordon, E. and Jarvis, B. (eds.) Knowledge First: Approaches in Epistemology and Mind. Oxford: Oxford University Press.
+Kelp, C. 2019b. ‘How to Be a Reliabilist.’ Philosophy and Phenomenological Research 98: 346-74.
+Kelp, C. 2018. Good Thinking: A Knowledge-First Virtue Epistemology. New York: Routledge.
+Kiesewetter, B. 2017. The Normativity of Rationality. Oxford: Oxford University Press.
+Kvanvig, J. L. 2011. ‘Norms of Assertion.’ In Jessica Brown and Herman Cappelen (eds.), Assertion: New Philosophical Essays. Oxford: Oxford University Press.
+Lackey, J. 2007. ‘Norms of Assertion.’ Nous 41: 594-626.
+Lasonen-Aarnio, M. 2010. ‘Unreasonable knowledge.’ Philosophical Perspectives 24: 1-21.
+Lasonen-Aarnio, M. 2014. ‘Higher-order evidence and the limits of defeat.’ Philosophy and Phenomenological Research 88: 314–345.
+Lewis, D. 1997. ‘Finkish Dispositions.’ The Philosophical Quarterly 47: 143-58.
+Littlejohn, C. 2017. ‘How and Why Knowledge is First.’ In A. Carter, E. Gordon & B. Jarvis (eds.), Knowledge First. Oxford: Oxford University Press.
+Littlejohn, C. 2012. Justification and the Truth-Connection. Cambridge: Cambridge University Press.
+Littlejohn, C. 2019. ‘Being More Realistic About Reasons: On Rationality and Reasons Perspectivism.’ Philosophy and Phenomenological Research 99/3: 605-627.
+Littlejohn, C. 2020. ‘Plea for Epistemic Excuses.’ In F. Dorsch and J. Dutant (eds.), The New Evil Demon Problem. Oxford: Oxford University Press.
+Madison, B. 2010. ‘Is Justification Knowledge?’ Journal of Philosophical Research 35:173-191.
+Madison, B. 2018. ‘On Justifications and Excuses.’ Synthese 195 (10):4551-4562.
+McGlynn, A. 2014. Knowledge First? Palgrave MacMillan.
+Meylan, A. 2017. ‘In support of the knowledge-first conception of the normativity of justification.’ In Carter, A., Gordon, E. and Jarvis, B. (eds.) Knowledge First: Approaches in Epistemology and Mind. Oxford: Oxford University Press.
+Millar, A. 2016. Forthcoming a. ‘Abilities, Competences, and Fallibility.’ In M. Á. Fernández (ed.), Performance Epistemology. Oxford: Oxford University Press.
+Millar, A. 2019. Knowing by Perceiving. Oxford: Oxford University Press.
+Miracchi, L. 2015. ‘Competence to Know.’ Philosophical Studies, 172: 29-56.
+Miracchi, L. 2020. ‘Competent Perspectives and the New Evil Demon Problem.’ In J. Dutant and F. Dorsch, (eds.), The New Evil Demon. Oxford: Oxford University Press.
+Neta, R. and D. Pritchard. 2007. ‘McDowell and the New Evil Genius.’ Philosophy and Phenomenological Research, 74: 381-396.
+Neta, R. 2017. ‘Why Must Evidence Be True?’ in The Factive Turn in Epistemology, edited by Velislava Mitova. Cambridge: Cambridge University Press.
+Pritchard, D. and Greenough, P. Williamson on Knowledge. Oxford: Oxford University Press.
+Reynolds, S. 2013. ‘Justification as the Appearance of Knowledge.’ Philosophical Studies, 163: 367-383.
+Rosenkranz, S. 2007. ‘Agnosticism as a Third Stance.” Mind 116: 55-104.
+Rosenkranz, S. 2018. ‘The Structure of Justification.’ Mind 127: 309-338.
+Roche, W. and T. Shogenji. 2014. ‘Confirmation, transitivity, and Moore: The Screening-off Approach.’ Philosophical Studies 168: 797-817.
+Schechter, J. 2017. ‘No Need for Excuses.’ In J. Adam Carter, Emma Gordon & Benjamin Jarvis (eds.), Knowledge-First: Approaches in Epistemology and Mind. Oxford University Press. pp. 132-159.
+Silins, N. 2005. Silins, N. (2005). ‘Deception and Evidence.’ Philosophical Perspectives 19: 375-404.
+Silins, N. 2007. ‘Basic justification and the Moorean response to the skeptic.’ In T. Gendler & J. Hawthorne (Eds.), Oxford Studies in Epistemology (Vol. 2, pp. 108–140). Oxford: Oxford University Press.
+Silva, P. 2017. ‘Knowing How to Put Knowledge First in the Theory of Justification.’ Episteme 14 (4): 393-412.
+Silva, P. 2018. ‘Explaining Enkratic Asymmetries: Knowledge-First Style.’ Philosophical Studies 175 (11): 2907-2930.
+Silva P. & Tal, E. 2021. ‘Knowledge-First Evidentialism and the Dilemmas of Self-Impact.’ In Kevin McCain, Scott Stapleford & Matthias Steup (eds.), Epistemic Dilemmas. London: Routledge.
+Silva, P. 2023. Awareness and the Substructure of Knowledge. Oxford: Oxford University Press.
+Simion, M. 2019. ‘Knowledge‐first functionalism.’ Philosophical Issues 29 (1): 254-267.
+Smith, M. 2012. ‘Some Thoughts on the JK-Rule.’  Nous 46(4): 791-802.
+Smithies, D. 2012. ‘The Normative Role of Knowledge.’ Nous 46(2): 265-288.
+Smithies, D.  2019. The Epistemic Role of Consciousness. Oxford: Oxford University Press.
+Sutton, J. 2005. ‘Stick to What You Know.’ Nous 39(3): 359-396.
+Sutton, J. 2007. Beyond Justification. Cambridge: MIT Press.
+Sylvan, K. 2018. ‘Knowledge as a Non-Normative Relation.’ Philosophy and Phenomenological Research 97 (1): 190-222.
+Whitcomb, D. 2014. ‘Can there be a knowledge-first ethics of belief.’ In Jonathan Matheson & Rico Vits (eds.), The Ethics of Belief: Individual and Social, Oxford University Press. 2014.
+Williamson, T. 2000. Knowledge and its Limits. Oxford: Oxford University Press.
+Williamson, T. 2009. ‘Replies to Critics.’ In Duncan Pritchard & Patrick Greenough (eds.), Williamson on Knowledge. Oxford: Oxford University Press. pp. 279-384.
+Williamson, T. 2014. ‘Knowledge First.’ In M. Steup, J. Turri, and E. Sosa (eds.), Contemporary Debates in Epistemology (Second Edition). Oxford: Wiley-Blackwell.
+Williamson, T. 2020. ‘Justifications, Excuses, and Sceptical Scenarios.’ In J. Dutant and F. Dorsch, (eds.), The New Evil Demon. Oxford: Oxford University Press. Archived in Phil
+Zagzebski, L. 1996. Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge. Cambridge: Cambridge University Press.
+
+ 
+Author Information
+Paul Silva Jr.
+Email: psilvajr@gmail.com
+University of Cologne
+Germany
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

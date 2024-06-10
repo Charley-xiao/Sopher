@@ -1,0 +1,462 @@
+
+
+
+
+
+
+
+
+
+Gettier Problems | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gettier Problems
+Gettier problems or cases are named in honor of the American philosopher Edmund Gettier, who discovered them in 1963. They function as challenges to the philosophical tradition of defining knowledge of a proposition as justified true belief in that proposition. The problems are actual or possible situations in which someone has a belief that is both true and well supported by evidence, yet which — according to almost all epistemologists — fails to be knowledge. Gettier’s original article had a dramatic impact, as epistemologists began trying to ascertain afresh what knowledge is, with almost all agreeing that Gettier had refuted the traditional definition of knowledge. They have made many attempts to repair or replace that traditional definition of knowledge, resulting in several new conceptions of knowledge and of justificatory support. In this respect, Gettier sparked a period of pronounced epistemological energy and innovation — all with a single two-and-a-half page article. There is no consensus, however, that any one of the attempts to solve the Gettier challenge has succeeded in fully defining what it is to have knowledge of a truth or fact. So, the force of that challenge continues to be felt in various ways, and to various extents, within epistemology. Sometimes, the challenge is ignored in frustration at the existence of so many possibly failed efforts to solve it. Often, the assumption is made that somehow it can — and will, one of these days — be solved. Usually, it is agreed to show something about knowledge, even if not all epistemologists concur as to exactly what it shows.
+Table of Contents
+
+Introduction 
+The Justified-True-Belief Analysis of Knowledge 
+Gettier’s Original Challenge 
+Some other Gettier Cases 
+The Basic Structure of Gettier Cases 
+The Generality of Gettier Cases 
+Attempted Solutions: Infallibility 
+Attempted Solutions: Eliminating Luck 
+Attempted Solutions: Eliminating False Evidence 
+Attempted Solutions: Eliminating Defeat 
+Attempted Solutions: Eliminating Inappropriate Causality 
+Attempted Dissolutions: Competing Intuitions 
+Attempted Dissolutions: Knowing Luckily 
+Gettier Cases and Analytic Epistemology 
+References and Further Reading 
+
+ 1. Introduction
+Gettier problems or cases arose as a challenge to our understanding of the nature of knowledge. Initially, that challenge appeared in an article by Edmund Gettier, published in 1963. But his article had a striking impact among epistemologists, so much so that hundreds of subsequent articles and sections of books have generalized Gettier’s original idea into a more wide-ranging concept of a Gettier case or problem, where instances of this concept might differ in many ways from Gettier’s own cases. Philosophers swiftly became adept at thinking of variations on Gettier’s own particular cases; and, over the years, this fecundity has been taken to render his challenge even more significant. This is especially so, given that there has been no general agreement on how to solve the challenge posed by Gettier cases as a group — Gettier’s own ones or those that other epistemologists have observed or imagined. (Note that sometimes this general challenge is called the Gettier problem.) What, then, is the nature of knowledge? And can we rigorously define what it is to know? Gettier’s article gave to these questions a precision and urgency that they had formerly lacked. The questions are still being debated — more or less fervently at different times — within post-Gettier epistemology.
+2. The Justified-True-Belief Analysis of Knowledge
+Gettier cases are meant to challenge our understanding of propositional knowledge. This is knowledge which is described by phrases of the form “knowledge that p,” with “p” being replaced by some indicative sentence (such as “Kangaroos have no wings”). It is knowledge of a truth or fact — knowledge of how the world is in whatever respect is being described by a given occurrence of “p”. Usually, when epistemologists talk simply of knowledge they are referring to propositional knowledge. It is a kind of knowledge which we attribute to ourselves routinely and fundamentally.
+Hence, it is philosophically important to ask what, more fully, such knowledge is. If we do not fully understand what it is, will we not fully understand ourselves either? That is a possibility, as philosophers have long realized. Those questions are ancient ones; in his own way, Plato asked them.
+And, prior to Gettier’s challenge, different epistemologists would routinely have offered in reply some more or less detailed and precise version of the following generic three-part analysis of what it is for a person to have knowledge that p (for any particular “p”):
+
+Belief. The person believes that p. This belief might be more or less confident. And it might — but it need not — be manifested in the person’s speech, such as by her saying that p or by her saying that she believes that p. All that is needed, strictly speaking, is for her belief to exist (while possessing at least the two further properties that are about to be listed).
+Truth. The person’s belief that p needs to be true. If it is incorrect instead, then — no matter what else is good or useful about it — it is not knowledge. It would only be something else, something lesser. Admittedly, even when a belief is mistaken it can feel to the believer as if it is true. But in that circumstance the feeling would be mistaken; and so the belief would not be knowledge, no matter how much it might feel to the believer like knowledge.
+Justification. The person’s belief that p needs to be well supported, such as by being based upon some good evidence or reasoning, or perhaps some other kind of rational justification. Otherwise, the belief, even if it is true, may as well be a lucky guess. It would be correct without being knowledge. It would only be something else, something lesser.
+
+Supposedly (on standard pre-Gettier epistemology), each of those three conditions needs to be satisfied, if there is to be knowledge; and, equally, if all are satisfied together, the result is an instance of knowledge. In other words, the analysis presents what it regards as being three individually necessary, and jointly sufficient, kinds of condition for having an instance of knowledge that p.
+The analysis is generally called the justified-true-belief form of analysis of knowledge (or, for short, JTB). For instance, your knowing that you are a person would be your believing (as you do) that you are one, along with this belief’s being true (as it is) and its resting (as it does) upon much good evidence. That evidence will probably include such matters as your having been told that you are a person, your having reflected upon what it is to be a person, your seeing relevant similarities between yourself and other persons, and so on.
+It is important to bear in mind that JTB, as presented here, is a generic analysis. It is intended to describe a general structuring which can absorb or generate comparatively specific analyses that might be suggested, either of all knowledge at once or of particular kinds of knowledge. It provides a basic outline — a form — of a theory. In practice, epistemologists would suggest further details, while respecting that general form. So, even when particular analyses suggested by particular philosophers at first glance seem different to JTB, these analyses can simply be more specific instances or versions of that more general form of theory.
+Probably the most common way for this to occur involves the specific analyses incorporating, in turn, further analyses of some or all of belief, truth, and justification. For example, some of the later sections in this article may be interpreted as discussing attempts to understand justification more precisely, along with how it functions as part of knowledge. In general, the goal of such attempts can be that of ascertaining aspects of knowledge’s microstructure, thereby rendering the general theory JTB as precise and full as it needs to be in order genuinely to constitute an understanding of particular instances of knowing and of not knowing. Steps in that direction by various epistemologists have tended to be more detailed and complicated after Gettier’s 1963 challenge than had previously been the case. Roderick Chisholm (1966/1977/1989) was an influential exemplar of the post-1963 tendency; A. J. Ayer (1956) famously exemplified the pre-1963 approach.
+3. Gettier’s Original Challenge
+Gettier’s article described two possible situations. This section presents his Case I. (It is perhaps the more widely discussed of the two. The second will be mentioned in the next section.) Subsequent sections will use this Case I of Gettier’s as a focal point for analysis.
+The case’s protagonist is Smith. He and Jones have applied for a particular job. But Smith has been told by the company president that Jones will win the job. Smith combines that testimony with his observational evidence of there being ten coins in Jones’s pocket. (He had counted them himself — an odd but imaginable circumstance.) And he proceeds to infer that whoever will get the job has ten coins in their pocket. (As the present article proceeds, we will refer to this belief several times more. For convenience, therefore, let us call it belief b.) Notice that Smith is not thereby guessing. On the contrary; his belief b enjoys a reasonable amount of justificatory support. There is the company president’s testimony; there is Smith’s observation of the coins in Jones’s pocket; and there is Smith’s proceeding to infer belief b carefully and sensibly from that other evidence. Belief b is thereby at least fairly well justified — supported by evidence which is good in a reasonably normal way. As it happens, too, belief b is true — although not in the way in which Smith was expecting it to be true. For it is Smith who will get the job, and Smith himself has ten coins in his pocket. These two facts combine to make his belief b true. Nevertheless, neither of those facts is something that, on its own, was known by Smith. Is his belief b therefore not knowledge? In other words, does Smith fail to know that the person who will get the job has ten coins in his pocket? Surely so (thought Gettier).
+That is Gettier’s Case I, as it was interpreted by him, and as it has subsequently been regarded by almost all other epistemologists. The immediately pertinent aspects of it are standardly claimed to be as follows. It contains a belief which is true and justified — but which is not knowledge. And if that is an accurate reading of the case, then JTB is false. Case I would show that it is possible for a belief to be true and justified without being knowledge. Case I would have established that the combination of truth, belief, and justification does not entail the presence of knowledge. In that sense, a belief’s being true and justified would not be sufficient for its being knowledge.
+But if JTB is false as it stands, with what should it be replaced? (Gettier himself made no suggestions about this.) Its failing to describe a jointly sufficient condition of knowing does not entail that the three conditions it does describe are not individually necessary to knowing. And if each of truth, belief, and justification is needed, then what aspect of knowledge is still missing? What feature of Case I prevents Smith’s belief b from being knowledge? What is the smallest imaginable alteration to the case that would allow belief b to become knowledge? Would we need to add some wholly new kind of element to the situation? Or is JTB false only because it is too general — too unspecific? For instance, are only some kinds of justification both needed and enough, if a true belief is to become knowledge? Must we describe more specifically how justification ever makes a true belief knowledge? Is Smith’s belief b justified in the wrong way, if it is to be knowledge?
+4. Some other Gettier Cases
+Having posed those questions, though, we should realize that they are merely representative of a more general epistemological line of inquiry. The epistemological challenge is not just to discover the minimal repair that we could make to Gettier’s Case I, say, so that knowledge would then be present. Rather, it is to find a failing — a reason for a lack of knowledge — that is common to all Gettier cases that have been, or could be, thought of (that is, all actual or possible cases relevantly like Gettier’s own ones). Only thus will we be understanding knowledge in general — all instances of knowledge, everyone’s knowledge. And this is our goal when responding to Gettier cases.
+Sections 7 through 11 will present some attempted diagnoses of such cases. In order to evaluate them, therefore, it would be advantageous to have some sense of the apparent potential range of the concept of a Gettier case. I will mention four notable cases.
+The lucky disjunction (Gettier’s second case: 1963). Again, Smith is the protagonist. This time, he possesses good evidence in favor of the proposition that Jones owns a Ford. Smith also has a friend, Brown. Where is Brown to be found at the moment? Smith does not know. Nonetheless, on the basis of his accepting that Jones owns a Ford, he infers — and accepts — each of these three disjunctive propositions:
+
+Either Jones owns a Ford, or Brown is in Boston.
+Either Jones owns a Ford, or Brown is in Barcelona.
+Either Jones owns a Ford, or Brown is in Brest-Litovsk.
+
+No insight into Brown’s location guides Smith in any of this reasoning. He realizes that he has good evidence for the first disjunct (regarding Jones) in each of those three disjunctions, and he sees this evidence as thereby supporting each disjunction as a whole. Seemingly, he is right about that. (These are inclusive disjunctions, not exclusive. That is, each can, if need be, accommodate the truth of both of its disjuncts. Each is true if even one — let alone both — of its disjuncts is true.) Moreover, in fact one of the three disjunctions is true (albeit in a way that would surprise Smith if he were to be told of how it is true). The second disjunction is true because, as good luck would have it, Brown is in Barcelona — even though, as bad luck would have it, Jones does not own a Ford. (As it happened, the evidence for his doing so, although good, was misleading.) Accordingly, Smith’s belief that either Jones owns a Ford or Brown is in Barcelona is true. And there is good evidence supporting — justifying — it. But is it knowledge?
+The sheep in the field (Chisholm 1966/1977/1989). Imagine that you are standing outside a field. You see, within it, what looks exactly like a sheep. What belief instantly occurs to you? Among the many that could have done so, it happens to be the belief that there is a sheep in the field. And in fact you are right, because there is a sheep behind the hill in the middle of the field. You cannot see that sheep, though, and you have no direct evidence of its existence. Moreover, what you are seeing is a dog, disguised as a sheep. Hence, you have a well justified true belief that there is a sheep in the field. But is that belief knowledge?
+The pyromaniac (Skyrms 1967). A pyromaniac reaches eagerly for his box of Sure-Fire matches. He has excellent evidence of the past reliability of such matches, as well as of the present conditions — the clear air and dry matches — being as they should be, if his aim of lighting one of the matches is to be satisfied. He thus has good justification for believing, of the particular match he proceeds to pluck from the box, that it will light. This is what occurs, too: the match does light. However, what the pyromaniac did not realize is that there were impurities in this specific match, and that it would not have lit if not for the sudden (and rare) jolt of Q-radiation it receives exactly when he is striking it. His belief is therefore true and well justified. But is it knowledge?
+The fake barns (Goldman 1976). Henry is driving in the countryside, looking at objects in fields. He sees what looks exactly like a barn. Accordingly, he thinks that he is seeing a barn. Now, that is indeed what he is doing. But what he does not realize is that the neighborhood contains many fake barns — mere barn facades that look like real barns when viewed from the road. And if he had been looking at one of them, he would have been deceived into believing that he was seeing a barn. Luckily, he was not doing this. Consequently, his belief is justified and true. But is it knowledge?
+In none of those cases (or relevantly similar ones), say almost all epistemologists, is the belief in question knowledge. (Note that some epistemologists do not regard the fake barns case as being a genuine Gettier case. There is a touch of vagueness in the concept of a Gettier case.)
+5. The Basic Structure of Gettier Cases
+Although the multitude of actual and possible Gettier cases differ in their details, some characteristics unite them. For a start, each Gettier case contains a belief which is true and well justified without — according to epistemologists as a whole — being knowledge. The following two generic features also help to constitute Gettier cases:
+
+Fallibility. The justification that is present within each case is  fallible. Although it provides good support for the truth of the belief in question, that support is not perfect, strictly speaking. This means that the justification leaves open at least the possibility of the belief’s being false. The justification indicates strongly that the belief is true — without proving conclusively that it is.
+Luck. What is most distinctive of Gettier cases is the luck they contain. Within any Gettier case, in fact the well-but-fallibly justified belief in question is true. Nevertheless, there is significant luck in how the belief manages to combine being true with being justified. Some abnormal or odd circumstance is present in the case, a circumstance which makes the existence of that justified and true belief quite fortuitous.
+
+Here is how those two features, (1) and (2), are instantiated in Gettier’s Case I. Smith’s evidence for his belief b was good but fallible. This left open the possibility of belief b being mistaken, even given that supporting evidence. As it happened, that possibility was not realized: Smith’s belief b was actually true. Yet this was due to the intervention of some good luck. Belief b could easily have been false; it was made true only by circumstances which were hidden from Smith. That is, belief b was in fact made true by circumstances (namely, Smith’s getting the job and there being ten coins in his pocket) other than those which Smith’s evidence noticed and which his evidence indicated as being a good enough reason for holding b to be true. What Smith thought were the circumstances (concerning Jones) making his belief b true were nothing of the sort. Luckily, though, some facts of which he had no inkling were making his belief true.
+Similar remarks pertain to the sheep-in-the-field case. Within it, your sensory evidence is good. You rely on your senses, taking for granted — as one normally would — that the situation is normal. Then, by standard reasoning, you gain a true belief (that there is a sheep in the field) on the basis of that fallible-but-good evidence. Nonetheless, wherever there is fallibility there is a chance of being mistaken — of gaining a belief which is false. And that is exactly what would have occurred in this case (given that you are actually looking at a disguised dog) — if not, luckily, for the presence behind the hill of the hidden real sheep. Only luckily, therefore, is your belief both justified and true. And because of that luck (say epistemologists in general), the belief fails to be knowledge.
+6. The Generality of Gettier Cases
+JTB says that any actual or possible case of knowledge that p is an actual or possible instance of some kind of well justified true belief that p — and that any actual or possible instance of some kind of well justified true belief that p is an actual or possible instance of knowledge that p. Hence, JTB is false if there is even one actual or possible Gettier situation (in which some justified true belief fails to be knowledge). Accordingly, since 1963 epistemologists have tried — again and again and again — to revise or repair or replace JTB in response to Gettier cases. The main aim has been to modify JTB so as to gain a ‘Gettier-proof’ definition of knowledge.
+How extensive would such repairs need to be? After all, even if some justified true beliefs arise within Gettier situations, not all do so. In practise, such situations are rare, with few of our actual justified true beliefs ever being “Gettiered.” Has Gettier therefore shown only that not all justified true beliefs are knowledge? Correlatively, might JTB be almost correct as it is — in the sense of being accurate about almost all actual or possible cases of knowledge?
+On the face of it, Gettier cases do indeed show only that not all actual or possible justified true beliefs are knowledge — rather than that a belief’s being justified and true is never enough for its being knowledge. Nevertheless, epistemologists generally report the impact of Gettier cases in the latter way, describing them as showing that being justified and true is never enough to make a belief knowledge. Why do epistemologists interpret the Gettier challenge in that stronger way?
+The reason is that they wish — by way of some universally applicable definition or formula or analysis — to understand knowledge in all of its actual or possible instances and manifestations, not only in some of them. Hence, epistemologists strive to understand how to avoid ever being in a Gettier situation (from which knowledge will be absent, regardless of whether such situations are uncommon). But that goal is, equally, the aim of understanding what it is about most situations that constitutes their not being Gettier situations. If we do not know what, exactly, makes a situation a Gettier case and what changes to it would suffice for its no longer being a Gettier case, then we do not know how, exactly, to describe the boundary between Gettier cases and other situations.
+We call various situations in which we form beliefs “everyday” or “ordinary,” for example. In particular, therefore, we might wonder whether all “normally” justified true beliefs are still instances of knowledge (even if in Gettier situations the justified true beliefs are not knowledge). Yet even that tempting idea is not as straightforward as we might have assumed. For do we know what it is, exactly, that makes a situation ordinary? Specifically, what are the details of ordinary situations that allow them not to be Gettier situations — and hence that allow them to contain knowledge? To the extent that we do not understand what it takes for a situation not to be a Gettier situation, we do not understand what it takes for a situation to be a normal one (thereby being able to contain knowledge). Understanding Gettier situations would be part of understanding non-Gettier situations — including ordinary situations. Until we adequately understand Gettier situations, we do not adequately understand ordinary situations — because we would not adequately understand the difference between these two kinds of situation.
+7. Attempted Solutions: Infallibility
+To the extent that we understand what makes something a Gettier case, we understand what would suffice for that situation not to be a Gettier case. Section 5 outlined two key components — fallibility and luck — of Gettier situations. In this section and the next, we will consider whether removing one of those two components — the removal of which will suffice for a situation’s no longer being a Gettier case — would solve Gettier’s epistemological challenge. That is, we will be asking whether we may come to understand the nature of knowledge by recognizing its being incompatible with the presence of at least one of those two components (fallibility and luck).
+There is a prima facie case, at any rate, for regarding justificatory fallibility with concern in this setting. So, let us examine the Infallibility Proposal for solving Gettier’s challenge. There have long been philosophers who doubt (independently of encountering Gettier cases) that allowing fallible justification is all that it would take to convert a true belief into knowledge. (“If you know that p, there must have been no possibility of your being mistaken about p,” they might say.) The classic philosophical expression of that sort of doubt was by René Descartes, most famously in his Meditations on First Philosophy (1641). Contemporary epistemologists who have voiced similar doubts include Keith Lehrer (1971) and Peter Unger (1971). In the opinion of epistemologists who embrace the Infallibility Proposal, we can eliminate Gettier cases as challenges to our understanding of knowledge, simply by refusing to allow that one’s having fallible justification for a belief that p could ever adequately satisfy JTB’s justification condition. Stronger justification than that is required within knowledge (they will claim); infallibilist justificatory support is needed. (They might even say that there is no justification present at all, let alone an insufficient amount of it, given the fallibility within the cases.)
+Thus, for instance, an infallibilist about knowledge might claim that because (in Case I) Smith’s justification provided only fallible support for his belief b, this justification was always leaving open the possibility of that belief being mistaken — and that this is why the belief is not knowledge. The infallibilist might also say something similar — as follows — about the sheep-in-the-field case. Because you were relying on your fallible senses in the first place, you were bound not to gain knowledge of there being a sheep in the field. (“It could never be real knowledge, given the inherent possibility of error in using one’s senses.”) And the infallibilist will regard the fake-barns case in the same way, claiming that the potential for mistake (that is, the existence of fallibility) was particularly real, due to the existence of the fake barns. And that is why (infers the infallibilist) there is a lack of knowledge within the case — as indeed there would be within any situation where fallible justification is being used.
+So, that is the Infallibility Proposal. The standard epistemological objection to it is that it fails to do justice to the reality of our lives, seemingly as knowers of many aspects of the surrounding world. In our apparently “ordinary” situations, moving from one moment to another, we take ourselves to have much knowledge. Yet we rarely, if ever, possess infallible justificatory support for a belief. And we accept this about ourselves, realizing that we are not wholly — conclusively — reliable. We accept that if we are knowers, then, we are at least not infallible knowers. But the Infallibility Proposal — when combined with that acceptance of our general fallibility — would imply that we are not knowers at all. It would thereby ground a skepticism about our ever having knowledge.
+Accordingly, most epistemologists would regard the Infallibility Proposal as being a drastic and mistaken reaction to Gettier’s challenge in particular. In response to Gettier, most seek to understand how we do have at least some knowledge — where such knowledge will either always or almost always be presumed to involve some fallibility. The majority of epistemologists still work towards what they hope will be a non-skeptical conception of knowledge; and attaining this outcome could well need to include their solving the Gettier challenge without adopting the Infallibility Proposal.
+8. Attempted Solutions: Eliminating Luck
+The other feature of Gettier cases that was highlighted in section 5 is the lucky way in which such a case’s protagonist has a belief which is both justified and true. Is it this luck that needs to be eliminated if the situation is to become one in which the belief in question is knowledge? In general, must any instance of knowledge include no accidentalness in how its combination of truth, belief, and justification is effected? The Eliminate Luck Proposal claims so.
+Almost all epistemologists, when analyzing Gettier cases, reach for some version of this idea, at least in their initial or intuitive explanations of why knowledge is absent from the cases. Unger (1968) is one who has also sought to make this a fuller and more considered part of an explanation for the lack of knowledge. He says that a belief is not knowledge if it is true only courtesy of some relevant accident. That description is meant to allow for some flexibility. Even so, further care will still be needed if the Eliminate Luck Proposal is to provide real insight and understanding. After all, if we seek to eliminate all luck whatsoever from the production of the justified true belief (if knowledge is thereby to be present), then we are again endorsing a version of infallibilism (as described in section 7). If no luck is involved in the justificatory situation, the justification renders the belief’s truth wholly predictable or inescapable; in which case, the belief is being infallibly justified. And this would be a requirement which (as section 7 explained) few epistemologists will find illuminating, certainly not as a response to Gettier cases.
+What many epistemologists therefore say, instead, is that the problem within Gettier cases is the presence of too much luck. Some luck is to be allowed; otherwise, we would again have reached for the Infallibility Proposal. But too large a degree of luck is not to be allowed. This is why we often find epistemologists describing Gettier cases as containing too much chance or flukiness for knowledge to be present.
+Nevertheless, how helpful is that kind of description by those epistemologists? How much luck is too much? That is a conceptually vital question. Yet there has been no general agreement among epistemologists as to what degree of luck precludes knowledge. There has not even been much attempt to determine that degree. (It is no coincidence, similarly, that epistemologists in general are also yet to determine how strong — if it is allowed to be something short of infallibility — the justificatory support needs to be within any case of knowledge.) A specter of irremediable vagueness thus haunts the Eliminate Luck Proposal.
+Perhaps understandably, therefore, the more detailed epistemological analyses of knowledge have focused less on delineating dangerous degrees of luck than on characterizing substantive kinds of luck that are held to drive away knowledge. Are there ways in which Gettier situations are structured, say, which amount to the presence of a kind of luck which precludes the presence of knowledge (even when there is a justified true belief)? Most attempts to solve Gettier’s challenge instantiate this form of thinking. In sections 9 through 11, we will encounter a few of the main suggestions that have been made.
+9. Attempted Solutions: Eliminating False Evidence
+A lot of epistemologists have been attracted to the idea that the failing within Gettier cases is the person’s including something false in her evidence. This would be a problem for her, because she is relying upon that evidence in her attempt to gain knowledge, and because knowledge is itself always true. To the extent that falsity is guiding the person’s thinking in forming the belief that p, she will be lucky to derive a belief that p which is true. And (as section 8 indicated) there are epistemologists who think that a lucky derivation of a true belief is not a way to know that truth. Let us therefore consider the No False Evidence Proposal.
+In Gettier’s Case I, for example, Smith includes in his evidence the false belief that Jones will get the job. If Smith had lacked that evidence (and if nothing else were to change within the case), presumably he would not have inferred belief b. He would probably have had no belief at all as to who would get the job (because he would have had no evidence at all on the matter). If so, he would thereby not have had a justified and true belief b which failed to be knowledge. Should JTB therefore be modified so as to say that no belief is knowledge if the person’s justificatory support for it includes something false? JTB would then tell us that one’s knowing that p is one’s having a justified true belief which is well supported by evidence, none of which is false.
+That is the No False Evidence Proposal. But epistemologists have noticed a few possible problems with it.
+First, as Richard Feldman (1974) saw, there seem to be some Gettier cases in which no false evidence is used. Imagine that (contrary to Gettier’s own version of Case I) Smith does not believe, falsely, “Jones will get the job.” Imagine instead that he believes, “The company president told me that Jones will get the job.” (He could have continued to form the first belief. But suppose that, as it happens, he does not form it.) This alternative belief would be true. It would also provide belief b with as much justification as the false belief provided. So, if all else is held constant within the case (with belief b still being formed), again Smith has a true belief which is well-although-fallibly justified, yet which might well not be knowledge.
+Second, it will be difficult for the No False Evidence Proposal not to imply an unwelcome skepticism. Quite possibly, there is always some false evidence being relied upon, at least implicitly, as we form beliefs. Is there nothing false at all — not even a single falsity — in your thinking, as you move through the world, enlarging your stock of beliefs in various ways (not all of which ways are completely reliable and clearly under your control)? If there is even some falsity among the beliefs you use, but if you do not wholly remove it or if you do not isolate it from the other beliefs you are using, then — on the No False Evidence Proposal — there is a danger of its preventing those other beliefs from ever being knowledge. This is a worry to be taken seriously, if a belief’s being knowledge is to depend upon the total absence of falsity from one’s thinking in support of that belief.
+Unsurprisingly, therefore, some epistemologists, such as Lehrer (1965), have proposed a further modification of JTB — a less demanding one. They have suggested that what is needed for knowing that p is an absence only of significant and ineliminable (non-isolable) falsehoods from one’s evidence for p’s being true. Here is what that means. First, false beliefs which you are — but need not have been — using as evidence for p are eliminable from your evidence for p. And, second, false beliefs whose absence would seriously weaken your evidence for p are significant within your evidence for p. Accordingly, the No False Evidence Proposal now becomes the No False Core Evidence Proposal. The latter proposal says that if the only falsehoods in your evidence for p are ones which you could discard, and ones whose absence would not seriously weaken your evidence for p, then (with all else being equal) your justification is adequate for giving you knowledge that p. The accompanying application of that proposal to Gettier cases would claim that because, within each such case, some falsehood plays an important role in the protagonist’s evidence, her justified true belief based on that evidence fails to be knowledge. On the modified proposal, this would be the reason for the lack of that knowledge.
+One fundamental problem confronting that proposal is obviously its potential vagueness. To what extent, precisely, need you be able to eliminate the false evidence in question if knowledge that p is to be present? How easy, exactly, must this be for you? And just how weakened, exactly, may your evidence for p become — courtesy of the elimination of false elements within it — before it is too weak to be part of making your belief that p knowledge? Such questions still await answers from epistemologists.
+10. Attempted Solutions: Eliminating Defeat
+Section 9 explored the suggestion that the failing within any Gettier case is a matter of what is included within a given person’s evidence: specifically, some core falsehood is accepted within her evidence. A converse idea has also received epistemological attention — the thought that the failing within any Gettier case is a matter of what is not included in the person’s evidence: specifically, some notable truth or fact is absent from her evidence. This proposal would not simply be that the evidence overlooks at least one fact or truth. Like the unmodified No False Evidence Proposal (with which section 9 began), that would be far too demanding, undoubtedly leading to skepticism. Because there are always some facts or truths not noticed by anyone’s evidence for a particular belief, there would be no knowledge either. No one’s evidence for p would ever be good enough to satisfy the justification requirement that is generally held to be necessary to a belief that p’s being knowledge.
+Epistemologists therefore restrict the proposal, turning it into what is often called a defeasibility analysis of knowledge. It can also be termed the No Defeat Proposal. The thought behind it is that JTB should be modified so as to say that what is needed in knowing that p is an absence from the inquirer’s context of any defeaters of her evidence for p. And what is a defeater? A particular fact or truth t defeats a body of justification j (as support for a belief that p) if adding t to j, thereby producing a new body of justification j*, would seriously weaken the justificatory support being provided for that belief that p — so much so that j* does not provide strong enough support to make even the true belief that p knowledge. This means that t is relevant to justifying p (because otherwise adding it to j would produce neither a weakened nor a strengthened j*) as support for p — but damagingly so. In effect, insofar as one wishes to have beliefs which are knowledge, one should only have beliefs which are supported by evidence that is not overlooking any facts or truths which — if left overlooked — function as defeaters of whatever support is being provided by that evidence for those beliefs.
+In Case I, for instance, we might think that the reason why Smith’s belief b fails to be knowledge is that his evidence includes no awareness of the facts that he will get the job himself and that his own pocket contains ten coins. Thus, imagine a variation on Gettier’s case, in which Smith’s evidence does include a recognition of these facts about himself. Then either (i) he would have conflicting evidence (by having this evidence supporting his, plus the original evidence supporting Jones’s, being about to get the job), or (ii) he would not have conflicting evidence (if his original evidence about Jones had been discarded, leaving him with only the evidence about himself). But in either of those circumstances Smith would be justified in having belief b — concerning “the person,” whoever it would be, who will get the job. Moreover, in that circumstance he would not obviously be in a Gettier situation — with his belief b still failing to be knowledge. For, on either (i) or (ii), there would be no defeaters of his evidence — no facts which are being overlooked by his evidence, and which would seriously weaken his evidence if he were not overlooking them.
+Unfortunately, however, this proposal — like the No False Core Evidence Proposal in section 9 — faces a fundamental problem of vagueness. As we have seen, defeaters defeat by weakening justification: as more and stronger defeaters are being overlooked by a particular body of evidence, that evidence is correlatively weakened. (This is so, even when the defeaters clash directly with one’s belief that p. And it is so, regardless of the believer’s not realizing that the evidence is thereby weakened.) How weak, exactly, can the justification for a belief that p become before it is too weak to sustain the belief’s being knowledge that p? This question — which, in one form or another, arises for all proposals which allow knowledge’s justificatory component to be satisfied by fallible justificatory support — is yet to be answered by epistemologists as a group. In the particular instance of the No Defeat Proposal, it is the question, raised by epistemologists such as William Lycan (1977) and Lehrer and Paxson (1969), of how much — and which aspects — of one’s environment need to be noticed by one’s evidence, if that evidence is to be justification that makes one’s belief that p knowledge. There can be much complexity in one’s environment, with it not always being clear where to draw the line between aspects of the environment which do — and those which do not — need to be noticed by one’s evidence. How strict should we be in what we expect of people in this respect?
+11. Attempted Solutions: Eliminating Inappropriate Causality
+It has also been suggested that the failing within Gettier situations is one of causality, with the justified true belief being caused — generated, brought about — in too odd or abnormal a way for it to be knowledge. This Appropriate Causality Proposal — initially advocated by Alvin Goldman (1967) — will ask us to consider, by way of contrast, any case of observational knowledge. Seemingly, a necessary part of such knowledge’s being produced is a stable and normal causal pattern’s generating the belief in question. You use your eyes in a standard way, for example. A belief might then form in a standard way, reporting what you observed. That belief will be justified in a standard way, too, partly by that use of your eyes. And it will be true in a standard way, reporting how the world actually is in a specific respect. All of this reflects the causal stability of normal visually-based belief-forming processes. In particular, we realize that the object of the knowledge — that perceived aspect of the world which most immediately makes the belief true — is playing an appropriate role in bringing the belief into existence.
+Within Gettier’s Case I, however, that pattern of normality is absent. The aspects of the world which make Smith’s belief b true are the facts of his getting the job and of there being ten coins in his own pocket. But these do not help to cause the existence of belief b. (That belief is caused by Smith’s awareness of other facts — his conversation with the company president and his observation of the contents of Jones’s pocket.) Should JTB be modified accordingly, so as to tell us that a justified true belief is knowledge only if those aspects of the world which make it true are appropriately involved in causing it to exist?
+Epistemologists have noticed problems with that Appropriate Causality Proposal, though.
+First, some objects of knowledge might be aspects of the world which are unable ever to have causal influences. In knowing that 2 + 2 = 4 (this being a prima facie instance of what epistemologists term a priori knowledge), you know a truth — perhaps a fact — about numbers. And do they have causal effects? Most epistemologists do not believe so. (Maybe instances of numerals, such as marks on paper being interpreted on particular occasions in specific minds, can have causal effects. Yet — it is usually said — such numerals are merely representations of numbers. They are not the actual numbers.) Consequently, it is quite possible that the scope of the Appropriate Causality Proposal is more restricted than is epistemologically desirable. The proposal would apply only to empirical or a posteriori knowledge, knowledge of the observable world — which is to say that it might not apply to all of the knowledge that is actually or possibly available to people. And (as section 6 explained) epistemologists seek to understand all actual or possible knowledge, not just some of it.
+Second, to what extent will the Appropriate Causality Proposal help us to understand even empirical knowledge? The problem is that epistemologists have not agreed on any formula for exactly how (if there is to be knowledge that p) the fact that p is to contribute to bringing about the existence of the justified true belief that p. Inevitably (and especially when reasoning is involved), there will be indirectness in the causal process resulting in the formation of the belief that p. But how much indirectness is too much? That is, are there degrees of indirectness that are incompatible with there being knowledge that p? And if so, how are we to specify those critical degrees?
+For example, suppose that (in an altered Case I of which we might conceive) Smith’s being about to be offered the job is actually part of the causal explanation of why the company president told him that Jones would get the job. The president, with his mischievous sense of humor, wished to mislead Smith. And suppose that Smith’s having ten coins in his pocket made a jingling noise, subtly putting him in mind of coins in pockets, subsequently leading him to discover how many coins were in Jones’s pocket. Given all of this, the facts which make belief b true (namely, those ones concerning Smith’s getting the job and concerning the presence of the ten coins in his pocket) will actually have been involved in the causal process that brings belief b into existence. Would the Appropriate Causality Proposal thereby be satisfied — so that (in this altered Case I) belief b would now be knowledge? Or should we continue regarding the situation as being a Gettier case, a situation in which (as in the original Case I) the belief b fails to be knowledge? If we say that the situation remains a Gettier case, we need to explain why this new causal ancestry for belief b would still be too inappropriate to allow belief b to be knowledge.
+Most epistemologists will regard the altered case as a Gettier case. But in that event they continue to owe us an analysis of what makes a given causal history inappropriate. Often, they talk of deviant causal chains. And that is an evocative phrase. But how clear is it? Once more, we will wonder about vagueness. In particular, we will ask, how deviant can a causal chain (one that results in some belief-formation) become before it is too deviant to be able to be bringing knowledge into existence? As we also found in sections 9 and 10, a conceptually deep problem of vagueness thus remains to be solved.
+12. Attempted Dissolutions: Competing Intuitions
+Sections 9 through 11 described some of the main proposals that epistemologists have made for solving the Gettier challenge directly. Those proposals accept the usual interpretation of each Gettier case as containing a justified true belief which fails to be knowledge. Each proposal then attempts to modify JTB, the traditional epistemological suggestion for what it is to know that p. What is sought by those proposals, therefore, is an analysis of knowledge which accords with the usual interpretation of Gettier cases. That analysis would be intended to cohere with the claim that knowledge is not present within Gettier cases. And why is it so important to cohere with the latter claim? The standard answer offered by epistemologists points to what they believe is their strong intuition that, within any Gettier case, knowledge is absent. Almost all epistemologists claim to have this intuition about Gettier cases. They treat this intuition with much respect. (It seems that most do so as part of a more general methodology, one which involves the respectful use of intuitions within many areas of philosophy. Frank Jackson [1998] is a prominent proponent of that methodology’s ability to aid our philosophical understanding of key concepts.)
+Nonetheless, a few epistemological voices dissent from that approach (as this section and the next will indicate). These seek to dissolve the Gettier challenge. Instead of accepting the standard interpretation of Gettier cases, and instead of trying to find a direct solution to the challenge that the cases are thereby taken to ground, a dissolution of the cases denies that they ground any such challenge in the first place. And one way of developing such a dissolution is to deny or weaken the usual intuition by which almost all epistemologists claim to be guided in interpreting Gettier cases.
+One such attempt has involved a few epistemologists — Jonathan Weinberg, Shaun Nichols, and Stephen Stich (2001) — conducting empirical research which (they argue) casts doubt upon the evidential force of the usual epistemological intuition about the cases. When epistemologists claim to have a strong intuition that knowledge is missing from Gettier cases, they take themselves to be representative of people in general (specifically, in how they use the word “knowledge” and its cognates such as “know,” knower,” and the like). That intuition is therefore taken to reflect how “we” — people in general — conceive of knowledge. It is thereby assumed to be an accurate indicator of pertinent details of the concept of knowledge — which is to say, “our” concept of knowledge. Yet what is it that gives epistemologists such confidence in their being representative of how people in general use the word “knowledge”? Mostly, epistemologists test this view of themselves upon their students and upon other epistemologists. The empirical research by Weinberg, Nichols, and Stich asked a wider variety of people — including ones from outside of university or college settings — about Gettier cases. And that research has reported encountering a wider variety of reactions to the cases. When people who lack much, or even any, prior epistemological awareness are presented with descriptions of Gettier cases, will they unhesitatingly say (as epistemologists do) that the justified true beliefs within those cases fail to be knowledge? The empirical evidence gathered so far suggests some intriguing disparities in this regard — including ones that might reflect varying ethnic ancestries or backgrounds. In particular, respondents of east Asian or Indian sub-continental descent were found to be more open than were European Americans (of “Western” descent) to classifying Gettier cases as situations in which knowledge is present. A similar disparity seemed to be correlated with respondents’ socio-economic status.
+Those data are preliminary. (And other epistemologists have not sought to replicate those surveys.) Nonetheless, the data are suggestive. At the very least, they constitute some empirical evidence that does not simply accord with epistemologists’ usual interpretation of Gettier cases. Hence, a real possibility has been raised that epistemologists, in how they interpret Gettier cases, are not so accurately representative of people in general. Their shared, supposedly intuitive, interpretation of the cases might be due to something distinctive in how they, as a group, think about knowledge, rather than being merely how people as a whole regard knowledge. In other words, perhaps the apparent intuition about knowledge (as it pertains to Gettier situations) that epistemologists share with each other is not universally shared. Maybe it is at least not shared with as many other people as epistemologists assume is the case. And if so, then the epistemologists’ intuition might not merit the significance they have accorded it when seeking a solution to the Gettier challenge. (Indeed, that challenge itself might not be as distinctively significant as epistemologists have assumed it to be. This possibility arises once we recognize that the prevalence of that usual putative intuition among epistemologists has been important to their deeming, in the first place, that Gettier cases constitute a decisive challenge to our understanding of what it is to know that p.)
+Epistemologists might reply that people who think that knowledge is present within Gettier cases are not evaluating the cases properly — that is, as the cases should be interpreted. The question thus emerges of whether epistemologists’ intuitions are particularly trustworthy on this topic. Are they more likely to be accurate (than are other people’s intuitions) in what they say about knowledge — in assessing its presence in, or its absence from, specific situations? Presumably, most epistemologists will think so, claiming that when other people do not concur that in Gettier cases there is a lack of knowledge, those competing reactions reflect a lack of understanding of the cases — a lack of understanding which could well be rectified by sustained epistemological reflection.
+Potentially, that disagreement has methodological implications about the nature and point of epistemological inquiry. For we should wonder whether those epistemologists, insofar as their confidence in their interpretation of Gettier cases rests upon their more sustained reflection about such matters, are really giving voice to intuitions as such about Gettier cases when claiming to be doing so. Or are they instead applying some comparatively reflective theories of knowledge? The latter alternative need not make their analyses mistaken, of course. But it would make more likely the possibility that the analyses of knowledge which epistemologists develop in order to understand Gettier cases are not based upon a directly intuitive reading of the cases. This might weaken the strength and independence of the epistemologists’ evidential support for those analyses of knowledge.
+For example, maybe the usual epistemological interpretation of Gettier cases is manifesting a commitment to a comparatively technical and demanding concept of knowledge, one that only reflective philosophers would use and understand. Even if the application of that concept feels intuitive to them, this could be due to the kind of technical training that they have experienced. It might not be a coincidence, either, that epistemologists tend to present Gettier cases by asking the audience, “So, is this justified true belief within the case really knowledge?” — thereby suggesting, through this use of emphasis, that there is an increased importance in making the correct assessment of the situation. The audience might well feel a correlative caution about saying that knowledge is present. They could feel obliged to take care not to accord knowledge if there is anything odd — as, clearly, there is — about the situation being discussed. When that kind of caution and care are felt to be required, then — as contextualist philosophers such as David Lewis (1996) have argued is appropriate — we are more likely to deny that knowledge is present.
+Hence, if epistemologists continue to insist that the nature of knowledge is such as to satisfy one of their analyses (where this includes knowledge’s being such that it is absent from Gettier cases), then there is a correlative possibility that they are talking about something — knowledge — that is too difficult for many, if any, inquirers ever to attain. How should people — as potential or actual inquirers — react to that possibility? Mark Kaplan (1985) has argued that insofar as knowledge must conform to the demands of Gettier cases (and to the usual epistemological interpretation of them), knowledge is not something about which we should care greatly as inquirers. And the fault would be knowledge’s, not ours. Kaplan advocates our seeking something less demanding and more realistically attainable than knowledge is if it needs to cohere with the usual interpretation of Gettier cases. (An alternative thought which Kaplan’s argument might prompt us to investigate is that of whether knowledge itself could be something less demanding — even while still being at least somewhat worth seeking. Section 13 will discuss that idea.)
+Those pivotal issues are currently unresolved. In the meantime, their presence confirms that, by thinking about Gettier cases, we may naturally raise some substantial questions about epistemological methodology — about the methods via which we should be trying to understand knowledge. Those questions include the following ones. What evidence should epistemologists consult as they strive to learn the nature of knowledge? Should they be perusing intuitions? If so, whose? Their own? How should competing intuitions be assessed? And how strongly should favored intuitions be relied upon anyway? Are they to be decisive? Are they at least powerful? Or are they no more than a starting-point for further debate — a provider, not an adjudicator, of relevant ideas?
+13. Attempted Dissolutions: Knowing Luckily
+Section 12 posed the question of whether supposedly intuitive assessments of Gettier situations support the usual interpretation of the cases as strongly — or even as intuitively — as epistemologists generally believe is the case. How best might that question be answered? Sections 5 and 8 explained that when epistemologists seek to support that usual interpretation in a way that is meant to remain intuitive, they typically begin by pointing to the luck that is present within the cases. That luck is standardly thought to be a powerful — yet still intuitive — reason why the justified true beliefs inside Gettier cases fail to be knowledge.
+Nevertheless, a contrary interpretation of the luck’s role has also been proposed, by Stephen Hetherington (1998; 2001). It means to reinstate the sufficiency of JTB, thereby dissolving Gettier’s challenge. That contrary interpretation could be called the Knowing Luckily Proposal. And it analyses Gettier’s Case I along the following lines.
+This alternative interpretation concedes (in accord with the usual interpretation) that, in forming his belief b, Smith is lucky to be gaining a belief which is true. More fully: He is lucky to do so, given the evidence by which he is being guided in forming that belief, and given the surrounding facts of his situation. In that sense (we might say), Smith came close to definitely lacking knowledge. (For in that sense he came close to forming a false belief; and a belief which is false is definitely not knowledge.) But to come close to definitely lacking knowledge need not be to lack knowledge. It might merely be to almost lack knowledge. So (as we might also say), it could be to know, albeit luckily so. Smith would have knowledge, in virtue of having a justified true belief. (We would thus continue to regard JTB as being true.) However, because Smith would only luckily have that justified true belief, he would only luckily have that knowledge.
+Most epistemologists will object that this sounds like too puzzling a way to talk about knowing. Their reaction is natural. Even this Knowing Luckily Proposal would probably concede that there is very little (if any) knowledge which is lucky in so marked or dramatic a way. And because there is so little (if any) such knowledge, our everyday lives leave us quite unused to thinking of some knowledge as being present within ourselves or others quite so luckily: we would actually encounter little (if any) such knowledge. To the extent that the kind of luck involved in such cases reflects the statistical unlikelihood of such circumstances occurring, therefore, we should expect at least most knowledge not to be present in that lucky way. (Otherwise, this would be the normal way for knowledge to be present. It would not in fact be an unusual way. Hence, strictly speaking, the knowledge would not be present only luckily.)
+But even if the Knowing Luckily Proposal agrees that, inevitably, at least most knowledge will be present in comparatively normal ways, the proposal will deny that this entails the impossibility of there ever being at least some knowledge which is present more luckily. Ordinarily, when good evidence for a belief that p accompanies the belief’s being true (as it does in Case I), this combination of good evidence and true belief occurs (unlike in Case I) without any notable luck being needed. Ordinary knowledge is thereby constituted, with that absence of notable luck being part of what makes instances of ordinary knowledge ordinary in our eyes. What is ordinary to us will not strike us as being present only luckily. Again, though, is it therefore impossible for knowledge ever to be constituted luckily? The Knowing Luckily Proposal claims that such knowledge is possible even if uncommon. The proposal will grant that there would be a difference between knowing that p in a comparatively ordinary way and knowing that p in a comparatively lucky way. Knowing comparatively luckily that p would be (i) knowing that p (where this might remain one’s having a justified true belief that p), even while also (ii) running, or having run, a greater risk of not having that knowledge that p. In that sense, it would be to know that p less securely or stably or dependably, more fleetingly or unpredictably.
+There are many forms that the lack of stability — the luck involved in the knowledge’s being present — could take. Sometimes it might include the knowledge’s having one of the failings found within Gettier cases. The knowledge — the justified true belief — would be present in a correspondingly lucky way. One interpretive possibility — from Hetherington (2001) — is that of describing this knowledge that p as being of a comparatively poor quality as knowledge that p. Normally, knowledge that p is of a higher quality than this — being less obviously flawed, by being less luckily present. The question persists, though: Must all knowledge that p be, in effect, normal knowledge that p — being of a normal quality as knowledge that p? Or could we sometimes — even if rarely — know that p in a comparatively poor and undesirable way? The Knowing Luckily Proposal allows that this is possible — that this is a conceivable form for some knowledge to take.
+That proposal is yet to be widely accepted among epistemologists. Their main objection to it has been what they have felt to be the oddity of talking of knowledge in that way. Accordingly, the epistemological resistance to the proposal partly reflects the standard adherence to the dominant (“intuitive”) interpretation of Gettier cases. Yet this section and the previous one have asked whether epistemologists should be wedded to that interpretation of Gettier cases. So, this section leaves us with the following question: Is it conceptually coherent to regard the justified true beliefs within Gettier cases as instances of knowledge which are luckily produced or present? And how are we to answer that question anyway? With intuitions? Whose? Once again, we encounter section 12’s questions about the proper methodology for making epistemological progress on this issue.
+14. Gettier Cases and Analytic Epistemology
+Since the initial philosophical description in 1963 of Gettier cases, the project of responding to them (so as to understand what it is to know that p) has often been central to the practice of analytic epistemology. Partly this recurrent centrality has been due to epistemologists’ taking the opportunity to think in detail about the nature of justification — about what justification is like in itself, and about how it is constitutively related to knowledge. But partly, too, that recurrent centrality reflects the way in which, epistemologists have often assumed, responding adequately to Gettier cases requires the use of a paradigm example of a method that has long been central to analytic philosophy. That method involves the considered manipulation and modification of definitional models or theories, in reaction to clear counterexamples to those models or theories.
+Thus (we saw in section 2), JTB purported to provide a definitional analysis of what it is to know that p. JTB aimed to describe, at least in general terms, the separable-yet-combinable components of such knowledge. Then Gettier cases emerged, functioning as apparently successful counterexamples to one aspect — the sufficiency — of JTB’s generic analysis. That interpretation of the cases’ impact rested upon epistemologists’ claims to have reflective-yet-intuitive insight into the absence of knowledge from those actual or possible Gettier circumstances. These claims of intuitive insight were treated by epistemologists as decisive data, somewhat akin to favored observations. The claims were to be respected accordingly; and, it was assumed, any modification of the theory encapsulated in JTB would need to be evaluated for how well it accommodated them. So, the entrenchment of the Gettier challenge at the core of analytic epistemology hinged upon epistemologists’ confident assumptions that (i) JTB failed to accommodate the data provided by those intuitions — and that (ii) any analytical modification of JTB would need (and would be able) to be assessed for whether it accommodated such intuitions. That was the analytical method which epistemologists proceeded to apply, vigorously and repeatedly.
+Nevertheless, the history of post-1963 analytic epistemology has also contained repeated expressions of frustration at the seemingly insoluble difficulties that have accompanied the many attempts to respond to Gettier’s disarmingly simple paper. Precisely how should the theory JTB be revised, in accord with the relevant data? Exactly which data are relevant anyway? We have seen in the foregoing sections that there is much room for dispute and uncertainty about all of this. For example, we have found a persistent problem of vagueness confronting various attempts to revise JTB. This might have us wondering whether a complete analytical definition of knowledge that p is even possible.
+That is especially so, given that vagueness itself is a phenomenon, the proper understanding of which is yet to be agreed upon by philosophers. There is much contemporary discussion of what it even is (see Keefe and Smith 1996). On one suggested interpretation, vagueness is a matter of people in general not knowing where to draw a precise and clearly accurate line between instances of X and instances of non-X (for some supposedly vague phenomenon of being X, such as being bald or being tall). On that interpretation of vagueness, such a dividing line would exist; we would just be ignorant of its location. To many philosophers, that idea sounds regrettably odd when the vague phenomenon in question is baldness, say. (“You claim that there is an exact dividing line, in terms of the number of hairs on a person’s head, between being bald and not being bald? I find that claim extremely hard to believe.”) But should philosophers react with such incredulity when the phenomenon in question is that of knowing, and when the possibility of vagueness is being prompted by discussions of the Gettier problem? For most epistemologists remain convinced that their standard reaction to Gettier cases reflects, in part, the existence of a definite difference between knowing and not knowing. But where, exactly, is that dividing line to be found? As we have observed, the usual epistemological answers to this question seek to locate and to understand the dividing line in terms of degrees and kinds of justification or something similar. Accordingly, the threats of vagueness we have noticed in some earlier sections of this article might be a problem for many epistemologists. Possibly, those forms of vagueness afflict epistemologists’ knowing that a difference between knowledge and non-knowledge is revealed by Gettier cases. Epistemologists continue regarding the cases in that way. Are they right to do so? Do they have that supposed knowledge of what Gettier cases show about knowledge?
+The Gettier challenge has therefore become a test case for analytically inclined philosophers. The following questions have become progressively more pressing with each failed attempt to convince epistemologists as a group that, in a given article or talk or book, the correct analysis of knowledge has finally been reached. Will an adequate understanding of knowledge ever emerge from an analytical balancing of various theories of knowledge against relevant data such as intuitions? Must any theory of the nature of knowledge be answerable to intuitions prompted by Gettier cases in particular? And must epistemologists’ intuitions about the cases be supplemented by other people’s intuitions, too? What kind of theory of knowledge is at stake? What general form should the theory take? And what degree of precision should it have? If we are seeking an understanding of knowledge, must this be a logically or conceptually exhaustive understanding? (The methodological model of theory-being-tested-against-data suggests a scientific parallel. Yet need scientific understanding always be logically or conceptually exhaustive if it is to be real understanding?)
+The issues involved are complex and subtle. No analysis has received general assent from epistemologists, and the methodological questions remain puzzling. Debate therefore continues. There is uncertainty as to whether Gettier cases — and thereby knowledge — can ever be fully understood. There is also uncertainty as to whether the Gettier challenge can be dissolved. Have we fully understood the challenge itself? What exactly is Gettier’s legacy? As epistemologists continue to ponder these questions, it is not wholly clear where their efforts will lead us. Conceptual possibilities still abound.
+15. References and Further Reading
+
+Ayer, A. J. (1956). The Problem of Knowledge (London: Macmillan), ch. 1.
+
+Presents a well-regarded pre-Gettier JTB analysis of knowledge.
+
+
+Chisholm, R. M. (1966/1977/1989). Theory of Knowledge (any of the three editions). (Englewood Cliffs, NJ: Prentice Hall).
+
+Includes the sheep-in-the-field Gettier case, along with attempts to repair JTB.
+
+
+Descartes, R. (1911 [1641]). The Philosophical Works of Descartes, Vol. I, (eds. and trans.) E. S. Haldane and G. R. T. Ross. (Cambridge: Cambridge University Press).
+
+Contains the Meditations, which develops and applies Descartes’s conception of knowledge as needing to be infallible.
+
+
+Feldman, R. (1974). “An Alleged Defect in Gettier Counterexamples.” Australasian Journal of Philosophy 52: 68-9. Reprinted in Moser (1986).
+
+Presents a Gettier case in which, it is claimed, no false evidence is used by the believer.
+
+
+Gettier, E. L. (1963). “Is Justified True Belief Knowledge?” Analysis 23: 121-3. Reprinted in Roth and Galis (1970) and Moser (1986).
+Goldman, A. I. (1967). “A Causal Theory of Knowing.” Journal of Philosophy 64: 357-72. Reprinted, with revisions, in Roth and Galis (1970).
+
+The initial presentation of a No Inappropriate Causality Proposal.
+
+
+Goldman, A. I.. (1976). “Discrimination and Perceptual Knowledge.” Journal of Philosophy 73: 771-91. Reprinted in Pappas and Swain (1978).
+
+Includes the fake-barns Gettier case.
+
+
+Hetherington, S. (1996). Knowledge Puzzles: An Introduction to Epistemology (Boulder, Colo.: Westview Press).
+
+Includes an introduction to the justified-true-belief analysis of knowledge, and to several responses to Gettier’s challenge.
+
+
+Hetherington, S. (1998). “Actually Knowing.” Philosophical Quarterly 48: 453-69.
+
+Includes a version of the Knowing Luckily Proposal.
+
+
+Hetherington, S. (2001). Good Knowledge, Bad Knowledge: On Two Dogmas of Epistemology (Oxford: Oxford University Press).
+
+Extends the Knowing Luckily Proposal, by explaining the idea of having qualitatively better or worse knowledge that p.
+
+
+Jackson, F. (1998). From Metaphysics to Ethics: A Defence of Conceptual Analysis (Oxford: Oxford University Press).
+
+Includes discussion of Gettier cases and the role of intuitions and conceptual analysis.
+
+
+Kaplan, M. (1985). “It’s Not What You Know That Counts.” Journal of Philosophy 82: 350-63.
+
+Argues that, given Gettier cases, knowledge is not what inquirers should seek.
+
+
+Keefe, R. and Smith, P. (eds.) (1996). Vagueness: A Reader (Cambridge, Mass.: The MIT Press).
+
+Contains both historical and contemporary analyses of the nature and significance of vagueness in general.
+
+
+Kirkham, R. L. (1984). “Does the Gettier Problem Rest on a Mistake?” Mind 93: 501-13.
+
+Argues that the usual interpretation of Gettier cases depends upon applying an extremely demanding conception of knowledge to the described situations, a conception with skeptical implications.
+
+
+Lehrer, K. (1965). “Knowledge, Truth and Evidence.” Analysis 25: 168-75. Reprinted in Roth and Galis (1970).
+
+Presents a No Core False Evidence Proposal.
+
+
+Lehrer, K. (1971). “Why Not Scepticism?” The Philosophical Forum 2: 283-98. Reprinted in Pappas and Swain (1978).
+
+Outlines a skepticism based on an Infallibility Proposal about knowledge.
+
+
+Lehrer, K., and Paxson, T. D. (1969). “Knowledge: Undefeated Justified True Belief.” Journal of Philosophy 66: 225-37. Reprinted in Pappas and Swain (1978).
+
+Presents a No Defeat Proposal.
+
+
+Lewis, D. (1996). “Elusive Knowledge.” Australasian Journal of Philosophy 74: 549-67.
+
+Includes a much-discussed response to Gettier cases which pays attention to nuances in how people discuss knowledge.
+
+
+Lycan, W. G. (1977). “Evidence One Does not Possess.” Australasian Journal of Philosophy 55: 114-26.
+
+Discusses potential complications in a No Defeat Proposal.
+
+
+Lycan, W. G. (2006). “On the Gettier Problem Problem.” In Epistemology Futures, (ed.) S. Hetherington. (Oxford: Oxford University Press).
+
+A recent overview of the history of attempted solutions to the Gettier problem.
+
+
+Moser, P. K. (ed.) (1986). Empirical Knowledge: Readings in Contemporary Epistemology (Totowa, NJ: Rowman & Littlefield).
+
+Contains some influential papers on Gettier cases.
+
+
+Pappas, G. S., and Swain, M. (eds.) (1978). Essays on Knowledge and Justification (Ithaca, NY: Cornell University Press).
+
+A key anthology, mainly on the Gettier problem.
+
+
+Plato. Meno 97a-98b.
+
+For what epistemologists generally regard as being an early version of JTB.
+
+
+Plato. Theatetus 200d-210c.
+
+For seminal philosophical discussion of some possible instances of JTB.
+
+
+Roth, M. D., and Galis, L. (eds.) (1970). Knowing: Essays in the Analysis of Knowledge (New York: Random House).
+
+Includes some noteworthy papers on Gettier’s challenge.
+
+
+Shope, R. K. (1983). The Analysis of Knowing: A Decade of Research (Princeton: Princeton University Press).
+
+Presents many Gettier cases; discusses several proposed analyses of them.
+
+
+Skyrms, B. (1967). “The Explication of ‘X Knows that p’.” Journal of Philosophy 64: 373-89. Reprinted in Roth and Galis (1970).
+
+Includes the pyromaniac Gettier case.
+
+
+Unger, P. (1968). “An Analysis of Factual Knowledge.” Journal of Philosophy 65: 157-70. Reprinted in Roth and Galis (1970).
+
+Presents an Eliminate Luck Proposal.
+
+
+Unger, P. (1971). “A Defense of Skepticism.” The Philosophical Review 30: 198-218. Reprinted in Pappas and Swain (1978).
+
+Defends and applies an Infallibility Proposal about knowledge.
+
+
+Weinberg, J., Nichols, S., and Stich, S. (2001). “Normativity and Epistemic Intuitions.” Philosophical Topics 29: 429-60.
+
+Includes empirical data on competing (‘intuitive’) reactions to Gettier cases.
+
+
+Williamson, T. (2000). Knowledge and Its Limits (Oxford: Oxford University Press), Intro., ch. 1.
+
+Includes arguments against responding to Gettier cases with an analysis of knowledge.
+
+
+
+Author Information
+Stephen Hetherington
+Email: s.hetherington@unsw.edu.au
+University of New South Wales
+Australia
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

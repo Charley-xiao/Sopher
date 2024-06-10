@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+Epistemic Modality | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epistemic Modality
+Epistemic modality is the kind of necessity and possibility that is determined by epistemic constraints. A modal claim is a claim about how things could be or must be given some constraints, such as the rules of logic (logical modality), moral obligations (deontic modality), or the laws of nature (nomic modality). A modal claim is epistemic when these constraints are epistemic in nature, meaning roughly that they are related to knowledge, justification, or rationality. An epistemic possibility is something that may be true, given the relevant epistemic constraints (for example, “Given what we know about the weather, it might rain tomorrow”), while an epistemic necessity is something that must be true given the relevant epistemic constraints (for example, “I don’t see Julie’s car in the parking lot, so she must have gone home”).
+The epistemic modal status of a proposition is determined by some body of information, such as an individual or group’s knowledge, a set of data, or the available evidence. A proposition that is not ruled out or eliminated by the information is epistemically possible, whereas a proposition that is in some sense guaranteed by the information is epistemically necessary. As an analogy, consider a detective investigating a crime. Initially, there is little evidence, and so there are many suspects. As more evidence is acquired, suspects are gradually ruled out—it could not have been the butler, since he was in the gazebo at the time of the crime—until only one remains, who must be guilty. Similarly, an epistemic agent may start with limited evidence that leaves open many epistemic possibilities. As the agent acquires more evidence, various possibilities are ruled out until some propositions are epistemically necessary and so must be true.
+This article presents the distinctive features of epistemic modality and surveys different answers to the following questions about epistemic modality:
+(1) Whose information determines the modal status of a proposition?
+(2) How does information determine the modal status of a proposition?
+(3) How is epistemic modality related to knowledge?
+It concludes with a discussion of alternatives to the standard semantics for epistemic modal language.
+Table of Contents
+
+Epistemic Modality and Other Modalities
+
+Modal Puzzles
+
+
+Whose Information Determines the Epistemic Modal Status of a Proposition?
+
+Context-Dependence
+Relativism
+
+
+How Does Information Determine the Epistemic Modal Status of a Proposition?
+
+Negation
+Entailment
+Probability
+Dismissing
+
+
+How is Epistemic Modality Related to Knowledge?
+
+Knowledge as the Relevant Information
+Epistemic Modality and Knowledge
+Concessive Knowledge Attributions
+
+
+Alternatives to the Standard View of Epistemic Modals
+
+Embedded Epistemic Modals
+Hedging
+Other Views of Epistemic Modals
+
+
+References and Further Reading
+
+1. Epistemic Modality and Other Modalities
+An epistemic modal is an epistemic use of a modal term, such as “might”, “necessarily”, or “possible”. On the standard view of epistemic modals, sentences in which these modals are the main operator are used to make epistemic modal claims that attribute an epistemic modal status, either possibility or necessity, to a proposition. For example, (1)-(8) can all be used to make epistemic modal claims:
+(1) Maybe it will rain tomorrow.
+(2) Terry may not do well on the test.
+(3) Perhaps my grandmother is in Venezuela.
+(4) The special theory of relativity might be true, and it might be false.
+(5) Aristotle might not have been a philosopher.
+(6) Given the angle of the blow, the killer must have been over six feet tall.
+(7) Sam must be on her way by now.
+(8) For all I know, there is no solution.
+On this standard view, (1)-(5) can be used to attribute epistemic possibility using the different epistemic modals “maybe”, “may”, “perhaps”, and “might”. (1), for example, attributes epistemic possibility to the proposition that it will rain tomorrow, while (4) attributes epistemic possibility both to the proposition that the special theory of relativity is true and to its negation. (6) and (7), on the other hand, use the epistemic modal “must” to attribute epistemic necessity to the propositions that the killer was over six feet tall and that Sam is on her way, respectively. (8) is also naturally read as expressing an epistemic modal claim attributing epistemic possibility to the proposition that there is no solution, even though no modal term is explicitly used.
+The distinguishing characteristic of epistemic modal claims is that their truth is determined by epistemic factors. The epistemic modal status of a proposition is determined by some body of information, and not by logical, metaphysical, or scientific laws. An epistemic possibility is not, for example, some way the world could have been, given the actual laws of physics. Instead, it is a way the world might yet be, given some body of information, such as what we currently know. So, (4), if read as a claim about epistemic possibility, does not assert that the truth and falsehood of the special theory of relativity are both compatible with the laws of physics. It says only that both the truth and falsehood of the theory are individually compatible with some information, such as what the speaker knows. Similarly, an epistemic necessity is not some way the world had to be, given the constraints of logic. Instead, it is a way the world must in fact be, given, for example, what we have discovered about it. So, an utterance of (7) does not assert that some logical contradiction or metaphysical impossibility follows from the assumption that Sam is not on her way. It says only that, given some information, such as what we know about Sam’s schedule, she must in fact be on her way.
+As a result, epistemic modal claims are about the actual world in a way that some other modal claims are not. An epistemic possibility is not an alternative way the world might have been had things gone differently, but a way the world might yet turn out to be given the relevant information. (5), if read as expressing metaphysical possibility, is true just in case there is some metaphysically possible world in which Aristotle is not a philosopher. So, it is about the various alternative ways that the world could have been, asserting that at least one of them includes Aristotle not being a philosopher. But (5) is ambiguous and could also be used to make a claim about epistemic possibility: that Aristotle not being a philosopher in this world is left open by the relevant information. If, for example, there were not enough information to determine whether Aristotle had ever done any philosophy in the actual world, it would be epistemically possible that Aristotle was not a philosopher. Unlike the metaphysical possibility claim, this claim is not about an alternative way that the world could have been, but instead about how the past might turn out to have actually been.
+Similarly, an epistemic necessity is a way the world must in fact be, but not a way the world had to be— that is, an epistemic necessity might very well not be a metaphysical or logical necessity (and vice versa). The claim that it is metaphysically necessary that 2+2=4, for example, is true just in case there are no metaphysically possible worlds in which the sum of 2 and 2 is something other than 4. So, this claim asserts that, in all possible ways the world could have been, 2+2=4. On the other hand, an epistemic necessity claim made using (6) is true just in case the killer being over six feet tall is in some sense guaranteed by the angle of the blow. This claim is therefore not about how things had to be in all of the various ways the world could have been, but merely about how things must be given our information about how the world in fact is.
+Another feature that distinguishes epistemic modality from other kinds of modality is that, because the epistemic modal status of a proposition is determined by epistemic constraints, it can vary over time and between subjects. So, I may truly utter (1) today, but having seen no rain by the end of the day tomorrow, I would have different information and could no longer truly say that rain on that day is possible. Similarly, not knowing my grandmother’s travel itinerary, I could truly say (3), but my cousin who has just found out that our grandmother’s trip to Venezuela was cancelled could not. As a result, it is common to say that a proposition is epistemically possible or necessary for some person or group (for example, “it was possible for Aristotle that the Earth was at the center of our solar system”), meaning it is possible or necessary on that person or group’s information. In contrast, logical, metaphysical, and nomic modalities do not vary across time and between subjects.
+a. Modal Puzzles
+Distinguishing epistemic modality from other modalities is a key step in solving some philosophical puzzles. Consider Goldbach’s conjecture:
+(GC) Every even integer greater than 2 is the sum of two primes.
+There is a sense in which (GCT) and (GCF) both seem true
+(GCT) It is possible that Goldbach’s conjecture is true.
+(GCF) It is possible that Goldbach’s conjecture is false.
+But the truth value of Goldbach’s conjecture, like other mathematical truths, is often considered as being of necessity—it is either necessarily false or necessarily true. So, if (GCT) and (GCF) are expressions of mathematical possibility, they generate a contradiction. If Goldbach’s conjecture is possibly true, then it is necessarily true, and if it is possibly false, then it is necessarily false. From (GCT) and (GCF), then, it would follow that Goldbach’s conjecture is both necessarily true and necessarily false.
+This result can be avoided by distinguishing mathematical possibility from epistemic possibility. Although (GCT) and (GCF) cannot both be true if they are read as claims about mathematical possibility, they can both be true when read as claims about epistemic possibility. According to one view of epistemic possibility, for example, because we do not yet know whether Goldbach’s conjecture is true or false, both options are epistemically possible for us. However, to avoid contradiction, this must not entail that they are both mathematically possible.
+A puzzle involving co-referring names can similarly be solved by appeal to epistemic possibility. According to some views of names (for example, Kripke (1972)), the proposition “Hesperus is identical to Phosphorus” expresses a metaphysically necessary truth, since “Hesperus” and “Phosphorous” are both names for the planet Venus. Nevertheless, a person who has no reason to think that that “Hesperus” and “Phosphorous” refer to the same thing could truly say “it is possible that Hesperus is not identical to Phosphorous”. But if it is (metaphysically) necessarily true that Hesperus is identical to Phosphorous, then it cannot be (metaphysically) possible that Hesperus is not identical to Phosphorous. The contradiction can be avoided by understanding “it is possible Hesperus is not identical to Phosphorous” as a statement of epistemic, rather than metaphysical, possibility. It is epistemically possible, relative to the information of someone who does not know what these names refer to, that Hesperus is not identical to Phosphorous, even though it is not metaphysically possible. (See also Modal Illusions)
+These solutions to these puzzles demonstrate two ways in which epistemic possibility is distinct from other kinds of possibility. It is broader in the sense that a logical, mathematical or metaphysical impossibility may be epistemically possible, as in the case of Goldbach’s conjecture or its negation (whichever is false). Similarly, a proposition can be epistemically necessary (for some subject), but not metaphysically, mathematically, or logically necessary. It is not metaphysically necessary that Descartes existed—he could have failed to exist. Nevertheless, it was epistemically necessary for Descartes that he existed—given his information, he must have existed. Epistemic possibility is also narrower in the sense that many logical, mathematical and metaphysical possibilities, such as that no human beings ever existed, are not epistemic possibilities. Epistemic necessity, too, is narrower, in that many logical, mathematical and metaphysical necessities are not epistemically necessary, such as yet-unproven theorems of logic. Because of these differences, epistemic modality “cuts across” logical, mathematical and metaphysical modalities, with the result that facts about epistemic modality cannot be inferred from facts about these other modalities, and vice versa.
+2. Whose Information Determines the Epistemic Modal Status of a Proposition?
+The epistemic modal status of a proposition is determined by some body of information, but it is not always specified which information is relevant. Phrases like “given the evidence presented today…”, “in view of the information we have…”, and “for all I know…” often indicate the relevant information for a particular epistemic modal claim. However, many sentences used to make epistemic modal claims lack this kind of clear indicator. Claim (1), for example, does not specify for whom or on which body of information it is possible that it will rain tomorrow. Since people have different information about the weather, the proposition that it will rain tomorrow may be possible on the information possessed by some people, but not on the information possessed by others. As a result, a complete theory of epistemic modal claims must have some mechanism for determining whose information is relevant in determining their truth.
+a. Context-Dependence
+According to some theories, the truth of an epistemic modal claim varies with features of the context in which it is made. Call these “context-dependent theories” of epistemic modal claims. On these views, facts about the context of assertion—that is, the situation in which the epistemic modal claim is spoken, written, or otherwise conveyed—affect the truth of the claim. The simplest kind of context-dependent theory is one in which the relevant information is the information possessed by the speaker:
+
+
+
+(Speaker)
+“It might be that p” is true as tokened by the speaker S at time t if and only if p is epistemically possible on the information possessed by S at t.
+
+
+
+According to (Speaker), whether an epistemic possibility claim expressed by “it might be that p” is true is determined by whether p is epistemically possible on the information possessed by the person who asserts that claim. Thus, the feature of the context that is relevant to determining the claim’s truth value is the information possessed by the speaker. If Paul says, for example, “it might be that God exists”, his claim is true just in case it is epistemically possible for Paul (that is, on the information that he possesses), at the time of his speaking, that God exists.
+However, (Speaker) gives counterintuitive results in dialogues about epistemic modality. Suppose, for example, that Katie and Julia are discussing Laura’s whereabouts. Julia knows that Laura left on a flight for Hungary this morning, but Katie does not know that Laura has left. They then have the following discussion:
+Katie: Laura might be in the living room.
+Julia: No. She can’t be in the living room, because she left for Hungary this morning.
+Katie: Oops. I guess I was wrong.
+The problem for (Speaker) is that it is epistemically possible on Katie’s information at the beginning of the dialogue that Laura is in the living room. So, according to (Speaker), she speaks truly when she says “Laura might be in the living room”. To some, this seems false—since Julia knows that Laura is on her way to Hungary, Katie’s claim that she might be in the living room cannot be true. Furthermore, Katie seems right to correct herself at the end of the dialogue, but if (Speaker) is true, then this is a mistake. Even though Laura being in the living room is not possible on the information Katie has after talking to Julia, it was possible on her original information at the time that she spoke, which is all that is necessary to make her claim true, according to (Speaker
+This problem can be avoided by expanding the relevant information to include information possessed by people other than the speaker, as in:
+
+
+
+(Audience)
+“It might be that p” is true as tokened by the subject S at time t if and only if p is epistemically possible on the combined information possessed by S and S’s audience at t.
+
+
+
+On this view, because Julia is Katie’s audience, her information is also used in determining whether Katie’s claim is true. Since Julia knows that Laura is on her way to Hungary, it is not possible on her information that Laura is in the living room, making Katie’s initial epistemic possibility claim false and her later self-correction warranted.
+In some cases, though, the epistemic modal status of a proposition is evaluated relative to the information of some party other than the speaker or its audience. One appropriate response to the question “Is it true that the universe might continue expanding forever?”, for example, is “I don’t know; only a scientist would know if that’s possible.”. But if it is just the information of the speaker and its audience that determines the truth of epistemic possibility claims, this response is bizarre. All it would take to know whether the universe might continue expanding forever is to check the information possessed by those two parties. Here, though, it seems that the possibility of the universe’s continued expansion is being evaluated relative to the information possessed by the scientific community, which the speaker does not have access to. This suggests that, in some contexts, the relevant information is not the information of the speaker or its audience, but the information possessed by the members of some other community. Incorporating this idea gives the following kind of principle:
+
+
+
+(Community)
+“It might be that p” is true as tokened by the subject S at time t if and only if p is epistemically possible on the information possessed by the members of the relevant community at t.
+
+
+
+This view is still context-dependent, as which community is relevant is determined by contextual factors, such as the topic and purpose of the conversation. Note that the relevant community may often include just the speaker or just the speaker and its audience (as in Katie and Julia’s case). (Community) simply allows that in some contexts the information of the scientific community, for example, determines the truth of the epistemic modal claim.
+Other examples suggest that even (Community) is insufficiently flexible to account for all epistemic modal claims, as they are sometimes evaluated relative to information that no one actually possesses. The classic example of this comes from Hacking (1967):
+Imagine a salvage crew searching for a ship that sank a long time ago. The mate of the salvage ship works from an old log, makes some mistakes in his calculations, and concludes that the wreck may be in a certain bay. It is possible, he says, that the hulk is in these waters. No one knows anything to the contrary. But in fact, as it turns out later, it simply was not possible for the vessel to be in that bay; more careful examination of the log shows that the boat must have gone down at least thirty miles further south. The mate said something false… but the falsehood did not arise from what anyone actually knew at the time.
+This kind of case leads some to include not only the information possessed by the relevant community, but also information that members of that community could acquire through investigation. No one in any community has information that rules out that the hulk is in the bay, so that cannot be why the mate’s claim is false. There is, however, an investigation the mate (or any member of the community) could make, a more careful examination of the log, that would yield information that rules out this possibility. If this is why the mate’s claim is false, then the truth of epistemic modal claims must be determined not only by the information possessed by the relevant community, but also by information that is in some way available to that community. Not just any way of gaining information can count, though, as for almost any false proposition, there will be some possible way of acquiring information that rules it out. Since many false propositions are epistemically possible, then, there must be some restriction on which kinds of investigations matter. There are many options for formulating this restriction, but one option is that it is also determined by context:
+
+
+
+(Investigation)
+“It might be that p” is true as tokened by the subject S at time t if and only if:
+
+
+
+(i) p is epistemically possible on the information possessed by the members of the relevant community at t, and
+
+
+
+(ii) there is no relevant way for the members of that community to acquire information on which p is not epistemically possible.
+
+
+
+According to (Investigation), which ways of acquiring information can affect the truth of epistemic modal claims is determined by features of the context in just the same way that the community is. Depending on the speaker’s background information, motivations, and so forth, different ways of acquiring information will be relevant. Since the mate has just checked the log and knows that he is basing his judgment on the data in the log, checking the log is a relevant way of acquiring information, and so his claim is false. By contrast, a student could truly say during an exam “the answer might be “Gettier”, but I’m not sure”. Although there are ways, such as reading through the textbook, for the student to acquire information that rules out that answer, none of those ways is relevant in the context of an exam. (Investigation) is thus in principle able to account for cases where information that no one has seems to determine the truth of epistemic modal claims.
+b. Relativism
+ According to relativist theories of epistemic modal claims, these claims are true relative to the context in which they are evaluated, rather than to the context in which they are asserted. Whereas context-dependent theories allow for different tokens of the same type of epistemic claim to have different truth values, these relativist views allow for the same token of some epistemic claim to have different truth values when evaluated in different contexts. The primary motivation for this kind of view is that a single token of an epistemic modal claim can be judged true in one context but false in another, and both judgments can seem correct. This happens in eavesdropping cases like the following:
+Mara, Ian, and Eliza are playing a game of hide-and-seek. Mara is hiding in the closet while Ian and Eliza are searching for her. Ian and Eliza are discussing where Mara might be, and Ian says “She might be in the kitchen, since we haven’t checked there yet”. Listening from the closet, though, Mara knows that Ian is wrong—she is most definitely not in the kitchen.
+The puzzle is that Ian’s reasoning seems perfectly good; any room which they have not checked yet is a room in which Mara might be hiding. Assuming the relevant community does not include Mara, no one in the relevant community has information that rules out that Mara is in the kitchen, and so it is epistemically possible on the community’s information that she is in the kitchen. However, Mara’s assessment that Ian is wrong also seems correct. She could not truthfully say “I know I am not in the kitchen, but Ian is right when he says that I might be in the kitchen”. So, the very same token of “She might be in the kitchen” seems true when evaluated by Ian and Eliza, but false when evaluated by Mara.
+To accommodate this sort of intuition, relativists propose that epistemic modal claims are true only relative to the context in which they are assessed, resulting in a view like the following:
+
+
+
+(Relativism)
+“It might be that p” is true as tokened by the subject S at time t1 and assessed by the agent A at time t2 if and only if p is epistemically possible on the information possessed by A at t2.
+
+
+
+According to (Relativism), Ian’s claim that Mara might be in the kitchen is true when assessed by Ian and Eliza, since it is epistemically possible on their information that she is hiding in the kitchen. However, it is not true when assessed by Mara, since it is not epistemically possible on her information that she is in the kitchen; she knows full well that she is in the closet. On this kind of view, the token has no fixed truth value based on the context in which it is asserted; it has a truth value only relative to the context in which it is being assessed. On (Relativism), the feature of the context of assessment that determines this truth value is the information possessed by the person doing the assessing, but other relativist views may include other features such as the assessor’s intentions, the purpose of the assessment, information the assessor could easily obtain, and so forth.
+One way of addressing this puzzle within the confines of a context-dependent theory is to include Mara in the relevant community, such that her knowledge that she is not in the kitchen makes Ian’s claim false, regardless of what Ian and Eliza know. This would allow the proponent of a context-dependent theory to say that Ian’s claim is strictly false, but still conversationally appropriate, as he does not know about the information that makes it false. Generalizing this strategy gives an implausible result, however, as there would be equally good reasons to include in the relevant community anyone who will ever consider a claim of epistemic possibility. As a result, any claim of the form “it might be that p”, where p will at some point be discovered by someone to be false, is false. If we know this, then it is almost always inappropriate to assert that p might be true, since we know that if p is ever discovered to be false, then our assertion will have been false. So, if epistemic possibility claims are commonly appropriate to assert, as they seem to be, there is a reason to doubt the context-dependent account of this case.
+3. How Does Information Determine the Epistemic Modal Status of a Proposition?
+Theories of epistemic modality also differ in how a proposition must be related to the relevant information in order to have a given epistemic modal status. Even if it is agreed that a proposition is epistemically possible for a subject S just in case it is not ruled out by what S knows, for example, there remains the question of what it takes for S’s knowledge to rule out a proposition.
+a. Negation
+ The simplest view of this relation is that a proposition is possible on a body of information just in case the information does not include the negation of that proposition. If the relevant information is a subject’s knowledge, for example, this yields:
+
+
+
+(Negation)
+p is epistemically possible for a subject S if and only if S does not know that not-p.
+
+
+
+So, if Bozo knows that he is at the circus, then it is not epistemically possible for him that he is not at the circus, whereas if he does not know that the square root of 289 is 17, then it is possible for him that it is not.
+A difficulty for this sort of view involves a proposition that is intuitively ruled out by what someone knows, even though that person does not explicitly know the proposition’s negation. Suppose, for example, that Holmes knows that Adler has stolen his pipe. Holmes is perfectly capable of deducing from this that someone stole his pipe, but he has not bothered to do so. So, Holmes has not formed the belief that someone stole his pipe. As a result, he does not know that someone stole the pipe. According to (Negation), then, it is still epistemically possible for Holmes that no one stole the pipe (that is, that it is not the case that someone stole the pipe), even though it is not epistemically possible for Holmes that Adler did not steal the pipe. This is problematic, as knowing that Adler stole the pipe seems sufficient to rule out that no one stole the pipe, as the former obviously entails the falsehood of the latter. So, S’s not knowing not-p is not sufficient for p to be epistemically possible for S.
+b. Entailment
+To accommodate this kind of case, some theories require only that the information include something that entails not-p, such as:
+
+
+
+(Entailment)
+p is epistemically possible for a subject S if and only if nothing that S knows entails not-p.
+
+
+
+This resolves the problem in the Holmes case, as Holmes knows something (that Adler stole the pipe) which entails that someone stole the pipe. So, it is not epistemically possible for Holmes that no one stole the pipe, regardless of whether Holmes has formed the belief that someone stole the pipe.
+However, views like (Entailment) face problems involving logically and metaphysically necessary propositions. On the assumption that logically and metaphysically necessary propositions are entailed by any body of information, their negations will be epistemically impossible for any subject on this kind of view. If Goldbach’s conjecture is false, for example, then any subject’s knowledge entails the negation of Goldbach’s conjecture. Nevertheless, it is epistemically possible for many subjects that Goldbach’s conjecture is true. So, S not knowing anything that entails not-p cannot be necessary for p to be epistemically possible for S.”
+Another potential problem is that requiring the entailment of not-p to rule out p seems to result in too many epistemic possibilities. For example, if the detective knows that fingerprints matching the butler’s were found on the gun that killed the victim, that powder burns were found on the butler’s hands, that reliable witnesses testified that the butler had the only key to the room where the body was found, and that there is surveillance footage that shows the butler committing the murder, this would still be insufficient to rule out the butler’s innocence according to (Entailment), since none of these facts properly entail that the butler is guilty. Similarly, if the relevant information is not a subject’s knowledge but instead her foundational beliefs and/or experiences, then very few propositions will not be epistemically possible for a given subject. With the exception of necessary truths and propositions about my own mental states, none of the propositions I believe is entailed by my experiences or foundational beliefs (for more, see Fallibilism). As a result, if this information must entail not-p in order to rule out p as an epistemic possibility, nearly all contingent propositions will be epistemically possible for every subject. Because of this, any subject could truly assert “given my evidence, I might be standing on the moon right now”, which is a prima facie problem for this kind of view.
+c. Probability
+One way of weakening the conditions necessary to rule out a proposition is to analyze epistemic possibility in terms of probability:
+
+
+
+(Probability)
+p is epistemically possible for a subject S if and only if the probability of p given what S knows is greater than or equal to x, where x is some threshold of probability between 0 and 1.
+
+
+
+As long as x is greater than 0, this kind of view allows for p to be ruled out even when S’s knowledge does not entail not-p. If the probability of p given S’s knowledge is greater than 0 but less than x, there is still some chance (given what S knows) that p is true, but it does not follow that p is epistemically possible for S. Note, however, that, for any understanding of probability that obeys the Kolmogorov Axioms, (Probability) will face the same problem with necessary falsehoods that (Entailment) does. On any such understanding, the probability of a logically necessary falsehood is 0, and so no logically and metaphysically necessary falsehoods can be epistemically possible.
+d. Dismissing
+More complex theories about the “ruling-out relation” include Huemer’s (2007) proposal, which requires, among other things, that S have justification adequate for dismissing p in order for S to rule out p. “Dismissing” is meant to capture particularly strong disbelief in p or “disbelieving [p] and regarding the question as settled” (p. 132). Since, according to Huemer, the degree of justification adequate for dismissing a proposition varies with context, an epistemic possibility claim can be true in one context, but false in another. So, on this view, epistemic modal claims are context-sensitive even when the relevant information is specified, in a way that parallels the context-sensitivity of “know” argued for by epistemic contextualists. For example, on this kind of contextualist view, standards for dismissing may be low in ordinary contexts, but high when confronted with a skeptic. If so, then a subject can truly assert “it is not the case that I might be the victim of an evil demon” in an ordinary context, and also truly assert “I might be the victim of an evil demon” when confronted with a skeptic.
+4. How is Epistemic Modality Related to Knowledge?
+Since the modality under discussion is epistemic, it is natural to suppose that it is closely related to knowledge. This would account for the common use of “for all I know” and “for all anyone knows” to attribute epistemic possibility, as well as providing a straightforward explanation of what is epistemic about epistemic modality. It would also account for the apparent relevance of what might and must be true to what we know. There are, however, several different accounts of this relation.
+a. Knowledge as the Relevant Information
+One proposal is that knowledge is the relevant type of information that determines the epistemic modal status of a proposition. Whatever the correct theory of the ruling out relation, then, the following would be true:
+p is epistemically possible for a subject S if and only if p is not ruled out by what S knows.
+However, there are at least two problems with this sort of view. First, a subject may fail to know something for reasons that are intuitively irrelevant to the modal status of the proposition in question. Let q be a proposition such that if S knew q, then S’s knowledge would rule out p, and suppose that S satisfies every condition for knowledge of q except that S does not believe q. This may be because S lacks a concept required to believe q, has a psychological flaw that prevents her from believing q, or simply has not gotten around to forming the belief that q. These kinds of reasons for not believing q do not seem to affect what is epistemically possible for S, and yet if epistemic possibility is understood in terms of knowledge, they do.
+The second problem is that epistemic modal claims are sometimes assessed relative to a body of information that no one actually knows. A computer hard drive, for example, may contain a tremendous amount of data, more than anyone could possibly know. Referencing such a drive, a person could assert “given the information on this drive, system X might contain a planet that would support life”. This is an epistemic modal claim that may be true or false, but its truth value cannot be determined by what anyone knows, since no one knows all of the data on the drive. As a result, the epistemic modal status of a proposition must at least sometimes be determined by a type of information other than knowledge.
+An alternative proposal is that epistemic modality is determined by evidence. What this view amounts to depends on one’s theory of evidence. Evidence may include publicly available evidence, such as the data on a drive, the records in a log, or the results of an experiment. Evidence may also be understood as a subject’s personal evidence, consisting of experiences and other mental states (see Evidentialism).
+b. Epistemic Modality and Knowledge
+ Whether or not knowledge is the information that determines epistemic modality, many epistemological views connect knowledge to epistemic modality. In particular, ruling out the epistemic possibility that not-p is claimed by many to be a necessary condition for knowing that p:
+
+
+
+(K1)
+S knows that p only if not-p is not epistemically possible for S.
+
+
+
+Others also accept the potentially stronger claim that knowledge requires ruling out the epistemic possibility of any proposition incompatible with p:
+
+
+
+(K2)
+S knows that p only if there is no q such that:
+
+
+
+(i) q entails not-p, and
+
+
+
+(ii) q is epistemically possible for S.
+
+
+
+One motivation for this kind of connection between epistemic possibility and knowledge is the idea that epistemic necessity just is knowledge, such that p is epistemically necessary for S just in case S knows that p. On the assumption that epistemic necessity and possibility are duals, in the sense that a proposition is epistemically necessary just in case its negation is not epistemically possible, and vice versa (see Modal Logic), this would entail (K1).
+A second motivation is the intuitive idea that knowledge requires the exhaustion of alternative possibilities, that in order to know that p, one must perform a thorough enough investigation to exclude any alternatives to p. For a detective to know that the butler is guilty, for example, she must rule out all of the other suspects. In doing so, she would rule out every possibility in which the butler was not guilty, thereby satisfying the consequent of (K2). If knowledge requires this kind of elimination of alternatives, then, there is good reason to accept (K2).
+The main reason to doubt principles like (K1) and (K2) is their apparent inconsistency with fallibilism about knowledge, the view that some or all of our knowledge has inconclusive justification. If our justification for p is inconclusive, then there is some chance, given that justification, that not-p is true. But this seems to commit us to saying that not-p might be true and is therefore epistemically possible. So, if (K1) is true, then we do not know p after all. Since conclusive justification for our beliefs is very rare, applying this reasoning generally has the implausibly skeptical consequence that we have very little knowledge of the world.
+c. Concessive Knowledge Attributions
+A related issue is the apparent incoherence of Concessive Knowledge Attributions (“CKAs”) in which a subject claims to know something while admitting the (epistemic) possibility of error. (9), for example, sounds odd:
+(9) I know that I own a cat, but I might not own a cat.
+Furthermore, (9) seems to be in some way self-defeating—admitting the epistemic possibility that the speaker does not own a cat seems like an admission that she does not in fact know that she owns a cat. (10) has similar problems:
+(10) I know that I own a cat, but I might not own any animals.
+As long as the speaker knows that all cats are animals, asserting (10) seems problematic in roughly the same way as asserting (9) does. The second conjunct seems to commit the speaker to denying the first. An account of the relationship between epistemic possibility and knowledge must therefore give some explanation of the apparent tension in CKAs like (9) and (10).
+The most straightforward account of the oddness of CKAs is that they are self-contradictory and therefore false. If (K1) is true, then sentences of the form “S knows that p” and “not-p is epistemically possible for S” are mutually inconsistent. On this kind of view, (9) seems odd and self-defeating because its conjuncts are inconsistent with each other—if the speaker knows that he owns a cat, then it is not epistemically possible for him that he does not own a cat. If (K2) is true, then sentences of the form “S knows that p” and “q is epistemically possible for S” (where q entails not-p) are also mutually inconsistent. So, on this kind of view (10) seems odd and self-defeating for just the same reason. If the speaker knows that she owns a cat, then according to (K2) no proposition that entails that she does not own a cat is epistemically possible for her. Since not owning an animal entails not owning a cat, then, it cannot be epistemically possible for the speaker that she does not own any animals.
+On Lewis’s (1996) account, CKAs are not strictly self-contradictory, but they can never be truly asserted. For Lewis, “S knows that p” is true just in case S’s evidence rules out all not-p possibilities that are not properly ignored. Which possibilities are properly ignored varies with the conversational context, such that “S knows that p” may be true in one context, but false in another in which fewer propositions are properly ignored. As a result, there may be contexts in which “S knows that p” and “it might be that q” would be true, even though q entails not-p, so long as q is one of the not-p possibilities that is properly ignored in that context. So, strictly speaking, these sentences are not mutually inconsistent.
+However, there are rules that govern when a possibility is properly ignored in a context, one of which is the Rule of Attention. This rule entails that any not-p possibility that is explicitly mentioned is not properly ignored, since it is not ignored at all. Because of this, conjunctions of the form “S knows that p, but it might be that q”, where q is a not-p possibility, cannot be truly asserted. Mentioning the not-p possibility q prevents it from being properly ignored. So, if q is not ruled out by S’s evidence, then “S knows that p” is false. This accounts for the tension in (9) and (10), as mentioning the epistemic possibilities that the speaker does not own a cat or does not own any animals is sufficient to prevent them from being properly ignored. This makes the speaker’s claim that she knows she owns a cat false, which is why these CKAs seem self-defeating, even though they are not strictly inconsistent.
+Other views, such as that of Dougherty & Rysiew (2009), hold that CKAs are often true, but conversationally inappropriate to assert. On their view, p is epistemically possible for a subject just in case the subject’s evidence (consisting of her mental states) does not entail not-p. So, nearly all contingent propositions are epistemically possible. Because of this, mentioning that a contingent proposition is epistemically possible would be a strange thing to do in most conversations, akin to noting the obvious truth that there is a metaphysical possibility that one’s beliefs are false. As a result, on this view, asserting that a proposition is epistemically possible pragmatically implicates something more, such as that one has some compelling reason for taking seriously the possibility that not-p, and so one is not confident that p. As a result, CKAs like (9) and (10) are often true, as they assert that the speaker knows that p and does not have entailing evidence for p. However, they are conversationally inappropriate to assert. Unless the speaker has some good reason to suppose that she does not own a cat, it is inappropriate to assert that she might not. However, if she does have such a reason, then she should not say that she knows that she owns a cat, because doing so implicates confidence in and adequate evidence for the proposition that she owns a cat which are incompatible with having that kind of reason.
+5. Alternatives to the Standard View of Epistemic Modals
+The standard view of epistemic modals introduced in section 1 holds that epistemic modals like “might” and “must” are used to express epistemic modal claims attributing either epistemic possibility or epistemic necessity to propositions. This standard view is committed to two important theses, each of which has been challenged.
+First, on the standard view, epistemic modals affect the semantic content of sentences. So, a sentence of the form “it might be that p” differs in its semantic content from simply “p”. For example, an utterance of proposition (2), “Terry may not do well on the test”, does not simply express the proposition that Terry will not do well on the test. Instead, it expresses the epistemic modal claim that the proposition that Terry will do well on the test is epistemically possible on the relevant information. This difference in meaning yields a difference in truth conditions, such that it is possible for someone to truly assert (2) even if Terry will in fact do well on the test (if, for example, the speaker does not know whether Terry will do well).
+Second, sentences containing epistemic modals typically serve to describe the world, in the sense that they describe some proposition as having some particular modal status. Thus, whatever effect epistemic modals have on the meaning of sentences, they typically result in the expression of a descriptive claim about the world that can be evaluated for truth.
+a. Embedded Epistemic Modals
+The most significant challenge to the standard view is that epistemic modal sentences behave strangely when embedded in other sentences, which the standard view does not predict. As Yalcin (2007) first pointed out, conjunctions including epistemic modals yield unusual results when embedded in other kinds of sentences. Consider a case in which it is raining outside, but you have not looked out of the window. For you, then, it is epistemically possible that it is not raining, even though it is in fact raining. Nevertheless, the conjunction of “it is raining” and “it might not be raining” sounds odd when embedded in certain kinds of sentences. For example, the imperative sentence (11) sounds odd:
+(11) Suppose that it is raining and it might not be raining.
+(11) seems to give a command that is in some way defective; the conjunction in question cannot be coherently supposed. However, this seemingly cannot be because the conjuncts “it is raining” and “it might not be raining” are logically inconsistent. If they were, then “it might not be raining” would entail “it is not raining”, but the mere epistemic possibility that it is not raining seemingly cannot entail that it is in fact not raining. So, on the standard view, there is no obvious reason that (11) should be defective, as it simply asks you to suppose that two compatible claims are both true.
+Similarly, (12) sounds odd:
+(12) If it is raining and it might not be raining, then it is raining.
+This oddness is unexpected, since, given the usual semantics for conditionals and the standard view of epistemic modals, (12) should be trivially true. Any material conditional of the form “If A and B, then A” should be obviously true, and yet the truth value of (12) is not obvious. This is not because (12) seems false, but because there seems to be something wrong with the antecedent of (12). On the standard view, though, there is no obvious reason that this should be the case. Each conjunct expresses a claim about the world, and whatever claim is expressed by the second conjunct, the consequent clearly follows from the first conjunct alone. In response to these puzzles, Yalcin (2007) develops a semantics according to which sentences like “it is raining and it might not be raining” really are strictly contradictory, but this is not the only way to account for the oddness of sentences like (11) and (12).
+b. Hedging
+An alternative to the standard view is that the modals of epistemic possibility (“may”, “might”, “perhaps”, etc.) are used to “hedge” or express reduced confidence about the expressed proposition, rather than to attribute any modal status. As Coates (1983 131) describes this kind of view: “MAY and MIGHT are the modals of Epistemic Possibility, expressing the speaker’s lack of confidence in the proposition expressed” (p. ?). On this kind of view, epistemic modals do not affect the semantic content of a sentence but are instead used to indicate the speaker’s uncertainty about the truth of that content. For example, on Schnieder’s (2010) view, (2) and (2¢) have the same semantic content:
+(2) Terry may not do well on the test.
+(2′) Terry will not do well on the test.
+However, while a speaker who utters (2′) thereby asserts that Terry will not do well on the test, a speaker who utters (2) makes no assertion at all but instead engages in a different kind of speech act that presents that speaker as being uncertain about the proposition that Terry will not do well on the test. Thus, though the two sentences have the same semantic content, the epistemic modal in (2) results in an expression of the speaker’s uncertainty, rather than in an epistemic modal claim that describes a proposition as having some modal status. Views of this kind are therefore incompatible with both theses of the standard view, since epistemic modals do not affect the semantic content of a sentence, and sentences like (2) are not used to describe the world.
+Hedging views can offer some account of the oddness of embedded epistemic modals, since on these views the speaker is using “may” or “might” to express uncertainty in situations in which it is inappropriate to do so. If, for example, it is only appropriate to suppose something that could be asserted, then (11) should sound odd, since “it might be raining” cannot be used to make an assertion. Thus, they seem to have some advantage over the standard view.
+However, a significant objection to the underlying idea that epistemic modals do not affect semantic content, raised by Papafragou (2006), is that adding an epistemic modal to a sentence seems to change its truth conditions in many ordinary cases. Suppose, for example, that my grandmother is on vacation in South America, and I cannot recall her exact itinerary. On a hedging view, (3) and (3¢) have the same semantic content, and thus the same truth conditions:
+(3) My grandmother might be in Venezuela.
+(3′) My grandmother is in Venezuela.
+If my grandmother is in fact in Brazil, then (3′) is false. So, if epistemic modals do not affect truth conditions, then (3) must also be false. But since I cannot remember her itinerary, I seem to speak truly when I utter (3). This difference in truth values requires a difference in semantic content, contrary to what hedging views predict. Similarly, if epistemic modals do not affect semantic content, then the proposition expressed by claim (4) (that is, “the special theory of relativity might be true, and it might be false”) would be a contradiction.
+This raises two problems. First, intuitively, a speaker could use (4) to assert something true (if, for example, she did not know whether the special theory of relativity was true or false). Second, if (4) is not used to assert anything but instead used to express the speaker’s uncertainty about the semantic content of the sentence, then an utterance of (4) would express uncertainty about the truth value of a contradiction. But, at least in ordinary circumstances, that would be a strange epistemic state for a speaker to express.
+Defenders of hedging views have options for responding to these objections, however. Perhaps, for example, my utterance of (3) seems appropriate when my grandmother is in Brazil not because it is true, but because it is sincere—I am presenting myself as being uncertain that my grandmother is not in Venezuela, and in fact I am uncertain of that proposition. This would explain why an utterance of (3) can be intuitively correct in some sense, even though the only proposition expressed in that utterance is false. And perhaps (4) is not an expression of uncertainty about a contradiction but instead a combination of two different speech acts: one expressing uncertainty that the special theory of relativity is true and another expressing uncertainty that it is false.
+c. Other Views of Epistemic Modals
+Another alternative to the standard view is to accept the first thesis that epistemic modals affect semantic content but deny the second thesis that they are used descriptively to attribute some epistemic modal status to a proposition. For example, a view of this kind is considered in Yalcin (2011): “To say that a proposition is possible, or that it might be the case, is to express the compatibility of the proposition with one’s state of mind, with the intention of engendering coordination on this property with one’s interlocutor” (p. 312). On this view, (3) and (3¢) do not have the same truth conditions, because (3) does not have truth conditions at all—it does not describe the world as being any particular way and so does not attribute any modal status to any proposition. Similarly, Willer’s (2013) dynamic semantics for epistemic modals does not assign truth conditions to epistemic modal claims but instead relations between information states, such that uttering (3) aims to change mere possibilities that are compatible with an agent’s evidence into “live” possibilities that the agent takes seriously in inquiry. On Swanson’s (2016) view, the content of an epistemic modal sentence is not a proposition but a constraint on credences, such that a speaker uttering (3) thereby advises their audience to adopt a set of credences that does not rule out or overlook the possibility that Terry will not do well on the test. On all of these views, epistemic modals affect the semantic content of the sentences in which they occur, but the resulting contents are not propositions with truth values. Thus, though they each handle embedded epistemic modals differently, none of these views are committed to the same seemingly implausible verdicts about sentences like (11) and (12) as the standard view.
+6. References and Further Reading
+
+Barnett, D. 2009. Yalcin on ‘Might’. Mind 118: 771-75.
+
+A proposed solution to the embedding problem for epistemic modals.
+
+
+Coates, J. 1983. The Semantics of Modal Auxiliaries. London: Croom Helm.
+
+An account of the semantics of modals in English, including a discussion of hedging with epistemic modals.
+
+
+DeRose, K. 1991. Epistemic Possibilities. The Philosophical Review 100: 581-605.
+
+An overview of context-dependent accounts of epistemic modals, and a defense of (Investigation).
+
+
+DeRose, K. 1998. Simple ‘Might’s, Indicative Possibilities and the Open Future. The Philosophical Quarterly 48: 67-82.
+
+An argument that simple “might” and “possible” sentences are used to make epistemic modal claims.
+
+
+Dougherty, T. and P. Rysiew. 2009. Fallibilism, Epistemic Possibility, and Concessive Knowledge Attributions. Philosophy and Phenomenological Research 78: 123-32.
+
+Arguments for evidence being the relevant type of information, entailment being the relevant relation, and concessive knowledge attributions being typically true, but pragmatically inappropriate.
+
+
+Egan, A. 2007. Epistemic Modals, Relativism, and Assertion. Philosophical Studies 133: 1-22.
+
+A defense of relativism about epistemic modals, as well as a discussion of an objection to relativism based on the role of assertions.
+
+
+Egan, A., J. Hawthorne, and B. Weatherson. 2005. Epistemic Modals in Context. In Contextualism in Philosophy, eds. G. Peter and P. Preyer. Oxford: Oxford University Press, 131-70
+
+An extended discussion of contextualism and a defense of relativism.
+
+
+Hacking, I. 1967. Possibility. The Philosophical Review 76: 143-68.
+
+On the salvage case as motivation for a view like (Investigation).
+
+
+Hawthorne, J. 2004. Knowledge and Lotteries. Oxford: Oxford University Press.
+
+On epistemic possibility and its relation to knowledge.
+
+
+Hintikka, J. 1962. Knowledge and Belief: An Introduction to the Logic of the Two Notions. Ithaca: Cornell University Press.
+
+Development of a logic of epistemic modality, using a knowledge-based account of epistemic possibility.
+
+
+Huemer, M. 2007. Epistemic Possibility. Synthese 156: 119-42.
+
+Overview of problems for several different accounts of epistemic possibility, concluding in a defense of the dismissing view (section 3d).
+
+
+Kripke, S. 1972. Naming and Necessity. Cambridge, MA: Harvard University Press.
+
+Distinguishes epistemic from metaphysical modality using the Hesperus/Phosphorous example.
+
+
+Lewis, D. 1996. Elusive Knowledge. Australasian Journal of Philosophy 74: 549-67.
+
+Motivation for (K2), as well as Lewis’s account of CKAs.
+
+
+MacFarlane, J. 2011. Epistemic Modals Are Assessment-Sensitive. In Epistemic Modality, eds. A. Egan and B. Weatherson. New York: Oxford University Press, 144-79.
+
+Problems for context-dependent theories and a defense of relativism.
+
+
+Moore, G. E. (ed.) 1962. Commonplace Book, 1919-1953. New York: Macmillan.
+
+Notes on knowledge, epistemic possibility, and the standard view of epistemic modals.
+
+
+Papafragou, A. 2006. Epistemic Modality and Truth Conditions. Lingua 116: 1688-702.
+
+An explanation and critique of hedging views of epistemic modals.
+
+
+Schnieder, B. 2010. Expressivism Concerning Epistemic Modals. The Philosophical Quarterly 60: 601-615.
+
+An explanation and defense of a hedging view of epistemic modals.
+
+
+Stanley, J. 2005. Fallibilism and Concessive Knowledge Attributions. Analysis 65: 126-31.
+
+An argument that CKAs are self-contradictory and that something like (K1) holds.
+
+
+Swanson, E. 2016. The Application of Constraint Semantics to the Language of Subjective Uncertainty. Journal of Philosophical Logic 45: 121-46.
+
+An alternative to the standard view of epistemic modals formulated in terms of constraints on an agent’s credences.
+
+
+Teller, P. 1972. Epistemic Possibility. Philosophia 2: 303-20.
+
+Overview of some accounts of epistemic possibility, including the problem of necessary truths for entailment and probability views.
+
+
+von Fintel, K and A. Gillies. 2008. CIA Leaks. The Philosophical Review 117: 77-98
+
+A detailed overview of the motivations for context-dependence and relativism about epistemic modal claims.
+
+
+Willer, M. 2013. Dynamics of Epistemic Modality. The Philosophical Review 122: 45-92.
+
+A dynamic semantics for epistemic modals that rejects the standard view.
+
+
+Wright, C. 2007. New Age Relativism and Epistemic Possibility: The Question of Evidence.Philosophical Issues 17: 262-283.
+
+A series of objections to relativism and concerns about the motivations for it.
+
+
+Yalcin, S. 2007. Epistemic Modals. Mind 116: 983-1026.
+
+A presentation of the embedding problem for epistemic modals and a semantics designed to solve it.
+
+
+Yalcin, S. 2011. Nonfactualism about Epistemic Modality. In Epistemic Modality, eds. A. Egan and B. Weatherson. New York: Oxford University Press, 295-333.
+
+Arguments against the standard view of epistemic modals and development of a nonfactualist account.
+
+
+
+ 
+Author Information
+Brandon Carey
+Email: brandon.carey@csus.edu
+California State University, Sacramento
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

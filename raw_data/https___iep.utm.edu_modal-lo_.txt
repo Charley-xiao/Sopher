@@ -1,0 +1,648 @@
+
+
+
+
+
+
+
+
+
+Modal Logic: Contemporary View | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modal Logic: A Contemporary View
+Modal notions go beyond the merely true or false by embedding what we say or think in a larger conceptual space referring to what might be or might have been, should be, or should have been, or can still come to be. Modal expressions occur in a remarkably wide range across natural languages, from necessity, possibility, and contingency to expressions of time, action, change, causality, information, knowledge, belief, obligation, permission, and far beyond. Accordingly, contemporary modal logic is the general study of representation for such notions and of reasoning with them.
+Although the origins of this study lie in philosophy, since the 1970s modal logic has developed equally intensive contacts with mathematics, computer science, linguistics, and economics; and this circle of contacts is still expanding. But at the same time, in its technical development, modal logic has also become something more, starting from the discovery in the 1950s and 1960s of various translations taking modal languages into systems of classical logic. Investigation of modalities has also become a study of fine-structure of expressive power, deduction, and computational complexity that sheds new light on classical logics, and interacts with them in creative ways.
+This article presents a panorama of modal logic today in the spirit of the Handbook of Modal Logic, emphasizing a shared mathematical modus operandi with classical logic, and listing themes and applications that cross between disciplines, from philosophy and mathematics to computer science and economics. While this style of presentation does not disown the metaphysical origins of modal logic, it views these as just one of many valid roads toward modal patterns of reasoning. Other roads traveled in this article run through other areas of philosophy, such as the epistemology of knowledge and belief, or even through other disciplines, such as logics of space in mathematics, or logics of programs, actions, and games in computer science and game theory.
+Table of Contents
+
+Modal Notions and Reasoning Patterns: a First Pass
+A Very Brief History of Modal Logic
+The Basic System: Modality on Graphs
+Some Active Current Applications 
+Modern Themes across the Field
+Modal Logic and Philosophy Today
+Coda: Modal Logic as a Part of Standard Logic
+Conclusion
+References and Further Reading
+
+1. Modal Notions and Reasoning Patterns: a First Pass
+Modal logic as a subject on its own started in the early twentieth century as the formal study of the philosophical notions of necessity and possibility, and this tradition is still very much alive in philosophy (Williamson 2013). In this article, however, we will paint on a larger canvas and introduce the reader to what modal logic as a field has become a century hence. Still, for a start, it is important to realize that modal notions have a long historical pedigree. They were already studied by Aristotle and then by the medieval logicians (Kneale & Kneale 1961), who noted many peculiarities of this province of reasoning. Often these studies started from raw inferential intuitions that can take several forms. We may judge some pattern to be valid (say, necessity implies truth), we may judge others to be invalid (truth does not imply necessity), or we may have ideas about connections between different modal notions, such as the necessity of some proposition  being equivalent to the impossibility that not . Modal logicians then start by introducing notation to make all this crystal-clear. Say, writing  for necessary truth of  and  for its possibility, the above claims amount to, respectively,
+
+    is valid
+    is not valid
+    is valid.
+
+ is negation. Later on, through the work of C. I. Lewis (Lewis & Langford 1932), further philosophical notions were drawn into this family, in particular, that of entailment, or ‘strict implication’, between two propositions. Whereas the plain material implication  expresses the fact that  and  do not occur together: 
+      
+ an entailment is the stronger modal assertion that the two cannot occur together: 
+      
+With this notation, we can then swing into the second professional mode of logicians, operating on these forms by valid steps of abstract reasoning to discover new insights. For instance, a few simple inference steps with plausible modal principles will show that 
+      
+ is equivalent to 
+      
+ giving another view of entailment, this time as the necessity strengthening of the material implication. With such a proof calculus in hand, we can analyze many philosophical arguments from the classical and modern literature involving modality. Famous examples abound in the work of Arthur Prior, Peter Geach, Jaakko Hintikka, Stig Kanger, Saul Kripke, David Lewis, Robert Stalnaker, and other pioneers, all the way to the new wave of philosophical logicians of today. But we can also use a logical proof calculus, once we have settled on one, independently to reveal more of the abstract system of principles governing modality.
+Still, this cozy world of intuitions and mathematical systems is not enough for many logicians. Why would some principles of modal reasoning be valid, while others are not? One common way of analyzing this further is by giving a semantic model for the meaning of the modalities that fits the earlier-stated facts. As it happens, such a model was given already centuries ago, following an idea going back to Leibniz and earlier thinkers like the Jesuit Luis Molina. We can explain the surplus of necessary truth over ordinary truth by going beyond the actual world  in terms of some larger universe  of metaphysically possible worlds. The truth of a statement  is truth at  only, while:
+the necessity statement  says that  is true in all possible worlds .
+Likewise, the existential modality  says that is  true in at least one possible world. In this way, modalities become like standard universal and existential quantifiers, ranging over some suitably chosen larger family of worlds. Despite the existence of alternatives, and the occasional attack on the above framework, this quantifier view has been dominant since the 1950s, and it has influenced all that is to come in this article.
+Note how this setting makes the interpretation of necessity relative to the choice of a model  containing all relevant possible worlds, something that will return in our later formal modal truth definition, which employs a ternary format:
+
+formula  is true in model  at world .
+Despite the metaphysical terminology, often retained for nostalgic reasons, such models have very different interpretations today. ‘Worlds’ can stand for situations, stages of a process, information states, locations in space, or just abstract points in a graph. This trend toward exploring a wider spectrum of interpretations was reinforced by the addition, in the 1950s, of a crucial further parameter (by Kanger, Hintikka, Kripke, and Montague) that increased the reach of modal logic immensely. We give each world in a model  a range of its ‘accessible worlds’, and then let ‘necessity’ (or whatever this notion turns into on a concrete interpretation) range only overall accessible worlds.
+Defining modal notions somewhat loosely as those that look beyond the actual, here, and now, natural language is full of modality, since all our thinking and actions wade in a sea of possibilities, many of them never realized, but all-important to deliberation and decision, rational or otherwise. Explicitly modal linguistic expressions show a great variety: temporal (past, present, future), epistemic (know, believe, doubt, must), normative (may, ought), or causal, while there is also a lot of implicit modality, for instance in verbs like “seek” that can even refer to presumably (one more modal expression!) non-existent worlds containing a fountain of eternal youth. There is no good definition covering all these linguistic cases, though failure of substitution of extensional equivalents is often cited as a connecting thread. A ‘modal’ sentence operator can be sensitive to the substitution of propositions with the same truth value. This criterion looks a bit ‘symptom-based’, though, and perhaps a better criterion for spotting a modality is a semantic one of expressions whose truth value may have to look ‘beyond the actual facts’. But the stability of modality also shows in characteristic inference patterns, such as the many dualities instancing the earlier equivalence
+ and its dual .
+ 
+For instance, ‘always’ is ‘not sometimes not’, or ‘ought’ is ‘not permitted that not’. Such algebraic duality patterns are so ubiquitous that in the 1950s, it was even proposed to include them in broadcasts into outer space announcing our presence to other galactic civilizations – a truly fitting endeavor for possible worlds theorists.
+By now the marriage between necessity, possible worlds, and universal quantification over these has become so ingrained that it may be hard to imagine other approaches. Nevertheless, other semantics exist for modal notions, such as the topological models we will mention later, that generalize possible worlds models in the accessibility style, and even predate them historically. In fact, it is one of those ironies of scientific life that this more general semantics was already explicit in the 1930s in Tarski’s work on modality in topology and algebra, but it did not ‘take off’ the way the possible worlds paradigm did in the 1950s. And we need not even think semantics and model theory only: a perfectly good alternative view of modality comes from proof theory. A proof-theoretic explanation of the surplus of stating a necessity  over plain truth of  is the existence of some strong a priori argument for , perhaps a mathematical proof.
+Interestingly, on the latter understanding, the ‘intensional surplus’ of modality comes as an existential, rather than a universal quantifier. And yet the proof-theoretic interpretation validates many base laws that also hold for the universal quantifier. For instance, the well-known law of Modal Distribution 
+      
+ is valid on both views, though for intuitively different reasons. With universal quantification in models, it reflects the predicate-logical law 
+      
+ while in terms of the existence of proofs, it says that proofs for  and for  can be combined into one for . This harmony between the existence of a proof of a formula and its universal truth in some suitable semantic universe is of course not unheard of: it will be familiar to students of completeness theorems for logical systems.
+Modal logic is at work in many disciplines beyond philosophy, as one can see in the 2006 Handbook of Modal Logic or the conference series Advances in Modal Logic. Van Benthem 2010 is a textbook in modal logic with the same broad thrust. This is the breadth of the field that we are after in this article, though, in the context of an Encyclopedia like this, we will be making special reference to interfaces of modal logic and philosophy, past and present, at various places.
+2. A Very Brief History of Modal Logic
+Aristotle already considered a calculus for reasoning with modal syllogistic forms like “every  is necessarily ”. The topic continued in the Middle Ages, and we still find modality firmly entrenched as a major logical notion in the famous Table of Categories in Kant’s Kritik der Reinen Vernunft. All this was swept aside in the extensional turn of Frege’s Begriffsschrift in 1879. On one telling page the author enumerates a list of things for which he sees no need – and readers of some erudition will recognize the anonymous enemy as Kant’s Table of Categories. Nevertheless, in this century modal notions made their way back onto the logical agenda, leading to extensions of classical systems with operators of necessity, possibility, entailment, and other notions.
+Over time, these formalisms have become influential as a tool for analyzing a wide range of philosophical arguments about various modal notions, such as the many beautiful examples of temporal reasoning in Prior 1967. But non-philosophical applications were never far away, starting with mathematics. Gödel 1933 showed how to embed Heyting’s intuitionistic propositional logic faithfully into the modal logic S4, Tarski 1938 showed how to axiomatize modal structures in topological spaces, and the classic paper Jónsson–Tarski 1951 provided a seminal technical apparatus for modal logic in terms of universal algebra, with representation theorems going to accessibility-based possible worlds models. Nevertheless, it is often thought that modal logic is the tool par excellence for philosophical logic, giving the practitioner just the right expressive finesse to deal with metaphysical modality, time, space, knowledge, belief, counterfactuals, deontic notions, and so on. The Handbook of Philosophical Logic (Gabbay & Guenthner, eds., 1981–1987, 2001–2007) has a wide range of pertinent illustrations, also for many topics in this article. However, our focus implies no claim to exclusivity: for some philosophical fare the right conceptual cutlery may be first- or higher-order logic rather than modal logic. Or better yet, as we shall see soon, one can use both.
+In some circles, modal logic still has a flavor of ‘alternative’ logic, a sort of counter-culture to standard systems like first-order logic. Some philosophers see the intensional character of modality as a challenge to, rather than a natural extension of extensional notions. It also seems the view enshrined in some fashionable terminology calling modal formulas not ‘true’ in models, as one does for ordinary logical languages, but ‘forced’ in some mysterious manner. This impression of exoticness is wildly obsolete, and modal languages will be a standard part of the heartland of logic in the perspective taken later on, applying also to a variety of standard topics in mathematical logic.
+Moving beyond philosophy and mathematics, since 1970, modal logic has come to flourish at interfaces with linguistics: compare the treatment of intensional operators and verbs in Montague 1974, the modal grammar of Blackburn & Meyer Viol 1994, or modal logics of context in linguistics and AI such as the one in Buvac & Mason 1994. It has also thrived in computer science with dynamic or temporal logics of programs, logics of spatial structures, or modal description logics for knowledge: see the Handbooks van Leeuwen ed. 1991, Abramsky, Gabbay & Maibaum eds. 1992, Gabbay, Hogger & Robinson eds. 1997, Aiello, Pratt & van Benthem eds. 2007, or monographs such as Fagin, Halpern, Moses & Vardi 1995, Harel, Kozen & Tiuryn 2000. In fact, the range of applications is still growing, with seminal uses of modal logic in economics (for example, logics of knowledge in the foundations of game theory: see Leyton-Brown & Shoham 2008, Perea 2011), or new ventures in argumentation theory (Grossi 2010). We cannot compile a representative bibliography for the field in an article like this. Suffice it to say that the bulk of modal logic research today, both applied and pure, takes place inside or close to computer science and related fields.
+Restated more in terms of themes, the major interpretation of modal formalisms these days fall under two main headings: information and action (van Benthem & Blackburn 2006). A typical modal formalism for analyzing information (though by no means the only one) is ‘epistemic logic’ where possible worlds are viewed as epistemic alternatives to the actual world, and the universal modality  expresses knowledge in the sense of having the semantic information that  holds. A well-known formalism for action is ‘dynamic logic’ where worlds are states of some computational process, and a labeled modality  says that all states reachable from the current one by performing action  satisfy . We will discuss both of these interpretations in more detail below. The fact that modal laws can be similar in both cases also highlights a deep conceptual duality between information and action that has also been noted by philosophers.
+In this process of expansion, but also for internal theoretical reasons that we shall see, modal operators are now often viewed as a special kind of ‘bounded quantifiers’, making modal logic, not an extension of classical logic, but rather a fragment in terms of its expressive power over possible worlds. As such its attraction acquires a new flavor. Rather than being baroque extensions of the sort that Frege rejected, modal languages have a charming austerity, and they demonstrate how ‘small is beautiful’.
+But emphasizing distance from the original philosophical habitat may be misleading. Expats may return to their homeland, and indeed, many modern themes and results of modal logic make sense inside contemporary philosophy. They find continued and even reviving spheres of application in metaphysics, mereology, epistemology, meta-ethics, and other areas – and one might even make the case that information and action are just as crucial notions to philosophy as the original metaphysical modalities.
+3. The Basic System: Modality on Graphs
+In this section, we review the basic system of propositional modal logic, emphasizing key technical features. With this in place, we will survey extensions in later sections, while ending this article with a few deeper excursions to the contemporary scene.
+Basic setting Our basic idea is simply this: we describe properties of directed graphs consisting of points (‘possible worlds’ if you like grandeur) with directed links encoded in an ‘accessibility relation’ between points. A universal modality  is true at a point in a graph if  is true at all points reachable by a directed arrow. Graphs are ubiquitous in many areas, and they are a good abstraction level for understanding what modal logic is about. And as we all know, pure high mountain air is good for you.
+The basic modal language is a useful laboratory for logical techniques. We sketch the basic modal logic of graphs, including the usual topics of language, semantics, and axiomatics. But sticking to only these would mean ordering only part of the full menu available today, depriving you of acquiring a richer palate. So, we will serve you richer fare in what follows, allowing you to appreciate more of a broader literature.
+Language and semantics We interpret formulas in models , that may be viewed as directed graphs  with annotations for proposition letters, given by the valuation  sending each proposition letter  to the set of points  where  is true. When evaluating complex formulas, one can take either the existential or the universal modality as a primitive (both have their comfort zones in logical research):
+ iff for some  with , , 
+ iff for all  with , , 
+It helps to think of points in  as states of some kind, while accessibility encodes dynamic moves that can be made to get from one state to another. But there are many other useful views of these ‘decorated graphs’, including complete ‘worlds’.
+As an example, consider the following graph:
+
+Using the above truth definition, the formula  is true at , but it is false at .
+One conceptual finesse should be stressed here that is often ill-understood. Some critics find the ‘points’ in this picture too unstructured and poor to model lush possible worlds in some pre-theoretical philosophical sense. But the total modal structure of a point includes its environment, with all its interactions with other points through the relation . This is more like way we think of ‘objects’ in category theory as given not so much by their internal structure as by their pattern of functional interactions with other points. Indeed, modal models can be viewed as categories, and this, too, has proved a valid and rich interpretation – even though it is beyond the scope of this article.
+Remark. There is a continuing historical discussion about the origins of this semantics. Often-quoted papers are Kripke 1959, 1963, but there were predecessors on the other side of the Atlantic, of which we mention Kanger 1957. To avoid taking sides through terminology, in this article, we choose neutral terms such as ‘models’ and ‘frames’.
+Expressive power and invariance for bisimulation Languages are used to define and say things, a communicative function that may even be prior to reasoning. The expressive power of a modal language, or indeed any language, can typically be measured by a notion of similarity between different models, telling us what differences in structure the language can and cannot detect. Mathematically, such an analysis calls for a suitable ‘invariance relation’, or philosophically: a ‘criterion of identity’, between models – and finding one is a test on whether one has really understood a given logic. Here is an invariance relation that fits the basic modal language: it is not standard fare in philosophical textbooks, but learn it, and you will have entered the realm of modern modal logic.
+Definition A bisimulation between two models  is a binary relation  between points  in the respective models such that, whenever , then (a)  satisfy the same proposition letters, (b1) if , then there exists a world  with both  and , (b2) the same ‘zigzag clause’ holds in the opposite direction.
+Together, this atomic harmony for proposition letters plus the two dynamic zigzag clauses that can be called again and again, make bisimulation a natural notion of process equivalence tracking possible evolutions of a process step by step. Indeed, this notion was discovered independently in modal logic, computer science, and set theory.
+Here is an example, disregarding proposition letters for simplicity. The two black worlds in the depicted models  are linked by a bisimulation consisting of all matches marked by dotted lines – but there is no bisimulation that includes a match between the black worlds in the following models  and :
+
+Here is a first case of ‘fit’: modal formulas are invariant for bisimulation.
+Invariance Lemma If  is a bisimulation between  and  with ,
+then  satisfy the same modal formulas.
+In particular, we can show the failure of bisimulation between the above models ,  by noting that  satisfies the modal formula  (with  for the constant formula ‘false’) in its root (marked as a black dot), whereas  does not.
+The converse to the Lemma only holds for a modal language with arbitrary infinite conjunctions and disjunctions – or for the plain modal language over special models.
+Proposition If  satisfy the same modal formulas in two finite models , then there exists a bisimulation  between  with .
+There are many further definability results in modal model theory. For instance, for any model  with designated point , there is an infinitary modal formula  true in only those models  that are bisimilar to  (that is, some bisimulation links  to ). Deeper model-theoretic studies of definability aspects of modal logic can be found in Blackburn, de Rijke & Venema 2001, Blackburn, van Benthem & Wolter, eds. 2006.
+Invariance is of independent interest for its emphasis on comparisons between different models, a topic that seems somewhat neglected in philosophical logic. Barwise & van Benthem 1999 even have interpolation theorems casting bisimulation in the role of ‘transfer inference’, allowing us to find out facts about one model by reasoning about another model sufficiently ‘like it’. This brings us to the second main aspect of logic, providing a calculus of reasoning for the intended area of application.
+Validity, proof systems, deductive power Universal validity in the basic modal logic is axiomatized in Hilbert-style by a system called the minimal modal logic K (for Kripke):
+(a) all laws of propositional logic
+(b) a definition of  as 
+(c) the modal distribution axiom 
+(d) the necessitation rule “if , then “
+This looks like a standard axiomatization of first-order logic with  as , and  as , but leaving out first-order axioms with tricky side conditions on freedom and bondage of terms:
+ and
+
+Modal deduction is simple quantifier reasoning in a perspicuous variable-free notation. Many other formats for modal proof systems exist, such as sequent calculus or natural deduction. Modal proof theory is still an area in progress (Wansing, ed. 1996), but important strides are being made (compare Negri 2011).
+Mathematical theory Starting from the 1970s, an extensive mathematical theory has sprung up for basic modal logic, including model theory and proof theory, while using perspectives from universal algebra. Instead of listing the classical references, we refer the reader to a modern monograph like Chagrov & Zakharyashev 1996, or the Handbook Blackburn et al. eds. 2006. In this article, we only mention a few highlights.
+Translation and invariance One basic technique for putting modal logic in a broader perspective is a translation  from modal formulas  to first-order formulas  with one free variable  having the same truth conditions on models :
+(a) ,
+(b)  commutes with Boolean operators,
+(c) .
+With some care, only 2 variables  are needed in these translations (free or bound). For instance, 
+      
+ translates faithfully into 
+      
+Here is the essential semantic feature that makes these translated modal formulas special inside the full first-order language over the signature  of models:
+Modal Invariance Theorem The following assertions are equivalent for all first-order formulas : (a)  is equivalent to a translated modal formula, (b)  is invariant for bisimulations.
+The resulting modal fragment of first-order logic turns out to share nice properties of the full system such as Compactness, Interpolation, Löwenheim-Skolem, model-theoretic preservation theorems, and others. This is not automatic inheritance, and classical meta-proofs often need to be adapted creatively using bisimulation. But unlike first-order logic, modal logic is decidable – showing fine-structure inside classical logic: with a delicate balance between expressive power and computational complexity.
+The fragment perspective is quite general: many other modal languages live inside first-order logic or other standard logics under some translation for their standard semantics. We will see later what makes these fragments so well behaved.
+Landscapism A typical feature of modal logic has to do with its historical proliferation of deductive systems: ‘modal logics’ of different proof strength inside the same basic language. On top of the minimal logic, there are uncountably many different normal modal logics given by the same rules of inference as above plus various sets of axiom schemata. This deductive landscape has two major highways, because of the following:
+Theorem Every normal modal logic is either a subset of the logic  with characteristic axiom , or of  with axiom .
+On the former road lie well-known systems like , but the latter road has landmarks such as Löb’s logic of arithmetical provability axiomatized by
+      
+Logics in this deductive landscape can be studied by proof-theoretic methods, but also semantically – once we find completeness theorems bridging the two realms.
+Completeness Let us now turn to the way in which modal logics viewed as deductive systems are correlated with semantic models. A typical completeness theorem is this:
+Theorem A modal formula is provable in  (minimal  plus the axiom ) iff it is true in all models whose accessibility relation is transitive.
+There are many techniques for proving such results, ranging from simple inspection of the canonical Henkin model of all complete theories in the logic to forms of drastic model surgery. The demand for completeness theorems comes from two sides. Either one has a pre-existing modal logic given by syntactic axioms and rules (like many first-generation modal systems), and seeks a useful matching model class – or one has a natural model class (say, some interesting space-time structure), and wishes to axiomatize its laws for simple modal reasoning. The literature is replete with both. In this survey, we do not pursue either line, but they are very well-documented (Blackburn, de Rijke & Venema 2001, Chagrov & Zakharyashev 1996, amongst many sources).
+Correspondence The correspondence between modal axioms and special properties of the accessibility relation in a class of models continues to be one of the major attractions of modal logic. It can be studied directly, calling a modal formula true in a frame  (a model stripped of its valuation) if it holds under all valuations. Many modal axioms then correspond to simple first-order properties. The Sahlqvist Theorem describes an effective method constructing first-order equivalents from modal axioms of a suitable shape, which has by now reached the world of automated theorem proving. It proceeds by substituting first-order descriptions of ‘minimal valuations’ into the first-order translation of a modal axiom to get a natural first-order equivalent, if available.
+As an instance of this procedure, a  axiom 
+      
+ has a first-order translation 
+      
+ A minimal valuation for  making the antecedent true is . Substituting this, and dropping the tautological antecedent, we obtain 
+      
+ that is, frame transitivity. Non-first-order principles are the McKinsey Axiom 
+      
+ and our earlier Löb Axiom.
+Correspondence theory has produced many general results. One classic is a theorem in Goldblatt & Thomason 1975 that we state for its form only, omitting details. A first-order frame-property is modally definable iff it is preserved under taking (a) generated subframes, (b) -morphic frame images, (c) disjoint unions, and (d) inverse ultrafilter extensions. Correspondence theory involves a study of simple modal fragments of the complex realm of monadic second-order logic, a perspective we will not pursue here.
+Digression This is the classical view of correspondence (van Benthem 1984). But one can always rethink orthodoxy. Are the usual ‘modal logics’ with their special axioms really logics, or theories of special domains over a unique minimal logic? Special frame properties are nice, but they may be in need of further explanation that suggests alternative views. For example, transitivity is an effect of closing an accessibility relation under iterations, and then  is the logic of a special closure modality definable in just the minimal -style ‘dynamic logic’ to be discussed below.
+Next, we move to two basic themes that have risen to prominence since the late twentieth century—not just in modal logic, but also for logical systems generally.
+Computation The basic modal language is a decidable miniature of first-order logic. There are many decision methods for validity or satisfiability exploiting special features of modal formulas – each with their virtues. Well-known methods are selection, filtration, and reduction, for which we refer to the literature (Marx 2006).
+But there is a deeper issue here, going beyond the traditional understanding of logical systems. What is the precise computational complexity of various key tasks for a logic, allowing us to gauge its difficulty as a device to be used seriously? These key tasks include testing for satisfiability, but also model checking for truth, as well as comparing models. Here are the facts for the basic modal logic. (a) Given a finite model  and a modal formula , checking whether  takes polynomial time in length() + size(). This is better than for first-order logic, where this task takes polynomial space. (b) Checking if a modal formula  has a model takes polynomial space in the size of . For first-order logic, this is undecidable. (c) Checking if there is a bisimulation between finite models  and  takes polynomial time in the size of these models.
+These benchmark complexities for logics differ as languages are varied. Complexity awareness may be a new feature to many logicians and philosophers, but computational behavior seems a feature of basic importance in understanding formal frameworks.
+Interaction and games The modern view of computation is one of interactive agency (compare the AAMAS conferences, http://www.ifaamas.org/index.html), and accordingly, games provide a new perspective on logics (van Benthem 2014), including modal logic. In a modal evaluation game, two players Verifier () and Falsifier () disagree about a formula at point  in a given model . Disjunction is a choice for , conjunction for , negation is a role switch,  makes  pick a point reachable from the current point,  does the same for . A game  is won by  if the atom  holds at the current point, otherwise by . A player also wins if the opponent has no move for a modality.
+The crucial equivalence governing this game is as follows:
+Fact  iff Verifier has a winning strategy for the -game in  starting at .
+Here is an example. Our first model picture when we introduced the basic semantics induces the following tree for an evaluation game for the formula 
+      
+ starting from point 1, with boldface indicating the winning positions for Verifier:
+
+In this game,  has two winning strategies: left and right, right, down. These are indeed the two possible successful ways of verifying  in the given model at point 1.
+This style of analysis is widespread in the current literature. There are also model comparison games between players Duplicator (maintaining an analogy) and Spoiler (claiming a difference), playing over pairs of points  in two given models . This may be seen as a fine-structured way of checking for existence of a bisimulation, where successor states chosen in one model by Spoiler must be matched by successors in the other model, chosen by Duplicator, while atomic harmony always remains. Without providing details, we note that in games like this, (a) Spoiler’s winning strategies in a -round game between  and  match the modal formulas of operator depth  on which the points  disagree, (b) Duplicator’s winning strategies over an infinite round game between  match the bisimulations linking  to .
+Many other logical notions can be ‘gamified’. For instance, proof games find deductions or counter-examples through a dialogue between two players about some initial claim. And always, the logical core notion turns out to match a strategy for interactive play.
+This completes our sketch of basic modal logic as a meeting place for a wide range of logical notions, techniques, and results. In Section 4, we look at some concrete modern applications in more detail, and then in Section 5, we identify further general issues to which these give rise, reinforcing the role of modal logic as a conceptual lab.
+4. Some Active Current Applications
+We have given some information on the attractions of the basic system of abstract modal logic. At the same time, it is also important to see that many different concrete interpretations can be attached to this system, and how diverse these are.
+Knowledge and belief One of the major interpretations of modal logic in use today reads modalities as operators of knowledge or belief (Hintikka 1962, Stalnaker 1984), though this reading is itself a subject of ongoing debate. Languages like this express many further basic epistemic patterns that occur in natural discourse, such as:
+     “agent  knows whether  is the case”
+On this interpretation, standard modal axioms acquire a new epistemic flavor, such as:
+‘Positive introspection’: 
+‘Negative introspection’: 
+again readings that have been subject to critical debate.
+A major new theme in the epistemic setting is a social one. Not lonely thinkers are essential to cognition, but interaction between what different agents  in a group, involving what they know about each other – in patterns such as  or . What I know about your knowledge or ignorance is crucial, both to my understanding and to my actions. For instance, I might empty your safe tonight if I believe that you do not know that I know the combination. Some forms of group knowledge transcend simple iterations of individual knowledge assertions. A key example is common knowledge: if everyone knows that your partner is unfaithful, you have private embarrassment – if it is common knowledge, you have public shame. Technically, this works as follows in our models. A new common knowledge modality  says that  holds at every world reachable via a finite chain of uncertainty relations for agents in .
+For instance, in the following picture, where epistemic accessibility is an equivalence relation, the atomic fact  holds in the current world, marked by the black dot:
+
+In the current world, our semantics yields the following further facts:
+(a) agent  does not know whether : ,
+(b) agent  does know that , while
+(c) it is common knowledge in the group  that  knows whether : .
+Incidentally, this is a good situation for  to ask  the question whether  is true: but more on epistemic actions below. Common knowledge treated in a modal style is a widely used notion by now in philosophy (Lewis 1989), but also in computer science (Fagin et al. 1995) and game theory (Aumann 1977, Battigalli & Bonanno 1999).
+Similar models can represent belief. This is often done a bit crudely by adding one more accessibility relation that is no longer reflexive to allow for false beliefs. But more illuminating is a richer approach (Grove 1988, Baltag & Smets 2008). Thinking of equivalence classes of the epistemic relation as the total range of what an agent knows, we endow these with binary plausibility orderings that encode what the agent considers less or more plausible. Then a belief modality  is interpreted as saying that  is true in all most plausible epistemically accessible worlds. And plausibility models also support a richer notion, namely a binary modality of conditional belief  saying that  is true in all most plausible epistemically accessible worlds that satisfy . Unlike the situation with conditional knowledge, conditional belief cannot be defined in terms of absolute belief. Indeed, the logic of conditional belief is much like modal logics for conditional assertions in models with similarity relations (Lewis 1973, Burgess 1981, Veltman 1985).
+Caveat Our use of the terms ‘knowledge’ and ‘belief’ is mainly a tribute to the tradition. Most philosophers and logicians no longer think of the above modalities as modeling real knowledge and belief, and think of  rather as representing the agent’s semantic information (Carnap 1947), and of  as what is true according to ‘the best of the agent’s information’. For a current modal study of how to model genuine notions of knowledge using more sophisticated philosophical intuitions, see Holliday 2012.
+Dynamic logic of action Accessibility arrows can also be viewed quite differently, not in terms of knowledge and information, but as transitions for actions viewed as changing states of some relevant process, a computation, or a general course of events (Harel, Kozen & Tiuryn 2000). Modalities now get labeled with explicit action expressions to show what they range over. In dynamic logic – originally designed to describe execution of computer programs, but now used as a general logic of action,
+ says that after every successful execution of action  holds.
+Read in this way, modal statements now relate actions to ‘postconditions’ describing their effects and also to ‘preconditions’ for their successful execution. Concrete models of this sort are process graphs describing the possible workings of some computer or abstract machine. For instance, a labeled formula  says that, at the current starting state, after every execution of action  (there may be zero, one or more ways of doing this), it is possible to then perform action  to achieve a state where  holds.
+Another concrete model for dynamic logic are games, where actions are moves available to several players. For instance, in the following game tree, player  has a strategy for achieving an outcome satisfying  against any play by player :
+
+This strategic assertion is captured by the modal formula 
+Again we get a minimal modal logic, this time a two-level system treating propositions and actions denoting transition relations on a par. This joint setup allows for an analysis of important action constructions, encoded in valid principles of dynamic logic:
+
+
+
+
+ 
+      
+
+sequential composition
+
+
+ 
+      
+
+choice
+
+
+ 
+      
+
+test for proposition 
+
+
+
+
+A major new feature here is unbounded finite repetition of actions: . This notion is typical for computation, but also for action in general (‘keep adding salt to bring up to taste’) and it is not first-order definable. This shows in two more axioms:
+
+
+
+
+ 
+      
+
+fixed-point axiom
+
+
+ 
+      
+
+induction axiom
+
+
+
+
+Dynamic logics resemble infinitary fixed-point extensions of classical logic, but with a modal stamp: like the basic modal logic, they are bisimulation-invariant and decidable, forming a core calculus for reasoning about the essentials of recursion and induction. Fixed-point definitions are ubiquitous in computer science, mathematics and linguistics, as many natural scientific notions involve recursion. An elegant powerful system of this kind generalizes dynamic logic by adding a facility for arbitrary fixed-point definitions: the so-called –calculus that we will consider briefly below.
+Information update Different kinds of modal logic can also form new combinations. For example, the logics of information change by combining knowledge and action. Our earlier epistemic formulas tell us what information agents have right now, but they do not say how this information changes, through acts of observation, communication, or learning in general. To model such cognitive actions, we need to combine epistemic and dynamic logic. One powerful idea here is an information update changes the current epistemic model. In the simplest case, reflecting a ubiquitous common-sense intuition, this update mechanism works as follows, decreasing the current epistemic range:
+a public announcement of a proposition  to a group of agents eliminates all worlds in the current epistemic model  that satisfy 
+Suppose that in our earlier two-agent two-world picture,  asks : “?” and  then truthfully answers “Yes”. Then the -world gets eliminated, and we are left with a one-world model where  has become common knowledge among {Q, A}.
+But more subtle cases are possible, even with simple models. For example, a question itself may convey crucial information. By asking,  conveys the information that she does not know whether . Even if  did not know the answer at the start, this may tell him enough to settle , and now answer the question. Here is a case where this happens:
+
+But the modeling power of epistemic dynamics is still higher. Suppose that neither  nor  knew whether , but  asks expert , who answers only to . Then  learns whether ,  is no wiser about , but it has become common knowledge that  knows if . This private act requires a new update changing models by ‘link elimination’:
+
+The modal logic of update has some delicate features. For instance, a public announcement that some formula  is the case need not always result in our learning that  holds in the updated model. The reason is that truth value switches may happen when announcing formulas  that contain a statement of ignorance. A well-known example is ‘Moore sentences’ of the form , which become false after announcement.
+Algorithms for model updates covering a wide range of communicative acts, public or private, and matching complete modal logics for formulas  have been studied extensively in dynamic epistemic logic (Baltag, Moss & Solecki 1998, van Ditmarsch et al. 2007, van Benthem 2011). Similar logics can deal with acts of belief change, triggered by the above events \(\phi\) of public ‘hard information’ or also softer triggers rearranging the current plausibility ordering (‘soft information’) to a new model supporting suitably modified absolute and conditional beliefs. Actions of plausibility change have been studied in belief revision theory (Gärdenfors & Rott 1995, Segerberg 1995), in dynamic-epistemic logics (see the earlier references on this field), and in formal learning theory (Kelly 1996, Gierasimczuk 2010).
+Intuitionistic logic and provability logic Let us now move from information and action to the grand themes of mathematics. Modal logic has also been used to model constructive reasoning as encoded in intuitionistic logic where truth is reinterpreted in terms of being established, or having a proof (Kripke 1965, Troelstra & van Dalen 1988). Our earlier models can now be viewed as universes of information stages, and accessibility is upward extension. Intuitionistic logic is then about persistent assertions that, once established, remain true upward in the information order. In particular, as mentioned earlier, Gödel 1933 gave a faithful translation from intuitionistic logic into the modal logic S4, reading intuitionistic conjunction and disjunction as their standard counterparts, but sending intuitionistic negation ~ to the strengthened modal combination , and intuitionistic implication  to the modalized material implication . The full modal language also contains non-persistent assertions beyond the translated intuitionistic language that fit with some earlier-mentioned epistemic statements such as Moore sentences that may become false after updating with new information.
+Another proof-oriented interpretation of the modal language occurs in provability logic (Boolos 1993, Artemov 2006). Here the box modality  gets interpreted as existence of a proof in some formal system of arithmetic. Note that this interpretation contains an existential, rather than a universal quantifier, as noted in our introduction. This view validates the laws of the minimal modal logic , as well as the  transitivity axiom, that can now be read as saying that given proofs can be proof-checked for correctness. But this interpretation also validates Löb’s Axiom 
+      
+ This expresses a deep fact about arithmetical provability – and in fact, provability logic and its many extensions are decidable modal core theories of high-level features of mathematical provability in theories that have the coding power to discuss their own metatheory.
+Temporal and spatial logic Still close to mathematics, another lively application area of modal logic concerns physical rather than human nature. A concrete interpretation of models is as flows of time, with accessibility as the temporal order ‘earlier than’ between points. The universal modality then says “everywhere in the future”, with a natural dual “everywhere in the past”. Temporal logics occur in linguistics and philosophy of language (Prior 1967), philosophy of science and philosophy of action (Belnap et al. 2001), but they have also reached computer science and AI, where they show a great diversity beyond the modal point of departure (see Abramsky, Gabbay & Maibaum eds. 1992, Gabbay, Hogger & Robinson eds. 1995). In particular, they can live over different primitive entities: durationless points, or extended periods (van Benthem 1983). The vocabulary of temporal logics is richer than the basic modal language. A typical case are operators saying what goes on during a successful transition: UNTIL  says that at some point later than now  holds, while at all intermediate points  holds.
+In this same physical arena, modal logics of space are gaining importance, again in use both in philosophy of science and in knowledge representation in computer science. One of these revives an old idea from the 1930s. Let our modal models be topological spaces endowed with a valuation assigning distinguished subsets to proposition letters (Tarski 1938, Aiello et al., eds. 2007). Then the modality  may be read as saying that:
+the current point lies in the topological interior of the set  of all points where  holds.
+In this way, modal laws come to encode topological facts about space. For instance,
+ says that open sets are closed under intersections.
+In fact, this interpretation validates all and only the theorems of the modal logic S4. The topological style of analysis extends to modal fragments of geometry. It provides a wide-ranging extension of our standard semantics quantifying over reachable points in graphs, which it contains as a special case. Technically, it suggests a generalized modal semantics in terms of neighborhood models, of a sort developed in the 1960s to explore axiomatic systems below the minimal modal logic  (compare Segerberg 1971, Chellas 1980, Hansen, Kupke & Pacuit 2008) by generalizing the realm of standard relational models.
+We do not intend a complete survey of all possible perspectives on modality in this article. One can consult the Handbook of Philosophical Logic for a wide array of uses that have been developed since the 1960s. To conclude here, we just mention one appealing concrete setting where many of the above strands come together naturally (van Benthem 2014).
+Agency and games Consider several agents interacting strategically, the natural scenario in much of social life. To see what we are after, consider the simple game depicted in the following tree where players have preferences encoded in pairs:
+(value for , value for ).
+The standard solution method of ‘Backward Induction’ for extensive games (compare the textbook Osborne & Rubinstein 1994) will analyze this game bottom up, telling player  to go left at her turn, which then gives player  a belief that this will happen – and so, based on this belief about his counter-player,  should turn left at the start. The resulting strategy is indicated by the two bold face lines:
+
+This may be surprising, as the outcome  is better for both than reaching . So, why should players act this way, and what are plausible alternatives? To answer such questions, a logical approach tries to understand the reasoning underlying Backward Induction. Interestingly, that reasoning is a mix of many modal notions often studied separately. It is about actions, players’ knowledge of the game, their preferences, but also their beliefs about what will happen, their plans, and counterfactual reasoning about situations that will not even be reached with the plan decided on. Thus, well-understood, one extremely simple interactive social scenario involves about the entire agenda of philosophical logic in a coherent manner.
+As a case study, the bridge law for the mix of philosophical notions driving Backward Induction is rationality: “players never choose an action whose outcomes they believe to be worse than those of some other available action”. Evidently, this statement is packed with assumptions, and logic wants to clarify these, rather than endorse any unique game-theoretic recommendation. For instance, Stalnaker 1999 analyzes games in terms of additional information about players’ policies for belief revision, another area of modal logic as explained above. Thus, once we understand the standard reasoning, we can also come up with alternatives: logic helps us see the laws, and break them.
+Game logics The preceding example suggests that a number of modal logics needs to be put together in some appropriate way. We only give one illustration, but see van Benthem 2014 for more examples. One interesting mix of our earlier epistemics and dynamics occurs in imperfect information games, where players may not know the precise moves played by their opponents. Thus, in these games, the primary epistemic uncertainty is between actions, and only in a derived sense between the resulting game states. Think of a card game where we cannot observe which initial hand Nature is dealing to our opponent, or where some mid-play moves by our opponents may be partially hidden.
+Consider the earlier game tree, but now with an uncertainty link for player  at the second stage – she does not know the opening move played by :
+
+This is a model for a joint language with epistemic modalities  and dynamic  that interact. Halfway, player  knows ‘de dicto’ that she has a winning move:
+
+but she does not know any particular winning move ‘de re’:
+
+This expresses the fact that the game depicted here is ‘non-determined’:  cannot force an outcome , but neither can  force outcome  for the game.
+The general logic of imperfect information games is the minimal dynamic logic plus epistemic ‘multi-S5’. But on top of that, the combined dynamic-epistemic language can also express modes of playing games. Take the basic game-theoretic notion of ‘Perfect Recall’. This describes players whose own actions never introduce uncertainties they did not have before. Properly understood this validates a modal interchange axiom:
+turn
+saying that what we know about the result of our own game moves is still known to us after we perform them. (To understand this, contrast the different effect of non-epistemically neutral actions such as drinking.) Thus, special modal axioms in this epistemic-dynamic language correspond with special styles of playing a game.
+Of course, there are many other modal aspects to the above story. Games are not just driven by actions and information, but crucially also by players’ goals, depending on their preferences between outcomes. Thus game logics link with modal logics of preference (Von Wright 1963, Hansson 2001, Liu 2011), and with deontic logics of agents’ obligations, rights and duties (Hilpinen 1970, 1981, or the proceedings of the DEON conferences, http://www.deonticlogic.org/). Each of these represents an area of its own with ramifications in philosophy and computer science, witness the following two references: Gabbay & Guenthner, eds., 1981, and Shoham & Leyton Brown 2008.
+And so on Modal logic keeps finding new interpretations, and no attempt can be made here to list all its current manifestations, or, in some cases, independent rediscoveries. For instance, we omitted description logics for knowledge representation (Baader et al. eds. 2003), modal logics for webpage languages (ten Cate & Marx 2009), argumentation systems (Grossi 2010), epistemology (Holliday 2012), (Hawke 2015), and so on. This process is likely to go on, since the earlier-mentioned expressiveness/complexity balance of modal languages is a natural zoom level on many topics under the sun.
+5. Modern Themes across the Field
+We have sketched a few basic features of the classical theory of deduction and definability in modal logic, added a few further themes such as invariance and complexity, and then presented a wide array of current applications or manifestations of modal logic. Of course, there are no simple divisions between pure and applied in logic (or anywhere): applications themselves generate theoretical issues, and in this section, we outline a few themes from the 1990s onward that play across many different application areas.
+Extended modal languages and hybrid logics The basic modal language is just a starting point for the analysis of modal notions, though it has acquired a sacred status over time, making extensions seem like foul play to some. Modal languages can be naturally enriched over their original models, and this has happened often, starting with the work of Prior on temporal logic. A well-known extension of this sort adds a universal modality  saying that  is true at all worlds, accessible or not. This may look like adding all of first-order logic, but this is by no means the case: the universal modality stays inside the decidable two-variable fragment of first-order logic, at a modest price in computational complexity. The  language has a matching invariance as before, now with ‘total bisimulations’ whose domains and ranges are the whole models being compared.
+The more general move here is toward hybrid logics (Goranko & Passy 1992, Blackburn & Seligman 1995, Areces & ten Cate 2006) that add more expressive power to the basic modal language, One powerful hybrid device are ‘nominals’: names for unique worlds that formalize many natural styles of reasoning. This also plugs some blatant expressive gaps in the basic modal language. For instance, much has been made of the latter’s inability to express the natural frame property of irreflexivity 
+      
+ But this property is expressed quite simply by the hybrid axiom 
+      
+ using a nominal . Nowadays, the tendency is to add such devices freely, seeking a good balance between increased expressive power and manageable complexity. Another example is the earlier temporal operator Until, which again allows for bisimulation analysis, while keeping the resulting logic decidable. An extensive study of general hybrid logics is found in (ten Cate 2005).
+While the preceding moves add ‘logical’ expressive power inside first-order logic (or beyond, as we shall see), ‘geometric extensions’ enrich the similarity type of models, adding modalities with new accessibilities. An important case are polyadic languages with -ary accessibility relations. For instance, an existential dyadic modality  holds at  iff  holds at , and  holds at . Concrete interpretations for ternary relations  abound: ‘ is the concatenation of expressions ’, ‘ is the merge of the resources or information pieces ’, or ‘ is the geometrical sum of the vectors ’.
+A limit to which many extensions of both types, logical and geometric, tend is the Guarded Fragment of first-order logic (Andréka, van Benthem & Németi 1998). This is defined inside full first-order syntax by allowing only quantifiers of a guarded form:
+
+      
+
+where  are tuples of variables,  is an atomic formula whose variables occur in any order and multiplicity, and  is a guarded formula having only variables from  free. Many modalities are guarded in this syntactic sense, witness translations such as 
+      
+      
+ This quite expressive sublanguage of first-order logic where groups of objects are only introduced ‘under guards’ still yields to modal analysis supporting a good meta-theory. The Guarded Fragment has a characteristic bisimulation, and it is decidable, be it now in doubly exponential time. These properties even transfer to extensions that can deal with temporal languages.
+Here is what is going on now. The usual landscape of modal logics is one-dimensional: it keeps the basic language constant in expressive power and varies deductive strength of special theories expressed in it. But now we have a second dimension of variation in expressive power. This new landscape is still being charted.
+Recursion, induction and fixed-point logics Another typical modern feature absent in classical modal logic are recursive definitions, whose meaning involves a process of infinite unwinding in order to reach equilibrium. In many modal systems today, recursive definitions play a role, say, for iteration of actions, common knowledge, or the description of temporal behavior on infinite histories. In principle, adding inductive definitions and recursion to classical logics leads to systems of high complexity that can encode True Arithmetic, a case in point being first-order logic with inductive definitions  that is widely used in finite model theory (Ebbinghaus & Flum 1995, Libkin 2012). However, modal logics are often robustly decidable, carrying such loads without exploding in complexity. Propositional dynamic logic itself was a case in point, being a small decidable core theory of terminating recursions. New abstract theories of induction and recursion are thriving, such as the following one (Pratt 1981):
+The modal –calculus extends the basic modal language with operators •  for ‘smallest fixed-points’ where formulas  have the following special syntactic format. The propositional variable  occurs only positively, that is, each occurrence of  in  lies in the scope of an even number of negations. The semantics for this modal language is more sophisticated than what we have seen before. In particular, the special positive syntax pattern ensures that the following ‘approximation function’ for the predicate defined implicitly by the formula .
+
+      
+
+is monotone in the inclusion order:
+whenever , then .
+On so-called ‘complete lattices’ – a special case that often suffices are power sets of standard modal models –, the Tarski-Knaster Theorem then says that monotone maps  always have a smallest fixed-point, an inclusion-smallest set of states  where . Concretely, one can always reach this smallest fixed-point  through a sequence of approximations indexed by ordinals until there is no more increase:
+
+      
+
+Now, the formula •  is said to hold in a model  at just those states that belong to the smallest fixed-point for the map . Completely dually, there are also greatest fixed-points for monotone maps, and these are denoted by formulas:
+• , with  occurring only positively in .
+Greatest fixed-points are definable from smallest ones, via the valid formula:
+• • , where  has its occurrences of  positive.
+The modal –calculus is the decidable modal core theory of induction and recursion. Incidentally, a further example of such robust decidability is the Guarded Fragment: its fixed-point extension  extending the modal –calculus is still decidable.
+There is a fast-growing literature on the –calculus (compare Blackburn, de Rijke & Venema 2000). Venema 2007 is an up-to-date study in connection with current logics for computation, where many themes that we have mentioned for the basic modal logic return in more sophisticated forms, appropriate to infinite processes.
+One more general background here is the study of ‘co-inductive’ infinite processes that are not built bottom-up, but can only be observed top-down has become a thriving area of its own in the foundations of computation and games under the name of co-algebra. Modal fixed-point logics point the way toward much more abstract new modal logics that match the category-theoretic semantics of co-inductive computation (Kurz 2001).
+What is striking in these developments is the merge of modal logic and automata theory and also game theory. Automata as perspicuous representations of modal formulas are affecting our very understanding of modal languages, and the resulting theory, of great power and elegance, may come to impact our understanding of the field as a whole.
+System combination Another major theme in modal logic today is system combination. While single modal logics may be simple, many applications require combining several such logics, as we saw with knowledge, action, and preference in games. Here, crucially, the architecture of combined systems matters. Adding simple systems together need not result in simple systems at all. It depends very much on the mode of combination. There are several ways of combining modal logics, ranging from mere ‘juxtaposition’ to more intricate forms of interaction between the component logics. There is an incipient theory of relevant modes of combination, including new constructions of ‘product’ and ‘fibering’ (Gabbay 1996). Here we only mention one important phenomenon.
+Complexity can increase rapidly when combined modal logics include what look like natural and attractive ‘commutation properties’.
+
+
+
+Fact
+The minimal modal logic of two modalities  plus the universal modality  satisfying the axiom  is undecidable.
+
+
+
+The reason is that such logics encode complex ‘tiling problems’ on the cross-product of the natural numbers (Harel 1985, Marx 2006). By methods of frame correspondence, the commutation axiom defines a grid structure satisfying a first-order convergence property:
+ 
+      
+ 
+Here is a diagram picturing this, creating a cell of a geometric grid:
+
+This complexity danger is general, and the following two mnemonic pictures may help the reader. Modal logics of trees are harmless, modal logics of grids are dangerous!
+
+Many dangerous combinations of modal systems occur in combinations of epistemic and temporal logic, and the first pioneering results were in fact proved in this area in Halpern & Vardi 1989 (compare the survey in van Benthem & Pacuit 2006).
+The general topic behind system combination, and one that seems to have attracted little attention in philosophical logic so far, is the architecture of logical systems.
+Modal predicate logic An important topic in philosophical applications of modal logic that we have mostly ignored in this survey is modal predicate logic. While this is faithful to the field as a whole (technically, modal predicate logic is just one of many system combinations), it is a serious omission for many purposes, and we will only partly make up for it by mentioning some current trends and supporting literature.
+Many philosophical issues have to do with the nature of objects and their identification across different modal situations, as explained at length in James Garson’s chapter on modal predicate logic in the Handbook of Philosophical Logic. Modal predicate logic has been important as a hotbed of discussion, both philosophical and technical. The main semantics seems obvious, annotating the possible worlds in an accessibility graph with domains of objects with predicates familiar from models for first-order logic. But a major challenge has been how to interpret assertions:
+
+      
+
+representing a predication about objects  assigned to the free variables in  from the domain of . One semantics look at accessible worlds  with  where those self-same objects occur (Kripke 1980, Hughes & Cresswell 1969), but one can also merely allow ‘counterparts’ to the  in  (Lewis 1968), an idea that has returned in sophisticated mathematical semantics for modal predicate logic where objects across worlds can only be related to each other through available functions. We will not provide further details, but refer the reader to (Rabinowicz & Segerberg 1994, Gupta & Thomason 1980, Belnap et al. 2001, Williamson 2000, 2013, Holliday & Perry 2013) for sophisticated modal predicate logics, showing how the interplay of modality, objects and predication forms a natural continuation of the modal themes in this article.
+Modern modal predicate logic is a sophisticated area, (Gabbay, Shehtman & Skvortsov, to appear). While many techniques for modal propositional logic extend to this area, the devil is in the details, and no consensus has emerged yet on a philosophically or a mathematically optimal framework for the whole field. In fact, some people feel that the underlying mathematical subtleties have to do with modal predicate logic being a ‘product logic’ of two systems (Gabbay, Kurucz, Wolter & Zakharyashev 2007) that are themselves modal in character: modal propositional logic, and predicate logic itself, and we are not clear yet on what is the most natural system combination here.
+Other mathematical approaches While this survey largely follows standard relational models for modal logic, it is important to realize that there are several other approaches in the area that have an even broader potential for theory and practice. We elaborate briefly on a few hints in this direction given earlier in this article.
+One powerful paradigm is algebraic approaches, viewing modal logic as a study of classical algebras enriched with further operators, making the subject a branch of algebraic logic (Venema 2006). Our relational models are then connected to algebras through representation theorems, a tradition started by Stone and Birkhoff in Universal Algebra, and taken to modal logic in Jónsson & Tarski 1951. In particular, viewed algebraically, modal operators can then live on quite different base logics: intuitionistic, or even much weaker ones (Andreka, Németi & Sain 2003), (Palmigiano et al. 2014).
+Another important strand of models, mentioned earlier in connection with topology, are neighborhood models with built-in world-to-set relations  and a crucial truth clause
+ iff there is a set  with  and  for all  in 
+Neighborhood semantics date back to the 1960s (Segerberg 1971, Chellas 1980), but since then, they have found many new uses in co-algebraic computation (Hansen, Kupke & Pacuit 2008), refined notions of ‘powers’ for players in games, single or in coalitions, (Pauly 2001), or ‘evidence’ in inquiry, where different neighborhood sets record ‘reasons’ or observations made in the history so far (van Benthem & Pacuit 2011).
+In particular, neighborhood models are also a general form of what are called ‘Hyper-graphs’ in mathematics, and as such, they have also been proposed in the recent philosophical literature as a way of modeling so-called {ITALIC:hyper-intensional} notions where standard logical equivalence is replaced by finer sieves for defining propositions.
+One important feature shared by these and other generalized semantics for modal logic is a change in appropriate base logics and base languages. What may be an appropriate logical language over some initially studied model class may fail to have enough power of making distinctions over a generalized model class. Modern logic is replete with examples of this phenomenon (Girard 1987, Restal 2000), and modal logic is no exception. We will encounter a concrete illustration in Section 7 below.
+What is modal logic? The wealth of theory and applications in modal logic today may seem overwhelming: the 2006 Handbook of Modal Logic runs to some 1200 pages. The question arises: What is truly ‘modal logic’? The themes in this survey give a working answer as an agenda of themes plus a modus operandi, but there are also more mathematical angles. One general abstract approach is in terms of Lindström theorems (van Benthem, ten Cate & Väänänen 2009). The basic modal logic can be shown to be maximal with respect to possessing two major properties from our earlier analysis and from first-order logic in general: invariance for bisimulation, and the compactness theorem. Further results in this vein can help us understand what makes landmark modal systems tick. However, no such results are known yet for the modal fixed-point logics that are so prominent today, and model-theoretic analysis may have to merge with notions from automata theory.
+6. Modal Logic and Philosophy Today
+With a technical survey like this, the reader may have the impression that modal logic is one of those subjects that started in philosophy, but then went their own way to become independent disciplines. But leaving the nest for good is a rigid biological view of intellectual history. Prodigal sons leave, but also return. Technical modal logic still serves as a laboratory for new notions of interest to philosophers in modal predicate logic (Williamson 2013), and further examples abound: compare (Stalnaker 2006). Moreover, as we saw with strategic reasoning in games, the unity of modal patterns in new application areas provides a new unity all across philosophical logic. Even so, some manifestations of modal logic today seem fossilized remnants, where ‘being philosophical’ means no more than using systems with forbidding names like  or  whose origins, long ago, had to do with philosophical motivations. But things can be much more lively than this.
+A good case for optimism is the interface of modal logic and epistemology. This started in the 1960s with Hintikka’s pioneering work, carried on by Lewis, Stalnaker, and others. Ever after that, the perceived inadequacies of our simple notion of knowledge have dominated discussions of issues such as logical omniscience, and introspection. What happened after is a parting of the ways. Modal logicians found ever more uses of epistemic logics, whether or not their main modality captured the philosophical notion of knowledge. At the same time, philosophers developed interesting new accounts of knowledge undreamt off in the logical tradition. The ‘relevant alternatives theory’ of Dretske 1970, and later de Rose, Lewis, Lawlor, comes with a more dynamic account of choosing relevant spaces of alternative worlds that are essential to knowledge claims. This deeply changes the behavior of basic epistemic reasoning, making for large differences with classical epistemic logic. In an alternative line, Nozick 1981 and later on, Sosa and Roush, have introduced the ‘tracking theory’ of knowledge as true belief that correctly tracks the truth over time, and also counterfactually, in worlds slightly different from the present one. And yet one more rich line is the ‘stability theory’ of knowledge as belief that survives new information or criticism, developed by Lehrer, Stalnaker, Rott, and others. Until the beginning of the twenty-first century, discussions in the philosophical and logical milieus seemed largely disjoint. However, the two streams of thought are approaching. Maintaining relevant alternatives shows clear similarities with the information dynamics discussed earlier. Tracking and stability accounts of knowledge intertwine knowledge, truth, belief, and counterfactuals in intriguing ways, also to logicians. A current wave (let) of publications is bringing the two traditions together (Holliday 2012, Baltag & Smets 2008, Holliday & Perry 2014, Hawke 2015), opening new interfaces for modal logic far beyond the usual laments about the inadequacies of Hintikka’s original system.
+And this is just one instance. Contacts between modal logic and philosophy in new modes are very much in evidence in the literature on metaphysics (Zalta 1993, Williamson 2000, 2013, Fine 2002), epistemic modals (expressions like “must”, “may”, “probably”, and so on), where modal logic meets with epistemology and philosophy of language (Swanson 2011, Yalcin 2007, Holliday & Icard 2013, Hawke & Steinert-Steinert 2015). And the same is true for social epistemology, and notions of group knowledge and information dynamics (Helzner and Hendricks 2013, Baltag & Smets 2012, List & Pettit 2002, Christof and Hansen 2015) and the epistemic foundations of game theory (Aumann 1976, Stalnaker 1999). If anything, contacts between modal logic and philosophy are livelier than ever before, though, to see this, one has to look broadly and not seek a monopoly of one favored philosophical interface.
+7. Coda: Modal Logic as a Part of Standard Logic
+In this article, pains were taken to emphasize that modal logic today in the early twenty-first century is not a sort of intensional epicycle or ornamentation of standard logical systems, but a tool inside the classical realm for analyzing the fine-structure of the rich landscape of systems that span the field of logic today. We have also emphasized that there is no case for opposition or replacement here: instead, we advocated a ‘tandem view’ of having both modal and classical perspectives at our disposal when studying some area of reasoning. A certain flexibility in bringing these to bear, though perhaps looking opportunistic to some, is in fact a hallmark of a creative attitude as a working logician.
+But as always in logic, one can keep looking at any topic in different ways. Consider the contrast between ‘poorer’ modal and ‘richer’ classical formalisms. Many people see the business of logic as zooming in on some reasoning practice, supplying more and more details until total clarity and cogency is achieved. This is how one thinks of complete formalizations in the foundations of mathematics, that can be checked by machines. Adding layers of detail and precision is one important use of logic, but there is also an inverse one, consisting rather in zooming out. In the details of some reasoning practice, there may be higher-level patterns that form a simple system of their own that can be brought in the open. Modal logics often have this zooming out character, looking at some simple but very basic patterns of reasoning inside some richer practice: say, the way in which modal logics of space find a decidable core theory inside all the reasoning that goes on in a topology textbook. These dual skills of zooming in and zooming out seem equally important to logic, and modal logic seems a powerful tool in achieving it.
+And here is one more dual view on what a modal analysis achieves. In this article, we have stressed how modal languages translate into fragments of classical languages. But as we shall see in a moment, a simple modal semantics for these fragments often suggests a generalized semantics for the complete language, yielding intriguing trade-offs between viewing modal laws as standard validities for some small part of classical first-order logic, or as the complete set of validities for a generalized view of what the full first-order language is about. While this may sound rather technical, the actual contemporary subtlety found in studies of logical systems is the best fuel for a practice-based philosophy of logic.
+In addition to these general perspectives, modal logic and classical logic also interact in the form of unusual mixes. We end with two examples that may surprise the reader.
+Modal foundations of predicate logic Predicate logic itself is a form of modal or dynamic logic. The key truth condition for the standard existential quantifier reads:
+ iff there exists an object  in  with 
+This clearly has a modal pattern for evaluating an existential modality:
+ iff there exists  with  and 
+where we now think of the points  as states of some semantic evaluation process.
+Viewed in this light, the usual laws of first-order logic are deconstructed into several layers. The ‘decidable core’ is the minimal modal logic, containing practically important ubiquitous laws such as Monotonicity: 
+      
+ This level makes no presuppositions whatsoever concerning the form of the models: they could have any kind of ‘states’ and ‘variable shift relations’ . Next, there are laws recording effects of taking states to be concrete variable assignments, connected by a special shift relation of ‘agreeing up to the value for ’. For instance, 
+      
+ expresses the transitivity of : indeed, all of S5 holds. Finally, more specifically than these first two layers, some first-order laws express existence properties that demand richness of the universe of available states. As an example, the innocent-looking law:
+
+      
+
+expresses confluence: if  and , there also exists a state  with  and . When pictured, this is a grid property as discussed before with combinations of modal logics, and indeed, it is at this third level that the undecidability of first-order logic arises. Thus, modal analysis reveals unexpected ‘fine-structure’ in the class of what is usually lumped together as ‘standard validities’: they are valid for different reasons.
+We also see another earlier phenomenon exemplified: generalized semantics supports richer languages. On our general modal models, the first-order language gets increased expressive power, since new distinctions come up. In particular, polyadic quantifiers • introducing two objects simultaneously now become different from two-step iterations • or •. Summing up, in a modal perspective, we get an unorthodox view that shifts the border line of basic logic. The (modal) core of standard first-order logic is decidable, just as Leibniz already thought – but piling up special (existential) conditions makes state sets behave so much like full function spaces  that their logic becomes undecidable, since it now encodes the mathematics of such spaces. For much more on these modal foundations of predicate logic, see (van Benthem 1996).
+Dynamic predicate logic Another new view on first-order logic emphasizes the intuitive state change implicit in evaluating an existential quantifier. The ‘dynamic semantics’ of (Groenendijk & Stokhof 1991) makes this explicit. Success is a move to a new state containing a suitable witness value for  that makes the formula true. More generally, one can then let first-order formulas denote actions of evaluation: (a) atomic formulas are ‘tests’ if the current state satisfies the relevant fact, (b) an existential quantifier picks an object and assigns it to  (‘random assignment’), (c) a substitution operator  is a ‘definite assignment’ , (d) a conjunction is sequential action ‘composition’, and (e) a negation  is a test for the ‘impossibility’ of successfully executing the action .
+The resulting ‘dynamified’ first-order logic has applications in the semantics of natural language, since pronouns “he”, “she”, “it” show this kind of dynamic behavior. One nice illustration occurs with sentences like: 
+      
+ (“if you get a kick, it hurts”). Standard folklore ‘improves’ natural language here to a first-order form: 
+      
+ But with dynamic semantics, this meaning arises automatically for the above surface form, as any value assigned by the existential move in the antecedent will be bound to  when the consequent is processed. The system has also inspired programming languages for dynamic execution of specifications. ‘Dynamic predicate logic’ is a general paradigm for bringing out the cognitive dynamics that underlies existing logical systems. This allows one to view natural language meanings in terms of updates of propositional content, perspective, and other parameters that determine the transfer of information.
+The reader should have no difficulty seeing that there is again an underlying modal logic, this time related to the dynamic logic of programs discussed earlier in this article (van Eijck & de Vries 1992, Muskens, van Benthem & Visser 1997).
+8. Conclusion
+We have discussed modal logic as lying at a crossroads of many disciplines, though we have tried to maintain the original philosophical connections, and also pointed at some promising trends reviving that particular interface. The resulting presentation is different in spirit from other surveys in current anthologies, handbooks, and encyclopedias. We presented modal logic as a tool for fine-structure analysis of expressiveness and complexity of logical systems, including the sometimes surprising effects of their combinations, and we emphasized the major application areas (information, computation, action, agency) that drive abstract theory today. As a result, we had no uniform conclusion, or definition of modal logic to offer in the end: the field seems too rich for that. Our purpose with this panorama will have been served if the reader experiences a beneficial culture shock.
+9. References and Further Reading
+
+S. Abramsky, D. Gabbay & T. Maibaum, eds., 1992, Handbook of Logic in Computer Science, Oxford University Press, Oxford.
+M. Aiello, I. Pratt & J. van Benthem, eds., 2007, Handbook of Spatial Logics, Springer Science Publishers, Heidelberg.
+H. Andréka, I. Nemeti & J. van Benthem, 1998, ‘Modal Languages and Bounded Fragments of Predicate Logic’, Journal of Philosophical Logic 27, 217–274.
+H. Andréka, I. Németi & I. Sain, 2003, ‘Algebraic Logic’, in Handbook of Philosophical Logic.
+C. Areces & B. ten Cate, 2006, ‘Hybrid Logics’, In P. Blackburn et al. eds., Handbook of Modal Logic, Elsevier, Amsterdam.
+S. Artemov, 2006, ‘Modal Logic and Mathematics’, in P. Blackburn et al., eds. Handbook of Modal Logic, 927–970.
+R. Aumann, 1976, ‘Agreeing to Disagree’, The Annals of Statistics 4:6, 1236–1239.
+F. Baader, D. Calvanese, D. L. McGuinness, D. Nardi, & P. F. Patel-Schneider, eds., 2003, The Description Logic Handbook: Theory, Implementation, Applications. Cambridge University Press, Cambridge.
+A. Baltag, L. Moss & S. Solecki, 1998, ‘The Logic of Public Announcements, Common Knowledge and Private Suspicions’, Proceedings TARK 1998, 43–56, Morgan Kaufmann Publishers, Los Altos.
+A. Baltag & S. Smets, 2008, ‘A Qualitative Theory of Dynamic Interactive Belief Revision’, in G. Bonanno, W. van der Hoek, M. Wooldridge, eds., Texts in Logic and Games Vol. 3, Amsterdam University Press, 9–58.
+A. Baltag & S. Smets, 2012, Interactive Learning, Formal Social Epistemology and Group Belief Dynamics: Logical, Probabilistic and Game-theoretic Models, Lecture Notes, ESSLLI Summer School, Opole.
+J. Barwise & J. van Benthem, 1999, ‘Interpolation, Preservation & Pebble Games’, Journal of Symbolic Logic 64, 881–903.
+P. Battigalli & G. Bonanno, 1999, ‘Recent Results on Belief, Knowledge and the Epistemic Foundations of Game Theory’, Research in Economics 53, 149–225.
+N. Belnap, M. Perloff & M. Xu, 2001, Facing the Future, Oxford Univ. Press, Oxford.
+J. van Benthem, 1983, The Logic of Time, Kluwer, Dordrecht. J. van Benthem, 1984, ‘Correspondence Theory’, in D. Gabbay & F. Guenthner, eds., Volume III, 167–247.
+J. van Benthem, 1996, Exploring Logical Dynamics, CSLI Publications, Stanford. J. van Benthem, 2010, Modal Logic for Open Minds, CSLI Publications, Stanford.
+J. van Benthem, 2011, Logical Dynamics of Information and Interaction, Cambridge University Press, Cambridge.
+J. van Benthem, 2014, Logic in Games, The MIT Press, Cambridge (Mass.).
+J. van Benthem & P. Blackburn, 2006, ‘Modal Logic, A Semantic Perspective’, In P. Blackburn et al. eds.. 2006, 1–84.
+J. van Benthem, B. ten Cate & J. Väänänen, 2009, ‘Lindström Theorems for Fragments of First-Order Logic’, Logical Methods in Computer Science 5:3, 1–27.
+J. van Benthem & E. Pacuit, 2006, ‘The Tree of Knowledge in Action’, Proceedings Advances in Modal Logic, ANU Melbourne.
+J. van Benthem & E. Pacuit, 2011, ‘Dynamic Logic of Evidence-Based Beliefs’, Studia Logica 99:1, 61–92. P. Blackburn,
+J. van Benthem & F. Wolter, eds., Handbook of Modal Logic, Elsevier Science Publishers, Amsterdam.
+P. Blackburn & W. Meyer Viol, 1994, ‘Linguistics, Logic, and Finite Trees’, Logic Journal of the IGPL 2, 3–29.
+P. Blackburn, M. de Rijke & Y. Venema, 2001, Modal Logic, Cambridge University Press, Cambridge.
+P. Blackburn & J. Seligman, 1995, ‘Hybrid Languages’, Journal of Logic, Language and Information 4, 251-272.
+G. Boolos, 1993, The Logic of Provability, Cambridge University Press, Cambridge.
+J. Burgess, 1981, ‘Quick Completeness Proofs for some Logics of Conditionals’, Notre Dame Journal of Formal Logic 22:1, 76–84.
+S. Buvac & I. Mason, 1994, ‘Propositional Logic of Context’, Proceedings AAAI, 412–419. R. Carnap, 1947, Meaning and Necessity, The University of Chicago Press, Chicago.
+B. ten Cate, 2005, Model Theory for Extended Modal Languages, Ph.D. Thesis, University of Amsterdam. ILLC Dissertation Series DS-2005-01.
+B. ten Cate & M. Marx, 2009, ‘Axiomatizing the Logical Core of XPath 2.0’, Theory Comput. Syst. 44(4): 561–589.
+A. Chagrov & M. Zakharyashev, 1996, Modal Logic, Clarendon Press, Oxford. B. Chellas, 1980, Modal Logic, An Introduction, Cambridge University Press, Cambridge.
+Z. Christof & J-U Hansen, 2015, ‘A Logic for Diffusion in Social Networks’, Journal of Applied Logic 13, 48–77.
+H. van Ditmarsch, W. van der Hoek & B. Kooi, 2007, Dynamic Epistemic Logic, Springer Science Publishers, Heidelberg.
+F. Dretske, 1970, ‘Epistemic Operators’, The Journal of Philosophy, 67, 1007–1023.
+H. D. Ebbinghaus & J. Flum, 1995, Finite Model Theory, Springer, Heidelberg.
+J. van Eijck & F-J de Vries, 1992, Dynamic Interpretation and Hoare Deduction’, Journal of Logic, Language and Information 1, 1–44.
+R. Fagin, J. Halpern, Y. Moses & M. Vardi, 1995, Reasoning About Knowledge, The MIT Press, Cambridge (Mass.).
+K. Fine, 2002, The Limits of Abstraction, Oxford University Press, Oxford. G. Frege, 1879, Begriffsschrift. Eine der Arithmetschen Nachgebildeten Formelsprache des Reinen Denkens, Louis Seifert Verlag, Halle.
+D. Gabbay, 1996, ‘Fibred Semantics and the Weaving of Logics Part 1: Modal and Intuitionistic Logics’, Journal of Symbolic Logic 61, 1057–1120.
+D. Gabbay & F. Guenthner, eds., 1981, Handbook of Philosophical Logic, four volumes, Kluwer, Dordrecht. Revised and expanded version appeared from 2001 onward with Springer Science Publishers.
+D. Gabbay, Ch. Hogger & J. Robinson, eds., 1997, Handbook of Logic in Artificial Intelligence and Logic Programming, Oxford University Press, Oxford.
+D. Gabbay, A. Kurucz, F. Wolter & M. Zakharyaschev, 2007, Many-Dimensional Modal Logics: Theory and Applications, Elsevier, Amsterdam.
+D. Gabbay, V. Shehtman, D. Skvortsov, to appear, Quantification in Nonclassical Logic, King’s College London & Moscow University of Humanities.
+P. Gärdenfors & H. Rott, 1995, ‘Belief Revision’, in D. M. Gabbay, C. J. Hogger & J. A. Robinson, eds., Handbook of Logic in Artificial Intelligence and Logic Programming 4, Oxford University Press, Oxford.
+N. Gierasimczuk, 2010, Knowing One’s Limits, Logical Analysis of Inductive Inference, Dissertation, Institute for Logic, Language and Computation, University of Amsterdam.
+J-Y Girard, 1987, ‘Linear Logic’, Theoretical Computer Science 50, 1–102. K. Gödel, 1933, ‘Eine Interpretation des Intuitionistischen Aussagenkalküls’, Ergebnisse eines Mathematischen Kolloquiums 4, 34–38.
+R. Goldblatt & S. Thomason, 1975, ‘Axiomatic Classes in Propositional Modal Logic’, in J. Crossley, ed., Algebra and Logic, Springer Lecture Notes in Mathematics 450, 163–173.
+V. Goranko & S. Passy, 1992, Using the Universal Modality: Gains and Questions, Journal of Logic and Computation 2, 5–30.
+J. Groenendijk & M Stokhof, 1991, ‘Dynamic Predicate Logic’, Linguistics and Philosophy 14, 39–100.
+D. Grossi, 2010, ‘On the Logic of Argumentation Theory’, in W. van der Hoek et al. eds., Proceedings 9th International Conference on Autonomous Agents and Multiagent Systems, Toronto, 409–416.
+A. Grove, 1988, ‘Two Modellings for Theory Change’, Journal of Philosophical Logic 17, 157–170.
+A. Gupta & R. Thomason, 1980, ‘A Theory of Conditionals in the Context of Branching Time’, Philosophical Review 89, 65–90.
+J. Halpern & M. Vardi, 1989, ‘The Complexity of Reasoning about Knowledge and Time, I: lower bounds’. Journal of Computer and System Sciences, 38(1):195–237.
+H. Hansen, C. Kupke & E. Pacuit, 2008, ‘Neighbourhood Structures: Bisimilarity and Basic Model Theory’, in D. Kozen, U. Montanari, T. Mossakowski & J. Rutten, eds., Logical Methods in Computer Science 15, 1–38.
+S. O. Hanson, 2001, ‘Preference Logic’, in D, Gabbay & F. Guenthner, eds., Handbook of Philosophical Logic IV, 319 – 393, Kluwer, Dordrecht.
+D. Harel, 1985, ‘Recurring Dominoes: Making the Highly Undecidable Highly Understandable’, Annals of Discrete Mathematics 24, 51–72.
+D. Harel, D. Kozen & J, Tiuryn, 2000, Dynamic Logic, The MIT Press, Cambridge (Mass.). P. Hawke, 2015, Knowledge and Relevance, Ph.D. Thesis, Department of Philosophy, Stanford University.
+P. Hawke & S. Steinert-Threlkeld, 2015, ‘Informational Dynamics of “Might” Assertions’, Department of Philosophy, Stanford University. Proceedings LORI 2015, Taipei.
+J. Helzner & V. Hendricks, 2013, Agency and Interaction: What we Are and What we Do in Formal Epistemology, Cambridge University Press, Cambridge.
+R. Hilpinen, ed., 1970, Deontic Logic: Introductory and Systematic Readings, Reidel, Dordrecht.
+R. Hilpinen, ed., 1981, New Studies in Deontic Logic, Reidel, Dordrecht.
+J. Hintikka, 1962, Knowledge and Belief, Cornell University Press, Ithaca.
+W. Holliday, 2012, Knowing What Follows, Epistemic Closure and Epistemic Logic, Dissertation, Department of Philosophy, Stanford University.
+W. Holliday & Th. Icard, 2013, ‘Logic, Probability and Epistemic Modality’, Departments of Philosophy, Berkeley and Stanford.
+W. Holliday & J. Perry, 2013, ‘Roles, Rigidity and Quantification in Epistemic Logic’, Departments of Philosophy, Berkeley and Stanford.
+G. Hughes & M.J. Cresswell, 1969, An Introduction to Modal Logic, Methuen, London. B. Jónsson & A. Tarski, 1951, ‘Boolean Algebras with Operators’, Parts MI Amer. J. Math. 73, 74, 891–939, 127–162.
+S. Kanger, 1957, Provability in Logic. Almqvist & Wiksell, Stockholm.
+K. Kelly, 1996, The Logic of Reliable Inquiry, Oxford University Press, Oxford.
+W. & M. Kneale, 1961, The Development of Logic, Oxford University Press, Oxford.
+S. Kripke, 1959, ‘A Completeness Theorem in Modal Logic’, The Journal of Symbolic Logic, 24, 1–14.
+S. Kripke, 1963, ‘Semantical Considerations on Modal Logic’, Acta Philosophica Fennica 16, 83–94.
+S. Kripke, 1965, ‘Semantical Analysis of Intuitionistic Logic’, in J. Crossley and M. A. E. Dummett, eds., Formal Systems and Recursive Functions, North-Holland, Amsterdam, 92–130.
+S. Kripke, 1980, Naming and Necessity. Harvard University Press, Cambridge (Mass.).
+A. Kurz, 2001, Coalgebras and Modal Logic, lecture Notes, CWI Amsterdam. J. van Leeuwen, ed., 1991, Handbook of Theoretical Computer Science, North- Holland, Amsterdam.
+C. I. Lewis & H. Langford, 1932, Symbolic Logic, Dover, New York. K. Leyton-Brown & Y. Shoham, 2008, Essentials of Game Theory: A Concise Multidisciplinary Introduction, Morgan & Claypool Publishers, San Rafael.
+D. Lewis, 1969, Convention, Harvard University Press, Cambridge (Mass.).
+D. Lewis, 1973, Counterfactuals, Blackwell, Oxford.
+L. Libkin, 2012, Elements of Finite Model Theory, Springer, Berlin. Ch. List & Ph. Pettit, 2002, ‘Aggregating Sets of Judgments: An Impossibility Result’, Economics and Philosophy, 18, 89–110.
+F. Liu, 2011, Reasoning About Preference Dynamics, Springer, Dordrecht. M. Marx, 2006, ‘Complexity of Modal Logic’, in P. Blackburn et al. eds., 139–179.
+R. Montague, 1974, Formal Philosophy, Yale University Press, New Haven.
+R. Muskens, J. van Benthem & A. Visser, 1997, ‘Dynamics’, in J. van Benthem & A. ter Meulen, eds., Handbook of Logic and Language, Elsevier, Amsterdam.
+S. Negri, 2011, ‘Proof Theory for Modal Logic’, Philosophy Compass 6/8, 523–538.
+R. Nozick, 1981, Philosophical Explanations, Harvard University Press, Cambridge (Mass.).
+M. Osborne & A. Rubinstein, 1994, A Course in Game Theory, The MIT Press, Cambridge (Mass.).
+A. Palmigiano, W. Conradie, and S. Ghilardi, 2014, ‘Unified Correspondence’, in A. Baltag & S. Smets, eds., Johan van Benthem on Logic and Information Dynamics, Outstanding Contributions to Logic, Springer, Dordrecht, 933–975.
+M. Pauly, 2001, Logic for Social Software, Dissertation, Institute for Logic, Language and Computation, University of Amsterdam.
+A. Perea, 2011, Epistemic Game Theory, Cambridge University Press, Cambridge.
+V. Pratt, 1981, ‘A Decidable Mu Calculus’, Foundations of Computer Science, SFCS 22, 421–427.
+A. Prior, 1967, Past, Present and Future, Clarendon Press, Oxford.
+W. Rabinowicz & K. Segerberg, 1994, ‘Actual Truth, Possible Knowledge’, Topoi 13, 101–115.
+G. Restal, 2000, An Introduction to Substructural Logics, London: Routledge.
+K. Segerberg, 1971, An Essay in Classical Modal Logic, Filosofiska Institutionen, University of Uppsala.
+K. Segerberg, 1995, ‘Belief Revision from the Point of View of Doxastic Logic’, Bulletin of the IGPL 3, 534–553.
+Y. Shoham & K. Leyton-Brown, 2008, Multiagent Systems: Algorithmic, Game Theoretic and Logical Foundations, Cambridge University Press, Cambridge.
+R. Stalnaker, 1984, Inquiry, The MIT Press, Cambridge, MA. R. Stalnaker, 1999, ‘Extensive and Strategic Form: Games and Models for Games’, Research in Economics 53, 293–291.
+R. Stalnaker, 2006, ‘On Logics of Knowledge and Belief’, Philosophical Studies 128, 169–199.
+E. Swanson, 2011, ‘On the Treatment of Incomparability in Ordering Semantics and Premise Semantics’, Journal of Philosophical Logic 40, 693–713.
+A. Tarski, 1938, ‘Der Aussagenkalkül und die Topologie’, Fundamenta Mathematicae 31, 103–134.
+A. Troelstra & D. van Dalen, 1988, Foundations of Constructivism, Elsevier, Amsterdam.
+F. Veltman, 1985, Logics for Conditionals, Dissertation, Philosophical Institute, University of Amsterdam.
+Y. Venema, 2006, ‘Modal Logic and Algebra’, In Handbook of Modal Logic.
+Y. Venema, 2007, Lectures on the Modal Mu–Calculus, Institute for Logic, Language and Computation, University of Amsterdam.
+H. Wansing, ed., 1996, Proof Theory of Modal Logic, Kluwer, Dordrecht.
+T. Williamson, 2000, Knowledge and its Limits, Oxford University Press, Oxford.
+T. Williamson, 2013, Modal Logic as Metaphysics, Oxford University Press, Oxford.
+G. H. von Wright, 1963, The Logic of Preference, Edinburgh University Press, Edinburgh.
+S. Yalcin, 2007, ‘Epistemic Modals’, Mind 116 (464):983–1026.
+E. Zalta, 1993, ‘A Philosophical Conception of Propositional Modal Logic’, Philosophical Topics 21:2, 263–281.
+
+Author Information
+Johan van Benthem
+Email: http://staff.fnwi.uva.nl/j.vanbenthem
+University of Amsterdam, Stanford University, and Tsinghua University
+The Netherlands, U. S. A., and China
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

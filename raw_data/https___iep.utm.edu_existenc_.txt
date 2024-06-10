@@ -1,0 +1,420 @@
+
+
+
+
+
+
+
+
+
+Existence | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Existence
+Since Thales fell into the well while gazing at the stars, philosophers have invested considerable effort in trying to understand what, how and why things exist. Even though much ink has been spilled about those questions, this article focuses on the following three questions:
+(1) What is the nature of existence?
+(2) Are there different ways/modes of existing?
+(3) Why does something exist instead of nothing?
+First, we review the main attempts to answer (1) and (2). These are questions about existence as such. Then, we show how those attempts have been used to address question (3). This is an ontological question, that is, a question, not about existence as such, rather about what exists.
+Questions (1) is addressed in Sections 1 and 2. In Section 1, we discuss the orthodox view of existence: Existence is not a property of individual objects (often called a first-order property); rather, it is a property of properties of individual objects (second-order property). In the orthodox view, this leads to the tight connection between existence and quantification, which is expressed by terms like ‘something’ or ‘everything’ in natural language—this tight connection is illustrated by common practice to refer to the particular quantifier (‘something’) as the existential quantifier. In Section 2, we discuss two recent views that disagree with the orthodox view: Meinongianism and universalism. Meinongianism is the view that claims that (the unrestricted) particular quantifier is separated from existence—it is existentially unloaded— and that existence is a first-order property. In other words, some objects in the domain of quantification lack the first-order property of existence. Universalism also takes existence as a first-order property, but disagrees with Meinongianism regarding the following two points: first, it takes existence as a universal property, namely, a property that everything has; second, it takes (the unrestricted) particular quantifier as existentially loaded.
+Question (2) is the subject matter of Section 3. To begin with, we introduce ontological pluralism, that is, the view according to which some things exist in a different way from others. After a brief historical introduction, we present a theological reason, a phenomenological reason and philosophical reason to endorse such a controversial view. Moreover, we focus our attention on how Kris McDaniel develops his own account of ontological pluralism in relation to Heidegger’s philosophy. To conclude, we briefly analyze van Inwagen’s argument against ontological pluralism and some possible replies.
+Section 4 gives an example how the views on the nature of existence contribute to considering ontological question, by wrestling with question (3). We begin by discussing van Inwagen’s statistical argument: we present his argument and summarize some of the critiques against it. Then, we present McDaniel’s approach to question (3): by relying on ontological pluralism, he argues that, instead of wondering about why there is something rather than nothing, it would be more profitable to ask why there are ‘concrete material things’ rather than no ‘concrete material things’. To conclude, we compare McDaniel’s view and the Meinongian one defended by Priest.
+Table of Contents
+
+Existence as a Second-Order Property and Its Relation to Quantification
+Existence as a First-Order Property and Its Relation to Quantification
+
+Meinongianism
+Universalism
+
+
+How Many Ways of Being Existent?
+Why Is There Something Rather than Nothing?
+Conclusion
+Appendix
+References and Further Reading
+
+1. Existence as a Second-Order Property and Its Relation to Quantification
+The orthodox view of existence, which is influenced by Frege and Quine’s view of existence, is summarized by the following two claims:
+FQ1 Existence is not a first-order property of individual objects, rather a second-order property.
+FQ2 Quantifiers are existentially loaded.
+This section gives a brief explanation of these two claims.
+To begin with, let us see how FQ1 is connected with the famous slogan that existence is not a predicate, which is often understood in the light of Kant’s claim that ‘being’ is not a real predicate. By a real predicate, he means a predicate that can be contained in a concept (or the definition of a concept) of an object. For example, the concept of the Empire State Building contains the following predicates: being a building, having a total height of 443.2 meters, and so on. These are real predicates. According to Kant, ‘being’ cannot be a part of any concept of any object. He says:
+When I think a thing, through whichever and however many predicates I like (even in its thoroughgoing determination), not the least bit gets added to the thing when I posit in addition that this thing is. (Kant, 1781/1787, A600/B628, English translation, p. 567)
+Then, what does ‘A is’ do? Kant distinguishes two different usages of ‘be’. First, being is used logically in the judgements of the form ‘A is B’, and “[i]n the logical use it [that is, being] is merely the copula of a judgment” (Kant 1781/1787, A 598/B 626, English translation, p. 567). On the other hand, when being is used in judgements of the form ‘A is’, such judgements state that all predicates in A are instantiated by an object. Since Kant regards being used in the latter way as existence, ‘A is’ is the same as ‘A exists’. So, according to Kant, the judgement ‘A exists’ tells us that some object instantiates all predicates in the concept A without adding any new predicate in A. (For more exegetical details about Kant’s notion of real predicates, see Bennett (1974) and Wiggins (1995) as classics, and Kannisto (2018) as recent work.)
+From the contemporary viewpoint, one crucial feature of Kant’s view on existence is that it takes existence not as a first-order property (a property of individual objects) but as a second-order property (a property of properties of individual objects). Frege is one of the most prominent proponents of this view. To see his point, let us first examine his view on numbers. According to Frege, a statement about how many things there are is not about individual objects, but about a property (concept, in his terminology) of individual objects. For example,
+If I say “Venus has 0 moons”, there is simply no moon nor agglomeration of moons for anything to be asserted of; but what happens is that a property is assigned to the concept “moon of Venus”, namely that of including nothing under it. (Frege, 1884, p. 59, our translation)
+Furthermore, Frege claims that existence is essentially a matter of number. He says “[a]ffirmation of existence is in fact nothing but denial of the number nought” (Frege, 1884, p. 65, English translation, p. 65), that is, existence is the second-order property of being instantiated by at least one individual object. Or, more properly, an existential statement does not attribute a first-order property to individual objects; rather, it attributes a second-order property of being instantiated by at least one individual object to a first order property—in this sense, the apparent first-order property of existence is analyzed away. Thus, (4a) and (5a) are paraphrased as (or, their logical forms are) (4b) and (5b), respectively:
+
+
+
+     (4)
+a. Dogs exist.
+
+
+
+b. The property of being a dog is instantiated by at least one individual object.
+
+
+     (5)
+a. Unicorns do not exist.
+
+
+
+b. The property of being a unicorn is not instantiated by any individual object.
+
+
+
+This way of understanding existence shows how existence is related to quantification. It is helpful for understanding the notion of quantification to compare it with the notion of reference. Reference is a way to talk about a particular object as having a property. For example, ‘Gottlob Frege’ is an expression to refer to a particular man, that is, Gottlob Frege, and by using a singular statement ‘Gottlob Frege is a mathematician’, we can talk about him as having the property of being a mathematician. Quantification is not a way to talk about a particular object, but a way to talk about quantities, that is, it is about how many things in a given domain have a property. Quantifiers are expressions for quantification. For example, ‘everything’ is a quantifier, and a statement ‘everything is fine’ says that all of the things in a given domain have the property of being fine. ‘Everything’ is a universal quantifier, since by using it we state that a property is universally instantiated by all things in the domain. ‘Something’ is also a quantifier, but it is a particular quantifier: By using it we only state that a property is instantiated by at least one particular thing in the domain, without specifying by which one(s) the property is instantiated.
+By using the particular quantifier ∃, (4b) is restated as (6a), which is read as (6b), and (5b) as (7a), which is read as (7b).
+
+
+
+     (6)
+a. ∃xdog(x)
+
+
+
+b. Something is a dog.
+
+
+     (7)
+a. ¬∃x(unicorn(x))
+
+
+
+b. Nothing is a unicorn.
+
+
+
+Since existential statements are properly paraphrased by using particular quantifiers as illustrated above, Frege holds that the particular quantifier is an existential quantifier. This connection is also endorsed in his ‘Dialog with Puenjer on Existence’ (1979), where he claims:
+Every particular judgement is an existential judgement that can be converted into the ‘there is’ [‘es gibt’] form. E. G. ‘Some bodies are light’ is the same as ‘There are light bodies’ (Frege, 1979, p. 63.)
+Frege thus endorses the view that the particular quantifier is existentially-loaded. (Even though this is a standard interpretation of Frege on quantifier and existence, it is an exegetical issue how much metaphysical significance we should find in Frege’s comments on existence. Priest claims that Frege’s usage of ‘exist’ is its idiomatic use in mathematics and thus “it is wrong to read heavy-duty metaphysics into this” (Priest, 2005/2016, p. 331).)
+The view that existence is properly expressed by quantification is hard-wired in Quine’s (1948) criterion of ontological commitment, one of the most influential theories of metaontology in 20th century (a brief explanation of the technical notions appearing in this paragraph is found in the Appendix). According to his criterion, the ontological commitment of a theory is revealed by what the theory quantifies over: More precisely, a theory is committed to the existence of objects if and only if they must be values of variables bound by quantifiers appearing in a theory in order for the theory to be true (for Quine, a theory is a set of sentences of first-order predicate logic). For example, if a biological theory contains a sentence ‘∃x population–with–genetic–diversity(x)’ (that is, ‘there are populations with genetic diversity’), the theory is committed to the existence of such populations. Quine’s criterion is more popularized as the following slogan:
+(8) To be is to be the value of a bound variable.
+‘To be’ here is understood as ‘to exist’, given that this is a criterion of ontological, that is, existential commitment. In this way, Quine’s criterion of ontological commitment inseparably ties existence and quantification. To sum, the orthodox view holds FQ1 and FQ2:
+FQ1 Existence is not a first-order property of individual objects, rather a second-order property.
+FQ2 Quantifiers are existentially loaded.
+In other words, the apparent first-order property of existence is analyzed away in terms of the second-order property of being instantiated by at least one object, and this second-order property is expressed by the particular quantifier.
+2. Existence as a First-Order Property and Its Relation to Quantification
+So far, our discussion has been about the orthodox view on the nature of existence. In this section, we review two unorthodoxies. First of all, it became popular in the early twenty-first century to deny FQ1. According to such a view, existence is a first-order property of individual objects. The proponents of this view can be further divided into two main camps. The first camp is what we call universalism, which holds that the first-order property of existence is universal in the sense that every object has it. Maintaining FQ2, the advocates of this camp usually use the unrestricted existential quantifier to define the first-order property of existence so that everything in the domain of quantification exists. The second camp is called Meinongianism, which rejects not only FQ1 but also FQ2. According to Meinongianism, existence is a non-universal first-order property in the sense that some objects lack it, and the domain of quantification contains such nonexistent objects in addition to existent ones.
+a. Meinongianism
+The main claim of Meinongianism is that some objects exist, but some don’t. Contemporary Meinongians cash out this claim by detaching existence from quantifiers. The domain of (at least unrestricted) quantification contains not only existent objects but also nonexistent ones. Thus, with all due respect to Quine, to be existent is not to be the value of a variable. This claim is usually accompanied with another unorthodoxy, that is, the view that existence is a first-order property of individual objects. Moreover, Meinongianism holds a specific version of this claim. Let us call a property instantiated by all objects a universal property, and one instantiated by only some objects a non-universal property. Then, Meinongians hold that existence is a first-order non-universal property.
+It is not easy to characterize what existence as a first-order property is (we will address this question soon). However, whatever it is, we have some intuitive ideas on what exists. Merely possible objects like flying pigs or talking donkeys do not exist; impossible objects like the round square or the perpetual motion machine do not exist; fictional characters like Doyle’s Sherlock Holmes or Murakami’s Sheep Man do not exist; mythical objects like Zeus or Pegasus do not exist; and so on. There can be some disagreement on exactly what objects should be counted as nonexistent, but such disagreement does not undermine the fact that we (at least some of us) have the intuition that some objects do not exist. Meinongians take our intuition at face value: these objects lack the property of existence. But, Meinongians continue, this doesn’t prevent us from talking about or referring to them nor from quantifying over them. We can, as the sentences in this paragraph clearly illustrate.
+Meinongians take existence as just one of many properties of individual objects—an object may have it and may not. The nonexistence of an object does not deprive the status of being a genuine object—objecthood—from the object. As a genuine object, a nonexistent object can have various properties like being possible, being a flying pig and so on. Even some object has both properties of being round and being square, and thus, of being an impossible object.
+Quine says that such an “overpopulated universe is in many ways unlovely” (Quine, 1948, p. 4), and many other theorists seem to agree with him. Putting aside such aesthetic evaluations, there are two main objections to Meinongianism that have had great influence for establishing the standard view in contemporary philosophy that Meinongianism is wrong. One is due to Russell (1905), according to which a theory that admits that even inconsistent objects are genuine objects entails contradictions: the non-square square is square and not square, and this is a contradiction. The other objection is due to Quine (1948), which says that there is no identity condition for nonexistent objects, therefore, we should not admit any of such objects as genuine objects. However, contemporary Meinongians have provided several different replies to these objections, and these lead to different versions of Meinongianism (Nuclear Meinongianism (Parsons, 1980; Routley, 1980, Jacquette, 2015), Dual-copula Meinongianism (Zalta 1988), Modal Meinongianism (Priest 2005/2016, Berto 2013)). Since this is not the right place for surveying contemporary Meinongian theories in detail, we just point out that there are consistent Meinongian theories that provide us a well-defined identity condition for existent objects and nonexistent objects. For a comprehensive and useful survey of this topic, see Berto 2013.
+Then, what is existence for Meinongians? Some Meinongians (in particular Parsons) simply rely on our intuitive notion of existence according to which some objects do not exist (Parsons, 1980, p. 10). In so doing, they do not try to define existence (Parsons, 1980, p. 11). On the other hand, some Meinongians have proposed several different definitions of existence.
+To begin with, according to Lambert, “Meinong held that existent objects are objects having location in space-time” (Lambert 1983, p. 13). Partly echoing Meinong, Zalta says “[b]y ‘exists,’ we mean ‘has a location in space’” (Zalta, 1988, p. 21). Priest has a different definition: Owing to Plato’s Sophist, he claims that “to exist is to have the potential to interact causally” (Priest, 2005/2016, p. xxviii). Given these definitions, they typically treat abstract objects like numbers or propositions as being nonexistent: they don’t have spatial locations nor causal power. Routley (1980) proposes two alternative definitions, but their formulations heavily depend on the details of his theory of nonexistent objects, and thus, we do not discuss them here (see also Rapaport, 1984; Paoletti, 2013).
+At this point, one may wonder whether Meinongians equate existence as concreteness. This is not the case. At least, Meinongians don’t need to commit themselves to the equation. First, Persons explicitly rejects to “define ‘exist’ to mean something like ‘has spatio-temporal location”’ (Parsons 1980, p. 10). Moreover, he claims that his distinction between existence and nonexistence is about concrete objects: some concrete objects exist, but some don’t (cf. ibid, p. 10). Second, Priest points out that existence and concreteness behave differently in modal contexts. For example, according to Priest (2005/2016), (9a) is true from the view point of Meinongianism, but (9b) is false. This is because (i) Holmes is concrete and (ii) if it is not concrete but abstract, it could never have been concrete, since being abstract is a necessary property.
+
+
+
+     (9)
+a. Holmes doesn’t exist, but could have existed.
+
+
+
+b. Holmes is not a concrete object, but could have been a concrete object.
+
+
+
+ote that Linsky and Zalta consider a third option which could undermine this argument: an object is neither concrete nor abstract, but could have been concrete (see Linsky and Zalta 1994; 1996).
+b. Universalism
+Even though some have an intuition that some objects do not exist (and consistent theories of nonexistent objects are available), many contemporary philosophers believe that everything exists. We call this view universalism. The main tenet of contemporary universalism is that existence is a first-order universal property which every object has. Thus it rejects FQ1. In what follows, we see how universalists define existence and confirm that they still hold FQ2.
+To begin with, let’s see Frege. Answering to the question what ‘exist’ does in the explicitly existential statements like ‘some men exist’, Frege claims that it does nothing, in the sense that the word ‘exist’ is a predicate that any object universally satisfies. He tries to make this point clear by comparing ‘exist’ with ‘identical with itself’. Assuming that ‘A exists’ means the same as ‘A is identical with itself’ for any A, He claims:
+the judgements ‘This table exists’ and ‘This table is identical with itself’ are completely self-evident, and that consequently in these judgements no real content is being predicated of this table. (Frege, 1979, pp. 62-63)
+Note that, from this, Frege concludes that the word ‘exist’ does not properly express the property of existence. Indeed, he claims that this is an example that shows how we are easily deceived by natural language (Frege, 1979, p. 67). The true notion of existence is not expressed by the predicate ‘exist’. Rather, as we have seen, according to him, it is expressed by a particular quantifier.
+Some contemporary philosophers accept the first half of Frege’s claim and reject its second half (cf. Evans, 1982; Kripke, 2013; Plantinga, 1976; Salmon, 1987; and so on). For them, it is quite legitimate to use the first-order predicate ‘exist’ as a predicate universally satisfied. Moreover, some philosophers claim not only that ‘exist’ is the first-order predicate universally satisfied but also that it expresses the property of existence, a first-order universal property. Salmon says “the [first-order] property or concept of being identical with something… is the sense or content of the predicate ‘exists’’” (Salmon, 1987, p. 64). Evans is less straightforward. According to him, the reference of the predicate ‘exist’ is “a first-level concept, true of everything” (Evans, 1982, p. 345), where a first-level concept is understood as a function from individual objects to truth values, and its sense is shown by the formula ‘∀x x satisfies ‘exist”. Finally, Plantinga says:
+Among the properties essential to all objects is existence. Some philosophers have argued that existence is not a property; these arguments, however, even when they are coherent, seem to show at most that existence is a special kind of property. And indeed it is special; like self-identity, existence is essential to each object, and necessarily so. For clearly enough, every object has existence in each world in which it exists. (Plantinga, 1976, p. 148)
+In short, he makes the following two points: (i) existence is a first-order property; (ii) it is necessarily the case that everything exists. The claim (ii) should not be confused with the claim that everything exists in every possible world. Thus, the view is compatible with the fact that whether an object exists or not is, in many cases, a contingent matter: The Empire State Building exists, but may not; the 55th state of USA does not exist, but it may; and so on.
+Kripke makes the same points with a definition of existence, while carefully distinguishing existence from self-identity (Kripke, 2013, especially pp. 36-38).
+He suggests defining x’s existence as ∃yy = x (both x and y are individual variables), he and claims that every object satisfies it. Two comments should be made. First, it is clear that this definition is based on the equation of the extension of existence and the domain of quantification and thus on the endorsement of FQ2. Second, from this definition, it follows that “‘for every x, x exists’ will be a theorem of quantification theory” (Kripke, 2013, p. 37). Thus, it is necessarily the case that everything exists: □∀x∃y(y = x) holds. However, Kripke emphasizes that this doesn’t entail that everything necessarily exists. Indeed, ∀x□∃y(y = x) doesn’t hold, while everything necessarily self-identical, that is, ∀x□x = x holds. Existence and self-identity should not be equated with each other.
+Finally let us review two main arguments for universalism. A main argument for universalism is one that appeals to the paradox of negative singular existentials (cf. Cartwright, 1960). Berto (2013, p. 6) summarizes this argument as follows:
+(P1) To deny the existence of something, one refers to that thing;
+(P2) If one refers to something, then that thing has to exist;
+(C) To deny the existence of something, that thing has to exist.
+Since (C) means that denying the existence of something is self-refuting, universalists claim, we cannot deny the existence of any object.
+This argument has had huge influence on the debates in contemporary metaphysics and compels many contemporary metaphysicians, except Meinongians. Meinongians avoid concluding (C) by rejecting (P2). Rejecting FQ2, Meinongianim holds that the domain of quantification contains nonexistent objects. And we can refer to such nonexistent objects by using referential expressions like proper names.
+Another major argument for universalism is proposed by Lewis (1990). According to Lewis, Meinongians have two different particular quantifiers: the existentially-unloaded one and the existentially-loaded one. On the other hand, the universalist has only one particular quantifier, which is existentially-loaded. Lewis claims that, contrary to what Meingnongians (in particular Routley) take for granted, the Meinongian existentially-unloaded quantifier is translated as the universalist existentially-loaded quantifier—Objecthood for Meinongians is existence for universalists. Moreover, under this translation, Lewis suspects that Meinongian distinction between what exists and what doesn’t is just a distinction between what is concrete and what is not.
+However, as we have seen, a Meinongian needs not equate existence with concreteness. Moreover, the Meinongian can adopt a notion of objecthood which is different from the universalist notion of existence. As we have seen, Kripke defines existence as ∃y(x = y). On the other hand, Priest sees the logical equivalence of objecthood with self-identity: x is an object iff x = x (Priest, 2014a, p. 437). As Kripke points out, these two notions behave differently: if we define x’s existence as x’s self-identity, it follows that everything necessarily exists. As we have seen, since this contradicts the fact that many objects only contingently exist, Kripke rejects this definition of existence (Kripke, 2013, p. 38). On the other hand, if we logically equate x’s objecthood with x’s self-identity, it follows that everything is necessarily an object. This consequence is compatible with the fact that many objects contingently exist from the Meinongian point of view, since quantification ranges over not only existent but also non-existent objects. So far we have seen two contemporary alternatives to the orthodox views. Both Meinongianism and universalism hold that existence is a first-order property of individual objects. The main difference between them is about whether existence is a universal property that every object has. According to Meinongianism, it is not: Some objects lack the property of existence. On the other hand, universalism holds that existence is a universal property. At this point, one may wonder why we cannot synthesize these two theories by holding that there are two different kinds of existence; one is universal and the other is not. While we leave this particular question as an open question, in the next section we introduce the basic ontological framework to which this line of thought straightforwardly leads us: ontological pluralism.
+3. How Many Ways of Being Existent?
+The world is packed with entities. There are tables, chairs, monuments and dreams. There are holes, cracks and shadows. There is the Eiffel Tower in Paris, Leonardo’s Mona Lisa at the Louvre and the empty set as well. Needless to say, all these entities are very different from each other. At the end of the day, we can climb the Eiffel Tower and add a mustache to the Mona Lisa; however, neither of these activities are possible with the empty set. Facing such an abundant variety of entities, some philosophers think that, even though all these entities exist, they exist in different ways. The philosophical view according to which there are different ways of existence is known as ontological pluralism.
+As Turner (2010) and McDaniel (2009; 2017) have already discussed, some historical figures have been interpreted as being committed to Ontological Pluralism. Some examples are: Aristotle (1984a; 1984b) to Saint Thomas (1993; 1961), from Meinong (1983; 1960) to Moore (1983; 1904), from Russell (1988) to Husserl (2001) and Heidegger (1962). Having said that, ontological pluralism does not simply represent an important idea in the history of philosophy. Far from being an archaeological piece in the museum of ideas, in the early twenty-first century, ontological pluralism has undergone an important revival in analytic philosophy through the works of McDaniel (2009; 2010; 2017) and Turner (2010; 2012). As Spencer points out, such a revival consists in a “defence” and “explication of the [historical] views” (Spencer 2012, p. 910).
+If we look back at the history of philosophy, it is possible to find at least two motivations in support of ontological pluralism. The first one is theological. Famously, God has some features that no other entity seems to have: for instance, He is eternal, infinite and omniscient. Having said that, some theologians believe that God is so different in kind that it is impossible for any given feature to be truly ascribed to both God and His creatures. Unfortunately, this seems to be patently false. In fact, there is at least one feature that they must share, namely existence. At this point, philosophers and theologians have tried to overcome this conundrum by endorsing ontological pluralism and by admitting that God’s existence is different than the existence his creatures enjoy (compare McDaniel 2010, p. 693).
+The second motivation is phenomenological. Phenomenologists are famous for claiming that all sorts of entities are given to us. In our everyday life, we experience tables, chairs, people and even logical concepts such as existential quantifiers and negation. Following the interpretation favoured by McDaniel (2009; 2010), Heidegger believes that, among all these entities, different ways of existence are given to us as well. For instance, we experience a first way of existence proper to pieces of equipment (that is, readiness-to-hand), a second way of existence proper to abstract entities (that is, subsistence) and a third way of existence proper to entities that are primarily characterized by spatio-temporal features (that is, presence-at-hand). If so, ontological pluralism might have a phenomenological ground (compare McDaniel 2010, p. 694).
+More recently, analytic philosophers have added a third motivation in support of ontological pluralism. Consider a material object and the space-time region in which that material objects are located. There is a sense in which these two things, somehow, exist. However, a material object exists at a certain region of space-time and, therefore, its existence is relative to that region of space-time. This is not the case for space-time regions: their existence is not relative to another space-time region. Their existence is relative to nothing at all.
+All this is supposed to show that, as suggested by McDaniel (2010) and summarized by Spencer (2012, p. 916), existence is systematically variably polyadic. On the one hand, existence can be either relative to something (see material objects) or relative to nothing (see space-time regions). This is what makes existence variably polyadic. On the other hand, there are many clusters of entities which systematically share the same kind of existence. For instance, material objects always exist at space-time regions, and space-time regions simply exist. This is what makes existence systematic. Now, according to some analytic philosophers, the fact that existence is systematically variably polyadic should nudge us to believe that material objects have one mode of existence (let’s say existence-at) and space-time regions have another mode of existence (let’s say simply-existence). Ontological pluralism is thus needed.
+Until now, we have reviewed what ontological pluralism is and what are its main motivations. What about all the different ways in which ontological pluralism has been articulated, though? Well, needless to say, in the history of philosophy, we can find many different kinds of ontological pluralism. However, in this section, we will focus our attention on the one endorsed by McDaniel because it represents an original way of combining traditions and ideas that are not commonly merged. On the one hand, McDaniel appeals to some ideas rooted continental philosophy and, on the other hand, he employs some of the formal tools which are proper to contemporary logic.
+McDaniel abandons the familiar landscape of analytic philosophy by arguing that, according to Heidegger, ‘existence’ is an analogical expression. (For an historical review of Being as an analogical expression which goes beyond Heidegger’s philosophy, see McDaniel, 2009, footnote 13.) In other words, “[‘existence’] has a generic sense, which, roughly, applies to objects of different sorts in virtue of these objects exemplifying very different features” (McDaniel 2009, p. 295). Following McDaniel’s favourite interpretation, Heidegger would certainly agree with the idea that there is a general concept of existence: exactly in virtue of its generality, this concept covers all entities whatsoever. However, Heidegger would also argue that some of these entities, in virtue of the features they exemplify, exist in a different way than others. As such, “there is multiplicity of modes of being [that is, existence]” (McDaniel 2009, p. 296). For instance, a hammer, a stone and a number all exist. However, a hammer is ready-to-hand, a number subsists and a stone is present-at-hand, as explained above.
+Having said that, McDaniel tries to formulate this idea in the most precise way possible and, in so doing, he appeals to some of the resources offered by formal logic. According to McDaniel, the general sense of existence can be spelled out through the unrestricted existential quantifier: For any entity, x, that exists, we can truly say that ∃y(y = x) (compare McDaniel 2009, p. 301). Furthermore, McDaniel believes that the various modes of existence can be represented by restricted quantifiers, that is, quantifiers ranging over some proper subsets of the domain of the unrestricted one (McDaniel 2009, p. 302). This means that, according to what we have said until now, in order to properly articulate Heidegger’s phenomenology, we should employ at least three kinds of restricted quantifiers: (1) a ready-to-hand quantifier (∃ready-to-hand) which ranges only over pieces of equipment; (2) a present-at-hand quantifier (∃present-at-hand) which ranges only over entities that are uniquely characterized by spatio-temporal features and (3) a subsistential quantifier (∃subsistence) which ranges only over abstract entities.
+Before continuing, it might be interesting to notice that McDaniel’s approach to ontological pluralism seems to be faithful to its Heideggerian roots at least in the following sense. Coherently with what Heidegger labels ontological difference, McDaniel’s ontological pluralism does not treat existence as an entity. Existence is neither a constant symbol (compare McDaniel 2009, p. 301) nor any special kind of property (compare McDaniel 2009, p. 301); otherwise, existence would appear to be, in the eyes of a philosopher engaging with first-order logic, something over which we can quantify and, therefore, an entity as well. Existence, following McDaniel, is captured by the quantifiers themselves and, for this reason, it cannot be taken to be an entity of any sort.
+Regardless of the prestigious historical heritage that grounds ontological pluralism, in the contemporary analytic debate, this theory has not always been welcome. Even though many arguments had been moved against it (compare McManus 2009; Turner 2010), the one proposed by Peter van Inwagen (1998) resonated particularly loud. To begin with, van Inwagen underscores the deep connection between the activity of quantifying over entities and the activity of counting over entities. At the end of the day, when we say that, in the drawer of my desk, there are a pen, an eraser and a ruler, we are simply saying that there are three entities in the drawer of my desk. Now, in light of this connection, it seems fair to say that, if we believe that there are different ways of existing and that these different ways are captured by different quantifiers, there should be different ways of counting too. Moreover, if there are different ways of counting, there should be different kinds of numbers as well. However, with all due respect to the ontological pluralists, this seems evidently false. When we refer to three stones, three hammers and three geometrical figures, we do not use different numerical systems. In all these cases, the number three seems to be pretty much the same. Therefore, facing such an absurd conclusion, van Inwagen declares that there cannot be more than one way of existing.
+Of course, the reply was not long in coming. First of all, while McDaniel (2009) agrees with van Inwagen that there is only one way of counting, which is represented by the unrestricted quantifier, he denies the validity of the inference that goes from the fact that there are many ways of existing to the fact that there are many ways of counting. Secondly, Turner (2010) argues that, from the fact that there are different ways of counting, it does not necessarily follow that there are different numbers. In order to argue so, he distinguishes between numbering relations (the relation between, for instance, two pens and the number two) and the numbers themselves. Against van Inwagen, Turner believes that there might be many different numbering relations and only one kind of numbers.
+A final remark: Contemporary advocates of ontological pluralism presuppose the Quinean interpretation of quantification and hold that being with its modes is equated with existence with its modes. Someone might wonder whether this is an essential feature of ontological pluralism. This is not the case. For example, Meinong is an ontological pluralist to the extent that there are at least two different ways of being, that is, existence and subsistence, but he never equated existence with being.
+4. Why Is There Something Rather than Nothing?
+This article has been concerned with the notion of existence as such. It is natural to ask how different views on existence can influence ontological questions. In this section we examine how the views presented in the previous sections have been used to address a long-standing worry in the history of ontology: Why there is something rather than nothing? In particular, we discuss a Quinean strategy (that is, the strategy presented by van Inwagen), a strategy which employs ontological pluralism (that is, the strategy presented by McDaniel) and a Meinongian strategy (that is, the strategy presented by Priest).
+Let’s begin with Peter van Inwagen, the champion of the so-called statistical argument (1996). Consider the actual world. This is the world we inhabit: in the actual world, the Eiffel Tower is in Paris, Leonardo painted the Mona Lisa and Duchamp added a moustache and a goatee to it. In the actual world, there is St. Andrews University, I miss the amazing lasagne of my grandmother and a terrible war was declared after the 11th of September 2001. This is the world we live in.
+Of course, just by using our imagination, we can fantasize about other worlds that are not ours, even though they could have been. We can imagine a first possible world in which Duchamp painted the Mona Lisa and Leonardo added a moustache and a goatee to it. We can imagine a second possible world in which St. Andrews University does not exist, a third possible world in which I hate the horrible lasagne of my grandmother and a fourth possible world in which there was no war after the 11th of September 2001. In front of this uncontrolled proliferation of worlds, someone might wonder how many possible worlds we can actually conceive. Given the boundless power of our imagination, van Inwagen replies that we can have infinite possible worlds. Among them, one and only one is an empty world, that is, a world with no entities whatsoever.
+At this point, it is important to recall that, since van Inwagen is a faithful Quinean, he understands existence in quantificational terms. This is the reason why, according to him, the theoretical framework introduced above can help us to understand why there is something (that is, there is at least an entity in the actual world) rather than nothing (that is, there are no entities in the actual world). Now, think about a lottery in which there are infinite tickets: only one of them is the lucky winner. In this case, the chance that a given ticket is the lucky winner is 0. By analogy, think about the infinite number of possible worlds described above: only one of them is the empty one. In this case, the chance that the actual world is the empty one is 0. Thus, the reason why there is something rather than nothing is that the empty world is, if not impossible, improbable as anything else.
+Needless to say, many philosophers did not miss the opportunity to challenge this argument. Some of them have discussed the explanatory power of van Inwagen’s argument (see Sober 1983). Some others have debated van Inwagen’s assumption about the uniqueness of the empty world (see Grant 1981; Heil 2013; Carroll 1994). However, a very different approach has been proposed by Kris McDaniel (2013). He provocatively asks: What if it is not really philosophically important to establish why there is something rather than nothing? What if this riddle is just a silly question we might want to forget and move on to more interesting topics? Perhaps, McDaniel suggests, there are better questions to be asked. Let’s see why.
+McDaniel is very serious about absences. This might be taken to be unsurprising since we all engage with them in a fairly liberal way. According to McDaniel, all of us are able to count absences, be gripped by grief because of them and ruminate on them. If we have a philosophical training, we might be able to classify them in different kinds as well. For instance, the shadow is one kind of absence (that is, the absence of light) while a hole is another kind of absence (that is, the absence of matter). In light of all these observations, McDaniel concludes that (a) an absence is something and (b) this something exists. He writes: “the absence of Fs exists if and only if there are no Fs” (McDaniel, 2013, p. 277).
+Now, given what we wrote above, worrying about why there is something rather than nothing turns into a trivial matter. Consistent with the intuition defended by Baldwin (1996) and Priest (2014b), McDaniel argues that, when we use ‘nothing’ as a term, it is natural to think that it refers to a global absence: the absence of everything. If so, this absence is something and, consequently, it exists. This means that, even if there were nothing, the absence of everything would exist and, therefore, there would be something.
+At this point, two remarks are necessary. First of all, McDaniel does not want to be committed to the line of thought presented above. At best, he cautiously claims that “it is not clearly incorrect” (McDaniel, 2013, p. 278). However, McDaniel is convinced that such a line of thought represents a warning light: in seeking the reason why there is something rather than nothing, we might easily discover that this worry is a pretty superficial one. According to McDaniel, we might avoid this danger by looking at the problem as an ontological pluralist and by moving our attention from the general meaning of existence (that is, the unrestricted quantifier) to some specific modes of existence (that is, the restricted quantifier). In other words, McDaniel suggests that it would be safer and more profitable to engage with what he labels a Narrow Question: why are there ‘concrete material things’ rather than no ‘concrete material things’?
+The second remark is concerned with Meinongiansim. In a passing remark (2014b, p. 56), Priest runs a similar argument to the one presented by McDaniel. Like McDaniel, Priest takes ‘nothing’ to be a term which refers to a global absence. Furthermore, like McDaniel, he argues that there is something rather than nothing because, even when there is nothing, there is something, namely the absence of everything. It is interesting to notice that the difference between the two positions is all about their understanding of existence. According to McDaniel, existence in always spelled out in quantificational terms. As such, since there is something like the absence of everything, this something exists. Now, Priest believes that there is something like the absence of everything as well; however, contrary to McDaniel and given his Meinongian credo, he can still hold the position that it does not exist. From this point of view, given Priest’s Meinongian stance, wondering why there is something rather than nothing is not necessarily equivalent to wondering why something exists rather than nothing. This is all meant to show how different accounts of existence can generate different ways of understanding and answering one of the oldest philosophical questions: why is there something rather than nothing?
+5. Conclusion
+Here we are at the end of our survey about existence. Even though we covered a lot of material, it is fair to say that there are even more topics that, unfortunately, we don’t have space to address. For instance, in this article, we did not review the current philosophical debate devoted to understanding what kinds of things exist. A prominent example of this philosophical enterprise is represented by the dispute between nominalism and realism about properties. Furthermore, much more could have been said about the philosophical attempt of spelling out which things, in a given kind, exist. For instance, as we did not cover the debate on whether properties are abundant or sparse, we did not present the dispute about whether mathematical objects or fictional characters exist either. Finally, in order to suggest that there are many different ways in which ontological pluralism has been understood, we could not do more than present a long and, nonetheless, incomplete list of names.
+Having said that, we hope that this article helps readers to navigate the extremely rich secondary literature about existence. We have tried to give a fairly complete overview of the most important ways of understanding such a complicated topic while, at the same time, trying to underscore the importance of the more unorthodox and under-considered philosophical accounts of existence. Given this abundance of intuitions, ideas, philosophical traditions, and ontological accounts, the hope is that the present work can represent, on the one hand, a helpful map to orient ourselves in this vast debate and, on the other hand, a nudge to explore new directions of research.
+6. Appendix
+In the formal language of logic, a quantifier like ∃ or ∀ is prefixed to a sentence together with a variable to form a new sentence. For example, dog(x) is a sentence, and prefixing ∃ together with a variable x to it results in a new quantificational sentence, that is, ∃xdog(x). A quantifier prefixed to a sentence together with a variable x binds every occurrence of x in the sentence in so far as it is not bound by another quantifier. So the variable x in dog(x) in ∃xdog(x) is bound by ∃ appearing at its beginning. Now, consider a formula that contains an unbound—free—variable x:
+(10) dog(x) x is a dog
+In (10), x is, so to speak, a blank which we can fill with different values. Note that it is nonsense to ask whether (10) intrinsically is true or not, as the question ‘is x plus 4 6?’ is an unanswerable question. Sentences like (10) are truth-evaluable only relative to a value that fills the blank—a value that is assigned to x: If we fill the blank with a particular dog, say, Fido, the result is true; if we do with a particular man, say, Frege, the result is false. The truth conditions of quantificational sentences like ∃xdog(x) or ∀xdog(x) are defined by using values of variables bound by quantifiers:
+
+
+
+(11)
+a.
+∃xdog(x) is true iff for some value d, dog(x) is true relative to d assigned to x
+
+
+(12)
+b.
+∀xdog(x) is true iff for any value d, dog(x) is true relative to d assigned to x
+
+
+
+The domain of quantification is the set of things that can be values of variables of quantification.
+7. References and Further Reading
+
+Aquinas, T. (1993). Selected Philosophical Writings, Oxford University Press.
+Aquinas, T. (1961). Commentary on the Metaphysics of Aristotle. Volume I, Henry Regnery Company.
+Aristotle. (1984a). The Complete Works of Aristotle. Volume I, Oxford University Press.
+Aristotle. (1984b). The Complete Works of Aristotle. Volume II, Oxford University Press.
+Baldwin, T. (1996). ‘There might be nothing’, Analysis, 56: 231 ‒ 38.
+Bennett, J. (1974). Kant’s Dialectic, Cambridge, Cambridge University Press.
+Berto, F. (2013). Existence as A Real Property: The Ontology of Meinongianism, London: Springer.
+Berto, F. and Plebani, M. (2015). Ontology and Metaontology: A contemporary Guide, London: Bloomsbury Academic.
+Carroll, J. W. (1994). Laws of Nature, Cambridge: Cambridge University Press.
+Cartwrite, R. (1960). ‘Negative existentials’, Journal of Philosophy, 57, 629-639.
+Casati, F., and Fujikawa, N. (2019). ‘Nothingness, Meinongianism and inconsistent mereology’. Synthese, 196(9), 3739-3772.
+Chisolm, R. (1960(. Realism and the Background of Phenomenology, The Free Press.
+Evans, G. (1982). The Varieties of Reference, Oxford: Clarendon Press.
+Findlay, J. N., (1963). Meinong’s Theory of Objects and Values, Second, Clarendon Press, Oxford University Press.
+Fine, K. (1982). ‘The problem of non-existents’, Topoi, 1: 97-140.
+Frege, G. (1884). Die Grundlagen der Arithmetik: Eine Logisch Mathematische Untersuchung ueber den Begriff der Zahl, Breslau: Verlag von Wilhelm Koebner. (English translation, The Foundation of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number, Second Revised Edition, translated by J. L. Austin, Oxford: Basil Blackwell, 1968).
+Frege, G. (1979). Posthumous Writings, Oxford: Basil Blackwell.
+Grant, E. (1981). Much ado about Nothing. Theories of Space and Vacuum from the Middle Ages to the Scientific Revolution, Cambridge: Cambridge University Press.
+Heidegger, M. (1962). Being and Time, Harper & Row Publishing.
+Heil, J. (2013). ‘Contingency’, in The Puzzle of Existence, Tyron Goldschmidt (ed.), New York: Routledge, 167 ‒ 181
+Husserl, E. (2001). Logical Investigations. Volume II, Routledge Press.
+Jacquette, D. (2015). Alexius Meaning: the Shepherd of Non-Being, (Synthese Library, vol 360), Springer.
+Kannisto, T. (2018). ‘Kant and Frege on existence’, Synthese, 195: 34073432.
+Kant, I. (1781/1787). Kritique der Reinen Vernunft. English translation: Guyer, R. and A. W. Wood (trans and eds). (1998), Critique of Pure reason, The Cambridge Edition of the works of Immanuel Kant, Cambridge: Cambridge University Press.
+Kripke, S. (2013). Reference and Existence: The John Locke Lectures, Oxford: Oxford University Press.
+Lambert, K. (1983). Meinong and the Principle of Independence: its Place in Meinong’s Theory of Objects and its Significance in Contemporary Philosophical Logic, Cambridge: Cambridge University Press.
+Lewis, D. (1990). ‘Noneism or allism?’, Mind, 99, 23-31.
+Linsky, B., and Zalta, E. (1994). ‘In defense of the simplest quantified modal logic’, Philosophical Perspectives 8: Logic and Language, J. Tomberlin (ed.), Atascadero: Ridgeview, 431-458.
+Linsky, B., and Zalta, E. (1996). ‘In defense of the contingently concrete’, Philosophical Studies, 84: 283-294.
+McDaniel, K. (2009). ‘Ways of being’ in Chalmers, Manley and Wasserman (eds.) Metametaphysics, Oxford University Press.
+McDaniel, K. (2010). ‘A return to the analogy of being’, Philosophy and Phenomenological Research, 81: 688-717.
+McDaniel, K. (2013). ‘Ontological pluralism, the gradation of being, and the question of why there is something rather than nothing’, in The Philosophy of Existence, Tyron Goldschmidt (ed.), New York: Routledge, 290-320. [33] McDaniel, K. (2017). The Fragmentation of Being. Oxford University Press.
+Meinong, A. (1960). ‘On the Theory of Objects’ in Chisholm. 1960.
+Meinong, A. (1983). On Assumptions, University of California Press.
+Paoletti, M. (2013), ‘Commentary on Exploring Meinong’s Jungle and Beyond: an Investigation of Noneism and the Theory of Items’, Humana. Mente: Journal of Philosophical Studies, 25. 275-292.
+Parsons, T. (1980). Nonexistent Objects, New Haven: Yale University Press.
+Plantinga, A. (1976). ‘Actualism and possible worlds’, Theoria, 42, 139160.
+Priest, G. (2014a). ‘Sein language’, The Monist, 97(4), 430-442.
+Priest, G. (2014b). One: Being an Investigation into the Unity of Reality and of its Parts, including the Singular Object which is Nothingness, Oxford: Oxford University Press.
+Priest, G. (2005/2016). Towards Non-Being: The Logic and Metaphysics of Intentionality, the 2nd Edition, Oxford: Oxford University Press.
+Rapaport, W. (1984). ‘Review of Exploring Meinong’s JUngle and Beyond’, Philosophy and Phenomenological Research, 44(4), 539-552.
+Quine, W. V. O. (1948). ‘On what there is’, in Review of Metaphysics, 48, 21-38, reprinted in Quine, W. V. O.(1953). From a Logical Point of View, Cambridge: Harvard University Press, pp. 1-19.
+Routley, R. (1980). Exploring Meinong’s Jungle and Beyond, Canberra: RSSS, Australian National University.
+Russell, B. (1905). ‘On denoting’, Mind, 14, No. 56, pp. 479-493.
+Russell, B. (1988). The Problems of Philosophy, Prometheus Books.
+Salmon, N. (1987). ‘Existence’, Philosophical Perspetives 1: 49-108.
+Sober, E. (1983). ‘Equilibrium explanation’, Philosophical Studies, 43: 201210.
+Sylvan, R. (1995). ‘Re-exploring item-theory’, Grazer Philosophische Studien, 50, 47-85.
+Sylvan, R. (1997). Transcendental Metaphysics: From Radical to Deep Pluralism, Isle of Harris: White Horse Press.
+Spencer, J. (2012). ‘Ways of being’, Philosophy Compass, 12: 910 ‒ 918.
+Turner, J. (2010). ‘Ontological pluralism’, The Journal of Philosophy, 107: 5 ‒ 34.
+Turner, J. (2012). ‘Logic and ontological pluralism’, Journal of Philosophical Logic, 41: 419-448.
+Van Inwagen, P. (1996). ‘Why Is there anything at all?’, Proceedings of the Aristotelian Society, 70: 95-110.
+Van Inwagen, Peter. (1998). ‘Meta-ontology’, Erkenntnis, 48: 233-250.
+Wiggins, D. (1995). ‘The Kant-Frege-Russell view of existence: toward the rehabilitation of the second-level view’, in Modality, Morality and Belief, Essays in Honor of Ruth Barcan Marcus.
+
+ 
+Author Information
+Filippo Casati
+Email: filippo.g.e.casati@gmail.com
+The University of Lehigh
+U. S. A.
+and
+Naoya Fujikawa
+Email: fjnaoya@gmail.com
+The University of Tokyo
+Japan
+ 
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

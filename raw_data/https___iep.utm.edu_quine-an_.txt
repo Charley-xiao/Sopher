@@ -1,0 +1,271 @@
+
+
+
+
+
+
+
+
+
+Quine, Willard Van Orman: Analytic/Synthetic Distinction | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Willard Van Orman Quine: The Analytic/Synthetic Distinction
+Willard Van Orman Quine was one of the most well-known American “analytic” philosophers of the twentieth century. He made significant contributions to many areas of philosophy, including philosophy of language, logic, epistemology, philosophy of science, and philosophy of mind/psychology (behaviorism). However, he is best known for his rejection of the analytic/synthetic distinction. Technically, this is the distinction between statements true in virtue of the meanings of their terms (like “a bachelor is an unmarried man”) and statements whose truth is a function not simply of the meanings of terms, but of the way the world is (such as, “That bachelor is wearing a grey suit”). Although a contentious thesis, analyticity has been a popular explanation, especially among empiricists, both for the necessity of necessary truths and for the a priori knowability of some truths. Thus, in some contexts “analytic truth,” “necessary truth,” and “a priori truth” have been used interchangeably, and the analytic/synthetic distinction has been treated as equivalent to the distinctions between necessary and contingent truths, and between a priori and a posteriori (or empirical) truths. Empirical truths can be known only by empirical verification, rather than by “unpacking” the meanings of the terms involved, and are usually thought to be contingent.
+Quine wrestled with the analytic/synthetic distinction for years, but he did not make his thoughts public until 1950, when he delivered his paper, “The Two Dogmas of Empiricism” at a meeting of the American Philosophical Association. In this paper, Quine argues that all attempts to define and understand analyticity are circular. Therefore, the notion of analyticity should be rejected (along with, of course, the spurious distinction in which it features). This rejection has inspired debates and discussions for decades. For one thing, if Quine is right, and there are no truly necessary truths (that is, analytic truths), metaphysics, which traffics in such truths, is effectively dead.
+Quine is generally classified as an analytic philosopher (where this sense of “analytic” has little to do with the analytic/synthetic distinction) because of the attention he pays to language and logic. He also employed a “naturalistic” method, which generally speaking, is an empirical, scientific method. A metaphysical approach was not an option for Quine, primarily because of his thoughts on analyticity.
+Both because of the influence of “The Two Dogmas of Empircism” in analytic circles,  and because its perspective on analyticity is foundational to every other aspect of Quine’s thought—to his philosophies of language and logic, to his naturalistic epistemology, and to his anti-metaphysical stance—a survey of Quine’s thought on analyticity is perhaps the best introduction to his thought as a whole.
+Table of Contents
+
+Life and Influences
+The Analytic/Synthetic Distinction: A Focus on Analyticity 
+Metaphysics: Some Implications
+References and Further Reading
+
+1. Life and Influences
+Willard Van Orman Quine was born on June 25, 1908 in Akron Ohio. As a teenager, he was an avid stamp collector and a budding cartographer. One of his first publications was a free-hand map of the Portage Lakes of Ohio, which he sold for pennies to lakefront stores. When he was sixteen, Quine wrote the first edition of O.K. Stamp News, which was distributed to stamp collectors and dealers. Quine went on to write and distribute six more editions of the philatelic newspaper before moving on to new interests. One of these interests included active participation in the lighthearted “Greeter Club,” where members were required to call each other by their middle names (and engage in other sorts of playful word games). At this point, Quine became known as “Van” to his friends, a moniker that stuck with him for the rest of his life.
+Quine received his undergraduate degree from OberlinCollege, in Oberlin, Ohio. He majored in mathematics with honors in mathematical philosophy and mathematical logic. During his college years, along with cultivating his interest in mathematics, mathematical logic, linguistics and philosophy, Quine began his secondary career as an intrepid traveler. He hitchhiked to, at least, Virginia, Kentucky, Canada and Michigan. In 1928, he made his way to Denver and back with a few friends, hopping freight trains, hitchhiking, and riding on running boards. Lodging often included jail houses (where one could sleep for free in relative safety), park benches and the ground. At the end of his junior year, he traveled to Europe. Quine writes in his autobiography, The Time of My Life: “An interest in foreign languages, like an interest in stamps, accorded with my taste for geography. Grammar, moreover, appeals to the same sense that is gratified by mathematics, or by the structure of boundaries and road networks” (Quine, 1987: 38).
+During his junior year at Oberlin, Quine became immersed in Whitehead and Russell’s Principia Mathematica. Whitehead was a member of Harvard’s Philosophy Department, so Quine decided to apply to their doctoral program in philosophy. Graduating from Oberlin with an A- average, he was accepted, and received his Ph.D. in 2 years, at age twenty-three. Broadly speaking, his thesis sought to extensionalize the properties that populated the Principia. For our purposes, we may understand an extensional definition as a set of particular things. For instance, the extensional definition of a cat would consist of the set of all cats and the extensional definition of the property orange would consist of the set of all orange things (which could include things that are only partly orange). In Quine’s dissertation, we see his first concerted effort to do away with definitions that are not extensional, that is, with intensional definitions. Intensional definitions are, broadly speaking, generalizations, where particular things (for example, particular cats) are not employed in the definition. For instance, the intensional definition of a cat might be something like “four-legged feline mammal,” and likewise, the intensional definition of the property “orange” might be “a color that is the combination of yellow and red.” To some degree, Quine’s distaste for intensional definitions is rooted in Berkeley and Hume; also see the article on “the Classical theory of Concepts,” section 2 ). Generally speaking, Quine thought that intensional definitions, and likewise, “meanings” were vague, mentalistic entities; out of touch with the concrete particulars that comprise extensional definitions.
+Quine’s use/mention distinction also first saw the light of day in his dissertation. This distinction underlines the difference between objects and names of objects. For instance, an actual cat, say Hercules the cat, is to be distinguished from the name ‘Hercules’. Quine uses single quotation marks to denote a name. Thus, Hercules the cat is orange and white, but the name ‘Hercules’ is not. Rather, the name ‘Hercules’ has other properties, for example, it begins with the letter ‘H’.  An actual object (for example, Hercules the cat) is mentioned, and we use a name (that is, ‘Hercules’) to do so.
+After completing his dissertation in 1932, Quine was awarded a Sheldon Traveling Fellowship by Harvard. Taking the advice of Hebert Feigl and John Cooley, Quine, along with his first wife Naomi Clayton, set off for Europe to study with Rudolf Carnap. This would prove to be a momentous trip; Carnap had a singular and lasting influence on Quine. For although he initially agreed with much of what Carnap had to say, a number of Quine’s most distinctive ideas emerged as a result of rejecting some of Carnap’s more fundamental positions. Of particular importance is Quine’s rejection of the distinction between analytic and synthetic statements. Although the analytic/synthetic distinction had been a staple of the empiricist tradition since at least Hume, Quine was especially concerned with Carnap’s formulation of it.
+2. The Analytic/Synthetic Distinction: A Focus on Analyticity
+As Quine understood it (via Carnap), analytic truths are true as a result of their meaning. For instance, the statement “All bachelors are unmarried men” is true because being a “bachelor” means being an “unmarried man.” “Synthetic” claims on the other hand, are not true merely because of the meaning of the words used in the statement. Rather, the truth of these statements turns on facts. For instance, the claim “David is a bachelor” is only true if, in fact, David is a bachelor.
+But before rejecting the analytic/synthetic distinction, Quine delivered three papers on Carnap to Harvard’s Society of Fellows in 1934, where he seemed to defend the distinction. They were titled: “The a priori,” “Syntax,” and “Philosophy as Syntax.” Eager to get Carnap’s work on the English-speaking philosophical stage, Quine delivered these lectures not only to give a clear and careful exposition of Carnap’s new book, The Logical Syntax of Language, but to help convince the Harvard University that it needed Carnap (Carnap served as a visiting Professor at Harvard in 1940-41, but otherwise remained at the University of Chicago from 1936-1952.) Not only was Quine reading Carnap’s work at this time, but Carnap was reading Quine’s recent book, A System of Logistic, the published rewrite of his dissertation (Creath 1990: 149 – 160, # 15-17). Quine’s respect for Carnap at this time is indisputable; a rapport had grown between the two such that they could easily exchange ideas and, for the most part, understand each other. Yet some sixty years after he gave the 1934 Harvard lectures, Quine confesses that they were rather servile reconstructions of Carnap’s thoughts, or as Quine puts it, they were “abjectly sequacious” (Quine, 1991: 266). For as early as 1933—a year before the Harvard lectures were delivered—Quine was having serious doubts about the analytic/synthetic distinction, doubts that he privately expressed to Carnap. For instance, on March 31, 1933, Carnap observes that “He [Quine] says after some reading of my “Syntax” MS [that is, the manuscript of Carnap’s The Logical Syntax of Language]: Is there a difference between logical axioms and empirical sentences? He thinks not. Perhaps I seek a distinction just for its utility, but it seems he is right: gradual difference: they are sentences we want to hold fast” (Quine, 1991:  267). Here, in the course of reading a draft of Carnap’s book in 1933, Quine questions the distinction between “logical axioms” and “empirical axioms,” where, generally speaking, “analytic” propositions entail logical axioms.
+Almost twenty years later, Quine defended a variant of this position in his now famous paper, “The Two Dogmas of Empiricism.” Here, he claims that there is no sharp distinction between claims that are true in virtue of their meaning (analytic claims) and empirical claims (claims that may be verified by facts). In December 1950, Quine presented “The Two Dogmas of Empiricism” to the philosophers gathered at the annual meeting of the American Philosophical Association (APA). This marked his public rejection of the analytic/synthetic distinction. But as we saw above, Quine had been brooding over the matter since at least 1933. Not only did his qualms about this distinction surface in his discussions and correspondence with Carnap but also in conversation with other prominent philosophers and logicians, for example, Alfred Tarski, Nelson Goodman, and Morton White (Quine, 1987: 226). Stimulated by these conversations, White wrote his often overlooked paper, “The Analytic and the Synthetic: An Untenable Dualism,” which was published before Quine presented the “The Two Dogmas of Empiricism” at the 1950 APA meeting (Quine footnotes this paper at the end of the published version “The Two Dogmas of Empiricism”).
+Quine begins “The Two Dogmas of Empiricism” by defining an analytic proposition as one that is “true by virtue of meanings” (Quine, 1980: 21). The problem with this characterization, he explains, is that the nature of meanings is obscure; Quine reminds the reader of what he takes to be one of Carnap’s biggest mistakes in semantics—meaning is not to be confused with naming. For instance, the clause “The Morning Star” has a different meaning than the clause “The Evening Star” but both name the same object (the planet Venus), and thus, both have the same reference. Similarly, Quine explains that one mustn’t confuse the meaning, that is, the “intension,” of a general term with its extension, that is, the class of particular things to which the term applies. For instance, he points out, the two general terms “creature with a heart” and “creature with a kidney” both have the same extension because every creature with a heart has a kidney, and likewise. But these two statements clearly don’t have the same meaning. Thus, for Quine there is a clear distinction between intensions and extensions, which reflects an equally clear distinction between meanings and references.
+Quine then briefly explains the notion of what a word might mean, as opposed to what essential qualities an object denoted by that word might be said to have. For instance, the object man might be said to be essentially rational, while being, say, “two-legged” is an accidental property—there are plenty of humans who only have one leg, or who have no legs at all. As a result, the word ‘man’ must mean, at least “a rational being,” but it does not necessarily mean “two-legged.” Thus, Quine concludes, there seems to be some kind of parallel between the essential properties of an object and the meaning of the word that denotes that object. Or as Quine puts it: “meaning is what essence becomes when it is divorced from the object of reference and wedded to the word” (Quine, 1980: 22).
+But does this imply that meanings are some kind of “objects?” This can’t be the case, Quine concludes, because he just showed that meanings must not be confused with objects, that is, meanings must not be confused with references (for example, we must not confuse the meaning of the phrase “morning star” with what the phrase names, that is, the object Venus). Instead, it seems we should focus on grasping what is happening when two words are “synonymous,” that is, what seems to be happening when two words are “analytically” related. For instance, the two words ‘bachelor’ and ‘unmarried’ seem to be synonymous, and thus, the proposition, “All bachelors are unmarried men” seems to be an analytic statement. And thus Quine writes: “The problem of analyticity confronts us anew” (Quine, 1980: 22).
+To tackle the notion of analyticity, Quine makes a distinction between two kinds of analytic claims, those comprised of logical truths and those comprised of  synonymous terms. Logical truths, Quine explains, are any statements that remain true no matter how we interpret the non-logical particles in the statement. Logical particles are logical operators, for example, not, if then, or, all, no, some, and so forth. For instance, the statement “No not-X is X” will remain true no matter how we interpret X, for example, “No not-cat is a cat,” or “No not-bicycle is a bicycle.” An example of the second kind of analytic statement would be, Quine explains, “No bachelor is married,” where the meaning of the word ‘bachelor’ is synonymous with the meaning of the word ‘unmarried.’ However, we can make this kind of analytic claim into a logical truth (as defined above) by replacing ‘bachelor’ with its synonym, that is, ‘unmarried man,’ to get “No unmarried man is married,” which is an instance of No not-X is X. However, to make this substitution, we had to have some idea of what is meant by the word ‘synonymy,’ but this is problematical, so the notion of synonymy is the focus of the remainder of his discussion of analyticity.
+Quine suggests that one might, as is often done, appeal to definitions to explain the notion of synonymy. For instance, we might say that  “bachelor” is the definition of an “unmarried man,”  and thus, synonymy turns on definitions. However, Quine attests, in order to define “bachelor” as unmarried, the definer must possess some notion of synonymy to begin with. In fact, Quine writes, the only kind of definition that does not presuppose the notion of synonymy, is the act of ascribing an abbreviation purely conventionally. For instance, let’s say that I create a new word, ‘Archon.’ I can arbitrarily say that its abbreviation is “Ba2.”   In the course of doing so, I did not have to presuppose that these two notions are “synonymous;” I merely abbreviated ‘Archon’ by convention, by stipulation. However, when I normally attempt to define a notion, for example, “bachelor,” I must think to myself something like, “Well, what does it mean to be a bachelor, particularly, what words have the same meaning as the word ‘bachelor?’” that is, what meanings are synonymous with the meaning of the word ‘bachelor?’ And thus, Quine complains: “would that all species of synonymy were as intelligible [as those created purely by convention]. For the rest, definition rests on synonymy rather than explaining it” (Quine, 1980: 26).
+Perhaps then, Quine suggests, one could define synonymy in terms of “interchangability.” Two words are synonymous if they are “[interchangeable] in all contexts without change of truth value” (Quine, 1980: 27)\. However, this is problematic as well. Consider, Quine explains, the sentence “’Bachelor’ has less than ten letters.” If we simply exchange the word ‘bachelor’ with the words ‘unmarried man’ we have created a false statement, that is, “‘Unmarried man’ has less than ten letters.”  We also have problems if we try to replace the word ‘bachelor’ with ‘unmarried man’ in phrases like ‘bachelor of arts,’ or ‘bachelor’s buttons.’ But, Quine explains, we can get around the latter problem if we say that ‘bachelor of arts’ is a complete word, and thus, the ‘bachelor’ part of this word is merely a word-fragment, which cannot be interchanged with a complete word, for example, ‘bachelor’ when not understood as part of a phrase.
+Regardless of this quick fix, what we are really after is “cognitive synonymy,” which is to be distinguished from the word-play discussed above. However, Quine is not quite sure what cognitive synonymy entails. But, he reminds us, we do know that “the sort of synonymy needed … [is] merely such that any analytic statement [can] be turned into a logical truth by putting synonyms for synonyms.” (Quine, 1980: 22). Recall, for instance, our example regarding “No not-X is an X.” In this case, we saw that  for example, “No bachelor is married” is in fact, an instance of the logical truth, No not-X is an X, particularly, “No unmarried man is a married man,” if, in fact, the words ‘bachelor’ and ‘unmarried man’ are synonymous. Thus, what we are looking for is this kind of synonymy; this is “cognitive synonymy.” However, in order to explain “cognitive synonymy”—as we just did—we had to assume that we knew what analyticity meant. In particular, we had to assume the meanings of the two kinds of analyticity explained above, that is, analyticity qua logical axioms and analyticity qua synonymy. And thus, Quine writes: “What we need is an account of cognitive synonymy not presupposing analyticity.” (Quine, 1980: 29). So, the question is, can we give an account of cognitive synonymy by appealing to interchangeability (recall that this is the task at hand) without presupposing any definition of analyticity?
+Yes, initially it seems that one could, if our language contained the word “necessarily.” However, it turns out that the kind of “necessary” we have to assume may only apply to analytic statements, and thus, we once again presuppose a notion of analyticity to explain cognitive synonymy. Generally speaking, this plays out as follows: Assume that (1) “Necessarily all and only bachelors are bachelors.” (Quine, 1980: 29). That is, the word ‘necessary’ implies that this claim is logically true, and thus, it is analytic. Thus, if we assume that the words ‘bachelor’ and ‘unmarried man’ are interchangeable (in regard to meaning, not letters), then (2) “Necessarily all and only bachelors are unmarried men” is true, where once, again, the word ‘necessary’ seems to make this logically, that is, analytically true. And thus, once again, we needed to presuppose a notion of analyticity to define cognitive synonymy; “To suppose that [‘necessary’ makes sense] is to suppose that we have already made satisfactory sense of ‘analytic’” (Quine, 1980: 30).
+Quine’s final proposal to define analyticity without an appeal to meaning—and thus without appeal to synonymy or definitions as follows: We can try to assimilate a natural language to a formal language by appealing to the semantical rules developed by Carnap (see the article on Rudolf Carnap, sections 3-6). However, Quine finds the same kind of circularity here that he has found elsewhere. To show why, Quine reconstructs a general Carnapian paradigm regarding artificial languages and semantical rules, that, broadly speaking, proceeds as follows:
+[1] Assume there is an artificial language L0. Its semantical rules explicitly specify which statements are analytic in L0.
+[2] A problem immediately surfaces: To extensionally define what is analytic in L0, the intensional  meaning of ‘analytic’ is presupposed in the rules, simply because “the rules contain the word ‘analytic’ which we don’t understand!” (Quine, 1980: 33) Although we have an extensional definition of ‘analytic,’ we do not have an intensional definition, that is, we do not understand what analyticity means, regardless if we have a list of particular expressions that are allegedly analytic. For instance, if I asked you to compile a list of things that are “smargon,” and you did, but you had no idea what the word ‘smargon’ means, you’d be in trouble—how could you even compile your list without knowing what ‘smargon’ means?
+[3] Perhaps though, one could understand the term ‘analytic for L0‘ simply as a convention, calling it ‘K’ so it looks like the intensional meaning of the word  ‘analytic’—that is, a well-defined intensional account of analytic—is not at work anywhere. But, Quine asks, why the specific class K, and not some other arbitrary class, for example, L-Z? (Quine, 1980: 33) For instance, let’s say that I wanted to arbitrarily give a list of all things that are smargon, but I don’t know what the word ‘smargon’ means. So I create a list of things that just so happen to be green. But why did I pick just green things? Why not orange things, or things that had no particular color at all?
+[4] Let it be supposed instead then, that there is a kind of semantical rule that does not specify which statements are analytic, but simply those that are true. But not all truths, just a certain set of truths. Thus, one may then define “analytic truths” as those that belong to this set. And so, “A statement is analytic if it is (not merely true but) true according to the semantical rule” (Quine, 1980: 34). However (generally speaking), the same problem surfaces in terms of “semantical rule—” how does it specify which statements are to be included in the class of truths without in some sense presupposing the intensional meaning of the word ‘analytic?’ The circle is pervasive, and so: “we might just stop tugging at our bootstraps altogether” (Quine, 1980: 36).
+And thus, in 1950, Quine is confident that, perhaps once and for all, after nearly twenty years of intermittent discussion of the matter with Carnap and others, he should reject the notion of “analyticity.”
+3. Metaphysics: Some Implications
+Quine’s rejection of analyticity has many implications, particularly for the field of metaphysics. According to the main camp of metaphysicians, metaphysics, generally speaking, employs a method where deductive logical laws are applied to a set of axioms that are necessarily true. The propositions produced by such a method are, as a result, necessarily true as well (think, for instance of Descartes’ method or Leibniz’s). For the most part, these truths, the axioms that they are derived from, and the logical laws that are used to derive them, are thought to reflect the necessary and eternal nature of the universe.
+However, if there are, as Quine claims, no such things as necessary truths, that is, analytic truths, then this main camp of metaphysics is essentially eviscerated. It is, at best, a field where clever people play still cleverer games, manipulating allegedly “necessary” truths with allegedly “necessary” laws. This attack on metaphysics by Quine has spawned new camps of metaphysics which do not rely in this way on deductive methods.
+What method then, did Quine use? The empirical method. In this respect, Quine was a scientific philosopher, that is, what is often called a naturalistic philosopher.  Like Hume, he believed that philosophical conclusions were not necessarily true—they did not reflect or capture the essential nature of humanity, let alone the nature of the universe. Rather, they were testable, and potentially could be rejected.
+4. References and Further Reading
+
+Carnap, R. The Logical Structure of the World; Psuedo problems in Philosophy, Second Edition. Translated by R.A. George, Berkeley and Los Angeles: University of California Press, 1967 [Original publication date 1928]
+Carnap, R. The Logical Syntax of Language. Translated by A. Smeaton. London: Routledge, 1959.
+Carnap, R. Meaning and Necessity. Second edition with supplements. Chicago: Chicago University Press, 1947.
+Creath, R. Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work. Berkeley: University of California Press, 1990.
+Davidson, D. and Hintikka, J. eds. Words and Objections, Essays on the Work of W.V. Quine. Synthese Library 21. Revised ed. Dordrecht: D. Reidel Publishing Company, 1969.
+Dreben, Burton. “In Medius Rebus.” Inquiry, 37 (1995): pp. 441-7.
+Dreben, Burton. “Putnam, Quine—and the Facts.” Philosophical Topics, 20 (1992): pp. 293-315.
+Fara, R. Director: “In Conversation: W.V. Quine.” A Philosophy International Production, London: Philosophy International, London School of Economics, 1994: tapes 1-8.
+Fogelin, R. “Aspects of Quine’s Naturalized Epistemology.” The Cambridge Companion to Quine, ed. R.F. Gibson. Cambridge: Cambridge University Press, 2004
+Gibson, R.F., ed., The Cambridge Companion to Quine, Cambridge: Cambridge University Press, 2004
+Hintikka, J. “Three Dogmas of Quine’s Empiricism,” Revue Internationale de Philosophie 51 (1997): pp. 457-477
+Hookway, C. Quine: Language, Experience and Reality. Cambridge: Polity Press, 1988.
+Leonardi, P. and Santambrogio, M. On Quine, New Essays. Oxford: Cambridge University Press, 1995.
+Pakaluk, M. “Quine’s 1946 Lectures on Hume.” Journal of the History of Philosophy, 27 (1989): pp. 445-459
+Quine, W.V. A System of Logistic, Cambridge, MA: Harvard University Press, 1934.
+Quine, W.V. “Carnap” Yale Review 76 (1987): pp. 226-230.
+Quine, W.V. From Stimulus to Science, Cambridge, MA: Harvard, 1995.
+Quine, W.V. “In Praise of Observation Sentences.” Journal of Philosophy, XC, #3 (1993): pp. 107-116.
+Quine, W.V. Methods of Logic, fourth edition. Cambridge, MA: Harvard University Press, 1982 [Original edition, 1950].
+Quine, W.V. “On Empirically Equivalent Systems of the World.” Erkenntnis 9, 3 (1975): 313-28.
+Quine, W.V. “On Philosophers’ Concern with Language.” (editor’s title: “Words are all we have to go on”), Times Literary Supplement. July 3, 1992: 8
+Quine, W.V. Ontological Relativity and Other Essays. New York: Columbia, 1969.
+Quine, W.V. Pursuit of Truth. Revised ed. Cambridge, MA: Harvard, 1992
+Quine, W.V. Quiddities: An Intermittently Philosophical Dictionary. Cambridge, MA: Harvard, 1987.
+Quine, W.V. “Review of Carnap,” Philosophical Review, 44 (1935): pp. 394-7.
+Quine, W.V. The Roots of Reference, La Salle: Illinois: Open Court, 1974.
+Quine, W.V. “States of Mind.” Journal of Philosophy 82 (1985) pp. 5-8.
+Quine, W.V. The Time of My Life: An Autobiography, Cambridge, MA: Harvard University Press, 1987.
+Quine, W.V. Theories and Things. Cambridge, MA: Harvard, 1981
+Quine, W.V. “Two Dogmas in Retrospect,” Canadian Journal of Philosophy, 21 #3 (1991): pp. 265-274
+Quine, W.V. “The Two Dogmas of Empiricism” in From a Logical Point of View: 9 logico-philosophical essays. 2nd ed., revised. Cambridge, MA: Harvard University Press, 1980 [Original publication date: 1953]
+Quine, W.V. “The Two Dogmas of Empiricism,” The Philosophical Review 60 (1951): 20-43.
+Quine, W.V. The Ways of Paradox and Other Essays. Enlarged edition. Cambridge, MA: Harvard, 1976.
+Quine, W.V. Word and Object. Cambridge, MA: MIT, 1960..
+Richardson, A.W. Carnap’s Construction of the World: The Aufbau and the Emergence of Logical Empiricism. Cambridge: Cambridge University Press, 1998,
+Rocknak, S. “Understanding Quine in Terms of the Aufbau: Another Look at Naturalized Epistemology” in Beyond Description: Naturalism and Normativity, eds. Marcin Milkowski and Konrad Talmud-Kaminski, Texts in Philosophy (College Publications, 2010, Vol. 13, pp. 195-210).
+Romanos, G.P. Quine and Analytic Philosophy. Cambridge: MIT Press, 1983.
+Russell, Bertrand. Our Knowledge of the External World. London: George Allen and Unwin Ltd., 1961.
+Schilpp, P.A. ed, The Philosophy of Rudolph Carnap: Library of Living Philosophers, II. La Salles, Illinois: Open Court, 1963
+Schilpp, P.A. and Edwin L., eds. The Philosophy of W.V. Quine: Library of Living Philosophers, XVII, La Salle, Illinois: Open Court, 1986.
+Schilpp, P.A. and Edwin L., eds. The Philosophy of W.V. Quine: Library of Living Philosophers, XVII, Expanded Edition, La Salle, Illinois: Open Court, 1998.
+Shahan, R.W. and Swoyer, C. eds. Essays on the Philosophy of W.V. Quine, Norman: University of Oklahoma Press, 1979
+Tooke, J.H., The Divisions of Purley, vol. 1, London, 1786, Boston, 1806.
+White, M. “The Analytic and the Synthetic: An Untenable Dualism,” John Dewey: Philosopher of Science and Freedom, ed. S. Hook. New York: Dial, 1950.
+Whitehead, A.N. and Bertrand Russell. Principia Mathematica, Cambridge: Cambridge University Press, 1910.
+
+ 
+Author Information
+Stefanie Rocknak
+Email: rocknaks@hartwick.edu
+Hartwick College
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+Mathematics, The Applicability of | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Applicability of Mathematics
+The applicability of mathematics can lie anywhere on a spectrum from the completely trivial to the utterly mysterious. At the one extreme, mathematics is used outside of mathematics in cases which range from everyday calculations like the attempt to balance one’s checkbook through the most demanding abstract modeling of subatomic particles. The techniques underlying these applications are perfectly clear to those who have mastered them, and there seems to be little for the philosopher to say about such cases. At the other extreme, scientists and philosophers have often mentioned the remarkable power that mathematics provides to the scientist, especially in the formulation of new scientific theories. Most famously, Wigner claimed that “The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.” And according to Kant, “In any special doctrine of nature there can be only as much proper science as there is mathematics therein.” Many  agree that the problem of understanding the significant tie between mathematics and modern science is an interesting and significant challenge for the philosopher of mathematics.
+As philosophers, our first goal should be to clarify the different problems associated with the applicability of mathematics. This article suggests some potential solutions to these problems. Section 1 considers one version of the problem of applicability tied to what is often called “Frege’s Constraint,” which is the view that an adequate account of a mathematical domain must explain the applicability of this domain outside of mathematics. Section 2 considers the role of mathematics in the formulation and discovery of new theories. This leaves out several different potential contributions that mathematics might make to science such as unification, explanation and confirmation. These are discussed in section 3, where it is suggested that a piecemeal approach to understanding the applicability of mathematics is the most promising strategy for philosophers to pursue.
+Table of Contents
+
+Reasoning
+Formulation and Discovery
+Unification, Explanation and Confirmation
+References and Further Reading
+
+1. Reasoning
+Gottlob Frege (1848-1925) remains one of the most influential philosophers of mathematics and is thought by many to be the first philosopher in the analytic tradition. Frege’s main goal was to argue for a logicist account of arithmetic. This is the view that all arithmetical concepts can be defined in wholly logical terms and that all arithmetical truths can be proved using only logical resources. While this characterization of logicism makes no link to the applicability of arithmetic, Frege maintained that the correct account of the natural numbers must make their role in counting transparent. It is hard to find an argument for this requirement in Frege’s writings, though, or to understand what meeting it really requires. After surveying some possible interpretations of Frege’s demand, this section considers structuralist interpretations of mathematics which reject Frege’s approach.
+One of Frege’s opponents is the formalist who insists that mathematics is a game that we play with symbols according to arbitrarily stipulated rules. To the formalist, mathematics is not about anything, and strings of mathematical symbols are never sentences which express meaningful claims. Against the formalist, Frege noted that “it is application alone that elevates arithmetic beyond a game to the rank of a science. So applicability necessarily belongs to it.” A remark from earlier in this passage makes clear what sense of “applicability” Frege has in mind: “Why can one get applications of arithmetical equations? Only because they express thoughts”  (Wilholt 2006, p. 72). That is, some strings of mathematical symbols are sentences which express meaningful claims, and for this reason, these sentences can be premises in arguments whose conclusions pertain to non-mathematical domains. The formalist has no way to account for the role of mathematical sentences in arguments. It is only by treating mathematical sentences like other sentences of our language that we are able to account for the role of mathematics in scientific arguments, says Frege.
+In this sense of “applicability,” it is fairly uncontroversial that mathematics is applicable; and we can grant that any viable philosophy of mathematics must supply a subject-matter for mathematical claims. But notice that Frege’s argument against formalism does not rule out a two-stage view of applicability. This view proposes that mathematical claims are about an exclusively mathematical domain and that these claims play a role in scientific arguments only because there are premises which link the mathematical domain to whatever non-mathematical domain the conclusion of the argument is about. By contrast, Frege’s one-stage approach insists that the subject-matter of mathematics relates directly to whatever the mathematics is applied to. Given this distinction, we need to examine how Frege could argue for his one-stage approach. Simply appealing to the role of mathematical claims in scientific arguments is not sufficient to rule out a two-stage approach.
+Another view which Frege targets is John Stuart Mill’s empiricism about arithmetic. This is the view that the subject-matter of arithmetic is physical regularities such as the results of combining physical objects together to form larger aggregates. Frege insists that empiricism is not able to account for the wide scope of the applicability of mathematics:
+The basis of arithmetic lies deeper, it seems, than that of any of the empirical sciences, and even than that of geometry. The truths of arithmetic govern all that is numerable. This is the widest domain of all; for to it belongs not only the actual, not only the intuitable, but everything thinkable. Should not the laws of number, then, be connected very intimately with the laws of thought? (Frege 1884, §14)
+For example, we can count the figures or forms of the valid Aristotelian syllogisms. Assuming these figures are not physical objects, the empiricist is without an explanation of the applicability of using numbers to count these objects. Frege’s own proposal related the applicability of numbers in counting to the applicability of a concept: “The content of a statement of number is an assertion about a concept” (Frege 1884, §46). As concepts have all sorts of objects falling under them, including non-physical objects such as the figures of the syllogism, the wide scope of the applicability of arithmetic is accounted for.
+Frege’s link between numbers, counting and concepts does not by itself yield a satisfactory characterization of what the numbers are. Later in Foundations, Frege presents Hume’s Principle as a potential definition of what the numbers are. This principle is that the number of Fs is identical to the number of Gs if and only if the objects falling under the concept F can be put in one-one correspondence with the objects falling under the concept G. Notice that Hume’s Principle would provide a direct explanation of the wide scope of the applicability of arithmetic in counting for it makes the identity of the numbers turn on issues related to what concepts these numbers are applied to. With Hume’s Principle, an agent could then identify each number using such a concept and go on to reason about them effectively.
+Frege eventually rejected Hume’s Principle as an unsatisfactory definition, although his own preferred explicit definition recovers it as a theorem. Contemporary neo-Fregeans continue to insist against Frege that Hume’s Principle is a successful definition of the natural numbers after all. Even some philosophers who completely reject Frege’s approach to arithmetic nevertheless grant the need to account for the wide scope of applicability of arithmetic. For example, Michael Dummett has endorsed these aspects of Frege’s project: “Frege’s objective was to destroy the illusion that any miracle occurs [in applications]. The possibility of the applications was built into the theory from the outset; its foundations must be so constructed as to display the most general form of those applications, and then particular applications will not appear a miracle” (Dummett 1991, p. 293). It should be clear, though, that the wide scope of applicability of a mathematical domain is not by itself sufficient to rule out a two-stage account of applications. To see why, suppose that we have identified the subject-matter of arithmetic as a domain of objects that bears no direct connection to whatever it is that is counted, be it objects that fall under concepts or something else. It still remains possible that the second stage of the account will identify non-mathematical elements whose scope is wide enough to make sense of the scope of applicability of the numbers in counting.
+There is a final route to justifying Frege’s one-stage approach which turns on questions of meaning and language learning. As Dummett puts it, “The historical genesis of the theory will furnish an indispensable clue to formulating that general principle governing all possible applications.… Only by following this methodological precept can applications of the theory be prevented from assuming the guise of the miraculous; only so can philosophers of mathematics, and indeed students of the subject, apprehend the real content of the theory” (Dummett 1991, pp. 300-301). That is, when we learn about the natural numbers, we thereby learn to count. If this is right, and the learning is tied directly to the “real content,” then a two-stage account is called into question. This idea has been carefully elaborated by Crispin Wright, a prominent neo-Fregean. He speaks of Frege’s Constraint: “A satisfactory foundation for a mathematical theory must somehow build its applications, actual and potential, into its core – into the content it ascribes to the statements of the theory – rather than merely ‘patch them on from the outside’ ” (Wright 2000, p. 324). One motivation for following Frege’s Constraint turns on learning: “Someone can – and our children typically do – first learn the concepts of elementary arithmetic by a grounding in their simple empirical applications and then, on the basis of the understanding thereby acquired, advance to an a priori recognition of simple arithmetical truths” (Wright 2000, p. 327). The recognition is a priori because it is not mediated by any additional knowledge which might be justified empirically. Wright concedes that this link between learning and applicability does not extend to all mathematical domains and so concludes that Frege’s Constraint need only be met in some cases (Wright 2000, p. 329).
+As with the point about scope, though, the advocate of the two-stage position may insist that learning the concept of natural number need not involve any tie to counting. This could be consistent with the sort of a priori knowledge that Wright has in mind if the second stage of the two-stage account makes applications turn on a priori considerations. This is in fact the route pursued by some strands of the philosophy of mathematics known as structuralism. In his influential paper “What Numbers Could Not Be,” Paul Benacerraf describes two students, Ernie and Johnny, who learn about the natural numbers in different ways (Benacerraf 1965). Ernie comes to identify the natural numbers 1, 2, 3, … with the sets {Ø}, {Ø, {Ø}}, {Ø, {Ø}, {Ø, {Ø}}}, … while Johnny treats the same numbers as {Ø}, {{Ø}}, {{{Ø}}}, .… Both series involve the set that has no members,  the empty set Ø. To identify a set with finitely many members we can list the names of the members between the symbols “{“ and “}”. So, Ernie and Johnny agree that 1 is identical with the set whose only member is the empty set. But they disagree on the nature of 2. For Johnny, the only member of 2 is the set {Ø}, but for Ernie 2 has two members, namely Ø and {Ø}. Benacerraf’s main point in his article is that this disagreement does not block either student from doing mathematics. As there is no mathematical reason to prefer one policy of identification, Benacerraf concludes that the natural numbers are not identical to either series of sets. Instead, “in giving the properties (that is, necessary and sufficient) of numbers you merely characterize an abstract structure – and the distinction lies in the fact that the ‘elements’ of the structure have no properties other than those relating them to other ‘elements’ of the same structure” (Benacerraf 1965, p. 291). On this approach, the natural number 2 is nothing but an element in a larger structure and all of its genuine properties accrue to it simply in virtue of its relations to other elements in the structure.
+There are several ways to work out this structuralist program, but for our purposes the most important aspect of structuralism is that it naturally leads to a rejection of Frege’s Constraint and an adoption of a two-stage account of applications. In the first stage, the mathematical domain is identified with a particular abstract structure. Then, in the second stage, applications such as counting are explained in terms of structurally specified mappings between the objects in some non-mathematical domain and the elements of the mathematical structure. For example, counting objects can be thought of as establishing a one-one correspondence between the objects to be counted and an initial segment of the structure of natural numbers. Other applications for other domains may involve different kinds of mappings. But as long as the scope of the applicability of these mappings is wide enough and we have the right kind of epistemic access to them, the arguments for the one-stage account can be countered.
+This line of attack against a one-stage account of applications has been traced back to the mathematician Richard Dedekind (1831-1916). See (Tait 1997). Dedekind identified the natural numbers with a particular structure and accounted for their application in counting by invoking equipollent sets, that is, sets whose members can be paired up by a one-one correspondence. For Dedekind “To say that there are 45 million Germans is to say that there is a set of Germans which is equipollent to {1, … , 45000000} – and, again, this is quite independent of how the numbers are defined” (Tait 1997, p. 230). The properties of the natural numbers over and above their place in this abstract structure are irrelevant to the existence of this sort of mapping. Tait points out that additional requirements, such as Dummett’s, turn on special considerations which are hard to motivate: “The idea that numbers can be identified or, perhaps, further identified in terms of some particular application of them is … neither a very clear idea nor a desirable one” (Tait 1997, p. 232).
+Similar conclusions have recently been reached by Charles Parsons in his Mathematical Thought and Its Objects (2008). Also noting Dedekind, Parsons insists that “a structuralist understanding of what the numbers are does not stand in the way of a reasonable account of their cardinal use” (Parsons 2008, p. 74), that is, their use in counting. This is made more precise by the introduction of a distinction between the internal and external relations of the natural numbers, as opposed to a series of other objects such as sets which might have the structure of the natural numbers. The internal relations of the numbers are exhausted by what follows from a system being simply infinite. This is defined as follows: “A simply infinite system is a system (i.e., set) N such that there is a distinguished element 0 of N, and a mapping S: N → N – {0}, which is one-one and onto, such that induction holds, that is: … (∀M){[0 ε M & (∀x) (x ε M → Sx ε M)] → N ⊂ M}” (Parsons, p. 45). Parsons then shows how any two simply infinite systems will agree on the results of counting based on the existence of a one-one correspondence (Parsons 2008, p. 75). This grounds the view that the results of counting turn on external relations of the numbers. For a structuralist approach to be vindicated, a similar result would have to hold for other kinds of mathematical domains as well. Another interesting structuralist strategy is pursued by Linnebo in his paper “The Individuation of the Natural Numbers” (Linnebo 2009). Linnebo focuses on systems of numerals and uses principles about numerals to recover claims about the natural numbers. Again, this results in a two-stage picture of applications where the natural numbers are specified independently of their role in counting.
+2. Formulation and Discovery
+Eugene Wigner (1902-1995) was a ground-breaking physicist who also engaged in some important philosophical reflections on the role of mathematics in physics. In his paper “The Unreasonable Effectiveness of Mathematics in the Natural Sciences,” in (Wigner 1960), he emphasizes “unreasonable effectiveness,” but it is not always clear what aspects of applicability he is concerned with. In a crucial stage of his discussion he distinguishes the role of mathematics in reasoning of the sort discussed above from the use of mathematics to formulate successful scientific theories: “The laws of nature must already be formulated in the language of mathematics to be an object for the use of applied mathematics” (Wigner 1960, p. 6). This procedure is surprisingly successful for Wigner because the resulting laws are incredibly accurate and the development of mathematics is largely independent of the demands of science. As he describes it, “Most advanced mathematical concepts … were so devised that they are apt subjects on which the mathematician can demonstrate his ingenuity and sense of formal beauty” (Wigner 1960, p. 3). When these abstract mathematical concepts are used in the formulation of a scientific law, then, there is the hope that there is some kind of match between the mathematician’s aesthetic sense and the workings of the physical world. One example where this hope was vindicated is in the discovery of what Wigner calls “elementary quantum mechanics” (Wigner 1960, p. 9). Some of the laws of this theory were formulated after some physicists “proposed to replace by matrices the position and momentum variables of the equations of classical mechanics” (Wigner 1960, p. 9). This innovation proved very successful, even for physical applications beyond those that inspired the original mathematical reformulation. Wigner mentions “the calculation of the lowest energy level of helium … [which] agree with the experimental data within the accuracy of the observations, which is one part in ten millions” and concludes that “Surely in this case we ‘got something out’ of the equations that we did not put in” (Wigner 1960, p. 9).
+Although extremely suggestive, Wigner’s discussion may be focused on two possible targets. First, he may be asking for an explanation of why certain physical claims are true. It is surprising that these claims are true partly because they involve highly abstract mathematical concepts. If scientists in the nineteenth century were considering the future development of physics, they probably would not have anticipated that quantum mechanics would have arisen as it did. Still, one can respond to this version of Wigner’s worries by noting that we cannot explain everything. Some physical claims can be explained, but we need to use other physical claims to do this. There is no mystery in this, and it is hard to see what special mystery there is that relates to the mathematical character of truths that we have no explanation of. A second, more plausible, candidate for Wigner’s concerns is the role of mathematics in the discovery of successful scientific theories. This is how Mark Steiner has clarified and extended Wigner’s original discussion in Steiner’s book The Applicability of Mathematics as a Philosophical Problem (1998). Steiner’s book is valuable partly for the division of problems of applicability into several categories. In the first two chapters of his book, Steiner distinguishes semantic, metaphysical and descriptive problems and argues that they have been largely resolved by Frege (Steiner 1998, p. 47). (See Steiner 2005 for a survey article on applicability that is complementary to the present article.)
+Steiner also insists that there is a further problem associated with the role of mathematics in discovery. According to Steiner, physicists in the twentieth century have deployed a certain strategy for discovering new theories. This strategy depends on mathematical analogies between past theories and new proposals. The strategy is called “Pythagorean” if it depends on mathematical features of the mathematical objects in question, while it is labeled “formalist” if things turn on the syntax of mathematical language. The success of both strategies has negative implications for what Steiner calls “naturalism,” the view that the natural world is not in any way attuned to the workings of our mind. Then, “The weak conclusion is that scientists have recently abandoned naturalist thinking in their desperate attempt to discover what looked like the undiscoverable,” while “the apparent success of Pythagorean and formalist methods is sufficiently impressive to create a significant challenge to naturalism itself” (Steiner 1998, p. 75).
+As with Wigner, a significant assumption that Steiner makes is that mathematics is developed using the aesthetic judgments of mathematicians. Steiner adds the claim that these judgments are “species-specific,” and so they do not track any objective features of the natural world if naturalism is true (Steiner 1998, p. 66). An advocate of some version of Frege’s one-stage account of applications would insist that their explanation of what the mathematical objects are will make direct reference to their role in science. This is why Dummett insists that meeting Frege’s Constraint will remove the appearance of a miracle from successful applications (see section 1). A structuralist who defends a two-stage account of applications also has a line of response to an aesthetic conception of mathematics. As the subject-matter of mathematics is made up of abstract structures, one can make sense of how the highly complicated structures found in nature might be studied via the more accessible abstract structures discussed by mathematicians. This is roughly the route taken by Steven French (French 2000). Either strategy must also supplement the aesthetic criteria noted by Wigner and Steiner with some more objective account of the development of mathematics. Beyond this, critics of Steiner have argued that his examples do not support the strong premises he needs for either his weak or strong conclusion. For instance, it is hard to tell what beliefs motivated physicists to substitute matrices for variables in Wigner’s example. See (Steiner 1998, pp. 95-98) for some discussion of this case. Simons suggests that physicists may have simply been desperate to try anything. As a result, the success of their attempts does not underwrite Steiner’s conclusions (Simons 2001). More generally, there are delicate historical issues in reconstructing a given scientific discovery or a pattern of discoveries of the sort Steiner describes. Some may argue that it is premature to draw philosophical conclusions from such discoveries precisely because we understand so little about how they were made. (Bangu 2006) provides additional discussion of Steiner’s argument.
+There have been several other attempts to come to grips with Wigner’s worries about the contribution of mathematics to the formulation and discovery of successful scientific theories. Some agree with Wigner that mathematics has been effective in science, but question the degree to which this effectiveness has been unreasonable. For example, Ivor Grattan-Guinness presents a classification of seven ways in which a new scientific theory might relate to an old one, including connections of reduction, importation and what he calls “convolution” (Grattan-Guinness 2008, p. 9). Using this classification scheme, he argues that the analogies responsible for many scientific breakthroughs can be made sense of: “With a wide and ever-widening repertoire of mathematical theories and an impressive tableau of ubiquitous topics and notions, theory-building can be seen as reasonable to a large extent” (Grattan-Guinness 2008, p. 15). Another approach is found in Mark Wilson’s work. Though his paper “The Unreasonable Uncooperativeness of Mathematics in the Natural Sciences” does not directly engage with Wigner’s arguments, Wilson considers the possibility that successful applications of mathematics in science are rare because they largely turn on a fortunate match between the mathematics available at a given stage of development and the features of the physical systems being studied. He takes seriously the proposal of the “mathematical opportunist” who believes that “the successes of applied mathematics require some alien element that cannot be regarded as invariably present in the physical world” (Wilson 2000, p. 299). Although Wilson eventually sides with the “honest optimist” such as Euler who developed mathematical techniques that dramatically extended the scope of applicability of available mathematics, he concedes that residual modeling challenges might give further support to the opportunist picture.  (Wilson 2006) deals with these issues at greater length. For additional discussion of problems related to formulation and discovery see (Azzouni 2000), (Colyvan 2001a) and (Urquhart 2008).
+3. Unification, Explanation and Confirmation
+So far we have reviewed philosophical issues connected with the contributions that mathematics makes to reasoning and discovery in science. But there are many other potential ways in which mathematics might help out scientists that philosophers have only recently begun to explore. Many of these possibilities pertain to what we might call the “abstractness” of mathematical concepts. This abstractness seems to permit mathematics to unify physical phenomena. Furthermore, it may be connected to the viability of mathematical explanations of such phenomena or even the degree of confirmation that our best physical theories have achieved.
+In a preliminary sense, mathematics is abstract because it is studied using highly general and formal resources. Although we may introduce a student to a group by describing a string of symbols and its permutations, the student must eventually realize that the group itself is something more general that includes this set of permutations as an instance. The abstractness of mathematics has been used as one of the arguments for structuralism of the sort reviewed in section 1. But the defenders of a one-stage view of applications also emphasize the abstractness of mathematics when they ensure that their accounts of a mathematical domain deliver a wide scope of application.
+When abstractness is thought of in this way it is obvious that mathematical descriptions of physical phenomena should contribute to unification in the sciences. Morrison, for example, has described many ways in which new mathematical approaches to a range of scientific theories have helped scientists combine these theories into a single theoretical framework (Morrison 2000). Famously, Newton was able to bring together descriptions of the orbits of the planets with the behavior of falling bodies on Earth using his three laws of motion and the universal law of gravitation. Later this theory of classical mechanics was presented in an even more abstract and general form using the mathematics of the calculus of variations. This theoretical unification can be distinguished from the methodological unification that mathematics can provide to scientists. Mark Colyvan draws attention to how the methods for solving a wide class of differential equations can be brought together by considering functions on complex numbers that extend the functions on real numbers (Colyvan 2001b, pp. 81-83). More generally, textbooks in applied mathematics provide the scientist with an extensive toolbox of sophisticated techniques for treating mathematical problems that arise in scientific modeling.
+In the philosophy of science, many try to provide a theory of scientific explanation using some notion of unification, so it is not surprising that the power of mathematics to unify entails for some that mathematics can also explain physical phenomena. A simple instance of this is the explanation of why it is impossible to cross this arrangement of bridges exactly once:
+
+Given that these bridges have the abstract arrangement of a certain kind of graph and given the theorem that there is no path of the appropriate sort through this graph, we can come to appreciate why the desired kind of crossing is impossible. This explanation exploits the abstractness of the mathematics because it fails to make reference to the irrelevant material constitution of the bridges. Similarly, in an example introduced by Alan Baker (Baker 2005), an appreciation of the features of prime numbers can be used to help to explain why the life-cycles of certain periodic cicadas are a prime number of years. While Baker does not usually present his case as an instance of a unifying explanation, we can see its ability to provide a unified description of the several species in question as a central source of its explanatory power. See also (Baker 2009) and (Lyon and Colyvan 2008).
+Nevertheless, there are cases of apparent mathematical explanation which do not seem to turn on unification. Robert Batterman has recently aimed “to account for how mathematical idealizations can have a role in physical explanations” (Batterman 2010, p. 2) and argued that two-stage structuralist approaches face significant challenges in doing this. He focuses on cases where mathematical operations transform one kind of mathematical representation into another mathematical representation which is qualitatively different. These “asymptotic” techniques do not appear to allow for abstract unification precisely because the character of the two representations is so different. For example, we can consider the relationship between the wave theory of light and the theory that light is made up of rays. The ray representation results from the wave representation if we take a certain kind of limit, for, example, we take the wavelength to zero. Batterman insists that both representations are needed to explain features of physical phenomena such as the bow structure of the rainbow: “The asymptotic investigation of the wave equation leads to an understanding of the stability of those phenomena under perturbation of the shape of the raindrops and other features” (Batterman 2010, p. 21). Taking the appropriate limit allows us to throw out the right kind of irrelevant details which might distinguish one rainbow from another. What results is a correct description of an important physical phenomenon along with some explanatory insight into its features. This explanatory power is not easily grounded in the ability to unify because so many aspects of the mathematics fail to have correlates in the differently constituted rainbows.
+Although the existence of mathematical explanations of physical phenomena remains a topic of intense debate, there are yet other potential contributions from mathematics to the success of science. Pincock has argued that the abstract character of mathematics can help scientists to develop representations which can be more easily confirmed by the evidence available (Pincock 2007). For example, scientists can propose an equation for the relationship between heat and temperature over time without taking a stand on the nature of heat or the ultimate connection between heat and temperature. This permits science to proceed in its process of testing and refinement of hypotheses without getting bogged down in interpretative controversies. If mathematics makes this sort of contribution, though, it raises further questions about when scientists are warranted in assigning some physical interpretation to their successful mathematical representations. Here, then, we can see a direct connection between the role of mathematics in science and the viability of scientific realism.
+These points about unification, explanation, confirmation and their broader significance suggest the many ways in which debates about the applicability of mathematics may proceed in the coming years. More generally, the issues discussed in this article clearly turn on a detailed appreciation of actual cases where mathematics seems to be helping out the scientist. This suggests that the most fruitful way to proceed is to move between more general philosophical reflection on the applicability of mathematics and concrete investigations of scientific practice. Deploying this method may not address many of the mainstream preoccupations of philosophers of mathematics such as the platonism-nominalism debate or questions of indispensability, but it holds out the promise of delivering a more nuanced appreciation of the central place that mathematics has in contemporary science, and it offers a relatively unexplored avenue for philosophical exploration and innovation.
+4. References and Further Reading
+
+Azzouni, Jody (2000), “Applying Mathematics: An Attempt to Design a Philosophical Problem,” Monist 83: 209-227.
+Baker, Alan (2005), “Are There Genuine Mathematical Explanations of Physical Phenomena?” Mind 114: 223-238.
+Baker, Alan (2009), “Mathematical Explanation in Science,” British Journal for the Philosophy of Science 60: 611-633.
+Bangu, Sorin (2006), “Steiner on the Applicability of Mathematics and Naturalism,” Philosophia Mathematica 14: 26-43.
+Batterman, Robert W. (2010), “On the Explanatory Role of Mathematics in Empirical Science,” British Journal for the Philosophy of Science 61: 1-25.
+Benacerraf, Paul (1965), “What Numbers Could Not Be,” reprinted in P. Benacerraf & H. Putnam, Philosophy of Mathematics: Selected Readings, Second Edition, Cambridge University Press, 1983, pp. 272-294.
+Colyvan, Mark (2001a), “The Miracle of Applied Mathematics,” Synthese 127: 265-277.
+Colyvan, Mark (2001b), The Indispensability of Mathematics, Oxford University Press.
+Dummett, Michael (1991), Frege: Philosophy of Mathematics, Harvard University Press.
+Frege, Gottlob (1884), The Foundations of Arithmetic, J. L. Austin (trans.), Northwestern University Press, 1980.
+French, Steven (2000), “The Reasonable Effectiveness of Mathematics: Partial Structures and the Applicability of Group Theory to Physics,” Synthese 125: 103-120.
+Grattan-Guinness, Ivor (2008), “Solving Wigner’s Mystery: The Reasonable (Though Perhaps Limited) Effectiveness of Mathematics in the Natural Sciences,” The Mathematical Intelligencer 30: 7-17.
+Kant, Immanuel (1786), The Metaphysical Foundations of Natural Science, M. Friedman (ed. and trans.), Cambridge University Press, 2004.
+Linnebo, Øystein (2009), “The Individuation of the Natural Numbers,” in O. Bueno & Ø. Linnebo (eds.), New Waves in the Philosophy of Mathematics, Palgrave, pp. 220-238.
+Lyon, Aidan and Mark Colyvan (2008), “The Explanatory Power of Phase Spaces,” Philosophia Mathematica 16: 227-243.
+Morrison, Margaret (2000), Unifying Scientific Theories: Physical Concepts and Mathematical Structures, Cambridge University Press.
+Parsons, Charles (2008), Mathematical Thought and Its Objects, Cambridge University Press.
+Pincock, Christopher (2007), “A Role for Mathematics in the Physical Sciences,” Nous 41: 253-275.
+Steiner, Mark (1998), The Applicability of Mathematics as a Philosophical Problem, Harvard University Press.
+Steiner, Mark (2005), “Mathematics – Application and Applicability,” in S. Shapiro (ed.), The Oxford Handbook of Philosophy of Mathematics and Logic, Oxford University Press, pp. 625-650.
+Tait, William (1997), “Frege versus Cantor and Dedekind: On the Concept of Number,” reprinted in W. Tait, The Provenance of Pure Reason: Essays in the Philosophy of Mathematics and Its History, Oxford University Press, 2005, pp. 212-251.
+Urquhart, Alasdair (2008), “Mathematics and Physics: Strategies of Assimilation,” in P. Mancosu (ed.), The Philosophy of Mathematical Practice, Oxford University Press, pp. 417-440.
+Wigner, Eugene P. (1960), “The Unreasonable Effectiveness of Mathematics in the Natural Sciences,” Communications of Pure and Applied Mathematics 13: 1-14.
+Wilholt, Torsten (2006), “Lost on the Way From Frege to Carnap: How the Philosophy of Science Forgot the Applicability Problem,” Grazer Philosophische Studien 73: 69-82.
+Wilson, Mark (2000), “The Unreasonable Uncooperativeness of Mathematics in the Natural Sciences,” Monist 83: 296-315.
+Wilson, Mark (2006), Wandering Significance: An Essay on Conceptual Behavior, Oxford University Press.
+Wright, Crispin (2000), “Neo-Fregean Foundations for Real Analysis: Some Reflections on Frege’s Constraint,” Notre Dame Journal of Formal Logic 41: 317-334, reprinted in R. Cook (ed.), The Arche Papers on the Mathematics of Abstraction, Springer, 2007.
+
+Author information
+Christopher Pincock
+Email: pincock1@osu.edu
+Ohio State University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

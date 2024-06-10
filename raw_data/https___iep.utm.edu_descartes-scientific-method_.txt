@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+Descartes, Rene: Scientific Method | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+René Descartes: Scientific Method
+René Descartes’ major work on scientific method was the Discourse that was published in 1637 (more fully: Discourse on the Method for Rightly Directing One’s Reason and Searching for Truth in the Sciences). He published other works that deal with problems of method, but this remains central in any understanding of the Cartesian method of science. The common picture of Descartes is as one who proposed that all science become demonstrative in the way Euclid made geometry demonstrative, namely as a series of valid deductions from self-evident truths, rather than as something rooted in observation and experiment. Descartes is usually portrayed as one who defends and uses an a priori method to discover infallible knowledge, a method rooted in a doctrine of innate ideas that yields an intellectual knowledge of the essences of the things with which we are acquainted in our sensible experience of the world. This metaphysics of essences and the accompanying a priori method are then contrasted to the method of Newton, Bacon and the British empiricists, who denied the metaphysics of essences and the doctrine of innate ideas, and for whom knowledge of the world of sensible appearances was to be located, not by going outside it to a realm of essences, but by applying the method of experiment through which one could trace out the patterns in this world of causes and effects. There is something to this standard picture, but Descartes’ thought, like that of the empiricists, goes far beyond this simple description. In fact, Descartes sought to found our knowledge of things as much in experience and in experiment as in things a priori.
+Table of Contents
+
+Science as Observation and Experiment
+
+Laws about Laws
+Models of “How Possibly”
+Application to Human Physiology
+
+
+Cartesian Rationalism
+
+A Priori Method
+Geometrical Deduction
+Deduction in the Discourse and Meditations
+
+
+Method of Doubt
+Conclusion
+References and Further Reading
+
+Primary Sources
+Bibliographical Study
+Secondary Sources
+
+
+
+1. Science as Observation and Experiment
+a. Laws about Laws
+Let us begin in the middle of one of these essays, the Optics, and in particular its Fifth Discourse, “Of Vision.” There Descartes asks the reader to turn to experience, observational knowledge. He asks the reader to carefully observe an eyeball, say that of an ox, from which a portion of the rear has been removed with sufficient care to leave the eyeball fluid untouched. The portion removed is covered with a thin piece of paper. Descartes then describes how one can view the image formed on the back of the eyeball of objects at varying distances from the front of the eyeball, how the size of the image varies with distance, becomes fuzzier when the eyeball is squeezed, and so on. These were observations that had not before been recorded: they were part of the “new world” that science was just beginning to explore. The method was to, in the first place, explore it by empirical observation. Look, but look carefully and systematically.
+To observe, however, is not to explain, and the new science seeks also to explain. Descartes has prepared the way for this. In earlier Discourses in the Optics, he presented the laws of geometrical optics for reflection and refraction. The former was already well known, but the sine law for refraction was newly discovered. (Huygens was later to complain that Descartes had not referred to Snell, who is now generally credited with the discovery of this law.) Descartes carefully shows how the lens of the eyeball, in conformity with the law of refraction, focuses light arriving from the object to form the image on the retina. The more particular biological facts of sight can be explained by the more general laws of geometrical optics.
+The sine law of refraction is the general form of a set of laws: the angle of refraction will depend upon the particular transparent substances through which the light passes. The actual angle for any pair of substances will have to be determined by experiment.
+Notice the structure of these inferences. There is a general law to the effect that for any situation of certain generic sort, there are specific laws that have some generic form. This is a law about laws. This law about laws serves as an abstract generic theory, and it yields, in regard to any specific sort of situation falling under the genus, the conclusion that, for such a specific sort of situation, there is a law (this has been called a “Principle of Determinism”) and that this law will have a certain generic form and not any other sort of form (this has been called a “Principle of Limited Variety”). These two Principles provide a framework within which the scientist searching after truth works as he or she attempts to locate the law of the relevant generic sort that is there, according to theory, to be discovered. There will be a number of specific possibilities, each of the relevant generic sort. The task will be to turn to experiment to eliminateall possibilities but one by finding counterexamples. The un-eliminated hypothesis will be the specific law one is aiming to discover. In particular, such experiments will determine the constant of refraction that the sine law asserts to be there for specific pairs of transparent substances. Experiment will confirm the un-eliminated specific hypothesis, and this will in turn confirm the more generic theory that predicted the existence of a law of that relevant form.
+The direction of the light rays as they pass from one substance to another will be determined not just by the constant of refraction, but also by the curvature of the surface that is the interface boundary. Descartes shows how the shape of a lens contributes to the formation of images. This again is a generic description of the laws applying to many specific situations. Descartes applies this knowledge to account for the various effects that can be produced on the image on the retina, for example, by squeezing the eyeball to distort the lens of the eye in various ways.
+In later Discourses in the Optics Descartes goes on to show how this knowledge of patterns or regularities among things and events of the sensible world can be used to design telescopes, recently used effectively by Galileo, and to design lenses that can be used to remedy defects in eyesight. Descartes is using the knowledge of patterns not only to explain things newly noticed in observation, but also to apply it in ways useful to the further scientific exploration of the world (telescopes) and to make ordinary life better (corrective lenses).
+The laws about laws that are the laws of reflection and refraction are themselves laws of physics, laws of matter in motion. In his presentation of these laws in the earlier Discourses in the Optics, Descartes uses a speculative model of light as consisting of little particles akin to tennis balls, only much smaller. This kinship is not only one of shape but one of the generic form of the laws that describe the motions of these two sorts of entity. He assumes that the particles of light move in straight lines. In the case of reflection he assumes that the light, that is, these light particles, strike an impenetrable surface and bounce off. In the case of the refraction he assumes the particles pass from a medium of one density to and through one with another density. The deductions Descartes offers are, in particular in the case of refraction, of questionable validity, but that is not to the present point; our interest is in the Cartesian method or methods and not how he actually applies them.
+Descartes is clearly open to speculation because the model he uses for light is one that lacked empirical confirmation. He offered little evidence for his model of light. But it has two uses. One is as a heuristic device, to be used to discover laws, such as that of refraction, which can themselves be confirmed in experience. The experimental confirmation of these specific laws will also confirm the laws of the generic theory that has been discovered by means of the heuristic model.
+He was clear, in his own mind at least, that the model had hardly be given a demonstration in the sense in which one could give in geometry the sort of demonstration given by Euclid. He wrote to Mersenne:
+You ask me whether I think what I have written about refraction is a demonstration. I think it is, at least as far as it is possible, without having proved the principles of physics previously by metaphysics, to give any demonstration in this subject … as far as any other question of mechanics, optics, or astronomy, or any other question which is not purely geometrical or arithmetical, has ever been demonstrated. But to demand that I should give geometrical demonstrations of matters which depend on physics is to demand that I should do the impossible. If you restrict the use of “demonstration” to geometrical proofs only, you will be obliged to say that Archimedes demonstrated nothing in mechanics, nor Vitello in optics, nor Ptolemy in astronomy, etc., which is not commonly maintained. For, in such matters, one is satisfied that the writers, having presupposed certain things which are not obviously contradictory to experience, have besides argued, consistently and without logical fallacy, even if their assumptions are not exactly true. (27 May 1638)
+b. Models of “How Possibly”
+The other use which these models have is to yield what might be called “how possibly” explanations. Many explained that sight occurred by immaterial sensory species, images of the objects being observed, being given off by those objects, and impinging upon the eye. The challenge was more or less that something like this must be so because no purely material explanation, in terms of particles interacting mechanically, could be given for the person becoming aware of the form of the object viewed. Descartes’ model showed how this could be so because it explained how it possibly could be that there is a mechanical process that accounts for the facts of sight without invoking immaterial entities.
+Descartes works out further this “how possibly” model, when he goes on in the Optics to elaborate a vision of the biological workings of a complete physiology that, like the more restricted case of the workings of the eyeball, can be explained by the supposed laws of a mechanistic physics. He lays out the idea that there certain fluids – “animal spirits” – carrying in effect messages from the sense organs to the brain, and to the pineal gland in particular – where he supposes the messages to be read as it were by the mind – this is the point of contact between the mind as a mental substance and the body as a, or more accurately as a part of the, material substance. The pineal gland is where the science of physics and material things stops, and the metaphysics of mind takes over. We need not pursue the line of the perceptual process from body into mind.
+These “how possibly” uses of mechanistic models clearly introduce a research program, both of discovering the specific laws they suggest are there and confirming that the models do represent the structure of the world.
+There was another point to the development of these “how possibly” models. The Roman physician Galen had written a work On the Usefulness of Bodily Parts, which thoroughly examined anatomical and physiological functioning. It was based on dissection, mainly of animals, and some experiment, and a good deal of speculation. Overall, it argued the thesis not only that the parts of the body are useful to the survival and good life of the animal or human being, but more strongly that the existence of these parts was to be explained by their utility–they existed in virtue of the fact that they contributed to the Good. While connected to the past, the cause of their existence was the form of the Good, their final cause, drawing them from the future into the present. Galen’s work was openly teleological, a perspective developed by Plato, first in the Phaedo against Anaxagoras, and extended by Aristotle, against the mechanism of Democritus and Epicurus and Lucretius. While rejecting the anti-theological positions adopted by these latter Greek and Roman philosophers, Descartes sided with them in opposing teleological explanations. To be sure, anatomy and physiological processes did contribute to the survival and well being of animals and human beings, but their explanation was entirely in terms of mechanistic causes. Descartes’ “how possibly” explanations aim to establish that our understanding of bodily processes needs no teleology because research can proceed here much as it proceeds in physics. That is, the science of human physiology is the same in kind as the science of stones.
+c. Application to Human Physiology
+Descartes was prepared to extend his guess to the whole set of natural processes defining the human being (save for rational thought and action under control of the conscious will). In the early 1630s he composed a Treatise on Man (Traité de l’homme), which he suppressed on learning of Galileo’s condemnation in 1633. It appeared only posthumously, in 1664, when it was published along with another unfinished work, this one from 1647/8, The Description of the Human Body (La Description du Corps Humaine). The latter is sometimes titled “On the Formation of the Fetus,” though this is misleading as this is only part, albeit an important part, of what the work covers. The Treatise begins deliberately with the supposition that God has built a statue which is a “machine made from earth,” with a heart, a brain, and so on, but a contrivance which in detail works much like a clock, only in more complicated ways. The complex mechanisms are assumed to be able to approximate those of a human, but as it is imagined as a machine we will not be tempted to attribute its motions to the various mysterious powers, vegetative and sensitive souls, and so on, as did Aristotle and the Scholastics. Descartes’ program aimed to show that all but rational and deliberately willed and self-conscious behavior could, in principle, at least, be explained as material processes operating according to mechanistic laws. He therefore elaborates “how possibly” such a machine might work. He describes how a “man of earth” analogous to clocks and to the automata, powered by water and doing various things, constructed by engineers for the gardens of the rich, but incredibly more complex, might be constructed by God and how it might work. The mechanisms envisioned by Descartes for this “man machine” in the Treatise are quite complex, although in comparison to what we now know of these mechanisms, they are simplistic and crude. The Description is a more curious work, dealing with the development of the human being from sperm through fetus to grown adult person. It consists mainly of assertions and coarse sketches of the mechanisms supposed to be involved. It was still a “how possibly” explanation, but it certainly was less persuasive than other parts of Descartes’ sketches of a non-Galenic, non-Aristotelian mechanistic vision of the human body.
+Once Descartes’ program in anatomy and physiology became known, its impact was immense: it was a breath of fresh air that swept away old ideas that merely obfuscated things, and opened up a “new world” for scientific investigation. Still, there were those who were not convinced. The English philosopher, Henry More, was one of these. He argued that the complexity of the human body and activity, indeed the complexity of plants and animals, could not be accounted for in terms of the bouncings and collisions of billiard balls of different sizes. He corresponded with Descartes on these issues, and his ideas appeared in a book On the Immortality of the Soul (1659; included together with Letters to Descartes in hisPhilosophical Writings, 1662). More argued that the bodies of living things, including humans, had an irreducible complexity that mere mechanisms could not account for, and that non-material entities and forces, “plastic forms,” were needed. Needless to say, these plastic forms were non-empirical entities. The idea is with us still, with those who deny the inadequacy of natural selection to explain the origin of complex biological mechanisms. No doubt Descartes had not shown “how possibly” the physicalist mechanisms would work. This was especially true of the Cartesian account of the development of the fetus: the passage of information from the sperm to the developing organs begged for the idea of an immaterial Form or final cause pulling the matter together into a whole unlike in any way its genetic antecedents. More thought this way. He could not envision a more complicated physics, one that included the molecular biology of DNA molecules materially embodying the required information. A physics much more developed than Descartes and More could conceive, certainly much more than the levers and billiard balls and flowing fluids that formed the limits of their vision. But while, in the end, physics went well beyond that limited Cartesian concept of the laws of physics to the laws of quantum mechanics and of molecular biology, these are still the laws of physics and it is still physics which forms the basic patterns of causation in physiology. Thus, it has been the Cartesian vision of a world that is to be understood physically, and the Cartesian method that has triumphed, and it is no longer “how possibly” it works, but rather how it actually works.
+Descartes laid out the basic framework for empirical investigation in the main body of the Discourse on Method, in the Fifth Part. He makes specific reference to William Harvey’s experiments that established the circulation of the blood, against the views of Galen, drawing attention to the eliminative role of observations in determining which, among several possible cases, is the one which is true. He indicates the need for a background generic theory to guide research by providing a principle of determinism and a principle of limited variety. Descartes is well aware of the logical structure of the research process for investigating the natural world, and discovering the laws of that world.
+The background theory that is needed is the thesis that the world operates through mechanical processes and mechanisms that obey the laws of physics. Discoveries such as that of Harvey confirm these generic laws that guide the research. But there is more to it than that. This is where Descartes slips from the idea of science as empirical to the idea of science as a priori, from the idea of science as a method rooted in observation and experiment to the idea of a science whose method is rooted in the demonstrations of pure reason.
+2. Cartesian Rationalism
+a. A Priori Method
+Descartes argues that the laws in the basic mechanistic framework that he takes to hold for sciences like optics and physiology – these laws about laws that guide empirical research in these sciences – are not themselves empirical but are rather necessary truths that are knowable a priori. Thus far we have seen that Descartes is well aware of the logical structure of the experimental method in natural science. To that extent he is not a philosopher who asserts that the a priori method applies everywhere. But he is nonetheless correctly to be counted among the rationalists. In fact he argues that in principle at least all laws could be known a priori. It is just that the world of ordinary things is too complicated in its structure for us, with our finite minds and limited capacity to grasp the a priori structure of the world, to deduce from self-evident premises the laws of the mechanisms underlying ordinary observable things and processes. We can know a priori the law about laws that there are more specific laws with the generic structure of physical mechanisms, of machines. But what those specific laws are requires empirical research; they are too complex logically to be knowable a priori by us, with our finite capacities.
+Descartes argues that all things, including the material world we know by sense, have an inner essence or form, and its presence explains the structure of things as they ordinarily appear. These essences or forms are known not by sense but by reason. Reason is precisely the capacity to grasp these essences which are the reasons for things, the reasons why there are these patterns and regularities in the sensible world rather than others. He takes for granted that when the form is known that form is literally in the mind of the knower: there is an identity of the knower and the known. To grasp the essence of a thing is to know a priori the structure and behavior of the thing of which it is the essence. Material things are all modes of a single substance, the essence of which is extension. When we grasp the axioms of geometry as necessary truths, we are grasping the logical and ontological structure of the material world. Descartes is like Aristotle in attributing essences to things, but for Aristotle knowledge of the essence is given by syllogisms and by real definitions of species in terms of genus and specific difference. For Descartes, the structure is given by the truths of geometry.
+Descartes holds in the Fifth Part of the Discourse on Method that the basic laws of physics are those of the geometry of objects in motion. These laws, he suggests, can be deduced from our knowledge of God. He creates a world the essence of which is given by the laws of geometry together with the principle that in any change quantity of motion is conserved. This conservation principle is thought to follow from the unchanging nature and stability of God the creator. There is a much more detailed derivation in thePrinciples of Philosophy. It is far from adequate. Descartes’ knowledge of the laws of physics and of mechanics falls far short of Newton’s. Perhaps this shows the weakness of the a priori method proposed by Descartes for obtaining the basic framework laws for science, the framework that provides the starting point of the experimental method and of the “how possibly” explanations he offers for material processes. Many have thought so.
+In the Principles of Philosophy he goes so far as to attempt a derivation of the basic laws for planetary motions, based on the mechanistic supposition that the planets are material objects moved in circular fashion by vortices in a surrounding material fluid. Newton was soon enough to present his Mathematical Principles (Principia Mathematicae) to the world. Descartes had been able to present only a set of non-mathematical principles, but Newton demonstrated that the vortex account, whatever its pretensions to being established a priori, was, given his three laws of motion, inconsistent with the facts of elliptical orbits as established by observation by Kepler. After Newton had succeeded in his attempt to “demonstrate the frame of the system of the world” (as he set out to do in Book III of his Principia Mathematicae), little was heard, save for a rearguard of French Cartesians, of the vortex theory. It became an historical curiosity.
+Be that as it may, it could be concluded that Descartes had merely misapplied his method a priori, not that it was incorrect. Some later thinkers such as William Whewell argued this point. The method did not disappear in the way the vortex theory disappeared.
+b. Geometrical Deduction
+In one sense, this method is like the method of geometry that Euclid had given to the world in that one began with self-evident truths as axioms and then deduced by equally self-evident steps a set of theorems. Descartes referred to this as the “synthetic method” of doing geometry and (he had hoped) physics. He attempted this in outline in the Discourse on Method and in detail in his Principles, taking as his axiom the existence of God as an unchanging and stable creator of the natural world. The mechanistic framework for carrying on empirical research followed.
+However, there is the issue of how the premises are discovered. Euclid never showed how this was to be done. But the later Greek mathematician Pappus, to whom Descartes referred on the issue of method in the Rules for the Improvement of the Understanding, had suggested that the method of finding premises reversed as it were the deductions of the synthetic method. This was the “analytic method.” On the synthetic method one begins with premises that are accepted as true and works deductively towards conclusions, the theorems. Having reached the theorem, one has constructed a demonstration of that proposition. This synthetic method takes as given the premises from which it starts. But often to find a demonstration one must locate the premises from which the demonstration is to be constructed. This task of discovery was the point of the analytic method. On this method, one takes the conclusion to be demonstrated not as something accepted as true but merely as an hypothesis. One then works deductively towards the premises which one hopes to find for constructing a demonstration. Having arrived at the appropriate self-evident premises, one reverses the steps to obtain a synthetically organized demonstration of the hypothesis from which the analytic process started. And now that one has this demonstration, the proposition is transformed from a mere hypothesis to one that can be accepted as true. A particular version of the analytic method occurs in a reductio ad absurdum proof. Here one begins from an hypothesis and derives a contradiction; one then concludes that the hypothesis must be false, and that its denial is true. And as a special case of reductio ad absurdum, one begins with a proposition taken hypothetically and derives a conclusion that contradicts a known truth, concluding thereby that the original hypothesis is false. Descartes proposed to use this method to discover the axioms for his synthetic deductions: he is inspired by its uses in algebra, but extends it to his proof that the truths of geometry, arithmetic and physics, while self-evident, can themselves be demonstrated to be incorrigibly true from still more fundamental premises. The synthetic method was fine enough for the presentation of demonstrations in a science where the basic axioms are already known, and Descartes was to use this method, or thought he was so using it, in those parts of the Principles of Philosophy where he offered demonstrations of the basic truths of physics. Needless to say, his “proofs” have for the most part come to be seen as inadequate. But the analytic method was necessary from the discovery of the required premises. This is the method he proposes in the Discourse on Method as basic to firmly grounding the edifice of knowledge; and it is the method he uses in his presentation of the search after fundamental and incorrigible truths in the Meditations on First Philosophy, though here again he has generally been taken to be less successful in his application of the method than he himself hoped to be and expected he was. But his advocacy of the methods have continued to have their influence, in mathematics and algebra, and perhaps in physics, if not in first philosophy. Nevertheless, no one now expects to construct in either physics or geometry or first philosophy the rationalist ideal of an a priori demonstrative science.
+c. Deduction in the Discourse and Meditations
+As for the analytic method, Descartes was to use the first of the treatises appended to the Discourse on Method to illustrate the power of this method. This was the treatise on Geometry. This work in mathematics is remarkable, and it too was to revolutionize the way people thought about both algebra and geometry.
+Descartes first set out to purify algebra. This was to be done by separating its patterns of thought from the particular subject matter to which it could be applied. He first separated what is given from which is to be discovered, developing the still current notation of a, b , c, … for known quantities and x, y, z, … for unknowns. He also reformed the notation for exponents replacing verbal terms such as “square” and “cube,” and so forth, by superscripts 2, 3, …, eliminating the geometrical connotations of the verbal terms. We continue to use this Cartesian notation.
+Descartes then set out to apply this purified algebra in the solution of geometrical problems. The details need not concern us. For us it suffices to look at the problem he first addresses. This problem, which was posed originally by Pappus, is one of finding a curve of a point y relative to a point x, subject to certain geometrical constraints. To solve this problem he invents and uses the notion of a coordinate system. In effect he creates an arithmetical interpretation of geometry. (Descartes himself uses only an “x– axis”; the familiar extension of this idea to using two orthogonal “x” and “y” axes – what we now call “Cartesian coordinates” – were a later development of Descartes’ pioneering idea.) Descartes shows how the finding of this curve can be done algebraically by solving certain equations. The point for us is that the solving of an equation is a matter of applying Pappus’ “analytic method.” Given a, b, c, … , standing in certain arithmetical relations to one another, the equation in x and y asserts that there are values satisfying these conditions, that is, that there are solutions to the equation. This is the theorem to be proved. One proceeds by taking it as an hypothesis that x and y are solutions, and works out what those solutions are. This is the analytic process. Having found the solutions, one then has the premises from which the theorem to be proved follows. Deriving the theorem from the newly discovered premises is the synthetic process.
+The algebraic methods that Descartes developed enabled him to present a series of entirely novel and original moves in geometry. Descartes’ work in its applications is itself significant, but what was revolutionary was the new methods for solving problems in geometry and algebra. It is easy to prove theorems, but the greatness of a mathematician is the new methods of proof that he or she introduces. By this standard Descartes was indeed a great mathematician. Thinking in terms of equations, one can see why Descartes valued the analytic method over the synthetic, for the latter amounted to a footnote to the former. The analytic method was the one to be used if one was aiming to discover new truths; once these are discovered the synthetic method can be used to present this knowledge to students. As a method for discovering truth, the synthetic procedure was largely useless, the searcher after truth will need, and will use, the analytic method. This why Descartes argues that the analytic method is the appropriate method for discovering the a priori necessary truths that are the starting point for any genuine science, not only a science like geometry but also as providing the necessary theoretical truths required by the eliminative methods of empirical experimental science.
+Now, Descartes makes clear in the Discourse on Method that his starting point for his science and his physics is the existence of God. It is from the existence of God as stable and unchanging that he claims to be able to deduce, and thereby demonstrate, the basic laws of physics, the laws of motion and the laws describing the causes of changes in motion. That God is the starting point for his demonstrative science of physics is made even clearer in the Meditations. In both this and the Discourse, Descartes moves from his own existence to that of God, and then uses this as a premise from which his physics is deduced. It is evident that he is working with necessary truths and necessary inferences, or at least apparently necessary ones.
+Descartes makes some important remarks in reply to some objections to the argument of theMeditations. Prior to publication of the Meditations, Descartes had circulated the manuscript to various other philosophers; they raised objections, and he wrote replies. He published his Meditations together with these Objections and Replies. In one of the Objections, the issue is raised why Descartes did not present his work in geometrical fashion, proceeding from axioms to theorems, using the synthetic method. In his Replies, Descartes explains he could have done so, but preferred to present his thoughts in the analytic method, which gives the order of discovery, through which the mind rises from hypotheses to the premises that are then used to prove synthetically the hypotheses that were the starting point of the inferences. He does, however, accede to the request of the Objection and does give a synthetically organized presentation of his inferences.
+In this synthetic presentation the first proposition that he establishes is God’s existence, which he takes to be something involved in the very idea of God as a being who, of His own nature, has all perfections. He then proceeds to the causal arguments for God’s existence, and then to the proposition that God guarantees the truth of all propositions self-evidently implied by our ideas. Naturally enough this reverses the order of the Meditations themselves, which proceed in the order of the analytic method.
+This means that the order of the Meditations is from propositions taken hypothetically to the proposition which is to form the first proposition to be discovered to be true and from which the hypotheses are then to be proved, that is, transformed from hypotheses to known truths.
+Descartes reports in the First of the Meditations how he discovers that he can doubt almost everything about the material world that surrounds him. At the beginning of the Second Meditation his attention suddenly shifts from the world given in sense experience to the world given in inner awareness. He here discovers a proposition that he cannot doubt, namely the proposition that he expresses by “I think.” Since this thinking is a mode it must clearly be a mode of something, a substance: “I think, therefore I am.” Further, his thinking is inconceivable apart from himself, unlike, for example, extended things such as his body. He draws the further inference that he is a thinking thing. That is, he apparently is a substance, not a rational animal as Aristotle said, but a being or substance that is purely rational, one the essence of which is to aim to grasp the reasons for things. He carefully points out that this distinction between mind and body, based on the separability in thought of thinking from extension is only tentative. It may be that the world is not such as it here self-evidently appears to be. Thinking and extension may in the end be necessarily connected and it may be that modes can exist apart from substances, inconceivable though these things apparently seem to be. All this is to be here taken hypothetically, as a starting point in the analytic process leading to the discovery of a premise or premises that will serve to guarantee their truth and to justify the Meditator accepting them as truth.
+It must be emphasized that Descartes does not, as so many seem to think, deduce the existence of God from the principle that “I think, therefore I am.” The latter is not a first truth from which all other knowledge is taken to follow, including our knowledge of God, as theorems proceed from axioms. To suppose this would be to suppose that the Meditations are organized in the order of a synthetic process, proceeding from known truths to true theorems that are deduced from those known truths. But Descartes clearly states that the order of the Meditations is that of the analytic method, from propositions taken hypothetically to simpler propositions which can then be used to prove deductively the hypotheses that were the starting point of the inferences. At the start of the process, one has only a proposition taken hypothetically. So the Meditator’s own existence is a mere hypothesis, not a known truth, as is the premise from which it derives that all properties or modes exist only in substances.
+This is where the Meditator is at the beginning of the Third Meditation. He or she can conclude, however, that as he or she is an imperfect being. Being a being that aims to know the doubt with which he or she is presently seized, it is clear he or she does not exist as his or her essence naturally implies that he or she should exist but lacks something the presence of which would be his or her Good. The idea that one has of oneself is that of an imperfect being; but to conceive an imperfect being requires one to be able to conceive a perfect being, just as conceiving something to be a non-square requires one to have the idea of a square. The presence of the negative idea requires the presence of the positive idea. So, the Meditator has the idea of a being that lacks no Good, no perfection–for any way of being this entity has that way either actually or formally. (Recall here that an idea, which, as Descartes speaks, formally exists as a property of the mind, exists objectively as the form or essence of a substance; the idea is true only if that the substance of which it is the essence actually exists in sense that it has actually the properties the essence determines that it ought to have; the idea is false if the substance has properties contrary to those that the essence requires it to have.)
+The Meditator now infers the existence of such a perfect being from the fact that he as a finite being must be caused by such a perfect being, and from the fact that he or she could have present in his or her thoughts the idea of such a being only if it were placed there by such a being. But the existence of a perfect being is only established hypothetically – the arguments depend upon causal principles that, while self-evident, have not yet been established as true – following hypothetically from propositions that are themselves only hypothesis, the existence of God at this point in the inferences of the Meditations can only be an hypothesis – a further stage as one is led on by the analytic method to the discovery of what one hopes will be a truth upon which all other truths can be made demonstratively to rest.
+The Fourth Meditation is a sort of aside in which Descartes clears away an apparent difficulty. There appears to be an inconsistency between the idea of a perfect being causing one with the idea that one falls into error and doubt: shouldn’t a perfect being create beings that do not fail to be what essentially they ought to be? Descartes replies that such error is not caused by God but by ourselves. Located in a world that often hastens us on, we must regularly conclude before full evidence is available. Our will moves us to judge and such judgments often outrun what reason can justify. Now, God has given us free will, and this is a greater good than is mere avoidance of error. God’s will does not cause us to err, it is our own will that does that, so the idea of a perfect God creating us is compatible with our being beings that fall into error. The apparent difficulty disappears, and we can return to the process of analysis that is, one hopes, leading one to a premise which can serve to demonstrate the hypotheses through which one is being led by a series of apparently necessary connections.
+This brings us to the Fifth Meditation. Thinking of oneself as a finite being one is led to the idea of God and then to the idea of God as one’s creator and as one who is created with the idea of such a perfect being within oneself. But now before one’s mind is the idea of a being with creative powers that lacks nothing, lacks no perfection. It must therefore in particular cause itself to be and to be in this state of full perfection. But if it has the creative power to maintain itself as a being which lacks nothing, if, in other words, it is a being which as a creating being is infinitely powerful, then there is nothing else that could cause it not to be in any way at all. We have within us this idea and as we plumb its depths we recognize that this is an idea of a being the creative powers of which guarantee that it exists, it is the idea of a being that guarantees the truth of this very idea. Our other ideas are ideas of finite beings none of which can guarantee their own existence and the ideas of which might therefore be false; but this one idea, this one essence that is before the mind, is the idea of a being infinite in its creative powers and which is therefore the essence of a being that can guarantee its own existence, which in turn therefore guarantees the truth of the idea of itself.
+Here, then, in the existence of God, we have reached the end point of our analytic process in a truth which guarantees its own truth and upon which all other truths can be made to rest. This truth can therefore form the incorrigible base upon which all our knowledge claims can be made to rest. Descartes can now hastily draw things to a close: God as a perfect being, could not create non-being: it is a contradiction to suppose non-being could be brought into being. But for a rational being, a thinking substance, to err is for it to not know: it is a form of non-being. So God could not create a rational being for which principles clearly and distinctly perceived to be true were after all false: that would be to create a being which systematically erred about the structure of the world. So what is clear and distinct, what is self-evident, and compels its acceptance by the Meditator and indeed by any rational being, is guaranteed to be true. In particular, the laws of geometry, of extended substance, are guaranteed to be true. And further, the incompatibility of thought and extension as essence of substances, which, in the SecondMeditation, while clear and distinct, is only apparently true can now be affirmed as not merely apparently true but as actually true.
+With God, we have reached at the conclusion of the analytic process the starting point of the synthetic presentation that Descartes gives in his Replies to the Objections. In that synthetic presentation, the sequence ends with the conclusion (theorem) that what is clear and distinct must be true.
+Two points need to be mentioned. First, the move of “I think, therefore I am” (cogito, ergo sum) is not a direct insight into the Meditator’s own being. It is, rather, an inference, based on the principle that every mode (property) exists only if it is in a substance. Since it is based on a metaphysical principle the truth of which has not yet been established, it could not provide a starting point for constructing the edifice of knowledge.
+Second, the existence of God is in the end not established by argument. The so-called ontological argument of the Fifth Meditation is not in fact an argument. It is rather a case where we have direct insight into the essence of God – what is formally the idea of God is objectively the essence of God – , where we recognize that here we have an essence that guarantees its own existence as an infinitely powerful being and thereby guarantees the truth of the idea through which we think it. Other ideas we have are no doubt true, but none save this one alone guarantees its own truth – guarantees it in a way that requires no argument. With God we reach a point where no further premises are either available or needed.
+The Cartesian method to science thus indeed yields an a priori science. It is a deductive method but one that involves both analysis and synthesis.
+3. Method of Doubt
+We have so far studiously avoided one feature of the Cartesian method. This is the so-called “method of doubt.” Descartes takes very seriously the notion that progress in science will be hindered if we allow our minds to be clouded by the worthless standards inherited from the past and from our teachers. Thus, he begins the Geometry with his clarification of the notion of a power, removing the irrelevant geometrical connotations attached to expressions like “x cubed” and replacing them with the perspicuous notation of “x3” that we continue to use to this day. Again, he believed it to be important to shed ourselves of all forms of teleological thinking – he chastised Harvey for falling away from the mechanistic reasoning he used to establish the circulation of the blood and into teleological thinking when he came to discuss the action of the heart.
+He therefore recommended that one undertake a cleansing intellectual project in the attempt to move towards truth by first eliminating error and indeed all possibility of error. This could be done by rejecting as false all propositions that could in any way be doubted. This is Descartes’ first rule of method in theDiscourse on Method. This is stated as the injunction:
+[N]ever to accept anything as true if I did not have evident knowledge of its truth: that is, carefully to avoid precipitate conclusions and preconceptions, and to include nothing more in my judgments than what presented itself to my mind so clearly and so distinctly that I had no occasion to doubt it.
+By eliminating all dubitable beliefs, truths would of course be excised along with the false, but then in the re-building of the edifice of knowledge that was to follow those truths would be recovered, free from the errors of the past.
+This was an exercise to be undertaken by oneself, simply taking oneself to be a rational being. But if one is rational, one is also animal, even if being an animal is not part of one’s essence. The animal makes demands – one must eat and drink, one must sleep, perchance to dream, one must live with others, one might even take a lover. One could not do this if all beliefs were eliminated. So Descartes also recommends that one go along with this second best, the beliefs that one needs to survive and to have a decent and pleasant life – interrupted only occasionally by bouts of meditating on the foundations of knowledge, or the basic laws of physics – just as one must in the end do science empirically, through observation and experiment, even though it is only uncertainly founded. Reason demands for itself the method of doubt, but the remainder of one’s being makes unavoidable demands that require one to ignore the promptings of reason to try to doubt everything. The reasonable person will accede to those demands, just as reason must attempt a universal doubt. It is also part of Descartes’ method that one does accede to those extra-rational demands. The reasonable person could not do otherwise: there is in the end more to being human than simply being rational.
+It is remarkable, however, just how far Descartes, while meditating, is prepared to take the doubt his method recommends. In the Discourse on Method he seems to stop with what is self-evident, what is clear and distinct: he seems to assume is true, and therefore makes this his starting point. In theMeditations, he takes the doubt a step further, finding a way to call into doubt even what is most evident. His model is the traditional doctrine of transubstantiation according to which the bread and wine during the saying of the mass is miraculously transformed by God into the body and blood of Christ. The sensible appearances remain the same, but the substance changes in its essence. The heretic and unbeliever will be deceived by appearances into thinking no change has occurred. But the good Christian knows that whatever be the sensible appearances what is really there is the body and blood of Christ. His or her faith prevents him or her from falling into the error of the heretic and the unbeliever. Indeed, it is out of God’s goodness that the heretic and the unbeliever be deceived in this way, since if they realized what was really happening, that the body and blood of Christ were being consumed, they could charge the Christian with the sin, horrid to conceive, of cannibalism.
+So Descartes at least takes Thomas Aquinas’ account of transubstantiation seriously and uses it as a model. He creates the hypothesis that there is a powerful being who has the capacity to deceive me into thinking that world is not as my clear and distinct ideas make it out to be when in fact in its essence it is something else. One hypothesizes that there is a powerful being, like God no doubt, but instead an evil genius, intent on deceiving one about the basic ontological structure of being. In fact, the hypothesis is sufficiently strong to make is possible that I am deceived about my own being, that contrary to what appears to me to be true, that cogito ergo sum holds, it really does not and I am really something essentially different from the thinking thing that I appear to me to be. (Descartes makes clear at the beginning of the Third Meditation that the hypothesis of the evil genius calls even the cogito into question.)
+So we have the structure of the Meditations as follows:
+[Hypothesis:] There is an evil genius who is deceiving me about the truth of clear and distinct ideas. [From this hypothesis I now infer] if I am being deceived, then I am thinking; if I am thinking, then I exist; if I (as a finite creature) exist, then there exists a God (an infinite being) who creates me; – [here the existence of God is hypothetical, but having reached the idea of God as an infinite cause of all being, including myself, I can see as I grasp this idea that it non-hypothetically requires its own truth] – God (as an infinite creator) guarantees His own being and therefore exist – [here we have reached a certain and incorrigible categorical truth]; but [now upon this truth all other truths hinge] an infinite being is a perfect being and therefore cannot create finite beings who are systematically deceived; therefore our clear and distinct ideas are true; therefore there is no evil genius.
+The Meditations thus have the form of an analytic structure of a reductio ad absurdum of the hypothesis of the evil genius who systematically deceives me: I find in God that necessary truth which contradicts and therefore eliminates the hypothesis of the evil genius. The method of doubt is solved by Descartes to his own satisfaction, but to few others. For him it was a way to purge the mind of inherited prejudice, and therefore merely a first and preliminary step on the way to truth. It was clear to him that if one stopped there then one had fallen into a skeptical morass – a skepticism close to that into which Montaigne had suggested was the inevitable fate of the human intellect, it was human hubris to think that one could really know anything. One had to settle for such mere belief and opinion that one could learn from experience of the ordinary world – which was also the position Descartes recommended for the human being to fall back into while undertaking the intellectual exercise of the method of doubt. Descartes felt he could find the natural light of reason and move out of Montaigne’s skeptical morass – he felt that the illumination began with his discovery that cogito, ergo sum, and from there was led on by that light of reason to discover its source in God and to discover in that source a firm point on which to tie down incorrigible and indubitable knowledge of the rational structure of the world.
+4. Conclusion
+Many now see Descartes as having posed the skeptical challenge that still confronts philosophers, with the hypothesis of the evil genius taking the skeptical challenge as far, or as deep, as it can go. For Descartes, however, it was more like the deep night through which the soul must pass on its way to light, the light of reason, and to God as the reason for all things and the source of that light, and then, through God, to the scientific study of the world. Few have been able to follow him: he has not convinced. For most, the radical skepticism created by Descartes’ method of doubt and the demon hypothesis is a sham: Descartes creates the problem for himself when he suggests that the world can be distinguished ontologically into the world of ordinary experience and a world of essences or forms that lies beyond this ordinary world but which constitutes the reasons for its being. If the reasons for our ordinary world being as it is are not to be found in that world, then they are not to be found at all, and the radical skepticism is a consequence of a search after what cannot be found: the skepticism is not there to be conquered, as Descartes thought, but to be dismissed as an unreasonable longing for a world of certainty that is not there.
+But if we say this, then we must also say that method of doubt is not wholly to be dismissed in this way. While the radical skepticism that Descartes proposes cannot be reasonable, we should nonetheless take his method seriously enough that we remain diffident in our judgments – that we not take things dogmatically, but rather critically, ready to recognize evidence that can challenge the rational acceptability of those judgments. So long as we do not take ‘clear’ and ‘distinct’ as rigidly as Descartes does, it is not a bad rule “to include nothing more in one’s judgments than what presents itself to one’s mind so clearly and distinctly that one has no reason to doubt it” (to paraphrase Descartes’ rule in the Discourse). This is what reasonable persons do. It is now the norm, it was not the norm before Descartes.
+Nor, taking Descartes’ other rules of method just as cautiously, is it difficult to see the wisdom in these rules of method – the rules in the Discourse that one should “divide each of the difficulties examined into as many parts as possible and as may be required in order to resolve them better”; that one ought “to direct one’s thoughts in an orderly manner, by beginning with the simplest and most easily known objects in order to ascend little by little, step by step, to knowledge of the most complex, and by supposing some order even among objects that have no natural order of precedence”; and that one ought “throughout to make enumerations so complete, and reviews so comprehensive, so that one could be sure of leaving nothing out.” Following these rule may not lead one to discover the existence of God, as Descartes thought, but they remain rules that recommend themselves to searchers after any sort of truth about the world, even where those truths are metaphysically more modest than those that Descartes sought.
+This was perhaps the most important contribution of Descartes to the opening up of thought in the modern and early modern period. If Descartes was not as modest in his cognitive aspirations as his method of doubt requires, then that only shows that Descartes too had his failings as a human being – it is not to denigrate the contribution he made to the emergence of the modern mind as one that is committed to finding truth, and that is open, and ready to submit to criticism. Descartes’ rationalism has had its day; few would now advocate the method a priori that he advocated. Yet, if they are taken cautiously, the Cartesian precepts for the search after truth that he presents in the Discourse on Method can still be recommended for the clarity of thought that results from our conforming to these standards.
+Science is no longer something that aims to become a priori and incorrigibly certain. But Descartes also saw science as a human enterprise in which the search after truth is rooted in observation and experiment. This part of the Cartesian vision remains with us. So, too, does his notion that progress towards truth comes through the testing of hypotheses and the elimination of the false through the production in experiments, deliberate or natural, of counterexamples. Of course, this idea, that science searches after truth through the elimination of error, was not Descartes’ alone. He shared it with Bacon. Indeed, Bacon’s vision was in one respect clearer, since he did not see the need to root the scientific theories that guide research into some a priori ontological structure of being. The theories that guide research are simply laws among laws – to be sure, they are laws about laws, but for all that they are empirical generalizations like any other law.
+At the same time, it must be said that Descartes was much the better at applying the experimental method that both he and Bacon advocated. Descartes made real contributions to empirical science, for example, in optics and in the physiology of the eyeball, where Bacon made no such contribution.
+Moreover, the Cartesian vision of the world as one to be understood in terms of physical mechanisms, while no longer taken to be one that needs any a priori defense of the sort Descartes himself proposed, has become and remains as the basic framework of science: if it has not been confirmed a priori, it has certainly been confirmed a posteriori, and it is still the guiding vision of science – this in spite of the challenges, still often to be heard, that the complexity of this or that cannot be reduced to, or be understood in terms of, “mechanistic materialism.” In the years after Descartes’ death, his mechanistic formulations of problems in physiology swept out the obfuscating categories of the older forms of thought, of teleology in particular, in ways that could not be circumvented. Some tenured professors in the universities continued to hang on to the old scholastic ways of thought, but elsewhere the new science of Descartes swept away the dross. The modern science of physiology was created by the Cartesian vision, and in fact is still sustained by it – though, to be sure, physics is no longer simply a science of mechanical motions, it has grown to include quantum mechanics and molecular biology – but physics is still a science that enables us to say that science of physiology is no different in kind from the sciences of stones and of atoms and of planets.
+Descartes’ own contributions to physics, both in optics and mechanics, were considerable. In mechanics, his work was definitely blocked by his failure to even think that a notion of mass was essential to any mechanics that was to move from kinematics to dynamics. In optics, his mechanistic ideas clearly interfered with his attempts to understand colors. These problems, in both mechanics and optics, awaited Newton for their solution.
+In mathematics his contributions remain with us to this day, not merely as part of a guiding vision – though that is certainly there – but as part of the working tools of every mathematician. One has only to think of his innovations in notation, for example, of exponents, or the methods of analytic geometry, for example, the use of a system of (“Cartesian”) coordinates. Modern algebra and modern geometry are inconceivable without Descartes’ contributions. The mathematics and mathematical methods that he invented shaped his reflections on the proper method in science and in philosophy. It is also true, one must add, that his reflections on the methods proper to philosophy shaped his work in algebra and geometry.
+Descartes’ reflections on the methods proper to science and to philosophy were, as he himself claimed, highly original, and highly influential. They shape our thinking about these same things up to the present, and will no doubt continue to shape them. They amount to the demand that we seek clarity in our thought, that we be diffident rather than dogmatic in our judgments, that when we search after truth then we should do so systematically, from the simpler to the complex, in a way befitting the subject matter, and that a science like physiology is to be understood as in no way different in kind from the science of stones. If we ignore these Cartesian precepts of method, then that is to our own peril, or at least to the impoverishment of our own thought.
+5. References and Further Reading
+a. Primary Sources
+
+Descartes’ complete works can be found in Oeuvres de Descartes. Ed. C. Adam and P. Tannery. 12 vols. (Paris: J. Vrin, 1897-1913; reprinted 1964-1974).
+
+See also the Correspondance. Publiée avec une introd. et des notes, par Ch. Adam et G. Milhaud, 8 vols. (Paris: F. Alcan, 1936-63).
+
+
+Descartes, René. The Philosophical Writings. 3 vols. Vols 1 and 2 trans. J. Cottingham, R. Stoothoff and D. Murdoch; vol. 3 trans J. Cottingham, R. Stoothoff, D. Murdoch, and A. Kenny (Cambridge: Cambridge University Press, vols. 1 and 2, 1984, vol. 3, 1992).
+
+This is now the standard English translation. Vol. 1 contains Early Writings; Rules for the Direction of Our Native Intelligence; The World and Treatise on Man; Discourse on Method and (in part) the appended treatises on Optics, Geometry, and Meteorology;Principles of Philosophy (in part); Comments on a Certain Broadsheet; Description of the Human Body; and The Passions of the Soul. Vol. 2 contains (in full) the Meditations on First Philosophy and the Objections and Replies. Vol. 3 contains much of the philosophically and scientifically interesting portions of Descartes’ correspondence.
+
+
+Descartes, René. Discourse on Method, Optics, Geometry, and Meteorology. Trans. with Intro. by Paul J. Olscamp. (Indianapolis, IN: Bobbs-Merrill, 1965)
+
+This contains complete English translations of the Discourse on Method and the three appended treatises.
+
+
+Descartes, René. Principles of Philosophy. Trans. with Notes by V. R. Miller and R. P. Millar. (Synthese Historical Library – Texts and Studies in the History of Logic and Philosophy, vol. 24. Dordrecht, The Netherlands: D. Reidel, 1983).
+
+This contains a complete English translation of the 1644 text.
+
+
+
+b. Bibliographical Study
+
+Sebba, G. Bibliographica Cartesianae: A Critical Guide to the Descartes Literature, 1800-1958(The Hague: Nijhoff, 1964).
+
+An indispensable bibliography.
+
+
+
+c. Secondary Sources
+
+Roger. Descartes’ Meditations: Background Source Materials. (Cambridge: Cambridge University Press, 1998).
+Beck, L. J. The Method of Descartes: A Study of the Regulae. (Oxford: Oxford University Press, 1952).
+Broughton, Janet. Descartes’s Method of Doubt. (Princeton: Princeton University Press, 2002).
+Cottingham, John, ed. The Cambridge Companion to Descartes. (Cambridge: Cambridge University Press, 1992).
+Crombie, A. C., “The Mechanistic Hypothesis and the Scientific Study of Vision,” Proceedings of the Royal Microscopical Society, 2 (1907), pp. 3-112.
+Curley, E. M. Descartes Against the Skeptics. (Cambridge, MA: Harvard University Press, 1978).
+Foster, Michael. Lectures on the History of Physiology, during the Sixteenth, Seventeenth and Eighteenth Centuries. (Cambridge: Cambridge University Press, 1901).
+Garber, Daniel. “Semel in vita: The Scientific Background to Descartes’ Meditations.” In Essays on Descartes’ Meditations, ed. Amélie Oksenberg Rorty. (Berkeley: University of California Press, 1986).
+Garber, Daniel. Descartes’ Metaphysical Physics. Chicago: University of Chicago Press, 1992).
+Gaukroger, Stephen. Cartesian Logic: An Essay on Descartes’s Conception of Inference. (Oxford: Clarendon Press, 1989).
+Gewirtz, A. “Experience and the Non-Mathematical in the Cartesian Method,” Journal of the History of Ideas, 2 (1941), pp. 183-210.
+Hall, Thomas J. Ideas of Life and Matter. 2 vols. (Chicago: University of Chicago Press, 1969).
+
+The impact of Cartesian ideas in the seventeenth century is discussed in vol. 1.
+
+
+Gaukroger, Stephen, ed. Descartes: Philosophy, Mathematics and Physics. (Sussex: The Harvester Press, 1980).
+Gilson, Étienne. Études sur le Role de la Pensée Médiévale dans la Formation du Système Cartésien (Paris: J. Vrin, 1930).
+Gilson, Étienne. René Descartes’ Discours de la Méthode; Texte et Commentaire. (Paris: Librairie Philosophique J. Vrin, 1947).
+Grant, Edward. Much Ado about Nothing: Theories of Space and Vacuum from the Middle Ages to the Scientific Revolution. (Cambridge: Cambridge University Press, 1981).
+Koyré, Alexandre. Entretiens sur Descartes. (New York: Brentano’s, 1944).
+Koyré, Alexandre. From the Closed World to the Infinite Universe. (Baltimore: Johns Hopkins University Press, 1957).
+Lennon, Thomas. The Battle of the Gods and Giants: the Legacies of Descartes and Gassendi, 1655-1715. (Princeton: Princeton University Press, 1993).
+Popkin, Richard H. The History of Scepticism from Erasmus to Spinoza. (Berkeley: University of California Press, 1979).
+Smith, Norman Kemp. New Studies in the Philosophy of Descartes: Descartes as Pioneer. (London: Macmillan, 1952). Voss, Stephen. ed. Essays on the Philosophy and Science of René Descartes (Oxford University Press, 1993).
+Wilson, Fred. The Logic and Methodology of Science in Early Modern Thought: Seven Studies (Toronto: University of Toronto Press, 1999).
+Wilson, Margaret D. Descartes. (London: Routledge & Kegan Paul, 1978).
+
+Author Information
+Fred Wilson
+Email: fwilson@chass.utoronto.ca
+University of Toronto
+Canada
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

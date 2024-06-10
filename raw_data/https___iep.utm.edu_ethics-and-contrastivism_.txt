@@ -1,0 +1,542 @@
+
+
+
+
+
+
+
+
+
+Ethics and Contrastivism | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethics and Contrastivism
+A contrastive theory of some concept holds that the concept in question only applies or fails to apply relative to a set of alternatives. Contrastivism has been applied to a wide range of philosophically important topics, including several topics in ethics. Contrastivism about reasons, for example, holds that whether some consideration is a reason for some action depends on what we are comparing that action to. The fact that your guests are vegetarian is a reason to make vegetable lasagna rather than make roast duck, but not a reason to make vegetable lasagna rather than make mushroom risotto. Contrastivism about obligation holds that what agents are obligated to do can likewise vary with the alternatives. So, for example, you may be obligated to take the book back to the library rather than leave it on your shelf, but not obligated to take the book back to the library rather than send it to the library with a friend. The article begins by clarifying what contrastivism is more generally, in order to see what motivates philosophers to accept contrastivism about some topic. Along the way, challenges and choice points facing the contrastivist will be highlighted. Attention is then given to exploring arguments for, and applications of, contrastivism to topics in ethics, including obligations, reasons, and freedom and responsibility.
+Table of Contents
+
+Contrastivism in General
+
+Contrastivism in Different Domains
+
+Epistemology
+Philosophy of Science
+
+
+Contrastivism and Questions
+Non-Exhaustivity and Resolution-Sensitivity
+
+
+Contrastivism in Ethics
+
+Contrastivism about Obligation
+Contrastivism and Freedom
+Contrastivism about Normative Reasons
+
+
+General Challenges
+
+Setting the Contrast Class
+Cross-Context Inferences
+
+
+Conclusion
+References and Further Reading
+
+1. Contrastivism in General
+In this section we will briefly introduce the broad range of topics that have received a contrastive treatment in areas outside of ethics, and see what kinds of arguments contrastivists about some concept deploy. This will give us a broad outline of contrastivism as a general kind of view in philosophy.
+a. Contrastivism in Different Domains
+i. Epistemology
+One of the most well known applications of contrastivism relates to knowledge. There are also contrastive theories of justification and of belief, but I will focus here on knowledge. According to the traditional, non-contrastive conception of knowledge, it is a two-place relation holding between a subject and a proposition: Ksp—s knows that p. Contrastivism, on the other hand, holds that knowledge is a three-place relation holding between a subject, a proposition, and a contrast.
+There are differences in conceptions of the contrast. Some contrastivists treat the contrast as a single proposition, q, incompatible with p, yielding Kspq—s knows that p rather than q. Others treat the contrast as a set of mutually exclusive propositions, including p, Q, yielding KspQ—s knows that p out of Q, where Q may be {p, q, r, s}. This difference is non-essential, at least for most purposes, since we can translate from Kspq to KspQ by letting Q = {p, q}, and we can translate from KspQ to Kspq, where Q = {p, r, s, t}, by letting q = r˅s˅t. Many examples used in arguments for contrastivism involve the phrase “rather than”, which generally contrasts two propositions (“s knows that p rather than q”). So for these examples, the single proposition conception of the contrast is more natural. Nevertheless, we will adopt the set of alternatives conception. As we will see in the section Contrastivism and Questions, this conception more directly represents the important contrastivist idea that contrastivity can be thought of as question-relativity.
+Contrastivism about knowledge has its roots in the relevant alternatives contextualist theory of knowledge, developed in, for example, Dretske (1970) and Lewis (1996). According to this theory, whether a knowledge ascription, “s knows that p”, is true in a context depends on which alternatives to p are relevant in that context, and whether s can rule them out. As the context varies, the relevant alternatives may vary, and so whether a knowledge ascription is true can also vary. Relevant alternatives theorists have worked to spell out what makes an alternative relevant in a context, but have not yet produced a very satisfying picture. Contrastivists claim to do better: the relevant alternatives are provided by a question under discussion, which we have independent reason to accept in our theory of communication. For example, linguists (for example, Roberts, 201)) have argued that positing such a question under discussion helps explain various linguistic phenomena.
+Contrastivists about knowledge claim several advantages over non-contrastive conceptions. The first kind of argument for contrastivism is linguistic: the theory can make better sense of a range of knowledge ascriptions, including explicitly contrastive ascriptions (“Ann knows that it’s a zebra rather than an ostrich”), ascriptions involving intonational stress (“Ann knows that the zebra is in the pen”), and ascriptions with a wh-complement (“Ann knows where the zebra pen is”). All of these ascriptions are plausibly treated as making reference to a question under discussion, or set of alternatives.
+A second kind of argument appeals to theoretical advantages of contrastivism. For example, contrastivism promises to provide a solution to puzzles that have haunted epistemology, like the closure paradox. Moore knows that he has hands, and knows that if he has hands, then he is not a brain in a vat. But Moore does not know that he is not a brain in a vat. How can this be? Well, Moore knows that he has hands rather than flippers, but he does not know that he has hands rather than that he is a brain in a vat. So according to the contrastivist, this seemingly intractable paradox actually relies on a fallacious equivocation: we cannot assume that because Moore knows that he has hands rather than flippers that he therefore knows that he has hands rather than that he’s a brain in a vat. One way to read the closure paradox is as a puzzle about knowledge ascriptions: why do we ascribe Moore knowledge that he has hands but not knowledge that he is not a brain in a vat? But there is also a nonlinguistic side to the puzzle: Moore’s knowledge that he has hands seems incompatible with his ignorance about whether he’s a brain in a vat, given a very plausible closure principle. This does not have anything directly to do with knowledge ascriptions (though obviously intuitions must be drawn out by presenting knowledge ascriptions). It rather points out something troubling about the concept of knowledge: either it does not apply where we think it does, or it does not obey the kind of logic we think it does. The contrastivist solution is to say that knowledge is a contrastive concept, so that the puzzling question is simply ill-conceived. Moore’s knowledge that he has hands is in fact not incompatible with his ignorance about whether he’s a brain in a vat. I call this a theoretical argument for contrastivism, rather than a linguistic one, because it involves showing how contrastivism can resolve paradoxes involving the concept of knowledge, not merely deliver attractive interpretations about a range of knowledge ascriptions.
+There are other theoretical arguments for contrastivism about knowledge. First, the theory allows us to track inquiry (See Schaffer, 2005a). Inquiry involves answering questions and ruling out alternatives, and the contrast argument place lets us keep track of the question we are answering, and the alternatives we have ruled out. A further theoretical motivation for contrastivism about knowledge comes from the idea that the most important theoretical and practical function of knowledge is to identify good sources of information (see especially Craig, 1990; Schaffer, 2005a). The contrastivist can add to this claim the observation that when we are looking for good sources of information, we have a particular question in mind (though it may be a quite general question). A good informant for one question (for example, why is it raining rather than snowing?) may not be a good informant for a different question (for example, why is it raining rather than not precipitating at all?). So a contrastive concept of knowledge would best explain its primary function.
+These arguments, like other theoretical arguments (for example, Morton, 2012) aim to show that contrastivism lets us best make sense of the theoretical, as well as practical, role of knowledge. The specifics of how these arguments go are less important for our purposes here; the important point is that there are two broad classes of arguments for contrastivism about some concept: (i) linguistic arguments and (ii) theoretical arguments. This pattern carries over to different domains, including ethics. The line between the two kinds of arguments will not be sharp. This is due in part to the fact, noted above, that often theoretical puzzles about some concept have to be drawn out by appealing to ascriptions of that concept. Though many of the clearest motivations for contrastivism do involve ascriptions of the target concept, it is nevertheless important to keep in mind that contrastivism is more than simply a linguistic thesis and has more than simply linguistic advantages.
+A special case of contrastivism about knowledge—one that is especially relevant for this article—is Sinnott-Armstrong’s (2006) contrastive account of moral knowledge. Sinnott-Armstrong applies contrastivist ideas developed in his own earlier work and by contrastivists like Schaffer to moral epistemology. An interesting twist is that Sinnott-Armstrong uses contrastivism as a route to a kind of moral skepticism—the view that we do not have moral knowledge. Here is the basic idea: though many explicitly contrastive knowledge ascriptions, like “I know that it is morally wrong to terminate the pregnancy using non-sterilized equipment rather than to terminate the pregnancy using sterilized equipment”, may well be true, we should suspend judgment about the truth of non-contrastive ascriptions like “I know that it is morally wrong to terminate the pregnancy“. All knowledge ascriptions require some set of alternatives before they can be evaluated for truth. If one is not provided explicitly, Sinnott-Armstrong argues, we should understand the ascriptions as “I know that p out of the relevant contrast class”. And this is where the skeptical turn appears: Sinnott-Armstrong argues that we should be relevance skeptics—we should suspend judgment about what the relevant contrast class is. Hence, we cannot evaluate the truth of the unrelativized knowledge claims. This is not quite the dogmatic skeptical claim that we lack moral knowledge. Instead, this is a Pyrrhonian skeptical thesis: we should suspend judgment about the truth of unrelativized attributions of moral knowledge (and of knowledge more generally). Nevertheless, it is notable that other contrastivists appeal to contrastivism to resolve skeptical paradoxes, while Sinnott-Armstrong uses contrastivism in an argument for a kind of skepticism.
+ii. Philosophy of Science
+Contrastive theses have also been offered in the philosophy of science. Traditional theories of explanation hold that the explanatory relation holds between two relata: pEq—p explains q. Contrastive theories of explanation hold that we need at least one, and possibly two, more argument places for contrasts. We may have pQEq—p out of Q (or “rather than any other member of Q”) explains q; pEqQ—p explains q out of Q; or pQ1EqQ2—p out of Q1 explains q out of Q2. Once again, there are both linguistic arguments and theoretical arguments for these contrastivist theories. For example, “The warm temperature explains why it is raining rather than snowing” may be true, while “The warm temperature explains why it is raining rather than not precipitating” may be false. (For more on contrastivism about explanation, see van Fraassen, 1980; Lipton, 1990 and Hitchcock, 1996.)
+Relatedly, philosophers have offered contrastive theories of causation. Instead of holding that the causal relation is two place, eCf—e causes f—contrastivists hold that we need at least one, and possibly two, more argument places. Either eQ1Cf, eCfQ2, or eQ1CfQ2. Contrastivism purports to solve several puzzles facing traditional non-contrastive theories of causation, including causation by absences and the puzzle of saying what the cause of some event is. (See, for example, Schaffer, 2005b, 2012;  and Hitchcock, 1996a, 1996b.)
+Finally, philosophers have also offered contrastive theories of confirmation. According to this view, whether some evidence confirms a hypothesis depends on what we are comparing that hypothesis to. For example, the wet sidewalk confirms the hypothesis that it rained rather than that it was sunny all day, but does not confirm the hypothesis that it rained rather than that someone washed her bike on the sidewalk a few minutes ago. (See Chandler, 2007, 2013 and Fitelson, 2012 for discussion.)
+b. Contrastivism and Questions
+Contrastivists often claim that their theories are ones according to which the target concept is question-relative: relative to one question, the concept holds, while relative to another, it does not. For example, Schaffer (2005a, 2007a) argues that to know that p is to know that p as the answer to the contextually relevant question. So relative to a question like, “Is the bird a canary or a raven?”, you know that it is a canary—you know the answer to this question. But relative to the question, “Is the bird a canary or a goldfinch?”, you do not know that it is a canary—you do not know the answer to this second question.
+Question-relativity is a natural idea for contrastivists. Questions—thought of as the informational contents of interrogative sentences, analogously to thinking of propositions as the informational contents of declarative sentences—are standardly treated as partitions over (some part of) logical space. These partitions divide logical space into cells, so that the possibilities are grouped in mutually exclusive classes. These partitions can also be thought of, then, as sets of mutually exclusive alternatives—each alternative in the set corresponds to one cell in the partition. Thus, relativizing a concept to questions simply amounts to relativizing it to sets of alternatives, which is exactly what the contrastivist wants to do. Different questions give us different partitions, and so correspond to different sets of alternatives.
+To see this approach in action, return to the epistemological example. The question expressed by “Is the bird a canary or a raven?” is represented by the set of alternatives, {the bird is a canary, the bird is a raven}. Recall that this is a representation of a partition of (part of) logical space into two cells, one containing possibilities in which the bird is a canary and the other containing possibilities in which the bird is a raven. Similarly, the question expressed by “Is the bird a canary or a goldfinch?” is represented by the set of alternatives, {the bird is a canary, the bird is a goldfinch}. If we relativize knowledge to questions, then, we can explain why “You know the bird is a canary” is true when the relevant question is the first, but false when the relevant question is the second. For now, we will assume that in a given context, there is a relevant question which supplies the set of alternatives. In the section “Setting the Contrast Class” we will consider some problems for this assumption.
+More directly relevant for ethics, contrastivists about normative concepts like “ought” and reasons have developed theories according to which these concepts are relativized to deliberative questions, or questions of what to do. In a given deliberative context—the kinds of context in which we ordinarily appeal to concepts like “ought” and reasons—there is some particular deliberative question we are trying to answer, since answering a deliberative question is just deciding what to do. This question supplies the set of alternatives relative to which claims about what we ought to do or have reason to do are interpreted.
+c. Non-Exhaustivity and Resolution-Sensitivity
+Thinking of a contrastive theory of some concept in terms of question-relativity helps bring out two important features of contrastivism. Both of these features are exploited by contrastivists.
+First, questions may partition only part of, or some subspace of, logical space. Some possibilities may just not be relevant, for one reason for another, or may be ruled out by the presuppositions of the question. For example, if I ask which beer you want to try, possibilities in which you do not want to try any of the beers are plausibly not included. You can of course say that you do not want to try any beers, but this seems more like rejecting the question (admittedly in a conversationally cooperative way), rather than answering it—answering a question requires selecting one of the alternatives, or one cell of the partition. The relevance of this point for contrastivism is that the set of alternatives to which a concept is relativized may be non-exhaustive of logical space. This is most clear in the case of explicitly contrastive “rather than” ascriptions, like “You know that the bird is a canary rather than a raven”. Here, the contrastivist about knowledge will say that this sentence means that you know that the bird is a canary relative to the set {the bird is a canary, the bird is a raven}. Clearly there are many other possibilities—the bird could be a goldfinch, a crow, a robot made to look like a canary, or you could be dreaming. Relative to sets that include some of these other alternatives, you may not know that the bird is a canary. But since, on this view, knowledge claims are relativized to non-exhaustive sets of alternatives, it may still be true that you know that it is a canary relative to {the bird is a canary, the bird is a raven}.
+Second, the possibilities that are partitioned can be grouped together in more or less fine-grained ways. Some distinctions between possibilities may be respected by the partition while others are smudged over. Compare the following two sets: {it’s a bird, it’s not a bird}, {it’s a canary, it’s a goldfinch, it’s a crow, it’s some other kind of bird, it’s a robot, it’s a hallucination, it’s some other kind of non-bird}. The second set makes distinctions between possibilities that are ignored in the first set. These sets differ in what Yalcin (2011) and Cariani (2013) call resolution: sets which make more fine-grained distinctions partition (parts of) logical space at a higher resolution. To say that some concept is resolution-sensitive, at least here, is to say that it is relativized to sets that may vary in resolution. Relative to a set at one resolution, the concept may hold of something, while relative to a set at a different resolution—either higher or lower—it may not.
+2. Contrastivism in Ethics
+While applications of contrastivism within epistemology and the philosophy of science are more well known, contrastivism has also been applied to a wide range of topics in ethics and normative philosophy more generally. We have already seen that contrastivist ideas have interesting applications in moral epistemology. This section introduces contrastivism about obligation, normative reasons, and freedom and moral responsibility. Having already introduced contrastivism more generally in the previous section, I will focus primarily on describing the specific motivations for the contrastive theories in ethics.
+One application of contrastivist ideas in ethics that I will not discuss in detail is due to Driver (2012). Driver suggests a contrastive conception of luck, and makes use of this in her defense of a consequentialist treatment of moral luck. The central contrastivist claim is that no one, or no event, is lucky simpliciter. Rather, something is only lucky or unlucky relative to some contrasts. For example, a patient may be lucky to survive a serious illness rather than die from it, but not lucky to survive the serious illness, rather than not contract the illness in the first place.
+a. Contrastivism about Obligation
+The oldest application of contrastive ideas in ethics is contrastivism about obligation. Much of the work defending and developing contrastivism about obligation has focused primarily on developing contrastive semantic theories for the terms used to ascribe obligations, especially the deontic modal “ought”. This is not unexpected, since as we saw above, one important style of argument for contrastivism is linguistic in nature; contrastivism about obligation is no different. (Here I will conflate obligation and ought to stick more closely to the literature; the concept of obligation is better expressed using stronger deontic modals like “must” and “have to”.)
+Contrastivism about obligation holds that what you ought to do can vary with the comparison being made. For example, though you ought to take the book back to the library rather than leave it on the shelf, it is not the case that you ought to take it back to the library rather than send it with me on my trip to the library.
+It is important to distinguish the distinctive contrastivist claim from the much more widely accepted claim that what you ought to do depends on the available alternatives. If some option is the best one available, the non-contrastivist will say that it is what you ought to do. If circumstances change so that that option is no longer available, then obviously it is not the case that you ought to do it—it is not even an option. So what you ought to do has changed with the alternatives. But importantly, it has changed with the available alternatives. There is nothing surprising about this claim, and it is not the distinctive contrastivist claim. The distinctive contrastivist claim is that even holding the available alternatives fixed, what you ought to do can vary with the particular comparison. That is, claims about what you ought to do are only true or false relative to some particular set of alternatives, which may not include all of the available alternatives.
+This puts us in a position to see one argument for contrastivism about obligation. Suppose that all of the following methods of getting to work are available: driving your SUV, taking the bus, riding your bike. The relevant factors here are environmental friendliness and getting some exercise. So riding your bike is best and driving your SUV is worst. The non-contrastivist will of course say that, in this case, you ought to ride your bike. And this is very plausible. But the following claim is also very plausible:
+(1)   You ought to take the bus rather than drive your SUV.
+But since taking the bus is not the best available alternative—riding your bike is also an available alternative—it is hard to see how the non-contrastivist can explain the truth of (1). The contrastivist, on the other hand, has an easy time explaining this. Out of the set of alternatives {take the bus, drive your SUV}, taking the bus is the best. And what you ought to do out of a set of alternatives is the best alternative in that set. So even if there are better available alternatives, we can still make true “ought” claims about suboptimal alternatives, as long as they are the best in the relevant set of alternatives; using a “rather than” claim as in (1) is one way of making a set the relevant one.
+The non-contrastivist can of course try to reinterpret claims like (1) so that they do not require relativizing “ought” to sets of alternatives. For example, we may read (1) as saying something like, “If you are going to either take the bus or drive your SUV, you ought to take the bus”. One problem for this reply, as emphasized in an epistemic context by Schaffer (2008), is that this requires reading “rather than” as contributing some kind of conditional. But this is not a plausible general theory about the contribution of “rather than” clauses. It is much more linguistically plausible to treat “rather than” as making explicit the comparison being made, as the contrastivist does.
+An even more important source of motivation for contrastivism about obligation comes from the puzzles of deontic logic, the logic of obligation. Many of these puzzles have the following form: acceptable “ought” claims lead, via plausible inference rules, to unacceptable “ought” claims. Here is just one example, called Ross’s Paradox, since it is originally due to Alf Ross (1941). Suppose you promise your friend that you will mail a letter for her. Then (2) is true:
+(2)   You ought to mail the letter.
+One inference rule that is validated by the standard semantics for “ought”, and by standard deontic logic, is the following:
+Inheritance: If doing A entails doing B, then if you ought to do A, you ought to do B.
+(This rule is usually stated treating “ought” as a propositional operator, read as “it ought to be that p”, instead of as (directly) ascribing an obligation, as in “you ought to A”. This goes beyond the scope of this article.) Besides being validated by orthodox treatments of “ought”, this inference rule has a lot of initial plausibility. One way to see this plausibility is to think of the special case in which doing B is a necessary means to doing A, and in that sense doing A entails doing B. If the only way to do something you ought to do requires doing B, then very plausibly, you thereby ought to do B. But inheritance leads to unacceptable results. Note that mailing the letter entails either mailing it or burning it, just because A entails (A or B), for any B. So from the acceptable “ought” claim (2), via Inheritance, (3) follows:
+(3)   You ought to either mail the letter or burn it.
+While (2) is acceptable, (3) is not. It ascribes an obligation to you, mailing the letter or burning it, that you can satisfy by burning the letter. But burning the letter is not a way to do anything you ought to do.
+The standard reply to Ross’s Paradox is to accept the consequence, that (3) is true, but explain its apparent unacceptability pragmatically. The basic idea is that (3) is weaker than something else we are in a position to say, namely (2). This is to appeal to Grice’s (1989) maxim of quantity, that we should say the strongest thing we are in a position to say. Saying something weaker, like (3), suggests that we are not in a position to say something stronger, like (2). But in this case, we are in a position to say (2)—in fact, we derived (3) from (2). There have been various challenges to this line of reply; see in particular Cariani (2013).
+The contrastivist offers a different solution. The outline of the solution is that the inference from (2) to (3) involves an illicit shift in the set of alternatives to which the “ought” claims are relativized—and hence is equivocal. To see why, remember that the alternatives in a set of alternatives must be mutually exclusive. Then notice that “mail the letter” and “mail the letter or burn it” are not mutually exclusive; so they cannot be members of the same set of alternatives. Thus, (2) and (3) cannot be relativized to the same set of alternatives. In an ordinary context, (2) would be relativized to a set like {mail the letter, leave the letter on the table, give the letter back to your friend, burn the letter}. (3), on the other hand, must be relativized to a set that includes “mail the letter or burn it” as an option, such as {mail the letter or burn it, leave the letter on the table, give the letter back to your friend}. In terms of our distinction between the non-exhaustivity of a set of alternatives, and the resolution of a set of alternatives, inferences like the one from (2) to (3) require a shift in resolution: the second set of alternatives lumps together two options—”mail the letter” and “burn the letter”—that are distinct in the first set. Since the contrastivist about obligation holds that obligation claims are sensitive to the resolution of the set of alternatives to which they are relativized, she can hold that the shift in resolution generates a shift in the truth of the obligation claim.
+The first thing to see is that we simply cannot infer (3) from (2): to do so would be to equivocate, since the set of alternatives has shifted. It would be like inferring “Chris Paul is tall”, when he’s playing in a professional basketball game, from the truth of “Chris Paul is tall” when he’s at his family reunion (crucial background: Chris Paul is taller than most other members of his family, but shorter than most basketball players). The comparison class has shifted, and “tall” ascriptions are very plausibly relativized to comparison classes—to count as tall, you have to be taller than most members of the relevant comparison class.
+The second thing to notice is that, not only can we not infer (3) from (2), we can also say that (3) is actually false. That is because, very plausibly, out of the set {mail the letter or burn it, leave the letter on the table, give the letter back to your friend}, it is not true that you ought to mail the letter or burn it—this is not the best option in the set.
+This is the basic outline for one kind of contrastivist solution to puzzles of deontic logic. Cariani (2013) offers an interestingly different kind of contrastivist solution. Cariani takes up the task of blocking problematic inferences, such as Ross’s Paradox, while retaining intuitively acceptable ones that also seem to be supported by rules like inheritance.
+b. Contrastivism and Freedom
+Another implementation of contrastivist ideas in ethics is Sinnott-Armstrong’s (2012) contrastive account of freedom and moral responsibility. Central questions in this domain concern whether an agent’s act is free, and hence whether the agent is responsible for the act. Responsibility skeptics argue that since we can always trace the causal history of an act back to causes outside the agent, no one is ever responsible. Their opponents give various responses to this argument, including that freedom and responsibility do not require a lack of causation from outside the agent.
+The first application of contrastivism is to what agents are free from. For example, an agent’s act may be free from external physical constraints (for example, chains or a shove) or internal compulsions (for example, addiction), but not free from all preceding causes (for example, the initial conditions of the universe). Such an act would be free rather than the result of a shove or addiction, but not free rather than caused (via a long chain) by the initial conditions of the universe. Adopting this contrastive conception of freedom helps clarify the dispute between responsibility skeptics and their opponents: the debate is over which kind of constraint is the relevant one for attributing responsibility. (Sinnott-Armstrong himself once again denies that there is any one relevant kind of constraint, and so does not take sides in the dispute between responsibility skeptics and their opponents.)
+This contrastive picture also explains conflicting intuitions about whether a given act is free. Ordinarily, perhaps, we have in mind constraints like chains or addictions. Most acts in question in debates about freedom and responsibility are free, rather than being constrained by these kinds of things. But what the responsibility skeptic does, is to draw our attention to another kind of constraint—that of causes outside the agent. Actions are very plausibly not free, rather than being caused at all. If the contrastivist about freedom is right that freedom is a contrastive concept, and that both of these kinds of freedom—freedom from constraints and freedom from preceding causes—are legitimate, then this explains why we may be puzzled by questions about whether a given action is free.
+The second application of contrastivism is to what agents are free to do. Sinnott-Armstrong’s illustrative example is of an alcoholic, Al. Suppose Al drinks some whisky at 8pm on Tuesday. We may ask whether this act was free. It seems to depend on the contrasts. Depending on how we specify the details of the case, all of the following may be true:
+
+Al’s drinking whisky rather than wine was free.
+Al’s drinking whisky at 8pm rather than at 9pm was free.
+Al’s drinking whisky rather than a non-alcoholic drink was not free.
+Al’s drinking whisky on Tuesday rather than waiting until Wednesday was not free.
+
+As Sinnott-Armstrong sums up the point: “Addicts never have no control at all in any circumstances…most people are free to choose out of some contrast classes but not out of others.” (Sinnott-Armstrong, 2012:145). So the question of whether Al’s act was free is, for the contrastivist, incomplete. To say whether an action was free, we have to specify what the contrast is—relative to some contrasts, it may be free while relative to others it may not be. The important question then becomes which contrasts are relevant for which purposes. In particular, we can ask which contrasts are relevant for blaming and holding responsible. So contrastivism has helped us isolate the important questions in the debate about moral responsibility.
+A related position is contrastivism about legal responsibility. Schaffer (2010) applies his contrastive account of causation (described in the section Philosophy of Science) to the notion of legal causation. If we accept that there is a close connection between the claim that someone caused, in the legally relevant sense, some outcome and the claim that she is legally responsible for that outcome, this contrastive account of causation in the law leads naturally to a contrastive theory of legal responsibility.
+c. Contrastivism about Normative Reasons
+The last application of contrastivism to ethics is contrastivism about normative reasons. A normative reason for an action is a consideration that counts in favor of performing that action. For example, the fact that you promised to return the book is a reason to return it, and the fact that you are causing me pain is a reason to get off of my foot. Many philosophers think reasons are central to ethics, and to normativity more generally. If that is correct, then contrastivism about normative reasons will likely have widespread implications throughout ethics.
+As with most other implementations of contrastivism, contrastivism about reasons can be motivated by linguistic considerations:
+
+The fact that my guest is vegetarian is a reason to make vegetable lasagna rather than roast duck.
+The fact that my guest is vegetarian is not a reason to make vegetable lasagna rather than mushroom risotto.
+
+Both of these contrastive claims are true. But now we might want to know, “Is the fact that my guest is vegetarian a reason to make vegetable lasagna or not?”. This is to ask whether this fact is a non-contrastive reason. This question is hard to answer. What this seems to show is that whether this fact is a reason or not depends on the alternatives—that it is a contrastive reason.
+There are various ways for the non-contrastivist to respond to this argument. In particular, she may try to provide non-contrastive analyses of these contrastive claims. For example, we may appeal to the fact that reasons have strengths or weights, and hold that some consideration is a reason to do A rather than B when it is a stronger (non-contrastive) reason to do A than it is to do B. In this way, we can explain the truth of claims like (4) and (5) without adopting a contrastive view of reasons.
+There are various problems with this kind of strategy. For just one, recall the similar strategy for dealing with contrastive obligation claims discussed in the section ”Contrastivism About Obligation”. The idea there was to say that the “rather than” in these claims should be analyzed out as a conditional. The problem was that this is not particularly linguistically plausible, since “rather than” does not ordinarily contribute a conditional. This strategy for dealing with contrastive reason claims faces a similar problem. “Rather than” does not ordinarily mean “stronger than”; instead, “rather than” should be understood as introducing contrasts.
+Besides linguistic arguments, the second major kind of argument for contrastivism in some domain is theoretical. Recall that these kinds of arguments are not based primarily on contrastivism’s ability to give attractive interpretations of ascriptions of the target concept—in this case, reasons. Rather, they aim to show that given some theoretical role or property of the target the concept would be best explained by a contrastive view of the concept. A theoretical argument for contrastivism about reasons is that it best makes sense of the connection between reasons and the promotion of various objectives, like desires or values. A schematic statement of this very common idea is the following:
+Promotion: Consideration R is a reason to perform act A if R explains why A-ing would promote objective O.
+Again, an objective is some valuable thing to be promoted. Different theories will say different things: desire-based theories think reasons are tied to the promotion of the objects of desires, value-based theories think reasons are tied to the promotion of values like justice or goodness, and so on. No matter which of these theories we accept, we have to say what it takes for some action to promote an objective.
+Snedegar (2014b) argues that the best way to do this is to adopt a contrastive picture. Relative to some contrasts an action may promote an objective, while relative to another, it may not. Suppose the relevant objective is contributing to the relief of hunger in the third world. This objective is not promoted by donating to an unreliable charity (they only get the money where it should go 20% of the time) rather than donating to a reliable charity. But it is promoted by donating to an unreliable charity rather than spending the money on an expensive dinner for myself. Hence, this objective gives me a reason to donate to the unreliable charity rather than spend the money on an expensive dinner, but does not give me a reason to donate to the unreliable charity rather than donate to the reliable charity. Non-contrastive views of promotion will deliver the verdict that this objective gives me no reason whatsoever to donate to the unreliable charity. So it is hard for them to explain the fact that it gives me a reason to donate to the unreliable charity rather than spending the money on an expensive dinner.
+We have seen both linguistic and theoretical motivations for contrastivism about reasons. As we saw at the beginning of this section, reasons are often taken to be central to ethics and normativity more generally. So contrastivism about reasons is likely to have many upshots throughout ethics and normative philosophy. One nice thing about this is that it gives us a huge swathe of philosophy against which to test contrastivism about reasons: contrastivism may lead to exciting insights in normative philosophy, or it may lead to unacceptable results. Either way, this seems to be a fruitful area for research.
+3. General Challenges
+To close, consider some general challenges facing contrastivism of any variety. The specific form of these challenges, and the plausible responses, will likely vary from domain to domain. When it is necessary to apply the challenge to a concrete contrastivist theory, one from ethics will be chosen. As much as possible, however, the article remains at a general level, because it is instructive to think about the general shape of the challenges, as they face the contrastivist qua contrastivist.
+a. Setting the Contrast Class
+The first few challenges are interrelated, and have to do with setting the relevant contrast class. First, contrastivists face the challenge of saying what set of alternatives a given claim should be relativized to. For explicitly contrastive ascriptions of a concept, for example those using “rather than”, it is straightforward: the “rather than” clause makes the alternatives explicit. But for ascriptions that are not explicitly contrastive, the contrastivist has to provide some way of settling what the relevant set of alternatives is, or else admit that these unrelativized claims are not truth-evaluable, or at least that we should suspend judgment about their truth. To be satisfactory, this should be done in a relatively principled way. Otherwise, the contrastivist may face charges of fixing the contrasts in an ad hoc way to get the results she wants.
+We have already seen one popular way to answer this challenge. This is to appeal to a question under discussion in the context. Linguists and philosophers of language have given arguments independent of contrastivism for the inclusion of such a device in our theory of communication. For example, it is useful in interpreting intonational stress (see Rooth, 1992) and in explaining several kinds of pragmatic phenomena (see Roberts, 2012). The contrastivist can exploit this: the question under discussion fixes the set of alternatives relative to which the ascription is interpreted.
+But there are other options. Rather than appealing to a question under discussion, the contrastivist may instead appeal to the speaker’s intention, to features of the assessor’s context, or even to features of the subject (of the ascription) or her context. As we have already seen, one prominent contrastivist, Walter Sinnott-Armstrong, argues for a very different solution to the problem of determining the contrast class. Sinnott-Armstrong (2004, 2006) argues that no way of determining relevance is correct, and that we should instead be relevance skeptics. We should simply suspend judgment about the content and truth of non-relativized claims employing a contrastive concept. Sinnott-Armstrong’s arguments are challenging, and if the contrastivist wants to avoid his skepticism, she needs to grapple with them. One way to gain traction here, though this goes beyond the scope of this article, is to seek independent evidence for the existence of a relevant question under discussion in explanations of natural language phenomena. Linguists have developed powerful explanatory theories of various natural language phenomena using questions under discussion. So even if specific proposals about how to determine the relevant contrast class, or question under discussion, face challenges, we at least have some reason to be optimistic that there is such a relevant contrast class or question.
+A second and related challenge is that contrastivism delivers apparently objectionable results, as long as the relevant contrast class is set up in the right way. This problem is perhaps sharpest for the contrastivist about obligation. You may be obligated to do all kinds of terrible or crazy things, because the contrast class is crazy. For example, the contrastivist about obligation will say that you are obligated to burn down your neighbor’s house while she is at work—as long as the relevant alternatives are worse than this. So you are obligated to burn down her house while she is at work rather than burn it down with her inside. This is even more objectionable when we remember that these need not be the only options open to you—it may be perfectly possible for you to take her a plate of freshly baked cookies, or to simply stay at home and watch television, instead. Still, the contrastivist will say that you are obligated to burn down her house while she is at work, as long as the relevant alternative is burning it down with her inside.
+The contrastivist about obligation is committed to this result, when paired with any plausible theory about what an agent is obligated to do out of a given contrast class. But it is not clear how serious this problem actually is. The explicitly contrastive claim, “You are obligated to burn down her house while she’s at work rather than burn it down when she’s inside” is not obviously false. After all, burning it down while she’s at work is clearly better than burning it down while she’s inside. The bare, non-contrastive claim, “You are obligated to burn down her house while she’s at work” does sound obviously false. But the contrastivist is only committed to the truth of this claim when the only relevant alternatives are things like “burn it down while she’s inside” (or even worse alternatives). In any ordinary context—for example, a context in which you could take her a plate of freshly baked cookies, instead—these will not be the only relevant alternatives. In fact, they are unlikely to be relevant alternatives at all, at least before they are mentioned. In these ordinary contexts, the contrastivist about obligation will not be committed to the truth of the objectionable non-contrastive claim. The details of this solution will depend on what our theory tells us about fixing the relevant set of alternatives, but it should be clear that the contrastivist has options here.
+A closely related problem is raised against contrastive theories of moral reasons by Andrew Jordan. Jordan argues that some actions should be, and are, performed in a whole-hearted way—that is, without considering alternatives at all. The virtuous person will simply see that taking her sick pet to the vet is the thing to do and will not consider alternatives, or take into account reasons for alternatives, for example, the potentially high cost. So the reasons favoring the whole-hearted action do not seem to be relativized to any contrast class at all.
+This problem only arises if the contrastivist about reasons holds that the contrast class is fixed by the options the subject is considering. But as we have seen, there are many more options for the contrastivist. It is not clear, for example, how this problem could arise on a speaker contextualist theory. So this is not a problem for the contrastivist as such.
+Though these last two challenges are not serious problems for contrastivism as such, they are useful in thinking about the first challenge—that of saying what fixes the contrast class for a given claim. The problem of crazy verdicts resulting from crazy contrast classes puts pressure on a very simple version of speaker contextualism, according to which the relevant contrast class is wholly fixed by the speaker’s intentions. As long as the speaker intends a crazy contrast class, the objectionable ascriptions may come out true. This kind of contrastivist would then need to try to explain why this result is not actually objectionable. Jordan’s problem of whole-hearted action puts pressure on a version of contrastivism according to which the relevant contrast class is wholly determined by what the agent is considering—if the virtuous agent is not considering any alternatives, then this version of contrastivism could not supply a contrast class.
+Another problem in this vein is harder to articulate in a sharp way. It stems from the idea that there must be an answer to whether the concept really applies, over and above whether it applies relative to any particular set of alternatives. In the case of “ought”, for example, there is a feeling that there must be something that we really ought to do. We can imagine the objector saying, in an exasperated tone, “I know I ought to take the bus rather than drive my SUV. What I want to know is, ought I take the bus?”. Read straightforwardly, this objection is just a rejection of the central thesis of contrastivism. Read in that way, there is not much the contrastivist can say.
+There is another, more contrastivist-friendly way to construe this idea. The idea may be that, though there are lots of true claims about when I ought to or have reason to perform some action rather than some other action, in certain kinds of deliberation and theorizing, we are interested in “oughts” and in reasons with some kind of special status. The contrastivist can accommodate this idea by identifying special contrast classes, and claiming that they are relevant in the cases the objector has in mind. Some good candidates include (i) a trivial contrast class, {A, ~A}, (ii) an exhaustive contrast class that includes every possibility open to the agent, (iii) a maximally fine-grained contrast class, and (iv) a contrast class that makes all morally relevant distinctions. These are not mutually exclusive options, of course—for example, all four could be construed as exhaustive sets of alternatives. The contrastivist can hold that some reasons or obligations, for example, moral reasons or obligations, are always relativized to one of these special kinds of contrast class, while other reasons and obligations are not. This is all perfectly consistent with contrastivism, and lets us capture something very close to the idea that there is something we really ought to do or really have reason to do.
+b. Cross-Context Inferences
+A very different kind of challenge involves cross-context inferences. The central feature of contrastivism, that lets it solve puzzles facing non-contrastive theories, is that a concept may apply relative to one set of alternatives without applying relative to others. For example, just because we know that you ought to A rather than B, that does not tell us anything about whether you ought to A rather than C. This central feature leads to a very important challenge: sometimes, knowing that a concept applies relative to some alternatives should tell us whether it applies relative to certain other alternatives. For example, if I know that I ought to A rather than either of B or C (out of {A, B, C}), our theory should guarantee that I ought to A rather than B (out of {A, B}). Similarly, if I ought to A rather than B and I ought to B rather than C, then our theory should guarantee that I ought to A rather than C.
+The advantages of contrastivism come from letting the application of a concept vary with the alternatives. What this problem shows is that we have to constrain this variation in certain ways. The strategy adopted by contrastivists who have addressed this problem is to appeal to some non-contrastive foundation on which the application of the concept depends. For example, contrastivists about “ought” who have addressed this problem appeal to a contrast-invariant ranking of alternatives, and let the application of “ought” depend on this ranking in ways that deliver the necessary constraints.
+4. Conclusion
+Contrastivism has been applied across much of philosophy, and it is no wonder why. It promises to resolve the closure paradox in epistemology, provide the best theory of explanation, perhaps the central concept in philosophy and science, and finally give a true theory of causation. And that is before we even broach the field of ethics. There, contrastivism promises to resolve—or at least shed serious light on—the paradoxes of deontic logic, the problem of determinism, and provide an account of reasons for action. There is much more work to be done in making good on these promises. But at the very least, this appears to be a very fruitful research program—especially in ethics, where less work has been done.
+5. References and Further Reading
+
+Baumann, P. 2008. “Problems for Sinnott-Armstrong’s Moral Contrastivism.” The Philosophical Quarterly 58(232): 463-470.
+
+Argues that contrastivism about knowledge makes bad predictions in cases of “crazy contrast classes”.
+
+
+Blaauw, M. (ed.) 2012. Contrastivism in Philosophy. Routledge.
+
+A collection of papers demonstrating the breadth of the contrastivist program in philosophy, including several in ethics.
+
+
+Cariani, F. 2013. “Ought and Resolution Semantics.” Noûs 47(3): 534-558.
+
+ Develops a sophisticated contrastive semantic theory for “ought”.
+
+
+ Chandler, J. 2007. “Solving the Tacking Problem with Contrast Classes.” British Journal for the Philosophy of Science 58(3): 489-502.
+
+Uses contrastive confirmation to solve an important problem in confirmation theory.
+
+
+Chandler, J. 2013. “Contrastive Confirmation: Some Competing Accounts.” Synthese 190(1): 129-138.
+Craig, W. 1990. Knowledge and the State of Nature: An Essay in Conceptual Synthesis. Oxford University Press.
+
+Argues that the central function of the concept of knowledge is to identify good sources of information, and develops a theory of knowledge based on this conception.
+
+
+ Dretske, F. 1970. “Epistemic Operators.” Journal of Philosophy 67: 1007-1023.
+
+Early version of the relevant alternatives theory of knowledge, direct predecessor of contrastivism.
+
+
+Driver, J. 2012. “Luck and Fortune in Moral Evaluation.” In Blaauw (ed.), Contrastivism in Philosophy. Routledge, 154-172.
+
+Sketches a contrastive account of luck, and applies it to the problem of moral luck.
+
+
+Finlay, S. 2009. “Oughts and Ends.” Philosophical Studies 143(3): 315-340.
+Finlay, S. 2014. Confusion of Tongues: A Theory of Normative Language. Oxford University Press.
+
+Develops a theory of “ought” which makes use of contrastivist machinery in the service of providing a comprehensive theory of normativity.
+
+
+Finlay, S. and Snedegar, J. 2014. “One Ought Too Many.” Philosophy and Phenomenological Research 89(1): 102-124.
+
+Defends a uniform, propositional operator semantics for “ought”, making crucial use of contrastivism.
+
+
+Fitelson, B. 2012. “Contrastive Bayesianism.” In Blaauw (ed.), Contrastivism in Philosophy. Routledge, 64-87.
+
+Discussion of contrastive theories of confirmation.
+
+
+van Fraassen, B. 1980. The Scientific Image. Oxford University Press.
+
+Influential development of a contrastive theory of explanation.
+
+
+Grice, H. P. 1989. “Logic and Conversation.” In Grice, Studies in the Way of Words. Harvard University Press, 22-40.
+
+Classic discussion of conversational implicature, where speakers communicate more than they literally say.
+
+
+Groenendijk, J. and Stokhof, M. 1997. “Questions.” In van Benthem, J. and ter Meulen, A. (eds.), Handbook of Logic and Language. Elsevier Science Publishers, 1055-1124.
+
+Detailed discussion of the semantics of questions, including the partition/set of alternatives semantics.
+
+
+Hamblin, C. L. 1958. “Questions.” Australasian Journal of Philosophy 36: 159-168.
+
+Early development of the partition semantics for questions.
+
+
+Higginbotham, J. 1996. “The Semantics of Questions.” In Lappin, S. (ed.), The Handbook of Contemporary Semantic Theory. Oxford University Press, 361-383.
+Hitchcock, C. 1996a. “The Role of Contrast in Causal and Explanatory Claims.” Synthese 107: 395-419.
+Hitchcock, C. 1996b. “Farewell to Binary Causation.” Canadian Journal of Philosophy 26: 267-282.
+
+Development of a contrastive theory of causation.
+
+
+Jackson, F. 1985. “On the Semantics and Logic of Obligation.” Mind 94(374): 177-195.
+
+Development of a contrastive theory of obligation, motivated by puzzles from deontic logic.
+
+
+Jackson, F. and Pargetter, R. 1986. “Oughts, Options, and Actualism.” Philosophical Review 95(2): 233-255.
+
+Development of a contrastive theory of obligation.
+
+
+Jordan, A. 2014. “Whole-Hearted Motivation and Relevant Alternatives: A Problem for the Contrastivist Account of Moral Reasons.” Ethical Theory and Moral Practice 17(5): 835-845.
+Karjalainen, A. and Morton, A. 2003. “Contrastive Knowledge.” Philosophical Explorations 6(2): 74-89.
+
+Argues for a contrastive conception of knowledge.
+
+
+Lewis, D. 1996. “Elusive Knowledge.” Australasian Journal of Philosophy 74: 549-567.
+
+Influential development of the relevant alternatives theory of knowledge, a direct predecessor of contrastivism about knowledge.
+
+
+Lipton, P. 1990. “Contrastive Explanation.” Royal Institute for Philosophy Supplement 27: 247-266.
+
+Development of a contrastive theory of explanation.
+
+
+McNamara, P. 2014. “Deontic Logic.” In Zalta (ed.), Stanford Encyclopedia of Philosophy.
+
+Detailed overview of deontic logic, including the puzzles that motivate contrastivism about obligation.
+
+
+Morton, A. 2012. “Contrastive Knowledge.” In Blaauw (ed.), Contrastivism in Philosophy. Routledge, 101-115.
+
+Gives primarily theoretical, rather than linguistic, arguments for contrastivism about knowledge.
+
+
+Roberts, C. 2012. “Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics.” Semantics and Pragmatics 5: 1-69.
+
+Detailed development of a formal pragmatic theory making crucial use of questions under discussion.
+
+
+Rooth, M. 1992. “A Theory of Focus Interpretation.” Natural Language Semantics 1: 75-116.
+
+Develops a theory for interpreting focus (for example, intonational stress) in natural language, making crucial use of sets of alternatives.
+
+
+Ross, J. 2009. Acceptance and Practical Reason. PhD Thesis, Rutgers University, Chapter 9.
+
+Gives arguments for a contrastive treatment of normative reasons.
+
+
+Schaffer, J. 2004. “From Contextualism to Contrastivism.” Philosophical Studies 119(1-2): 73-104.
+
+Argues that contrastivism about knowledge is superior to standard forms of contextualism.
+
+
+Schaffer, J. 2005a. “Contrastive Knowledge.” In Gendler and Hawthorne (eds.), Oxford Studies in Epistemology, Vol. 1. Oxford University Press, 235-271.
+
+Argues for and develops a contrastive theory of knowledge.
+
+
+Schaffer, J. 2005b. ‘Contrastive Causation.’ The Philosophical Review 114: 327-358.
+
+Argues for and develops a contrastive theory of causation.
+
+
+Schaffer, J. 2007a. “Knowing the Answer.” Philosophy and Phenomenological Research 75(2): 383-403.
+
+Argues for and develops a contrastive theory of knowledge, based primarily on knowledge-wh ascriptions—for example, “knows who”, “knows whether”.
+
+
+Schaffer, J. 2007b. “Closure, Contrast, and Answer.” Philosophical Studies 133(2): 233-255.
+
+Shows how a contrastivist about knowledge can explain inferences supported by closure principles, even though the contrastivist has to reject standard closure principles.
+
+
+Schaffer, J. 2008. “The Contrast-Sensitivity of Knowledge Ascriptions.” Social Epistemology 22(3): 235-245.
+
+Argues against non-contrastivist treatments of the linguistic data used to motivate contrastivism.
+
+
+Schaffer, J. 2010. “Contrastive Causation in the Law.” Legal Theory 16: 259-297.
+
+Applies contrastivism about causation to causation as appealed to in judgments of legal responsibility.
+
+
+Schaffer, J. 2012. “Causal Contextualisms.” In Blaauw (ed.), Contrastivism in Philosophy. Routledge, 35-63.
+
+Discussion of contrastivism about causation, with a somewhat pessimistic conclusion for its ultimate prospects.
+
+
+Sinnott-Armstrong, W. 2004. “Classy Pyrrhonism.” In W. Sinnott-Armstrong (ed.), Pyrrhonian Skepticism. Oxford University Press, 188-207.
+
+Argues for contrastivism about knowledge, but uses this theory to support Pyrrhonian skepticism about unrelativized knowledge claims by arguing for skepticism about the notion of a “relevant” contrast class.
+
+
+Sinnott-Armstrong, W. 2006. Moral Skepticisms. Oxford University Press.
+
+Applies the ideas in Sinnott-Armstrong (2004) to moral epistemology.
+
+
+Sinnott-Armstrong, W. 2008a. “A Contrastivist Manifesto.” Social Epistemology 22(3): 257-270.
+
+An overview of contrastivism across philosophy.
+
+
+Sinnott-Armstrong, W. 2008b. “Replies to Hough, Baumann, and Blaauw.” Philosophical Quarterly 58(232): 478-488.
+
+Replies to Baumann’s (2008) “crazy contrast class” objection to contrastivism about knowledge.
+
+
+Sinnott-Armstrong, W. 2012. “Free Contrastivism.” In Blaauw (ed.), Contrastivism in Philosophy. Routledge, 134-153.
+
+Shows how a contrastive account of freedom can clarify disputes in discussions of determinism and moral responsibility.
+
+
+Sloman, A. 1970. “Ought and Better.” Mind 79(315): 385-394.
+
+Early development of a contrastive view of obligation.
+
+
+Snedegar, J. 2012. “Contrastive Semantics for Deontic Modals.” In Blaauw (ed.), Contrastivism in Philosophy. Routledge, 116-133.
+
+Argues for a contrastive treatment of deontic modals like “ought”, “must”, and “may”.
+
+
+Snedegar, J. 2013a. “Negative Reason Existentials.” Thought 2(2): 108-116.
+
+Shows how to use contrastivism to solve a puzzle about claims like “There’s no reason to cry over spilled milk.”
+
+
+Snedegar, J. 2013b. “Reason Claims and Contrastivism about Reasons.” Philosophical Studies 166(2): 231-242.
+
+Argues for contrastivism about normative reasons on the basis of reason claims employing “rather than”.
+
+
+Snedegar, J. 2014a. “Deontic Reasoning across Contexts.” In F. Cariani, and others (eds.), Deontic Logic and Normative Systems, Vol. 12, Springer Lecture Notes in Computer Science, 2014a: 208-223.
+
+Shows how a contrastivist about obligation can recapture intuitive inferences supported by inference rules the contrastivist rejects.
+
+
+Snedegar, J. 2014b. “Contrastive Reasons and Promotion.” Ethics 125 (2014b): 39-63.
+
+Argues for and develops a version of contrastivism, based on the idea that normative reasons are tied to the promotion of objectives.
+
+
+Yalcin, S. 2011. “Nonfactualism about Epistemic Modality.” In Egan, A. and Weatherson, B. (eds.), Epistemic Modality. Oxford University Press, 295-332.
+
+Introduces the idea of resolution-sensitivity in a discussion of epistemic modality.
+
+
+
+ 
+Author Information
+Justin Snedegar
+Email: js280@st-andrews.ac.uk
+University of St Andrews
+United Kingdom
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

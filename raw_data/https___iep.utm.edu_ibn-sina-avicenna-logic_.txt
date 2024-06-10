@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+Avicenna (Ibn Sina): Logic | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Avicenna (Ibn Sina): Logic        
+Avicenna (Ibn Sina) (c. 980-1037 C.E., or 375-428 of Hegira) is one of the most important philosophers and logicians in the Arabic world. His logical works are presented in several treatises. Some of them are commentaries on Aristotle’s Organon, and are presented in al-Shifa al-Mantiq, the logical part of the Encyclopedic Book al-Shifa (The Cure), which also contains a treatise on Metaphysics (al-Ilahiyat) and a treatise on Natural Science (al-tabi‘iyyat); others are edited on their own, such as the books entitled al-Isharat wa-t-tanbihat, al-Najat, and Mantiq al-mashriqiyyin. Among his writings, there is a book written in Persian called Danishnama-yi ʻAla᾿i (The Book of Knowledge for ʻAla al-Dawla).
+As a logician, he was mainly influenced by Aristotle’s commentators such as Alexander of Aphrodisias, and by al-Farabi, in the Arabic world, and had himself many followers including al-Ghazali, Nasir-eddine al-Tusi, Afdal al-Din al-Khunaji and Fakhr al-Din al-Razi. He added new concepts and distinctions that are not found in the writings of the ancient authors, or in those of the earlier logicians of the Arabic tradition. He improved the Aristotelian categorical and modal syllogistics, and constructed a whole system of hypothetical logic, different from the Stoic system and far more developed than al-Farabi’s reflections on the same topic. His modal syllogistic in particular is very different from the Aristotelian one, for the conversions involving the modal propositions are different. As to hypothetical logic, it involves the conditional as well as disjunctive propositions and makes connections between them both and between them and the predicative ones.
+In his analysis of the syllogisms, Avicenna introduces a new distinction between the iqtirani (translated as “conjunctive”) syllogisms and the istithna᾿i (usually translated as “exceptive”) ones [that is, the usual Stoic kind of syllogisms], the former being a large class including the categorical syllogisms together with one kind of the hypothetical syllogisms. In the former, the conclusion does not occur in the premises; it conveys new knowledge deduced from the two premises, while in the latter, which uses the istithna, that is, detachment, the premises explicitly include either the conclusion or its contradictory.
+His analysis of the absolute (or non-modal) propositions is new and original, since he introduces temporal considerations in this type of proposition and renews the oppositional relations between these propositions by introducing perpetual propositions, general absolute propositions and special absolute propositions. This analysis is influenced by semantic and linguistic considerations.
+Table of Contents
+
+Life and Works
+The Definition of Logic
+The Different Kinds of Propositions and their Relations
+The Analysis of the Absolute Propositions in al-Shifa, al-Qiyas
+The Absolute Propositions in Mantiq al-Mashriqiyyin
+The Categorical Syllogistic
+The Modal Propositions and Oppositions
+The Modal Syllogistic
+The Hypothetical Logic
+Combining Hypothetical and Categorical Propositions
+References and Further Reading
+
+Avicenna’s Logical Treatises and Other Primary Sources
+Secondary Sources
+
+
+
+1. Life and Works
+Abu Ali al-Hussein Abdullah ibn al-Hassan ibn Ali Ibn Sina (called Avicenna in the West) was born in a village near Bukhara in 980 C.E. (375 of Hegira). At a very young age, he was taught the Koran together with much literature. He also learned philosophy, geometry and Indian calculus during his childhood and youth. His teacher, al-Natili, taught him Logic, starting with Prophyry’s Isagoge. He also studied the other treatises of the Aristotelian Organon and Euclidian geometry, which he mastered readily. While turning to Natural Science, he became interested in medicine and read many books related to that topic. At the age of 16, he was so knowledgeable in that domain that he was able to treat and cure people. As he became famous as a physician, he was asked to take care of the Sultan Nuh ibn Mansur and succeeded in curing him from his disease. To thank him, the sultan gave him access to the royal library where he could read many original medical books, together with books on poetry, Arabic grammar and theology. At the age of 18, he was already very knowledgeable in all these disciplines and had read many unknown ancient treatises in various sciences. However, he had some difficulty understanding Aristotle’s Metaphysics, which he read several times without getting the point of it. Only after he had the opportunity to read al-Farabi’s commentary on Metaphysics, entitled Aghradu kitab ma ba‘d at-tabi‘a, could he understand the aim and interest of metaphysics.
+After the death of his father, he left Bukhara because of some troubles at that time and started to travel. He went to several places including Khurasan, Jurjan, and other Persian towns searching for subsistence. He started writing, in particular the Kitab al-Qanun (on medicine) and other books in various domains. He then became the minister forShams ad-Dawlah (the sultan of Hamadan in Persia) after having cured him from his disease. He started working for the sultan during the day and writing his books, in particular al-Shifa, in the evenings. He wrote first al-Tabi‘iyyat (Natural Science) of the Shifa book, after finishing the first volume of the Qanun. His secretary and his brother assisted him by reading and copying these books.
+After the death of the sultan and because of some political complications, he went to jail for four months, where he wrote Hayy ibn Yaqdan, among other works; however, he was able to escape and travel with his brother and his secretary to Ispahan, where he stayed the rest of his life. In Ispahan, he became the minister and doctor of the sultan ‘Ala’ ud-Dawla; he also wrote Kitab al-Najat, plus the rest of Kitab al-shifa, in particular the logical part of it, and other books on arithmetic, geometry, music, and biology (anatomy and botany) together with a book on astronomy, at the request of the sultan. He also wrote three books on language and wrote down his medical observations and experiences in his famous Kitab al-Qanun.
+Although Avicenna worked very hard, he also enjoyed a good living. However, during an expedition with the sultan he got sick; he tried to cure himself, but despite his efforts, he became very weak, and the intestinal disease did not disappear completely, recurring several times. He died at the age of 53 (428 of Hegira) from the disease, realizing that no medicine could cure him (al-Isharat wa-t-tanbihat 85-97; Mantiq al-Mashriqiyin; “Avicenna”).
+Avicenna’s corpus is rich and varied. He wrote on all sciences, from astronomy, botany, and medicine to metaphysics, logic, physics, chemistry, linguistics and many others. In the field of logic, which is our concern here, he wrote several treatises, such as: al-Shifa al-Mantiq (which contains the correspondence on all Aristotelian treatises), al-Najat (translated in 2011 by Asad Q. Ahmed under the title: Avicenna’s Deliverance: Logic), al-Isharat wa-t-tanbihat, al-Qasida al-muzdawija, and Mantiq al-Mashriqiyyin. The latter, however, is what remains from a much longer book which, apparently, was destroyed in Ispahan in 1034 C.E. and is said to have contained Avicenna’s project on an Eastern philosophy called hikma mashriqiyya (Arnaldez 192).
+2. The Definition of Logic
+Avicenna defines the field of logic in many of his logical treatises. Some of these definitions include the following:
+What is meant by logic, for men, is that it is a regulative (qanuniya) tool whose use prevents his mind from making errors (ʼan yadalla fi fikrihi) (al-Isharat 117).
+…for [logic] is the tool that prevents the mind from errors in what men conceive and assent to, and it is what leads to the true convictions by providing their reasons and by following its methods (al-Najat 3).
+Logic is said to be what “prevents the mind from errors.” This means, first, that it is a tool—an Organon in classical terms—and second, that its aim is to help reach the truth and avoid fallacies by studying in a specific way the methods used for that purpose. Logic focuses on the methods used in the quest for truth; it is thus different from other sciences in this particular way. Its focus is to study all the relevant methods that can be used to reach the truth in the best and safest way. However, the second definition is more precise than the first, as it explicitly evokes the notions of concepts and assents. As defined by Tusi, logic is “a science by itself (ʻilmun bi nafsihi) and a tool with regard to other sciences…” (al-Isharat 117, note 1). It is, in other words, the science that studies the best tools to reach the truth. This opinion can be found in al-Qiyas, where Avicenna says that these two features of logic are not contrary but compatible (al-Qiyas 11.7).
+However, what exactly is the subject matter of logic? In al-Shifa al-Madkhal, Avicenna distinguishes between concepts on the one hand and propositions on the other. Propositions are either true or false, whereas concepts are components of the propositions and are neither true nor false. They are expressed in general terms, which can either be verbs, nouns, or adjectives. These terms may either be subjects or predicates in propositions. Logic thus studies the conceptions and assents as the Arabic authors largely hold. Although Avicenna talks about this view of logic explicitly, he is often said by many commentators to endorse another view, namely that logic is concerned with the study of the secondary intentions (or intelligibles, as they are sometimes called). The view that logic studies secondary intelligibles is expressed in al-Ilahiyyat (the metaphysics of the Shifa) rather than in the logical treatises. Avicenna says in that treatise:
+The subject matter of logic, as you know, is given by the secondary intelligible meanings, based on the first intelligible meanings, with regard to how it is possible to pass by means of them from the known to the unknown [emphasis added], not in so far as they are intelligible and possess intellectual existence ([an existence] which does not depend on matter at all, or depends on an incorporated matter). (Metaphysics 7 qtd. by T. Street; the expression “as you know” is contested by one of the referees who prefers “as you have learned” or “as you have known”).
+However, in this view, as the emphasized passage shows, the aim of the study is also always to show how one can go from the known to the unknown. Therefore, the real focus and specificity of logic is to pay attention to this passage. What are these secondary intelligible meanings? According to Street, these are second-level concepts, as distinguished from first-level concepts, such as the concepts of animal or human being, which refer to individuals in the real world, that is, the concepts that could have the property of being subjects, predicates, or genus. He thus focuses on the ontological aspect of this subject, as according to him, the secondary intelligibles are a distinct stretch of being (Street 2008, section 2.1.2). This account of Avicenna’s position is very close to A. I. Sabra’s analysis of the subject of logic in Avicenna’s theory, which relates Avicenna’s distinction to “the Porphyrian distinction between terms in first position and terms in second position,” (A. I. Sabra 1980, p. 753) that is, between the terms that refer to external objects and those referring to first position meanings.
+However, Sabra’s interpretation of the first and secondary intelligibles has been criticized by W. Hodges, who finds Sabra’s comparison between the Avicennan and the Porphyrian distinctions “unfortunate, because there is an obvious candidate in Madkhal i.2–4 for the notions that Ibn Sina is referring back to, namely things in first and second mode of existence”. Thus, his own interpretation is different from that of both T. Street and A. I. Sabra in that it stresses the formal character of logic in Avicenna’s frame.
+According to him, the definition provided in Mantiq al-Mashriqiyin clarifies the distinction between words “in first and second mode of existence” in the best way. This definition is the following: “And the subject [of logic] is the meanings in the context of their being subject to composition through which they reach a point where an idea is made available in our minds which was not in our minds [before]… (wa mawduʻuhu – al-maʻani min haythu hiya mawduʻatun lil-ta᾿lifi alladhi tasiru bihi muwassilatan ᾿ila tahqiqi shay᾿in fi adhhanina laysa fi adhhanina, …)”. Accordingly, “being in second mode of existence is the same thing as being ‘subject to composition’ – or at least being subject to being made a component of proposition”. In this respect, the secondary intelligible meanings can have as features to be subjects or predicates, universal or particular, and so on. These meanings are parts of the propositions, which in turn are the components of a syllogistic mood and have as features to be either premises of a syllogistic mood or a conclusion following from the premises. The conclusion deduced from the premises contains the newly acquired knowledge, which results from the already known premises. Here we find the passage from the known to the unknown stressed by Avicenna in his various definitions of logic.
+It is in this sense that logic may be said to be formal, that is, to study the inferences and arguments with respect to their logical structures in order to find out what inferences are conclusive, that is, valid. In Avicenna’s text, the notion of validity might be defined as truth “in all matters” (al-Qiyas 64.10-11), as he shows in that passage that the validity of a syllogistic mood does not and should not depend on the matter of the propositions it contains.
+This shows that Avicenna privileges deductive logic over other kinds of logical systems. The logic he defends is demonstrative as he explicitly says in the very beginning of al-Qiyas, where he identifies the aim of logic as follows: “Our aim in the art (sinaʻa) of logic is first and foremost (al-awwal wa bi-dhdhat) to identify the syllogisms and, among them, to study the demonstrative syllogisms. The usefulness of this study for us is to be able, using this instrument, to acquire the demonstrative sciences” (al-Qiyas 3.2-4). Thus, in his frame, logic is deductive, and it is this feature that makes it useful to the other sciences, as it is by applying its inferences and rules that the other sciences can reach the truth. As an instrument or a tool in other sciences, it plays a most important and specific role (al-Qiyas 10.15). Its truths and rules are, because it is deductive, comparable to the truths of mathematics, which are exact, “far from error,” and admitted unanimously and are “well-regulated” (munassaq) and not subject to plurality (al-Qiyas 16.9-10). Likewise, the part of logic that studies proofs and syllogistic inferences, which is the heart of logic, “does not admit plurality if it is rightly understood, for it is of the well-regulated type (min al-qismi al-munassaq)” (al-Qiyas 17.2).
+3. The Different Kinds of Propositions and their Relations
+Avicenna distinguishes between several kinds of propositions in the different sections of his system. The propositions may be categorical, modal, or hypothetical.
+The categorical propositions are predicative: they contain a subject and a predicate, plus a copula and a quantifier in some cases. This class includes singular propositions, indefinite propositions, and quantified propositions, which are either particular or universal. All kinds are either affirmative or negative.
+The modal propositions contain a modal operator in addition to all the components of the categorical propositions. The modalities are expressed using the words “necessarily” and “possibly,” to which a negation may be added. They are also singular, indefinite, or quantified and may be affirmative or negative.
+The hypothetical propositions are either conditional or disjunctive. The conditional ones contain the expression “if…then,” while the disjunctive ones contain either the words “either…or” or the expression “not…both.” Unlike the categorical propositions, their elements are not terms, but whole propositions, as in the example “If the sun rises, it is daytime” and “either this number is odd or it is even.”
+Avicenna says that these hypothetical propositions, like the predicative ones, may also be singular, indefinite, or quantified. When they are quantified, they contain words such as “whenever” (kullama), “always” (da’iman), “never” (laysa al battata), “maybe” (qad yakun), “not (whenever)” (laysa kullama), “not always” (laysa da’iman). However, they differ from the predicative ones in that their elements are propositions related by a logical operator instead of two terms related by a copula. An example of a universal affirmative conditional is the following: AC: “Whenever H is Z, A is B.” The universal affirmative disjunctive, that is, AD, is expressed as follows: “Always either H is Z or A is B.”
+Avicenna acknowledges the four relations of the traditional square of opposition between the quantified categorical propositions in al-‘Ibarah (De Interpretatione). However, he does not explicitly talk about a square and does not use geometrical figures at all, although he does precisely define the four relations by means of their truth conditions. These definitions are the following (the commonly used vowels A, E, I, O do not appear in Avicenna’s text; they are used here for convenience):
+
+Contradiction (tanaqud): valid when its components are true-false in all matters (A/O and E/I).
+Contrariety (tadadd): valid when its components are false-false in the possible matter or true-false in the necessary and impossible matters (A/E).
+Subcontrariety (ma taht at-tadadd): valid when its components are true-true in the possible matter and true-false in the impossible and necessary matters (I/O).
+Subalternation (called tadakhul, a word close to inclusion): valid when its components are false-true in the possible matter, true-true or false-false in the two other matters (A/I and E/O).
+
+As to the quantified hypothetical propositions, he says that the couples AC / OC and EC / IC, as well as AD / OD and ED / ID, are contradictory. However, the conditional ones do not validate the other relations of the square, given the operators they contain, as their corresponding formulas are as follows (where quantification is made based on situations): 
+ Ac: (∀s)(Ps ⊃ Qs); Ic: (∃s)(Ps ∧ Qs); Ec = ~(∃s)(Ps ∧ Qs); Oc = ~(∀s)(Ps ⊃ Qs).
+The disjunctives may be formalized as follows:
+AD: (∀s)(Ps ⊻ Qs), ID: (∃s)(Ps ∨ Qs), ED: ∼(∃s)(Ps ∨ Qs), OD: ~(∀s) (Ps ⊻ Qs) (S. Chatti 2014a).
+These formalizations of the disjunctive propositions validate not only the contradictions AD / OD and ED / ID, but also the contrarieties AD / ED, the subcontrarieties ID / OD, and the subalternations AD / ID and ED / OD.
+4. The Analysis of the Absolute Propositions in al-Shifa, al-Qiyas
+However, in al-Shifa al-Qiyas (the correspondent of Prior Analytics, literally: The Syllogism), he provides a more detailed analysis of the categorical propositions, which introduces temporal connotations. In this new analysis, the perpetual propositions (containing the words “always” or “never”) are the real opposites of the general absolute propositions (containing “at some times”). For instance, the real contradiction of “Every S is P (at some times)” is not simply “Some Ss are not P,” but rather “Some Ss are never P,” which is a perpetual proposition. In the same way, each general absolute proposition, whether universal or particular, affirmative or negative, is contradicted by a perpetual one. With these new propositions, one can draw several squares with valid relations but, once again, Avicenna does not himself draw any figure (Chatti 2014b 3).
+Furthermore, some propositions are called special absolute propositions because they contain the expression “at some times, but not always.” These are contradicted by complex propositions containing disjunctions and are comparable to the bilateral possible propositions in this respect (Street 2004, Appendix).
+One may ask why Avicenna introduces these temporal connotations. This is because he believes that most categorical propositions are not true if one does not add some further condition. For instance, “Every man is laughing” is true only when one adds “at some times” (al-Qiyas 82). Thus, the temporal connotation helps determine the truth value of the proposition when it is ordinary, that is, part of everyday discourse.
+The temporal conditions are specifically Avicennan, together with the condition “as long as he exists” added in some kinds of propositions. However, Avicenna also uses other conditions such as “as long as it is S,” and “as long as it is P,” which are already present in Theophrastus’ text, as noted by Wilfrid Hodges in several writings. The former conditions make Avicenna’s logic different from Aristotle’s as well as from al‑Farabi’s and Averroes’ systems, which do not contain such temporal precisions.
+5. The Absolute Propositions in Mantiq al-Mashriqiyyin
+In Mantiq al-Mashriqiyyin, which supposedly contains Avicenna’s original views but which is, as it stands, very incomplete, as only some fragments remain from it, Avicenna classifies the predicative propositions into five kinds as follows:
+
+Necessary (daruriya): S is P (as long as S exists) (Mantiq 65, 68)
+Implicative (lazima) (personal translation): S is P (as long as it is S) (Mantiq 65, this is also called lazima mashruta: implicative with a condition)
+Factual (tari’a) (Mantiq 65) (muwafiqa 68-69): S is P (not perpetually)
+Determined (mafruda) (Mantiq 65): S is P (at some determined time), e.g. “Every moon eclipses” (Mantiq 68)
+Spread (muntashira) (Mantiq 65): S is P (at some undetermined but regular times), e.g. “Every human being breaths” (Mantiq 68)
+Temporal (waqtiya) (Mantiq 65) (hadira = present (Mantiq 68)): S is P (at present), e.g. “Every animal is a man,” which could be true “if there were a time where this would be the case” (Mantiq 68)
+
+Some sentences can even be interpreted in different ways, as witnessed by the following example: “Every sick person is weakened” (Mantiq 72), which could either be considered kind (2) (for instance, if the illness is chronic), kind (4) if the weakness occurs at one determined time, or kind (5) if the weakness occurs at undetermined but regular times (Mantiq 72).
+These kinds are not really new in Avicenna’s theory, as he addresses kinds (4) and (5) in al-Qiyas and gives an example in that same treatise that is very close to kind (6) by saying: “because it is possible at some time that ‘every B is C’ […], at that time ‘every animal is a person’ will be true” (al Qiyas 141). As to (1) and (2), they represent two kinds of propositions that were sharply separated in al-Qiyas (1964 21-22) and that are also still separated in al-Isharat because (1) was considered descriptional, while (2) is substantial (Street 2004 551).
+Avicenna also uses the expression lazima mashruta when he talks about the implicative, leading to the question of why he adds this adjective and whether there is any difference between lazima and lazima mashruta. Taking into account the explanations provided in the text (al-Qiyas 65.5-11), the difference might be related to the truth values of both propositions, as Avicenna analyzes some sentences that could be true only when one adds “as long as it is S” and distinguishes between them and those containing “as long as it exists.” In some cases, the condition “as long as it is S” is absolutely indispensable, which sharply distinguishes these sentences from those, called necessary, which could be true with the condition “as long as it exists.” In the first kind, “S is P only when it is S,” otherwise it would be false; this is why Avicenna says “with a condition,” as this condition is crucial to determine the truth-value of the sentence. The example given in the text clarifies this idea. The sentence “A moving thing changes as long as it exists” is not true because something that can move (such as animals or people) or even that does actually move could not be said to change “as long as it exists,” as this movement and, consequently, the change, does not last the whole time the thing exists. To the contrary, if one says:
+
+“Every man is an animal (as long as it is a man),” this sentence is not different in its truth-value from that other sentence:
+“Every man is an animal (as long as he exists),” both are true, even if the conditions are not the same in each case.
+
+In this example and similar ones, as Avicenna emphasizes in al-Qiyas, “the situation is not [that] different (la yaftariqu al-halu) from saying ‘as long as it exists’ and saying ‘as long as it is white’ [that is, ‘as long as it is S’]” (al-Qiyas 22.6-7), while in other sentences, such as the first example above (“A moving …”), there is a real difference. Therefore, maybe Avicenna adds “with a condition” (mashruta) to emphasize the case where the condition “as long as it is S” makes a real difference with regard to the truth-value of the sentence. The difference is that the implicative is true only in so far as the thing is described as S, whereas the necessary is true during the whole time that the thing described as S exists.
+Nevertheless, these two kinds of propositions share at least one thing, which is the continuous link between S and P, expressed in both propositions by “as long as,” which is not obvious in the other kinds.
+Kind (3) seems to correspond to the so-called general absolute propositions (containing “at some times”). However, the special absolutes (containing “at some times but not always”), which were analyzed in al-Qiyas and al-Isharat, are not part of this classification.
+All these propositions can be modalized by adding the modal words “necessarily” (bi-d-darurati) and “possibly” (bi-l-’imkani), to which one can add negations as follows: “not necessarily” (laysa bi-d-darurati) or “not possibly” (laysa bi-l-’imkani) (al-Qiyas 71). These modal propositions are four-fold (ruba‘iyah) (al-Qiyas 70), as they contain four elements.
+6. The Categorical Syllogistic
+Avicenna admits three figures and the same valid moods as Aristotle in Prior Analytics. He explicitly rejects the fourth figure because of its unnaturalness (al-Qiyas 107). However, given the precisions added in the analysis of the absolute propositions, some rules such as conversion become invalid for some kinds of propositions, which consequently invalidate the demonstrations that use this rule and the moods that are obtained by means of it. Only some kinds of propositions validate the conversions (of E, I and A). Thus, the general absolute propositions, containing “at some times,” do not validate E-conversion given that “No man is laughing (at some times)” does not lead to “No laughing thing is a man (at some times),” as “it is impossible to negate the predicate ‘man’ from what is laughing in effect” (al-Qiyas 82). Consequently, since conversion is often used in the reduction of syllogisms of the second and third figures, these syllogisms are not valid when they contain the non-convertible propositions. As a matter of fact, the valid moods admitted by Avicenna contain quantified propositions containing the condition “as long as it is S.” These admit E-conversion, as well as the other syllogistic rules, as it can be deduced, for instance, from the sentence “Nothing that sleeps wakes while sleeping” that “Nothing that wakes, sleeps while awake” (Street 2004 551). Thus Cesare [that is, the 1st mood of the 2nd figure in Avicenna’s wording] from the second figure is stated as follows: “Every C is B (as long as it is C); No A is B (as long as it is A); therefore, no C is A (as long as it is C)” (al-Qiyas 114-115). Note also that as all other Arabic logicians, he starts the syllogism with the minor premise, and the major premise is the second one. However, the places of the terms are correct because, for all moods, the minor term is the subject of the conclusion, while the major term is its predicate.
+In addition, he explicitly states some rules that govern the different figures and the valid moods including, for instance, the following general rule: “the conclusion (natija) follows the least (akhass) premise with regard to quantity and quality, but not with regard to modality” (al-Qiyas 108; al-Najat 33). As a consequence, in the third figure, only particulars are deducible (al-Qiyas 108) and in the second figure, only negatives are deducible, while in the first figure, all kinds of propositions are deducible.
+Other rules are stated, such as the following:
+
+ In the second figure, no syllogism is possible with two affirmative premises, as the middle can be predicated by two opposite subjects, e.g. ‘body’ can be predicated by ‘men’ and ‘stones’ (al-Qiyas 111).
+ In all syllogisms of the first and second figures, the major premise must be universal.
+ In the syllogisms of the third figure, the minor premise must be affirmative.
+ No syllogism is conclusive when the minor is negative and the major is particular.
+
+In three of the first figure moods (Darii, Barbara, and Celarent), the conclusion may be converted, which gives rise to other (imperfect) moods. Therefore, these moods admit two conclusions: the first one, obtained as usual from the two premises, and a second one, obtained by conversion from the first conclusion (al-Qiyas 110.4-6).
+The singulars are treated as universals (al-Qiyas 109.12-13). For instance, the following Barbara syllogism contains only singular propositions: “Zayd is the father of Abdullah; the father of Abdullah is the brother of ‘Amr; therefore, Zayd is the brother of ʻAmr” (al Qiyas 109.13-14).
+Avicenna uses all kinds of proofs in demonstrating the moods of the second and third figures. He systematically provides two (or more) proofs for each mood, a direct one by conversion or by ekthesis and an indirect one, by reductio ad absurdum (bi-l-khalf). For instance, the mood Cesare above, that is, “Every C is B (as long as it is C); no A is B (as long as it is A); therefore, no C is A (as long as it is C),” in addition to its proof by conversion (al-Qiyas 114.5-8), is also proven by reductio ad absurdum as follows: “Suppose the conclusion is false, then ‘Some Cs are A (as long as they are C)’ is true; but we have ‘No A is B (as long as it is A)’; so by Ferio, we deduce ‘Not every C is B (as long as it is C); but this contradicts the first premise, that is, Every C is B (as long as it is C), which is not acceptable” (al-Qiyas 114-115). The negation of the conclusion is thus not compatible with the first premise, which indirectly proves the validity of the whole syllogism.
+The other moods are also proven in two or more ways. For instance, in the second figure, Camestres is proven by the conversion of the minor and the conclusion and by reductio ad absurdum, Festino is proven by the conversion of the major and by reductio ad absurdum, and Baroco is proven by reductio ad absurdum and by ekthesis. In the third figure, Darapti is proven by ekthesis, by the conversion of the minor and by reductio ad absurdum; Felapton is proven by ekthesis, by the conversion of the minor, and by reductio ad absurdum; Datisi is proven by the conversion of the minor; Disamis is proven by ekthesis, by the conversion of the major and of the conclusion, and by reductio ad absurdum; Bocardo is proven by ekthesis and by reductio ad absurdum; and Ferison is proven by the conversion of the minor and by reduction ad absurdum (al-Qiyas, pp. 114-119)
+These proofs are inspired by Aristotle’s, but some of them cannot be found in Aristotle’s texts. These are, for instance, the proofs by ekthesis of the second figure mood Baroco (al-Qiyas 118.10-12) and of the third figure mood Bocardo (al-Qiyas 119.1-2). However, Avicenna is not the first philosopher in the Arabic tradition to provide proofs of these two moods by ekthesis. Before him, Al-Farabi also proved them both by ekthesis in his Kitab al-Qiyas (al-Farabi 1986a 25.15-26.4, 28.16-29.1). Bocardo’s proof is exactly the same as al-Farabi’s, but Avicenna’s proof of Baroco is different from al-Farabi’s. To see the difference, let us state them both.
+Baroco itself is the following:
+Every A is B [“B belongs to every A” in one of al-Farabi’s phrasings]
+Some C’s are not B [“B is not in some C”]
+Therefore Some C’s are not A [“A is not in some C”]
+The proof by ekthesis relies on the assumption that since “B is not in some C,” then B is negated by “all this part”; therefore, “suppose that this part is designated on its own and let us call it D” (al-Farabi, al-Qiyas 1988 131; 1986a 25.17-18), then we have the following steps in  Al-Farabi’s proof and Avicenna’s proof:
+
+
+
+Al-Fārābī’s proof:
+Avicenna’s proof:
+
+
+1. B is not in some C
+1. Some C’s are not B
+
+
+2. B belongs to no D (assumption)
+2. No D is B (assumption)
+
+
+3. B belongs to every A (major premise)
+3. Every A is B (major premise)
+
+
+4. D belongs to no B (from 2 by conversion)
+4. No D is A (from 2, 3 by Camestres)
+
+
+5. D belongs to no A (from 3, 4 by Celarent)
+5. Some C is D (assumption)
+
+
+6. A belongs to no D (from 5 by conversion)
+6. Therefore Not every C is A (4, 5, by Ferio)
+
+
+7. D is some C (assumption)
+
+
+
+Therefore A is not in some C (from 6, 7 by Ferio)
+
+
+
+(Al-Farabi, al-Qiyas 1988 131.9-17; Kitab al-Qiyas 1986a 25.15-26.4)
+(Avicenna, al-Qiyas 116.10-12)
+
+
+
+Avicenna’s proof is shorter, as it applies Camestres directly to the assumption and the major premise to obtain the crucial premise “No D is A,” while al-Farabi, although he notes that steps 2 and 3 are the premises of Camestres, does not apply Camestres directly; rather, he converts 2 to obtain 4 and applies Celarent to arrive at the premise “A belongs to no D,” which is necessary to deduce the conclusion.
+However, both proofs share the same difficulty, which is that the assumption “Some C is D” is not warranted by the premises of Baroco because given that O does not have an import, C could be empty, in which case the assumption would be false. This difficulty is raised by Wilfrid Hodges who considers that Avicenna could not have missed it but has probably considered that it did not make the ekthetic proof of Baroco illegitimate.
+As to al-Farabi, although he preceded Avicenna in his use of ekthesis in the proof of Baroco and was also the first logician in the Arabic world to defend the idea that quantified negative propositions do not have an import, whereas the affirmatives do, since the affirmatives such as “every man is white” “are false when the subject does not exist” (Kitab al-Maqulat 1986b 124.14), whereas their negative contradictories are true in that case (124.15), he did not seem to find the proof of Baroco problematic and did not provide any other proof for it. His justification of the use of ekthesis is that conversion is not applicable in that case. Al-Farabi did not mention the difficulty above, and the concrete example he provides involves non-empty terms, that is, the following: A: Horse, B: whinnying, C: animal, D: man. Thus he says:
+If we consider that the animals from which we have denied the whinnying are men, for example, we then have ‘every horse is whinnying’ and ‘No man is whinnying.’ It follows ‘No man is a horse’ as we showed above. And ‘men are some animals,’ therefore ‘Some animals are not horses’. (27.10-12).
+Since in this example C is not empty, we might consider that al-Farabi did not pay immediate and sufficient attention to the fact that C could be empty in some cases, as the premise O in Baroco does not rule out that case.
+7. The Modal Propositions and Oppositions
+As we said above, Avicenna expresses the modal propositions by adding the words “necessarily” and “possibly” to all kinds of propositions. He negates the modality to obtain the contradictory of the affirmative modal proposition, whether singular, indefinite, or quantified. This syntactic device works when the modality is external (that is, at the beginning of each proposition); this seems to be the strategy used by Avicenna in his analysis of the modal oppositions (al-Qiyas 49-50), as he just added, in that part of the text, the word laysa (‘no’ or ‘not’) in front of the modal propositions, even the quantified ones, to obtain their negations. This differs from al-Farabi’s style, as the latter always puts the modal word in front of the predicate. However, Avicenna also uses internal formulations by putting the modal word at the end of the proposition, in particular in his modal syllogistic.
+Avicenna provides three definitions of possibility, which are the following: 1. the unilateral possible, 2. the bilateral possible, and 3. what is neither actual nor necessary, nor impossible. The latter is related more specifically to the future. However, he privileges the second meaning, that is, the bilateral possible. In addition, he also provides the negation of the bilateral possible for all kinds of propositions, including the quantified ones, whether the modality is internal or external. He presents the entailments and equivalences between the modal propositions in his al-Shifa al-‘Ibarah (the correspondent of De Interpretatione) and shows in particular that the possible in Tables I and III rejected by Aristotle (De Interpretatione 22a14–22a32) should be interpreted as bilateral because, in that case, all the entailments become valid (S. Chatti 2014b 9-13).
+As to necessity, it is the dual of possibility because “□ ≡ ~◊~” and “◊ ≡ ~□~.” The bilateral possible is expressed as “◊α ∧ ◊~α,” while its negation can be formalized as “□α v □~α.” When the propositions are quantified, the following couples of contradictories result: □A / ◊O, □E / ◊I, □I / ◊E, □O / ◊A. For the bilateral possible, the contradictories are as follows when the possibility is external: ◊A ∧ ◊O / □O ∨ □A and ◊E ∧ ◊I / □I ∨ □E, and as follows when it is internal: A◊ ∧ E◊ / I□ ∨ O□ and “Some Ss are ◊~P and ◊P” / “Every S is □~P or □ P.”
+The necessity operator may be added to all the assertoric propositions above, which contain various conditions. For instance, one may say: “Necessarily Zayd writes (as long as he writes),” or “Necessarily the moon eclipses (at some determined time).” When the proposition is necessary but does not contain any condition, the necessity is said to be absolute (Lagerlund 233). This absolute necessity is very rarely used, as most of the necessary propositions contain some condition, in particular the existential condition (that is, “as long as S exists”).
+The oppositional relations between the modal quantified propositions may be represented by means of a Dodecagon (a figure with 12 vertices), where the other oppositions of the square can be added to the contradictions already mentioned. Avicenna has provided all the contradictions and some of the subalternations, contrarieties, and subcontrarieties; however, the remaining ones can easily be demonstrated in his system by means of the very relations he himself admits. The figure representing the modal singular (and indefinite) propositions is a hexagon, where all the relations are given by Avicenna, except two subcontrarieties, which are missing in his text but could be easily added (Chatti 2014b 10).
+8. The Modal Syllogistic
+Avicenna’s modal syllogistic differs from Aristotle’s in some points and from Averroes’ syllogistic, which is very Aristotelian. As we saw above, Avicenna primarily uses two kinds of possibility with the third one being mentioned but not given much importance. This influences the modal syllogistic rules and, consequently, the validity of the syllogisms. According to Avicenna, the conversion holds for necessary E and leads to necessary E as well. However, A necessary does not lead to I necessary, it leads rather to I possible. For instance, from the necessary proposition “Every laughing [thing] is necessarily a man” (or “is a man necessarily”), one cannot deduce “Some men are necessarily laughing”, rather the conversion leads to “Some men are possibly laughing” (al-Isharat 336), as the sentence “Some men are necessarily laughing” is not true, while the initial A proposition is necessarily true. The same can be said about I necessary (al-Isharat 335-336; Street 2008). It can be noted here that the example taken by Avicenna is precisely the one that illustrates the invalidity of conversion when it is applied to the general absolute propositions (see sections 4 and 6 above). As to possible E and possible O, they do not convert because if “Possibly no man is a writer” is true, “Possibly no writer is a man” is false and “Possibly some writers are not men” is also false (al-Isharat 338). This is so because the predicate “man” cannot be denied from the subject “writer,” even in a possible proposition given that a writer is necessarily a man and cannot be anything else.
+To the contrary, possible A and possible I do convert. However, if the possible is narrow (=bilateral), the conversion leads to a general possible proposition (=unilateral), that is, the general possible I (al-Isharat 339). According to Avicenna, “if every C is possibly B” (where the possibility is bilateral and internal), or “if some C is possibly B” (by the bilateral kind of possibility), then “Some B is possibly C” (where the possibility is unilateral and internal), “Otherwise, it [would] not [be] possible for a thing that is B to be also C” (al-Isharat 339). An example can show this; if we say “Every human being is possibly a writer” (and eventually, “possibly not a writer” too), we can deduce that “Some writers are possibly human beings,” otherwise, it would be impossible for any writer to be a man, and this of course is not plausible. Naturally, in the second proposition, the possibility is unilateral, as it would be false to say “Some writers are possibly not human beings.” These conversions also hold with internal modalities.
+As a matter of fact, in stating the modal syllogisms, Avicenna uses internal modalities as noted by Tony Street (Street 2008, section 2.3.1) who explains that, according to Avicenna, necessity has to do, above all, with being: “It depends on how things are and not on how things are described” (Street 2008, section 2.3.1). Consequently, the necessary propositions used in his syllogistic should contain “as long as it exists,” and the necessity operator is internal, as it occurs most of the time at the end of the proposition.
+As to the moods held, there are several analyses of the modal syllogistic in the literature. One of them is the analysis provided by Tony Street in his article “An Outline of Avicenna’s Syllogistic” (2002). According to this author, the moods held in the first figure are the following: “[AXA], [ALA], XXX, XLX, LXL, LLL, MMM, MXM, MLM” to which he adds “two imperfect mixes: LML, XMM.” In the second figure, he says that the following are held valid: “LLL, XLL, LXL, MLL, LML” and in the third figure, the following are admitted: “XXX, LLL, LXL, XLX, MMM, XMM, MXM, LML, MLM” (Street 2002 160), where A: perpetual (containing the word “always”), X: absolute, M: possible, L: necessary.
+Another analysis is provided by Paul Thom, who also uses the same kinds of propositions, that is, Perpetual (=P), General Absolute (=X), Possible (=M) and Necessary (=L) propositions. He states the universal affirmatives of each kind as follows: “1. X, the universal affirmative general absolute “every j is b”: jM ⊂ bm, [= every possible j is sometimes b] 2. P, the universal affirmative perpetual “every j is always b”: jM ⊂ bm [= every possible j is always b], 3. L, the universal affirmative necessity-proposition “every j is necessarily b”: jM ⊂ bL [every possible j is necessarily b], 4. M, the universal affirmative possibility-proposition “Every j is possibly b”: jM ⊂ bM [= every possible j is possibly b]” (Thom 2008 363, explanations inside brackets added following Thom’s interpretations of the subscripts, 363.9-10). In this interpretation, which Thom calls the “simple de re reading” (Thom 2008 363.12), the moods held are the following: “(i) the LLL, PLP, XLX, and MLM syllogisms of Fig 1, along with (ii) the LPL, PPP, XPX and MPM syllogisms, and also (iii) the LXL, PXP, XXX, and MXM syllogisms of the same Figure” (Thom 2008 364.5-7), plus the MMM and XMM moods (Thom 2008 364). These moods are validated by the semantics that Thom presents in his article. In the second figure, Thom says that the following moods are validated by the same reading and semantics: “LML-2, MLL-2” (Thom 365), plus the “XPL and PXL syllogisms” which are said to be “equivalent to XMX-1 and PMP-1” (Thom 2008 365). In the third figure, the following moods are validated: “XMX, LML, MMM, PMP and XMX” (Thom 2008 365).
+Note that in both accounts the perpetual is added to the usual modalities, which could be justified by the fact that Avicenna uses the word da’iman (=always or perpetually) when he talks about the modal syllogistic and that he sometimes uses both words together by saying necessarily and always [bi-al-darurati da᾿iman] (al-Qiyas 128.5, 7).
+However, this addition of the perpetual as a “separate class” of propositions has been criticized by Wilfrid Hodges who considers that the perpetual sentences are nothing more than those called “necessary” by Avicenna himself, as they have the same logical behavior. Therefore, although he agrees with Street’s list of the modal moods, he contests those containing the perpetual propositions. His analysis of the Avicennan modal syllogistic uses a two-dimensional framework that quantifies the times added to the usual quantification of objects. An example of this two-dimensional framework can be found, for instance, in the article “The move from one to two quantifiers” (Hodges 2015).
+In these accounts, the absolute proposition seems to be interpreted as a general absolute one, that is, as a proposition containing “at some times.” However, Avicenna explicitly says in several places that this kind of proposition does not convert and that the absolute propositions used in the syllogistic moods should be convertible. The convertible absolutes contain the condition “as long as it is S” as we saw above (section 6). Therefore, the absolutes used in the different moods should contain this condition, even if it is a first figure mood, as the conversion should lead to a proposition of the same kind. For instance, E-conversion leads from “No C is B (as long as it is C)” to “No B is C (as long as it is B)”; it does not lead to “No B is C (at some times).” The discussion of Barbara XLL where the absolute is interpreted as “Everything described as B is A at some times and this time is the one where it is described as B (kull ma yusafu bi [B] yakunu lahu [A] waqtan ma, wa dhalika al-waqtu huwa kawnuhu mawsufan bi [B])” (al-Qiyas 128.5-6) confirms this opinion, given that Avicenna clearly explains exactly what he means by this absolute. This mood is illustrated by the following concrete example: “All snow is white by necessity, and every white thing dissociates the eye as long as it is white; therefore, all snow always dissociates the eye” (al-Qiyas 129. 1-2). This example is translated as follows by Wilfrid Hodges:
+(a-d) All snow is coloured white throughout its existence.
+(a-ℓ) Everything coloured white dissociates the eye so long as it is coloured white.
+(a-d) Therefore all snow dissociates the eye throughout its existence.
+This translation shows that Wilfrid Hodges, following Avicenna’s explanations, uses an ℓ sentence (that is, a sentence containing “as long as it is S”) in this mood, which means that the major proposition is not a general absolute (containing “at some times”), but rather what Avicenna calls an implicative (lazima) in Mantiq al-Mashriqiyin, which, unlike the former, is convertible. The mood itself is a Barbara XLL since Avicenna uses the word da᾿iman (always) in the conclusion. It therefore seems that Barbara XLL is admitted when the major is descriptional. This is confirmed by the list of first figure moods admitted by Avicenna, which contain among other possibilities the ℓdd and ℓℓℓ moods, that W. Hodges presents in “The move from one to two quantifiers” (Hodges 2015, section 5).
+The moods above are different from Aristotle’s, as noted by these authors. For instance, Barbara LML is not valid in Aristotle’s modal logic, as Aristotle has Barbara LMM instead (Pr.A. 35b37-36a2). Avicenna differs also from Aristotle with regard to the conversion of necessary A, which leads to necessary I in Aristotle’s theory (Pr. A. 25a 31-33). However, as we saw above, it leads to possible I in Avicenna’s theory. This makes his theory different also from Averroes’, who tries to validate all the moods held by Aristotle.
+9. The Hypothetical Logic
+Hypothetical Logic is the part of the system that deals with the conditional and disjunctive propositions as they are stated, for instance, in Stoic logic. The hypothetical syllogism in general is called qiyas sharti. The logicians of the Arabic world, such as al-Farabi, include these propositional syllogisms in their correspondence about Prior Analytics and sometimes in their correspondence about Categories. However, unlike al-Farabi and Averroes, who just present the Stoic indemonstrables and some of their variants, Avicenna presents these same indemonstrables at the end of al-Qiyas (389-407), but also develops a whole hypothetical syllogistic where the valid moods contain conditional as well as disjunctive propositions and even combines such propositions with the categorical ones. The former syllogisms are called istithna᾿i (translated as “exceptive” in Street 2004, for instance), whereas the latter are called iqtirani (usually translated as “conjunctive”). The iqtirani / istithna᾿i distinction involves all kinds of syllogisms, whether categorical or hypothetical, as the class of iqtirani syllogisms includes the categorical syllogisms and one kind of hypothetical one, whereas the istithna᾿i syllogisms are the usual Stoic ones. The difference between both kinds is that the premises of an istithna᾿i syllogism include either the conclusion or its contradictory, while in the iqtirani ones, the conclusion is not included in the premises. The hypothetical syllogistic with the conditional propositions is almost the exact duplicate of the categorical syllogistic, as it contains three figures and moods corresponding to the usual categorical ones. When the disjunctive propositions are introduced, many moods are added that do not necessarily correspond to the categorical ones.
+The sharti (hypothetical) propositions are of two kinds: those containing “if…then” and those containing “either…or.” The former are the conditional propositions, and they express either what Avicenna calls the luzum, that is, the strong implication (the relation of “following from”), or what he calls the ittifaq. The latter are the disjunctive propositions that express either a strong or less strong separation. Here too, he sometimes speaks of ittifaq. In the luzum, or real implication, the consequent necessarily follows the antecedent so that if the antecedent is true, the consequent must be true because there is a semantic or causal link between them both. For instance, when one says: “If the sun is up, then it is daytime.” Here, the antecedent is the cause of the consequent, and the consequent “follows the antecedent in the reality (fi al-wujudi) and rationally (fi al ʻaqli)” (al-Qiyas 233.16). The causality relation may be involved in several ways; either the antecedent is the cause of the consequent as when someone says “If the sun is up, then it is daytime,” or the antecedent is itself “caused [by] and not separated (ghair mufariq)” from the consequent, or both the antecedent and the consequent are caused by the same thing, as with lightning and thunder, which are caused by “the movement of the wind in the clouds” (al-Qiyas 234. 4). In all these examples, there is a natural link between the antecedent and the consequent, which are related in all situations. This natural or semantic link may be present and makes the conditional true even when both propositions are false, as when one says: “If men are stones, then they are inert” (al-Qiyas 261.1-2), or when the antecedent is false while the consequent is true as when one says: “If five is even, then five has a half” (al-Qiyas 260.14). In both examples, the entailment is due to the semantic link between the antecedent and the consequent.
+However, in the ittifaq, which is translated as “chance connection” by N. Shehaby and evokes either the notion of accident or agreement, there is no such natural, semantic, or causal link as shown by the following example: “If men exist, then horses exist too” (al-Qiyas 234.14). Here, the existence of men is not the cause of the existence of horses, nor is it caused by it, nor are the two propositions related in either way, whether semantically or causally to each other. Each is true on its own and neither needs the other to be true in order for it to be true itself. Therefore, we could talk of some kind of concomitance because both are true. However, the truth of the consequent is not due to the truth of the antecedent, they just happened to be true together (ittafaqa ittifaqan) (al-Qiyas 234.15).
+Elsewhere, Avicenna talks about al-muwafaqa fi al-sidqi (al-Qiyas 265.11), which means the “agreement” in the truth, that is, the fact for the propositions to be both true. Therefore, muwafaqa or ittifaq (which amount to the same, as both words come from the same root) mean in that case the agreement in the truth, which could be rendered simply by the word “concomitance.” In addition, he offers the sentence “if men are talking, then donkeys are braying” as an example and says that “here, it suffices that the consequent is true, for this reason the truth of this proposition is clear” (al-Qiyas 265.13-14). This idea that the truth of the consequent alone makes the whole conditional proposition true is also evoked by Wilfrid Hodges who says “[i]n this passage it seems that Ibn Sina understands an ittifaqi sentence (a, mt)(p, q) to be one which is taken to be true on the basis that ‘Q’ is always true” (Hodges 2014 237). Thus, maybe, as Wilfrid Hodges clearly suggests against Shehaby’s interpretation based on the notion of chance, ittifaq is best rendered by the notion of agreement (or accordance) of the consequent (or of both propositions) with reality. This may be shown by another example provided by Avicenna, which is: “If every donkey is talking, then every man is talking,” which is true “by means of concordance or agreement (ʻala maʻna al-muwafaqa)” (al-Qiyas 270.10). In this example, the antecedent is false and it is the truth of the consequent that makes the whole proposition true. This is confirmed by the following text, which sounds like a definition: “Agreement (muwafaqa) is nothing but (laysa illa) the configuration in which the consequent is true (wa al-muwafaqa laysa illa nafsu tarkib al-tali ʻala annahu haqqun)ˮ (al-Qiyas 279.15).
+Anyway, in all these cases, whether both propositions are true or the consequent alone is true, the common feature is that the truth of the sentence is not due to the link between the antecedent and the consequent, as there is no strong (semantic or causal) link that could make us deduce the consequent from the antecedent. If the sentence is true, it is either because all its elements or its consequent alone are in accordance with reality. This accordance is perhaps what Avicenna means by ittifaq or muwafaqa, which he sometimes associates with the word mutabaqa, that is, correspondence (al-Qiyas 265.10).
+The next issue to address is how Avicenna analyzes the hypothetical inferences and what syllogisms and moods are admitted.
+In his study of the exceptive (istithna᾿i) syllogisms, Avicenna does not evoke the Stoics at all nor does he cite his sources. However, he says very often that these syllogisms are common or commonly known (mashhur) (al-Qiyas 390, 391, 395). He once evokes a “man who has advanced knowledge in the science of medicine” (al-Qiyas 398.12) and “people who strongly defend the first teacher (that is, Aristotle)” (al-Qiyas 398.14). These remarks suggest that the physician he refers to might be Galen, since Galen presented the stoic indemonstrables in his Institutio Logica, as Lukasiewicz, in his article on the stoic propositional logic (1934) says (Lukasiewicz 1934 qtd. in Largeault 1972 16), while the defenders of Aristotle might be the Peripatetics in general. Al-Farabi is also evoked and even criticized in this part of the system.
+The exceptive syllogisms presented are the Modus Ponens, Modus Tollens, Modus Tollendo Ponens, Modus Ponendo Tollens, and the syllogism where the first premise is a negated conjunction, which Avicenna expresses by using a disjunction of two negative propositions.
+Note that when the ittifaq is concerned, the deductions by means of these indemonstrables cannot be made, as from the two premises:
+If every man is speaking, then every donkey is braying
+But not every donkey is braying
+one cannot deduce “Not every man is speaking” (al-Qiyas 267.1-11) by Modus Tollens, because “Every donkey is braying” does not follow from “Every man is speaking.”
+However, he criticizes al-Farabi, who distinguishes between a complete implication (which is convertible, and is thus an equivalence) and an incomplete one (not convertible) by saying that such a distinction relies on the content of the propositions, which should not be taken into account in these syllogisms, since only the forms of the propositions should be considered. According to al-Farabi, with the complete implication, from “If p then q” and “q,” one may deduce “p” (al-Maqulat 1986b 79, symbols added). While, according to Avicenna, “When we say: ‘If A is B, then J is D’, and if this is a premise of our syllogism, we must consider what this means by considering its form, and decide what follows from this form. Saying that its consequent may be converted with its antecedent depends on something that is not the form of the premise; rather it has to do with the matter of the premise. This is like asking if the predicate of the universal affirmative is identical with its subject or not” (al-Qiyas 391. 16-17-392. 1-3). This means that the notion of form plays a fundamental role in Avicenna’s logic, whether with regard to the propositions or with regard to the inferences. The form of the conditional premise is shown by the order of the elements within the proposition.
+As to the study of the iqtirani syllogisms, which are part of the hypothetical syllogistic, it is made possible by the fact, already mentioned in section 3, that the hypothetical propositions, whether conditional or disjunctive, are also quantified by Avicenna. These quantifications have been interpreted in two ways in the literature: some, like Nicholas Rescher (1963), say that Avicenna quantifies using times, while others, like Zia Movahed (2012), privilege the quantification of situations. As a matter of fact, the latter solution is preferable in that it is more general and closer to Avicenna’s examples.
+As stated above (section 3), Avicenna uses the words “whenever” and “never” to express the two universal conditional propositions and the words “maybe” (qad yakun) and “not whenever” (laysa da’iman) to express the two particular conditionals. Consequently, the conditional quantified propositions can be formalized as follows:
+ AC: whenever P, then Q = In all situations, if…then..: (∀s)(Ps ⊃ Qs)
+ EC: never (if P then Q) = In all situations, if… then ~… : (∀s)(Ps ⊃ ~Qs) = ~(∃s)(Ps ∧ Qs)
+ IC: maybe (if P then Q) = Not (never if…then): ~(∀s)(Ps ⊃ ~Qs) = (∃s)(Ps ∧ Qs)
+ OC: not (whenever P, then Q) (laysa da’iman) (al-najat, p. 45) = ~(∀s)(Ps ⊃ Qs) = (∃s)(Ps ∧ ~Qs).
+As to the disjunctive propositions, they are expressed using the words “always, either … or…,” “never, either … or…,” “maybe, either…or…,” and “not always, either… or….”
+Consequently, they can be formalized as follows:
+ AD: Permanently (always) either P or Q: (∀s) (Ps ⊻ Qs)
+ ED: Never either P or Q (al-Qiyas 283): ~ (∃s) (Ps ∨ Qs)
+ ID: Maybe either P or Q … (p. 288) (al-Qiyas 290): (∃s) (Ps ∨ Qs)
+ OD: Maybe not either P or Q (maybe not = not always): ~(∀s) (Ps ⊻ Qs) (S. Chatti 2014a 190).
+These formalizations differ from those presented by Nicholas Rescher in his “Studies in the History of Arabic Logic” (1963), which are the following:
+The universal affirmative: (∀t) (Pt  ∨ Qt)
+The universal negative: (∀t) ~ (Pt ∨ Qt)
+The particular affirmative: (∃t) (Pt ∨ Qt)
+The particular negative: (∃t) ~ (Pt ∨ Qt) (Rescher 233).
+Apart from the quantification of times, some of the above formulas might not be satisfying because Rescher uses a unique symbol for the disjunction in all his formulas. If this symbol represents the inclusive disjunction, then the proposition AD can be true when its elements are both true, which does not conform to Avicenna’s examples, since these examples involve incompatible propositions and the disjunction is clearly intended to be exclusive. If it represents the exclusive disjunction, then AD is rendered well but not ID, which would not be different from AD if one considers only one situation. As to ED, its formalization is not obvious.
+The literature provides another formalization of the disjunctive quantified sentences, offered by Wilfrid Hodges, which seems promising. This interpretation is the following (where ‘mn’ means munfasil: disjunctive)
+(a, mn) At all times t, at least one of p and q is true at t
+(e, mn) At all times t, if p is true at t, then q is true at t
+(i, mn) There is a time at which p is true and q is not true
+(o, mn) There is a time at which neither p nor q is true
+These formulas differ from Rescher’s with regard to ED and ID, but AD and OD are rendered in the same way and do not account for the exclusive character of AD. Anyway, all the above formalizations need to be verified by considering all the moods admitted by Avicenna in this part of his logic, and this still needs to be done. Many scholars are interested in and doing research on this subject.
+Avicenna combines the disjunctive propositions with the conditional ones to state many new syllogisms that do not all correspond to the known categorical syllogisms. He states a clear correspondence between the conditional and disjunctive propositions, as in his theory, “p → q” is equivalent to “~p ∨ q” (al-Qiyas 251. 16-17) while “p ⊻ q” is equivalent to “p ≡ ~q,” “~(p ≡ q)” and “~p ≡ q” (al-Qiyas 248). These equivalencies make it possible to express any conditional proposition with a disjunctive one. However, some syllogisms such as Darapti and Felapton of the third figure require the A proposition(s) they contain to have a true antecedent; otherwise, they are not valid. Consequently, to validate these syllogisms, the A premise has to be expressed in this way: “(∃s)Ps ∧ (∀s)(Ps ⊃ Qs),” which becomes: “p ∧ (p ⊃ q)” when we consider only one situation. However, then the conditional proposition is no longer equivalent to a disjunctive one, as “p ∧ (p ⊃ q)” is not equivalent to “~p ∨ q”. This introduces some confusion in the definition of the conditional, which does not seem to be formally satisfying. One has to note, however, that the conditional in Avicenna’s theory should not be interpreted as a material conditional, as he does not give it the truth conditions of the material conditional. It seems thus to be an intensional implication, which deserves a more detailed examination.
+10. Combining Hypothetical and Categorical Propositions
+First of all, what is worth noting in Avicenna’s hypothetical logic is that, in his system, the hypothetical propositions are expressed as couples of propositions, each containing a subject and a predicate and related by a logical operator, that is, either a conditional or a disjunction. For instance, “If H is Z, then A is B,” or “Either H is J or A is B,” or “Whenever H is Z, then A is B” (al-Qiyas 305). Therefore, the elements of the hypothetical propositions are themselves categorical propositions of the SP (subject/predicate) kind. Therefore, it is not astonishing to find some mixed syllogisms containing both hypothetical and categorical propositions and where the subjects and the predicates are themselves related in some way to the premises and the conclusion. An example of such syllogisms is the following:
+ A is either B or C or D
+ Every B and [every] C and [every] D is H
+ Therefore A is H (al Isharat 438)
+In this syllogism, the first premise contains two disjunctions (which must be inclusive in order for the syllogism to be valid), while the second premise contains three universal categorical propositions related by conjunctions. This combination leads to a categorical proposition containing a subject and a predicate. The validity of the syllogism is therefore due to the logical relations between the terms A, B, C, D and H, and not only to the relations between the different propositions taken as wholes. The syllogism could be part of the usual [categorical] syllogistic if the disjunction were used in that theory. The whole syllogism shows that Avicenna uses the inclusive disjunction in his system, even if he does not say it explicitly.
+Another syllogism looks more like a hypothetical one, as it has the following structure:
+  If A is B, then every C is D
+  Every D is H
+  Therefore if A is B, then every C is H (al Isharat 441)
+Here, the first premise and the conclusion contain conditionals, but the second premise is clearly a universal categorical proposition. The validity of the syllogism is due to the logical links between the terms and also the propositions as wholes. The terms are involved because “every C is H” follows from both “every C is D” and “every D is H” by the transitivity of the implication (that is, by a Barbara syllogism). The whole hypothetical syllogism says that if “A is D” implies “every C is D,” it also implies what follows from it, that is, “every C is H.” This can be formalized as follows (where “A is B”: p): “{[p → (∀x)(Cx ⊃ Dx)] ∧ (∀x)(Dx ⊃ Hx)} → [p → (∀x)(Cx ⊃ Hx)].”
+This formalization shows the combination between the hypothetical logic and the categorical one.
+Therefore, Avicenna’s logic combines the usual syllogistic and his own hypothetical syllogistic. However, the latter is still very close to the usual syllogistic because even in this kind of logic he uses very much the term variables and does not really express the elements of the conditional or disjunctive propositions by single variables. Instead, he represents them with expressions such as “H is Z” or “A is B” and the like. These expressions represent the propositions related by the propositional operators, but they contain only term variables; thus, the hypothetical propositions are not represented by propositional variables as they are in modern propositional logic. Nevertheless, when talking about the conditional propositions or the disjunctive ones at a meta-level, he qualifies these elements by using the words “the antecedent” and “the consequent.” This shows that he treats them as wholes at that level, but he does not use single variables within the conditional or disjunctive propositions.
+Avicenna’s hypothetical system is thus very closely related to his syllogistic system, and it would be hard to separate them sharply by considering the former as some kind of propositional logic and the latter as a predicate logic in the modern sense. In addition, the system is only partially formalized, which makes it difficult to determine with enough clarity and accuracy the validity of the hypothetical syllogisms and even the definitions of the logical constants used. However, it cannot be judged without entering into all the details of the syllogisms held valid, and this deserves a separate study whose aim would be to precisely determine the improvements provided by this Avicennian hypothetical logic.
+11. References and Further Reading
+a. Avicenna’s Logical Treatises and Other Primary Sources
+
+Al-Farabi, Abu Nasr. “Kitab al-Qiyas.” Rafik Al Ajam. Ed. al-Mantiq ‘inda al-Farabi. Vol. 2. Beirut: Dar el Machrik, 1986a, 11-64.
+Al-Farabi, Abu Nasr. “Kitab al-Maqulat.” Rafik Al Ajam. Ed. al-Mantiq ‘inda al-Farabi. Vol. 1. Beirut: Dar el Machrik, 1986b, 89–132.
+Al Farabi, Abu Nasr. Al-Mantiqiyat li-al-Farabi. Vol. 1. Texts published by Mohamed Teki Dench Proh. Edition Qom. 1988.
+Aristotle. Prior Analytics. The Complete Works of Aristotle. Revised Oxford Edition. Ed. Jonathan Barnes. Vol. 1. 1991.
+Avicenna. Mantiq al Mashriqiyyin. Ed. M. al Khatib and A. al Qatlane. Cairo: al maktaba al-salafiyya, 1910, 2-83.
+Avicenna. An-Najat. Ed. Sabr el Kordi, Mohieddine. 2nd ed. Cairo: Library Mustapha al Babi al Hilbi, 1938.
+Avicenna. Al- Shifa’, al-Mantiq 2: al-Maqulat. Ed. G. Anawati, M. El Khodeiri, A.F. El-Ehwani, S. Zayed. Cairo: Wizarat al thaqafa wa-l-Irsad al-Qawmi, 1959, 3-273.
+Avicenna. Al-Shifa’, al-Mantiq 4: al-Qiyas. Ed. S. Zayed. Cairo: Wizarat al thaqafa wa-l-Irsad al-Qawmi, 1964, 3-580.
+Avicenna. Al-Shifa’, al-Mantiq 3: al-‘Ibarah. Ed. M. El Khodeiri. Cairo: Dar al Kitab al arabi lil tab’ wa-Nashr, 1970, 1-131.
+Avicenna. Al-Isharat wa l-tanbihat, with the commentary of N. Tusi, intr by Dr Seliman Donya, Part 1, 3rd ed. Dar el Maʻarif: Cairo, 1971.
+
+b. Secondary Sources
+
+Arnaldez, R. “Avicenne.” Dictionnaire des philosophes. PUF. 2nd ed. Vol 1(A-J). 1993, 191-199.
+Asad Q. Ahmed. Avicenna’s Delivrance: Logic. Oxford University Press: Oxford, 2011.
+Bäck, A. “Avicenna’s Conception of the Modalities.” Vivarium XXX, 2. 1992.
+Bobzien, S. “Ancient Logic.” Stanford Encyclopedia of Philosophy. Ed. Edward N. Zalta. 2006.
+Chatti, S. “Syncategoremata in Arabic Logic, Avicenna and Averroes.” History and Philosophy of Logic, 35, 2, 2014a, 167-197.
+Chatti, S. “Avicenna on Possibility and Necessity.” History and Philosophy of Logic. 2014b, 1-22.
+Garson, J. “Modal Logic.” Stanford Encyclopedia of Philosophy. Ed. Edward N. Zalta. 2009. http://plato.stanford.edu/entries/logic-modal/
+Hodges, W. “The Move from One to Two Quantifiers.” The Road to Universal Logic: Festschrift for 50th Birthday of Jean-Yves Beziau. Vol. 1. Ed. Arnold Koslow and Arthur Buchsbaum. Birkhäuser: Basel, 2015, 221-–240.
+Lagerlund, H. “Avicenna and Tusi on Modal Logic.” History and Philosophy of Logic, 30:3, 2009, 227-239.
+Lukasiewicz, J. “Contribution à l’histoire de la logique des propositions,” tr. J. Largeault. Logique Mathématique. Armand Colin: Paris, 1972.
+Movahed, Z. “A Critical Examination of Ibn Sina’s Theory of the Conditional Syllogism.” Sophia Perennis, Vol 1.1. Available at: www.ensani.ir/storage/Files/20120507101758-9055-5.pdf
+Rescher, N. Studies in the History of Arabic Logic, tr. M. Mahrane. Cairo: 1963.
+Sabra, A. I. “Avicenna on the Subject Matter of Logic,” The Journal of Philosophy, 77, 1980, 746-764.
+Shehaby, N. The Propositional Logic of Avicenna, tr. Kluwer, D. Reidel, Dordrecht: 1973.
+Street, T. “An Outline of Avicenna’s Syllogistic.” Archiv für Geschichte der Philosophie, 84 (2), 2002, 129-160.
+Street, T. “Arabic Logic.” Handbook of the History of Logic. Ed. Dov Gabbay, John Woods. Vol. 1. Elsevier BV: 2004.
+Street, T. 2008. “Arabic and Islamic Philosophy of Language and Logic.” Stanford Encyclopedia of Philosophy. (Fall 2008 Edition), Ed. Edward. N. Zalta. Available at: http://plato.stanford.edu/entries/arabic-islamic-language/.
+Thom, P. 2008. ‟Logic and Metaphysics in Avicenna’s Modal Syllogistic.” The Unity of Science in the Arabic Tradition: Science, Logic, Epistemology and their Interactions. Ed. S. Rahman, T. Street, H. Tahiri. Dordrecht: 2008.
+
+ 
+Author Information
+Saloua Chatti
+Email: salouachatti@yahoo.fr
+Tunis University
+Tunisia
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

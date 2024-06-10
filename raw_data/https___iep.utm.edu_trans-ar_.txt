@@ -1,0 +1,293 @@
+
+
+
+
+
+
+
+
+
+Transcendental Arguments | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transcendental Arguments
+Transcendental arguments are partly non-empirical, often anti-skeptical arguments focusing on necessary enabling conditions either of coherent experience or the possession or employment of some kind of knowledge or cognitive ability, where the opponent is not in a position to question the fact of this experience, knowledge, or cognitive ability, and where the revealed preconditions include what the opponent questions. Such arguments take as a premise some obvious fact about our mental life—such as some aspect of our knowledge, our experience, our beliefs, or our cognitive abilities—and add a claim that some other state of affairs is a necessary condition of the first one. Transcendental arguments most commonly have been deployed against a position denying the knowability of some extra-mental proposition, such as the existence of other minds or a material world. Thus these arguments characteristically center on a claim that, for some extra-mental proposition P, the indisputable truth of some general proposition Q about our mental life requires that P. Eighteenth Century Prussian philosopher Immanuel Kant is usually credited with introducing the systematic use of the transcendental argument. His use of it included arguments aimed at refuting epistemic skepticism, as well as arguments with the more fundamental purpose of showing the legitimacy of the application of certain concepts—in particular those of substance and cause—to experience. Later scholars have developed a variety of general objections to the transcendental argument strategy. In response, some recent and contemporary philosophers have offered updated strategies similar in form to transcendental arguments, but with less controversial premises and/or more modest goals.
+Table of Contents
+
+ Transcendental Reasoning and Skepticism 
+ The Modal Objection 
+ The Analytic/Criteriological Approach 
+ The Verificationism/Idealism Objection 
+ The Uniqueness-of-Conceptual-Framework Objection 
+ Modest Transcendental Arguments 
+ Objections to Modest Transcendental Arguments 
+ A More Modest Project for Kant 
+ Prospects for Strong Transcendental Arguments 
+ References and Further Reading
+
+ 1. Transcendental Reasoning and Skepticism
+“Transcendental” reasoning, for Kant, is reasoning pertaining to the necessary conditions of experience. Though he did coin the term “transcendental argument” in a different context, Kant actually did not use it to refer to transcendental arguments as they are understood today. He did sometimes use the term “transcendental deduction” for a range of arguments concerning the necessary conditions of coherent experience. Early uses of the term “transcendental argument” for arguments of this type have been noted in Charles Peirce and J. L. Austin. Often, the purpose of a transcendental argument is to answer a variety of epistemic skepticism by showing that the skeptical position itself (or its expression) implies or presupposes the possibility of the very knowledge in question. In this way, as Kant puts it in his Critique of Pure Reason, “the game played by idealism [is] turned against itself.” The skeptic is shown to presuppose the very facts he or she calls into question. (Kant also had a more modest use for transcendental arguments pertaining merely to establishing the applicability of certain fundamental concepts; see Section 8, below.)
+Kant’s anti-skeptical arguments were inspired by a number of figures, but his primary concern was with what he saw as the empiricist skepticism of David Hume. In his Treatise of Human Nature, Hume argues that all ideas are derived from simple sense-impressions, simple impressions of reflection, and reflection on the mind’s operations. He goes on to argue that complex ideas of material objects are not fully grounded in the data of the senses, but are based in part on psychological propensities to pass from one idea to another. Our senses do not present us with the characteristics of mind-independence and perdurance; rather, our experience consists in sequences of impressions, some of which exhibit a resembling constancy with each other over time. To this picture, Hume argues, we must add an imaginative propensity to identify, and thus attribute continued existence to, impressions exhibiting constancy and coherency. Since the distinctness of these impressions conflicts with our propensity to identify them, we posit enduring and independent items that are responsible for various subjective impressions. One natural conclusion from this line of reasoning is that, whatever compulsion we might feel to acknowledge external, material things, neither reason nor the senses can be said to yield knowledge of such items.
+Kant addresses skepticism about the material world most directly with his “Refutation of Idealism” in the second edition Critique of Pure Reason. There he argues that the possibility of recognizing the time-order of one’s own perceptions depends on the application of the concept of alteration to one’s own mental states. And in order for us to possess and apply the concept of alteration, it must be exhibited in the sensory experience of objective alteration. This experience cannot be based on patterns or regularities in experience (including its constancy and coherence), since the recognition of any such pattern depends on the organization of one’s experiences in time. The possibility of the organization of one’s own experiences in time (and even recognizing that one’s own states have a determinate time-order at all) requires relating changes in those experiences to objective alterations. Since we do make judgments about the time-order of our own experiences, we must have experienced objective alteration.
+Kant’s answer to the skeptic thus takes roughly the following form:
+(1) I make judgments about the temporal order of my own mental states.
+(2) I could not make judgments about the temporal order of my own mental states without having experienced enduring substances independent of me undergoing alteration.
+(3) Hence independent, enduring substances exist.
+He thus establishes a claim to knowledge of the existence of enduring, independent objects by showing that the skeptic is committed to something (in this case, consciousness of one’s own perceptions as ordered in time) that is impossible without the existence of such objects. The skeptic thus is either committed to the existence of such things by virtue of accepting the obvious fact that we are conscious of our own perceptions as ordered in time, or presumes the existence of such things in the very attempt to raise doubt about it. This result would license the conclusion that we have knowledge of material objects, or at least that skepticism about the very existence of such items is incoherent.
+Kant’s refutation of skepticism matches the template for a common understanding of the classical form of a transcendental argument:
+(1) Some proposition Q about our mental life, the truth of which is immediately apparent or presumed by the skeptic’s position.
+(2) The truth of some extra-mental proposition P, our knowledge of which is questioned by the skeptic, is a necessary condition of Q.
+(3) Therefore P.
+Transcendental arguments are further distinguished by the fact that the necessity they draw on is, characteristically, neither empirical nor analytic necessity. Rather, claims like those found in the second premise imply some claim to synthetic a priori knowledge—knowledge of substantive facts about the world derived by a priori metaphysical reasoning. If such claims were based on empirical observation, they would beg the question against most relevant forms of skepticism; if these claims were merely analytic, then it is unlikely any substantive conclusion could be derived from them.
+Transcendental arguments can be characterized as demonstrations that the skeptic’s articulation of her own position is self-defeating in some way. These arguments imply that the skeptic cannot even coherently articulate a given position. Epicurus is reported to have argued that, without free choice, one assents to propositions only because one is determined to do so. Without free choice, then, it would be impossible to rationally assent to any proposition—that is, to assent to it because one has good reasons to think it is true, rather than because one must. The proposition that one has no free choice is thus self-stultifying, in that, if true, it cannot be warranted. This reasoning implies the following argument:
+(1) I am able to rationally assent to the proposition that there is no free choice.
+(2) I could not rationally assent to any proposition if there were no free choice.
+(3) Hence, there is free choice.
+Hilary Putnam (1981), drawing on his concept of content-externalism, holds that we cannot refer to brains and vats if we are brains in vats who have never actually experienced such things. If we have never had contact with external objects, our language is “Vat-English,” rather than English. Since reference, in his view, is partly determined by its context and causal history, it would be impossible for a permanent brain-in-a-vat to raise doubts about whether she is a brain in a vat. Given this theory of reference, the proposition that all persons are and have always been brains in vats is self-defeating, in that it is either false or not affirmable by anyone. Insofar as the skeptic supposes that the issue is a legitimate one to raise, she presupposes that the relevant concern is moot:
+(1) I am able to raise the question as to whether all persons have always been brains in vats.
+(2) I could not refer to brains in vats unless some person (that is, myself) were acquainted with such things.
+(3) Hence, it is not the case that all persons have always been brains in vats.
+Finally, it is an implication of Kant’s reasoning in the Refutation of Idealism that the proposition that no one has had any contact with material objects would be literally unthinkable without contact with material objects to give one a sense of an objective system of temporal relations (in turn enabling inner time-determination). If Kant is right, then such a proposition is performatively self-falsifying in the strongest sense: the possibility of the skeptic articulating her own position would prove its falsity.
+ 2. The Modal Objection
+One general objection commonly raised against transcendental arguments concerns the very type of necessity transcendental arguments rely upon. Transcendental arguments characteristically center on a claim to synthetic a priori knowledge. Take, for example, Kant’s claim that the experience of enduring objects undergoing alteration is a precondition of subjective time-consciousness. This claim is neither grounded in experience nor follows from the meanings of the terms involved. He does provide some (often rather obscure) reasoning to support this claim, but that support, again, typically involves claims to synthetic a priori knowledge. Such claims have been portrayed as ultimately relying on a mysterious faculty of philosophical intuition, of insight into the natures of things not grounded in observation or experiment, the legitimacy of which is at least as doubtful as sensory perception or empirical inference.
+ 3. The Analytic/Criteriological Approach
+Partly in response to concerns about the modality of Kantian transcendental arguments, and in response to allied concerns about claims to synthetic a priori knowledge, Peter Strawson, Jonathan Bennett, and others have promoted a strategy structurally similar to Kant’s, but which is intended to avoid such problematic claims. Their strategy is analytic, in that it concerns relationships between beliefs or concepts and the conceptual frameworks needed to give those beliefs or concepts their content.
+In Individuals, Strawson (1959) offers a transcendental argument purporting to demonstrate the existence of other minds. He argues that, to employ the concept of one’s own mind in the self-ascription of mental states, one must be able to distinguish between one’s own mental states and the mental states of others. This requires the ability to predicate mental states of both oneself and others. But, he continues, in order to employ (or understand) any general concept one needs criteria for its application. In order to ascribe mental states to oneself, then, one must be in possession of logically adequate criteria (that is to say, behavioral criteria) for ascribing mental states to others.
+Strawson’s (1966) approach in The Bounds of Sense to reconstructing Kant’s Refutation of Idealism argument works similarly. His reconstruction states that, to give content to the idea of one’s being in some particular conscious state at some particular time, one needs “the idea of a system of temporal relations which comprehends more than those experiences themselves.” One’s experiences thus must be taken as experiences of things independent of oneself with their own temporal order. The idea of temporal order, he argues, cannot be gleaned from one’s own case alone; the application of the concept of temporal ordering depends on the possession and application of a concept of objectivity. But does the requirement that one have and apply the concept of an objective order guarantee that there really exists such an order? Is it not sufficient that we think there is one? Similarly, is it not sufficient for the self-ascription of mental states that we think there are other minds? Strawson’s reply rests on his “principle of significance,” which states that “there can be no legitimate, or even meaningful, employment of ideas or concepts which does not relate them to empirical or experiential conditions of their application.” One’s assessment of the analytic/criteriological approach depends on one’s assessment of this verificationism-inspired principle.
+ 4. The Verificationism/Idealism Objection
+In a much-cited essay, Barry Stroud (1968) argues that, to any claim that the truth of some proposition is a necessary condition of some fact about our mental life, the skeptic can always reply that it would be enough for it merely to appear to be true, or for us merely to believe that it is true. Transcendental arguments, he claims, at best demonstrate how things must appear, or what we must believe, rather than how things must be. Anti-skeptical transcendental arguments of familiar sorts are thus left with a gap to fill. Stroud’s contention—which is now widely accepted—is that such arguments, when aimed at refuting epistemic skepticism, can only close that gap by adverting either to a sort of verificationism or to idealism. In the case of Strawson’s arguments above, even supposing that we must be in possession of some criteria for applying concepts of other minds and/or an objective world, this fact only has anti-skeptical consequences if we also accept that there is no meaningful concept-application without experiential criteria sufficient for knowing whether the concept is instantiated. As Stroud points out, such a principle is implausible. Further, if we accepted such a principle, other aspects of transcendental arguments would be superfluous. All we would have to show is that we meaningfully employ external-world concepts; it would be impossible for any form of skepticism to be meaningful or intelligible.
+As Stroud goes on to point out, another way of closing the gap between it being necessary that things appear a certain way and things being that way, would be to embrace an idealism that reduces how things are to how things appear, or must appear, to us. Kant did not rely on any verificationist principle in making the case against skepticism, but according to many scholars his “transcendental idealism” made possible the jump from how things must be experienced by us to how things must be by reducing objects of experience to mere mental representations. But such idealism is unacceptable to most: embracing idealism to answer the epistemic skeptic results in a Pyrrhic victory at best.
+Despite Stroud’s blanket assertion, it should be noted that the verification/idealism objection only applies on a case-by-case basis. Some arguments that take the form of transcendental arguments may have other deficiencies, but do not rely on either verificationism or idealism. A few scholars have observed that  Descartes’s “Cogito, ergo sum” argument can be re-conceived as a transcendental argument:
+(1) I think.
+(2) In order to think “I think,” it is necessary to exist.
+(3) Hence, I exist.
+This argument meets the criteria for a transcendental argument: it takes a fact about one’s mental life as a premise, adds that some extra-mental fact is a necessary condition of the truth of that premise, and concludes that the extra-mental fact holds. This argument would turn on the claim that the statement, “I do not exist” (or better, the proposition that no one exists) is performatively self-defeating in the sense that the fact of its performance counts as conclusive evidence against its truth. That is what connects the mental fact (I am thinking about whether I exist) to the relevant extra-mental fact (I exist). Regardless of how this argument might fail in some other respect, it presupposes neither verificationism nor idealism in closing the gap between the internal and the external.
+ 5. The Uniqueness-of-Conceptual-Framework Objection
+Another important general objection to transcendental arguments concerns the hidden assumption requiring the uniqueness of the conceptual scheme that is held to be a precondition of experience in any given transcendental argument. Kant, for example, argues that experience is only possible if certain concepts are applied a priori in its organization, such as the concepts of substance and cause. Strawson similarly argues that experience is only possible via the application of the concept of an objective system of temporal relations. Stephan Körner (1974), however, famously characterized arguments resting on such claims as hopeless, because there is no way to establish the uniqueness of the relevant conceptual precondition. His concern is that other conceptual schemes and principles—perhaps unimaginable to us—might suffice as well. But if such schemes cannot be ruled out, then the validity of any such argument cannot be decisively established. All transcendental arguments make some claim about necessary enabling conditions. Given that the sense of necessity in question is not logical, how can the uniqueness of the enabling conditions ever be shown?
+ 6. Modest Transcendental Arguments
+In response to some of these concerns Stroud has proposed that we keep transcendental arguments, but moderate the goal we hope to achieve with them (Stroud 1994 and 1999). The goal of a “modest” transcendental argument is just to show the indispensability of some belief, concept, or conceptual framework. The conclusion such arguments hope to draw is not a refutation of some variety of epistemic skepticism via a demonstration of the alternative, but rather a demonstration of the unintelligibility of the skeptical position. The idea is that, by showing that it is impossible consistently to maintain a given position, one also shows that it is legitimate to ignore it. Arguments of this sort seek to show that beliefs about, say, an external world or other minds are indispensable to coherent experience or the use of language.
+The modest strategy in replying to external-world skepticism would be to concede that one cannot prove transcendentally that there is an external world, but to show that one must believe in such a world, or presuppose such a world as part of one’s interpretive framework, as a precondition of coherent experience. This, Stroud argues, would be sufficient to entitle one to ignore external-world skepticism. We are entitled to hold a belief, according to this line of thought, if that belief can be shown to be incorrigible or invulnerable to correction.
+One major advantage to modest transcendental arguments is that they are not subject to the verificationism/idealism objection. All that such arguments seek to show is that we must believe a certain way, not that the world must be a certain way. Thus there is no gap to be closed between showing that the world must appear a certain way and eliminating the possibility that the world really is not that way.
+ 7. Objections to Modest Transcendental Arguments
+Arguments relying on the relative necessity of some conceptual framework or set of beliefs, however, are subject to certain general objections. A version of Körner’s uniqueness objection still seems applicable. To provide some response to the epistemic skeptic, an indispensability argument would have to show that a given belief is indispensable as such, rather than just indispensable for us. And to do that is impossible; we can only argue for the uniqueness of a conceptual or doxastic framework on the basis of our own concepts and beliefs. As Stern (2000) puts it, if indispensability “is weaker than infallibility in so far as it leaves open the possibility that our belief that p is false, how can p be immune from doubt?; and if it is immune from doubt though possibly false, isn’t this a vice rather than a virtue?” If the “necessity” of some set of beliefs or conceptual framework just follows from our own inability to think outside that framework, then the discovery of this necessity is just a discovery about our own limitations, rather than a discovery about the world around us. Indispensability may indeed be all a modest transcendental argument needs to show that skepticism is inert (for us), but is this an interesting result if it stems just from our own incapacities?
+This kind of concern is reflected in a challenge to the classical claim that radical skepticism about reason is self-defeating. How can we know that logical inference really is truth-preserving? How can we know that the principle of non-contradiction is true? It would seem that such a skeptical position is unanswerable, because any answer involves argument, which presupposes the validity of deductive inference. But, as Aristotle first suggested in his Metaphysics, when one makes a statement asserting the impossibility of rationally supporting any claim one makes, one presupposes the theoretical possibility of claims being rationally supported (c.f. Meynell 1984). The framework under which we suppose that it is possible to rationally support claims is, in other words, indispensable, and the belief that it is possible to do so is invulnerable. This argument is, effectively, a modest transcendental argument.
+But why can’t the skeptic make the same point while limiting herself to asking for proof of the universal and necessary validity of deductive inference? The skeptic need not on this approach make some claim to the effect that statements may not be rationally supportable (a claim, in other words, that itself calls for support). An inherent inconsistency in the affirmation of some such claim need not, then, be a concern (see Fowler 1987). In asking for proof, of course, the skeptic in some way implies that there is at least some prima facie doubt with regard to the operation of reason in finding truth. So in that way the skeptic must be implying at least a prima facie possibility that reason is inadequate to that task.
+A modest transcendental argument establishing the indispensability of a conceptual framework has the effect of reducing the skeptic either to inconsistency or to raising doubts in the abstract. Since the alternative is inconceivable, the skeptic cannot consistently commit to the possibility of the alternative. Yet it seems too quick to go directly from showing that some conceptual framework is necessary for us to deny any relevance to questions about the truth of the framework. It is not clear, then, that any modest transcendental argument really renders its target skepticism inert. Even if the skeptic is shown to be unable consistently to raise a certain possibility, that possibility is not thereby taken out of contention. However abstract (or even inexpressible) the doubt may be that remains, the modest transcendental argument falls short of establishing epistemic entitlement.
+ 8. A More Modest Project for Kant
+There is another kind of modest application of transcendental arguments that is not subject to the above concerns, owing to its pursuit of a different kind of result. Part of Kant’s project is not so much concerned with responding to the epistemic skeptic as with responding to an opponent who questions the very conceptual legitimacy of external-world concepts like substance and cause. Despite an emphasis in contemporary philosophy on epistemic skepticism, for Kant conceptual legitimacy appears to be the primary or fundamental application of transcendental reasoning. This project is the major concern of his “Transcendental Deduction of the Categories” in the Critique of Pure Reason. He employs a legal metaphor at the beginning of his defense of our use of such conceptsto distinguish between “what is lawful (quid juris) and that which concerns the fact (quid facti).” His avowed focus, then, is on the “lawfulness” of our application of external-world concepts. He is concerned, as a first goal at least, with the applicability (or “objective validity”) of these concepts quite independently of their instantiation. That this should be a primary goal for Kant makes a lot of sense in light of some of his major precursors. Though in other respects having very different views, Leibniz, Berkeley, and Hume each questioned the legitimacy of the application of concepts like substance and cause to experience. Leibniz denied not only the existence of material substance but its metaphysical possibility. Because matter is infinitely divisible, he argued, it cannot be a basic constituent of the universe. Only minds can be substances, so the concept of substance is not even appropriately applied to matter. Berkeley argued that all we can describe are our ideas, and there is no sense in saying that ideas resemble material objects or their qualities. Talk of material objects independent of the mind is incoherent. Finally, Hume argued that it is impossible to find a source for the concepts of substance and cause in perception sufficient to explain either the occurrence or even the content of such ideas.
+Leibniz, Berkeley, and Hume all have in common, then, the position that external-world concepts like substance and cause are either incoherent or inapplicable to perceptual experience. In modern terms, they held that such application, if possible at all, is a category mistake. It is not difficult to see how at least part of Kant’s project in his transcendental deduction of these concepts is to refute this view, as distinguished from the project of proving that we veridically experience a world of causally-related substances. His strategy in doing so is notoriously hard to pin down, but the gist of it is that he claims that the concept of an objective world (which would include the concepts of substance and cause) is needed as an organizing principle—a rule or set of rules—for reproducing and synthesizing in judgment one’s various and otherwise inherently unconnected representations. For example, because all experience qua one’s subjective flow of perceptions is successive, the concept of cause is needed to distinguish between a succession of experiences representing the experience of an object (which could be experienced differently and yet be thought of as the same object) and a succession of experiences representing the experience of an event (the order of the stages of which determines the way it can be experienced). Because the thought of a causal relationship between event-stages is constitutive of the thought of an event, and because distinguishing between an accidental and externally-determined sequence of experiences is necessary to time-determination, the a priori possession of the concept of cause is a necessary condition of coherent experience.
+The legitimacy of the concepts of substance and cause would also be a consequence of some of Kant’s more explicitly anti-skeptical arguments. A consequence of his reasoning in the “Refutation of Idealism,” for example, is that objective time-determination is implicated in subjective time-determination. The application of concepts relevant to determining an objective time-order (as the concepts of substance and cause are, he had explained earlier) is inseparable from subjective self-awareness. Since each of Kant’s precursors allow for an inner mental life, they cannot consistently deny the legitimacy of applying concepts like substance and cause to perceptual experience. This would not prove the existence of causally-related material substances, but it would accomplish quite a lot: it would demonstrate the inadequacy, in a certain respect, of Leibnizian metaphysics, Berkeleyan phenomenalism, and Humean empiricism.
+ 9. Prospects for Strong Transcendental Arguments
+Defenders of strong anti-skeptical transcendental arguments still exist. Kenneth Westphal (2003), for example, is more confident than most that some of Kant’s core transcendental arguments can be successful. He believes that the process by which Kant identifies our basic cognitive capacities and their enabling conditions (Westphal calls this “epistemic reflection”) has been confused with simple introspection, which is an empirical enterprise concerned with the contents of one’s consciousness. He argues that Kant does convincingly show that we legitimately apply certain concepts a priori as a necessary condition of coherent consciousness, and that there are, in fact, “perduring, perceptible, causally interacting physical objects.”
+Despite Kant’s remaining defenders, however, few now believe that transcendental arguments can yield a direct refutation of epistemic skepticism. Most now agree that more modest goals are in order if such arguments are to remain relevant. Such modest variations on the transcendental argument form continue to appear in a variety of contexts.
+ 10. References and Further Reading
+
+Aristotle, Metaphysics, Book Γ.
+Austin, J.L. (1939). “Are There A Priori Concepts?”, Proceedings of the Aristotelian Society 18.
+Bardon, Adrian (forthcoming). “The Aristotelian Prescription: Skepticism, Retortion, and Transcendental Arguments,” International Philosophical Quarterly.
+Bardon, Adrian (2004). “Kant’s Empiricism in His Refutation of Idealism,” Kantian Review 8.
+Bardon, Adrian (2005). “Performative Transcendental Arguments,” Philosophia 33.
+Bennett, Jonathan (1966). Kant’s Analytic (Cambridge: Cambridge University Press).
+Berkeley, George (1979). Three Dialogues between Hylas and Philonous, ed. by Robert Adams (Indianapolis: Hackett).
+Brueckner, Anthony (1983). “Transcendental Arguments I.” Noûs 17, pp. 551-76.
+Brueckner, Anthony (1984). “Transcendental Arguments II.” Noûs 18, pp. 197-225.
+Cassam, Quassim (1999). Self and World (Oxford: Oxford University Press).
+Cassam, Quassim (1987). “Transcendental Arguments, Transcendental Synthesis, and Transcendental Idealism,” Philosophical Quarterly 37.
+Davidson, Donald (1984). Inquiries into Truth and Interpretation (Oxford: Oxford University Press).
+Fowler, Corbin (1987). “Scepticism Revisited,” Philosophy 62, pp. 385-88.
+Genova, A.C. (1984). “Good Transcendental Arguments.” Kant-Studien 75, pp. 469-95.
+Gram, Moltke (1975). “Why Must We Revisit Transcendental Arguments?” The Journal of Philosophy 72, pp. 624-6.
+Guyer, Paul (1987). Kant and the Claims of Knowledge. (Cambridge: Cambridge University Press).
+Hintikka, Jaakko (1962). “Cogito, Ergo Sum: Inference or Performance?”, The Philosophical Review 71.
+Hume, David (1978). A Treatise of Human Nature, 2nd ed. (Oxford: The Clarendon Press).
+Kant, Immanuel (1998). Critique of Pure Reason, ed. and trans. by Paul Guyer and Allen Wood (Cambridge: Cambridge University Press).
+Körner, Stephan (1974). Categorial Frameworks (Oxford: Basil Blackwell).
+Leibniz, G.W. (1998). Monadology, in G.W. Leibniz: Philosophical Texts, trans. by Richard Franks and R.S. Woolhouse (Oxford: Oxford University Press).
+Lewis, C.I. (1946). An Analysis of Knowledge and Valuation. (La Salle: Open Court).
+Lewis, C.I.  (1969) Values and Imperatives, ed. by J. Lange (Stanford: Stanford University Press).
+Lipson, Morris (1987). “Objective Experience.” Noûs 21, pp. 319-43.
+Lonergan, Bernard (1970). Insight (New York: Philosophical Library).
+Meynell, Hugo (1984). “Scepticism Reconsidered,” Philosophy 59, pp. 431-42 .
+Peirce, C.S. (1931 & 1958). Collected Papers of Charles Sanders Peirce, 8 vols., vols. i-iv ed. C. Hartshorne and P. Weiss (Cambridge, MA: Harvard University Press, 1931-5), vols. vii-viii ed. A. Burks Cambridge, MA: Harvard University Press, 1958).
+Putnam, Hilary (1981). Reason, Truth, and History (New York: Cambridge University Press).
+Rosenberg, Jay F. (1975). “Transcendental Arguments Revisited.” The Journal of Philosophy 72, pp. 611-24.
+Schaper, Eva (1972). “Arguing Transcendentally,” Kant-Studien 63, pp. 101-16.
+Stern, Robert (2000). Transcendental Arguments and Skepticism (Oxford: Oxford University Press).
+Strawson, P.F. (1966). The Bounds of Sense (London: Methuen & Co.).
+Strawson, P.F.  (1959). Individuals (New York: Methuen & Co.).
+Strawson, P.F.  (1985). Skepticism and Naturalism: Some Varieties (New York: Columbia University Press).
+Stroud, Barry (1999). “The Goal of Transcendental Arguments,” in Robert Stern (ed.), Transcendental Arguments: Problems and Prospects (Oxford: Oxford University Press, 1999).
+Stroud, Barry (1994). “Kantian Argument, Conceptual Capacities, and Invulnerability,” in Paolo Parrini (ed.), Kant and Contemporary Epistemology ( Dordrecht: Kluwer Academic Publishers).
+Stroud, Barry (1968). “Transcendental Arguments,” Journal of Philosophy 65 (1968).
+Westphal, Kenneth (2003). “Epistemic Reflection and Transcendental Proof,” in Strawson and Kant, ed. by Hans-Johann Glock (Oxford: Oxford University Press).
+
+Author Information
+Adrian Bardon
+Email: bardona@wfu.edu
+Wake Forest University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

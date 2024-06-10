@@ -1,0 +1,457 @@
+
+
+
+
+
+
+
+
+
+Impossible Worlds | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Impossible Worlds
+Actual facts abound and actual propositions are true because there is a world, the actual world, that the propositions correctly describe. Possibilities abound as well. The actual world reveals what there is, but it is far from clear that it also reveals what there might be. Philosophers have been aware of this limitation and have introduced the notion of a possible world. Finally, impossibilities abound because it turned out that possibilities do not exhaust the modal space as a whole. Beside the actual facts, and facts about the possible, there are facts about what is impossible. In order to explain this, philosophers have introduced the notion of an impossible world.
+This article is about impossible worlds. First, there is a presentation of the motivations for postulating impossible worlds as a tool for analysing impossible phenomena. This apparatus seems to deliver great advances in modal logic and semantics, but at the same time it gives rise to metaphysical issues concerning the nature of impossible worlds. Discourse about impossible worlds is explained in Sections 2 and 3. Section 4 provides an overview of the theories in discussion in the academic literature, and Section 5 summarises the drawbacks of those theories. Section 6 takes a closer look at the logical structure of impossible worlds, and Section 7 discusses the connection between impossible worlds and hyperintensionality.
+Table of Contents
+
+Introduction
+The First Argument for Impossible Worlds
+Impossible Worlds and Their Applications
+The Metaphysics of Impossible Worlds
+Troubles with Impossible Worlds
+The Logic of Impossible Worlds
+Impossible Worlds and Hyperintensionality
+Conclusion
+References and Further Readings
+
+1. Introduction
+Modal notions are those such as ‘possibility’, ‘necessity’, and ‘impossibility’, whose analysis requires a different account than so-called indicative notions. To compare the two, indicative propositions are about this world, the world that obtains; and all the true indicative propositions describe the world completely. Propositions of the latter kind are about the world as well, although in a different sense. They are about its modal features or, said otherwise, about alternatives to it. Philosophers call them possible worlds.
+For a start, it is important to consider the distinction between pre-theoretical and theoretical terms. Pre-theoretical terms are terms we handle before we engage in philosophical theorizing. Theoretical terms, on the other hand, are introduced by philosophers via sets of definitions. Such terms are usually defined via terms that we already understand in advance. The debate about possible worlds can be understood along the similar lines. The word ‘world’ is a theoretical notion that differs from the word as we use it in everyday life. In the latter, the world is everything we live in and interact with. The philosophical ‘world’ represents the world and is one of many such representations. Its uniqueness rests on the correct representation of it. ‘Actual world’, ‘possible world’, as well as ‘impossible world’ are thus theoretical terms.
+An example will be helpful here. Consider the following proposition:
+(1)  Canberra is the capital of Australia.
+Given the constitutional order of Australia, (1) is true because Canberra is the capital of Australia. In contrast, the proposition:
+(2)  Melbourne is the capital of Australia
+is false, because it is not the case. So (1) and (2) are factual claims, because they describe the constitutional order in Australia. Consider, however, the following proposition:
+(3)  Melbourne could be the capital of Australia.
+At first sight, (3) also appears to be about our world in some sense, yet it displays structurally different features than (1) and (2). So, why is it so? Some philosophers dismiss this question by rejecting its coherence. Others propose a positive solution by means of other worlds. In the following two sections I provide two arguments for doing so.
+2. The First Argument for Impossible Worlds
+In his Counterfactuals (1973), David Lewis states the following:
+I believe, and so do you, that things could have been different in countless ways. But what does this mean? Ordinary language permits the paraphrase: there are many ways things could have been besides the way they actually are. I believe that things could have been different in countless ways; I believe permissible paraphrases of what I believe; taking the paraphrase at its face value, I therefore believe in the existence of entities that might be called ‘ways things could have been.’ I prefer to call them ‘possible worlds’. (Lewis 1973: 84)
+Takashi Yagisawa builds on Lewis’s view as follows:
+There are other ways of the world than the way the world actually is. Call them ‘possible worlds.’ That, we recall, was Lewis’ argument. There are other ways of the world than the ways the world could be. Call them ‘impossible worlds’. (Yagisawa 1988: 183)
+These two quotes reflect a need for an analysis of modality in terms of worlds. While Lewis postulates possible worlds as the best tool for analysing modal propositions, Yagisawa extends the framework by adding impossible worlds. In other words, while Lewis accepts:
+(P) It is possible that P if and only if there is a possible world, w, such that at w, P.
+and:
+(I) It is impossible that P if and only if there is no possible world, i, such that at i, P.
+as definitions of possibility and impossibility.
+An alternative analysis of impossibility extends the space of worlds and, in addition to possible worlds, commits to impossible worlds. As a consequence, proponents of impossible worlds formulate a dilemma in the form of modus tollens and modus ponens respectively:
+
+
+
+If we endorse arguments for the existence of possible worlds, then, with all needed changes made, we should endorse the same kind of argument for the existence of impossible worlds.
+There are arguments that disqualify impossible worlds from being acceptable entities.
+
+
+
+Therefore:
+There are no possible worlds. (By modus tollens.)
+Or:
+1*. If we endorse arguments for the existence of possible worlds, then mutatis mutandis, we should endorse the same kind of argument for the existence of impossible worlds.
+2*. There are arguments that establish possible worlds as acceptable entities.
+Therefore:
+There are impossible worlds. (By modus ponens.)
+A need for impossible worlds starts from an assumption that if the paraphrase argument justifies belief in worlds as ways things could have been, then the same argument justifies belief in worlds as ways things could not have been. The second reason is the applicability of impossible worlds. I will discuss some applications of impossible worlds in the next section.
+3. Impossible Worlds and Their Applications
+It is thought of as a platitude that the introduction of theoretical terms ought to be followed by their theoretical utility. Moreover, the usability of theoretical terms should not solve a particular problem only. Instead, their applications should range over various philosophical phenomena and systematically contribute to their explanation.
+The theoretical usefulness of possible worlds has been proven in the analysis of de re as well as de dicto modalities (see the article on Frege’s Problem: Referential Opacity, Section 2), as well as in the analysis of counterfactual conditionals, propositional states, intensional entities, or relations between philosophical theories. Given their applicability, possible worlds have turned out to be a useful philosophical approach to longstanding philosophical problems.
+To begin with, representing properties and propositions as sets of their instances, possible individuals and possible worlds respectively, offered many advantages in philosophy. In particular, impossible worlds provide a more nuanced explanation of modality in a way that an unadulterated possible world framework does not. Like possible worlds, impossible worlds are ‘localisers’, albeit in the latter case, where impossible things happen. Consider these two statements:
+(4)  2 + 2 = 5
+and
+(5)  Melbourne both is and is not in Australia.
+(4), according to a possible worlds semantic treatment, does not hold in any possible world, because possible worlds are worlds at which only possible things happen. Also, there is no possible world at which Melbourne both is and is not in Australia. Given these two data, and assuming the widely accepted, although disputable, view of propositions as sets of possible worlds, (4) and (5) are ontologically one and the same proposition. It is the empty set. However, (4) and (5) are about different subject matters, namely arithmetic and geography. In order not to confuse these two (impossible) subjects, one sort of way out is presented by impossible worlds: there is an impossible world at which (4) is true and (5) is false, and vice versa.
+The well-known reductio ad absurdum mode of argument is another, although controversial, reason for taking impossible worlds seriously (for a more detailed exposition of this, see the article on Reductio ad Absurdum). The internal structure of such arguments starts with certain assumptions and then, via logically valid steps, leads to a contradiction. The occurrence of such an assumption shows that, although the conclusion is contradictory, the impossible assumption gives rise to a counterfactual string of mutually interconnected and meaningful premises. Some proponents of impossible worlds insist that unless we take such impossible assumptions seriously, reductio ad absurdum arguments would not play such a crucial role in philosophical reasoning. For the opposite view according to which mathematical practice does not depend on using counterfactuals, see Williamson (Williamson 2007, 2017). For a more substantive discussion of the reductio ad absurdum and impossible worlds, see also Berto& Jago (2019, especially Chapter XII).
+Whatever the machinery behind the reductio ad absurdum argument is, there is a strong reason to postulate impossible worlds for the analysis of a sort of counterfactual conditionals, nonetheless. According to the most prevalent theory, a counterfactual is true if and only if there is no possible world w more similar to the actual world than some possible world w´ such that (i) the antecedent and the consequent of the conditional are both true in w´, and (ii) the antecedent is true but the consequent is not true in w. Clearly, such an account falls short in analysing counterpossible conditionals unless we either deny their possible worlds interpretation (Fine 2012), admit that they are trivially true (Lewis 1973, Williamson 2007), treat the putative triviality by other means (Vetter 2016) or simply accept impossible worlds. To demonstrate the problem, here is a pair of famous examples, originally from (Nolan 1997):
+(6) If Hobbes had (secretly) squared the circle, sick children in the mountains of South America at the time would have cared.
+(7) If Hobbes had (secretly) squared the circle, sick children in the mountains of South America at the time would not have cared.
+Although intuitions are usually controversial within the philosophical room, there is something intriguing about (7). Namely, although its antecedent is impossible, we seem to take (7) to be true. For, in fact, no sick children would have cared if the antecedent had been true, since this would have made no difference to sick children whatsoever. By the same reasoning, (6) is intuitively false; for again, no sick children would have cared if the antecedent had been true. Consequently, the occurrence of these distinct truth values requires a distinctive analysis and impossible worlds analysis is one candidate.
+Disagreements in metaphysical disputes display another feature of impossibility. Metaphysicians argue with each other about lots of issues. For instance, they variously disagree about the nature of properties. Suppose that trope theory is the correct theory of properties and so is necessary true (see the article on Universals). Then this means that both the theory of properties as transcendent universals and the theory of properties as immanent universals are both (a) impossible, and (b) distinct. But they are true in the same possible worlds (that is, none), and to distinguish these two views in terms of where they are true requires impossible worlds. Similarly, proponents of modal realism and modal ersatzism disagree about the nature of possible worlds (see the article on Modal Metaphysics). But they both agree that if either of these theories is true, it is true in all possible worlds; necessarily so. By this reasoning, one’s opponent’s claim is necessarily wrong; she defends an impossible hypothesis. For more details on this (and other issues) see Nolan (1997) and (Miller 2017).
+Although theories of fiction abound, its analyses in terms of possible worlds dominate. According to such analyses, what happens in a work of fiction happens at a set of possible worlds, full stop. However, the problem is that fiction fairly often hosts impossible events.
+For instance, ‘Sylvan’s Box’ (Priest 1997) is a short story about an object which is inconsistent because it is both empty and non-empty. A usual treatment of such stories uses the terminology of worlds which realise what is stated in the story. However, Priest claims, any interpretation of the story in terms of sub-sets of internally consistent sets of possible worlds (see Lewis 1978) misrepresents the story.
+Of course, these applications of impossible worlds are not exhaustive and, as we will see in Section 4, impossible worlds have limitations. Let us, however, suppose that the dilemma is irresistible, and that impossible worlds are, at least to some extent, as applicable as possible worlds are. Given so, one must always consider the cost of such commitment. Since the theoretical application of any entity brings with it an ontological burden, an optimal trade-off between application and ontological commitments must be sought. And impossible worlds are an excellent example of such a trade-off. The next section overviews several metaphysical issues about impossible worlds.
+4. The Metaphysics of Impossible Worlds
+The introduction of theoretical entities requires a view about their metaphysical nature. The introduction of impossible worlds in not an exception and requires an answer to the question of what impossible worlds are, and, additionally, how impossible worlds differ from possible worlds. We can think of the questions as the identification question and the kind question, respectively.
+The identification question concerns the nature of impossible worlds. Like proponents of possible worlds, proponents of impossible worlds disagree about the metaphysical nature and divide into several camps. To start with realism about worlds, these views share a common idea that whatever worlds are, these worlds exist. Probably the most prominent version of modal realism is the genuine modal realism.  While modal realism is a thesis according to which possible worlds exist, genuine modal realism claims that possible worlds exist and, moreover, possible worlds exist in the very same way as ‘we and our surroundings’; they are as concrete as we, buildings, animals, and cars are. What is more, every individual exists in one possible world only (for more on transworld identity, see the article on David Lewis). The actual world is a world which has temporal and spatial dimensions and, consequently, every possible world fulfils this requirement. According to modal realism, possible worlds are concrete spatiotemporal entities.
+Another version of modal realism with impossible worlds is presented by Kris McDaniel (2004). His strategy is to withdraw Lewis’s commitment to individuals existing in one possible world only. Instead, he allows an individual to exist in many worlds and to thus bear the exists at relation to more than one world. Such so-called modal realism with overlap is genuine realism, because it accepts concrete possible worlds and their inhabitants.
+A modified version of modal realism is presented by Yagisawa (2010). Under the name of modal dimensionalism, Yagisawa postulates so-called metaphysical indices. These indices represent the spatial, temporal, and modal dimensions of the world. According to Yagisawa, the world has spatial, temporal, and additionally modal dimensions, in the same way that I have my own spatial, temporal and modal dimensions. Namely, my temporal dimension includes, among other things, me as a child, me nine minutes ago, and me in the future. My spatial dimensions are the space occupied by my hands, head, as well as the rest of my body. My modal dimension includes my possible stages of being a president, a football player and so forth.
+A more moderate version of modal realism is modal ersatzism. Like genuine modal realism, modal ersatzism takes possible worlds to be existent entities (see again the article on Modal Metaphysics), yet denies that they have spatiotemporal dimensions. Naturally, such a brand of realism attracts fans of less exotic ontology because possible worlds are considered as already accepted surrogates for otherwise unwelcome philosophical commitments: complete and consistent sets of propositions or sentences, complete and consistent properties, or complete and consistent states of affairs. Usually, these entities are non-concrete in nature and are parts of the actual world (the view is sometimes called actualism). Alternatively, for an excellent overview of various kinds of ersatzism, see (Divers 2002).
+Finally, views according to which worlds do not in fact exist, are widespread in literature. Under the name of modal anti-realism, such views reject modal realism for primarily epistemological reasons although neither deny the meaningfulness of modal talk nor the accuracy of its worlds semantics. Although modal anti-realism is not so widespread in the literature, several positive proposals have demonstrated its prospects. For instance, Rosen (1990) proposes a strategy of ‘fictionalising’ the realist’s positions in shape of useful fictions. Although his primary target is genuine modal realism, it is easy to generalise the idea to other versions of modal realism.
+The kind question asks whether possible and impossible worlds are of the same metaphysical category or fall under metaphysically distinct categories. The extent to which we identify possible worlds with a certain kind of entity (identification question) and accept impossible worlds for one reason or another, the response to the kind question predetermines our views about the nature of impossible worlds.
+A positive response to the kind question is put forward in Priest (1997). As he puts it, anyone who accepts a particular theory of possible worlds, be it concrete entities, abstract entities, or non-existent entities, has no cogent reason to pose an ontological difference between merely possible and impossible worlds (see Priest 1997: 580–581). The idea is expressed by the so-called parity thesis which says that theories of the nature of possible worlds should be applied equally to impossible worlds.
+Now, particular versions of modal realism together with the parity thesis lead to specific views of impossible worlds. To begin with genuine modal realism, extended genuine modal realism accepts concrete possible and impossible worlds. These worlds are spatiotemporal entities, and whatever is impossible holds in some concrete impossible world. For the idea of paraphrasing Lewis’s original argument from ways, see Naylor (1986) and Yagisawa (1988).
+Modal dimensionalism as well as modal realism with overlap find their impossible alternatives relatively easily. In the former, I simply have impossible stages as well. In the latter, modal realism with overlap allows that an individual can have mutually incompatible properties at two different possible worlds. For example, an individual, a, bears the exists at relation to a world at which a is round, and bears the exists at relation to another world in which a is square, thus representing the situation ‘a is round and square’. Since it is impossible to be both round and square, this is an impossible situation.
+A moderate version of modal realism, modal ersatzism combined with parity thesis is, so to speak, in an easier position. Given her metaphysical commitments, be it sets, sentences, propositions, or whatever you have are already assumed to exist, it is only one step further to introduce impossible worlds as their incomplete and inconsistent counterparts without incurring any additional ontological commitments.
+Proponents of the negative response to the kind question, on the other hand, deny the parity thesis. Impossible worlds, according to them, are a distinct kind of entity. Interestingly, such a metaphysical stance allows for a ‘recombination’ of philosophically competitive position. For instance, the hybrid genuine modal realism, indicated in Restall (1997), Divers (2002) and further developed in (Berto 2009), posits concrete possible worlds as the best representation of possible phenomena, but abstract impossible worlds as the ‘safest’ representation of impossible phenomena. In other words, what is possible happens in concrete possible worlds as genuine modal realism conceives them, and what is impossible is represented by more moderate ontological commitments.  In particular, possible worlds are concrete and impossible worlds are, according to hybrid genuine modal realism, sets of propositions modelled in accordance with genuine modal realism. Notably, hybrid genuine modal realism is one of many options for the opponents of the Parity thesis. As mentioned earlier, the hybrid approach to modality allows us to interpret possibility/impossibility pair in terms of distinct metaphysical categories and, depending on the category choice, explicates the duality via the identification question (possible tropes/inconsistent sets; maximal properties/impossible fictions, or other alternatives). Given that the variety of versions remains an underdeveloped region of modal metaphysics in the early twenty-first century, it is a challenge for the future to fill in the gaps in the literature.
+5. Troubles with Impossible Worlds
+Undoubtedly, any introduction of suspicious entities into philosophy comes with problems, and impossible worlds are not an exception. Besides incredulous stares toward them, philosophical arguments against impossible worlds abound.
+A general argument against impossible worlds points to the analysis of modality. For, as far as the goal is to provide an account of modal concepts in more graspable notions, the introduction of impossible worlds puts the accuracy of the analysis at stake. Recall the initial impossibility schema (I):
+(I) It is impossible that P if and only if there is no possible world, i, such that at i,
+An impossible worlds reading substitutes the occurrence of ‘no possible world’ with ‘impossible world’ along the lines of (I*):
+(I*) It is impossible that P if and only if there is an impossible world, i, such that at i, P. 
+(I*) mimics the structure of (P) and proponents of impossible worlds are expected to be tempted to it. However, (I*) is ‘superficially tempting’. For, although (P) and (I*) are both biconditionals it is hard to accept the right-to-left direction of (I*). For instance, although it is impossible that A & ~A, the conjuncts themselves may be contingent and, by (P), be true in some possible world. Such disanalogy between (P) and (I*) makes impossible worlds of not much use in the theory of impossibility in the first place.
+Other problems concern particular theories of modality. Starting with extended modal realism, Lewis himself did not the feel the need to dedicate much space to its rejection. There are two reasons. The first reason is that to provide an extensional, non-modal analysis of modality and, at the same time, distinguish possible worlds from impossible worlds without making use of modal notions is a viable project. The second reason is that a restricting modifier, like ‘in a world’, works by limiting domains of implicit and explicit quantification to a certain part of all that there is, and therefore has no effect on the truth-functional connectives (Lewis 1986, 7, fn.3).). By this, Lewis means that insofar as you admit an impossible thing in some impossible world, you thereby admit impossibility into reality. Since this is an unacceptable conclusion, Lewis rejects the extended version of his modal realism via a simple argument:
+1. There is a concrete impossible world at which (A & ~A)
+2. At w (A & ~A) if and only if at w A & ~(at w A)
+3. The right-hand side of (2) is literally a true contradiction
+4. The Law of Non-Contradiction is an undisputable logical principle.
+C. There are no concrete impossible worlds.
+For Lewis, restricting modifiers works by limiting domains of implicit and explicit quantification to a certain part of all there is. Therefore, ‘On the mountain both P and Q’ is equivalent to ‘On the mountain P, and on the mountain Q’; likewise, ‘On the mountain not P’ is equivalent to ‘Not: on the mountain P’. As a result, ‘On the mountain both P and not P’ is equivalent to the overt contradiction ‘On the mountain P, and not: on the mountain P’. In other words, there is no difference between a contradiction within the scope of the modifier and a plain contradiction that has the modifier within it. See (Lewis 1986: 7 fn. 3) for a full exposition of this argument.
+Modal dimensionalism is not without problems either. Jago (2013) argues that adding an impossible stage of ‘Martin’s being a philosopher and not a philosopher’ to my modal profile generates undesired consequences, for modal stages are subject to existential quantification in the same way that actual stages are. And since both actual and modal stages exist, they instantiate inconsistencies, full stop. In the opposite direction, see Yagisawa’s response (2015), as well as Vacek (2017).
+Modal realism with overlap has its problems too. A simple counterexample to it relies on the (usually) indisputable necessity of identity and the view according to which no two objects share the same properties: Leibniz’s law. The argument goes as follows: it is impossible for Richard Routley not to be Richard Sylvan because this is one and the same person (in 1983 Richard Routley adopted the last name “Sylvan”):
+
+
+
+It is impossible that ∼ (Routley = Sylvan)
+
+
+
+Therefore, there is an impossible world i where ∼ (Routley = Sylvan). Now, take the property ‘being a logician’. It is impossible for Routley but not Sylvan to be a logician which, by modal realism with overlap’s lights, means that Routley, but not Sylvan, bears the being a logician relation to a world i. Generalising the idea,
+
+
+
+for some property P, in i Routley has P, but Sylvan does not.
+
+
+
+However, by Leibniz’s law, it follows that ∼ (Routley = Sylvan). And that is absurd.
+What about modal ersatzism? Recall that this alternative to (extended) modal realism takes possible worlds to be existent entities of a more modest kind. The move from ersatz possible worlds to impossible worlds, together with the parity thesis, leads to the inheritance of the various problems of ersatz theories. One such problem is the failure of the reductive analysis of modality. As Lewis argues, any ersatzist theory must at some point appeal to primitive modality and thus give up the project of analysing modality in non-modal terms. Another problem is that entities like states of affairs, properties and propositions are intensional in nature and thus do not contribute to a fully extensional analysis. For scepticism about intensional entities, see Quine (1956). For more problems with modal ersatzism, see Lewis (1986: ch. 3).
+Modal fictionalism can be a way of avoiding the realist’s problems. For, if ‘according to the possible worlds fiction’ explains possibility, then ‘according to the possible and impossible worlds fiction’ offers a finer-grained analysis with no exotic ontological commitments. But again, such a relatively easy move from possibility to impossibility faces the threat of inheriting the problems of modal fictionalism. One such difficulty is that fictionalism is committed to weird abstract objects, to wit, ‘stories’. Another worry about (extended) modal fictionalism is the story operator itself. For, unless the operator is understood as primitive, it should receive an analysis in more basic terms. And the same applies to the ‘according to the possible and impossible worlds fiction’ operator.
+Moreover, even if modal fictionalists provide us with an account of their fiction operator, it will probably face the same importation problem that the modal realist does. The argument goes as follows. First, suppose logic is governed by classical logic. Second, if something is true in fiction, so are any of its classical consequences. Third, given the explosion principle (everything follows from a contradiction), an inconsistent fiction implies that every sentence is true in the fiction. Fourth, take an arbitrary sentence and translate it as ‘according to the fiction, A’. Fifth, ‘according to the fiction, A’ is true (because an inconsistent fiction implies that all sentences are true within it). Sixth, given that A is the actual truth, ‘according to the fiction, A’ implies: actually A. But it seems literally false to say that any arbitrary sentence is actually true. For more details, see Jago (2014).
+The hybrid view has its limitations too. One limitation is that the view introduces two ontological categories and is, so to speak, ideologically less parsimonious than theories following the parity thesis. Moreover, as Vander Laan (1997, 600) points out, there does not seem to be any ontological principle which would justify two different ontological categories in one modal language, namely language of possibility and impossibility.
+Yet, there are at least two responses available for the hybrid view. First, proponents of the hybrid view might simply claim that if the best theory of modality plays out that way, that is, if the theory which best systematises our intuitions about modality approves such a distinction, the objection is illegitimate. Second, even the ersatzer faces the same objection. The actual world has two different interpretations and, consequently, two different ontological categories. The actual world can be understood either as us and all our (concrete) surroundings, or abstract representation of it.
+Undoubtedly, there is much more to be said about the metaphysics of impossible worlds. Since they come in various versions, one might worry whether any systematic account of such entities is available. Be that as it may, the story does not end with metaphysics. Besides semantic applications of impossible worlds and their metaphysical interpretation, there are logical criteria which complicate their story even more. The next section therefore discusses the logical boundaries (if any) of impossible worlds.
+6. The Logic of Impossible Worlds
+One might wonder how far impossibility goes, because, one might think, impossible worlds have no logical borders. Yet, one view to think of impossible worlds is as so-called ‘logic violators’. According to this definition, impossible worlds are worlds where the laws of a logic fail. I use the indefinite article here because it is an open question what the correct logic is. Suppose we grant classical logic its exclusive status among other logics. Then, impossible worlds are worlds where the laws and principles of classical logic cease to hold, and the proper description of logical behaviour of impossible worlds requires different logic.
+We might therefore wonder whether there is a logic which impossible worlds are closed under. One such candidate is paraconsistent logic(s). Such logics are not explosive, which means that it is not the case that from contradictory premises anything follows. Formally, paraconsistent logic denies the principle α, ~α |= β, and its proponents argue that, impossibly, there are worlds at which inconsistent events happen. Given their denial of the explosion principle, paraconsistent logics should be the tool for an accurate and appropriate analysis of such phenomena. For an extensive discussion of paraconsistent logics, see Priest, Beall, and Armour-Garb (2004).
+However, some examples show that even paraconsistent logics are not sufficient for describing the plenitude of the impossible. For example, paraconsistent logic usually preserves at least some principles of classical logic (see the article on Paraconsistent Logic) and cannot thus treat the impossibilities of their violations. A solution would be to introduce its weaker alternative which would violate those principles. But even this manoeuvre seems not to be enough because, as Nolan (1997) puts it, there is tension between a need of at least some logical principles on one side and the impossibility of their failure on the other. For, ‘if for any cherished logical principle there are logics available where that principle fails… if there is an impossible situation for every way things cannot be, there will be impossible situations where even the principles of (any) subclassical logics fail (Nolan 1997, 547). In other words, if we think of a weaker logic as validating fewer arguments, we easily end up with logical nihilism (Russell 2018). Another option is to admit a plurality of logics (Beall & Restall 2006) or, controversially, accept the explosion principle and fall into trivialism: every proposition follows (Kabay 2008).
+7. Impossible Worlds and Hyperintensionality
+Let me finish with the question of the place of impossibility in reality. In other words, the question remains whether impossibility is a matter of reality, or a matter of representing it. In other words, are impossible matters representational or non-representational? While the literature about impossible issues is inclined towards the latter option, some authors have located the failure of necessary equivalence, that is, the failure of substituting extensionally as well as intensionally equivalent terms, within the world.
+To be more precise, levels of analysis ascend from the extensional, to the intensional, to the hyperintensional level. Nolan (2014) suggests that a position in a sentence is extensional if expressions with the same extension can be substituted into that position without changing the truth-value of the sentence. An intensional position in a sentence is then characterised as non-extensional,  such that expressions that are necessarily co-extensional are freely substitutable in that position, while preserving its truth value. Finally, a hyperintensional position in a sentence is neither extensional nor intensional, and one can substitute necessary equivalents while failing to preserve the truth-value of the sentence. Apparently, the introduction of impossible worlds moves philosophical analyses into the hyperintensional level, since even when A and B are necessarily equivalent (be this logical, mathematical, or metaphysical necessity), substituting one of them for the other may result in a difference in truth value. But if that is so, and if some hyperintensional phenomena are non-representational, then impossibility is a very part of reality.
+There are several cases which both display worldly features and are hyperintensional. For instance, some counterfactual conditionals with impossible antecedents are non-representational (Nolan 2014). Also, Schaffer (2009) contrasts the supervenience relation to the grounding relation, and concludes that there are substantive grounding questions regarding mathematical entities and relations between them. Yet, given the supervenience relation, such questions turn out to be vacuously true. Explanation as a hyperintensional phenomenon might be understood non-representationally as well. Namely, as an asymmetric relation between the explanans and its necessarily equivalent explanandum. Among other things, some dispositions (Jenkins & Nolan 2012), the notion of intrinsicality (Nolan 2014), the notion of essence (Fine 1994) or omissions (Bernstein 2016) might be understood in the same way. Indeed, all these examples are subject to criticism, but the reader might at least feel some pressure to distinguish between ‘merely’ representational and non-representational hyperintensionality. For more details, see Nolan (2014) and Berto & Jago (2019) and, for an alternative approach to hyperintensionality, Duží,  Jespersen,  Kosterec,  and Vacek (2023).
+8. Conclusion
+Impossible worlds have been with us, at least implicitly, since the introduction of possible worlds. The reason for this is the equivalence of the phrases ‘it is possible’ and ‘it is not impossible’, or ‘it is impossible’ and ‘it is not possible’. The controversies about impossible worlds can also be understood as a sequel to the controversies about possible worlds. In the beginning, possible worlds were hard to understand, and this produced some difficult philosophical debates. It is therefore no surprise that impossible worlds have come to follow the same philosophical path.
+9. References and Further Readings
+
+Beall, J. & Restall, G. (2006). Logical Pluralism, Oxford: Oxford University Press.
+
+A developed account of a position according to which there is more than one (correct) logic.
+
+Bernstein, S. (2016). Omission Impossible, Philosophical Studies, 173, pp. 2575–2589.
+
+A view according to which omissions with impossible outcomes play an explanatory role.
+
+Berto, F. (2008). Modal Meinongianism for Fictional Objects, Metaphysica 9, pp. 205–218.
+
+A combination of Meinongian tradition and impossible worlds.
+
+Berto, F. (2010). Impossible Worlds and Propositions: Against the Parity Thesis, Philosophical Quarterly 60, pp. 471–486.
+
+A version of modal realism which distinguishes distinct impossible propositions, identifies impossible worlds as sets and avoids primitive modality.
+
+Berto, F. & Jago, M. (2019). Impossible Worlds, Oxford: Oxford University Press.
+
+A detailed overview of theories of impossible worlds.
+
+Divers, J. (2002). Possible Worlds, London: Routledge.
+Duží, M.; Jespersen, B.; Kosterec, M.; Vacek, D. (eds.). (2023).  Transparent Intensional Logic, College Publications.
+
+A detailed survey of the foundations of Transparent Intensional Logic.
+
+Fine, K. (1994). Essence and Modality: The Second Philosophical Perspectives Lecture, Philosophical Perspectives 8, pp.  1–16.
+
+A detailed overview of the possible world ontologies.
+
+Fine, K. (2012). Counterfactuals Without Possible Worlds, Journal of Philosophy 109: 221–246.
+
+The paper argues that counterfactuals raise a serious difficulty for possible worlds semantics.
+
+Jago, M. (2013). Against Yagisawa’s Modal Realism, Analysis 73, pp. 10–17.
+
+This paper attacks modal dimensionalism from both possibility and impossibility angles.
+
+Jago, M. (2014). The Impossible: An Essay on Hyperintensionality, Oxford: Oxford University Press.
+
+A detailed overview of the history, as well as the current state of impossible worlds discourse.
+
+Jenkins, C.S. & Daniel N. (2012). Disposition Impossible, Noûs, 46, pp. 732–753.
+
+An original account of impossible dispositions.
+
+Kabay, P. D. (2008). A Defense of Trivialism, PhD thesis, University of Melbourne.
+
+A defence of trivialism, on the basis that there are good reasons for thinking that trivialism is true.
+
+Kiourti, I. (2010). Real Impossible Worlds: The Bounds of Possibility, Ph.D. thesis, University of St Andrews.
+
+A defence of Lewisian impossible worlds. It provides two alternative extensions of modal realism by adding impossible worlds.
+
+Lewis, D. (1973). Counterfactuals, Cambridge, MA: Harvard University Press.
+
+One of the first explicit articulations of modal realism and its analysis of counterfactual conditionals.
+
+Lewis, D. (1978). Truth in Fiction, American Philosophical Quarterly 15, pp. 37–46.
+
+An approach which aims at dispensing with inconsistent fictions via the method of union or the method of intersection. According to Lewis, we can explain away an inconsistent story via maximally consistent fragments of it.
+
+Lewis, D. (1986). On the Plurality of Worlds, Oxford: Blackwell.
+
+A detailed defence of modal realism, including an overview of arguments against modal ersatzism.
+
+McDaniel, K. (2004). Modal Realism with Overlap, Australasian Journal of Philosophy 82, pp. 137–152.
+
+An approach according to which the worlds of modal realism overlap, resulting in transworld identity.
+
+Miller, K. (2017). A Hyperintensional Account of Metaphysical Equivalence, Philosophical Quarterly 67: 772–793.
+
+This paper presents an account of hyperintensional equivalency in terms of impossible worlds.
+
+Naylor, M. (1986). A Note on David Lewis’ Realism about Possible Worlds, Analysis 46, pp. 28–29.
+
+One of the first modus tollens arguments given in response to modal realism.
+
+Nolan, D. (1997). Impossible Worlds: A Modest Approach, Notre Dame Journal of Formal Logic 38, pp. 535–572.
+
+Besides giving an original account of counterpossible conditionals, this paper introduces the strangeness of impossibility condition: any possible world is more similar (nearer) to the actual world than any impossible world.
+
+Nolan, D. (2014). Hyperintensional Metaphysics, Philosophical Studies 171, pp. 149–160.
+
+A defence of modal realism with overlap: the view that objects exist at more than one possible world.
+
+Priest, G. (1997). Sylvan’s Box: A Short Story and Ten Morals, Notre Dame Journal of Formal Logic, 38, 573–582
+
+A short story which is internally inconsistent, yet perfectly intelligible.
+
+Priest, G., Beall, J. C., & Armour-Garb, B. (eds.). (2004), The Law of Non-Contradiction, Oxford: Oxford University Press.
+
+A collection of papers dedicated to the defence as well as the rejection of the law of non-contradiction.
+
+Russell, G. (2018). Logical Nihilism: Could There Be No Logic?, Philosophical Issues 28: 308–324
+
+A proposal according to which there is no logic at all.
+
+Schaffer, J. (2009). On What Grounds What, in D, Chalmers, D. Manley, and R. Wasserman (eds.), Metametaphysics: New Essays on the Foundations of Ontology, Oxford: Oxford University Press, pp. 347–383.
+
+A defence of the grounding relation as providing a philosophical explanation.
+
+Quine, W. V. (1956). Quantifiers and Propositional Attitudes, Journal of Philosophy 53, pp. 177–187.
+
+According to Quine, propositional attitude constructions are ambiguous, yet an intensional analysis of them does not work.
+
+Restall, G. (1997). Ways Things Can’t Be, Notre Dame Journal of Formal Logic 38: 583–96.
+
+In the paper, Restall identifies impossible worlds with sets of possible worlds.
+
+Rosen, G. (1990). Modal Fictionalism, Mind 99, pp. 327–354.
+
+An initial fictionalist account of modality, ‘parasiting’ on the advantages of modal realism, while avoiding its ontological commitments.
+
+Vacek, M. (2017). Extended Modal Dimensionalism, Acta Analytica 32, pp. 13–28.
+
+A defence of modal dimensionalism with impossible worlds.
+
+Vander Laan, D. (1997). The Ontology of Impossible Worlds, Notre Dame Journal of Formal Logic 38, pp. 597–620.
+
+A theory of impossible worlds as maximal inconsistent classes of propositions, as well as a critique of various alternative positions.
+
+Vetter, B. (2016). Counterpossibles (not only) for Dispositionalists, Philosophical Studies 173: 2681–2700
+
+A proposal according to which the non-vacuity of some counterpossibles does not require impossible worlds.
+
+Williamson, T. (2017). Counterpossibles in Semantics and Metaphysics, Argumenta 2: 195–226.
+
+A substantial contribution to the semantics of counterpossible conditionals.
+
+Yagisawa, T. (1988). Beyond Possible Worlds, Philosophical Studies 53, pp. 175–204.
+
+An influential work about the need for impossible worlds, especially with regard to modal realism.
+
+Yagisawa, T. (2010). Worlds and Individuals, Possible and Otherwise, Oxford: Oxford University Press.
+
+A detailed account of modal dimensionalism and its ontological, semantic and epistemological applications.
+
+Yagisawa, T. (2015). Impossibilia and Modally Tensed Predication, Acta Analytica 30, pp. 317–323.
+
+The paper provides responses to several arguments against modal dimensionalism.
+
+
+ 
+Author Information
+Martin Vacek
+Email: martin.vacek@savba.sk
+Institute of Philosophy at the Slovak Academy of Sciences
+Slovakia
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

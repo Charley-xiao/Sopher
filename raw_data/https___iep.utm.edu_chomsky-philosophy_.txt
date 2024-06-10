@@ -1,0 +1,684 @@
+
+
+
+
+
+
+
+
+
+Noam Chomsky | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Noam Chomsky (1928 – )
+Noam Chomsky is an American linguist who has had a profound impact on philosophy. Chomsky’s linguistic work has been motivated by the observation that nearly all adult human beings have the ability to effortlessly produce and understand a potentially infinite number of sentences. For instance, it is very likely that before now you have never encountered this very sentence you are reading, yet if you are a native English speaker, you easily understand it. While this ability often goes unnoticed, it is a remarkable fact that every developmentally normal person gains this kind of competence in their first few years, no matter their background or general intellectual ability. Chomsky’s explanation of these facts is that language is an innate and universal human property, a species-wide trait that develops as one matures in much the same manner as the organs of the body. A language is, according to Chomsky, a state obtained by a specific mental computational system that develops naturally and whose exact parameters are set by the linguistic environment that the individual is exposed to as a child. This definition, which is at odds with the common notion of a language as a public system of verbal signals shared by a group of speakers, has important implications for the nature of the mind.
+Over decades of active research, Chomsky’s model of the human language faculty—the part of the mind responsible for the acquisition and use of language—has evolved from a complex system of rules for generating sentences to a more computationally elegant system that consists essentially of just constrained recursion (the ability of a function to apply itself repeatedly to its own output). What has remained constant is the view of language as a mental system that is based on a genetic endowment universal to all humans, an outlook that implies that all natural languages, from Latin to Kalaallisut, are variations on a Universal Grammar, differing only in relatively unimportant surface details. Chomsky’s research program has been revolutionary but contentious, and critics include prominent philosophers as well as linguists who argue that Chomsky discounts the diversity displayed by human languages.
+Chomsky is also well known as a champion of liberal political causes and as a trenchant critic of United States foreign policy. However, this article focuses on the philosophical implications of his work on language. After a biographical sketch, it discusses Chomsky’s conception of linguistic science, which often departs sharply from other widespread ideas in this field. It then gives a thumbnail summary of the evolution of Chomsky’s research program, especially the points of interest to philosophers. This is followed by a discussion of some of Chomsky’s key ideas on the nature of language, language acquisition, and meaning. Finally, there is a section covering his influence on the philosophy of mind.
+Table of Contents
+
+Life
+Philosophy of Linguistics
+
+Behaviorism and Linguistics 
+The Galilean Method 
+The Nature of the Evidence
+Linguistic Structures 
+
+
+The Development of Chomsky’s Linguistic Theory
+
+Logical Constructivism
+The Standard Model
+The Extended Standard Model
+Principles and Parameters
+The Minimalist Program 
+
+
+Language and Languages 
+
+Universal Grammar
+Plato’s Problem and Language Acquisition 
+I vs. E languages 
+Meaning and Analyticity
+Kripkenstein and Rule Following
+
+
+Cognitive Science and Philosophy of Mind
+References and Further Reading
+
+Primary Sources
+Secondary Sources 
+
+
+
+1. Life
+Avram Noam Chomsky was born in Philadelphia in 1928 to Jewish parents who had immigrated from Russia and Ukraine. He manifested an early interest in politics and, from his teenage years, frequented anarchist bookstores and political circles in New York City. Chomsky attended the University of Pennsylvania at the age of 16, but he initially found his studies unstimulating. After meeting the mathematical linguist Zellig Harris through political connections, Chomsky developed an interest in language, taking graduate courses with Harris and, on his advice, studying philosophy with Nelson Goodman. Chomsky’s 1951 undergraduate honors thesis, on Modern Hebrew, would form the basis of his MA thesis, also from the University of Pennsylvania. Although Chomsky would later have intellectual fallings out with both Harris and Goodman, they were major influences on him, particularly in their rigorous approach, informed by mathematics and logic, which would become a prominent feature of his own work.
+After earning his MA, Chomsky spent the next four years with the Society of Fellows at Harvard, where he had applied largely because of his interest in the work of W.V.O. Quine, a Harvard professor and major figure in analytic philosophy. This would later prove to be somewhat ironic, as Chomsky’s work developed into the antithesis of Quine’s behaviorist approach to language and mind. In 1955, Chomsky was awarded his doctorate and became an assistant professor at the Massachusetts Institute of Technology, where he would continue to work as an emeritus professor even after his retirement in 2002. Throughout this long tenure at MIT, Chomsky produced an enormous volume of work in linguistics, beginning with the 1957 publication of Syntactic Structures. Although his work initially met with indifference or even hostility, including from his former mentors, it gradually altered the very nature of the field, and Chomsky grew to be widely recognized as one of the most important figures in the history of language science. Since 2017, he has been a laureate professor in the linguistics department at the University of Arizona.
+Throughout his career, Chomsky has been at least as prolific in social, economic, and political criticism as in linguistics. Chomsky became publicly outspoken about his political views with the escalation of the Vietnam War, which he always referred to as an “invasion”. He was heavily involved in the anti-war movement, sometimes risking both his professional and personal security, and was arrested several times. He remained politically active and, among many other causes, was a vocal critic of US interventions in Latin America during the 1980s, the reaction to the September 2001 attacks, and the invasion of Iraq. Chomsky has opposed, since his early youth, the capitalist economic model and supported the Occupy movement of the early 2010s. He has also been an unwavering advocate of intellectual freedom and freedom of speech, a position that has at times pitted him against other left-leaning intellectuals and caused him to defend the rights of others who have very different views from his own. Despite the speculations of many biographers, Chomsky has always denied any connection between his work in language and politics, sometimes quipping that someone was allowed to have more than one interest.
+In 1947, Chomsky married the linguist Carol Doris Chomsky (nee Schatz), a childhood friend from Philadelphia. They had three children and remained married until her death in 2008. Chomsky remarried Valeria Wasserman, a Brazilian professional translator, in 2014.
+2. Philosophy of Linguistics
+Chomsky’s approach to linguistic science, indeed his entire vision of what the subject matter of the discipline consists of, is a sharp departure from the attitudes prevalent in the mid-20th century. To simplify, prior to Chomsky, language was studied as a type of communicative behavior, an approach that is still widespread among those who do not accept Chomsky’s ideas. In contrast, his focus is on language as a type of (often unconscious) knowledge. The study of language has, as Chomsky states, three aspects: determining what the system of knowledge a language user has consists of, how that knowledge is acquired, and how that knowledge is used. A number of points in Chomsky’s approach are of interest to the philosophy of linguistics and to the philosophy of science more generally, and some of these points are discussed below.
+a. Behaviorism and Linguistics
+When Chomsky was first entering academics in the 1950s, the mainstream school of linguistics for several decades had been what is known as structuralism. The structuralist approach, endorsed by Chomsky’s mentor Zellig Harris, among others, concentrated on analyzing corpora, or records of the actual use of a language, either spoken or written. The goal of the analysis was to identify patterns in the data that might be studied to yield, among other things, the grammatical rules of the language in question. Reflecting this focus on language as it is used, structuralists viewed language as a social phenomenon, a communicative tool shared by groups of speakers. Structuralist linguistics might well be described as consisting of the study of what happens between a speaker’s mouth and a listener’s ear; as one well -known structuralist put it, “the linguist deals only with the speech signal” (Bloomfield, 1933: 32). This is in marked contrast to Chomsky and his followers, who concentrate on what is going on in the mind of a speaker and who look there to identify grammatical rules.
+Structuralist linguistics was itself symptomatic of behaviorism, a paradigm prominently championed in psychology by B.F. Skinner and in philosophy by W.V.O. Quine and which was dominant in the midcentury. Behaviorism held that science should restrict itself to observable phenomena. In psychology, this meant seeking explanations entirely in terms of external behavior without discussing minds, which are, by their very nature, unobservable. Language was to be studied in terms of subjects’ responses to stimuli and their resulting verbal output. Behaviorist theories were often formed on the basis of laboratory experiments in which animals were conditioned by being given food rewards or tortured with electric shock in order to shape their behavior. It was thought that human behavior could be similarly explained in terms of conditioning that shapes reactions to specific stimuli. This approach perhaps reached its zenith with the publication of Skinner’s Verbal Behavior (1957), which sought to reduce human language to conditioned responses. According to Skinner, speakers are conditioned as children, through training by adults, to respond to stimuli with an appropriate verbal response. For example, a child might realize that if they see a piece of candy (the stimulus) and respond by saying “candy”, they might be rewarded by adults with the desired sweet, reinforcing that particular response. For an adult speaker, the pattern of stimuli and response could be very complex, and what specific aspect of a situation is being responded to might be difficult to ascertain, but the underlying principle was held to be the same.
+Chomsky’s scathing 1959 review of Verbal Behavior has actually become far better known than the original book. Although Chomsky conceded to Skinner that the only data available for the study of language consisted of what people say, he denied that meaningful explanations were to be found at that level. He argued that in order to explain a complex behavior, such as language use, exhibited by a complex organism such as a human being, it is necessary to inquire into the internal organization of the organism and how it processes information. In other words, it was necessary to make inferences about the language user’s mind. Elsewhere, Chomsky likened the procedure of studying language to what engineers would do if confronted with a hypothetical “black box”, a mysterious machine whose input and output were available for inspection but whose internal functioning was hidden. Merely detecting patterns in the output would not be accepted as real understanding; instead, that would come from inferring what internal processes might be at work.
+Chomsky particularly criticized Skinner’s theory that utterances could be classified as responses to subtle properties of an object or event. The observation that human languages seem to exhibit stimulus-freedom goes back at least to Descartes in the 17th century, and about the same time as Chomsky was reviewing Skinner, the linguist Charles Hockett (later one of Chomsky’s most determined critics) suggested that this is one of the features that distinguish human languages from most examples of animal communication. For instance, a vervet monkey will give a distinct alarm call any time she spots an eagle and at no other times. In contrast, a human being might say anything or nothing in response to any given stimulus. Viewing a paining one might say, “Dutch…clashes with the wallpaper…. Tilted, hanging too low, beautiful, hideous, remember our camping trip last summer? or whatever else might come to our minds when looking at a picture.” (Chomsky, 1959:2). What aspect of an object, event, or environment triggers a particular response rather than another can only be explained in mental terms. The most relevant fact is what the speaker is thinking about, so a true explanation must take internal psychology into account.
+Chomsky’s observation concerning speech was part of his more general criticism of the behaviorist approach. Chomsky held that attempts to explain behavior in terms of stimuli and responses “will be in general a vain pursuit. In all but the most elementary cases, what a person does depends in large measure on what he knows, believes, and anticipates” (Chomsky, 2006: xv). This was also meant to apply to the behaviorist and empiricist philosophy exemplified by Quine. Although Quine has remained important in other aspects of analytic philosophy, such as logic and ontology, his behaviorism is largely forgotten. Chomsky is widely regarded as having inaugurated the era of cognitive science as it is practiced today, that is, as a study of the mental.
+b. The Galilean Method
+Chomsky’s fundamental approach to doing science was and remains different from that of many other linguists, not only in his concentration on mentalistic explanation. One approach to studying any phenomenon, including language, is to amass a large amount of data, look for patterns, and then formulate theories to explain those patterns. This method, which might seem like the obvious approach to doing any type of science, was favored by structuralist linguists, who valued the study of extensive catalogs of actual speech in the world’s languages. The goal of the structuralists was to provide descriptions of a language at various levels, starting with the analysis of pronunciation and eventually building up to a grammar for the language that would be an adequate description of the regularities identifiable in the data.
+In contrast, Chomsky’s method is to concentrate not on a comprehensive analysis but rather on certain crucial data, or data that is better explained by his theory than by its rivals. This sort of methodology is often called “Galilean”, since it takes as its model the work of Galileo and Newton. These physicists, judiciously, did not attempt to identify the laws of motion by recording and studying the trajectory of as many moving objects as possible. In the normal course of events, the exact paths traced by objects in motion are the results of the complex interactions of numerous phenomena such as air resistance, surface friction, human interference, and so on. As a result, it is difficult to clearly isolate the phenomena of interest. Instead, the early physicists concentrated on certain key cases, such as the behavior of masses in free fall or even idealized fictions such as objects gliding over frictionless planes, in order to identify the principles that, in turn, could explain the wider data. For similar reasons, Chomsky doubts that the study of actual speech—what he calls performance—will yield theoretically important insights. In a widely cited passage (Chomsky, 1962, 531), he noted that:
+Actual discourse consists of interrupted fragments, false starts, lapses, slurring, and other phenomena that can only be understood as distortions of an underlying idealized pattern.
+Like the ordinary movements of objects observable in nature, which Galileo largely ignored, actual speech performance is likely to be the product of a mass of interacting factors, such as the social conventions governing the speech exchange, the urgency of the message and the time available, the psychological states of the speakers (excited, panicked, drunk), and so on, of which purely linguistic phenomena will form only a small part. It is the idealized patterns concealed by these effects and the mental system that generates those patterns —the underlying competence possessed by language users —that Chomsky regards as the proper subject of linguistic study. (Although the terms competence and performance have been superseded by the I-Language/E-Language distinction, discussed in 4.c. below, these labels are fairly entrenched and still widely used.)
+c. The Nature of the Evidence
+Early in his career (1965), Chomsky specified three levels of adequacy that a theory of language should satisfy, and this has remained a feature of his work. The first level is observational, to determine what sentences are grammatically acceptable in a language. The second is descriptive, to provide an account of what the speaker of the language knows, and the third is explanatory, to give an explanation of how such knowledge is acquired. Only the observational level can be attained by studying what speakers actually say, which cannot provide much insight into what they know about language, much less how they came to have that knowledge. A source of information about the second and third levels, perhaps surprisingly, is what speakers do not say, and this has been a focus of Chomsky’s program. This negative data is drawn from the judgments of native speakers about what they feel they can’t say in their language. This is not, of course, in the sense of being unable to produce these strings of words or of being unable, with a little effort, to understand the intended message, but simply a gut feeling that “you can’t say that”. Chomsky himself calls these interpretable but unsayable sentences “perfectly fine thoughts”, while the philosopher Georges Rey gave them the pithier name “WhyNots”. Consider the following examples from Rey 2022 (the “*” symbol is used by linguists to mark a string that is ill-formed in that it violates some principle of grammar):
+(1) * Who did John and kiss Mary? (Compared to John, and who kissed Mary? and who-initial questions like Who did John kiss?)
+(2) * Who did stories about terrify Mary? (Compared to stories about who terrified Mary?)
+Or the following question/answer pairs:
+(3) Which cheese did you recommend without tasting it? * I recommended the brie without tasting it. (Compared to… without tasting it.)
+(4) Have you any wool? * Yes, I have any wool.
+An introductory linguistics textbook provides two further examples (O’Grady et al. 2005):
+(5) * I went to movie. (Compared to I went to school.)
+(6) *May ate a cookie, and then Johnnie ate some cake, too. (Compared to Mary ate  a cookie, and then Johnnie ate a cookie too/ate a snack too.)
+The vast majority of English speakers would balk at these sentences, although they would generally find it difficult to say precisely what the issue is (the textbook challenges the reader to try to explain). Analogous “whynot” sentences exist in every language yet studied.
+What Chomsky holds to be significant about this fact is that almost no one, aside from those who are well read in linguistics or philosophy of language, has ever been exposed to (1) –(6) or any sentences like them. Analysis of corpora shows that sentences constructed along these lines virtually never occur, even in the speech of young children. This makes it very difficult to accept the explanation, favored by behaviorists, that we recognize them to be unacceptable as the result of training and conditioning. Since children do not produce utterances like (1) –(6), parents never have a chance to explain what is wrong, to correct them, and to tell them that such sentences are not part of English. Further, since they are almost never spoken by anyone, it is vanishingly unlikely that a parent and child would overhear them so that the parent could point them out as ill-formed. Neither is this knowledge learned through formal instruction in school. Instruction in not saying sentences like (1)–(6) is not a part of any curriculum, and an English speaker who has never attended a day of school is as capable of recognizing the unacceptability of (1)–(6) as any college graduate.
+Examples can be multiplied far beyond (1)–(6); there are indefinite numbers of strings of English words (or words of any language) that are comprehensible but unacceptable. If speakers are not trained to recognize them as ill-formed, how do they acquire this knowledge? Chomsky argues that this demonstrates that human beings possess an underlying competence capable of forming and identifying grammatical structures—words, phrases, clauses, and sentences —in a way that operates almost entirely outside of conscious awareness, computing over structural features of language that are not actually pronounced or written down but which are critical to the production and understanding of sentences. This competence and its acquisition are the proper subject matter for linguistic science, as Chomsky defines the field.
+d. Linguistic Structures
+An important part of Chomsky’s linguistic theory (although it is an idea that predates him by several decades and is also endorsed by some rival theories) is that it postulates structures that lie below the surface of language. The presence of such structures is supported by, among other evidence, considering cases of non-linear dependency between the words in a sentence, that is, cases where a word modifies another word that is some distance away in the linear order of the sentence as it is pronounced. For instance, in the sentence (from Berwick and Chomsky, 2017: 117):
+(7) Instinctively, birds who fly swim.
+we know that instinctively applies to swim rather than fly, indicating an unspoken connection that bypasses the three intervening words and which the language faculty of our mind somehow detects when parsing the sentence. Chomsky’s hypothesis of a dedicated language faculty —a part of the mind existing for the sole purpose of forming and interpreting linguistic structures, operating in isolation from other mental systems —is supported by the fact that nonlinguistic knowledge does not seem to be relied on to arrive at the correct interpretation of sentences such as (7). Try replacing swim with play chess. Although you know that birds instinctively fly and do not play chess, your language faculty provides the intended meaning without any difficulty. Chomsky’s theory would suggest that this is because that faculty parses the underlying structure of the sentence rather than relying on your knowledge about birds.
+According to Chomsky, the dependence of human languages on these structures can also be observed in the way that certain types of sentences are produced from more basic ones. He frequently discusses the formation of questions from declarative sentences. For instance, any English speaker understands that the question form of (8) is (9), and not (10) (Chomsky, 1986: 45):
+(8) The man who is here is tall.
+(9) Is the man who is here tall?
+(10) * Is the man who here is tall?
+What rule does a child learning English have to grasp to know this? To a Martian linguist unfamiliar with the way that human languages work, a reasonable initial guess might be to move the fourth word of the sentence to the front, which is obviously incorrect. To see this, change (8) to:
+(11) The man who was here yesterday was tall.
+A more sophisticated hypothesis might be to move the second auxiliary verb in the sentence, is in the case of (8), to the front. But this is also not correct, as more complicated cases show:
+(12) The woman who is in charge of deciding who is hired is ready to see him now.           
+(13) * Is the woman who is in charge of deciding who hired is ready to see him now?
+In fact, in no human language do transformations from one type of sentence to another require taking the linear order of words into account, although there is no obvious reason why they shouldn’t. A language that works on a principle such as switch the first and second words of a sentence to indicate a question is certainly imaginable and would seem simple to learn, but no language yet cataloged operates in such a way.
+The correct rule in the cases of (8) through (13) is that the question is formed by moving the auxiliary verb (is) occurring in the verb phrase of the main clause of the sentence, not the one in the relative clause (a clause modifying a noun, such as who is here). Thus, knowing that (9) is the correct question form of (8) or that (13) is wrong requires sensitivity to the way that the elements of a sentence are grouped together into phrases and clauses. This is something that is not apparent on the surface of either the spoken or written forms of (8) or (12), yet a speaker with no formal instruction grasps it without difficulty. It is the study of these underlying structures and the way that the mind processes them that is the core concern of Chomskyan linguistics, rather than the analysis of the strings of words actually articulated by speakers.
+3. The Development of Chomsky’s Linguistic Theory
+ Chomsky’s research program, which has grown to involve the work of many other linguists, is closely associated with generative linguistics. This name refers to the project of identifying sets of rules—grammars—that will generate all and only the sentences of a language. Although explicit rules eventually drop out of the picture, replaced by more abstract “principles”, the goal remains to identify a system that can produce the potentially infinite number of sentences of a human language using the resources contained in the minds of a speaker, which are necessarily finite.
+Chomsky’s work has implications for the study of language as a whole, but his concentration has been on syntax. This branch of linguistic science is concerned with the grammars that govern the production of sentences that are acceptable in a language and divide them from nonacceptable strings of words, as opposed to semantics, the part of linguistics concerned with the meaning of words and sentences, and pragmatics, which studies the use of language in context.
+Although the methodological principles have remained constant from the start, Chomsky’s theory has undergone major changes over the years, and various iterations may seem, at least on a first look, to have little obvious common ground. Critics present this as evidence that the program has been stumbling down one dead end after another, while Chomsky asserts in response that rapid evolution is characteristic of new fields of study and that changes in a program’s guiding theory are evidence of healthy intellectual progress. Five major stages of development might be identified, corresponding to the subsections below. Each stage builds on previous ones, it has been alleged; superseded iterations should not be considered to be false but rather replaced by a more complete explanation.
+a. Logical Constructivism
+Chomsky’s theory of language began to be codified in the 1950s, first set down in a massive manuscript that was later published as Logical Structure of Linguistic Theory (1975) and then partially in the much shorter and more widely read Syntactic Structures (1957). These books differed significantly from later iterations of Chomsky’s work in that they were more of an attempt to show what an adequate theory of natural language would need to look like than to fully work out such a theory. The focus was on demonstrating how a small set of rules could operate over a finite vocabulary to generate an infinite number of sentences, as opposed to identifying a psychologically realistic account of the processes actually occurring in the mind of a speaker.
+Even before Chomsky, since at least the 1930s, the structure of a sentence was thought to consist of a series of phrases, such as noun phrases or verb phrases. In Chomsky’s early theory, two sorts of rules governed the generation of such structures. Basic structures were given by rewrite rules, procedures that indicate the more basic constituents of structural components. For example,
+S → NP VP
+indicates that a noun phrase, NP, followed directly by a verb phrase, VP, constitute a sentence, S. “NP → N” indicates that a noun may constitute a noun phrase. Eventually, the application of these rewrite rules stops when every constituent of a structure has been replaced by a syntactic element, a lexical word such as Albert or meows. Transformation rules alter those basic structures in various ways to produce structures corresponding to complex sentences. Importantly, certain transformation rules allowed recursion. This is a concept central to computer science and mathematical logic, by which a rule could be applied to its own output an unlimited number of times (for instance, in mathematics, one can start with 0 and apply the recursive function add 1 repeatedly to yield the natural numbers 0,1,2,3, and so forth.). The presence of recursive rules allows the embedding of structures within other structures, such as placing Albert meows under Leisa thinks to get Leisa thinks Albert meows. This could then be placed under Casey says that to produce Casey says that Leisa thinks Albert meows, and so on. Embedding could be done as many times as desired, so that recursive rules could produce sentences of any length and complexity, an important requirement for a theory of natural language. Recursion has not only remained central to subsequent iterations of Chomsky’s work but, more recently, has come to be seen as the defining characteristic of human languages.
+Chomsky’s interest in rules that could be represented as operations over symbols reflected influence from philosophers inclined towards formal methods, such as Goodman and Quine. This is a central feature of Chomsky’s work to the present day, even though subsequent developments have also taken psychological realism into account. Some of Chomsky’s most impactful research from his early career (late 50s and early 60s) was the invention of formal language theory, a branch of mathematics dealing with languages consisting of an alphabet of symbols from which strings could be formed in accordance with a formal grammar, a set of specific rules. The Chomsky Hierarchy provides a method of classifying formal languages according to the complexity of the strings that could be generated by the language’s grammar (Chomsky 1956). Chomsky was able to demonstrate that natural human languages could not be produced by the lowest level of grammar on the hierarchy, contrary to many linguistic theories popular at the time. Formal language theory and the Chomsky Hierarchy have continued to have applications both in linguistics and elsewhere, particularly in computer science.
+b. The Standard Model
+Chomsky’s 1965 landmark work, Aspects of the Theory of Syntax, which devoted much space to philosophical foundations, introduced what later became known as the “Standard Model”. While the theory itself was in many respects an extension of the ideas contained in Syntactic Structures, there was a shift in explanatory goals as Chomsky addressed what he calls “Plato’s Problem”, the mystery of how children can learn something as complex as the grammar of a natural language from the sparse evidence they are presented with. The sentences of a human language are infinite in number, and no child ever hears more than a tiny subset of them, yet they master the grammar that allows them to produce every sentence in their language. (“Plato’s Problem” is an allusion to Plato’s Meno, a discussion of similar puzzles surrounding geometry. Section 4.b provides a fuller discussion of the issue as well as more recent developments in Chomsky’s model of language acquisition.) This led Chomsky, inspired by early modern rationalist philosophers such as Descartes and Leibniz, to postulate innate mechanisms that would guide a child in this process. Every human child was held to be born with a mental system for language acquisition, operating largely subconsciously, preprogrammed to recognize the underlying structure of incoming linguistic signals, identify possible grammars that could generate those structures, and then to select the simplest such grammar. It was never fully worked out how, on this model, possible grammars were to be compared, and this early picture has subsequently been modified, but the idea of language acquisition as relying on innate knowledge remains at the heart of Chomsky’s work.
+An important idea introduced in Aspects was the existence of two levels of linguistic structure: deep structure and surface structure. A deep structure contains structural information necessary for interpreting sentence meaning. Transformations on a deep structure —moving, deleting, and adding elements in accordance with the grammar of a language —yield a surface structure that determines the way that the sentence is pronounced. Chomsky explained (in a 1968 lecture) that,
+If this approach is correct in general, then a person who knows a specific language has control of a grammar that generates the infinite set of potential deep structures, maps them onto associated surface structures, and determines the semantic and phonetic interpretations of these abstract objects (Chomsky, 2006: 46).
+Note that, for Chomsky, the deep structure was a grammatical object that contains structural information related to meaning. This is very different from conceiving of a deep structure as a meaning itself, although a theory to that effect, generative semantics, was developed by some of Chomsky’s colleagues (initiating a debate acrimonious enough to sometimes be referred to as “the linguistic wars”). The names and exact roles of the two levels would evolve over time, and they were finally dropped altogether in the 1990s (although this is not always noticed, a matter that sometimes confuses the discussion of Chomsky’s theories).
+Aspects was also notable for the introduction of the competence/performance distinction, or the distinction between the underlying mental systems that give a speaker mastery of her language (competence) and her actual use of the language (performance), which will seldom fully reflect that mastery. Although these terms have technically been superseded by E-language and I-language (see 4.c), they remain useful concepts in understanding Chomsky’s ideas, and the vocabulary is still frequently used.
+c. The Extended Standard Model
+Throughout the 1970s, a number of technical changes, aimed at simplification and consolidation, were made to the Standard Model set out in Aspects. These gradually led to what became known as the “Extended Standard Model”. The grammars of the Standard Model contained dozens of highly specific transformation rules that successively rearranged elements of a deep structure to produce a surface structure. Eventually, a much simpler and more empirically adequate theory was arrived at by postulating only a single operation that moved any element of a structure to any place in that structure. This operation, move α, was subject to many “constraints” that limited its applications and therefore restrained what could be generated. For instance, under certain conditions, parts of a structure form “islands” that block movement (as when who is blocked from moving from the conjunction in John and who had lunch? to give *Who did John and have lunch?). Importantly, the constraints seemed to be highly consistent across human languages.
+Grammars were also simplified by cutting out information that seemed to be specified in the vocabulary of a language. For example, some verbs must be followed by nouns, while others must not. Compare I like coffee and She slept to * I like and * She slept a book. Knowing which of these strings are correct is part of knowing the words like and slept, and it seems that a speaker’s mind contains a sort of lexicon, or dictionary, that encodes this type of information for each word she knows. There is no need for a rule in the grammar to state that some verbs need an object and others do not, which would just be repeating information already in the lexicon. The properties of the lexical items are therefore said to “project” onto the grammar, constraining and shaping the structures available in a language. Projection remains a key aspect of the theory, so that lexicon and grammar are thought to be tightly integrated.
+Chomsky has frequently described a language as a mapping from meaning to sound. Around the time of the Extended Standard Model, he introduced a schema whereby grammar forms a bridge between the Phonetic Form, or PF, the form of a sentence that would actually be pronounced, and the Logical Form, or LF, which contained the structural specification of a sentence necessary to determine meaning. To consider an example beloved by introductory logic teachers, Everyone loves someone might mean that each person loves some person (possibly a different person in each case), or it might mean that there is some one person that everyone loves. Although these two sentences have identical PFs, they have different LFs.
+Linking the idea of LF and PF to that of deep structure and surface structure (now called D-structure and S-structure, and with somewhat altered roles) gives the “T-model” of language:
+D-structure
+|
+transformations
+|
+PF –    S-Structure    – LF
+As the diagram indicates, the grammar generates the D-structure, which contains the basic structural relations of the sentence. The D-structure undergoes transformations to arrive at the S-structure, which differs from the PF in that it still contains unpronounced “traces” in places previously occupied by an element that was then moved elsewhere. The S-structure is then interpreted two ways: phonetically as the PF and semantically as the LF. The PF is passed from the language system to the cognitive system responsible for producing actual speech. The LF, which is not a meaning itself but contains structural information needed for semantic interpretation, is passed to the cognitive system responsible for semantics. This idea of syntactic structures and transformations over those structures as mediating between meaning and physical expression has been further developed and simplified, but the basic concept remains an important part of Chomsky’s theories
+d. Principles and Parameters
+In the 1980s, the Extended Standard Model would develop into what is perhaps the best known iteration of Chomskyan linguistics, what was first referred to as “Government and Binding”, after Chomsky’s book Lectures on Government and Binding (1981). Chomsky developed these ideas further in Barriers (1986), and the theory took on the more intuitive name “Principles and Parameters”. The fundamental idea was quite simple. As with previous versions, human beings have in their minds a computational system that generates the syntactic structures linking meanings to sounds. According to Principles and Parameters Theory, all of these systems share certain fixed settings (principles) for their core components, explaining the deep commonalities that Chomsky and his followers see between human languages. Other elements (parameters) are flexible and have values that are set during the language learning process, reflecting the variations observable across different languages. An analogy can be made with an early computer of the sort that was programmed by setting the position of switches on a control panel: the core, unchanging, circuitry of the computer is analogous to principles, the switches to parameters, and the program created by one of the possible arrangements of the switches to a language such as English, Japanese, or St’at’imcets (although this simple picture captures the essence of early Principles and Parameters, the details are a great deal more complicated, especially considering subsequent developments).
+Principles are the core aspects of language, including the dependence on underlying structure and lexical projection, features that the theory predicts will be shared by all natural human languages. Parameters are aspects with binary settings that vary from language to language. Among the most widely discussed parameters, which might serve as convenient illustrations, are the Head and Pro-Drop parameters.
+A head is the key element that gives a phrase its name, such as the noun in a noun phrase. The rest of the phrase is the complement. It can be observed that in English, the head comes before the complement, as in the noun phrase medicine for cats, where the noun medicine is before the complement for cats; in the verb phrase passed her the tea, the verb passed is first, and in the prepositional phrase in his pocket, the preposition in is first. But consider the following Japanese sentence (Cook and Newsom, 1996: 14):
+
+
+
+(14)
+E
+wa
+kabe
+ni
+kakatte
+imasu
+
+
+
+[subject marker]
+picture
+wall
+on
+hanging
+is
+
+
+
+           The picture is hanging on the wall
+Notice that the head of the verb phrase, the verb kakatte imasu, is after its complement, kabe ni, and ni (on) is a postposition that occurs after its complement, kabe. English and Japanese thus represent different settings of a parameter, the Head, or Head Directionality, Parameter. Although this and other parameters are set during a child’s development by the language they hear around them, it seems that very little exposure is needed to fix the correct value. It is taken as evidence of this that mistakes with head positioning are vanishingly rare; English speaking children almost never make mistakes like * The picture the wall on is at any point in their development.
+The Pro-Drop Parameter explains the fact that certain languages can leave the pronoun subjects of a sentence implied, or up to context. For instance, in Italian, a pro-drop language, the following sentences are permitted (Cook and Newsom, 1996: 55).
+
+
+
+(15)
+Sono
+il
+tricheco
+
+
+
+be (1st-person-present)
+the
+walrus
+
+
+
+I am the walrus.
+
+
+
+
+
+ 
+
+
+
+(16)
+E’
+pericoloso
+sporger-
+si
+
+
+
+be (3rd person present)
+dangerous
+lean out-
+(reflexive)
+
+
+
+        It is dangerous to lean out. [a warning posted on trains]
+On the other hand, the direct English translations * Am the walrus and * Is dangerous to lean out are ungrammatical, reflecting a different parameter setting, “non-prodrop”, which requires an explicit subject for sentences.
+A number of other, often complex, differences beyond whether subjects must be included in all sentences were thought to come from the settings of Pro-Drop and the way it interacts with other parameters. For example, it has been observed that many pro-drop languages allow the normal order of subjects and verbs to be inverted; Cade la note is acceptable in Italian, unlike its direct translation in English, * falls the night. However, this feature is not universal among pro-drop languages, and it was theorized that whether it is present or not depends on the settings of other parameters.
+Examples such as these reflect the general theme of Principles and Parameters, in which “rules” of the sort that had been postulated in Chomsky’s previous work are no longer needed. Instead of syntactical rules present in a speaker’s mental language faculty, the particular grammar of a language was hypothesized to be the result of the complex interaction of principles, the setting of parameters, and the projection properties of lexical items. As a relatively simple example, there is no need for an English-speaking child to learn a bundle of related rules such as noun first in a noun phrase, verb first in a verb phrase, and so on, or for a Japanese-speaking child to learn the opposite rules for each type of phrase; all of this is covered by the setting of the Head Parameter. As Chomsky (1995: 388) puts it,
+A language is not, then, a system of rules but a set of specifications for parameters in an invariant system of principles of Universal Grammar. Languages have no rules at all in anything like the traditional sense.
+This outlook represents an important shift in approach, which is often not fully appreciated by philosophers and other non-specialists. Many scholars assume that Chomsky and his followers still regard languages as particular sets of rules internally represented by speakers, as opposed to principles that are realized without being explicitly represented in the brain.
+This outlook led many linguists, especially during the last two decades of the 20th century, to hope that the resemblances and differences between individual languages could be neatly explained by parameter settings. Language learning also seemed much less puzzling, since it was now thought to be a matter, not of learning complex sets of rules and constraints, but rather of setting each parameter, of which there were at one time believed to be about twenty, to the correct value for the local language, a process that has been compared to the children’s game of “twenty questions”. It was even speculated that a table could be established where languages could be arranged by their parameter settings, in analogy to the periodic table on which elements could be placed and their chemical properties predicted by their atomic structures.
+Unfortunately, as the program developed, things did not prove so simple. Researchers failed to reach a consensus on what parameters there are, what values they can take, and how they interact, and there seemed to be vastly more of them than initially believed. Additionally, parameters often failed to have the explanatory power they were envisioned as having. For example, as discussed above, it was originally claimed that the Pro-Drop parameter explained a large number of differences between languages with opposite settings for that parameter. However, these predictions were made on the basis of an analysis of several related European languages and were not fully borne out when checked against a wider sample. Many linguists now see the parameters themselves as emerging from the interactions of “microparameters” that explain the differences between closely related dialects of the same language and which are often found in the properties of individual words projecting onto the syntax. There is ongoing debate as to the explanatory value of parameters as they were originally conceived.
+During the Principles and Parameters era, Chomsky sharpened the notions of competence and performance into the dichotomy of I-languages and E-languages. The former is a state of the language system in the mind of an individual speaker, while the latter, which corresponds to the common notion of a language, is a publicly shared system such as “English”, “French”, or “Swahili”. Chomsky was sharply critical of the study of E-languages, deriding them as poorly defined entities that play no role in the serious study of linguistics —a controversial attitude, as E-languages are what many linguists regard as precisely the subject matter of their discipline. This remains an important point in his work and will be discussed more fully in 4.d. below.
+e. The Minimalist Program
+From the beginning, critics have argued that the rule systems Chomsky postulated were too complex to be plausibly grasped by a child learning a language, even if important parts of this knowledge were innate. Initially, the replacement of rules by a limited number of parameters in the Principles and Parameters paradigm seemed to offer a solution, as by this theory, instead of an unwieldy set of rules, the child needed only to grasp the setting of some parameters. But, while it was initially hoped that twenty or so parameters might be identified, the number has increased to the point where, although there is no exact consensus, it is too large to offer much hope of providing a simple explanation of language learning, and microparameters further complicate the picture.
+The Minimalist Program was initiated in the mid-1990s partially to respond to such criticisms by continuing the trend towards simplicity that had begun with the Extended Standard Theory, with the goal of the greatest possible degree of elegance and parsimony. The minimalist approach is regarded by advocates not as a full theory of syntax but rather as a program of research working towards such a theory, building on the key features of Principles and Parameters.
+In the Minimalist Program, syntactic structures corresponding to sentences are constructed using a single operation, Merge, that combines a head with a complement, for example, merging Albert with will meow to give Albert will meow. Importantly, Merge is recursive, so that it can be applied over and over to give sentences of any length. For instance, the sentence just discussed can be merged with thinks to give thinks Albert will meow and then again with Leisa to form the sentence Leisa thinks Albert will meow. Instead of elements within a structure moving from one place to another, a structure merges with an element already inside of it and then deletes redundant elements; a question can be formed from Albert will meow by first producing will Albert will meow, and finally will Albert meow? In order to prevent the production of ungrammatical strings, Merge must be constrained in various ways. The main constraints are postulated to be lexical, coming from the syntactic features of the words in a language. These features control which elements can be merged together, which cannot, and when merging is obligatory, for instance, to provide an object for a transitive verb.
+During the Minimalist Program era, Chomsky has worked on a more specific model for the architecture of the language faculty, which he divides into the Faculty of Language, Broad (FLB) and the Faculty of Language, Narrow (FLN). The FLN is the syntactic computational system that had been the subject of Chomsky’s work from the beginning, now envisioned as using a single operation, that of recursive Merge. The FLB is postulated to include the FLN, but additionally the perceptual-articulatory system that handles the reception and production of physical messages (spoken or signed words and sentences) and the conceptual-intentional system that handles interpreting the meaning of those messages. In a schema similar to a flattened version of the T-model, the FLN forms a bridge between the other systems of the FLB. Incoming messages are given a structural form by the FLN that is passed to the conceptual-intentional system to be interpreted, and the reverse process allows thoughts to be articulated as speech. The different structural levels, D-structure and S-structure, of the T-model are eliminated in favor of maximal simplicity (the upside-down T is now just a flat  ̶ ). The FLN is held to have a single level on which structures are derived through Merge, and two interfaces connected to the other parts of the FLB.
+One important implication of this proposed architecture is the special role of recursion. The perceptual-articulatory system and conceptual-intentional system have clear analogs in other species, many of whom can obviously sense and produce signals and, in at least some cases, seem to be able to link meanings to them. Chomsky argues that, in contrast, recursion is uniquely human and that no system of communication among non-human animals allows users to limitlessly combine elements to produce a potential infinity of messages. In many ways, Chomsky is just restating what had been an important part of his theory from the beginning, which is that human language is unique in being productive or capable of expressing an infinity of different meanings, an insight he credits to Descartes. This makes recursion the characteristic aspect of human language that sets it apart from anything else in the natural world, and a central part of what it is to be human.
+The status of recursion in Chomsky’s theory has been challenged in various ways, sometimes with the claim that some human language has been observed to be non-recursive (discussed below, in 4.a). That recursion is a uniquely human ability has also been called into question by experiments in which monkeys and corvids were apparently trained in recursive tasks under laboratory conditions. On the other hand, it has also been suggested that if the recursive FLN really does not have any counterpart among non-human species, it is unclear how such a mechanism might have evolved. This last point is only the latest version of a long-running objection that Chomsky’s ideas are difficult to reconcile with the theory of evolution since he postulates uniquely human traits for which, it is argued by critics, there is no plausible evolutionary history. Chomsky counters that it is not unlikely that the FLN appeared as a single mutation, one that would be selected due to the usefulness of recursion for general thought outside of communication. Providing evolutionary details and exploring the  relationship between the language faculty and the physical brain have formed a large part of Chomsky’s most recent work.
+The central place of recursion in the Minimalist Program also brought about an interesting change in Chomsky’s thoughts on hypothetical extraterrestrial languages. During the 1980s, he speculated that alien languages would be unlearnable by human beings since they would not share the same principles as human languages. As such, one could be studied as a natural phenomenon in the way that humans study physics or biology, but it would be impossible for researchers to truly learn the language in the way that field linguists master newly encountered human languages. More recently, however, Chomsky hypothesized that since recursion is apparently the core, universal property of human language and any extraterrestrial language will almost certainly be recursive as well, alien languages may not be that different from our own, after all.
+4. Language and Languages
+As a linguist, Chomsky’s primary concern has always been, of course, language. His study of this phenomenon eventually led him to not only formulate theories that were very much at odds with those held at one time by the majority of linguists and philosophers, but also to have a fundamentally different view about the thing, language, that was being studied and theorized about. Chomsky’s views have been influential, but many of them remain controversial today. This section discusses some of Chomsky’s important ideas that will be of interest to philosophers, especially concerning the nature and acquisition of language, as well as meaning and analyticity, topics that are traditionally the central concerns of philosophy of the language.
+a. Universal Grammar
+Perhaps the single most salient feature of Chomsky’s theory is the idea of Universal Grammar ( UG). This is the central aspect of language that he argues is shared by all human beings —a part of the organization of the mind. Since it is widely assumed that mental features correspond, at some level, to physical features of the brain, UG is ultimately a biological hypothesis that would be part of the genetic inheritance that all humans are born with.
+In terms of Principles and Parameters Theory, UG consists of the principles common to all languages and which will not change as the speaker matures. UG also consists of parameters, but the values of the parameters are not part of UG. Instead, parameters may change from their initial setting as a child grows up, based on the language she hears spoken around her. For instance, an English-speaking child will learn that every sentence must have a subject, setting her Pro-Drop parameter to a certain value, the opposite of the value it would take for a Spanish-speaking child. While the Pro-Drop parameter is a part of UG, this particular setting of the parameter is a part of English and other languages where the subject must be overtly included in the sentence. All of the differences between human languages are then differences in vocabulary and in the settings of parameters, but they are all organized around a common core given by UG.
+Chomsky has frequently stated that the important aspects of human languages are set by UG. From a sufficiently detached viewpoint, for instance, that of a hypothetical Martian linguist, there would only be minor regional variations of a single language spoken by all human beings. Further, the variations between languages are predictable from the architecture of UG and can only occur within narrowly constrained limits set by that structure. This was a dramatic departure from the assumption, largely unquestioned until the mid-20th century, that languages can vary virtually without limit and in unpredictable ways. This part of Chomsky’s theory has remained controversial, with some authorities on crosslinguistic work, such as the British psycholinguist Stephen Levinson (2016), arguing that it discounts real and important differences among languages. Other linguists argue the exact contrary: that data from the study of languages worldwide backs Chomsky’s claims. Because the debate ultimately concerns invisible mental features of human beings and how they relate to unpronounced linguistic structures, the interpretation of the evidence is not straightforward, and both sides claim that the available empirical data supports their position.
+The theory of UG is an important aspect of Chomsky’s ideas for many reasons, among which is that it clearly sets his theories apart as different from paradigms that had previously been dominant in linguistics. This is because UG is not a theory about behavior or how people use language, but instead about the internal composition of the human mind. Indeed, for Chomsky and others working within the framework of his ideas, language is not something that is spoken, signed, or written but instead exists inside of us. What many people think of as language —externalized acts of communication —are merely products of that internal mental faculty. This in turn has further implications for theories of language acquisition (see 4.b) and how different languages should be identified (4.c).
+An important implication of UG is that it makes Chomsky’s theories empirically testable. A common criticism of his work is that because it abstracts away from the study of actual language use to seek underlying idealized patterns, no evidence can ever count against it. Instead, apparent counterexamples can always be dismissed as artifacts of performance rather than the competence that Chomsky was concerned with. If correct, this would be problematic since it is widely agreed that a good scientific theory should be testable in some way. However, this criticism is often based on misunderstandings. A linguist dismissing an apparent failure of the theory as due to performance would need to provide evidence that performance factors really are involved, rather than a problem with the underlying theory of competence. Further, if a language was discovered to be organized around principles that contravened those of UG, then many of the core aspects of Chomsky’s theories would be falsified. Although candidate languages have been proposed, all of them are highly controversial, and none is anything close to universally accepted as falsifying UG.
+In order to count as a counterexample to UG, a language must actually breach one of its principles; it is not enough that a principle merely not be displayed. As an example, one of the principles is what is known as structure dependence: when an element of a linguistic structure is moved to derive a different structure, that movement depends on the structure and its organization into phrases. For instance, to arrive at the correct question form of The cat who is on the desk is hungry; it is the is in the main clause, the one before hungry, that is moved to the front of the sentence, not the one in the relative clause (between who and on). However, in some languages, for instance Japanese, elements are not moved to form questions; instead, a question marker (ka) is added at the end of the sentence. This does not make Japanese a counterexample to the UG principle that movement is always structurally dependent. The Japanese simply do not exercise this principle when forming questions, but neither is the principle violated. A counterexample to UG would be a language that moved elements but did so in a way that did not depend on structure, for instance, by always moving the third word to the front or inverting the word order to form a question.
+A case that generated a great deal of recent controversy has been the claim that Pirahã, a language with a few hundred speakers in the Brazilian rain forest, lacks recursion (Everett 2005). This has been frequently presented as falsifying UG, since recursion is the most important principle, indeed the identifying feature, of human language, according to the Minimalist Program. This alleged counterexample received widespread and often incautious coverage in the popular press, at times being compared to the discovery of evidence that would disprove the theory of relativity.
+This assertion that Pirahã has no recursion has itself been frequently challenged, and the status of this claim is unclear. But there is also a lack of agreement on whether, if true, this claim would invalidate UG or whether it would just be a case similar to the one discussed above, the absence of movement in Japanese when forming questions, where a principle is not being exercised. Proponents of Chomsky’s ideas counter that UG is a theory of mental organization and underlying competence, a competence that may or may not be put fully to use. The fact that the Pirahã are capable of learning Portuguese (the majority language in Brazil) shows that they have the same UG present in their minds as anyone else. Chomsky points out that there are numerous cases of human beings choosing not to exercise some sort of biological capacity that they have. Chomsky’s own example is that although humans are biologically capable of swimming, many would drown if placed in water. It has been suggested by sympathetic scholars that this example is not particularly felicitous, as swimming is not an instinctive behavior for humans, and a better example might be monks who are sworn to celibacy. Debate has continued concerning this case, with some still arguing that if a language without recursion would not be accepted as evidence against UG, it is difficult to imagine what can.
+b. Plato’s Problem and Language Acquisition
+One of Chomsky’s major goals has always been to explain the way in which human children learn language. Since he sees language as a type of knowledge, it is important to understand how that knowledge is acquired. It seems inexplicable that children acquire something as complex as the grammar and vocabulary of a language, let alone the speed and accuracy with which they do so, at an age when they cannot yet learn how to tie their shoes or do basic arithmetic. The mystery is deepened by the difficulty that adults, who are usually much better learners than small children, have with acquiring a second language.
+Chomsky addressed this puzzle in Aspects of the Theory of Syntax (1965), where he called it “Plato’s Problem”. This name is a reference to Plato’s Meno, a dialog in which Socrates guides a young boy, without a formal education, into producing a fairly complex geometric proof, apparently from the child’s own mental resources. Considering the difficult question of where this apparent knowledge of geometry came from, Plato, speaking through Socrates, concludes that it must have been present in the child already, although dormant until the right conditions were presented for it to be awakened. Chomsky would endorse largely the same explanation for language acquisition. He also cites Leibniz and Descartes as holding similar views concerning important areas of knowledge.
+Chomsky’s theories regarding language acquisition are largely motivated by what has become known as the “Poverty of the Stimulus Argument,” the observation that the information about their native language that children are exposed to seems inadequate to explain the linguistic knowledge that they arrive at. Children only ever hear a small subset of the sentences that they can produce or understand. Furthermore, the language that they do hear is often “corrupt” in some way, such as the incomplete sentences frequently used in casual exchanges. Yet on this basis, children somehow master the complex grammars of their native languages.
+Chomsky pointed out that the Poverty of the Stimulus makes it difficult to maintain that language is learned through the same general-purpose learning mechanisms that allow a human being to learn about other aspects of the world. There are many other factors that he and his followers cite to underline this point. All developmentally normal children worldwide are able to speak their native languages at roughly the same age, despite vast differences in their cultural and material circumstances or the educational levels of their families. Indeed, language learning seems to be independent of the child’s own cognitive abilities, as children with high IQs do not learn the grammar of their language faster, on average, than others. There is a notable lack of explicit instruction; analyses of speech corpora show that adult correction of children’s grammar is rare, and it is usually ineffective when it does occur. Considering these factors together, it seems that the way in which human children acquire language requires an explanation in a way that learning, say, table manners or putting shoes on do not.
+The solution to this puzzle is, according to Chomsky, that language is not learned through experience but innate. Children are born with Universal Grammar already in them, so the principles of language are present from birth. What remains is “merely” learning the particularities of the child’s native language. Because language is a part of the human mind, a part that each human being is born with, a child learning her native language is just undergoing the process of shaping that part of her mind into a particular form. In terms of the Principles and Parameters Theory, language learning is setting the value of the parameters. Although subsequent research has shown that things are more complicated than the simple setting of switches, the basic picture remains a part of Chomsky’s theory. The core principles of UG remain unchanged as the child grows, while peripheral elements are more plastic and are shaped by the linguistic environment of the child.
+Chomsky has sometimes put the innateness of language in very strong terms and has stated that it is misleading to call language acquisition “language learning”. The language system of the mind is a mental organ, and its development is similar, Chomsky argues, to the growth of bodily organs such as the heart or lungs, an automatic process that is complete at some point in a child’s development. The language system also stabilizes at a certain point, after which changes will be relatively minor, such as the addition of new words to a speaker’s vocabulary. Even many of those who are firm adherents to Chomsky’s theories regard such statements as incautious. It is sometimes pointed out that while the growth of organs does not require having any particular experiences, proper language development requires being exposed to language within a certain critical period in early childhood. This requirement is evidenced by tragic cases of severely neglected children who were denied the needed input and, as a result, never learned to speak with full proficiency.
+It has also been pointed out that even the rationalist philosophers whom Chomsky frequently cites did not seem to view innate and learned as mutually exclusive. Leibniz (1704), for instance, stated that arithmetical knowledge is “in us” but still learned, drawn out by demonstration and testing on examples. It has been suggested that some such view is necessary to explain language acquisition. Since humans are not born able to speak in the way that, for example, a horse is able to run within hours of birth, some learning seems to be involved, but those sympathetic to Chomsky regard the Poverty of the Stimulus as ruling out simply acquiring language completely from external sources. According to this view, we are born with language inside of us, but the proper experiences are required to draw that knowledge out and make it available.
+The idea of innate language is not universally accepted. The behaviorist theory that language learning is a result of social conditioning, or training, is no longer considered viable. But it is a widely held view that general statistical learning mechanisms, the same mechanisms by which a child learns about other aspects of the world and human society, are responsible for language learning, with only the most general features of language being innate. These sorts of theories tend to have the most traction in schools of linguistic thought that reject the idea of Universal Grammar, maintaining that no deep commonalities hold across human languages. On such a view, there is little about language that can be said to be shared by all humans and therefore innate, so language would have to be acquired by children in the same way as other local customs. Advocates of Chomsky’s views counter that such theories cannot be upheld given the complexity of grammar and the Poverty of the Stimulus, and that the very fact that language acquisition occurs given these considerations is evidence for Universal Grammar. The degree to which language is innate remains a highly contested issue in both philosophy and science.
+Although the application of statistical learning mechanisms to machine learning programs, such as OpenAI’s ChatGPT, has proven incredibly successful, Chomsky points out that the architecture of such programs is very different from that of the human mind: “A child’s operating system is completely different from that of a machine learning program” (Chomsky, Roberts, and Watumull, 2023). This difference, Chomskyans maintain, precludes drawing conclusions about the use or acquisition of language by humans on the basis of studying these models.
+c. I vs. E languages
+Perhaps the way in which Chomsky’s theories differ most sharply from those of other linguists and philosophers is in his understanding of what language is and how a language is to be identified. Almost from the beginning, he has been careful to distinguish speaker performance from underlying linguistic competence, which is the target of his inquiry. During the 1980s, this methodological point would be further developed into the I-language/E-language distinction.
+A common concept of what an individual language is, explicitly endorsed by philosophers such as David Lewis (1969), Michael Dummett (1986), and Michael Devitt (2022), is a system of conventions shared between speakers to allow coordination. Therefore, language is a public entity used for communication. It is something like this that most linguists and philosophers of language have in mind when they talk about “English” or “Hindi”. Chomsky calls this concept of language E-language, where the “E” stands for external and extensional. What is meant by “extensional” is somewhat technical and will be discussed later in this subsection. “External” refers to the idea just discussed, where language is a public system that exists externally to any of its speakers. Chomsky points out that such a notion is inherently vague, and it is difficult to point to any criteria of identity that would allow one to draw firm boundaries that could be used to tell one such language apart from another. It has been observed that people living near border areas often cannot be neatly categorized as speaking one language or the other; Germans living near the Dutch border are comprehensible to the nearby Dutch but not to many Germans from the southern part of Germany. Based on the position of the border, we say that they are speaking “German” rather than “Dutch” or some other E-language, but a border is a political entity with negligible linguistic significance. Chomsky (1997: 7) also called attention to what he calls “semi-grammatical sentences,” such as the string of words.
+(17) *The child seems sleeping. 
+Although (17) is clearly ill-formed, most “English” speakers will be able to assign some meaning to it. Given these conflicting facts, there seems to be no answer to whether (17) or similar strings are part of “English”.
+Based on considerations like those just mentioned, Chomsky derides E-languages as indistinct entities that are of no interest to linguistic science. The real concept of interest is that of an I-language, where the “I” refers to intensional and internal. “Intensional” is in opposition to “extensional”, and will be discussed in a moment. “Internal” means contained in the mind of some individual human being. Chomsky defines language as a computational system contained in an individual mind, one that produces syntactic structures that are passed to the mental systems responsible for articulation and interpretation. A particular state of such a system, shaped by the linguistic environment it is exposed to, constitutes an I-language. Because all I-languages contain Universal Grammar, they will all resemble each other in their core aspects, and because more peripheral parts of language are set by the input received, the I-language of two members of the same linguistic community will resemble one another more closely. For Chomsky, for whom the study of language is ultimately the study of the mind, it is the I-language that is the proper topic of concern for linguists. When Chomsky speaks of “English” or “Swahili”, this is to be understood as shorthand for a cluster of characteristics that are typically displayed by the I-languages of people in a particular linguistic community.
+This rejection of external languages as worthy of study is closely related to another point where Chomsky goes against a widely held belief in the philosophy of language, as he does not accept the common hypothesis that language is primarily a means of communication. The idea of external languages is largely motivated by the widespread theory that language is a means for interpersonal communication, something that evolved so that humans could come together, coordinate to solve problems, and share ideas. Chomsky responds that language serves many uses, including to speak silently to oneself for mental clarity, to aid in memorization, to solve problems, to plan, or to conduct other activities that are entirely internal to the individual, in addition to communication. There is no reason to emphasize one of these purposes over any other. Communication is one purpose of language—an important one, to be sure—but it is not the purpose.
+Besides the internal/external dichotomy, there is the intensional/extensional distinction, referring to two different ways that sets might be specified. The extension of a set is what elements are in that set, while the intension is how the set is defined and the members are divided from non-members. For instance, the set {1, 2, 3} has as its extension the numbers 1, 2, and 3. The intension of the same set might be the first three positive integers, or the square roots of 1, 4, and 9, or the first three divisors of 6; indeed, an infinite number of intensions might generate the same set extension.
+Applying this concept to languages, a language might be defined extensionally in terms of the sentences of the language or intentionally in terms of the grammar that generates all of those sentences but no others. While Chomsky favors the second approach, he attributes the first to two virtually opposite traditions. Structuralist linguists, who place great value on studying corpora, and other linguists and philosophers who focus on the actual use of language define a language in terms of the sentences attested in corpora and those that fit similar patterns. A very different tradition consists of philosophers of language who are known as “Platonists”, and who are exemplified by Jerrold Katz (1981, 1985) and Scott Soames (1984), former disciples of Chomsky. On this view, every possible language is a mathematical object, a set of possible sentences that really exist in the same abstract sense that sets of numbers do. Some of these sets happen to be the languages that humans speak.
+Both of these extensional approaches are rejected by Chomsky, who maintains that language is an aspect of the human mind, so what is of interest is the organization of that part of the mind, the I-language. This is an intensional approach, since a particular I-language will constitute a grammar that will produce a certain set of sentences. Chomsky argues that both extensional approaches, the mathematical and the usage-based, are insufficiently focused on the mental to be of explanatory value. If a language is an abstract mathematical object, a set of sentences, it is unclear how humans are supposed to acquire knowledge of such a thing or to use it. The usage-based approach, as a theory of behavior, is insufficiently explanatory because any real explanation of how language is acquired and used must be in mental terms, which means looking at the organization of the underlying I-language.
+While many who study language accept the concept of the I-language and agree with its importance, Chomsky’s complete dismissal of E-languages as worthy of study has not been widely endorsed. E-languages, even if they are ultimately fiction, seem to be a necessary fiction for disciplines such as sociolinguistics or for the historical analysis of how languages have evolved over time. Further, having vague criteria of identity does not automatically disqualify a class of entities from being used in science. For example, the idea of species is open to many of the same criticisms concerning vagueness that Chomsky directs at E-languages, and its status as a real category has been debated, but the concept often plays a useful role in biology.
+d. Meaning and Analyticity
+It might be said that the main concern of the philosophy of language is the question of meaning. How is it that language corresponds to, and allows us to communicate about, states of affairs in the world or to describe possible states of affairs? A related question is whether there are such things as analytic truths, that is, sentences that are (as they were often traditionally characterized) necessarily true by virtue of meaning alone. It might seem like anyone who understands all the words in:
+(18) If Albert is a cat, then Albert is an animal. 
+knows that it has to be true, just in virtue of knowing what it means. Appeals to such knowledge were frequently the basis for explaining our apparent a priori knowledge of logic and mathematics and for what came to be known as “analytic philosophy” in the 20th century. But the exact nature and scope of this sort of truth and knowledge are surprisingly hard to clarify, and many philosophers, notably Quine (1953) and Fodor (1998), argue that allegedly analytic statements are no different from any other belief that is widely held, such as:
+(19) The world is more than a day old.
+On this outlook, not only are apparently analytic truths open to revision just like any other belief, but the entire idea of determinate meanings becomes questionable.
+As mentioned earlier, Chomsky’s focus has been not on meaning but instead on syntax, the grammatical rules that govern the production of well-formed sentences, considered largely independent of their meanings. Much of the critical data for his program has consisted of unacceptable sentences, the “WhyNots,” such as:
+(20) * She’s as likely as he’s to get ill. (Rey 2022)
+Sentences like (20), or (1)-(6) in 2.c above, are problematic, not because they have no meaning or have an anomalous meaning in some way, but because of often subtle issues under the surface concerning the syntactic structure of the sentence. Chomsky frequently argued that syntax is independent of meaning, and a theory of language should be able to explain the syntactic data without entering into questions of meaning. This idea, sometimes called “the autonomy of syntax”, is supported by, among other evidence, considering sentences such as:
+(21) Colorless green ideas sleep furiously. (Chomsky 1965: 149)
+which makes no sense if understood literally but is immediately recognizable as a grammatical sentence in English. Whether syntax is entirely independent of meaning and use has proven somewhat contentious, with some arguing that, on the contrary, questions of grammaticality cannot be separated from pragmatic and semantic issues. However, the distinction fits well with Chomsky’s conception of I-language, an internal computational device that produces syntactic structures that are then passed to other mental systems. These include the conceptual-intentional system responsible for assigning meaning to the structures, a system that interfaces with the language faculty but is not itself part of that faculty, strictly speaking.
+Despite his focus on syntax, Chomsky does frequently discuss questions of meaning, at least from 1965 on. Chomsky regards the words (and other lexical items, such as prefixes and suffixes) that a speaker has stored in her lexicon as bundles of semantic, syntactic, and phonetic features, indicating information about meaning, grammatical role, and pronunciation. Some features that Chomsky classifies as syntactic may seem to be more related to meaning, such as being abstract. Folding these features into syntax seemed to be supported by the observation that, for example,
+(22) * A very running person passed us.
+is anomalous because very requires an abstract complement in such a context (a very interesting person is fine). In Aspects of the Theory of Syntax (1965), he also introduced the notion of “selectional rules” that identify sentences such as:
+(23) Golf plays John (1965: 149)
+as “deviant”. A particularly interesting example is:
+(24) Both of John’s parents are married to aunts of mine. (1965: 77)
+In 1965, (24) might have seemed to be analytically false, but in the 21st century, such a sentence may very well be true!
+One popular theory of semantics is that the meaning of a sentence consists of its truth conditions, that is, the state of affairs that would make the sentence true. This idea, associated with the philosopher of language Donald Davidson (1967), might be said to be almost an orthodoxy in the study of semantics, and it certainly has an intuitive appeal. To know what The cat is on the mat means is to know that this sentence is true if and only if the cat is indeed on the mat. Starting in the late 1990s, Chomsky would challenge this picture of meaning as an oversimplification of the way that language works.
+According to Chomsky’s view, also developed by Paul Pietroski (2005), among others, the sentences of a language do not, themselves, have truth conditions. Instead, sentences are tools that might be used, among other things, to make statements that have truth values relative to  their context of use. Support for this position is drawn from the phenomenon of polysemy, where the same word might be used with different truth-conditional roles within a single sentence, such as in:
+(25) The bank was destroyed by the fire and so moved across the street. (Chomsky 2000: 180)
+where the word bank is used to refer to both a building and a financial institution. There is also open texture, a phenomenon by which the meaning of a word might be extended in multiple ways, many of which might have once been impossible to foresee (Waismann 1945). An oft-cited example is mother: in modern times, unlike in the past, it is possible that two women, the woman who produces the ovum and the woman who carries the fetus, may both be called  mothers of the child. One might also consider the way that a computer, at one time a human being engaged in performing computations, was easily extended to cover electronic machines that are sometimes said to think, something that was also at one time reserved for humans.
+Considering these phenomena, it seems that the traditional idea of words as having fixed “meanings” might be better replaced by the idea of words as “filters or lenses, providing ways of looking at things and thinking about the products of our minds” (Chomsky 2000, 36), or, as Pietroski (2005) puts it, as pointers in conceptual space. A speaker uses the structures made available by her I-language in order to arrange these “pointers” in such a way as to convey information, producing statements that might be assigned truth values given the context. But a speaker is hardly constrained to her I-language, which might be supplemented by resources such as gestures, common knowledge, shared cultural background, or sensibility to the listener’s psychology and ability to fill in gaps. Consider a speaker nodding towards a picture of the Eiffel Tower and saying “been there”; to the right audience, under the right circumstances, this is a perfectly clear statement with a determinate truth value, even though the I-language, which produces structures corresponding to grammatical sentences, has been overridden in the interests of efficiency.
+It has been suggested (Rey 2022) that this outlook on meaning offers a solution to the question of whether there are sentences that are analytically true and that are distinct from merely strongly held beliefs. Sentences such as If Albert is a cat, he is an animal may be analytic in the sense that, in the lexicon accessed by the I-language, [animal] is a feature of cat (as argued by Katz 1990). On the other hand, the I-language might be overruled in the face of future evidence, such as discovering that cats are really robots from another planet (as Putnam 1962 imagined). These two apparently opposing facts can be accommodated by the open texture of the word cat, which might come to be used in cases where it does not, at present, apply.
+Chomsky, throughout his long career, seems to have frequently vacillated concerning the existence of analytic truths. Early on, as in Aspects (1965), he endorses analyticity, citing sentence 24 and similar examples. At other times, he seems to echo Quine, at one point (1975), stating that the study of meaning cannot be dissociated from systems of belief. More recently (1997) he explicitly allows for analytic truths, arguing that necessary connections occur between the concepts denoted by the lexicons of human languages. For example, “If John persuaded Bill to go to college, then Bill at some point decided or intended to go to college… this is a truth of meaning” (1997: 30). This is to say that it is an analytic truth based on a relation that obtains between the concepts persuade and intend. Ultimately, though, Chomsky regards analyticity as an empirical issue, not one to be settled by considering philosophical intuitions but rather through careful investigation of language acquisition, crosslinguistic comparison, and the relation of language to other cognitive systems, among other evidence. Currently, he holds that allowing for analytic truths based on relations between concepts seems more promising than alternative proposals, but this is an empirical question to be resolved through science.
+Finally, mention should be made of the way that Chomsky connects considerations of meaning with “Plato’s Problem”, the question of how small children manage to do something as difficult as learning language. Chomsky notes that the acquisition of vocabulary poses this problem “in a very sharp form” (1997: 29). During the peak periods of language learning, children learn several words a day, often after hearing them a single time. Chomsky accounts for this rapid acquisition in the same way as the acquisition of grammar: what is being learned must already be in the child. The concepts themselves are innate, and what a child is doing is simply learning what sounds people in the local community use to label concepts she already possesses. Chomsky acknowledges that this idea has been criticized. Hilary Putnam (1988), for example, asks how evolution could have possibly had the foresight to equip humans with a concept such as carburetor. Chomsky’s response is simply that this certainly seems surprising, but that “the empirical facts appear to leave open a few other possibilities” (1997: 26). Conceptual relations, like those mentioned above between persuades and intends, or between chase and follow with the intent of staying on one’s path, are, Chomsky asserts, grasped by children on the basis of virtually no evidence. He concludes that this indicates that children approach language learning with an intuitive understanding of important concepts, such as intending, causing something to happen, having a goal, and so on.
+Chomsky suggests a parallel to his theory of lexical acquisition in the Nobel Prize-winning work of the immunologist Niels Jerne. The number of antigens (substances that trigger the production of antibodies) in the world is so enormous, including man-made toxins, that it may seem absurd to propose that immune systems would have evolved to have an innate supply of specific antibodies. However, Jerne’s work upheld the theory that an animal could not be stimulated to make an antibody in response to a specific antigen unless it had already produced such an antibody before encountering the antigen. In fact, Jerne’s (1985) Nobel speech was entitled “The Generative Grammar of the Immune System”.
+Chomsky’s theories of innate concepts fit with those of some philosophers, such as Jerry Fodor (1975). On the other hand, this approach has been challenged by other philosophers and by linguists such as Stephen Levinson and Nicholas Evans (2009), who argue that the concepts labeled by words in one language very seldom map neatly onto the vocabulary of another. This is sometimes true even of very basic terms, such as the English preposition “in”, which has no exact counterpart in, for example, Korean or Tzeltal, languages that instead have a range of words that more specifically identify the relation between the contained object and the container. This kind of evidence is understood by some linguists to cast doubt on the idea that childhood language acquisition is a matter of acquiring labels for preexisting universal concepts.
+e. Kripkenstein and Rule Following
+This subsection introduces the “Wittgenstenian Problem”, one of the most famous philosophical objections to Chomsky’s notion of an underlying linguistic competence. Chomsky himself stated that out of the various criticisms his theory had received over the years, “this seems to me to be the most interesting” (1986: 223). Inspired by Ludwig Wittgenstein’s cryptic statement that “no course of action could be determined by a rule, because every course of action could be made out to accord with the rule” (1953: §201), Saul Kripke (1982) developed a line of argument that entailed a deep skepticism about the nature of rule-following activities, including the use of language. Kripke is frequently regarded as having gone beyond what Wittgenstein might have intended, so his argument is often attributed to a composite figure, “Kripke’s Wittgenstein” or “Kripkenstein”. A full treatment of this fascinating, but lengthy and complex, argument is beyond the scope of this article (the interested reader might consult the article “Kripke’s Wittgenstein.” It can be summarized as asserting that, in a case where a person seems to be following a rule, there are no facts about her that determine which rule she is actually following. To take Kripke’s example, if someone seems to be adding numbers in accordance with the normal rules of addition but then gives a deviant answer, say 68 + 57 = 5, there is no way to establish that she was not actually performing an operation called quaddition instead, which is like addition except that it gives an answer of 5 for any equation involving numbers larger than 57. Kripke claims that any evidence, including her own introspection, that she was performing addition and made a bizarre mistake is equally compatible with the hypothesis that she was performing quaddition. Ultimately, he concludes, there is no way to settle such questions, even in theory; there is simply no fact of the matter about what rule is being followed.
+The relevance of Kripke’s argument to Chomsky’s linguistic theory is that this directly confronts his notion of language as an internalized system of rules (or, in later iterations, a system of principles and parameters that gives rise to rules that are not themselves represented). According to Chomsky’s theory, a grammatical error is explained as a performance issue, for example, a mistake brought on by inattention or distraction that causes a deviation from the system of rules in the mind of the speaker. According to Kripke, calling this a deviation from those rules, rather than an indication that different rules (or no rules) are being followed, is like trying to decide the question of addition vs. quaddition. Kripke asserted that there is no fact of the matter in the linguistic case, either, any more than in the example of addition and quaddition. Therefore, “it would seem that the use of the ideas of rules and competence in linguistics needs serious reconsideration” (1982: 31).
+An essential part of Chomsky’s response to Kripke’s criticism was that the question of what is going on inside a speaker is no different in principle than any other question investigated by the sciences. Given a language user, say Jones, “We then try… to construct a complete theory, the best one we can, of relevant aspects of how Jones is constructed” (1986: 237). Such a theory would involve specifying that Jones incorporates a particular language, consisting of fixed principles and the setting of parameters, and that he follows the rules that would emerge from the interactions of these factors. Any particular theory like this could be proven wrong —Chomsky notes, “This has frequently been the case” —and, therefore, such a theory is an empirically testable one that can be found to be correct or incorrect. That is, given a theory of the speaker’s underlying linguistic competence, whether she is making a mistake or the theory is wrong is “surely as ascertainable as any other fact about a complex system” (Rey 2020: 125). What would be required is an acceptable explanation of why a mistake was made. The issues here are very similar to those surrounding Chomsky’s adaptation of the “Galilean Method” (see 2.b above) and the testability, or lack thereof, of his theories in general (see 4.a).
+5. Cognitive Science and Philosophy of Mind
+Because Chomsky regards language as a part of the human mind, his work has inevitably overlapped with both cognitive science and philosophy of mind. Although Chomsky has not ventured far into general questions about mental architecture outside of the areas concerned with language, his impact has been enormous, especially concerning methodology. Prior to Chomsky, the dominant paradigm in both philosophy and cognitive science was behaviorism, the idea that only external behavior could be legitimately studied and that the mind was a scientifically dubious entity. In extreme cases, most notably Quine (1960), the mind was regarded as a fiction best dropped from serious philosophy. Chomsky began receiving widespread notice in the 1950s for challenging this orthodoxy, arguing that it was a totally inadequate framework for the study of language (see 2.a, above), and he is widely held to have dramatically altered the scientific landscape by reintroducing the mind as a legitimate object of study.
+Chomsky has remained committed throughout his career to the view that the mind is an important target of inquiry. He cautions against what he calls “methodological dualism” (2000: 135), the view that the study of the human mind must somehow proceed differently than the study of other natural phenomena. Although Chomsky says that few contemporary philosophers or scientists would overtly admit to following such a principle, he suggests that in practice it is widespread.
+Chomsky postulates that the human mind contains a language faculty, or module, a biological computer that operates largely independently of other mental systems to produce and parse linguistic structures. This theory is supported by the fact that we, as language users, apparently systematically perform highly complex operations, largely subconsciously, in order to derive appropriate structures that can be used to think and communicate our thoughts and to parse incoming structures underlying messages from other language users. These activities point to the presence of a mental computational device that carries them out. This has been interpreted by some as strong evidence for the computational theory of mind, essentially the idea that the entire mind is a biological computer. Chomsky himself cautions against such a conclusion, stating that the extension from the language module to the whole mind is as of yet unwarranted.
+In his work over the last two decades, Chomsky has dealt more with questions of how the language faculty relates to the mind more broadly, as well as the physical brain, questions that he had previously not addressed extensively. Most recently, he proposed a scheme by which the language faculty, narrowly defined, or FLN, consists only of a computational device responsible for constructing syntactic structures. This device provides a bridge between the two other systems that constitute the language faculty more broadly, one of which is responsible for providing conceptual interpretations for the structures of the FLN, the other for physical expression and reception. Thus, while, in this view, the actual language faculty plays a narrow role, it is a critical one that allows the communication of concepts. The FLN itself works with a single operation, merge, which combines two elements. This operation is recursive, allowing elements to be merged repeatedly. He suggests that the FLN, which is the only part of the system unique to humans, evolved due to the usefulness of recursion not only for communication but also for planning, navigation, and other types of complex thought. Because the FLN is thought to have no analog among other species, recursion is theorized to be an important characteristic of human thought, which gives it its unique nature.
+While the FLN interfaces with other mental systems, passing syntactic structures between them, the system itself is postulated to carry out its operations in isolation. This follows from Chomsky’s view of syntax as largely autonomous from questions of meaning and also from the way that linguistic knowledge seems to be specialized and independent of our general knowledge about the world. For instance, we can recognize a sentence such as:
+(26) On later engines, fully floating gudgeon pins are fitted (Cook and Newsom 1998: 83).
+as well-formed, despite the fact that most readers will not know what it means. This concept of a specialized language faculty, which has been a constant in Chomsky’s work almost from the start, represents a substantive commitment to the “modularity of mind”, a thesis that the mind consists, at least in part, of specialized and autonomous systems. There is debate among cognitive scientists and in the philosophy of psychology regarding the degree to which this picture is accurate, as opposed to the idea that mental processes result from the interaction of general faculties, such as memory and perception, which are not domain-specific in the way of the hypothesized language faculty.
+It should be emphasized that the language faculty Chomsky hypothesizes is mental, not a specific physical organ in the brain, unlike, for example, the hippocampus. Asking where it is in the brain is something like asking where a certain program is in a computer; both emerge from the functioning of many physical processes that may be scattered in different locations throughout the entire physical device. At the same time, although Chomsky’s theory concerns mental systems and their operations, this is intended as a description, at a high level of abstraction, of computational processes instantiated in the physical brain. Opponents of Chomsky’s ideas frequently point out that there has been little progress in actually mapping these mental systems onto the brain. Chomsky acknowledges that “we do not really know how [language] is actually implemented in neural circuitry” (Berwick and Chomsky 2017: 157). However, he also holds that this is entirely unsurprising, given that neuroscience, like linguistics, is as of yet in its infancy as a serious science. Even in much simpler cases, such as insect navigation, where researchers carry out experiments and genetic manipulations that cannot be performed on humans, “we still do not know in detail how that computation is implemented” (2017: 157).
+In his most recent publications, Chomsky has worked towards unifying his theories of language and mind with neuroscience and theories of the physical brain. He has at times expressed pessimism about the possibility of fully unifying these fields, which would require explaining linguistic and psychological phenomena completely in terms of physical events and structures in the brain, While he holds that this may be possible at some point in the distant future, it may require a fundamental conceptual shift in neuroscience. He cautions that it is also possible that such a unification may never be completely possible. Chomsky points to Descartes’ discussion of the “creative” nature of human thought and language, which is the observation that in ordinary circumstances the use of these abilities is “innovative without bounds, appropriate to circumstances but not caused by them” (Chomsky 2014: 1), as well as our apparent possession of free will. Chomsky suggests that it is possible that such phenomena may be beyond our inherent cognitive limitations and impossible for us to ever fully understand.
+6. References and Further Reading
+a. Primary Sources
+Chomsky has been a highly prolific author who has written dozens of books explaining and promoting his theories. Although almost all of them are of great interest to anyone interested in language and mind, including philosophers, they vary greatly in the degree to which they are accessible to non-specialists. The following is a short list of some of the relatively non-technical works of philosophical importance:
+
+Chomsky, N. 1956. “Three Models for the Description of Language”. IRE Transactions   on Language Theory. 2(3) pages 113 –124.
+
+The earliest presentation of the Chomsky Hierarchy.
+
+
+Chomsky, N. 1957. Syntactic Structures. The Hague: Mouton and Company.
+Chomsky, N. 1959. “A Review of B.F. Skinner’s Verbal Behavior”. Language 35(1): 2658.
+Chomsky, N. 1965. Aspects of the Theory of Syntax. Cambridge, MA: MIT Press.
+
+While many of the exact proposals about syntax are dated, this contains what is still one of the best summaries of Chomsky’s ideas concerning language acquisition and the connections he sees between his program and the work of the early modern rationalist philosophers.
+
+
+Chomsky, N. 1968. “Quine’s Empirical Assumptions”. Synthese, 19 (1/2): 53 –68.
+
+A critique of Quine’s philosophical objections.
+
+
+Chomsky, N. 1975. The Logical Structure of Linguistic Theory. Berlin: Springer.
+
+The earliest statement of Chomsky’s theory, now somewhat outdated, originally circulated as a typescript in 1956.
+
+
+Chomsky, N. 1981. Lectures on Government and Binding. The Hague: Mouton.
+Chomsky, N. 1986. Barriers. Boston: The MIT Press.
+Chomsky, N. 1986. Knowledge of Language: its Nature, Origin and Use. Westport, CN: Praeger.
+
+Contains Chomsky’s response to “Kripkenstein”, as well as the first discussion of languages.
+
+
+Chomsky, N. 1988. Language and Problems of Knowledge: The Managua Lectures. Cambridge, MA: MIT Press.
+
+A series of lectures for a popular audience that introduces Chomsky’s linguistic work.
+
+
+Chomsky, N. 1995. The Minimalist Program. Boston: MIT Press.
+Chomsky, N. 1997. “Language and Problems of Knowledge”. Teorema. (16)2: 5 –33.
+
+This is probably the best short introduction to Chomsky’s ideas on the nature and acquisition of language, especially the E-language/I-language distinction.
+
+
+Chomsky, N. 2000. New Horizons in the Study of Language and Mind. Cambridge: Cambridge University Press.
+
+It is philosophically interesting in that it contains a significant discussion of Chomsky’s views on contemporary trends in the philosophy of language, particularly his rejection of “externalist” theories of meaning.
+
+
+Hauser, M.; Chomsky, N.; Fitch, T. 2002. “The Faculty of Language: What Is It, Who Has It, and How Did It Evolve”. Science. 198: 1569 –1579.
+
+A good summary of directions in generative linguistics, including proposals about the structure of the language faculty in terms of FLN/FLB.
+
+
+Chomsky, N. 2006. Language and Mind. Cambridge: Cambridge University Press.
+
+Also contains valuable historical context.
+
+
+Chomsky, N. 2014. “Science, Mind and Limits of Understanding”. The Science and Faith Foundation, https://chomsky.info/201401/. The Vatican.
+Berwick, R. and Chomsky, N. 2016. Why Only Us: Language and Evolution. Boston: MIT Press.
+
+It is valuable as a non-technical look at the current state of Chomsky’s theories as well as a discussion of the evolutionary development of language.
+
+
+Keating, B. 2020. “Noam Chomsky: Is it Possible to Communicate with Extraterrestrials”. YouTube. https://www.youtube.com/watch?v=n7mvUw37g-U.
+
+Chomsky discusses hypothetical extraterrestrial languages and the possibility of communicating with aliens.
+
+
+Chomsky, N., Roberts, I., and Watumull, J. “Noam Chomsky: The False Promise of ChatGPT”. New York Times. March 8, 2023.
+
+For someone interested in exploring Chomsky’s linguistic theories in depth, the following are a few key works tracing their development (along with Aspects, listed above).
+
+
+
+b. Secondary Sources
+There is a vast secondary literature surrounding Chomsky that seeks to explain, develop, and often criticize his theories. The following is a small sampling of works interesting to non-specialists. After a list of sources that cover Chomsky’s work in general, sources that are relevant to more specific aspects are listed by the section of this article they were referenced in or apply to.
+
+General: 
+
+Cook, V. and Newsom, M. 1996. Chomsky’s Universal Grammar: An Introduction.  Malden, MA: Blackwell.
+
+Very clear introduction to Chomsky’s theories and their importance to linguistic science. The first three chapters are especially valuable to non-specialists.
+
+
+Rey, G. 2020. Representation of Language: Philosophical Issues in a Chomskyan Linguistics. Oxford: Oxford University Press.
+
+A useful and thorough overview of the philosophical implications of Chomsky’s theories, particularly regarding the philosophy of science and the philosophy of mind, as well as a summary of the core linguistic theory.
+
+
+Scholz, B., Pelletier, F., Pullum, G., and Nedft, R. 2022. “Philosophy of Linguistics”, The Stanford Encyclopedia of Philosophy, Edward N. Zalta (ed.).
+
+This article is an excellent critical comparison of Chomsky’s theories on language and linguistic science with the major rival approaches.
+
+
+
+
+Life:
+
+Rai, M. 1995. Chomsky’s Politics. London: Verso.
+Cohen, J., and Rogers, J. 1991. “Knowledge, Morality and Hope: The Social Thought of Noam Chomsky.” New Left Review. I/187: 5–27.
+
+
+Philosophy of Linguistics:
+
+Bloomfield, L. 1933. Language. New York: Holt, Rinehart, and Winston.
+Hockett, C. 1960. “The Origin of Speech”. Scientific American. 203: 88 –111.
+Quine, W. 1960. Word and Object. Cambridge, MA: MIT University Press.
+Skinner, B. 1957. Verbal Behavior. New York: Appleton-Century-Crofts.
+
+
+The Development of Chomsky’s Linguistic Theory:
+
+Baker, M. 2001. The Atoms of Language. New York: Basic Books
+
+Easily readable presentation of Principles and Parameters Theory.
+
+
+Harris, R. 2021. The Linguistics Wars. Oxford: Oxford University Press.
+Liao, D., et al.  2022. “Recursive Sequence Generation in Crows”. Science Advances. 8(44).
+
+Summarizes recent challenges to Chomsky’s claim that recursion is uniquely human.
+
+
+Tomalin, M. 2006. Linguistics and the Formal Sciences: The Origins of Generative Grammar. Cambridge, UK: University of Cambridge Press.
+
+Provides as interesting historical background connecting Chomsky’s early work with  contemporary developments in logic and mathematics.
+
+
+
+
+Technical:
+Generative Grammar:
+
+Lasnik, H. 1999. Minimalist Analysis. Malden, MA: Blackwell
+Lasnik, H. 2000. Syntactic Structures Revisited. Cambridge, MA. MIT University Press
+Lasnik, H. and Uriagereka, J. 1988. A Course in GB Syntax. Cambridge, MA. MIT University Press.
+
+
+Language and Languages:
+Criticisms of Universal Grammar:
+
+Evans, N. and Levinson, S. 2009. “The Myth of Language Universals: Language Diversity and its Importance for Cognitive Science”. Behavioral and Brain Sciences 32(5) pages 429 –492.
+Levinson, S. 2016. “Language and Mind: Let’s Get the Issues Straight!”. Making Sense of Language (Blum, S., ed.). Oxford: Oxford University Press pages 68 –80.
+
+Relevant to the debate over the I-language/E-language distinction:
+
+
+Devitt, M. 2022. Overlooking Conventions: The Trouble with Linguistic Pragmatism. Oxford: Oxford University Press.
+Dummet, M. 1986. “’A nice derangement of epitaphs: Some comments on Davidson and Hacking”. Truth and Interpretation (Lepore, E. ed.). Oxford: Blackwell.
+Katz, J. 1981. Language and Other Abstract Objects. Lanham, MD: Rowman and Littlefield.
+Katz, J. 1985. The Philosophy of Linguistics. Oxford: Oxford University Press.
+Lewis, D. 1969. Convention: A Philosophical Study. Cambridge, MA: Harvard University Press.
+Soames, S. 1984. “Linguistics and Psychology”. Linguistics and Philosophy 7: 155 –179.
+
+
+Meaning and Analyticity:
+
+Davidson, D. 1967. “Truth and Meaning”. Synthese 17(3): 304 –323.
+Fodor, J. 1998. Concepts: Where Cognitive Science Went Wrong. Cambridge, MA: MIT   University Press.
+Katz, J. 1990. The Metaphysics of Meaning. Oxford: Oxford University Press.
+Pietroski, P. 2005. “Meaning Before Truth”. Contextualism in Philosophy: Knowledge, Meaning and Truth. Oxford: Oxford University Press.
+Putnam, H. 1962. “It Ain’t Necessarily So.” Journal of Philosophy LIX: 658 –671.
+Quine, W. 1953. “Two Dogmas of Empiricism”. From a Logical Point of View. Cambridge, MA: Harvard University Press.
+Rey, G. 2022. “The Analytic/Synthetic Distinction. The Stanford Encyclopedia of Philosophy (Spring 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.).
+
+See especially the supplement specifically on Chomsky and analyticity.
+
+
+Waismann, F. 1945. “Verifiability”. Proceedings of the Aristotelian Society 19.
+
+
+Language Acquisition and the Theory of Innate Concepts:
+
+Fodor, J. 1975. The Language of Thought. Scranton, PA: Crowell.
+Jerne, N. “The Generative Grammar of the Immune System”. Science. 229 pages 1057 –1059.
+Putnam, H. 1988. Representation and Reality. Cambridge, MA: MIT University Press.
+
+
+“Kripkenstein” and Rule-Following:
+
+Kripke, S. 1982. Wittgenstein on Rules and Private Language. Cambridge, MA: Harvard University Press.
+Wittgenstein, L. 1953. Philosophical Investigations (Anscombe, G. translator). Oxford: Blackwell.
+
+
+On Pirahã:
+
+Everett, D. 2005. “Cultural Constraints on Grammar and Cognition in Pirahã”. Current Anthropology 46(4): 621–646.
+
+The original claim that a language without recursion had been identified, allegedly showing Universal Grammar to be false.
+
+
+Hornstein, N. and Robinson, J. 2016. “100 Ways to Misrepresent Noam Chomsky”. Current Affairs.
+
+Representative responses to Everett from those in Chomsky’s camp assert that even if his claims are correct, they would not represent a counterexample to Universal Grammar.
+
+
+McWhorter, J. 2016. “The bonfire of Noam Chomsky: journalist Tom Wolfe targets the  acclaimed linguist”. Vox.
+
+Linguist John McWhorter provides a very understandable summary of the issues and assesses the often incautious way that the case has been handled in the popular press.
+
+
+Nevins, A., Pesetsky, D., Rodrigues, C. 2009. “Pirahã Exceptionality: A Reassessment”. Language 85(2): 355 –404.
+
+Technical article criticizing Everett’s assessment of Pirahã syntax.
+
+
+
+
+Other:
+
+Lakoff, G. 1971. “On Generative Semantics”. Semantics (Steinberg, G. and Jacobovits, I. ed.). Cambridge, UK: Cambridge University Press.
+
+An important work critical of Chomsky’s “autonomy of syntax”.
+
+
+Cognitive Science and Philosophy of Mind.
+Rey, G. 1997. Contemporary Philosophy of Mind. Hoboken: Wiley-Blackwell.
+
+Covers Chomsky’s contributions in this area, particularly regarding the downfall of behaviorism and the development of the computational theory of mind.
+
+
+
+
+
+ 
+Author Information
+Casey A. Enos
+Email: cenos@georgiasouthern.edu
+Georgia Southern University
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+

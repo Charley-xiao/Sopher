@@ -1,0 +1,404 @@
+
+
+
+
+
+
+
+
+
+Epistemology | Internet Encyclopedia of Philosophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Encyclopedia of Philosophy
+
+Search
+
+
+Primary Menu
+Skip to content
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epistemology
+Epistemology is the study of knowledge. Epistemologists concern themselves with a number of tasks, which we might sort into two categories.
+First, we must determine the nature of knowledge; that is, what does it mean to say that someone knows, or fails to know, something? This is a matter of understanding what knowledge is, and how to distinguish between cases in which someone knows something and cases in which someone does not know something. While there is some general agreement about some aspects of this issue, we shall see that this question is much more difficult than one might imagine.
+Second, we must determine the extent of human knowledge; that is, how much do we, or can we, know? How can we use our reason, our senses, the testimony of others, and other resources to acquire knowledge? Are there limits to what we can know? For instance, are some things unknowable? Is it possible that we do not know nearly as much as we think we do? Should we have a legitimate worry about skepticism, the view that we do not or cannot know anything at all?
+Although this article provides an overview of the important issues, it leaves the most basic questions unanswered; epistemology will continue to be an area of philosophical discussion as long as these questions remain.
+Table of Contents
+
+Kinds of Knowledge
+The Nature of Propositional Knowledge
+
+Belief
+Truth
+Justification
+The Gettier Problem
+
+The No-False-Belief Condition
+The No-Defeaters Condition
+Causal Accounts of Knowledge
+
+
+
+
+The Nature of Justification
+
+Internalism
+
+Foundationalism
+Coherentism
+
+
+Externalism
+
+
+The Extent of Human Knowledge
+
+Sources of Knowledge
+Skepticism
+Cartesian Skepticism
+Humean Skepticism
+
+Numerical vs. Qualitative Identity
+Hume’s Skepticism about Induction
+
+
+
+
+Conclusion
+References and Further Reading
+
+ 1. Kinds of Knowledge
+The term “epistemology” comes from the Greek “episteme,” meaning “knowledge,” and “logos,” meaning, roughly, “study, or science, of.” “Logos” is the root of all terms ending in “-ology” – such as psychology, anthropology – and of “logic,” and has many other related meanings.
+The word “knowledge” and its cognates are used in a variety of ways. One common use of the word “know” is as an expression of psychological conviction. For instance, we might hear someone say, “I just knew it wouldn’t rain, but then it did.” While this may be an appropriate usage, philosophers tend to use the word “know” in a factive sense, so that one cannot know something that is not the case. (This point is discussed at greater length in section 2b below.)
+Even if we restrict ourselves to factive usages, there are still multiple senses of “knowledge,” and so we need to distinguish between them. One kind of knowledge is procedural knowledge, sometimes called competence or “know-how;” for example, one can know how to ride a bicycle, or one can know how to drive from Washington, D.C. to New York. Another kind of knowledge is acquaintance knowledge or familiarity; for instance, one can know the department chairperson, or one can know Philadelphia.
+Epistemologists typically do not focus on procedural or acquaintance knowledge, however, instead preferring to focus on propositional knowledge. A proposition is something which can be expressed by a declarative sentence, and which purports to describe a fact or a state of affairs, such as “Dogs are mammals,” “2+2=7,” “It is wrong to murder innocent people for fun.” (Note that a proposition may be true or false; that is, it need not actually express a fact.) Propositional knowledge, then, can be called knowledge-that; statements of propositional knowledge (or the lack thereof) are properly expressed using “that”-clauses, such as “He knows that Houston is in Texas,” or “She does not know that the square root of 81 is 9.” In what follows, we will be concerned only with propositional knowledge.
+Propositional knowledge, obviously, encompasses knowledge about a wide range of matters: scientific knowledge, geographical knowledge, mathematical knowledge, self-knowledge, and knowledge about any field of study whatever. Any truth might, in principle, be knowable, although there might be unknowable truths. One goal of epistemology is to determine the criteria for knowledge so that we can know what can or cannot be known, in other words, the study of epistemology fundamentally includes the study of meta-epistemology (what we can know about knowledge itself).
+We can also distinguish between different types of propositional knowledge, based on the source of that knowledge. Non-empirical or  a priori knowledge is possible independently of, or prior to, any experience, and requires only the use of reason; examples include knowledge of logical truths such as the law of non-contradiction, as well as knowledge of abstract claims (such as ethical claims or claims about various conceptual matters). Empirical or  a posteriori knowledge is possible only subsequent, or posterior, to certain sense experiences (in addition to the use of reason); examples include knowledge of the color or shape of a physical object or knowledge of geographical locations. (Some philosophers, called rationalists, believe that all knowledge is ultimately grounded upon reason; others, called empiricists, believe that all knowledge is ultimately grounded upon experience.) A thorough epistemology should, of course, address all kinds of knowledge, although there might be different standards for a priori and a posteriori knowledge.
+We can also distinguish between individual knowledge and collective knowledge. Social epistemology is the subfield of epistemology that addresses the way that groups, institutions, or other collective bodies might come to acquire knowledge.
+ 2. The Nature of Propositional Knowledge
+Having narrowed our focus to propositional knowledge, we must ask ourselves what, exactly, constitutes knowledge. What does it mean for someone to know something? What is the difference between someone who knows something and someone else who does not know it, or between something one knows and something one does not know? Since the scope of knowledge is so broad, we need a general characterization of knowledge, one which is applicable to any kind of proposition whatsoever. Epistemologists have usually undertaken this task by seeking a correct and complete analysis of the concept of knowledge, in other words a set of individually necessary and jointly sufficient conditions which determine whether someone knows something.
+ a. Belief
+Let us begin with the observation that knowledge is a mental state; that is, knowledge exists in one’s mind, and unthinking things cannot know anything. Further, knowledge is a specific kind of mental state. While “that”-clauses can also be used to describe desires and intentions, these cannot constitute knowledge. Rather, knowledge is a kind of belief. If one has no beliefs about a particular matter, one cannot have knowledge about it.
+For instance, suppose that I desire that I be given a raise in salary, and that I intend to do whatever I can to earn one. Suppose further that I am doubtful as to whether I will indeed be given a raise, due to the intricacies of the university’s budget and such. Given that I do not believe that I will be given a raise, I cannot be said to know that I will. Only if I am inclined to believe something can I come to know it. Similarly, thoughts that an individual has never entertained are not among his beliefs, and thus cannot be included in his body of knowledge.
+Some beliefs, those which the individual is actively entertaining, are called occurrent beliefs. The majority of an individual’s beliefs are non-occurrent; these are beliefs that the individual has in the background but is not entertaining at a particular time. Correspondingly, most of our knowledge is non-occurrent, or background, knowledge; only a small amount of one’s knowledge is ever actively on one’s mind.
+ b. Truth
+Knowledge, then, requires belief. Of course, not all beliefs constitute knowledge. Belief is necessary but not sufficient for knowledge. We are all sometimes mistaken in what we believe; in other words, while some of our beliefs are true, others are false. As we try to acquire knowledge, then, we are trying to increase our stock of true beliefs (while simultaneously minimizing our false beliefs).
+We might say that the most typical purpose of beliefs is to describe or capture the way things actually are; that is, when one forms a belief, one is seeking a match between one’s mind and the world. (We sometimes, of course, form beliefs for other reasons – to create a positive attitude, to deceive ourselves, and so forth – but when we seek knowledge, we are trying to get things right.) And, alas, we sometimes fail to achieve such a match; some of our beliefs do not describe the way things actually are.
+Note that we are assuming here that there is such a thing as objective truth, so that it is possible for beliefs to match or to fail to match with reality. That is, in order for someone to know something, there must be something one knows about. Recall that we are discussing knowledge in the factive sense; if there are no facts of the matter, then there’s nothing to know (or to fail to know). This assumption is not universally accepted – in particular, it is not shared by some proponents of relativism – but it will not be defended here. However, we can say that truth is a condition of knowledge; that is, if a belief is not true, it cannot constitute knowledge. Accordingly, if there is no such thing as truth, then there can be no knowledge. Even if there is such a thing as truth, if there is a domain in which there are no truths, then there can be no knowledge within that domain. (For example, if beauty is in the eye of the beholder, then a belief that something is beautiful cannot be true or false, and thus cannot constitute knowledge.)
+ c. Justification
+Knowledge, then, requires factual belief. However, this does not suffice to capture the nature of knowledge. Just as knowledge requires successfully achieving the objective of true belief, it also requires success with regard to the formation of that belief. In other words, not all true beliefs constitute knowledge; only true beliefs arrived at in the right way constitute knowledge.
+What, then, is the right way of arriving at beliefs? In addition to truth, what other properties must a belief have in order to constitute knowledge? We might begin by noting that sound reasoning and solid evidence seem to be the way to acquire knowledge. By contrast, a lucky guess cannot constitute knowledge. Similarly, misinformation and faulty reasoning do not seem like a recipe for knowledge, even if they happen to lead to a true belief. A belief is said to be justified if it is obtained in the right way. While justification seems, at first glance, to be a matter of a belief’s being based on evidence and reasoning rather than on luck or misinformation, we shall see that there is much disagreement regarding how to spell out the details.
+The requirement that knowledge involve justification does not necessarily mean that knowledge requires absolute certainty, however. Humans are fallible beings, and fallibilism is the view that it is possible to have knowledge even when one’s true belief might have turned out to be false. Between beliefs which were necessarily true and those which are true solely by luck lies a spectrum of beliefs with regard to which we had some defeasible reason to believe that they would be true. For instance, if I heard the weatherman say that there is a 90% chance of rain, and as a result I formed the belief that it would rain, then my true belief that it would rain was not true purely by luck. Even though there was some chance that my belief might have been false, there was a sufficient basis for that belief for it to constitute knowledge. This basis is referred to as the justification for that belief. We can then say that, to constitute knowledge, a belief must be both true and justified.
+Note that because of luck, a belief can be unjustified yet true; and because of human fallibility, a belief can be justified yet false. In other words, truth and justification are two independent conditions of beliefs. The fact that a belief is true does not tell us whether or not it is justified; that depends on how the belief was arrived at. So, two people might hold the same true belief, but for different reasons, so that one of them is justified and the other is unjustified. Similarly, the fact that a belief is justified does not tell us whether it’s true or false. Of course, a justified belief will presumably be more likely to be true than to be false, and justified beliefs will presumably be more likely or more probable to be true than unjustified beliefs. (As we will see in section 3 below, the exact nature of the relationship between truth and justification is contentious.)
+ d. The Gettier Problem
+For some time, the justified true belief (JTB) account was widely agreed to capture the nature of knowledge. However, in 1963, Edmund Gettier published a short but widely influential article which has shaped much subsequent work in epistemology. Gettier provided two examples in which someone had a true and justified belief, but in which we seem to want to deny that the individual has knowledge, because luck still seems to play a role in his belief having turned out to be true.
+Consider an example. Suppose that the clock on campus (which keeps accurate time and is well maintained) stopped working at 11:56pm last night, and has yet to be repaired. On my way to my noon class, exactly twelve hours later, I glance at the clock and form the belief that the time is 11:56. My belief is true, of course, since the time is indeed 11:56. And my belief is justified, as I have no reason to doubt that the clock is working, and I cannot be blamed for basing beliefs about the time on what the clock says. Nonetheless, it seems evident that I do not know that the time is 11:56. After all, if I had walked past the clock a bit earlier or a bit later, I would have ended up with a false belief rather than a true one.
+This example and others like it, while perhaps somewhat far-fetched, seem to show that it is possible for justified true belief to fail to constitute knowledge. To put it another way, the justification condition was meant to ensure that knowledge was based on solid evidence rather than on luck or misinformation, but Gettier-type examples seem to show that justified true belief can still involve luck and thus fall short of knowledge. This problem is referred to as “the Gettier problem.” To solve this problem, we must either show that all instances of justified true belief do indeed constitute knowledge, or alternatively refine our analysis of knowledge.
+ i. The No-False-Belief Condition
+We might think that there is a simple and straightforward solution to the Gettier problem. Note that my reasoning was tacitly based on my belief that the clock is working properly, and that this belief is false. This seems to explain what has gone wrong in this example. Accordingly, we might revise our analysis of knowledge by insisting that to constitute knowledge, a belief must be true and justified and must be formed without relying on any false beliefs. In other words, we might say, justification, truth, and belief are all necessary for knowledge, but they are not jointly sufficient for knowledge; there is a fourth condition – namely, that no false beliefs be essentially involved in the reasoning that led to the belief – which is also necessary.
+Unfortunately, this will not suffice; we can modify the example so that my belief is justified and true, and is not based on any false beliefs, but still falls short of knowledge. Suppose, for instance, that I do not have any beliefs about the clock’s current state, but merely the more general belief that the clock usually is in working order. This belief, which is true, would suffice to justify my belief that the time is now 11:56; of course, it still seems evident that I do not know the time.
+ ii. The No-Defeaters Condition
+However, the no-false-belief condition does not seem to be completely misguided; perhaps we can add some other condition to justification and truth to yield a correct characterization of knowledge. Note that, even if I didn’t actively form the belief that the clock is currently working properly, it seems to be implicit in my reasoning, and the fact that it is false is surely relevant to the problem. After all, if I were asked, at the time that I looked at the clock, whether it is working properly, I would have said that it is. Conversely, if I believed that the clock wasn’t working properly, I wouldn’t be justified in forming a belief about the time based on what the clock says.
+In other words, the proposition that the clock is working properly right now meets the following conditions: it is a false proposition, I do not realize that it is a false proposition, and if I had realized that it is a false proposition, my justification for my belief that it is 11:56 would have been undercut or defeated. If we call propositions such as this “defeaters,” then we can say that to constitute knowledge, a belief must be true and justified, and there must not be any defeaters to the justification of that belief. Many epistemologists believe this analysis to be correct.
+ iii. Causal Accounts of Knowledge
+Rather than modifying the JTB account of knowledge by adding a fourth condition, some epistemologists see the Gettier problem as reason to seek a substantially different alternative. We have noted that knowledge should not involve luck, and that Gettier-type examples are those in which luck plays some role in the formation of a justified true belief. In typical instances of knowledge, the factors responsible for the justification of a belief are also responsible for its truth. For example, when the clock is working properly, my belief is both true and justified because it’s based on the clock, which accurately displays the time. But one feature that all Gettier-type examples have in common is the lack of a clear connection between the truth and the justification of the belief in question. For example, my belief that the time is 11:56 is justified because it’s based on the clock, but it’s true because I happened to walk by at just the right moment. So, we might insist that to constitute knowledge, a belief must be both true and justified, and its truth and justification must be connected somehow.
+This notion of a connection between the truth and the justification of a belief turns out to be difficult to formulate precisely, but causal accounts of knowledge seek to capture the spirit of this proposal by more significantly altering the analysis of knowledge. Such accounts maintain that in order for someone to know a proposition, there must be a causal connection between his belief in that proposition and the fact that the proposition encapsulates. This retains the truth condition, since a proposition must be true in order for it to encapsulate a fact. However, it appears to be incompatible with fallibilism, since it does not allow for the possibility that a belief be justified yet false. (Strictly speaking, causal accounts of knowledge make no reference to justification, although we might attempt to reformulate fallibilism in somewhat modified terms in order to state this observation.)
+While causal accounts of knowledge are no longer thought to be correct, they have engendered reliabilist theories of knowledge, which shall be discussed in section 3b below.
+ 3. The Nature of Justification
+One reason that the Gettier problem is so problematic is that neither Gettier nor anyone who preceded him has offered a sufficiently clear and accurate analysis of justification. We have said that justification is a matter of a belief’s having been formed in the right way, but we have yet to say what that amounts to. We must now consider this matter more closely.
+We have noted that the goal of our belief-forming practices is to obtain truth while avoiding error, and that justification is the feature of beliefs which are formed in such a way as to best pursue this goal. If we think, then, of the goal of our belief-forming practices as an attempt to establish a match between one’s mind and the world, and if we also think of the application or withholding of the justification condition as an evaluation of whether this match was arrived at in the right way, then there seem to be two obvious approaches to construing justification: namely, in terms of the believer’s mind, or in terms of the world.
+ a. Internalism
+Belief is a mental state, and belief-formation is a mental process. Accordingly, one might reason, whether or not a belief is justified – whether, that is, it is formed in the right way – can be determined by examining the thought-processes of the believer during its formation. Such a view, which maintains that justification depends solely on factors internal to the believer’s mind, is called internalism. (The term “internalism” has different meanings in other contexts; here, it will be used strictly to refer to this type of view about epistemic justification.)
+According to internalism, the only factors that are relevant to the determination of whether a belief is justified are the believer’s other mental states. After all, an internalist will argue, only an individual’s mental states – her beliefs about the world, her sensory inputs (for example, her sense data) and her beliefs about the relations between her various beliefs – can determine what new beliefs she will form, so only an individual’s mental states can determine whether any particular belief is justified. In particular, in order to be justified, a belief must be appropriately based upon or supported by other mental states.
+This raises the question of what constitutes the basing or support relation between a belief and one’s other mental states. We might want to say that, in order for belief A to be appropriately based on belief B (or beliefs B1 and B2, or B1, B2, and…Bn), the truth of B must suffice to establish the truth of A, in other words, B must entail A. (We shall consider the relationship between beliefs and sensory inputs below.) However, if we want to allow for our fallibility, we must instead say that the truth of B would give one good reason to believe that A is also true (by making it likely or probable that A is true). An elaboration of what counts as a good reason for belief, accordingly, is an essential part of any internalist account of justification.
+However, there is an additional condition that we must add: belief B must itself be justified, since unjustified beliefs cannot confer justification on other beliefs. Because belief B be must also be justified, must there be some justified belief C upon which B is based? If so, C must itself be justified, and it may derive its justification from some further justified belief, D. This chain of beliefs deriving their justification from other beliefs may continue forever, leading us in an infinite regress. While the idea of an infinite regress might seem troubling, the primary ways of avoiding such a regress may have their own problems as well. This raises the “regress problem,” which begins from observing that there are only four possibilities as to the structure of one’s justified beliefs:
+
+The series of justified beliefs, each based upon the other, continues infinitely.
+The series of justified beliefs circles back to its beginning (A is based on B, B on C, C on D, and D on A).
+The series of justified beliefs begins with an unjustified belief.
+The series of justified beliefs begins with a belief which is justified, but not by virtue of being based on another justified belief.
+
+These alternatives seem to exhaust the possibilities. That is, if one has any justified beliefs, one of these four possibilities must describe the relationships between those beliefs. As such, a complete internalist account of justification must decide among the four.
+ i. Foundationalism
+Let us, then, consider each of the four possibilities mentioned above. Alternative 1 seems unacceptable because the human mind can contain only finitely many beliefs, and any thought-process that leads to the formation of a new belief must have some starting point. Alternative 2 seems no better, since circular reasoning appears to be fallacious. And alternative 3 has already been ruled out, since it renders the second belief in the series (and, thus, all subsequent beliefs) unjustified. That leaves alternative 4, which must, by process of elimination, be correct.
+This line of reasoning, which is typically known as the regress argument, leads to the conclusion that there are two different kinds of justified beliefs: those which begin a series of justified beliefs, and those which are based on other justified beliefs. The former, called basic beliefs, are able to confer justification on other, non-basic beliefs, without themselves having their justification conferred upon them by other beliefs. As such, there is an asymmetrical relationship between basic and non-basic beliefs. Such a view of the structure of justified belief is known as “foundationalism.” In general, foundationalism entails that there is an asymmetrical relationship between any two beliefs: if A is based on B, then B cannot be based on A.
+Accordingly, it follows that at least some beliefs (namely basic beliefs) are justified in some way other than by way of a relation to other beliefs. Basic beliefs must be self-justified, or must derive their justification from some non-doxastic source such as sensory inputs; the exact source of the justification of basic beliefs needs to be explained by any complete foundationalist account of justification.
+ ii. Coherentism
+Internalists might be dissatisfied with foundationalism, since it allows for the possibility of beliefs that are justified without being based upon other beliefs. Since it was our solution to the regress problem that led us to foundationalism, and since none of the alternatives seem palatable, we might look for a flaw in the problem itself. Note that the problem is based on a pivotal but hitherto unstated assumption: namely, that justification is linear in fashion. That is, the statement of the regress problem assumes that the basing relation parallels a logical argument, with one belief being based on one or more other beliefs in an asymmetrical fashion.
+So, an internalist who finds foundationalism to be problematic might deny this assumption, maintaining instead that justification is the result of a holistic relationship among beliefs. That is, one might maintain that beliefs derive their justification by inclusion in a set of beliefs which cohere with one another as a whole; a proponent of such a view is called a coherentist.
+A coherentist, then, sees justification as a relation of mutual support among many beliefs, rather than a series of asymmetrical beliefs. A belief derives its justification, according to coherentism, not by being based on one or more other beliefs, but by virtue of its membership in a set of beliefs that all fit together in the right way. (The coherentist needs to specify what constitutes coherence, of course. It must be something more than logical consistency, since two unrelated beliefs may be consistent. Rather, there must be some positive support relationship – for instance, some sort of explanatory relationship – between the members of a coherent set in order for the beliefs to be individually justified.)
+Coherentism is vulnerable to the “isolation objection”. It seems possible for a set of beliefs to be coherent, but for all of those beliefs to be isolated from reality. Consider, for instance, a work of fiction. All of the statements in the work of fiction might form a coherent set, but presumably believing all and only the statements in a work of fiction will not render one justified. Indeed, any form of internalism seems vulnerable to this objection, and thus a complete internalist account of justification must address it. Recall that justification requires a match between one’s mind and the world, and an inordinate emphasis on the relations between the beliefs in one’s mind seems to ignore the question of whether those beliefs match up with the way things actually are.
+ b. Externalism
+Accordingly, one might think that focusing solely on factors internal to the believer’s mind will inevitably lead to a mistaken account of justification. The alternative, then, is that at least some factors external to the believer’s mind determine whether or not she is justified. A proponent of such a view is called an externalist.
+According to externalism, the only way to avoid the isolation objection and ensure that knowledge does not include luck is to consider some factors other than the individual’s other beliefs. Which factors, then, should be considered? The most prominent version of externalism, called reliabilism, suggests that we consider the source of a belief. Beliefs can be formed as a result of many different sources, such as sense experience, reason, testimony, memory. More precisely, we might specify which sense was used, who provided the testimony, what sort of reasoning is used, or how recent the relevant memory is. For every belief, we can indicate the cognitive process that led to its formation. In its simplest and most straightforward form, reliabilism maintains that whether or not a belief is justified depends upon whether that process is a reliable source of true beliefs. Since we are seeking a match between our mind and the world, justified beliefs are those which result from processes which regularly achieve such a match. So, for example, using vision to determine the color of an object which is well-lit and relatively near is a reliable belief-forming process for a person with normal vision, but not for a color-blind person. Forming beliefs on the basis of the testimony of an expert is likely to yield true beliefs, but forming beliefs on the basis of the testimony of compulsive liars is not. In general, if a belief is the result of a cognitive process which reliably (most of the time – we still want to leave room for human fallibility) leads to true beliefs, then that belief is justified.
+The foregoing suggests one immediate challenge for reliabilism. The formation of a belief is a one-time event, but the reliability of the process depends upon the long-term performance of that process. (This can include counterfactual as well as actual events. For instance, a coin which is flipped only once and lands on heads nonetheless has a 50% chance of landing on tails, even though its actual performance has yielded heads 100% of the time.) And this requires that we specify which process is being used, so that we can evaluate its performance in other instances. However, cognitive processes can be described in more or less general terms: for example, the same belief-forming process might be variously described as sense experience, vision, vision by a normally-sighted person, vision by a normally-sighted person in daylight, vision by a normally-sighted person in daylight while looking at a tree, vision by a normally-sighted person in daylight while looking at an elm tree, and so forth. The “generality problem” notes that some of these descriptions might specify a reliable process but others might specify an unreliable process, so that we cannot know whether a belief is justified or unjustified unless we know the appropriate level of generality to use in describing the process.
+Even if the generality problem can be solved, another problem remains for externalism. Keith Lehrer presents this problem by way of his example of Mr. Truetemp. Truetemp has, unbeknownst to him, had a tempucomp – a device which accurately reads the temperature and causes a spontaneous belief about that temperature – implanted in his brain. As a result, he has many true beliefs about the temperature, but he does not know why he has them or what their source is. Lehrer argues that, although Truetemp’s belief-forming process is reliable, his ignorance of the tempucomp renders his temperature-beliefs unjustified, and thus that a reliable cognitive process cannot yield justification unless the believer is aware of the fact that the process is reliable. In other words, the mere fact that the process is reliable does not suffice, Lehrer concludes, to justify any beliefs which are formed via that process.
+ 4. The Extent of Human Knowledge
+ a. Sources of Knowledge
+Given the above characterization of knowledge, there are many ways that one might come to know something. Knowledge of empirical facts about the physical world will necessarily involve perception, in other words, the use of the senses. Science, with its collection of data and conducting of experiments, is the paradigm of empirical knowledge. However, much of our more mundane knowledge comes from the senses, as we look, listen, smell, touch, and taste the various objects in our environments.
+But all knowledge requires some amount of reasoning. Data collected by scientists must be analyzed before knowledge is yielded, and we draw inferences based on what our senses tell us. And knowledge of abstract or non-empirical facts will exclusively rely upon reasoning. In particular, intuition is often believed to be a sort of direct access to knowledge of the a priori.
+Once knowledge is obtained, it can be sustained and passed on to others. Memory allows us to know something that we knew in the past, even, perhaps, if we no longer remember the original justification. Knowledge can also be transmitted from one individual to another via testimony; that is, my justification for a particular belief could amount to the fact that some trusted source has told me that it is true.
+ b. Skepticism
+In addition to the nature of knowledge, epistemologists concern themselves with the question of the extent of human knowledge: how much do we, or can we, know? Whatever turns out to be the correct account of the nature of knowledge, there remains the matter of whether we actually have any knowledge. It has been suggested that we do not, or cannot, know anything, or at least that we do not know as much as we think we do. Such a view is called skepticism.
+We can distinguish between a number of different varieties of skepticism. First, one might be a skeptic only with regard to certain domains, such as mathematics, morality, or the external world (this is the most well-known variety of skepticism). Such a skeptic is a local skeptic, as contrasted with a global skeptic, who maintains that we cannot know anything at all. Also, since knowledge requires that our beliefs be both true and justified, a skeptic might maintain that none of our beliefs are true or that none of them are justified (the latter is much more common than the former).
+While it is quite easy to challenge any claim to knowledge by glibly asking, “How do you know?”, this does not suffice to show that skepticism is an important position. Like any philosophical stance, skepticism must be supported by an argument. Many arguments have been offered in defense of skepticism, and many responses to those arguments have been offered in return. Here, we shall consider two of the most prominent arguments in support of skepticism about the external world.
+ c. Cartesian Skepticism
+In the first of his Meditations, René Descartes offers an argument in support of skepticism, which he then attempts to refute in the later Meditations. The argument notes that some of our perceptions are inaccurate. Our senses can trick us; we sometimes mistake a dream for a waking experience, and it is possible that an evil demon is systematically deceiving us. (The modern version of the evil demon scenario is that you are a brain-in-a-vat, because scientists have removed your brain from your skull, connected it to a sophisticated computer, and immersed it in a vat of preservative fluid. The computer produces what seem to be genuine sense experiences, and also responds to your brain’s output to make it seem that you are able to move about in your environment as you did when your brain was still in your body. While this scenario may seem far-fetched, we must admit that it is at least possible.)
+As a result, some of our beliefs will be false. In order to be justified in believing what we do, we must have some way to distinguish between those beliefs which are true (or, at least, are likely to be true) and those which are not. But just as there are no signs that will allow us to distinguish between waking and dreaming, there are no signs that will allow us to distinguish between beliefs that are accurate and beliefs which are the result of the machinations of an evil demon. This indistinguishability between trustworthy and untrustworthy belief, the argument goes, renders all of our beliefs unjustified, and thus we cannot know anything. A satisfactory response to this argument, then, must show either that we are indeed able to distinguish between true and false beliefs, or that we need not be able to make such a distinction.
+ d. Humean Skepticism
+According to the indistinguishability skeptic, my senses can tell me how things appear, but not how they actually are. We need to use reason to construct an argument that leads us from beliefs about how things appear to (justified) beliefs about how they are. But even if we are able to trust our perceptions, so that we know that they are accurate, David Hume argues that the specter of skepticism remains. Note that we only perceive a very small part of the universe at any given moment, although we think that we have knowledge of the world beyond that which we are currently perceiving. It follows, then, that the senses alone cannot account for this knowledge, and that reason must supplement the senses in some way in order to account for any such knowledge. However, Hume argues, reason is incapable of providing justification for any belief about the external world beyond the scope of our current sense perceptions. Let us consider two such possible arguments and Hume’s critique of them.
+ i. Numerical vs. Qualitative Identity
+We typically believe that the external world is, for the most part, stable. For instance, I believe that my car is parked where I left it this morning, even though I am not currently looking at it. If I were to go peek out the window right now and see my car, I might form the belief that my car has been in the same space all day. What is the basis for this belief? If asked to make my reasoning explicit, I might proceed as follows:
+I have had two sense-experiences of my car: one this morning and one just now.
+The two sense-experiences were (more or less) identical.
+Therefore, it is likely that the objects that caused them are identical.
+Therefore, a single object – my car – has been in that parking space all day.
+Similar reasoning would undergird all of our beliefs about the persistence of the external world and all of the objects we perceive. But are these beliefs justified? Hume thinks not, since the above argument (and all arguments like it) contains an equivocation. In particular, the first occurrence of “identical” refers to qualitative identity. The two sense-experiences are not one and the same, but are distinct; when we say that they are identical we mean that one is similar to the other in all of its qualities or properties. But the second occurrence of “identical” refers to numerical identity. When we say that the objects that caused the two sense-experiences are identical, we mean that there is one object, rather than two, that is responsible for both of them. This equivocation, Hume argues, renders the argument fallacious; accordingly, we need another argument to support our belief that objects persist even when we are not observing them.
+ ii. Hume’s Skepticism about Induction
+Suppose that a satisfactory argument could be found in support of our beliefs in the persistence of physical objects. This would provide us with knowledge that the objects that we have observed have persisted even when we were not observing them. But in addition to believing that these objects have persisted up until now, we believe that they will persist in the future; we also believe that objects we have never observed similarly have persisted and will persist. In other words, we expect the future to be roughly like the past, and the parts of the universe that we have not observed to be roughly like the parts that we have observed. For example, I believe that my car will persist into the future. What is the basis for this belief? If asked to make my reasoning explicit, I might proceed as follows:
+My car has always persisted in the past.
+Nature is roughly uniform across time and space (and thus the future will be roughly like the past).
+Therefore, my car will persist in the future.
+Similar reasoning would undergird all of our beliefs about the future and about the unobserved. Are such beliefs justified? Again, Hume thinks not, since the above argument, and all arguments like it, contain an unsupported premise, namely the second premise, which might be called the Principle of the Uniformity of Nature (PUN). Why should we believe this principle to be true? Hume insists that we provide some reason in support of this belief. Because the above argument is an inductive rather than a deductive argument, the problem of showing that it is a good argument is typically referred to as the “problem of induction.” We might think that there is a simple and straightforward solution to the problem of induction, and that we can indeed provide support for our belief that PUN is true. Such an argument would proceed as follows:
+PUN has always been true in the past.
+Nature is roughly uniform across time and space (and thus the future will be roughly like the past).
+Therefore, PUN will be true in the future.
+This argument, however, is circular; its second premise is PUN itself! Accordingly, we need another argument to support our belief that PUN is true, and thus to justify our inductive arguments about the future and the unobserved.
+ 5. Conclusion
+The study of knowledge is one of the most fundamental aspects of philosophical inquiry. Any claim to knowledge must be evaluated to determine whether or not it indeed constitutes knowledge. Such an evaluation essentially requires an understanding of what knowledge is and how much knowledge is possible. While this article provides on overview of the important issues, it leaves the most basic questions unanswered; epistemology will continue to be an area of philosophical discussion as long as these questions remain.
+ 6. References and Further Reading
+
+Alston, William P., 1989. Epistemic Justification: Essays in the Theory of Knowledge. Ithaca, NY: Cornell University Press.
+Armstrong, David, 1973. Belief, Truth, and Knowledge. Cambridge: Cambridge University Press.
+
+A defense of reliabilism.
+
+
+BonJour, Laurence, 1985. The Structure of Empirical Knowledge. Cambridge, MA: Harvard University Press.
+
+A defense of coherentism.
+
+
+Chisholm, Roderick, 1966. Theory of Knowledge, Englewood Cliffs, NJ: Prentice-Hall.
+Chisholm, Roderick, 1977. Theory of Knowledge, 2nd edition. Englewood Cliffs, NJ: Prentice-Hall.
+Chisholm, Roderick, 1989. Theory of Knowledge, 3rd edition. Englewood Cliffs, NJ: Prentice-Hall.
+
+Chisholm was one of the first authors to provide a systematic analysis of knowledge. His account of justification is foundationalist.
+
+
+Descartes, Rene, 1641. Meditations on First Philosophy. Reprinted in The Philosophical Writings of Descartes (3 volumes). Cottingham, Stoothoff and Murdoch, trans. Cambridge: Cambridge University Press.
+
+Descartes presents an infallibilist version of foundationalism, and attempts to refute skepticism.
+
+
+Dancy, Jonathan and Ernest Sosa (eds.), 1993. A Companion to Epistemology. Oxford: Blackwell.
+DeRose, Keith, 1995. “Solving the Skeptical Problem” Philosophical Review, 104, pp. 1-52.
+DeRose Keith and Ted Warfield (eds.), 1999. Skepticism: A Contemporary Reader. Oxford: Oxford University Press.
+Feldman, Richard and Earl Conee, 1985. “Evidentialism.” Philosophical Studies, 48, pp. 15-34.
+
+The authors present and defend an (internalist) account of justification according to which a belief is justified or unjustified in virtue of the believer’s evidence.
+
+
+Gettier, Edmund, 1963. “Is Justified True Belief Knowledge?” Analysis, 23, pp. 121-123.
+
+In which the Gettier problem is introduced.
+
+
+Goldman, Alvin, 1976. “A Causal Theory of Knowing.” Journal of Philosophy, 64, pp. 357-372.
+Goldman, Alvin, 1986. Epistemology and Cognition. Cambridge: Harvard University Press.
+
+Perhaps the most important defense of reliabilism.
+
+
+Haack, Susan, 1991. “A Foundherentist Theory of Empirical Justification,” In Theory of Knowledge: Classical and Contemporary Sources (3rd ed.), Pojman, Louis (ed.), Belmont, CA: Wadsworth.
+
+An attempt to combine coherentism and foundationalism into an internalist account of justification which is superior to either of the two.
+
+
+Hume, David, 1739. A Treatise on Human Nature. Oxford: Oxford University Press.
+Hume, David, 1751. An Enquiry Concerning Human Understanding. Indianapolis: Hackett.
+Lehrer, Keith, 2000. Theory of Knowledge (2nd ed.). Boulder, CO: Westview.
+
+A defense of coherentism. This is also where we find the Truetemp example.
+
+
+Lehrer, Keith and Stewart Cohen, 1983. “Justification, Truth, and Coherence.” Synthese, 55, pp. 191-207.
+Lewis, David, 1996. “Elusive Knowledge” Australasian Journal of Philosophy, 74, pp. 549-567.
+Locke, John, 1689. An Essay Concerning Human Understanding. Oxford: Clarendon.
+Plato, Meno and Theaetetus. In Complete Works. J. Cooper, ed. Indianapolis: Hackett.
+
+Plato presents and defends a version of the JTB analysis of knowledge.
+
+
+Pollock, John and Joseph Cruz, 1999. Contemporary Theories of Knowledge (2nd ed.). Lanham, MD: Rowman and Littlefield.
+
+A defense of non-doxastic foundationalism, in which the basic states are percepts rather than beliefs.
+
+
+Russell, Bertrand, 1912. Problems of Philosophy.
+
+Russell presents a Gettier-type example, which was largely overlooked for many years.
+
+
+
+Author Information
+David A. Truncellito
+Email: truncell@aya.yale.edu
+U. S. A.
+
+
+
+
+
+An encyclopedia of philosophy articles written by professional philosophers.
+
+About
+Editors
+Desired Articles
+Submissions
+Volunteer
+ 
+
+Stay Connected 
+  
+  
+  
+
+Browse by TopicBrowse by Topic
+Select Category
+History of Philosophy
+   17th Century European
+   18th Century European
+   19th Century European
+   Ancient Philosophy
+   History Misc.
+   History of Analytic
+   Medieval Philosophy
+   Philosophers
+   Renaissance Philosophy
+Metaphysics & Epistemology
+   Epistemology
+   Metaphysics
+   Mind & Cognitive Science
+   Philosophy of Language
+   Philosophy of Religion
+   Uncategorized
+Philosophical Traditions
+   American Philosophy
+   Chinese Philosophy
+   Continental Philosophy
+   Feminist Philosophy
+   Indian Philosophy
+   Islamic Philosophy
+   Tradition Misc.
+Science, Logic, & Mathematics
+   Logic
+   Philosophy of Mathematics
+   Philosophy of Science
+Value Theory
+   Aesthetics
+   Bioethics
+   Ethics
+   Philosophy of Law
+   Political Philosophy
+   Value Misc.
+
+
+ 
+
+
+
+
+© Copyright Internet Encyclopedia of Philosophy and its Authors  | ISSN 2161-0002
+			
+
+
+
+
+
+
+
